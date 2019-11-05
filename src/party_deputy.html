@@ -1,0 +1,23 @@
+<head>
+  <style> body { margin: 0; } </style>
+
+  <script src="../vendor/3d-force-graph-vr.min.js"></script>
+</head>
+
+<body>
+  <div id="3d-graph"></div>
+
+  <script src="../data/party_deputy_graph.js"></script>
+  <script>
+
+    const Graph = ForceGraphVR()
+      (document.getElementById('3d-graph'))
+        .graphData(graphData)
+        .nodeLabel('name')
+        .nodeAutoColorBy('group')
+        .nodeResolution(16)
+        .d3VelocityDecay(0.1)
+        .linkDirectionalParticles("value")
+        .linkDirectionalParticleSpeed(d => d.value * 0.001);
+  </script>
+</body>
