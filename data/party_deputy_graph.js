@@ -7,6 +7,26 @@ const graphData = {
             "val": 517
         },
         {
+            "id": 1919191919,
+            "name": "Voltar",
+            "color": '#ff4444',
+            "group": 1,
+            "val": 500000
+        },
+        {
+            "id": 1919191920,
+            "name": "Visualizar",
+            "group": 1,
+            "val": 0
+        },
+        {
+            "id": 1919191921,
+            "name": "Visualizar2",
+            "group": 1,
+            "color": "#fff64d",
+            "val": 500000
+        },
+        {
             "id": 37906,
             "name": "Partido Liberal",
             "val": 38,

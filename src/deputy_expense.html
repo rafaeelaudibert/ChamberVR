@@ -1,7 +1,9 @@
 <head>
   <style> body { margin: 0; } </style>
-
-  <script src="../vendor/3d-force-graph-vr.min.js"></script>
+  
+  <script src="https://unpkg.com/three"></script>
+  <script src="https://unpkg.com/3d-force-graph-vr"></script>
+  <!-- <script src="../vendor/3d-force-graph-vr.min.js"></script> -->
 </head>
 
 <body>
@@ -13,11 +15,16 @@
     const Graph = ForceGraphVR()
       (document.getElementById('3d-graph'))
         .graphData(graphData)
+        .nodeThreeObject(({ img }) => {
+          const imgTexture = new THREE.TextureLoader().load(`http://localhost:5500/assets/photos/92776.jpg`);
+          const material = new THREE.SpriteMaterial({ map: imgTexture });
+          const sprite = new THREE.Sprite(material);
+          sprite.scale.set(25, 25);
+          return sprite;
+        })
         .nodeLabel('name')
         .nodeAutoColorBy('group')
         .nodeResolution(16)
-        .d3VelocityDecay(0.1)
-        .linkDirectionalParticles("value")
-        .linkDirectionalParticleSpeed(d => d.value * 0.001);
+        .d3VelocityDecay(0.1);
   </script>
 </body>

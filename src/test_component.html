@@ -1,0 +1,31 @@
+<head>
+  <style> body { margin: 0; } </style>
+
+  <script src="https://unpkg.com/three"></script>
+  <script src="https://unpkg.com/3d-force-graph-vr"></script>
+  <script>
+    const render_img = ({id: img, val}) => {
+          const imgTexture = new THREE.TextureLoader().load(`http://localhost:5500/assets/photos/${img}.jpg`);
+          const material = new THREE.SpriteMaterial({ map: imgTexture });
+          const sprite = new THREE.Sprite(material);
+          sprite.scale.set(Math.log(val * 1000), Math.log(val * 1000));
+          return sprite;
+        };
+
+    const hover_node = node => console.log(node);
+  </script>
+</head>
+
+<body>
+    <a-scene stats>
+        <a-entity vive-controls="hand: left"></a-entity>
+        <a-entity vive-controls="hand: right"></a-entity>
+        <a-camera wasd-controls="fly: true; acceleration: 3000">
+            <a-cursor color="lavender" opacity="0.5"></a-cursor>
+        </a-camera>
+        <a-sky color="#002"></a-sky>
+
+        <a-entity forcegraph="json-url: /data/party_deputy_graph.json; on-node-center-hover: hover_node; node-three-object: render_img; node-label: description; node-desc: user; node-auto-color-by: user"></a-entity>
+    </a-scene>
+  
+</body>
