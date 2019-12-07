@@ -1,11 +1,11 @@
 <head>
   <style> body { margin: 0; } </style>
 
-  <src="https://unpkg.com/three"></src>
-  <src="https://unpkg.com/3d-force-graph-vr"></src>
-  <src>
-    const render_img = ({id: img, val}) => {
-          const imgTexture = new THREE.TextureLoader().load(`http://localhost:5500/assets/photos/${img}.jpg`);
+  <script src="https://unpkg.com/three"></script>
+  <script src="https://unpkg.com/3d-force-graph-vr"></script>
+  <script>
+    const render_img = ({id: img, val, type}) => {
+          const imgTexture = new THREE.TextureLoader().load(`http://localhost:5500/assets/photos/${type}/${img}.jpg`);
           const material = new THREE.SpriteMaterial({ map: imgTexture });
           const sprite = new THREE.Sprite(material);
           sprite.scale.set(25, 25);
@@ -13,7 +13,7 @@
         };
 
     const hover_node = node => console.log(node);
-  </src>
+  </script>
 </head> 
 
 <body>
