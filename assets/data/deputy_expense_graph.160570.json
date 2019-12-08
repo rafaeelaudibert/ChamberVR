@@ -1,0 +1,1713 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "JERÔNIMO GOERGEN"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CLARO S/A - NET",
+			"name": "CLARO S/A - NET",
+			"val": 0.5857804572050945,
+			"desc": 29.88,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 25411,
+			"name": 29.88,
+			"val": 1.475380593143361,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": "OI S/A",
+			"name": "OI S/A",
+			"val": 27.403465726515833,
+			"desc": 721.53,
+			"group": "OI S/A"
+		},
+		{
+			"id": 25366,
+			"name": 269.37,
+			"val": 2.430349226279516,
+			"group": "OI S/A"
+		},
+		{
+			"id": 25412,
+			"name": 80.91,
+			"val": 1.9080022011725537,
+			"group": "OI S/A"
+		},
+		{
+			"id": 25413,
+			"name": 283.99,
+			"val": 2.453303047718583,
+			"group": "OI S/A"
+		},
+		{
+			"id": 25365,
+			"name": 87.26,
+			"val": 1.9408152086508013,
+			"group": "OI S/A"
+		},
+		{
+			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"val": 8.004936024733697,
+			"desc": 251.04,
+			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
+		},
+		{
+			"id": 25423,
+			"name": 31.64,
+			"val": 1.500236474825639,
+			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
+		},
+		{
+			"id": 25425,
+			"name": 49.9,
+			"val": 1.69810054562339,
+			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
+		},
+		{
+			"id": 25372,
+			"name": 63.28,
+			"val": 1.8012664704896202,
+			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
+		},
+		{
+			"id": 25424,
+			"name": 106.22,
+			"val": 2.0262062970831183,
+			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 95.76828965592115,
+			"desc": 2161.29,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25401,
+			"name": 254.98,
+			"val": 2.406506116785802,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25398,
+			"name": 249.76,
+			"val": 2.397522885718342,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25356,
+			"name": 242.02,
+			"val": 2.3838512566033105,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25400,
+			"name": 236.61,
+			"val": 2.3740330955456876,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25357,
+			"name": 246.17,
+			"val": 2.39123512565331,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25355,
+			"name": 226.54,
+			"val": 2.355144896174567,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25403,
+			"name": 266.75,
+			"val": 2.4261044280965076,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25399,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 25402,
+			"name": 238.46,
+			"val": 2.3774155396185144,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "POSTO 70 COMBUSTIVEIS LTDA",
+			"name": "POSTO 70 COMBUSTIVEIS LTDA",
+			"val": 4.68673515779195,
+			"desc": 160.02,
+			"group": "POSTO 70 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 25354,
+			"name": 160.02,
+			"val": 2.2041742660735197,
+			"group": "POSTO 70 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "SINPETAXI",
+			"name": "SINPETAXI",
+			"val": 3.6994181850886987,
+			"desc": 131.41,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 25437,
+			"name": 55.41,
+			"val": 1.7435881501599038,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 25438,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 25439,
+			"name": 16,
+			"val": 1.2041199826559248,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 15.188829905711188,
+			"desc": 433.48,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 25364,
+			"name": 29.23,
+			"val": 1.4658288153574364,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 25363,
+			"name": 178.45,
+			"val": 2.251516552291679,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 25409,
+			"name": 101.2,
+			"val": 2.0051805125037805,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 25362,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 25410,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A. VIVO",
+			"name": "TELEFONICA BRASIL S.A. VIVO",
+			"val": 121.46946905284413,
+			"desc": 2668.11,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 25415,
+			"name": 1334.71,
+			"val": 3.1253869143289115,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 25368,
+			"name": 1333.4,
+			"val": 3.124960450789545,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": "CEEE",
+			"name": "CEEE",
+			"val": 104.44959196877814,
+			"desc": 2333.86,
+			"group": "CEEE"
+		},
+		{
+			"id": 25383,
+			"name": 1262.92,
+			"val": 3.1013758409282928,
+			"group": "CEEE"
+		},
+		{
+			"id": 25347,
+			"name": 1070.94,
+			"val": 3.0297651399272354,
+			"group": "CEEE"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 232.7030054814226,
+			"desc": 4761.76,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 25445,
+			"name": 1619.39,
+			"val": 3.209351453108477,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 25444,
+			"name": 986.39,
+			"val": 2.9940486607421426,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 25378,
+			"name": 873.39,
+			"val": 2.941208215098853,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 25379,
+			"name": -831.19,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 25446,
+			"name": 1097.39,
+			"val": 3.0403609983563182,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 25443,
+			"name": 1016.39,
+			"val": 3.007060383487557,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "TP EMPRESA JORNALÍSTICA LTDA ME",
+			"name": "TP EMPRESA JORNALÍSTICA LTDA ME",
+			"val": 26.46339111313052,
+			"desc": 700,
+			"group": "TP EMPRESA JORNALÍSTICA LTDA ME"
+		},
+		{
+			"id": 25361,
+			"name": 700,
+			"val": 2.845098040014257,
+			"group": "TP EMPRESA JORNALÍSTICA LTDA ME"
+		},
+		{
+			"id": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"name": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"val": 2.4965451311657603,
+			"desc": 95,
+			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 25420,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 18.97596458636232,
+			"desc": 525,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 25393,
+			"name": 225,
+			"val": 2.3521825181113627,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 25394,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 25395,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 25392,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 8.113862911104926,
+			"desc": 253.93,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 25419,
+			"name": 67.56,
+			"val": 1.8296896408989711,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 25418,
+			"name": 67.56,
+			"val": 1.8296896408989711,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 25416,
+			"name": 67.56,
+			"val": 1.8296896408989711,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 25417,
+			"name": 51.25,
+			"val": 1.709693869727792,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
+			"name": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
+			"val": 34.21047359019259,
+			"desc": 875.1,
+			"group": "RBS ZERO HORA EDITORA JORNALISTICA S-A"
+		},
+		{
+			"id": 25370,
+			"name": 875.1,
+			"val": 2.942057683841395,
+			"group": "RBS ZERO HORA EDITORA JORNALISTICA S-A"
+		},
+		{
+			"id": "SINTAXI/DF",
+			"name": "SINTAXI/DF",
+			"val": 2.8526382727347963,
+			"desc": 106,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 25442,
+			"name": 28,
+			"val": 1.4471580313422192,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 25441,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 25440,
+			"name": 28,
+			"val": 1.4471580313422192,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": "RADIO MAGIA LTDA",
+			"name": "RADIO MAGIA LTDA",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "RADIO MAGIA LTDA"
+		},
+		{
+			"id": 25408,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "RADIO MAGIA LTDA"
+		},
+		{
+			"id": "MIRIAM GONÇALVES DE SOUZA",
+			"name": "MIRIAM GONÇALVES DE SOUZA",
+			"val": 472.8855342997584,
+			"desc": 9000,
+			"group": "MIRIAM GONÇALVES DE SOUZA"
+		},
+		{
+			"id": 25385,
+			"name": 4500,
+			"val": 3.6532125137753435,
+			"group": "MIRIAM GONÇALVES DE SOUZA"
+		},
+		{
+			"id": 25349,
+			"name": 4500,
+			"val": 3.6532125137753435,
+			"group": "MIRIAM GONÇALVES DE SOUZA"
+		},
+		{
+			"id": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
+			"name": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
+			"val": 1.0163353999144904,
+			"desc": 46,
+			"group": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL"
+		},
+		{
+			"id": 25436,
+			"name": 46,
+			"val": 1.662757831681574,
+			"group": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL"
+		},
+		{
+			"id": "Dinamize Informática Ltda",
+			"name": "Dinamize Informática Ltda",
+			"val": 11.355626570712777,
+			"desc": 337.94,
+			"group": "Dinamize Informática Ltda"
+		},
+		{
+			"id": 25360,
+			"name": 337.94,
+			"val": 2.5288395997391966,
+			"group": "Dinamize Informática Ltda"
+		},
+		{
+			"id": "N J PEREIRA - EPP",
+			"name": "N J PEREIRA - EPP",
+			"val": 1.0835666435661682,
+			"desc": 48.4,
+			"group": "N J PEREIRA - EPP"
+		},
+		{
+			"id": 25429,
+			"name": 28.5,
+			"val": 1.4548448600085102,
+			"group": "N J PEREIRA - EPP"
+		},
+		{
+			"id": 25428,
+			"name": 19.9,
+			"val": 1.2988530764097066,
+			"group": "N J PEREIRA - EPP"
+		},
+		{
+			"id": "ABASTECEDORA ABM LTDA",
+			"name": "ABASTECEDORA ABM LTDA",
+			"val": 7.104281453776911,
+			"desc": 226.94,
+			"group": "ABASTECEDORA ABM LTDA"
+		},
+		{
+			"id": 25350,
+			"name": 226.94,
+			"val": 2.355911050526753,
+			"group": "ABASTECEDORA ABM LTDA"
+		},
+		{
+			"id": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP",
+			"name": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP",
+			"val": 123.1064318729325,
+			"desc": 2700,
+			"group": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP"
+		},
+		{
+			"id": 25376,
+			"name": 2700,
+			"val": 3.4313637641589874,
+			"group": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.2781457630041957,
+			"desc": 88.14,
+			"group": "RAMAL"
+		},
+		{
+			"id": 25414,
+			"name": 38.8,
+			"val": 1.5888317255942073,
+			"group": "RAMAL"
+		},
+		{
+			"id": 25367,
+			"name": 49.34,
+			"val": 1.6931991451537172,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
+			"name": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
+			"val": 111.84236538535833,
+			"desc": 2479.67,
+			"group": "CREDITO REAL, IMO. E CONDOMÍNIOS SA"
+		},
+		{
+			"id": 25348,
+			"name": 1231.91,
+			"val": 3.090578980611594,
+			"group": "CREDITO REAL, IMO. E CONDOMÍNIOS SA"
+		},
+		{
+			"id": 25384,
+			"name": 1247.76,
+			"val": 3.0961310591451854,
+			"group": "CREDITO REAL, IMO. E CONDOMÍNIOS SA"
+		},
+		{
+			"id": "RESTAURANTE C C LTDA",
+			"name": "RESTAURANTE C C LTDA",
+			"val": 0.2344134357365111,
+			"desc": 15,
+			"group": "RESTAURANTE C C LTDA"
+		},
+		{
+			"id": 25374,
+			"name": 15,
+			"val": 1.1760912590556813,
+			"group": "RESTAURANTE C C LTDA"
+		},
+		{
+			"id": "LAGOA PARQUE HOTEL LTDA ME",
+			"name": "LAGOA PARQUE HOTEL LTDA ME",
+			"val": 11.910879719041313,
+			"desc": 352,
+			"group": "LAGOA PARQUE HOTEL LTDA ME"
+		},
+		{
+			"id": 25432,
+			"name": 158,
+			"val": 2.1986570869544226,
+			"group": "LAGOA PARQUE HOTEL LTDA ME"
+		},
+		{
+			"id": 25427,
+			"name": 36,
+			"val": 1.5563025007672873,
+			"group": "LAGOA PARQUE HOTEL LTDA ME"
+		},
+		{
+			"id": 25431,
+			"name": 158,
+			"val": 2.1986570869544226,
+			"group": "LAGOA PARQUE HOTEL LTDA ME"
+		},
+		{
+			"id": "POSTO ROTA 80 LTDA",
+			"name": "POSTO ROTA 80 LTDA",
+			"val": 5.813697338630941,
+			"desc": 191.68,
+			"group": "POSTO ROTA 80 LTDA"
+		},
+		{
+			"id": 25359,
+			"name": 121.51,
+			"val": 2.0846120208652517,
+			"group": "POSTO ROTA 80 LTDA"
+		},
+		{
+			"id": 25358,
+			"name": 70.17,
+			"val": 1.8461514765288154,
+			"group": "POSTO ROTA 80 LTDA"
+		},
+		{
+			"id": "TITAO COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "TITAO COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 5.018916387267197,
+			"desc": 169.45,
+			"group": "TITAO COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 25406,
+			"name": 169.45,
+			"val": 2.2290415731733972,
+			"group": "TITAO COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "NEIVA M.R.DEGASPERI",
+			"name": "NEIVA M.R.DEGASPERI",
+			"val": 4.546090984570043,
+			"desc": 156,
+			"group": "NEIVA M.R.DEGASPERI"
+		},
+		{
+			"id": 25433,
+			"name": 78,
+			"val": 1.8920946026904804,
+			"group": "NEIVA M.R.DEGASPERI"
+		},
+		{
+			"id": 25434,
+			"name": 78,
+			"val": 1.8920946026904804,
+			"group": "NEIVA M.R.DEGASPERI"
+		},
+		{
+			"id": "PILECCO, PAIM & CIA LTDA",
+			"name": "PILECCO, PAIM & CIA LTDA",
+			"val": 7.731401827742763,
+			"desc": 243.76,
+			"group": "PILECCO, PAIM & CIA LTDA"
+		},
+		{
+			"id": 25353,
+			"name": 243.76,
+			"val": 2.3869624412146173,
+			"group": "PILECCO, PAIM & CIA LTDA"
+		},
+		{
+			"id": "ABASTECEDORA DE COMBUSTIVEIS INTER PRAIAS LTDA",
+			"name": "ABASTECEDORA DE COMBUSTIVEIS INTER PRAIAS LTDA",
+			"val": 5.832112762620054,
+			"desc": 192.19,
+			"group": "ABASTECEDORA DE COMBUSTIVEIS INTER PRAIAS LTDA"
+		},
+		{
+			"id": 25387,
+			"name": 192.19,
+			"val": 2.2837307867778813,
+			"group": "ABASTECEDORA DE COMBUSTIVEIS INTER PRAIAS LTDA"
+		},
+		{
+			"id": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA",
+			"name": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA",
+			"val": 6.536772195621858,
+			"desc": 211.55,
+			"group": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA"
+		},
+		{
+			"id": 25422,
+			"name": 15.8,
+			"val": 1.1986570869544226,
+			"group": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA"
+		},
+		{
+			"id": 25421,
+			"name": 100.75,
+			"val": 2.003245054813147,
+			"group": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA"
+		},
+		{
+			"id": 25369,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA"
+		},
+		{
+			"id": "POSTO GAROUPA LTDA",
+			"name": "POSTO GAROUPA LTDA",
+			"val": 3.9146717083177847,
+			"desc": 137.73,
+			"group": "POSTO GAROUPA LTDA"
+		},
+		{
+			"id": 25404,
+			"name": 137.73,
+			"val": 2.139028547485683,
+			"group": "POSTO GAROUPA LTDA"
+		},
+		{
+			"id": "DINAMIZE INFORMATICA LTDA",
+			"name": "DINAMIZE INFORMATICA LTDA",
+			"val": 11.355626570712777,
+			"desc": 337.94,
+			"group": "DINAMIZE INFORMATICA LTDA"
+		},
+		{
+			"id": 25407,
+			"name": 337.94,
+			"val": 2.5288395997391966,
+			"group": "DINAMIZE INFORMATICA LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 90.17919312034401,
+			"desc": 2049.35,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 25382,
+			"name": 846.39,
+			"val": 2.9275705235823266,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 25380,
+			"name": 487.98,
+			"val": 2.6884020226837917,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 25381,
+			"name": 714.98,
+			"val": 2.8542938935337783,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "AUTO POSTO CAPITAL LTDA",
+			"name": "AUTO POSTO CAPITAL LTDA",
+			"val": 32.927409826794225,
+			"desc": 846.4399999999999,
+			"group": "AUTO POSTO CAPITAL LTDA"
+		},
+		{
+			"id": 25390,
+			"name": 175.35,
+			"val": 2.243905770217521,
+			"group": "AUTO POSTO CAPITAL LTDA"
+		},
+		{
+			"id": 25351,
+			"name": 254.07,
+			"val": 2.4049533875862443,
+			"group": "AUTO POSTO CAPITAL LTDA"
+		},
+		{
+			"id": 25389,
+			"name": 235.62,
+			"val": 2.372212151654062,
+			"group": "AUTO POSTO CAPITAL LTDA"
+		},
+		{
+			"id": 25352,
+			"name": 181.4,
+			"val": 2.2586372827240764,
+			"group": "AUTO POSTO CAPITAL LTDA"
+		},
+		{
+			"id": "REST E CHURRASCARIA DO REGIS LTDA",
+			"name": "REST E CHURRASCARIA DO REGIS LTDA",
+			"val": 0.08720671786825555,
+			"desc": 7.5,
+			"group": "REST E CHURRASCARIA DO REGIS LTDA"
+		},
+		{
+			"id": 25373,
+			"name": 7.5,
+			"val": 0.8750612633917001,
+			"group": "REST E CHURRASCARIA DO REGIS LTDA"
+		},
+		{
+			"id": "POSTO JAPONES EIRELI",
+			"name": "POSTO JAPONES EIRELI",
+			"val": 6.628165227855414,
+			"desc": 214.04,
+			"group": "POSTO JAPONES EIRELI"
+		},
+		{
+			"id": 25405,
+			"name": 214.04,
+			"val": 2.330494942302217,
+			"group": "POSTO JAPONES EIRELI"
+		},
+		{
+			"id": "AUTO ABASTECEDORA PAPAGAIO LTDA",
+			"name": "AUTO ABASTECEDORA PAPAGAIO LTDA",
+			"val": 3.822161991807366,
+			"desc": 135.02,
+			"group": "AUTO ABASTECEDORA PAPAGAIO LTDA"
+		},
+		{
+			"id": 25388,
+			"name": 135.02,
+			"val": 2.1303981036528015,
+			"group": "AUTO ABASTECEDORA PAPAGAIO LTDA"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA",
+			"name": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA",
+			"val": 6.479966234839543,
+			"desc": 210,
+			"group": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA"
+		},
+		{
+			"id": 25396,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA"
+		},
+		{
+			"id": "RESTAURANTE E LANCHERIA CASA CHEIA LTDA",
+			"name": "RESTAURANTE E LANCHERIA CASA CHEIA LTDA",
+			"val": 0.9913080173175906,
+			"desc": 45.1,
+			"group": "RESTAURANTE E LANCHERIA CASA CHEIA LTDA"
+		},
+		{
+			"id": 25375,
+			"name": 45.1,
+			"val": 1.6541765418779606,
+			"group": "RESTAURANTE E LANCHERIA CASA CHEIA LTDA"
+		},
+		{
+			"id": "POSTO COMB. MORMACO",
+			"name": "POSTO COMB. MORMACO",
+			"val": 4.100608398300126,
+			"desc": 143.15,
+			"group": "POSTO COMB. MORMACO"
+		},
+		{
+			"id": 25397,
+			"name": 143.15,
+			"val": 2.1557913523576175,
+			"group": "POSTO COMB. MORMACO"
+		},
+		{
+			"id": "SUPERMERCADO SANTI LTDA",
+			"name": "SUPERMERCADO SANTI LTDA",
+			"val": 0.28660014007511636,
+			"desc": 17.39,
+			"group": "SUPERMERCADO SANTI LTDA"
+		},
+		{
+			"id": 25430,
+			"name": 17.39,
+			"val": 1.2402995820027125,
+			"group": "SUPERMERCADO SANTI LTDA"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 25391,
+			"name": 190,
+			"val": 2.278753600952829,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA",
+			"name": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA",
+			"val": 762.4165890539072,
+			"desc": 13854.04,
+			"group": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA"
+		},
+		{
+			"id": 25377,
+			"name": 6927.02,
+			"val": 3.8405464415529784,
+			"group": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA"
+		},
+		{
+			"id": 25435,
+			"name": 6927.02,
+			"val": 3.8405464415529784,
+			"group": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 14.908373401265356,
+			"desc": 426.6,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 25386,
+			"name": 426.6,
+			"val": 2.63002085111341,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"val": 0.8288306198036098,
+			"desc": 39.16,
+			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
+		},
+		{
+			"id": 25426,
+			"name": 39.16,
+			"val": 1.5928426831311002,
+			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
+		},
+		{
+			"id": "CELSO PRODOCIMO",
+			"name": "CELSO PRODOCIMO",
+			"val": 0.64,
+			"desc": 32,
+			"group": "CELSO PRODOCIMO"
+		},
+		{
+			"id": 25371,
+			"name": 32,
+			"val": 1.505149978319906,
+			"group": "CELSO PRODOCIMO"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CLARO S/A - NET",
+			"value": 29.88
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 25411,
+			"value": 29.88
+		},
+		{
+			"source": -100,
+			"target": "OI S/A",
+			"value": 721.53
+		},
+		{
+			"source": "OI S/A",
+			"target": 25366,
+			"value": 269.37
+		},
+		{
+			"source": "OI S/A",
+			"target": 25412,
+			"value": 80.91
+		},
+		{
+			"source": "OI S/A",
+			"target": 25413,
+			"value": 283.99
+		},
+		{
+			"source": "OI S/A",
+			"target": 25365,
+			"value": 87.26
+		},
+		{
+			"source": -100,
+			"target": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"value": 251.04
+		},
+		{
+			"source": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"target": 25423,
+			"value": 31.64
+		},
+		{
+			"source": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"target": 25425,
+			"value": 49.9
+		},
+		{
+			"source": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"target": 25372,
+			"value": 63.28
+		},
+		{
+			"source": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"target": 25424,
+			"value": 106.22
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 2161.29
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25401,
+			"value": 254.98
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25398,
+			"value": 249.76
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25356,
+			"value": 242.02
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25400,
+			"value": 236.61
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25357,
+			"value": 246.17
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25355,
+			"value": 226.54
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25403,
+			"value": 266.75
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25399,
+			"value": 200
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 25402,
+			"value": 238.46
+		},
+		{
+			"source": -100,
+			"target": "POSTO 70 COMBUSTIVEIS LTDA",
+			"value": 160.02
+		},
+		{
+			"source": "POSTO 70 COMBUSTIVEIS LTDA",
+			"target": 25354,
+			"value": 160.02
+		},
+		{
+			"source": -100,
+			"target": "SINPETAXI",
+			"value": 131.41
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 25437,
+			"value": 55.41
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 25438,
+			"value": 60
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 25439,
+			"value": 16
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 433.48
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 25364,
+			"value": 29.23
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 25363,
+			"value": 178.45
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 25409,
+			"value": 101.2
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 25362,
+			"value": 62.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 25410,
+			"value": 62.3
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A. VIVO",
+			"value": 2668.11
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A. VIVO",
+			"target": 25415,
+			"value": 1334.71
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A. VIVO",
+			"target": 25368,
+			"value": 1333.4
+		},
+		{
+			"source": -100,
+			"target": "CEEE",
+			"value": 2333.86
+		},
+		{
+			"source": "CEEE",
+			"target": 25383,
+			"value": 1262.92
+		},
+		{
+			"source": "CEEE",
+			"target": 25347,
+			"value": 1070.94
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 4761.76
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 25445,
+			"value": 1619.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 25444,
+			"value": 986.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 25378,
+			"value": 873.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 25379,
+			"value": -831.19
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 25446,
+			"value": 1097.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 25443,
+			"value": 1016.39
+		},
+		{
+			"source": -100,
+			"target": "TP EMPRESA JORNALÍSTICA LTDA ME",
+			"value": 700
+		},
+		{
+			"source": "TP EMPRESA JORNALÍSTICA LTDA ME",
+			"target": 25361,
+			"value": 700
+		},
+		{
+			"source": -100,
+			"target": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"value": 95
+		},
+		{
+			"source": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"target": 25420,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 525
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 25393,
+			"value": 225
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 25394,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 25395,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 25392,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 253.93
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 25419,
+			"value": 67.56
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 25418,
+			"value": 67.56
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 25416,
+			"value": 67.56
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 25417,
+			"value": 51.25
+		},
+		{
+			"source": -100,
+			"target": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
+			"value": 875.1
+		},
+		{
+			"source": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
+			"target": 25370,
+			"value": 875.1
+		},
+		{
+			"source": -100,
+			"target": "SINTAXI/DF",
+			"value": 106
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 25442,
+			"value": 28
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 25441,
+			"value": 50
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 25440,
+			"value": 28
+		},
+		{
+			"source": -100,
+			"target": "RADIO MAGIA LTDA",
+			"value": 500
+		},
+		{
+			"source": "RADIO MAGIA LTDA",
+			"target": 25408,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "MIRIAM GONÇALVES DE SOUZA",
+			"value": 9000
+		},
+		{
+			"source": "MIRIAM GONÇALVES DE SOUZA",
+			"target": 25385,
+			"value": 4500
+		},
+		{
+			"source": "MIRIAM GONÇALVES DE SOUZA",
+			"target": 25349,
+			"value": 4500
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
+			"value": 46
+		},
+		{
+			"source": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
+			"target": 25436,
+			"value": 46
+		},
+		{
+			"source": -100,
+			"target": "Dinamize Informática Ltda",
+			"value": 337.94
+		},
+		{
+			"source": "Dinamize Informática Ltda",
+			"target": 25360,
+			"value": 337.94
+		},
+		{
+			"source": -100,
+			"target": "N J PEREIRA - EPP",
+			"value": 48.4
+		},
+		{
+			"source": "N J PEREIRA - EPP",
+			"target": 25429,
+			"value": 28.5
+		},
+		{
+			"source": "N J PEREIRA - EPP",
+			"target": 25428,
+			"value": 19.9
+		},
+		{
+			"source": -100,
+			"target": "ABASTECEDORA ABM LTDA",
+			"value": 226.94
+		},
+		{
+			"source": "ABASTECEDORA ABM LTDA",
+			"target": 25350,
+			"value": 226.94
+		},
+		{
+			"source": -100,
+			"target": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP",
+			"value": 2700
+		},
+		{
+			"source": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP",
+			"target": 25376,
+			"value": 2700
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 88.14
+		},
+		{
+			"source": "RAMAL",
+			"target": 25414,
+			"value": 38.8
+		},
+		{
+			"source": "RAMAL",
+			"target": 25367,
+			"value": 49.34
+		},
+		{
+			"source": -100,
+			"target": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
+			"value": 2479.67
+		},
+		{
+			"source": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
+			"target": 25348,
+			"value": 1231.91
+		},
+		{
+			"source": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
+			"target": 25384,
+			"value": 1247.76
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE C C LTDA",
+			"value": 15
+		},
+		{
+			"source": "RESTAURANTE C C LTDA",
+			"target": 25374,
+			"value": 15
+		},
+		{
+			"source": -100,
+			"target": "LAGOA PARQUE HOTEL LTDA ME",
+			"value": 352
+		},
+		{
+			"source": "LAGOA PARQUE HOTEL LTDA ME",
+			"target": 25432,
+			"value": 158
+		},
+		{
+			"source": "LAGOA PARQUE HOTEL LTDA ME",
+			"target": 25427,
+			"value": 36
+		},
+		{
+			"source": "LAGOA PARQUE HOTEL LTDA ME",
+			"target": 25431,
+			"value": 158
+		},
+		{
+			"source": -100,
+			"target": "POSTO ROTA 80 LTDA",
+			"value": 191.68
+		},
+		{
+			"source": "POSTO ROTA 80 LTDA",
+			"target": 25359,
+			"value": 121.51
+		},
+		{
+			"source": "POSTO ROTA 80 LTDA",
+			"target": 25358,
+			"value": 70.17
+		},
+		{
+			"source": -100,
+			"target": "TITAO COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 169.45
+		},
+		{
+			"source": "TITAO COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 25406,
+			"value": 169.45
+		},
+		{
+			"source": -100,
+			"target": "NEIVA M.R.DEGASPERI",
+			"value": 156
+		},
+		{
+			"source": "NEIVA M.R.DEGASPERI",
+			"target": 25433,
+			"value": 78
+		},
+		{
+			"source": "NEIVA M.R.DEGASPERI",
+			"target": 25434,
+			"value": 78
+		},
+		{
+			"source": -100,
+			"target": "PILECCO, PAIM & CIA LTDA",
+			"value": 243.76
+		},
+		{
+			"source": "PILECCO, PAIM & CIA LTDA",
+			"target": 25353,
+			"value": 243.76
+		},
+		{
+			"source": -100,
+			"target": "ABASTECEDORA DE COMBUSTIVEIS INTER PRAIAS LTDA",
+			"value": 192.19
+		},
+		{
+			"source": "ABASTECEDORA DE COMBUSTIVEIS INTER PRAIAS LTDA",
+			"target": 25387,
+			"value": 192.19
+		},
+		{
+			"source": -100,
+			"target": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA",
+			"value": 211.55
+		},
+		{
+			"source": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA",
+			"target": 25422,
+			"value": 15.8
+		},
+		{
+			"source": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA",
+			"target": 25421,
+			"value": 100.75
+		},
+		{
+			"source": "M. ROSA, SANTOS SERVICOS POSTAIS LTDA",
+			"target": 25369,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "POSTO GAROUPA LTDA",
+			"value": 137.73
+		},
+		{
+			"source": "POSTO GAROUPA LTDA",
+			"target": 25404,
+			"value": 137.73
+		},
+		{
+			"source": -100,
+			"target": "DINAMIZE INFORMATICA LTDA",
+			"value": 337.94
+		},
+		{
+			"source": "DINAMIZE INFORMATICA LTDA",
+			"target": 25407,
+			"value": 337.94
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 2049.35
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 25382,
+			"value": 846.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 25380,
+			"value": 487.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 25381,
+			"value": 714.98
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CAPITAL LTDA",
+			"value": 846.4399999999999
+		},
+		{
+			"source": "AUTO POSTO CAPITAL LTDA",
+			"target": 25390,
+			"value": 175.35
+		},
+		{
+			"source": "AUTO POSTO CAPITAL LTDA",
+			"target": 25351,
+			"value": 254.07
+		},
+		{
+			"source": "AUTO POSTO CAPITAL LTDA",
+			"target": 25389,
+			"value": 235.62
+		},
+		{
+			"source": "AUTO POSTO CAPITAL LTDA",
+			"target": 25352,
+			"value": 181.4
+		},
+		{
+			"source": -100,
+			"target": "REST E CHURRASCARIA DO REGIS LTDA",
+			"value": 7.5
+		},
+		{
+			"source": "REST E CHURRASCARIA DO REGIS LTDA",
+			"target": 25373,
+			"value": 7.5
+		},
+		{
+			"source": -100,
+			"target": "POSTO JAPONES EIRELI",
+			"value": 214.04
+		},
+		{
+			"source": "POSTO JAPONES EIRELI",
+			"target": 25405,
+			"value": 214.04
+		},
+		{
+			"source": -100,
+			"target": "AUTO ABASTECEDORA PAPAGAIO LTDA",
+			"value": 135.02
+		},
+		{
+			"source": "AUTO ABASTECEDORA PAPAGAIO LTDA",
+			"target": 25388,
+			"value": 135.02
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA",
+			"value": 210
+		},
+		{
+			"source": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA",
+			"target": 25396,
+			"value": 210
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE E LANCHERIA CASA CHEIA LTDA",
+			"value": 45.1
+		},
+		{
+			"source": "RESTAURANTE E LANCHERIA CASA CHEIA LTDA",
+			"target": 25375,
+			"value": 45.1
+		},
+		{
+			"source": -100,
+			"target": "POSTO COMB. MORMACO",
+			"value": 143.15
+		},
+		{
+			"source": "POSTO COMB. MORMACO",
+			"target": 25397,
+			"value": 143.15
+		},
+		{
+			"source": -100,
+			"target": "SUPERMERCADO SANTI LTDA",
+			"value": 17.39
+		},
+		{
+			"source": "SUPERMERCADO SANTI LTDA",
+			"target": 25430,
+			"value": 17.39
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 190
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 25391,
+			"value": 190
+		},
+		{
+			"source": -100,
+			"target": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA",
+			"value": 13854.04
+		},
+		{
+			"source": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA",
+			"target": 25377,
+			"value": 6927.02
+		},
+		{
+			"source": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA",
+			"target": 25435,
+			"value": 6927.02
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 426.6
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 25386,
+			"value": 426.6
+		},
+		{
+			"source": -100,
+			"target": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"value": 39.16
+		},
+		{
+			"source": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"target": 25426,
+			"value": 39.16
+		},
+		{
+			"source": -100,
+			"target": "CELSO PRODOCIMO",
+			"value": 32
+		},
+		{
+			"source": "CELSO PRODOCIMO",
+			"target": 25371,
+			"value": 32
+		}
+	]
+}

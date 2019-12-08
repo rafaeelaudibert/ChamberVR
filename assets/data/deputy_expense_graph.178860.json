@@ -1,0 +1,1461 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PAULO AZI"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 458.26571581444676,
+			"desc": 8748.94,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39467,
+			"name": 1500.25,
+			"val": 3.176163635438134,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39424,
+			"name": 579.39,
+			"val": 2.7629709952131045,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39421,
+			"name": 901.39,
+			"val": 2.954912735708656,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39425,
+			"name": 1966.39,
+			"val": 3.2936696569602684,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39430,
+			"name": -823.99,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39415,
+			"name": 724.49,
+			"val": 2.860032395363037,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39469,
+			"name": 837.39,
+			"val": 2.9229277702992404,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39419,
+			"name": 667.39,
+			"val": 2.824379695010779,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39468,
+			"name": 1958.39,
+			"val": 3.291899182861348,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39416,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39420,
+			"name": 501.39,
+			"val": 2.7001756678987676,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39418,
+			"name": 432.84,
+			"val": 2.636327388365988,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39428,
+			"name": -28.78,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39432,
+			"name": -1869.54,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39429,
+			"name": -77.4,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39471,
+			"name": -796.99,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39472,
+			"name": -602.24,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39423,
+			"name": 837.39,
+			"val": 2.9229277702992404,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39426,
+			"name": 632.39,
+			"val": 2.8009849938042,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39431,
+			"name": -287.45,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39422,
+			"name": 388,
+			"val": 2.5888317255942073,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39417,
+			"name": 1966.39,
+			"val": 3.2936696569602684,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39427,
+			"name": -1869.54,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39470,
+			"name": 1171.39,
+			"val": 3.0687015121937713,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 279.1249932691824,
+			"desc": 5603.919999999999,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39407,
+			"name": 473.49,
+			"val": 2.675310811236484,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39412,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39464,
+			"name": 839.49,
+			"val": 2.9240155271915356,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39410,
+			"name": 634.35,
+			"val": 2.8023289442025816,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39463,
+			"name": 1513.49,
+			"val": 3.179979555811808,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39406,
+			"name": 775.08,
+			"val": 2.8893465305907746,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39409,
+			"name": 473.49,
+			"val": 2.675310811236484,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39405,
+			"name": 1149.49,
+			"val": 3.060505197472449,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39466,
+			"name": -798.99,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39408,
+			"name": 573.49,
+			"val": 2.7585258494688767,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39414,
+			"name": -604.15,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39413,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39411,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39404,
+			"name": 693.49,
+			"val": 2.8410402030068074,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39465,
+			"name": -1439.29,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 39403,
+			"name": 1263.49,
+			"val": 3.1015718090086004,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "A B PUBLICIDADE LTDA-ME",
+			"name": "A B PUBLICIDADE LTDA-ME",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "A B PUBLICIDADE LTDA-ME"
+		},
+		{
+			"id": 39397,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "A B PUBLICIDADE LTDA-ME"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.3907956585218657,
+			"desc": 91.69,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39459,
+			"name": 42.78,
+			"val": 1.6312407802355091,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39399,
+			"name": 34,
+			"val": 1.5314789170422551,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39387,
+			"name": 14.91,
+			"val": 1.1734776434529945,
+			"group": "RAMAL"
+		},
+		{
+			"id": "AGDA MARIA OLIVEIRA RODRIGUES",
+			"name": "AGDA MARIA OLIVEIRA RODRIGUES",
+			"val": 496.8179245752243,
+			"desc": 9409.5,
+			"group": "AGDA MARIA OLIVEIRA RODRIGUES"
+		},
+		{
+			"id": 39378,
+			"name": 3136.5,
+			"val": 3.496445291873353,
+			"group": "AGDA MARIA OLIVEIRA RODRIGUES"
+		},
+		{
+			"id": 39441,
+			"name": 3136.5,
+			"val": 3.496445291873353,
+			"group": "AGDA MARIA OLIVEIRA RODRIGUES"
+		},
+		{
+			"id": 39389,
+			"name": 3136.5,
+			"val": 3.496445291873353,
+			"group": "AGDA MARIA OLIVEIRA RODRIGUES"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 10.877733872100038,
+			"desc": 325.77000000000004,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 39392,
+			"name": 100.04,
+			"val": 2.000173683058465,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 39445,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 39446,
+			"name": 125.73,
+			"val": 2.099438915553507,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"name": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": 39452,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": 39383,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 22.97434942475733,
+			"desc": 619.29,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39458,
+			"name": 223.03,
+			"val": 2.348363284385186,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39386,
+			"name": 4.78,
+			"val": 0.6794278966121189,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39385,
+			"name": 179.66,
+			"val": 2.2544513953450163,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39457,
+			"name": 160.9,
+			"val": 2.2065560440990297,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39398,
+			"name": 50.92,
+			"val": 1.7068883949816178,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "Coelba Grupo Neoenergia",
+			"name": "Coelba Grupo Neoenergia",
+			"val": 35.155410121055645,
+			"desc": 896.13,
+			"group": "Coelba Grupo Neoenergia"
+		},
+		{
+			"id": 39390,
+			"name": 546.5,
+			"val": 2.7375901662857216,
+			"group": "Coelba Grupo Neoenergia"
+		},
+		{
+			"id": 39379,
+			"name": 349.63,
+			"val": 2.543608690196552,
+			"group": "Coelba Grupo Neoenergia"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 388.5973646918374,
+			"desc": 7542.199999999999,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39474,
+			"name": 1115.08,
+			"val": 3.0473060264085796,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39435,
+			"name": 877.98,
+			"val": 2.943484622980627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39436,
+			"name": 877.98,
+			"val": 2.943484622980627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39477,
+			"name": 168.1,
+			"val": 2.225567713439471,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39438,
+			"name": 756.98,
+			"val": 2.8790844052538627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39440,
+			"name": 756.98,
+			"val": 2.8790844052538627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39473,
+			"name": 475.08,
+			"val": 2.6767667477998294,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39439,
+			"name": 587.98,
+			"val": 2.7693625539037563,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39437,
+			"name": 756.98,
+			"val": 2.8790844052538627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39476,
+			"name": 475.08,
+			"val": 2.6767667477998294,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39475,
+			"name": 693.98,
+			"val": 2.841346954583389,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
+			"name": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
+			"val": 27.33653691742946,
+			"desc": 720,
+			"group": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39450,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39449,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39393,
+			"name": 170,
+			"val": 2.230448921378274,
+			"group": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39382,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
+			"name": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
+			"val": 63.469533217482535,
+			"desc": 1503.44,
+			"group": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA"
+		},
+		{
+			"id": 39380,
+			"name": 751.72,
+			"val": 2.876056105087242,
+			"group": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA"
+		},
+		{
+			"id": 39443,
+			"name": 751.72,
+			"val": 2.876056105087242,
+			"group": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA"
+		},
+		{
+			"id": "EMIDIO SOUTO PEREIRA - EPP",
+			"name": "EMIDIO SOUTO PEREIRA - EPP",
+			"val": 2.6413765989763722,
+			"desc": 99.5,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": 39444,
+			"name": 99.5,
+			"val": 1.9978230807457256,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO",
+			"name": "TELEFONICA BRASIL SA VIVO",
+			"val": 18.207436894037286,
+			"desc": 506.62,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 39388,
+			"name": 506.62,
+			"val": 2.7046823305753107,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7",
+			"name": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7"
+		},
+		{
+			"id": 39448,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7"
+		},
+		{
+			"id": "POSTO KALILANDIA LTDA",
+			"name": "POSTO KALILANDIA LTDA",
+			"val": 18.386894135329356,
+			"desc": 510.91999999999996,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 39394,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 39453,
+			"name": 210.92,
+			"val": 2.3241177626594265,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 39395,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"val": 20.009516852978567,
+			"desc": 549.58,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 39442,
+			"name": 549.58,
+			"val": 2.7400309197434844,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 35.15361008472468,
+			"desc": 896.09,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 39461,
+			"name": 219.71,
+			"val": 2.3418498240847523,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 39460,
+			"name": 175.52,
+			"val": 2.244326610230636,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 39462,
+			"name": 500.86,
+			"val": 2.6997163491721743,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 38.21047484866103,
+			"desc": 963.7,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 39401,
+			"name": 275.2,
+			"val": 2.4396484295634737,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 39400,
+			"name": 174.87,
+			"val": 2.2427153100391073,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 39402,
+			"name": 513.63,
+			"val": 2.710650381988283,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "Posto Nota 10 Ltda",
+			"name": "Posto Nota 10 Ltda",
+			"val": 6.575290917761838,
+			"desc": 212.6,
+			"group": "Posto Nota 10 Ltda"
+		},
+		{
+			"id": 39454,
+			"name": 212.6,
+			"val": 2.327563260187278,
+			"group": "Posto Nota 10 Ltda"
+		},
+		{
+			"id": "POSTO ITAMARATY LTDA",
+			"name": "POSTO ITAMARATY LTDA",
+			"val": 6.45726230909766,
+			"desc": 209.38,
+			"group": "POSTO ITAMARATY LTDA"
+		},
+		{
+			"id": 39384,
+			"name": 209.38,
+			"val": 2.320935195468595,
+			"group": "POSTO ITAMARATY LTDA"
+		},
+		{
+			"id": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"name": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"val": 1396.8716913967914,
+			"desc": 24000,
+			"group": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": 39396,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": 39455,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": "Cia Aérea - PASSAREDO",
+			"name": "Cia Aérea - PASSAREDO",
+			"val": 59.17657226957052,
+			"desc": 1413.65,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": 39434,
+			"name": 723.57,
+			"val": 2.859480552238981,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": 39433,
+			"name": 690.08,
+			"val": 2.8388994408018764,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": "AUTO POSTO CRIOLO LTDA",
+			"name": "AUTO POSTO CRIOLO LTDA",
+			"val": 8.01661106975357,
+			"desc": 251.35,
+			"group": "AUTO POSTO CRIOLO LTDA"
+		},
+		{
+			"id": 39447,
+			"name": 251.35,
+			"val": 2.400278889564094,
+			"group": "AUTO POSTO CRIOLO LTDA"
+		},
+		{
+			"id": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"name": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": 39391,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA",
+			"name": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA"
+		},
+		{
+			"id": 39456,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA"
+		},
+		{
+			"id": "CATANA COM DE COM E LUB LTDA",
+			"name": "CATANA COM DE COM E LUB LTDA",
+			"val": 6.115448415311677,
+			"desc": 200.01,
+			"group": "CATANA COM DE COM E LUB LTDA"
+		},
+		{
+			"id": 39381,
+			"name": 200.01,
+			"val": 2.3010517098452263,
+			"group": "CATANA COM DE COM E LUB LTDA"
+		},
+		{
+			"id": "PETROBRASDISTRIBUIDORASA",
+			"name": "PETROBRASDISTRIBUIDORASA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "PETROBRASDISTRIBUIDORASA"
+		},
+		{
+			"id": 39451,
+			"name": 100,
+			"val": 2,
+			"group": "PETROBRASDISTRIBUIDORASA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 8748.94
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39467,
+			"value": 1500.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39424,
+			"value": 579.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39421,
+			"value": 901.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39425,
+			"value": 1966.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39430,
+			"value": -823.99
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39415,
+			"value": 724.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39469,
+			"value": 837.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39419,
+			"value": 667.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39468,
+			"value": 1958.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39416,
+			"value": 40
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39420,
+			"value": 501.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39418,
+			"value": 432.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39428,
+			"value": -28.78
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39432,
+			"value": -1869.54
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39429,
+			"value": -77.4
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39471,
+			"value": -796.99
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39472,
+			"value": -602.24
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39423,
+			"value": 837.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39426,
+			"value": 632.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39431,
+			"value": -287.45
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39422,
+			"value": 388
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39417,
+			"value": 1966.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39427,
+			"value": -1869.54
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39470,
+			"value": 1171.39
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 5603.919999999999
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39407,
+			"value": 473.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39412,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39464,
+			"value": 839.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39410,
+			"value": 634.35
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39463,
+			"value": 1513.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39406,
+			"value": 775.08
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39409,
+			"value": 473.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39405,
+			"value": 1149.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39466,
+			"value": -798.99
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39408,
+			"value": 573.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39414,
+			"value": -604.15
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39413,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39411,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39404,
+			"value": 693.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39465,
+			"value": -1439.29
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 39403,
+			"value": 1263.49
+		},
+		{
+			"source": -100,
+			"target": "A B PUBLICIDADE LTDA-ME",
+			"value": 3000
+		},
+		{
+			"source": "A B PUBLICIDADE LTDA-ME",
+			"target": 39397,
+			"value": 3000
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 91.69
+		},
+		{
+			"source": "RAMAL",
+			"target": 39459,
+			"value": 42.78
+		},
+		{
+			"source": "RAMAL",
+			"target": 39399,
+			"value": 34
+		},
+		{
+			"source": "RAMAL",
+			"target": 39387,
+			"value": 14.91
+		},
+		{
+			"source": -100,
+			"target": "AGDA MARIA OLIVEIRA RODRIGUES",
+			"value": 9409.5
+		},
+		{
+			"source": "AGDA MARIA OLIVEIRA RODRIGUES",
+			"target": 39378,
+			"value": 3136.5
+		},
+		{
+			"source": "AGDA MARIA OLIVEIRA RODRIGUES",
+			"target": 39441,
+			"value": 3136.5
+		},
+		{
+			"source": "AGDA MARIA OLIVEIRA RODRIGUES",
+			"target": 39389,
+			"value": 3136.5
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 325.77000000000004
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 39392,
+			"value": 100.04
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 39445,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 39446,
+			"value": 125.73
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"value": 200
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"target": 39452,
+			"value": 100
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"target": 39383,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 619.29
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39458,
+			"value": 223.03
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39386,
+			"value": 4.78
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39385,
+			"value": 179.66
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39457,
+			"value": 160.9
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39398,
+			"value": 50.92
+		},
+		{
+			"source": -100,
+			"target": "Coelba Grupo Neoenergia",
+			"value": 896.13
+		},
+		{
+			"source": "Coelba Grupo Neoenergia",
+			"target": 39390,
+			"value": 546.5
+		},
+		{
+			"source": "Coelba Grupo Neoenergia",
+			"target": 39379,
+			"value": 349.63
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 7542.199999999999
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39474,
+			"value": 1115.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39435,
+			"value": 877.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39436,
+			"value": 877.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39477,
+			"value": 168.1
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39438,
+			"value": 756.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39440,
+			"value": 756.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39473,
+			"value": 475.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39439,
+			"value": 587.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39437,
+			"value": 756.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39476,
+			"value": 475.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39475,
+			"value": 693.98
+		},
+		{
+			"source": -100,
+			"target": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
+			"value": 720
+		},
+		{
+			"source": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
+			"target": 39450,
+			"value": 200
+		},
+		{
+			"source": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
+			"target": 39449,
+			"value": 150
+		},
+		{
+			"source": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
+			"target": 39393,
+			"value": 170
+		},
+		{
+			"source": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
+			"target": 39382,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
+			"value": 1503.44
+		},
+		{
+			"source": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
+			"target": 39380,
+			"value": 751.72
+		},
+		{
+			"source": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
+			"target": 39443,
+			"value": 751.72
+		},
+		{
+			"source": -100,
+			"target": "EMIDIO SOUTO PEREIRA - EPP",
+			"value": 99.5
+		},
+		{
+			"source": "EMIDIO SOUTO PEREIRA - EPP",
+			"target": 39444,
+			"value": 99.5
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO",
+			"value": 506.62
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 39388,
+			"value": 506.62
+		},
+		{
+			"source": -100,
+			"target": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7",
+			"value": 200
+		},
+		{
+			"source": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7",
+			"target": 39448,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "POSTO KALILANDIA LTDA",
+			"value": 510.91999999999996
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 39394,
+			"value": 150
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 39453,
+			"value": 210.92
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 39395,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"value": 549.58
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 39442,
+			"value": 549.58
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 896.09
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 39461,
+			"value": 219.71
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 39460,
+			"value": 175.52
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 39462,
+			"value": 500.86
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 963.7
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 39401,
+			"value": 275.2
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 39400,
+			"value": 174.87
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 39402,
+			"value": 513.63
+		},
+		{
+			"source": -100,
+			"target": "Posto Nota 10 Ltda",
+			"value": 212.6
+		},
+		{
+			"source": "Posto Nota 10 Ltda",
+			"target": 39454,
+			"value": 212.6
+		},
+		{
+			"source": -100,
+			"target": "POSTO ITAMARATY LTDA",
+			"value": 209.38
+		},
+		{
+			"source": "POSTO ITAMARATY LTDA",
+			"target": 39384,
+			"value": 209.38
+		},
+		{
+			"source": -100,
+			"target": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"value": 24000
+		},
+		{
+			"source": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"target": 39396,
+			"value": 12000
+		},
+		{
+			"source": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"target": 39455,
+			"value": 12000
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - PASSAREDO",
+			"value": 1413.65
+		},
+		{
+			"source": "Cia Aérea - PASSAREDO",
+			"target": 39434,
+			"value": 723.57
+		},
+		{
+			"source": "Cia Aérea - PASSAREDO",
+			"target": 39433,
+			"value": 690.08
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CRIOLO LTDA",
+			"value": 251.35
+		},
+		{
+			"source": "AUTO POSTO CRIOLO LTDA",
+			"target": 39447,
+			"value": 251.35
+		},
+		{
+			"source": -100,
+			"target": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"value": 50
+		},
+		{
+			"source": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"target": 39391,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA",
+			"value": 4000
+		},
+		{
+			"source": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA",
+			"target": 39456,
+			"value": 4000
+		},
+		{
+			"source": -100,
+			"target": "CATANA COM DE COM E LUB LTDA",
+			"value": 200.01
+		},
+		{
+			"source": "CATANA COM DE COM E LUB LTDA",
+			"target": 39381,
+			"value": 200.01
+		},
+		{
+			"source": -100,
+			"target": "PETROBRASDISTRIBUIDORASA",
+			"value": 100
+		},
+		{
+			"source": "PETROBRASDISTRIBUIDORASA",
+			"target": 39451,
+			"value": 100
+		}
+	]
+}

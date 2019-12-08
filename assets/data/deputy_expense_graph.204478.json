@@ -1,0 +1,1701 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "VINICIUS FARAH"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 2.954212981982777,
+			"desc": 109.1,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50010,
+			"name": 33.56,
+			"val": 1.5258219521566627,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50007,
+			"name": 23.1,
+			"val": 1.3636119798921444,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50008,
+			"name": 20.48,
+			"val": 1.3113299523037931,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50009,
+			"name": 31.96,
+			"val": 1.5046067706419537,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 0.8242536296511893,
+			"desc": 38.99,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 49995,
+			"name": 38.99,
+			"val": 1.5909532351879858,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 633.8644440534468,
+			"desc": 11723.38,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50037,
+			"name": 1516.27,
+			"val": 3.1807765423708227,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50045,
+			"name": 271.95,
+			"val": 2.4344890631511897,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50052,
+			"name": 1184.49,
+			"val": 3.0735313985639325,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50044,
+			"name": 268.49,
+			"val": 2.42892811489332,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50039,
+			"name": 781.99,
+			"val": 2.8932011993864624,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50043,
+			"name": 381.95,
+			"val": 2.5820065143636985,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50038,
+			"name": 884.49,
+			"val": 2.946692927161661,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50042,
+			"name": 1253.99,
+			"val": 3.098294073207508,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50040,
+			"name": 785.45,
+			"val": 2.895118544035144,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50047,
+			"name": 211.95,
+			"val": 2.3262334209042397,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50046,
+			"name": 268.49,
+			"val": 2.42892811489332,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50049,
+			"name": 821.95,
+			"val": 2.9148453997972945,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50041,
+			"name": 365.45,
+			"val": 2.5628279662199915,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50053,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50050,
+			"name": 1374.49,
+			"val": 3.138141584513705,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50048,
+			"name": 268.49,
+			"val": 2.42892811489332,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 50051,
+			"name": 1038.49,
+			"val": 3.016402318910859,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 3.1927305918293247,
+			"desc": 116.32,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 49998,
+			"name": 33.76,
+			"val": 1.5284024379536174,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 49999,
+			"name": 48.8,
+			"val": 1.6884198220027105,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 50000,
+			"name": 33.76,
+			"val": 1.5284024379536174,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 50059,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"name": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"val": 4.3650523474076,
+			"desc": 150.79999999999995,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50023,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50026,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50021,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50015,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50020,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50016,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50014,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50019,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50018,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50025,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50017,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50022,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": 50024,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO"
+		},
+		{
+			"id": "Posto Caxuxa JL Ltda",
+			"name": "Posto Caxuxa JL Ltda",
+			"val": 5.415225336898301,
+			"desc": 180.59,
+			"group": "Posto Caxuxa JL Ltda"
+		},
+		{
+			"id": 49987,
+			"name": 180.59,
+			"val": 2.2566936979981955,
+			"group": "Posto Caxuxa JL Ltda"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 7.561825383774889,
+			"desc": 239.23,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 49977,
+			"name": 239.23,
+			"val": 2.3788156402724763,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "POSTO DUAS COLUNAS LTDA",
+			"name": "POSTO DUAS COLUNAS LTDA",
+			"val": 22.967490557559067,
+			"desc": 619.13,
+			"group": "POSTO DUAS COLUNAS LTDA"
+		},
+		{
+			"id": 49991,
+			"name": 180,
+			"val": 2.255272505103306,
+			"group": "POSTO DUAS COLUNAS LTDA"
+		},
+		{
+			"id": 49990,
+			"name": 180,
+			"val": 2.255272505103306,
+			"group": "POSTO DUAS COLUNAS LTDA"
+		},
+		{
+			"id": 49989,
+			"name": 259.13,
+			"val": 2.4135176950400155,
+			"group": "POSTO DUAS COLUNAS LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 12.894097785706853,
+			"desc": 376.7,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 50058,
+			"name": 376.7,
+			"val": 2.5759956202032677,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "CONCESSIONARIA BR-040 S.A.",
+			"name": "CONCESSIONARIA BR-040 S.A.",
+			"val": 1.0638850325013427,
+			"desc": 47.699999999999996,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50032,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50036,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50034,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50029,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50030,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50035,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50028,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50033,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 50031,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": "IKHAYA COM DE PRODUTOS DE PETROLEO LT",
+			"name": "IKHAYA COM DE PRODUTOS DE PETROLEO LT",
+			"val": 6.443718237967084,
+			"desc": 209.01,
+			"group": "IKHAYA COM DE PRODUTOS DE PETROLEO LT"
+		},
+		{
+			"id": 50068,
+			"name": 209.01,
+			"val": 2.320167065254232,
+			"group": "IKHAYA COM DE PRODUTOS DE PETROLEO LT"
+		},
+		{
+			"id": "LA MOLE SERVIÇOS DE BUFFET",
+			"name": "LA MOLE SERVIÇOS DE BUFFET",
+			"val": 1.7678068681220107,
+			"desc": 71.7,
+			"group": "LA MOLE SERVIÇOS DE BUFFET"
+		},
+		{
+			"id": 50004,
+			"name": 71.7,
+			"val": 1.8555191556678001,
+			"group": "LA MOLE SERVIÇOS DE BUFFET"
+		},
+		{
+			"id": "JPX COMBUSTIVEIS E CONVENIENCIAS - BARRA LTDA",
+			"name": "JPX COMBUSTIVEIS E CONVENIENCIAS - BARRA LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "JPX COMBUSTIVEIS E CONVENIENCIAS - BARRA LTDA"
+		},
+		{
+			"id": 50069,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "JPX COMBUSTIVEIS E CONVENIENCIAS - BARRA LTDA"
+		},
+		{
+			"id": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME",
+			"name": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME",
+			"val": 6.584466458502044,
+			"desc": 212.85,
+			"group": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME"
+		},
+		{
+			"id": 49985,
+			"name": 212.85,
+			"val": 2.328073654513155,
+			"group": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME"
+		},
+		{
+			"id": "POSTO DE GASOLINA CANÁRIAS LTDA",
+			"name": "POSTO DE GASOLINA CANÁRIAS LTDA",
+			"val": 3.992741370672438,
+			"desc": 140.01,
+			"group": "POSTO DE GASOLINA CANÁRIAS LTDA"
+		},
+		{
+			"id": 49988,
+			"name": 140.01,
+			"val": 2.1461590556048185,
+			"group": "POSTO DE GASOLINA CANÁRIAS LTDA"
+		},
+		{
+			"id": "AUTO POSTO METRO LTDA",
+			"name": "AUTO POSTO METRO LTDA",
+			"val": 10.152840223289928,
+			"desc": 307.18,
+			"group": "AUTO POSTO METRO LTDA"
+		},
+		{
+			"id": 49975,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO METRO LTDA"
+		},
+		{
+			"id": 49974,
+			"name": 207.18,
+			"val": 2.316347828733098,
+			"group": "AUTO POSTO METRO LTDA"
+		},
+		{
+			"id": "CONCER",
+			"name": "CONCER",
+			"val": 0.1640728545711457,
+			"desc": 11.6,
+			"group": "CONCER"
+		},
+		{
+			"id": 50027,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "CONCER"
+		},
+		{
+			"id": "AUTO POSTO ROSELANCHE LTDA",
+			"name": "AUTO POSTO ROSELANCHE LTDA",
+			"val": 4.278034523137453,
+			"desc": 148.29,
+			"group": "AUTO POSTO ROSELANCHE LTDA"
+		},
+		{
+			"id": 49976,
+			"name": 148.29,
+			"val": 2.171111865180439,
+			"group": "AUTO POSTO ROSELANCHE LTDA"
+		},
+		{
+			"id": "BB LANCHES",
+			"name": "BB LANCHES",
+			"val": 2.1478186540536637,
+			"desc": 84,
+			"group": "BB LANCHES"
+		},
+		{
+			"id": 50001,
+			"name": 31,
+			"val": 1.4913616938342726,
+			"group": "BB LANCHES"
+		},
+		{
+			"id": 50002,
+			"name": 53,
+			"val": 1.7242758696007892,
+			"group": "BB LANCHES"
+		},
+		{
+			"id": "BRASILIA EMPREENDIMENTOS, SERVICOS E PARTICIPACOES LTDA",
+			"name": "BRASILIA EMPREENDIMENTOS, SERVICOS E PARTICIPACOES LTDA",
+			"val": 72.3426408470602,
+			"desc": 1687.05,
+			"group": "BRASILIA EMPREENDIMENTOS, SERVICOS E PARTICIPACOES LTDA"
+		},
+		{
+			"id": 50011,
+			"name": 1687.05,
+			"val": 3.2271279541968942,
+			"group": "BRASILIA EMPREENDIMENTOS, SERVICOS E PARTICIPACOES LTDA"
+		},
+		{
+			"id": "AUTO POSTO SUBIDA DA SERRA LTDA",
+			"name": "AUTO POSTO SUBIDA DA SERRA LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "AUTO POSTO SUBIDA DA SERRA LTDA"
+		},
+		{
+			"id": 50060,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO SUBIDA DA SERRA LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 188.5525389055046,
+			"desc": 3945.8900000000003,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50055,
+			"name": 1085.25,
+			"val": 3.0355297945107376,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50057,
+			"name": 1775.39,
+			"val": 3.2492937693591637,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50056,
+			"name": 1085.25,
+			"val": 3.0355297945107376,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "MARILIA MIRANDA COSTA MANSO ME",
+			"name": "MARILIA MIRANDA COSTA MANSO ME",
+			"val": 1.590929430535168,
+			"desc": 65.84,
+			"group": "MARILIA MIRANDA COSTA MANSO ME"
+		},
+		{
+			"id": 50005,
+			"name": 65.84,
+			"val": 1.8184898222042134,
+			"group": "MARILIA MIRANDA COSTA MANSO ME"
+		},
+		{
+			"id": "POSTO BELVEDERE DA BARRA LTDA.",
+			"name": "POSTO BELVEDERE DA BARRA LTDA.",
+			"val": 7.9582579629872185,
+			"desc": 249.8,
+			"group": "POSTO BELVEDERE DA BARRA LTDA."
+		},
+		{
+			"id": 50071,
+			"name": 249.8,
+			"val": 2.397592434038117,
+			"group": "POSTO BELVEDERE DA BARRA LTDA."
+		},
+		{
+			"id": "CPQ BRASIL S A",
+			"name": "CPQ BRASIL S A",
+			"val": 1.1685679910054196,
+			"desc": 51.4,
+			"group": "CPQ BRASIL S A"
+		},
+		{
+			"id": 50003,
+			"name": 51.4,
+			"val": 1.7109631189952756,
+			"group": "CPQ BRASIL S A"
+		},
+		{
+			"id": "CENTRO DE ABASTECIMENTO GASTRON CAXIAS LTDA",
+			"name": "CENTRO DE ABASTECIMENTO GASTRON CAXIAS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "CENTRO DE ABASTECIMENTO GASTRON CAXIAS LTDA"
+		},
+		{
+			"id": 50063,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CENTRO DE ABASTECIMENTO GASTRON CAXIAS LTDA"
+		},
+		{
+			"id": "AUTOPOSTO ML AYRTON SENNA LTDA",
+			"name": "AUTOPOSTO ML AYRTON SENNA LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "AUTOPOSTO ML AYRTON SENNA LTDA"
+		},
+		{
+			"id": 50062,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTOPOSTO ML AYRTON SENNA LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 39.464061922094665,
+			"desc": 991.25,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 50054,
+			"name": 991.25,
+			"val": 2.9961832003256603,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "PETROLEO E DERIVADOS PIRAQUE LTDA",
+			"name": "PETROLEO E DERIVADOS PIRAQUE LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "PETROLEO E DERIVADOS PIRAQUE LTDA"
+		},
+		{
+			"id": 49984,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "PETROLEO E DERIVADOS PIRAQUE LTDA"
+		},
+		{
+			"id": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"name": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"val": 34.74032580257709,
+			"desc": 886.9,
+			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50066,
+			"name": 207.02,
+			"val": 2.316012304249463,
+			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50065,
+			"name": 150.02,
+			"val": 2.1761491611265495,
+			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50067,
+			"name": 275.96,
+			"val": 2.440846136274557,
+			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49983,
+			"name": 253.9,
+			"val": 2.4046627008737222,
+			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTORIVERSIDE LTDA",
+			"name": "AUTO POSTORIVERSIDE LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "AUTO POSTORIVERSIDE LTDA"
+		},
+		{
+			"id": 50061,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTORIVERSIDE LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 10.666520837627232,
+			"desc": 320.37,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49981,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49980,
+			"name": 220.37,
+			"val": 2.3431524716622567,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO DO TRABALHO LTDA",
+			"name": "AUTO POSTO DO TRABALHO LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "AUTO POSTO DO TRABALHO LTDA"
+		},
+		{
+			"id": 49972,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO DO TRABALHO LTDA"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 14.645620491028454,
+			"desc": 420.14,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49978,
+			"name": 215.12,
+			"val": 2.332680789215245,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49979,
+			"name": 205.02,
+			"val": 2.3117962291824066,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Cia de concessão Rod. Juiz de Fora",
+			"name": "Cia de concessão Rod. Juiz de Fora",
+			"val": 0.1640728545711457,
+			"desc": 11.6,
+			"group": "Cia de concessão Rod. Juiz de Fora"
+		},
+		{
+			"id": 50013,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "Cia de concessão Rod. Juiz de Fora"
+		},
+		{
+			"id": "PARAISO LUBRIFICANTES LTDA",
+			"name": "PARAISO LUBRIFICANTES LTDA",
+			"val": 2.9926821637496843,
+			"desc": 110.27,
+			"group": "PARAISO LUBRIFICANTES LTDA"
+		},
+		{
+			"id": 50070,
+			"name": 110.27,
+			"val": 2.042457374574321,
+			"group": "PARAISO LUBRIFICANTES LTDA"
+		},
+		{
+			"id": "POSTO CATEDRAL LTDA",
+			"name": "POSTO CATEDRAL LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO CATEDRAL LTDA"
+		},
+		{
+			"id": 49986,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO CATEDRAL LTDA"
+		},
+		{
+			"id": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"name": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"val": 3.8146656692499925,
+			"desc": 134.8,
+			"group": "RESTAURANTE E BAR XIQUE XIQUE LTDA"
+		},
+		{
+			"id": 50006,
+			"name": 134.8,
+			"val": 2.129689892199301,
+			"group": "RESTAURANTE E BAR XIQUE XIQUE LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.905654937875228,
+			"desc": 107.62,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49996,
+			"name": 107.62,
+			"val": 2.031892987710475,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA",
+			"name": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA"
+		},
+		{
+			"id": 49982,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA"
+		},
+		{
+			"id": "SINAL VERDE LOCACAO E SERVICOS ADMINISTRATIVOS LTDA",
+			"name": "SINAL VERDE LOCACAO E SERVICOS ADMINISTRATIVOS LTDA",
+			"val": 345.66827239539543,
+			"desc": 6789,
+			"group": "SINAL VERDE LOCACAO E SERVICOS ADMINISTRATIVOS LTDA"
+		},
+		{
+			"id": 50012,
+			"name": 6789,
+			"val": 3.831805808674391,
+			"group": "SINAL VERDE LOCACAO E SERVICOS ADMINISTRATIVOS LTDA"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 35.96060009809231,
+			"desc": 914,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 49994,
+			"name": 914,
+			"val": 2.9609461957338317,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "POSTO FLUMIDIESEL LTDA",
+			"name": "POSTO FLUMIDIESEL LTDA",
+			"val": 4.338678687269308,
+			"desc": 150.04,
+			"group": "POSTO FLUMIDIESEL LTDA"
+		},
+		{
+			"id": 49993,
+			"name": 150.04,
+			"val": 2.176207055478685,
+			"group": "POSTO FLUMIDIESEL LTDA"
+		},
+		{
+			"id": "TELEMAR NORTE LESTE S/A",
+			"name": "TELEMAR NORTE LESTE S/A",
+			"val": 1.0563093491981872,
+			"desc": 47.43,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 49997,
+			"name": 47.43,
+			"val": 1.6760531246518715,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": "POSTO ESTACIO LTDA",
+			"name": "POSTO ESTACIO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO ESTACIO LTDA"
+		},
+		{
+			"id": 49992,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO ESTACIO LTDA"
+		},
+		{
+			"id": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA",
+			"name": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA"
+		},
+		{
+			"id": 49973,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTIVEIL FM3 LTDA",
+			"name": "COMERCIO DE COMBUSTIVEIL FM3 LTDA",
+			"val": 6.119446704117047,
+			"desc": 200.12,
+			"group": "COMERCIO DE COMBUSTIVEIL FM3 LTDA"
+		},
+		{
+			"id": 50064,
+			"name": 200.12,
+			"val": 2.3012904942113717,
+			"group": "COMERCIO DE COMBUSTIVEIL FM3 LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 109.1
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50010,
+			"value": 33.56
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50007,
+			"value": 23.1
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50008,
+			"value": 20.48
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50009,
+			"value": 31.96
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 38.99
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 49995,
+			"value": 38.99
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 11723.38
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50037,
+			"value": 1516.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50045,
+			"value": 271.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50052,
+			"value": 1184.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50044,
+			"value": 268.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50039,
+			"value": 781.99
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50043,
+			"value": 381.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50038,
+			"value": 884.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50042,
+			"value": 1253.99
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50040,
+			"value": 785.45
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50047,
+			"value": 211.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50046,
+			"value": 268.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50049,
+			"value": 821.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50041,
+			"value": 365.45
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50053,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50050,
+			"value": 1374.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50048,
+			"value": 268.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 50051,
+			"value": 1038.49
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 116.32
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 49998,
+			"value": 33.76
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 49999,
+			"value": 48.8
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 50000,
+			"value": 33.76
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 50059,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"value": 150.79999999999995
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50023,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50026,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50021,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50015,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50020,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50016,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50014,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50019,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50018,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50025,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50017,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50022,
+			"value": 11.6
+		},
+		{
+			"source": "COMPANHIA DE CONCESSAO RODOVIARIA JUIZ DE FORA - RIO",
+			"target": 50024,
+			"value": 11.6
+		},
+		{
+			"source": -100,
+			"target": "Posto Caxuxa JL Ltda",
+			"value": 180.59
+		},
+		{
+			"source": "Posto Caxuxa JL Ltda",
+			"target": 49987,
+			"value": 180.59
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 239.23
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 49977,
+			"value": 239.23
+		},
+		{
+			"source": -100,
+			"target": "POSTO DUAS COLUNAS LTDA",
+			"value": 619.13
+		},
+		{
+			"source": "POSTO DUAS COLUNAS LTDA",
+			"target": 49991,
+			"value": 180
+		},
+		{
+			"source": "POSTO DUAS COLUNAS LTDA",
+			"target": 49990,
+			"value": 180
+		},
+		{
+			"source": "POSTO DUAS COLUNAS LTDA",
+			"target": 49989,
+			"value": 259.13
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 376.7
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 50058,
+			"value": 376.7
+		},
+		{
+			"source": -100,
+			"target": "CONCESSIONARIA BR-040 S.A.",
+			"value": 47.699999999999996
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50032,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50036,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50034,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50029,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50030,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50035,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50028,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50033,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 50031,
+			"value": 5.3
+		},
+		{
+			"source": -100,
+			"target": "IKHAYA COM DE PRODUTOS DE PETROLEO LT",
+			"value": 209.01
+		},
+		{
+			"source": "IKHAYA COM DE PRODUTOS DE PETROLEO LT",
+			"target": 50068,
+			"value": 209.01
+		},
+		{
+			"source": -100,
+			"target": "LA MOLE SERVIÇOS DE BUFFET",
+			"value": 71.7
+		},
+		{
+			"source": "LA MOLE SERVIÇOS DE BUFFET",
+			"target": 50004,
+			"value": 71.7
+		},
+		{
+			"source": -100,
+			"target": "JPX COMBUSTIVEIS E CONVENIENCIAS - BARRA LTDA",
+			"value": 150
+		},
+		{
+			"source": "JPX COMBUSTIVEIS E CONVENIENCIAS - BARRA LTDA",
+			"target": 50069,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME",
+			"value": 212.85
+		},
+		{
+			"source": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME",
+			"target": 49985,
+			"value": 212.85
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA CANÁRIAS LTDA",
+			"value": 140.01
+		},
+		{
+			"source": "POSTO DE GASOLINA CANÁRIAS LTDA",
+			"target": 49988,
+			"value": 140.01
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO METRO LTDA",
+			"value": 307.18
+		},
+		{
+			"source": "AUTO POSTO METRO LTDA",
+			"target": 49975,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO METRO LTDA",
+			"target": 49974,
+			"value": 207.18
+		},
+		{
+			"source": -100,
+			"target": "CONCER",
+			"value": 11.6
+		},
+		{
+			"source": "CONCER",
+			"target": 50027,
+			"value": 11.6
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ROSELANCHE LTDA",
+			"value": 148.29
+		},
+		{
+			"source": "AUTO POSTO ROSELANCHE LTDA",
+			"target": 49976,
+			"value": 148.29
+		},
+		{
+			"source": -100,
+			"target": "BB LANCHES",
+			"value": 84
+		},
+		{
+			"source": "BB LANCHES",
+			"target": 50001,
+			"value": 31
+		},
+		{
+			"source": "BB LANCHES",
+			"target": 50002,
+			"value": 53
+		},
+		{
+			"source": -100,
+			"target": "BRASILIA EMPREENDIMENTOS, SERVICOS E PARTICIPACOES LTDA",
+			"value": 1687.05
+		},
+		{
+			"source": "BRASILIA EMPREENDIMENTOS, SERVICOS E PARTICIPACOES LTDA",
+			"target": 50011,
+			"value": 1687.05
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SUBIDA DA SERRA LTDA",
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO SUBIDA DA SERRA LTDA",
+			"target": 50060,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 3945.8900000000003
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50055,
+			"value": 1085.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50057,
+			"value": 1775.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50056,
+			"value": 1085.25
+		},
+		{
+			"source": -100,
+			"target": "MARILIA MIRANDA COSTA MANSO ME",
+			"value": 65.84
+		},
+		{
+			"source": "MARILIA MIRANDA COSTA MANSO ME",
+			"target": 50005,
+			"value": 65.84
+		},
+		{
+			"source": -100,
+			"target": "POSTO BELVEDERE DA BARRA LTDA.",
+			"value": 249.8
+		},
+		{
+			"source": "POSTO BELVEDERE DA BARRA LTDA.",
+			"target": 50071,
+			"value": 249.8
+		},
+		{
+			"source": -100,
+			"target": "CPQ BRASIL S A",
+			"value": 51.4
+		},
+		{
+			"source": "CPQ BRASIL S A",
+			"target": 50003,
+			"value": 51.4
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE ABASTECIMENTO GASTRON CAXIAS LTDA",
+			"value": 200
+		},
+		{
+			"source": "CENTRO DE ABASTECIMENTO GASTRON CAXIAS LTDA",
+			"target": 50063,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AUTOPOSTO ML AYRTON SENNA LTDA",
+			"value": 150
+		},
+		{
+			"source": "AUTOPOSTO ML AYRTON SENNA LTDA",
+			"target": 50062,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 991.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 50054,
+			"value": 991.25
+		},
+		{
+			"source": -100,
+			"target": "PETROLEO E DERIVADOS PIRAQUE LTDA",
+			"value": 150
+		},
+		{
+			"source": "PETROLEO E DERIVADOS PIRAQUE LTDA",
+			"target": 49984,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"value": 886.9
+		},
+		{
+			"source": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"target": 50066,
+			"value": 207.02
+		},
+		{
+			"source": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"target": 50065,
+			"value": 150.02
+		},
+		{
+			"source": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"target": 50067,
+			"value": 275.96
+		},
+		{
+			"source": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"target": 49983,
+			"value": 253.9
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTORIVERSIDE LTDA",
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTORIVERSIDE LTDA",
+			"target": 50061,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 320.37
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49981,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49980,
+			"value": 220.37
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DO TRABALHO LTDA",
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO DO TRABALHO LTDA",
+			"target": 49972,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 420.14
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 49978,
+			"value": 215.12
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 49979,
+			"value": 205.02
+		},
+		{
+			"source": -100,
+			"target": "Cia de concessão Rod. Juiz de Fora",
+			"value": 11.6
+		},
+		{
+			"source": "Cia de concessão Rod. Juiz de Fora",
+			"target": 50013,
+			"value": 11.6
+		},
+		{
+			"source": -100,
+			"target": "PARAISO LUBRIFICANTES LTDA",
+			"value": 110.27
+		},
+		{
+			"source": "PARAISO LUBRIFICANTES LTDA",
+			"target": 50070,
+			"value": 110.27
+		},
+		{
+			"source": -100,
+			"target": "POSTO CATEDRAL LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO CATEDRAL LTDA",
+			"target": 49986,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"value": 134.8
+		},
+		{
+			"source": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"target": 50006,
+			"value": 134.8
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 107.62
+		},
+		{
+			"source": "RAMAL",
+			"target": 49996,
+			"value": 107.62
+		},
+		{
+			"source": -100,
+			"target": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA",
+			"value": 200
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA",
+			"target": 49982,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "SINAL VERDE LOCACAO E SERVICOS ADMINISTRATIVOS LTDA",
+			"value": 6789
+		},
+		{
+			"source": "SINAL VERDE LOCACAO E SERVICOS ADMINISTRATIVOS LTDA",
+			"target": 50012,
+			"value": 6789
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 914
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 49994,
+			"value": 914
+		},
+		{
+			"source": -100,
+			"target": "POSTO FLUMIDIESEL LTDA",
+			"value": 150.04
+		},
+		{
+			"source": "POSTO FLUMIDIESEL LTDA",
+			"target": 49993,
+			"value": 150.04
+		},
+		{
+			"source": -100,
+			"target": "TELEMAR NORTE LESTE S/A",
+			"value": 47.43
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 49997,
+			"value": 47.43
+		},
+		{
+			"source": -100,
+			"target": "POSTO ESTACIO LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO ESTACIO LTDA",
+			"target": 49992,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA",
+			"target": 49973,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTIVEIL FM3 LTDA",
+			"value": 200.12
+		},
+		{
+			"source": "COMERCIO DE COMBUSTIVEIL FM3 LTDA",
+			"target": 50064,
+			"value": 200.12
+		}
+	]
+}

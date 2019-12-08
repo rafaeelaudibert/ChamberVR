@@ -1,0 +1,1485 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PAULÃO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 883.8665778566442,
+			"desc": 15838.589999999998,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39202,
+			"name": 1014.39,
+			"val": 3.006204959222372,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39233,
+			"name": 1014.39,
+			"val": 3.006204959222372,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39227,
+			"name": 911.17,
+			"val": 2.9595994122903813,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39232,
+			"name": 1076.85,
+			"val": 3.032155212388781,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39230,
+			"name": 1016.17,
+			"val": 3.0069663692529054,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39274,
+			"name": 1261,
+			"val": 3.1007150865730817,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39200,
+			"name": 895.27,
+			"val": 2.9519540317700814,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39201,
+			"name": 654.78,
+			"val": 2.816095405586742,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39276,
+			"name": 1076.85,
+			"val": 3.032155212388781,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39231,
+			"name": 1095.39,
+			"val": 3.0395687718633138,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39272,
+			"name": 648.85,
+			"val": 2.8121443089703804,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39229,
+			"name": 909.39,
+			"val": 2.9587501742272404,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39228,
+			"name": 1386.85,
+			"val": 3.1420294908533024,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39273,
+			"name": 537.85,
+			"val": 2.7306611729611654,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39271,
+			"name": 1383.39,
+			"val": 3.1409446320044263,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 39275,
+			"name": 956,
+			"val": 2.9804578922761,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 465.76733126985283,
+			"desc": 8877.85,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39238,
+			"name": 1757.85,
+			"val": 3.2449818133136166,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39203,
+			"name": 293.49,
+			"val": 2.4675933082452817,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39204,
+			"name": 1839.56,
+			"val": 3.2647139575620656,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39235,
+			"name": 838.39,
+			"val": 2.923446089569614,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39239,
+			"name": 1057.39,
+			"val": 3.024235198857673,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39236,
+			"name": 976.39,
+			"val": 2.9896233228067457,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39237,
+			"name": 81,
+			"val": 1.9084850188786497,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39277,
+			"name": 1057.39,
+			"val": 3.024235198857673,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39234,
+			"name": 976.39,
+			"val": 2.9896233228067457,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "TIM S/A",
+			"name": "TIM S/A",
+			"val": 9.313002237956646,
+			"desc": 285.43,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 39197,
+			"name": 129.9,
+			"val": 2.1136091510730277,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 39265,
+			"name": 155.53,
+			"val": 2.1918141719983417,
+			"group": "TIM S/A"
+		},
+		{
+			"id": "LP8 ESTACIONAMENTO LTDA",
+			"name": "LP8 ESTACIONAMENTO LTDA",
+			"val": 0.30023460010384645,
+			"desc": 18,
+			"group": "LP8 ESTACIONAMENTO LTDA"
+		},
+		{
+			"id": 39226,
+			"name": 18,
+			"val": 1.255272505103306,
+			"group": "LP8 ESTACIONAMENTO LTDA"
+		},
+		{
+			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39256,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39216,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39257,
+			"name": 100,
+			"val": 2,
+			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "telefonia Brasil S/A",
+			"name": "telefonia Brasil S/A",
+			"val": 7.2137641972492315,
+			"desc": 229.89,
+			"group": "telefonia Brasil S/A"
+		},
+		{
+			"id": 39184,
+			"name": 229.89,
+			"val": 2.3615200802763487,
+			"group": "telefonia Brasil S/A"
+		},
+		{
+			"id": "AMORETTO CAFES EXPRESSO LTDA",
+			"name": "AMORETTO CAFES EXPRESSO LTDA",
+			"val": 28.929427359256046,
+			"desc": 756.3,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 39178,
+			"name": 252.1,
+			"val": 2.401572845676446,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 39205,
+			"name": 252.1,
+			"val": 2.401572845676446,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 39240,
+			"name": 252.1,
+			"val": 2.401572845676446,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": "GP COBERTURA JORNALISTICA LTDA ME",
+			"name": "GP COBERTURA JORNALISTICA LTDA ME",
+			"val": 680.4820237218406,
+			"desc": 12500,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 39258,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 39190,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 39217,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": "Telefonica Brasil SA",
+			"name": "Telefonica Brasil SA",
+			"val": 82.1334625927733,
+			"desc": 1886.94,
+			"group": "Telefonica Brasil SA"
+		},
+		{
+			"id": 39196,
+			"name": 655.44,
+			"val": 2.816532941851339,
+			"group": "Telefonica Brasil SA"
+		},
+		{
+			"id": 39221,
+			"name": 621.14,
+			"val": 2.7931894977206957,
+			"group": "Telefonica Brasil SA"
+		},
+		{
+			"id": 39263,
+			"name": 610.36,
+			"val": 2.785586064349684,
+			"group": "Telefonica Brasil SA"
+		},
+		{
+			"id": "LOCALIZA RENT A CAR SA",
+			"name": "LOCALIZA RENT A CAR SA",
+			"val": 431.8710142218996,
+			"desc": 8293.84,
+			"group": "LOCALIZA RENT A CAR SA"
+		},
+		{
+			"id": 39199,
+			"name": 5416.99,
+			"val": 3.7337580338613714,
+			"group": "LOCALIZA RENT A CAR SA"
+		},
+		{
+			"id": 39270,
+			"name": 2876.85,
+			"val": 3.458917218209208,
+			"group": "LOCALIZA RENT A CAR SA"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 2.082157310716495,
+			"desc": 81.9,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 39266,
+			"name": 81.9,
+			"val": 1.9132839017604184,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 15.657379853787205,
+			"desc": 444.94,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 39214,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 39251,
+			"name": 172.94,
+			"val": 2.2378954546396037,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 39254,
+			"name": 32,
+			"val": 1.505149978319906,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 39215,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 39253,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 39252,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 39213,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "RESTAURANTE ROMA LTDA",
+			"name": "RESTAURANTE ROMA LTDA",
+			"val": 6.369476311825384,
+			"desc": 206.98000000000002,
+			"group": "RESTAURANTE ROMA LTDA"
+		},
+		{
+			"id": 39268,
+			"name": 137.65,
+			"val": 2.138776215729349,
+			"group": "RESTAURANTE ROMA LTDA"
+		},
+		{
+			"id": 39198,
+			"name": 69.33,
+			"val": 1.8409212001987718,
+			"group": "RESTAURANTE ROMA LTDA"
+		},
+		{
+			"id": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"name": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"val": 49.926825631813905,
+			"desc": 1217.73,
+			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
+		},
+		{
+			"id": 39244,
+			"name": 110.52,
+			"val": 2.043440876244474,
+			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
+		},
+		{
+			"id": 39208,
+			"name": 366.63,
+			"val": 2.564227998818755,
+			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
+		},
+		{
+			"id": 39207,
+			"name": 203.11,
+			"val": 2.307731306161607,
+			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
+		},
+		{
+			"id": 39181,
+			"name": 121.08,
+			"val": 2.0830724122845354,
+			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
+		},
+		{
+			"id": 39245,
+			"name": 253.16,
+			"val": 2.403395087002509,
+			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
+		},
+		{
+			"id": 39182,
+			"name": 163.23,
+			"val": 2.212799980625567,
+			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 38.48719675681813,
+			"desc": 969.7899999999998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39191,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39260,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39218,
+			"name": 230.85,
+			"val": 2.3633298788871597,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39219,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39259,
+			"name": 152.15,
+			"val": 2.1822719566941857,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39261,
+			"name": 303.14,
+			"val": 2.481643246275584,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39192,
+			"name": 176.29,
+			"val": 2.246227677767315,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39193,
+			"name": 13.91,
+			"val": 1.1433271299920464,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "PAULO DA ROCHA CAMPOS",
+			"name": "PAULO DA ROCHA CAMPOS",
+			"val": 459.781337693783,
+			"desc": 8775,
+			"group": "PAULO DA ROCHA CAMPOS"
+		},
+		{
+			"id": 39209,
+			"name": 2925,
+			"val": 3.466125870418199,
+			"group": "PAULO DA ROCHA CAMPOS"
+		},
+		{
+			"id": 39246,
+			"name": 2925,
+			"val": 3.466125870418199,
+			"group": "PAULO DA ROCHA CAMPOS"
+		},
+		{
+			"id": 39183,
+			"name": 2925,
+			"val": 3.466125870418199,
+			"group": "PAULO DA ROCHA CAMPOS"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO",
+			"name": "TELEFONICA BRASIL SA VIVO",
+			"val": 16.819174177797485,
+			"desc": 473.18,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 39264,
+			"name": 245.43,
+			"val": 2.3899276473809548,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 39222,
+			"name": 227.75,
+			"val": 2.3574583856450357,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": "AUTO POSTO COMENDADOR LTDA",
+			"name": "AUTO POSTO COMENDADOR LTDA",
+			"val": 242.83076439300595,
+			"desc": 4946.740000000001,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": 39212,
+			"name": 391.53,
+			"val": 2.5927650443896035,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": 39249,
+			"name": 844.81,
+			"val": 2.9267590459557353,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": 39248,
+			"name": 787.33,
+			"val": 2.896156799881283,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": 39211,
+			"name": 508.93,
+			"val": 2.7066580520728287,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": 39188,
+			"name": 810.94,
+			"val": 2.908988722727962,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": 39250,
+			"name": 766.85,
+			"val": 2.884710421910981,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": 39187,
+			"name": 836.35,
+			"val": 2.922388061241313,
+			"group": "AUTO POSTO COMENDADOR LTDA"
+		},
+		{
+			"id": "AUTO POSTO COMENDADOR",
+			"name": "AUTO POSTO COMENDADOR",
+			"val": 280.9118544844724,
+			"desc": 5636.06,
+			"group": "AUTO POSTO COMENDADOR"
+		},
+		{
+			"id": 39210,
+			"name": 1782.48,
+			"val": 3.2510246656272037,
+			"group": "AUTO POSTO COMENDADOR"
+		},
+		{
+			"id": 39247,
+			"name": 2414.11,
+			"val": 3.382757055034159,
+			"group": "AUTO POSTO COMENDADOR"
+		},
+		{
+			"id": 39186,
+			"name": 1439.47,
+			"val": 3.1582026181753906,
+			"group": "AUTO POSTO COMENDADOR"
+		},
+		{
+			"id": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA",
+			"name": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA"
+		},
+		{
+			"id": 39206,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA"
+		},
+		{
+			"id": 39241,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.830074389750336,
+			"desc": 164.1,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39220,
+			"name": 87.08,
+			"val": 1.9399184203690567,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39195,
+			"name": 10.03,
+			"val": 1.0013009330204181,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39262,
+			"name": 66.99,
+			"val": 1.8260099777911003,
+			"group": "RAMAL"
+		},
+		{
+			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 39255,
+			"name": 100,
+			"val": 2,
+			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CONDOMINIO EDF AVENUE CENTER",
+			"name": "CONDOMINIO EDF AVENUE CENTER",
+			"val": 88.4959457110154,
+			"desc": 2015.5,
+			"group": "CONDOMINIO EDF AVENUE CENTER"
+		},
+		{
+			"id": 39243,
+			"name": 616.36,
+			"val": 2.7898344464919473,
+			"group": "CONDOMINIO EDF AVENUE CENTER"
+		},
+		{
+			"id": 39179,
+			"name": 391.39,
+			"val": 2.5926097252558105,
+			"group": "CONDOMINIO EDF AVENUE CENTER"
+		},
+		{
+			"id": 39180,
+			"name": 616.36,
+			"val": 2.7898344464919473,
+			"group": "CONDOMINIO EDF AVENUE CENTER"
+		},
+		{
+			"id": 39242,
+			"name": 391.39,
+			"val": 2.5926097252558105,
+			"group": "CONDOMINIO EDF AVENUE CENTER"
+		},
+		{
+			"id": "Telefônica Brasil S. A. VIVO",
+			"name": "Telefônica Brasil S. A. VIVO",
+			"val": 9.07723502885027,
+			"desc": 279.28,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 39185,
+			"name": 279.28,
+			"val": 2.4460398358061224,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": "RESTAURANTE PICANHA DO SUL",
+			"name": "RESTAURANTE PICANHA DO SUL",
+			"val": 3.2752642155140497,
+			"desc": 118.8,
+			"group": "RESTAURANTE PICANHA DO SUL"
+		},
+		{
+			"id": 39224,
+			"name": 118.8,
+			"val": 2.074816440645175,
+			"group": "RESTAURANTE PICANHA DO SUL"
+		},
+		{
+			"id": "LOCALIZA RENT A CAR S/A",
+			"name": "LOCALIZA RENT A CAR S/A",
+			"val": 550.4269329277828,
+			"desc": 10320.58,
+			"group": "LOCALIZA RENT A CAR S/A"
+		},
+		{
+			"id": 39269,
+			"name": 5103.17,
+			"val": 3.707840036063404,
+			"group": "LOCALIZA RENT A CAR S/A"
+		},
+		{
+			"id": 39225,
+			"name": 5217.41,
+			"val": 3.717454966249137,
+			"group": "LOCALIZA RENT A CAR S/A"
+		},
+		{
+			"id": "CLARO S/A - NET",
+			"name": "CLARO S/A - NET",
+			"val": 0.39952428500893844,
+			"desc": 22.3,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 39194,
+			"name": 22.3,
+			"val": 1.3483048630481607,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"val": 1.775111515914822,
+			"desc": 71.94,
+			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+		},
+		{
+			"id": 39223,
+			"name": 71.94,
+			"val": 1.8569704334824924,
+			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 2.4418286347539433,
+			"desc": 93.29,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 39267,
+			"name": 93.29,
+			"val": 1.9698350930757975,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 4.861772661402239,
+			"desc": 165,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 39189,
+			"name": 165,
+			"val": 2.2174839442139063,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 15838.589999999998
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39202,
+			"value": 1014.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39233,
+			"value": 1014.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39227,
+			"value": 911.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39232,
+			"value": 1076.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39230,
+			"value": 1016.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39274,
+			"value": 1261
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39200,
+			"value": 895.27
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39201,
+			"value": 654.78
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39276,
+			"value": 1076.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39231,
+			"value": 1095.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39272,
+			"value": 648.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39229,
+			"value": 909.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39228,
+			"value": 1386.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39273,
+			"value": 537.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39271,
+			"value": 1383.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 39275,
+			"value": 956
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 8877.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39238,
+			"value": 1757.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39203,
+			"value": 293.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39204,
+			"value": 1839.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39235,
+			"value": 838.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39239,
+			"value": 1057.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39236,
+			"value": 976.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39237,
+			"value": 81
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39277,
+			"value": 1057.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39234,
+			"value": 976.39
+		},
+		{
+			"source": -100,
+			"target": "TIM S/A",
+			"value": 285.43
+		},
+		{
+			"source": "TIM S/A",
+			"target": 39197,
+			"value": 129.9
+		},
+		{
+			"source": "TIM S/A",
+			"target": 39265,
+			"value": 155.53
+		},
+		{
+			"source": -100,
+			"target": "LP8 ESTACIONAMENTO LTDA",
+			"value": 18
+		},
+		{
+			"source": "LP8 ESTACIONAMENTO LTDA",
+			"target": 39226,
+			"value": 18
+		},
+		{
+			"source": -100,
+			"target": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 39256,
+			"value": 40
+		},
+		{
+			"source": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 39216,
+			"value": 60
+		},
+		{
+			"source": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 39257,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "telefonia Brasil S/A",
+			"value": 229.89
+		},
+		{
+			"source": "telefonia Brasil S/A",
+			"target": 39184,
+			"value": 229.89
+		},
+		{
+			"source": -100,
+			"target": "AMORETTO CAFES EXPRESSO LTDA",
+			"value": 756.3
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 39178,
+			"value": 252.1
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 39205,
+			"value": 252.1
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 39240,
+			"value": 252.1
+		},
+		{
+			"source": -100,
+			"target": "GP COBERTURA JORNALISTICA LTDA ME",
+			"value": 12500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 39258,
+			"value": 5000
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 39190,
+			"value": 2500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 39217,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "Telefonica Brasil SA",
+			"value": 1886.94
+		},
+		{
+			"source": "Telefonica Brasil SA",
+			"target": 39196,
+			"value": 655.44
+		},
+		{
+			"source": "Telefonica Brasil SA",
+			"target": 39221,
+			"value": 621.14
+		},
+		{
+			"source": "Telefonica Brasil SA",
+			"target": 39263,
+			"value": 610.36
+		},
+		{
+			"source": -100,
+			"target": "LOCALIZA RENT A CAR SA",
+			"value": 8293.84
+		},
+		{
+			"source": "LOCALIZA RENT A CAR SA",
+			"target": 39199,
+			"value": 5416.99
+		},
+		{
+			"source": "LOCALIZA RENT A CAR SA",
+			"target": 39270,
+			"value": 2876.85
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 81.9
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 39266,
+			"value": 81.9
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 444.94
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 39214,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 39251,
+			"value": 172.94
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 39254,
+			"value": 32
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 39215,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 39253,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 39252,
+			"value": 40
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 39213,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE ROMA LTDA",
+			"value": 206.98000000000002
+		},
+		{
+			"source": "RESTAURANTE ROMA LTDA",
+			"target": 39268,
+			"value": 137.65
+		},
+		{
+			"source": "RESTAURANTE ROMA LTDA",
+			"target": 39198,
+			"value": 69.33
+		},
+		{
+			"source": -100,
+			"target": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"value": 1217.73
+		},
+		{
+			"source": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"target": 39244,
+			"value": 110.52
+		},
+		{
+			"source": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"target": 39208,
+			"value": 366.63
+		},
+		{
+			"source": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"target": 39207,
+			"value": 203.11
+		},
+		{
+			"source": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"target": 39181,
+			"value": 121.08
+		},
+		{
+			"source": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"target": 39245,
+			"value": 253.16
+		},
+		{
+			"source": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
+			"target": 39182,
+			"value": 163.23
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 969.7899999999998
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39191,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39260,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39218,
+			"value": 230.85
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39219,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39259,
+			"value": 152.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39261,
+			"value": 303.14
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39192,
+			"value": 176.29
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39193,
+			"value": 13.91
+		},
+		{
+			"source": -100,
+			"target": "PAULO DA ROCHA CAMPOS",
+			"value": 8775
+		},
+		{
+			"source": "PAULO DA ROCHA CAMPOS",
+			"target": 39209,
+			"value": 2925
+		},
+		{
+			"source": "PAULO DA ROCHA CAMPOS",
+			"target": 39246,
+			"value": 2925
+		},
+		{
+			"source": "PAULO DA ROCHA CAMPOS",
+			"target": 39183,
+			"value": 2925
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO",
+			"value": 473.18
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 39264,
+			"value": 245.43
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 39222,
+			"value": 227.75
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO COMENDADOR LTDA",
+			"value": 4946.740000000001
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR LTDA",
+			"target": 39212,
+			"value": 391.53
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR LTDA",
+			"target": 39249,
+			"value": 844.81
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR LTDA",
+			"target": 39248,
+			"value": 787.33
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR LTDA",
+			"target": 39211,
+			"value": 508.93
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR LTDA",
+			"target": 39188,
+			"value": 810.94
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR LTDA",
+			"target": 39250,
+			"value": 766.85
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR LTDA",
+			"target": 39187,
+			"value": 836.35
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO COMENDADOR",
+			"value": 5636.06
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR",
+			"target": 39210,
+			"value": 1782.48
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR",
+			"target": 39247,
+			"value": 2414.11
+		},
+		{
+			"source": "AUTO POSTO COMENDADOR",
+			"target": 39186,
+			"value": 1439.47
+		},
+		{
+			"source": -100,
+			"target": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA",
+			"value": 400
+		},
+		{
+			"source": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA",
+			"target": 39206,
+			"value": 200
+		},
+		{
+			"source": "CAFE EXPRESSO LOCACAO DE MAQUINAS LTDA",
+			"target": 39241,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 164.1
+		},
+		{
+			"source": "RAMAL",
+			"target": 39220,
+			"value": 87.08
+		},
+		{
+			"source": "RAMAL",
+			"target": 39195,
+			"value": 10.03
+		},
+		{
+			"source": "RAMAL",
+			"target": 39262,
+			"value": 66.99
+		},
+		{
+			"source": -100,
+			"target": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 39255,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CONDOMINIO EDF AVENUE CENTER",
+			"value": 2015.5
+		},
+		{
+			"source": "CONDOMINIO EDF AVENUE CENTER",
+			"target": 39243,
+			"value": 616.36
+		},
+		{
+			"source": "CONDOMINIO EDF AVENUE CENTER",
+			"target": 39179,
+			"value": 391.39
+		},
+		{
+			"source": "CONDOMINIO EDF AVENUE CENTER",
+			"target": 39180,
+			"value": 616.36
+		},
+		{
+			"source": "CONDOMINIO EDF AVENUE CENTER",
+			"target": 39242,
+			"value": 391.39
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S. A. VIVO",
+			"value": 279.28
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 39185,
+			"value": 279.28
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE PICANHA DO SUL",
+			"value": 118.8
+		},
+		{
+			"source": "RESTAURANTE PICANHA DO SUL",
+			"target": 39224,
+			"value": 118.8
+		},
+		{
+			"source": -100,
+			"target": "LOCALIZA RENT A CAR S/A",
+			"value": 10320.58
+		},
+		{
+			"source": "LOCALIZA RENT A CAR S/A",
+			"target": 39269,
+			"value": 5103.17
+		},
+		{
+			"source": "LOCALIZA RENT A CAR S/A",
+			"target": 39225,
+			"value": 5217.41
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A - NET",
+			"value": 22.3
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 39194,
+			"value": 22.3
+		},
+		{
+			"source": -100,
+			"target": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"value": 71.94
+		},
+		{
+			"source": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"target": 39223,
+			"value": 71.94
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 93.29
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 39267,
+			"value": 93.29
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 165
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 39189,
+			"value": 165
+		}
+	]
+}

@@ -1,0 +1,1605 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "AUGUSTO COUTINHO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 337.79143070321186,
+			"desc": 6649.900000000001,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5795,
+			"name": 911.39,
+			"val": 2.959704259084432,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5799,
+			"name": 1545.17,
+			"val": 3.188976267579865,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5800,
+			"name": 81,
+			"val": 1.9084850188786497,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5797,
+			"name": 1044.17,
+			"val": 3.0187712113592586,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5794,
+			"name": 354,
+			"val": 2.5490032620257876,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5792,
+			"name": 1042.39,
+			"val": 3.018030236390589,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5793,
+			"name": 557.39,
+			"val": 2.7461591728742776,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5798,
+			"name": 203,
+			"val": 2.307496037913213,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5796,
+			"name": 911.39,
+			"val": 2.959704259084432,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "NET CLARO",
+			"name": "NET CLARO",
+			"val": 49.59627549024034,
+			"desc": 1210.6599999999999,
+			"group": "NET CLARO"
+		},
+		{
+			"id": 5839,
+			"name": 1044.53,
+			"val": 3.0189209178896683,
+			"group": "NET CLARO"
+		},
+		{
+			"id": 5787,
+			"name": 166.13,
+			"val": 2.2204480650703182,
+			"group": "NET CLARO"
+		},
+		{
+			"id": "PREFEITURA DA CIDADE DO RECIFE",
+			"name": "PREFEITURA DA CIDADE DO RECIFE",
+			"val": 45.75011899213489,
+			"desc": 1128.01,
+			"group": "PREFEITURA DA CIDADE DO RECIFE"
+		},
+		{
+			"id": 5814,
+			"name": 357.42,
+			"val": 2.5531788504824884,
+			"group": "PREFEITURA DA CIDADE DO RECIFE"
+		},
+		{
+			"id": 5813,
+			"name": 355.39,
+			"val": 2.550705203418862,
+			"group": "PREFEITURA DA CIDADE DO RECIFE"
+		},
+		{
+			"id": 5815,
+			"name": 415.2,
+			"val": 2.6182573448404014,
+			"group": "PREFEITURA DA CIDADE DO RECIFE"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 211.3528724937755,
+			"desc": 4369.26,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5801,
+			"name": 989.17,
+			"val": 2.995270936407388,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5802,
+			"name": 731.85,
+			"val": 2.8644220771679474,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5803,
+			"name": 996.39,
+			"val": 2.9984293602066887,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5804,
+			"name": 1651.85,
+			"val": 3.21797060767566,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"val": 11.503395972417566,
+			"desc": 341.68999999999994,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5862,
+			"name": 41.42,
+			"val": 1.617210094557434,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5860,
+			"name": 15.05,
+			"val": 1.1775364999298623,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5863,
+			"name": 29.38,
+			"val": 1.4680517914542377,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5859,
+			"name": 9.88,
+			"val": 0.9947569445876281,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5854,
+			"name": 29.27,
+			"val": 1.466422722433792,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5861,
+			"name": 31.45,
+			"val": 1.4976206497812878,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5857,
+			"name": 39.91,
+			"val": 1.6010817277840232,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5856,
+			"name": 43.1,
+			"val": 1.6344772701607315,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5858,
+			"name": 47.9,
+			"val": 1.6803355134145632,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5855,
+			"name": 41.65,
+			"val": 1.6196150057428065,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 5853,
+			"name": 12.68,
+			"val": 1.103119253545714,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": "K2HOST INTERNET LTDA",
+			"name": "K2HOST INTERNET LTDA",
+			"val": 5.173180825843677,
+			"desc": 173.8,
+			"group": "K2HOST INTERNET LTDA"
+		},
+		{
+			"id": 5834,
+			"name": 89.9,
+			"val": 1.9537596917332287,
+			"group": "K2HOST INTERNET LTDA"
+		},
+		{
+			"id": 5782,
+			"name": 83.9,
+			"val": 1.9237619608287002,
+			"group": "K2HOST INTERNET LTDA"
+		},
+		{
+			"id": "PETROVEL- PETROLEO VELOSO LTDA",
+			"name": "PETROVEL- PETROLEO VELOSO LTDA",
+			"val": 9.470221438144478,
+			"desc": 289.52,
+			"group": "PETROVEL- PETROLEO VELOSO LTDA"
+		},
+		{
+			"id": 5780,
+			"name": 289.52,
+			"val": 2.4616785701001427,
+			"group": "PETROVEL- PETROLEO VELOSO LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 61.50436611926788,
+			"desc": 1462.42,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 5844,
+			"name": 1283.8,
+			"val": 3.108497371348259,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 5845,
+			"name": 178.62,
+			"val": 2.2519300850303683,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"name": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"val": 170.64772744049097,
+			"desc": 3609.98,
+			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
+		},
+		{
+			"id": 5774,
+			"name": 570.42,
+			"val": 2.7561947442936066,
+			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
+		},
+		{
+			"id": 5819,
+			"name": 674.15,
+			"val": 2.828756538856359,
+			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
+		},
+		{
+			"id": 5817,
+			"name": 570.42,
+			"val": 2.7561947442936066,
+			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
+		},
+		{
+			"id": 5775,
+			"name": 674.15,
+			"val": 2.828756538856359,
+			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
+		},
+		{
+			"id": 5773,
+			"name": 570.42,
+			"val": 2.7561947442936066,
+			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
+		},
+		{
+			"id": 5818,
+			"name": 550.42,
+			"val": 2.7406942059902297,
+			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 33.43397738164498,
+			"desc": 857.77,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 5838,
+			"name": 691.64,
+			"val": 2.8398801021220272,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 5837,
+			"name": 166.13,
+			"val": 2.2204480650703182,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 49.09599541764527,
+			"desc": 1199.95,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5827,
+			"name": 150.14,
+			"val": 2.176496411530367,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5778,
+			"name": 148.8,
+			"val": 2.17260293120986,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5822,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5824,
+			"name": 173.56,
+			"val": 2.239449641457174,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5777,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5825,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5821,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5823,
+			"name": 170.5,
+			"val": 2.2317243833285163,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5826,
+			"name": 176.95,
+			"val": 2.2478505669735336,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "ALBUQUERQUE PNEUS LTDA.",
+			"name": "ALBUQUERQUE PNEUS LTDA.",
+			"val": 8.921635677440545,
+			"desc": 275.21,
+			"group": "ALBUQUERQUE PNEUS LTDA."
+		},
+		{
+			"id": 5776,
+			"name": 275.21,
+			"val": 2.439664210326249,
+			"group": "ALBUQUERQUE PNEUS LTDA."
+		},
+		{
+			"id": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457",
+			"name": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457"
+		},
+		{
+			"id": 5805,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 1.7766338996213646,
+			"desc": 71.99,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5850,
+			"name": 71.99,
+			"val": 1.8572721735640414,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "Companhia Energética de Pernambuco",
+			"name": "Companhia Energética de Pernambuco",
+			"val": 142.16426481469247,
+			"desc": 3068.32,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 5808,
+			"name": 675.47,
+			"val": 2.829606065239943,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 5766,
+			"name": 593.4,
+			"val": 2.773347541980823,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 5768,
+			"name": 190.03,
+			"val": 2.2788221683526877,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 5806,
+			"name": 288.7,
+			"val": 2.4604467838807205,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 5767,
+			"name": 517.82,
+			"val": 2.7141788203782977,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 5807,
+			"name": 802.9,
+			"val": 2.9046614579155245,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": "DERYO MIKAEL ARAUJO FERREIRA-ME",
+			"name": "DERYO MIKAEL ARAUJO FERREIRA-ME",
+			"val": 1.5897321266727615,
+			"desc": 65.8,
+			"group": "DERYO MIKAEL ARAUJO FERREIRA-ME"
+		},
+		{
+			"id": 5770,
+			"name": 65.8,
+			"val": 1.8182258936139555,
+			"group": "DERYO MIKAEL ARAUJO FERREIRA-ME"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 3.200372181555389,
+			"desc": 116.55,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 5843,
+			"name": 116.55,
+			"val": 2.0665122778565954,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "POSTO SUL LTDA",
+			"name": "POSTO SUL LTDA",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "POSTO SUL LTDA"
+		},
+		{
+			"id": 5781,
+			"name": 190,
+			"val": 2.278753600952829,
+			"group": "POSTO SUL LTDA"
+		},
+		{
+			"id": "RUPLAST INDUSTRIA E COMERCIO LTDA",
+			"name": "RUPLAST INDUSTRIA E COMERCIO LTDA",
+			"val": 280.3402104215403,
+			"desc": 5625.780000000001,
+			"group": "RUPLAST INDUSTRIA E COMERCIO LTDA"
+		},
+		{
+			"id": 5816,
+			"name": 2877,
+			"val": 3.458939861890326,
+			"group": "RUPLAST INDUSTRIA E COMERCIO LTDA"
+		},
+		{
+			"id": 5772,
+			"name": 2748.78,
+			"val": 3.439139982255471,
+			"group": "RUPLAST INDUSTRIA E COMERCIO LTDA"
+		},
+		{
+			"id": "CORREIOS - TELEGRAMA",
+			"name": "CORREIOS - TELEGRAMA",
+			"val": 0.1690670383001165,
+			"desc": 11.85,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": 5851,
+			"name": 11.85,
+			"val": 1.0737183503461227,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
+			"name": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
+			"val": 9.127390431836119,
+			"desc": 280.59,
+			"group": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA"
+		},
+		{
+			"id": 5831,
+			"name": 280.59,
+			"val": 2.4480721890650865,
+			"group": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 29.268622498477253,
+			"desc": 764,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 5846,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 5847,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 5789,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 5848,
+			"name": 104.9,
+			"val": 2.020775488193558,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 5849,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 5790,
+			"name": 279.1,
+			"val": 2.445759836488631,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "Claro S.A",
+			"name": "Claro S.A",
+			"val": 35.87714819388772,
+			"desc": 912.15,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 5783,
+			"name": 65.57,
+			"val": 1.8167051836665153,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 5785,
+			"name": 187.32,
+			"val": 2.2725841491100423,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 5786,
+			"name": 187.32,
+			"val": 2.2725841491100423,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 5784,
+			"name": 471.94,
+			"val": 2.67388678819921,
+			"group": "Claro S.A"
+		},
+		{
+			"id": "LEANX DO BRASIL",
+			"name": "LEANX DO BRASIL",
+			"val": 128.25356445252208,
+			"desc": 2800,
+			"group": "LEANX DO BRASIL"
+		},
+		{
+			"id": 5771,
+			"name": 1400,
+			"val": 3.146128035678238,
+			"group": "LEANX DO BRASIL"
+		},
+		{
+			"id": 5811,
+			"name": 1400,
+			"val": 3.146128035678238,
+			"group": "LEANX DO BRASIL"
+		},
+		{
+			"id": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME",
+			"name": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME"
+		},
+		{
+			"id": 5765,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME"
+		},
+		{
+			"id": "DEIVY JAROSLAVSKY RUSHANSKY",
+			"name": "DEIVY JAROSLAVSKY RUSHANSKY",
+			"val": 489.44177583581995,
+			"desc": 9283.48,
+			"group": "DEIVY JAROSLAVSKY RUSHANSKY"
+		},
+		{
+			"id": 5809,
+			"name": 4723,
+			"val": 3.6742179455767,
+			"group": "DEIVY JAROSLAVSKY RUSHANSKY"
+		},
+		{
+			"id": 5769,
+			"name": 4560.48,
+			"val": 3.6590105554671615,
+			"group": "DEIVY JAROSLAVSKY RUSHANSKY"
+		},
+		{
+			"id": "CLARO S.A.",
+			"name": "CLARO S.A.",
+			"val": 1.6512727535182468,
+			"desc": 67.85,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 5836,
+			"name": 67.85,
+			"val": 1.8315498519957558,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 14.176462929205154,
+			"desc": 408.57,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 5791,
+			"name": 408.57,
+			"val": 2.6112664745999568,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR",
+			"name": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR",
+			"val": 14.135192374022115,
+			"desc": 407.55,
+			"group": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR"
+		},
+		{
+			"id": 5779,
+			"name": 193.05,
+			"val": 2.285669805960068,
+			"group": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR"
+		},
+		{
+			"id": 5828,
+			"name": 214.5,
+			"val": 2.331427296520743,
+			"group": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR"
+		},
+		{
+			"id": "PARLABRASIL EIRELI",
+			"name": "PARLABRASIL EIRELI",
+			"val": 20.02723317850645,
+			"desc": 550,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": 5835,
+			"name": 550,
+			"val": 2.7403626894942437,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 9.194063604562297,
+			"desc": 282.33,
+			"group": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 5820,
+			"name": 282.33,
+			"val": 2.45075702813707,
+			"group": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 8.913616589253225,
+			"desc": 275,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 5864,
+			"name": 275,
+			"val": 2.439332693830263,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "POSTO LUPP LTDA",
+			"name": "POSTO LUPP LTDA",
+			"val": 96.02474184372753,
+			"desc": 2166.41,
+			"group": "POSTO LUPP LTDA"
+		},
+		{
+			"id": 5830,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO LUPP LTDA"
+		},
+		{
+			"id": 5829,
+			"name": 2066.41,
+			"val": 3.3152164948562746,
+			"group": "POSTO LUPP LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 5.71777567381477,
+			"desc": 189.01999999999998,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5788,
+			"name": 58.38,
+			"val": 1.7662640906519955,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5840,
+			"name": 130.64,
+			"val": 2.116076171728612,
+			"group": "RAMAL"
+		},
+		{
+			"id": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"name": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 5832,
+			"name": 100,
+			"val": 2,
+			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"val": 10.509235127932056,
+			"desc": 316.34,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 5833,
+			"name": 316.34,
+			"val": 2.500154110287306,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 0.05963341701788738,
+			"desc": 5.85,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 5841,
+			"name": 1.95,
+			"val": 0.290034611362518,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 5842,
+			"name": 3.9,
+			"val": 0.5910646070264992,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "HS BEZZATO UTILIDADES DO LAR LTDAME",
+			"name": "HS BEZZATO UTILIDADES DO LAR LTDAME",
+			"val": 1.3211727850564436,
+			"desc": 56.7,
+			"group": "HS BEZZATO UTILIDADES DO LAR LTDAME"
+		},
+		{
+			"id": 5810,
+			"name": 56.7,
+			"val": 1.7535830588929067,
+			"group": "HS BEZZATO UTILIDADES DO LAR LTDAME"
+		},
+		{
+			"id": "MAG PAPELARIA 02 LTDA",
+			"name": "MAG PAPELARIA 02 LTDA",
+			"val": 3.835115055777223,
+			"desc": 135.4,
+			"group": "MAG PAPELARIA 02 LTDA"
+		},
+		{
+			"id": 5812,
+			"name": 135.4,
+			"val": 2.1316186643491255,
+			"group": "MAG PAPELARIA 02 LTDA"
+		},
+		{
+			"id": "W3 LOCADORA DE VEÍCULOS LTDA-ME",
+			"name": "W3 LOCADORA DE VEÍCULOS LTDA-ME",
+			"val": 202.20771669089856,
+			"desc": 4200,
+			"group": "W3 LOCADORA DE VEÍCULOS LTDA-ME"
+		},
+		{
+			"id": 5852,
+			"name": 4200,
+			"val": 3.6232492903979003,
+			"group": "W3 LOCADORA DE VEÍCULOS LTDA-ME"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 6649.900000000001
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5795,
+			"value": 911.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5799,
+			"value": 1545.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5800,
+			"value": 81
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5797,
+			"value": 1044.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5794,
+			"value": 354
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5792,
+			"value": 1042.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5793,
+			"value": 557.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5798,
+			"value": 203
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5796,
+			"value": 911.39
+		},
+		{
+			"source": -100,
+			"target": "NET CLARO",
+			"value": 1210.6599999999999
+		},
+		{
+			"source": "NET CLARO",
+			"target": 5839,
+			"value": 1044.53
+		},
+		{
+			"source": "NET CLARO",
+			"target": 5787,
+			"value": 166.13
+		},
+		{
+			"source": -100,
+			"target": "PREFEITURA DA CIDADE DO RECIFE",
+			"value": 1128.01
+		},
+		{
+			"source": "PREFEITURA DA CIDADE DO RECIFE",
+			"target": 5814,
+			"value": 357.42
+		},
+		{
+			"source": "PREFEITURA DA CIDADE DO RECIFE",
+			"target": 5813,
+			"value": 355.39
+		},
+		{
+			"source": "PREFEITURA DA CIDADE DO RECIFE",
+			"target": 5815,
+			"value": 415.2
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 4369.26
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5801,
+			"value": 989.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5802,
+			"value": 731.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5803,
+			"value": 996.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5804,
+			"value": 1651.85
+		},
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"value": 341.68999999999994
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5862,
+			"value": 41.42
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5860,
+			"value": 15.05
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5863,
+			"value": 29.38
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5859,
+			"value": 9.88
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5854,
+			"value": 29.27
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5861,
+			"value": 31.45
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5857,
+			"value": 39.91
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5856,
+			"value": 43.1
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5858,
+			"value": 47.9
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5855,
+			"value": 41.65
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 5853,
+			"value": 12.68
+		},
+		{
+			"source": -100,
+			"target": "K2HOST INTERNET LTDA",
+			"value": 173.8
+		},
+		{
+			"source": "K2HOST INTERNET LTDA",
+			"target": 5834,
+			"value": 89.9
+		},
+		{
+			"source": "K2HOST INTERNET LTDA",
+			"target": 5782,
+			"value": 83.9
+		},
+		{
+			"source": -100,
+			"target": "PETROVEL- PETROLEO VELOSO LTDA",
+			"value": 289.52
+		},
+		{
+			"source": "PETROVEL- PETROLEO VELOSO LTDA",
+			"target": 5780,
+			"value": 289.52
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 1462.42
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 5844,
+			"value": 1283.8
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 5845,
+			"value": 178.62
+		},
+		{
+			"source": -100,
+			"target": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"value": 3609.98
+		},
+		{
+			"source": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"target": 5774,
+			"value": 570.42
+		},
+		{
+			"source": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"target": 5819,
+			"value": 674.15
+		},
+		{
+			"source": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"target": 5817,
+			"value": 570.42
+		},
+		{
+			"source": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"target": 5775,
+			"value": 674.15
+		},
+		{
+			"source": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"target": 5773,
+			"value": 570.42
+		},
+		{
+			"source": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+			"target": 5818,
+			"value": 550.42
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 857.77
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 5838,
+			"value": 691.64
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 5837,
+			"value": 166.13
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 1199.95
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5827,
+			"value": 150.14
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5778,
+			"value": 148.8
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5822,
+			"value": 150
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5824,
+			"value": 173.56
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5777,
+			"value": 150
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5825,
+			"value": 30
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5821,
+			"value": 50
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5823,
+			"value": 170.5
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 5826,
+			"value": 176.95
+		},
+		{
+			"source": -100,
+			"target": "ALBUQUERQUE PNEUS LTDA.",
+			"value": 275.21
+		},
+		{
+			"source": "ALBUQUERQUE PNEUS LTDA.",
+			"target": 5776,
+			"value": 275.21
+		},
+		{
+			"source": -100,
+			"target": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457",
+			"value": 400
+		},
+		{
+			"source": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457",
+			"target": 5805,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 71.99
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5850,
+			"value": 71.99
+		},
+		{
+			"source": -100,
+			"target": "Companhia Energética de Pernambuco",
+			"value": 3068.32
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 5808,
+			"value": 675.47
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 5766,
+			"value": 593.4
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 5768,
+			"value": 190.03
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 5806,
+			"value": 288.7
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 5767,
+			"value": 517.82
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 5807,
+			"value": 802.9
+		},
+		{
+			"source": -100,
+			"target": "DERYO MIKAEL ARAUJO FERREIRA-ME",
+			"value": 65.8
+		},
+		{
+			"source": "DERYO MIKAEL ARAUJO FERREIRA-ME",
+			"target": 5770,
+			"value": 65.8
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 116.55
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 5843,
+			"value": 116.55
+		},
+		{
+			"source": -100,
+			"target": "POSTO SUL LTDA",
+			"value": 190
+		},
+		{
+			"source": "POSTO SUL LTDA",
+			"target": 5781,
+			"value": 190
+		},
+		{
+			"source": -100,
+			"target": "RUPLAST INDUSTRIA E COMERCIO LTDA",
+			"value": 5625.780000000001
+		},
+		{
+			"source": "RUPLAST INDUSTRIA E COMERCIO LTDA",
+			"target": 5816,
+			"value": 2877
+		},
+		{
+			"source": "RUPLAST INDUSTRIA E COMERCIO LTDA",
+			"target": 5772,
+			"value": 2748.78
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - TELEGRAMA",
+			"value": 11.85
+		},
+		{
+			"source": "CORREIOS - TELEGRAMA",
+			"target": 5851,
+			"value": 11.85
+		},
+		{
+			"source": -100,
+			"target": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
+			"value": 280.59
+		},
+		{
+			"source": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
+			"target": 5831,
+			"value": 280.59
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 764
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 5846,
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 5847,
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 5789,
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 5848,
+			"value": 104.9
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 5849,
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 5790,
+			"value": 279.1
+		},
+		{
+			"source": -100,
+			"target": "Claro S.A",
+			"value": 912.15
+		},
+		{
+			"source": "Claro S.A",
+			"target": 5783,
+			"value": 65.57
+		},
+		{
+			"source": "Claro S.A",
+			"target": 5785,
+			"value": 187.32
+		},
+		{
+			"source": "Claro S.A",
+			"target": 5786,
+			"value": 187.32
+		},
+		{
+			"source": "Claro S.A",
+			"target": 5784,
+			"value": 471.94
+		},
+		{
+			"source": -100,
+			"target": "LEANX DO BRASIL",
+			"value": 2800
+		},
+		{
+			"source": "LEANX DO BRASIL",
+			"target": 5771,
+			"value": 1400
+		},
+		{
+			"source": "LEANX DO BRASIL",
+			"target": 5811,
+			"value": 1400
+		},
+		{
+			"source": -100,
+			"target": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME",
+			"value": 400
+		},
+		{
+			"source": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME",
+			"target": 5765,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "DEIVY JAROSLAVSKY RUSHANSKY",
+			"value": 9283.48
+		},
+		{
+			"source": "DEIVY JAROSLAVSKY RUSHANSKY",
+			"target": 5809,
+			"value": 4723
+		},
+		{
+			"source": "DEIVY JAROSLAVSKY RUSHANSKY",
+			"target": 5769,
+			"value": 4560.48
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A.",
+			"value": 67.85
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 5836,
+			"value": 67.85
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 408.57
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 5791,
+			"value": 408.57
+		},
+		{
+			"source": -100,
+			"target": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR",
+			"value": 407.55
+		},
+		{
+			"source": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR",
+			"target": 5779,
+			"value": 193.05
+		},
+		{
+			"source": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR",
+			"target": 5828,
+			"value": 214.5
+		},
+		{
+			"source": -100,
+			"target": "PARLABRASIL EIRELI",
+			"value": 550
+		},
+		{
+			"source": "PARLABRASIL EIRELI",
+			"target": 5835,
+			"value": 550
+		},
+		{
+			"source": -100,
+			"target": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 282.33
+		},
+		{
+			"source": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 5820,
+			"value": 282.33
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 275
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 5864,
+			"value": 275
+		},
+		{
+			"source": -100,
+			"target": "POSTO LUPP LTDA",
+			"value": 2166.41
+		},
+		{
+			"source": "POSTO LUPP LTDA",
+			"target": 5830,
+			"value": 100
+		},
+		{
+			"source": "POSTO LUPP LTDA",
+			"target": 5829,
+			"value": 2066.41
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 189.01999999999998
+		},
+		{
+			"source": "RAMAL",
+			"target": 5788,
+			"value": 58.38
+		},
+		{
+			"source": "RAMAL",
+			"target": 5840,
+			"value": 130.64
+		},
+		{
+			"source": -100,
+			"target": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"value": 100
+		},
+		{
+			"source": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"target": 5832,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"value": 316.34
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 5833,
+			"value": 316.34
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 5.85
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 5841,
+			"value": 1.95
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 5842,
+			"value": 3.9
+		},
+		{
+			"source": -100,
+			"target": "HS BEZZATO UTILIDADES DO LAR LTDAME",
+			"value": 56.7
+		},
+		{
+			"source": "HS BEZZATO UTILIDADES DO LAR LTDAME",
+			"target": 5810,
+			"value": 56.7
+		},
+		{
+			"source": -100,
+			"target": "MAG PAPELARIA 02 LTDA",
+			"value": 135.4
+		},
+		{
+			"source": "MAG PAPELARIA 02 LTDA",
+			"target": 5812,
+			"value": 135.4
+		},
+		{
+			"source": -100,
+			"target": "W3 LOCADORA DE VEÍCULOS LTDA-ME",
+			"value": 4200
+		},
+		{
+			"source": "W3 LOCADORA DE VEÍCULOS LTDA-ME",
+			"target": 5852,
+			"value": 4200
+		}
+	]
+}

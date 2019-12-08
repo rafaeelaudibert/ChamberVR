@@ -1,0 +1,1605 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PEDRO PAULO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 11.374527708218118,
+			"desc": 338.41999999999996,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 40879,
+			"name": 185.22,
+			"val": 2.267687879865739,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 40911,
+			"name": 153.2,
+			"val": 2.185258765296585,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 158.21643233923555,
+			"desc": 3374.76,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 40899,
+			"name": 1544.49,
+			"val": 3.188785100750853,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 40902,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 40900,
+			"name": 1278.49,
+			"val": 3.10669733544268,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 40901,
+			"name": 351.78,
+			"val": 2.5462711445684407,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "PAX IMOVEIS LTDA.",
+			"name": "PAX IMOVEIS LTDA.",
+			"val": 564.5650170795684,
+			"desc": 10559.52,
+			"group": "PAX IMOVEIS LTDA."
+		},
+		{
+			"id": 40968,
+			"name": 10559.52,
+			"val": 4.02364417709086,
+			"group": "PAX IMOVEIS LTDA."
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 464.9433745440887,
+			"desc": 8863.7,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40956,
+			"name": 1775.39,
+			"val": 3.2492937693591637,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40933,
+			"name": -29.49,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40932,
+			"name": 1505.17,
+			"val": 3.177585553678987,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40930,
+			"name": 1653.85,
+			"val": 3.2184961175947615,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40929,
+			"name": 626,
+			"val": 2.7965743332104296,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40928,
+			"name": 1503.39,
+			"val": 3.177071657151753,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40931,
+			"name": 1829.39,
+			"val": 3.262306300770294,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "POSTO DE GASOLINA E BAR GAROA LTDA",
+			"name": "POSTO DE GASOLINA E BAR GAROA LTDA",
+			"val": 25.29812996852891,
+			"desc": 673.1899999999999,
+			"group": "POSTO DE GASOLINA E BAR GAROA LTDA"
+		},
+		{
+			"id": 40917,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DE GASOLINA E BAR GAROA LTDA"
+		},
+		{
+			"id": 40886,
+			"name": 254.04,
+			"val": 2.4049021040670366,
+			"group": "POSTO DE GASOLINA E BAR GAROA LTDA"
+		},
+		{
+			"id": 40885,
+			"name": 219.15,
+			"val": 2.340741474989978,
+			"group": "POSTO DE GASOLINA E BAR GAROA LTDA"
+		},
+		{
+			"id": "POSTO DE GASOLINA ARTE MODERNA LTDA",
+			"name": "POSTO DE GASOLINA ARTE MODERNA LTDA",
+			"val": 7.307833691787616,
+			"desc": 232.42,
+			"group": "POSTO DE GASOLINA ARTE MODERNA LTDA"
+		},
+		{
+			"id": 40884,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO DE GASOLINA ARTE MODERNA LTDA"
+		},
+		{
+			"id": 40971,
+			"name": 182.42,
+			"val": 2.2610724513908225,
+			"group": "POSTO DE GASOLINA ARTE MODERNA LTDA"
+		},
+		{
+			"id": "PAX IMÓVEIS LTDA.",
+			"name": "PAX IMÓVEIS LTDA.",
+			"val": 2154.0948690966975,
+			"desc": 35616.08,
+			"group": "PAX IMÓVEIS LTDA."
+		},
+		{
+			"id": 40943,
+			"name": 11643.38,
+			"val": 4.066079071573742,
+			"group": "PAX IMÓVEIS LTDA."
+		},
+		{
+			"id": 40910,
+			"name": 11860.06,
+			"val": 4.074086886127991,
+			"group": "PAX IMÓVEIS LTDA."
+		},
+		{
+			"id": 40878,
+			"name": 12112.64,
+			"val": 4.083238809738995,
+			"group": "PAX IMÓVEIS LTDA."
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 1934.5954420678693,
+			"desc": 32288.99,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40959,
+			"name": 1095.85,
+			"val": 3.039751111967191,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40906,
+			"name": 3324.56,
+			"val": 3.5217341752882443,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40909,
+			"name": 1680.17,
+			"val": 3.225353225967962,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40940,
+			"name": 463.85,
+			"val": 2.6663775609334914,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40957,
+			"name": 1653.85,
+			"val": 3.2184961175947615,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40936,
+			"name": 1534.85,
+			"val": 3.1860659385393078,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40934,
+			"name": 1723.39,
+			"val": 3.236383568615694,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40938,
+			"name": 1132.85,
+			"val": 3.054172408994072,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40939,
+			"name": 1775.39,
+			"val": 3.2492937693591637,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40963,
+			"name": 569,
+			"val": 2.7551122663950713,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40935,
+			"name": 27,
+			"val": 1.4313637641589874,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40937,
+			"name": 608,
+			"val": 2.783903579272735,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40958,
+			"name": 1231.39,
+			"val": 3.09039562240598,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40964,
+			"name": 665,
+			"val": 2.8228216453031045,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40961,
+			"name": 1096,
+			"val": 3.0398105541483504,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40904,
+			"name": 3028.56,
+			"val": 3.481236182064301,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40967,
+			"name": 2303.24,
+			"val": 3.3623391942581935,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40903,
+			"name": 3353.56,
+			"val": 3.5255060808975762,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40965,
+			"name": 11,
+			"val": 1.041392685158225,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40966,
+			"name": 1450.85,
+			"val": 3.1616225140643923,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40908,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40962,
+			"name": 1489.85,
+			"val": 3.173142545290412,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40941,
+			"name": 645.39,
+			"val": 2.809822231941043,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40905,
+			"name": 226,
+			"val": 2.3541084391474008,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40960,
+			"name": 645.39,
+			"val": 2.809822231941043,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40907,
+			"name": 344,
+			"val": 2.53655844257153,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "POSTO SOBRADINHO LTDA",
+			"name": "POSTO SOBRADINHO LTDA",
+			"val": 29.979290626031244,
+			"desc": 780.1,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": 40950,
+			"name": 220.84,
+			"val": 2.344077738468101,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": 40918,
+			"name": 172.23,
+			"val": 2.2361088015872816,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": 40919,
+			"name": 183.94,
+			"val": 2.2646761821488246,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": 40949,
+			"name": 203.09,
+			"val": 2.3076885395951616,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": "AUTO POSTO ALVORADA RIO LTDA",
+			"name": "AUTO POSTO ALVORADA RIO LTDA",
+			"val": 17.431139543202754,
+			"desc": 487.96,
+			"group": "AUTO POSTO ALVORADA RIO LTDA"
+		},
+		{
+			"id": 40912,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO ALVORADA RIO LTDA"
+		},
+		{
+			"id": 40880,
+			"name": 287.96,
+			"val": 2.459332164892004,
+			"group": "AUTO POSTO ALVORADA RIO LTDA"
+		},
+		{
+			"id": "POSTO DE GASOLINA PARQUE DAS ROSAS LTDA",
+			"name": "POSTO DE GASOLINA PARQUE DAS ROSAS LTDA",
+			"val": 5.055031504069788,
+			"desc": 170.47,
+			"group": "POSTO DE GASOLINA PARQUE DAS ROSAS LTDA"
+		},
+		{
+			"id": 40972,
+			"name": 170.47,
+			"val": 2.2316479611535995,
+			"group": "POSTO DE GASOLINA PARQUE DAS ROSAS LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.7754159766172748,
+			"desc": 71.95,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40953,
+			"name": 20.64,
+			"val": 1.3147096929551738,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40896,
+			"name": 5.34,
+			"val": 0.7275412570285564,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40977,
+			"name": 36.24,
+			"val": 1.5591881890047754,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40925,
+			"name": 9.73,
+			"val": 0.9881128402683519,
+			"group": "RAMAL"
+		},
+		{
+			"id": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP",
+			"name": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP",
+			"val": 7.9101114177238765,
+			"desc": 248.52,
+			"group": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP"
+		},
+		{
+			"id": 40920,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP"
+		},
+		{
+			"id": 40891,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP"
+		},
+		{
+			"id": 40951,
+			"name": 168.52,
+			"val": 2.2266514504548103,
+			"group": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP"
+		},
+		{
+			"id": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+			"name": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+			"val": 19.413736945912884,
+			"desc": 535.4300000000001,
+			"group": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA"
+		},
+		{
+			"id": 40944,
+			"name": 269.46,
+			"val": 2.4304943054463584,
+			"group": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA"
+		},
+		{
+			"id": 40916,
+			"name": 265.97,
+			"val": 2.4248326532881306,
+			"group": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA"
+		},
+		{
+			"id": "MUNDIVOX TELECOMUNICAÇÕES LTDA",
+			"name": "MUNDIVOX TELECOMUNICAÇÕES LTDA",
+			"val": 95.7036867585192,
+			"desc": 2160,
+			"group": "MUNDIVOX TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 40895,
+			"name": 512.21,
+			"val": 2.709448053051631,
+			"group": "MUNDIVOX TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 40952,
+			"name": 550.66,
+			"val": 2.7408835304304295,
+			"group": "MUNDIVOX TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 40976,
+			"name": 537.75,
+			"val": 2.7305804190595,
+			"group": "MUNDIVOX TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 40924,
+			"name": 559.38,
+			"val": 2.747706934604487,
+			"group": "MUNDIVOX TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 0.9658316178799548,
+			"desc": 44.18,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 40954,
+			"name": 44.18,
+			"val": 1.645225711535416,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 6.430177946656694,
+			"desc": 208.64,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 40915,
+			"name": 208.64,
+			"val": 2.319397574051826,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO QUINTA DO RIO GRANDE LTDA",
+			"name": "AUTO POSTO QUINTA DO RIO GRANDE LTDA",
+			"val": 6.006176833731625,
+			"desc": 197,
+			"group": "AUTO POSTO QUINTA DO RIO GRANDE LTDA"
+		},
+		{
+			"id": 40970,
+			"name": 197,
+			"val": 2.294466226161593,
+			"group": "AUTO POSTO QUINTA DO RIO GRANDE LTDA"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 188.516657169205,
+			"desc": 3945.2200000000003,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 40894,
+			"name": 2211.83,
+			"val": 3.34475174428767,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 40893,
+			"name": 1733.39,
+			"val": 3.2388962867718893,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP",
+			"name": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP",
+			"val": 1525.2872962915308,
+			"desc": 26000,
+			"group": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP"
+		},
+		{
+			"id": 40922,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP"
+		},
+		{
+			"id": 40892,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP"
+		},
+		{
+			"id": "FRENTANA POSTO DE SERVICO LTDA.",
+			"name": "FRENTANA POSTO DE SERVICO LTDA.",
+			"val": 2.658189411549134,
+			"desc": 100.02,
+			"group": "FRENTANA POSTO DE SERVICO LTDA."
+		},
+		{
+			"id": 40946,
+			"name": 100.02,
+			"val": 2.000086850211649,
+			"group": "FRENTANA POSTO DE SERVICO LTDA."
+		},
+		{
+			"id": "VENTURA COMERCIO E SERVICOS LTDA.",
+			"name": "VENTURA COMERCIO E SERVICOS LTDA.",
+			"val": 15.250876567880798,
+			"desc": 435,
+			"group": "VENTURA COMERCIO E SERVICOS LTDA."
+		},
+		{
+			"id": 40974,
+			"name": 235,
+			"val": 2.3710678622717363,
+			"group": "VENTURA COMERCIO E SERVICOS LTDA."
+		},
+		{
+			"id": 40921,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "VENTURA COMERCIO E SERVICOS LTDA."
+		},
+		{
+			"id": "POSTO DE SERVIÇOS GRANDE ALIANÇA LTDA",
+			"name": "POSTO DE SERVIÇOS GRANDE ALIANÇA LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO DE SERVIÇOS GRANDE ALIANÇA LTDA"
+		},
+		{
+			"id": 40889,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DE SERVIÇOS GRANDE ALIANÇA LTDA"
+		},
+		{
+			"id": "POSTO MODELO JMLBG LTDA",
+			"name": "POSTO MODELO JMLBG LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO MODELO JMLBG LTDA"
+		},
+		{
+			"id": 40890,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO MODELO JMLBG LTDA"
+		},
+		{
+			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"val": 0.6245701973429355,
+			"desc": 31.4,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 40898,
+			"name": 31.4,
+			"val": 1.4969296480732148,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "AUTO POSTO DO TRABALHO S/A",
+			"name": "AUTO POSTO DO TRABALHO S/A",
+			"val": 13.549309345823302,
+			"desc": 393.03,
+			"group": "AUTO POSTO DO TRABALHO S/A"
+		},
+		{
+			"id": 40913,
+			"name": 160,
+			"val": 2.204119982655925,
+			"group": "AUTO POSTO DO TRABALHO S/A"
+		},
+		{
+			"id": 40914,
+			"name": 233.03,
+			"val": 2.367411835170924,
+			"group": "AUTO POSTO DO TRABALHO S/A"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 56.625190362227386,
+			"desc": 1359.96,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 40926,
+			"name": 679.98,
+			"val": 2.8324961391512744,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 40927,
+			"name": 679.98,
+			"val": 2.8324961391512744,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": "POSTO DE GASOLINA PARQUE DAS ROSAS",
+			"name": "POSTO DE GASOLINA PARQUE DAS ROSAS",
+			"val": 18.3893996713334,
+			"desc": 510.97999999999996,
+			"group": "POSTO DE GASOLINA PARQUE DAS ROSAS"
+		},
+		{
+			"id": 40948,
+			"name": 271.34,
+			"val": 2.433513820664543,
+			"group": "POSTO DE GASOLINA PARQUE DAS ROSAS"
+		},
+		{
+			"id": 40887,
+			"name": 239.64,
+			"val": 2.3795593109183275,
+			"group": "POSTO DE GASOLINA PARQUE DAS ROSAS"
+		},
+		{
+			"id": "UNIDAS LOCADORA DE VEICULOS LTDA",
+			"name": "UNIDAS LOCADORA DE VEICULOS LTDA",
+			"val": 102.22386844686763,
+			"desc": 2289.76,
+			"group": "UNIDAS LOCADORA DE VEICULOS LTDA"
+		},
+		{
+			"id": 40955,
+			"name": 2289.76,
+			"val": 3.3597899643757363,
+			"group": "UNIDAS LOCADORA DE VEICULOS LTDA"
+		},
+		{
+			"id": "Lucas Paulino de Sousa Nogueira",
+			"name": "Lucas Paulino de Sousa Nogueira",
+			"val": 3.716045478002543,
+			"desc": 131.9,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 40942,
+			"name": 131.9,
+			"val": 2.1202447955463652,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": "GOL LINHAS AEREAS INTELIGENTES",
+			"name": "GOL LINHAS AEREAS INTELIGENTES",
+			"val": 74.60081075500987,
+			"desc": 1733.39,
+			"group": "GOL LINHAS AEREAS INTELIGENTES"
+		},
+		{
+			"id": 40923,
+			"name": 1733.39,
+			"val": 3.2388962867718893,
+			"group": "GOL LINHAS AEREAS INTELIGENTES"
+		},
+		{
+			"id": "Telefônia Brasil S/A - VIVO",
+			"name": "Telefônia Brasil S/A - VIVO",
+			"val": 25.59267518111369,
+			"desc": 679.98,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 40897,
+			"name": 679.98,
+			"val": 2.8324961391512744,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": "POSTO JULIO DE CASTILHO LIMITADA",
+			"name": "POSTO JULIO DE CASTILHO LIMITADA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO JULIO DE CASTILHO LIMITADA"
+		},
+		{
+			"id": 40973,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO JULIO DE CASTILHO LIMITADA"
+		},
+		{
+			"id": "POSTO DE GASOLINA PRAIA DE COPACABANA LTDA",
+			"name": "POSTO DE GASOLINA PRAIA DE COPACABANA LTDA",
+			"val": 8.013221313138098,
+			"desc": 251.26,
+			"group": "POSTO DE GASOLINA PRAIA DE COPACABANA LTDA"
+		},
+		{
+			"id": 40888,
+			"name": 251.26,
+			"val": 2.400123355437081,
+			"group": "POSTO DE GASOLINA PRAIA DE COPACABANA LTDA"
+		},
+		{
+			"id": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 14.55180263152095,
+			"desc": 417.83000000000004,
+			"group": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 40882,
+			"name": 196.77,
+			"val": 2.2939588856216977,
+			"group": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 40883,
+			"name": 221.06,
+			"val": 2.344510165686532,
+			"group": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA",
+			"name": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA"
+		},
+		{
+			"id": 40947,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA"
+		},
+		{
+			"id": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"name": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"val": 8.913234750988497,
+			"desc": 274.99,
+			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 40945,
+			"name": 274.99,
+			"val": 2.4393169010165043,
+			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "LIONS TECHNOLOGY CONSULTORIA EIRELI",
+			"name": "LIONS TECHNOLOGY CONSULTORIA EIRELI",
+			"val": 273.35474987258647,
+			"desc": 5500,
+			"group": "LIONS TECHNOLOGY CONSULTORIA EIRELI"
+		},
+		{
+			"id": 40975,
+			"name": 5500,
+			"val": 3.7403626894942437,
+			"group": "LIONS TECHNOLOGY CONSULTORIA EIRELI"
+		},
+		{
+			"id": "AUTO EIXO 208 NORTE LTDA",
+			"name": "AUTO EIXO 208 NORTE LTDA",
+			"val": 7.657222019649992,
+			"desc": 241.78,
+			"group": "AUTO EIXO 208 NORTE LTDA"
+		},
+		{
+			"id": 40969,
+			"name": 241.78,
+			"val": 2.3834203732456967,
+			"group": "AUTO EIXO 208 NORTE LTDA"
+		},
+		{
+			"id": "AUTO POSTO CURICICA LTDA",
+			"name": "AUTO POSTO CURICICA LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "AUTO POSTO CURICICA LTDA"
+		},
+		{
+			"id": 40881,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO CURICICA LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 338.41999999999996
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 40879,
+			"value": 185.22
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 40911,
+			"value": 153.2
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 3374.76
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 40899,
+			"value": 1544.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 40902,
+			"value": 200
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 40900,
+			"value": 1278.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 40901,
+			"value": 351.78
+		},
+		{
+			"source": -100,
+			"target": "PAX IMOVEIS LTDA.",
+			"value": 10559.52
+		},
+		{
+			"source": "PAX IMOVEIS LTDA.",
+			"target": 40968,
+			"value": 10559.52
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 8863.7
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40956,
+			"value": 1775.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40933,
+			"value": -29.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40932,
+			"value": 1505.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40930,
+			"value": 1653.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40929,
+			"value": 626
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40928,
+			"value": 1503.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40931,
+			"value": 1829.39
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA E BAR GAROA LTDA",
+			"value": 673.1899999999999
+		},
+		{
+			"source": "POSTO DE GASOLINA E BAR GAROA LTDA",
+			"target": 40917,
+			"value": 200
+		},
+		{
+			"source": "POSTO DE GASOLINA E BAR GAROA LTDA",
+			"target": 40886,
+			"value": 254.04
+		},
+		{
+			"source": "POSTO DE GASOLINA E BAR GAROA LTDA",
+			"target": 40885,
+			"value": 219.15
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA ARTE MODERNA LTDA",
+			"value": 232.42
+		},
+		{
+			"source": "POSTO DE GASOLINA ARTE MODERNA LTDA",
+			"target": 40884,
+			"value": 50
+		},
+		{
+			"source": "POSTO DE GASOLINA ARTE MODERNA LTDA",
+			"target": 40971,
+			"value": 182.42
+		},
+		{
+			"source": -100,
+			"target": "PAX IMÓVEIS LTDA.",
+			"value": 35616.08
+		},
+		{
+			"source": "PAX IMÓVEIS LTDA.",
+			"target": 40943,
+			"value": 11643.38
+		},
+		{
+			"source": "PAX IMÓVEIS LTDA.",
+			"target": 40910,
+			"value": 11860.06
+		},
+		{
+			"source": "PAX IMÓVEIS LTDA.",
+			"target": 40878,
+			"value": 12112.64
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 32288.99
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40959,
+			"value": 1095.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40906,
+			"value": 3324.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40909,
+			"value": 1680.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40940,
+			"value": 463.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40957,
+			"value": 1653.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40936,
+			"value": 1534.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40934,
+			"value": 1723.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40938,
+			"value": 1132.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40939,
+			"value": 1775.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40963,
+			"value": 569
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40935,
+			"value": 27
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40937,
+			"value": 608
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40958,
+			"value": 1231.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40964,
+			"value": 665
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40961,
+			"value": 1096
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40904,
+			"value": 3028.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40967,
+			"value": 2303.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40903,
+			"value": 3353.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40965,
+			"value": 11
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40966,
+			"value": 1450.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40908,
+			"value": 210
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40962,
+			"value": 1489.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40941,
+			"value": 645.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40905,
+			"value": 226
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40960,
+			"value": 645.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40907,
+			"value": 344
+		},
+		{
+			"source": -100,
+			"target": "POSTO SOBRADINHO LTDA",
+			"value": 780.1
+		},
+		{
+			"source": "POSTO SOBRADINHO LTDA",
+			"target": 40950,
+			"value": 220.84
+		},
+		{
+			"source": "POSTO SOBRADINHO LTDA",
+			"target": 40918,
+			"value": 172.23
+		},
+		{
+			"source": "POSTO SOBRADINHO LTDA",
+			"target": 40919,
+			"value": 183.94
+		},
+		{
+			"source": "POSTO SOBRADINHO LTDA",
+			"target": 40949,
+			"value": 203.09
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ALVORADA RIO LTDA",
+			"value": 487.96
+		},
+		{
+			"source": "AUTO POSTO ALVORADA RIO LTDA",
+			"target": 40912,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO ALVORADA RIO LTDA",
+			"target": 40880,
+			"value": 287.96
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA PARQUE DAS ROSAS LTDA",
+			"value": 170.47
+		},
+		{
+			"source": "POSTO DE GASOLINA PARQUE DAS ROSAS LTDA",
+			"target": 40972,
+			"value": 170.47
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 71.95
+		},
+		{
+			"source": "RAMAL",
+			"target": 40953,
+			"value": 20.64
+		},
+		{
+			"source": "RAMAL",
+			"target": 40896,
+			"value": 5.34
+		},
+		{
+			"source": "RAMAL",
+			"target": 40977,
+			"value": 36.24
+		},
+		{
+			"source": "RAMAL",
+			"target": 40925,
+			"value": 9.73
+		},
+		{
+			"source": -100,
+			"target": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP",
+			"value": 248.52
+		},
+		{
+			"source": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP",
+			"target": 40920,
+			"value": 30
+		},
+		{
+			"source": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP",
+			"target": 40891,
+			"value": 50
+		},
+		{
+			"source": "PROJAC RIO 2016 AUTO POSTO LTDA - EPP",
+			"target": 40951,
+			"value": 168.52
+		},
+		{
+			"source": -100,
+			"target": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+			"value": 535.4300000000001
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+			"target": 40944,
+			"value": 269.46
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+			"target": 40916,
+			"value": 265.97
+		},
+		{
+			"source": -100,
+			"target": "MUNDIVOX TELECOMUNICAÇÕES LTDA",
+			"value": 2160
+		},
+		{
+			"source": "MUNDIVOX TELECOMUNICAÇÕES LTDA",
+			"target": 40895,
+			"value": 512.21
+		},
+		{
+			"source": "MUNDIVOX TELECOMUNICAÇÕES LTDA",
+			"target": 40952,
+			"value": 550.66
+		},
+		{
+			"source": "MUNDIVOX TELECOMUNICAÇÕES LTDA",
+			"target": 40976,
+			"value": 537.75
+		},
+		{
+			"source": "MUNDIVOX TELECOMUNICAÇÕES LTDA",
+			"target": 40924,
+			"value": 559.38
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 44.18
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 40954,
+			"value": 44.18
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 208.64
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 40915,
+			"value": 208.64
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO QUINTA DO RIO GRANDE LTDA",
+			"value": 197
+		},
+		{
+			"source": "AUTO POSTO QUINTA DO RIO GRANDE LTDA",
+			"target": 40970,
+			"value": 197
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 3945.2200000000003
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 40894,
+			"value": 2211.83
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 40893,
+			"value": 1733.39
+		},
+		{
+			"source": -100,
+			"target": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP",
+			"value": 26000
+		},
+		{
+			"source": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP",
+			"target": 40922,
+			"value": 13000
+		},
+		{
+			"source": "KRK MARKETING E COMUNICACAO DIGITAL EIRELI EPP",
+			"target": 40892,
+			"value": 13000
+		},
+		{
+			"source": -100,
+			"target": "FRENTANA POSTO DE SERVICO LTDA.",
+			"value": 100.02
+		},
+		{
+			"source": "FRENTANA POSTO DE SERVICO LTDA.",
+			"target": 40946,
+			"value": 100.02
+		},
+		{
+			"source": -100,
+			"target": "VENTURA COMERCIO E SERVICOS LTDA.",
+			"value": 435
+		},
+		{
+			"source": "VENTURA COMERCIO E SERVICOS LTDA.",
+			"target": 40974,
+			"value": 235
+		},
+		{
+			"source": "VENTURA COMERCIO E SERVICOS LTDA.",
+			"target": 40921,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE SERVIÇOS GRANDE ALIANÇA LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO DE SERVIÇOS GRANDE ALIANÇA LTDA",
+			"target": 40889,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "POSTO MODELO JMLBG LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO MODELO JMLBG LTDA",
+			"target": 40890,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"value": 31.4
+		},
+		{
+			"source": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"target": 40898,
+			"value": 31.4
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DO TRABALHO S/A",
+			"value": 393.03
+		},
+		{
+			"source": "AUTO POSTO DO TRABALHO S/A",
+			"target": 40913,
+			"value": 160
+		},
+		{
+			"source": "AUTO POSTO DO TRABALHO S/A",
+			"target": 40914,
+			"value": 233.03
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 1359.96
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 40926,
+			"value": 679.98
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 40927,
+			"value": 679.98
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA PARQUE DAS ROSAS",
+			"value": 510.97999999999996
+		},
+		{
+			"source": "POSTO DE GASOLINA PARQUE DAS ROSAS",
+			"target": 40948,
+			"value": 271.34
+		},
+		{
+			"source": "POSTO DE GASOLINA PARQUE DAS ROSAS",
+			"target": 40887,
+			"value": 239.64
+		},
+		{
+			"source": -100,
+			"target": "UNIDAS LOCADORA DE VEICULOS LTDA",
+			"value": 2289.76
+		},
+		{
+			"source": "UNIDAS LOCADORA DE VEICULOS LTDA",
+			"target": 40955,
+			"value": 2289.76
+		},
+		{
+			"source": -100,
+			"target": "Lucas Paulino de Sousa Nogueira",
+			"value": 131.9
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 40942,
+			"value": 131.9
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS INTELIGENTES",
+			"value": 1733.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES",
+			"target": 40923,
+			"value": 1733.39
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A - VIVO",
+			"value": 679.98
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 40897,
+			"value": 679.98
+		},
+		{
+			"source": -100,
+			"target": "POSTO JULIO DE CASTILHO LIMITADA",
+			"value": 100
+		},
+		{
+			"source": "POSTO JULIO DE CASTILHO LIMITADA",
+			"target": 40973,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA PRAIA DE COPACABANA LTDA",
+			"value": 251.26
+		},
+		{
+			"source": "POSTO DE GASOLINA PRAIA DE COPACABANA LTDA",
+			"target": 40888,
+			"value": 251.26
+		},
+		{
+			"source": -100,
+			"target": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 417.83000000000004
+		},
+		{
+			"source": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 40882,
+			"value": 196.77
+		},
+		{
+			"source": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 40883,
+			"value": 221.06
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA",
+			"target": 40947,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"value": 274.99
+		},
+		{
+			"source": "ECORODO BR 040 COMBUSTIVEIS LTDA",
+			"target": 40945,
+			"value": 274.99
+		},
+		{
+			"source": -100,
+			"target": "LIONS TECHNOLOGY CONSULTORIA EIRELI",
+			"value": 5500
+		},
+		{
+			"source": "LIONS TECHNOLOGY CONSULTORIA EIRELI",
+			"target": 40975,
+			"value": 5500
+		},
+		{
+			"source": -100,
+			"target": "AUTO EIXO 208 NORTE LTDA",
+			"value": 241.78
+		},
+		{
+			"source": "AUTO EIXO 208 NORTE LTDA",
+			"target": 40969,
+			"value": 241.78
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CURICICA LTDA",
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO CURICICA LTDA",
+			"target": 40881,
+			"value": 50
+		}
+	]
+}

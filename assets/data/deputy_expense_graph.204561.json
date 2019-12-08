@@ -1,0 +1,1581 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "BIRA DO PINDARÉ"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "TELEFONICA BRASIL SA",
+			"name": "TELEFONICA BRASIL SA",
+			"val": 56.80157810398714,
+			"desc": 1363.68,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 7081,
+			"name": 1363.68,
+			"val": 3.1347124710985232,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": "Auto Posto Sof Norte Ltda",
+			"name": "Auto Posto Sof Norte Ltda",
+			"val": 6.642127509435124,
+			"desc": 214.42,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 7141,
+			"name": 214.42,
+			"val": 2.331265291676226,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": "TELECOMUNICAÇÕES NORDESTE LTDA",
+			"name": "TELECOMUNICAÇÕES NORDESTE LTDA",
+			"val": 25.235281109761036,
+			"desc": 671.74,
+			"group": "TELECOMUNICAÇÕES NORDESTE LTDA"
+		},
+		{
+			"id": 7067,
+			"name": 240.58,
+			"val": 2.3812595205488485,
+			"group": "TELECOMUNICAÇÕES NORDESTE LTDA"
+		},
+		{
+			"id": 7084,
+			"name": 240.58,
+			"val": 2.3812595205488485,
+			"group": "TELECOMUNICAÇÕES NORDESTE LTDA"
+		},
+		{
+			"id": 7111,
+			"name": 190.58,
+			"val": 2.280077322611946,
+			"group": "TELECOMUNICAÇÕES NORDESTE LTDA"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 181.49452147723275,
+			"desc": 3813.86,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7115,
+			"name": 225.57,
+			"val": 2.3532813395452905,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7113,
+			"name": 194.5,
+			"val": 2.2889196056617265,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7145,
+			"name": 215.53,
+			"val": 2.333507728917455,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7112,
+			"name": 206.23,
+			"val": 2.3143518417756628,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7144,
+			"name": 227.05,
+			"val": 2.3561215062369856,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7146,
+			"name": 226.34,
+			"val": 2.3547613115515884,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7089,
+			"name": 210.19,
+			"val": 2.322612050188287,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7090,
+			"name": 183.97,
+			"val": 2.2647470083535266,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7092,
+			"name": 207.55,
+			"val": 2.3171227377145382,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7147,
+			"name": 216.86,
+			"val": 2.336179453437444,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7148,
+			"name": 211.67,
+			"val": 2.3256593098016407,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7116,
+			"name": 230.87,
+			"val": 2.363367502943486,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7143,
+			"name": 233.1,
+			"val": 2.3675422735205767,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7091,
+			"name": 186.82,
+			"val": 2.2714233677435813,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7088,
+			"name": 220.45,
+			"val": 2.3433101031623416,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7114,
+			"name": 197.32,
+			"val": 2.2951711067901037,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7072,
+			"name": 167,
+			"val": 2.2227164711475833,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7142,
+			"name": 252.84,
+			"val": 2.402845781655725,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"name": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"val": 59.086079568546346,
+			"desc": 1411.75,
+			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
+		},
+		{
+			"id": 7108,
+			"name": 165.38,
+			"val": 2.2184829875936445,
+			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
+		},
+		{
+			"id": 7137,
+			"name": 118.5,
+			"val": 2.0737183503461227,
+			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
+		},
+		{
+			"id": 7065,
+			"name": 242.25,
+			"val": 2.384263785722803,
+			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
+		},
+		{
+			"id": 7136,
+			"name": 355.88,
+			"val": 2.5513035818962275,
+			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
+		},
+		{
+			"id": 7082,
+			"name": 144.89,
+			"val": 2.161038412422962,
+			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
+		},
+		{
+			"id": 7107,
+			"name": 384.85,
+			"val": 2.5852914908954987,
+			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 416.75897642322747,
+			"desc": 8032.16,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 7079,
+			"name": 1270.76,
+			"val": 3.1040635359846025,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 7100,
+			"name": 734.62,
+			"val": 2.866062747820057,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 7164,
+			"name": 1228.96,
+			"val": 3.089537747766861,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 7099,
+			"name": 734.62,
+			"val": 2.866062747820057,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 7098,
+			"name": 859.94,
+			"val": 2.9344681505715386,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 7129,
+			"name": 1981.58,
+			"val": 3.2970116102847493,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 7128,
+			"name": 1221.68,
+			"val": 3.086957464144109,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"val": 1494.6598693534042,
+			"desc": 25524.29,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7160,
+			"name": 1401.08,
+			"val": 3.146462933691646,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7075,
+			"name": 1360.28,
+			"val": 3.133628312736946,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7126,
+			"name": 1342.94,
+			"val": 3.1280566096523272,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7163,
+			"name": 654.07,
+			"val": 2.815624229955621,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7078,
+			"name": 3431.42,
+			"val": 3.5354738782190975,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7096,
+			"name": 3023.22,
+			"val": 3.4804697519775303,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7077,
+			"name": 2564.17,
+			"val": 3.408946814768179,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7097,
+			"name": 1933.12,
+			"val": 3.2862588140493725,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7127,
+			"name": 1886.24,
+			"val": 3.2755969503548426,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7158,
+			"name": 1428.24,
+			"val": 3.1548011919764005,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7159,
+			"name": 1998.21,
+			"val": 3.300641128058455,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7076,
+			"name": 1617.68,
+			"val": 3.208892616176848,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7161,
+			"name": 1059.14,
+			"val": 3.024953370125288,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 7162,
+			"name": 1824.48,
+			"val": 3.261139106978691,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": "C C SOARES & CIA LTDA EPP",
+			"name": "C C SOARES & CIA LTDA EPP",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "C C SOARES & CIA LTDA EPP"
+		},
+		{
+			"id": 7118,
+			"name": 190,
+			"val": 2.278753600952829,
+			"group": "C C SOARES & CIA LTDA EPP"
+		},
+		{
+			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"val": 36.436913178489206,
+			"desc": 924.5500000000001,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 7068,
+			"name": 176.78,
+			"val": 2.247433129563036,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 7069,
+			"name": 178.49,
+			"val": 2.251613889543592,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 7071,
+			"name": 193.83,
+			"val": 2.2874209957598315,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 7087,
+			"name": 187.24,
+			"val": 2.2723986324554044,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 7070,
+			"name": 188.21,
+			"val": 2.2746426946993252,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": "Eraldo Carlos Nogueira",
+			"name": "Eraldo Carlos Nogueira",
+			"val": 746.9837552877635,
+			"desc": 13600,
+			"group": "Eraldo Carlos Nogueira"
+		},
+		{
+			"id": 7066,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "Eraldo Carlos Nogueira"
+		},
+		{
+			"id": 7083,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "Eraldo Carlos Nogueira"
+		},
+		{
+			"id": 7138,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "Eraldo Carlos Nogueira"
+		},
+		{
+			"id": 7109,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "Eraldo Carlos Nogueira"
+		},
+		{
+			"id": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"name": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"val": 28.34329550028287,
+			"desc": 742.97,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": 7150,
+			"name": 224.1,
+			"val": 2.350441856535061,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": 7120,
+			"name": 180.03,
+			"val": 2.255344881485759,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": 7151,
+			"name": 100,
+			"val": 2,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": 7152,
+			"name": 238.84,
+			"val": 2.3781070625097422,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": "SUPER GAMES COMERCIAL LTDA",
+			"name": "SUPER GAMES COMERCIAL LTDA",
+			"val": 15.797950975748284,
+			"desc": 448.37,
+			"group": "SUPER GAMES COMERCIAL LTDA"
+		},
+		{
+			"id": 7095,
+			"name": 214,
+			"val": 2.330413773349191,
+			"group": "SUPER GAMES COMERCIAL LTDA"
+		},
+		{
+			"id": 7074,
+			"name": 234.37,
+			"val": 2.3699020200240195,
+			"group": "SUPER GAMES COMERCIAL LTDA"
+		},
+		{
+			"id": "M E G DANTAS ME",
+			"name": "M E G DANTAS ME",
+			"val": 10.652067961455824,
+			"desc": 320,
+			"group": "M E G DANTAS ME"
+		},
+		{
+			"id": 7135,
+			"name": 165,
+			"val": 2.2174839442139063,
+			"group": "M E G DANTAS ME"
+		},
+		{
+			"id": 7134,
+			"name": 155,
+			"val": 2.1903316981702914,
+			"group": "M E G DANTAS ME"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 220.3880142636239,
+			"desc": 4535.8,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 7140,
+			"name": 1812,
+			"val": 3.2581581933407944,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 7085,
+			"name": 2723.8,
+			"val": 3.435175215544276,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 22.08514660404274,
+			"desc": 598.5,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 7119,
+			"name": 209.54,
+			"val": 2.3212669395747887,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 7073,
+			"name": 195.89,
+			"val": 2.2920122662363456,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 7093,
+			"name": 193.07,
+			"val": 2.2857147965829094,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA.",
+			"name": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA.",
+			"val": 21.581020647330245,
+			"desc": 586.67,
+			"group": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA."
+		},
+		{
+			"id": 7110,
+			"name": 327.83,
+			"val": 2.515648693707632,
+			"group": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA."
+		},
+		{
+			"id": 7139,
+			"name": 258.84,
+			"val": 2.4130313911501697,
+			"group": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA."
+		},
+		{
+			"id": "Iranilde Ferreira Pinheiro",
+			"name": "Iranilde Ferreira Pinheiro",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "Iranilde Ferreira Pinheiro"
+		},
+		{
+			"id": 7124,
+			"name": 1000,
+			"val": 3,
+			"group": "Iranilde Ferreira Pinheiro"
+		},
+		{
+			"id": "RIO POSTO E DERIVADOS DE PETROLEO LTDA",
+			"name": "RIO POSTO E DERIVADOS DE PETROLEO LTDA",
+			"val": 5.8530652840393875,
+			"desc": 192.77,
+			"group": "RIO POSTO E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 7121,
+			"name": 192.77,
+			"val": 2.2850394473665196,
+			"group": "RIO POSTO E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "TOYOLEX AUTOS SA",
+			"name": "TOYOLEX AUTOS SA",
+			"val": 28.423681035350725,
+			"desc": 744.8,
+			"group": "TOYOLEX AUTOS SA"
+		},
+		{
+			"id": 7156,
+			"name": 744.8,
+			"val": 2.872039667973286,
+			"group": "TOYOLEX AUTOS SA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 55.48152775345768,
+			"desc": 1335.81,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 7131,
+			"name": 1335.81,
+			"val": 3.1257446903104515,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "H M BOGEA E CIA LTDA",
+			"name": "H M BOGEA E CIA LTDA",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "H M BOGEA E CIA LTDA"
+		},
+		{
+			"id": 7157,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "H M BOGEA E CIA LTDA"
+		},
+		{
+			"id": "LM GRAFICA LTDA",
+			"name": "LM GRAFICA LTDA",
+			"val": 295.3460103877068,
+			"desc": 5895,
+			"group": "LM GRAFICA LTDA"
+		},
+		{
+			"id": 7125,
+			"name": 5895,
+			"val": 3.770483809431108,
+			"group": "LM GRAFICA LTDA"
+		},
+		{
+			"id": "YES ALUGUEL DE CARROS",
+			"name": "YES ALUGUEL DE CARROS",
+			"val": 80.85570325940031,
+			"desc": 1861,
+			"group": "YES ALUGUEL DE CARROS"
+		},
+		{
+			"id": 7106,
+			"name": 1861,
+			"val": 3.2697463731307668,
+			"group": "YES ALUGUEL DE CARROS"
+		},
+		{
+			"id": "Telefônica Brasil S/A",
+			"name": "Telefônica Brasil S/A",
+			"val": 55.337741209949975,
+			"desc": 1332.77,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 7102,
+			"name": 1332.77,
+			"val": 3.1247552084166346,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.5116154246403903,
+			"desc": 95.47,
+			"group": "RAMAL"
+		},
+		{
+			"id": 7130,
+			"name": 33.71,
+			"val": 1.527758752520972,
+			"group": "RAMAL"
+		},
+		{
+			"id": 7101,
+			"name": 48.19,
+			"val": 1.6829569263012085,
+			"group": "RAMAL"
+		},
+		{
+			"id": 7080,
+			"name": 13.57,
+			"val": 1.132579847659737,
+			"group": "RAMAL"
+		},
+		{
+			"id": "ROMA TRUCK CENTER LTDA",
+			"name": "ROMA TRUCK CENTER LTDA",
+			"val": 12.291074782311439,
+			"desc": 361.58000000000004,
+			"group": "ROMA TRUCK CENTER LTDA"
+		},
+		{
+			"id": 7154,
+			"name": 155.43,
+			"val": 2.1915348470067837,
+			"group": "ROMA TRUCK CENTER LTDA"
+		},
+		{
+			"id": 7122,
+			"name": 206.15,
+			"val": 2.314183339137377,
+			"group": "ROMA TRUCK CENTER LTDA"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 6.24283684181159,
+			"desc": 203.51,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 7117,
+			"name": 203.51,
+			"val": 2.308585754289083,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+			"name": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+			"val": 287.25496353653926,
+			"desc": 5750,
+			"group": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA"
+		},
+		{
+			"id": 7123,
+			"name": 5750,
+			"val": 3.7596678446896306,
+			"group": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 0.9666606386320747,
+			"desc": 44.21,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 7104,
+			"name": 44.21,
+			"val": 1.645520514905874,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 0.4721881730049182,
+			"desc": 25.32,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 7103,
+			"name": 25.32,
+			"val": 1.4034637013453175,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "POSTO BACANGA LTDA",
+			"name": "POSTO BACANGA LTDA",
+			"val": 5.162876806828069,
+			"desc": 173.51,
+			"group": "POSTO BACANGA LTDA"
+		},
+		{
+			"id": 7153,
+			"name": 173.51,
+			"val": 2.239324509787797,
+			"group": "POSTO BACANGA LTDA"
+		},
+		{
+			"id": "HOTEL GREEN VILLAGES LTDA",
+			"name": "HOTEL GREEN VILLAGES LTDA",
+			"val": 9.488694544417323,
+			"desc": 290,
+			"group": "HOTEL GREEN VILLAGES LTDA"
+		},
+		{
+			"id": 7133,
+			"name": 290,
+			"val": 2.462397997898956,
+			"group": "HOTEL GREEN VILLAGES LTDA"
+		},
+		{
+			"id": "SOARES E NASCIMENTO LTDA",
+			"name": "SOARES E NASCIMENTO LTDA",
+			"val": 3.652308476680778,
+			"desc": 130.02,
+			"group": "SOARES E NASCIMENTO LTDA"
+		},
+		{
+			"id": 7155,
+			"name": 130.02,
+			"val": 2.1140101617034617,
+			"group": "SOARES E NASCIMENTO LTDA"
+		},
+		{
+			"id": "HOTEL GREEN VILLAGES",
+			"name": "HOTEL GREEN VILLAGES",
+			"val": 3.4828921423310435,
+			"desc": 125,
+			"group": "HOTEL GREEN VILLAGES"
+		},
+		{
+			"id": 7132,
+			"name": 125,
+			"val": 2.0969100130080562,
+			"group": "HOTEL GREEN VILLAGES"
+		},
+		{
+			"id": "ECODRIVE COMBUSTIVEIS LTDA",
+			"name": "ECODRIVE COMBUSTIVEIS LTDA",
+			"val": 3.8398887895346316,
+			"desc": 135.54,
+			"group": "ECODRIVE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 7149,
+			"name": 135.54,
+			"val": 2.1320674813040066,
+			"group": "ECODRIVE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Franere Participações S.A",
+			"name": "Franere Participações S.A",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "Franere Participações S.A"
+		},
+		{
+			"id": 7105,
+			"name": 190,
+			"val": 2.278753600952829,
+			"group": "Franere Participações S.A"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 6.362898812953688,
+			"desc": 206.8,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 7086,
+			"name": 206.8,
+			"val": 2.315550534421905,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "POSTO ATLANTICO SUL LTDA",
+			"name": "POSTO ATLANTICO SUL LTDA",
+			"val": 6.848334477528059,
+			"desc": 220.02,
+			"group": "POSTO ATLANTICO SUL LTDA"
+		},
+		{
+			"id": 7094,
+			"name": 220.02,
+			"val": 2.3424621603442466,
+			"group": "POSTO ATLANTICO SUL LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA",
+			"value": 1363.68
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 7081,
+			"value": 1363.68
+		},
+		{
+			"source": -100,
+			"target": "Auto Posto Sof Norte Ltda",
+			"value": 214.42
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 7141,
+			"value": 214.42
+		},
+		{
+			"source": -100,
+			"target": "TELECOMUNICAÇÕES NORDESTE LTDA",
+			"value": 671.74
+		},
+		{
+			"source": "TELECOMUNICAÇÕES NORDESTE LTDA",
+			"target": 7067,
+			"value": 240.58
+		},
+		{
+			"source": "TELECOMUNICAÇÕES NORDESTE LTDA",
+			"target": 7084,
+			"value": 240.58
+		},
+		{
+			"source": "TELECOMUNICAÇÕES NORDESTE LTDA",
+			"target": 7111,
+			"value": 190.58
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 3813.86
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7115,
+			"value": 225.57
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7113,
+			"value": 194.5
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7145,
+			"value": 215.53
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7112,
+			"value": 206.23
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7144,
+			"value": 227.05
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7146,
+			"value": 226.34
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7089,
+			"value": 210.19
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7090,
+			"value": 183.97
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7092,
+			"value": 207.55
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7147,
+			"value": 216.86
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7148,
+			"value": 211.67
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7116,
+			"value": 230.87
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7143,
+			"value": 233.1
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7091,
+			"value": 186.82
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7088,
+			"value": 220.45
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7114,
+			"value": 197.32
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7072,
+			"value": 167
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7142,
+			"value": 252.84
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"value": 1411.75
+		},
+		{
+			"source": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"target": 7108,
+			"value": 165.38
+		},
+		{
+			"source": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"target": 7137,
+			"value": 118.5
+		},
+		{
+			"source": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"target": 7065,
+			"value": 242.25
+		},
+		{
+			"source": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"target": 7136,
+			"value": 355.88
+		},
+		{
+			"source": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"target": 7082,
+			"value": 144.89
+		},
+		{
+			"source": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
+			"target": 7107,
+			"value": 384.85
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 8032.16
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 7079,
+			"value": 1270.76
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 7100,
+			"value": 734.62
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 7164,
+			"value": 1228.96
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 7099,
+			"value": 734.62
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 7098,
+			"value": 859.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 7129,
+			"value": 1981.58
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 7128,
+			"value": 1221.68
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"value": 25524.29
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7160,
+			"value": 1401.08
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7075,
+			"value": 1360.28
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7126,
+			"value": 1342.94
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7163,
+			"value": 654.07
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7078,
+			"value": 3431.42
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7096,
+			"value": 3023.22
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7077,
+			"value": 2564.17
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7097,
+			"value": 1933.12
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7127,
+			"value": 1886.24
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7158,
+			"value": 1428.24
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7159,
+			"value": 1998.21
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7076,
+			"value": 1617.68
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7161,
+			"value": 1059.14
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 7162,
+			"value": 1824.48
+		},
+		{
+			"source": -100,
+			"target": "C C SOARES & CIA LTDA EPP",
+			"value": 190
+		},
+		{
+			"source": "C C SOARES & CIA LTDA EPP",
+			"target": 7118,
+			"value": 190
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"value": 924.5500000000001
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 7068,
+			"value": 176.78
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 7069,
+			"value": 178.49
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 7071,
+			"value": 193.83
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 7087,
+			"value": 187.24
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 7070,
+			"value": 188.21
+		},
+		{
+			"source": -100,
+			"target": "Eraldo Carlos Nogueira",
+			"value": 13600
+		},
+		{
+			"source": "Eraldo Carlos Nogueira",
+			"target": 7066,
+			"value": 3400
+		},
+		{
+			"source": "Eraldo Carlos Nogueira",
+			"target": 7083,
+			"value": 3400
+		},
+		{
+			"source": "Eraldo Carlos Nogueira",
+			"target": 7138,
+			"value": 3400
+		},
+		{
+			"source": "Eraldo Carlos Nogueira",
+			"target": 7109,
+			"value": 3400
+		},
+		{
+			"source": -100,
+			"target": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"value": 742.97
+		},
+		{
+			"source": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"target": 7150,
+			"value": 224.1
+		},
+		{
+			"source": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"target": 7120,
+			"value": 180.03
+		},
+		{
+			"source": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"target": 7151,
+			"value": 100
+		},
+		{
+			"source": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"target": 7152,
+			"value": 238.84
+		},
+		{
+			"source": -100,
+			"target": "SUPER GAMES COMERCIAL LTDA",
+			"value": 448.37
+		},
+		{
+			"source": "SUPER GAMES COMERCIAL LTDA",
+			"target": 7095,
+			"value": 214
+		},
+		{
+			"source": "SUPER GAMES COMERCIAL LTDA",
+			"target": 7074,
+			"value": 234.37
+		},
+		{
+			"source": -100,
+			"target": "M E G DANTAS ME",
+			"value": 320
+		},
+		{
+			"source": "M E G DANTAS ME",
+			"target": 7135,
+			"value": 165
+		},
+		{
+			"source": "M E G DANTAS ME",
+			"target": 7134,
+			"value": 155
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 4535.8
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 7140,
+			"value": 1812
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 7085,
+			"value": 2723.8
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 598.5
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 7119,
+			"value": 209.54
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 7073,
+			"value": 195.89
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 7093,
+			"value": 193.07
+		},
+		{
+			"source": -100,
+			"target": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA.",
+			"value": 586.67
+		},
+		{
+			"source": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA.",
+			"target": 7110,
+			"value": 327.83
+		},
+		{
+			"source": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA.",
+			"target": 7139,
+			"value": 258.84
+		},
+		{
+			"source": -100,
+			"target": "Iranilde Ferreira Pinheiro",
+			"value": 1000
+		},
+		{
+			"source": "Iranilde Ferreira Pinheiro",
+			"target": 7124,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "RIO POSTO E DERIVADOS DE PETROLEO LTDA",
+			"value": 192.77
+		},
+		{
+			"source": "RIO POSTO E DERIVADOS DE PETROLEO LTDA",
+			"target": 7121,
+			"value": 192.77
+		},
+		{
+			"source": -100,
+			"target": "TOYOLEX AUTOS SA",
+			"value": 744.8
+		},
+		{
+			"source": "TOYOLEX AUTOS SA",
+			"target": 7156,
+			"value": 744.8
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 1335.81
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 7131,
+			"value": 1335.81
+		},
+		{
+			"source": -100,
+			"target": "H M BOGEA E CIA LTDA",
+			"value": 1500
+		},
+		{
+			"source": "H M BOGEA E CIA LTDA",
+			"target": 7157,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "LM GRAFICA LTDA",
+			"value": 5895
+		},
+		{
+			"source": "LM GRAFICA LTDA",
+			"target": 7125,
+			"value": 5895
+		},
+		{
+			"source": -100,
+			"target": "YES ALUGUEL DE CARROS",
+			"value": 1861
+		},
+		{
+			"source": "YES ALUGUEL DE CARROS",
+			"target": 7106,
+			"value": 1861
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A",
+			"value": 1332.77
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 7102,
+			"value": 1332.77
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 95.47
+		},
+		{
+			"source": "RAMAL",
+			"target": 7130,
+			"value": 33.71
+		},
+		{
+			"source": "RAMAL",
+			"target": 7101,
+			"value": 48.19
+		},
+		{
+			"source": "RAMAL",
+			"target": 7080,
+			"value": 13.57
+		},
+		{
+			"source": -100,
+			"target": "ROMA TRUCK CENTER LTDA",
+			"value": 361.58000000000004
+		},
+		{
+			"source": "ROMA TRUCK CENTER LTDA",
+			"target": 7154,
+			"value": 155.43
+		},
+		{
+			"source": "ROMA TRUCK CENTER LTDA",
+			"target": 7122,
+			"value": 206.15
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 203.51
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 7117,
+			"value": 203.51
+		},
+		{
+			"source": -100,
+			"target": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+			"value": 5750
+		},
+		{
+			"source": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+			"target": 7123,
+			"value": 5750
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 44.21
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 7104,
+			"value": 44.21
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 25.32
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 7103,
+			"value": 25.32
+		},
+		{
+			"source": -100,
+			"target": "POSTO BACANGA LTDA",
+			"value": 173.51
+		},
+		{
+			"source": "POSTO BACANGA LTDA",
+			"target": 7153,
+			"value": 173.51
+		},
+		{
+			"source": -100,
+			"target": "HOTEL GREEN VILLAGES LTDA",
+			"value": 290
+		},
+		{
+			"source": "HOTEL GREEN VILLAGES LTDA",
+			"target": 7133,
+			"value": 290
+		},
+		{
+			"source": -100,
+			"target": "SOARES E NASCIMENTO LTDA",
+			"value": 130.02
+		},
+		{
+			"source": "SOARES E NASCIMENTO LTDA",
+			"target": 7155,
+			"value": 130.02
+		},
+		{
+			"source": -100,
+			"target": "HOTEL GREEN VILLAGES",
+			"value": 125
+		},
+		{
+			"source": "HOTEL GREEN VILLAGES",
+			"target": 7132,
+			"value": 125
+		},
+		{
+			"source": -100,
+			"target": "ECODRIVE COMBUSTIVEIS LTDA",
+			"value": 135.54
+		},
+		{
+			"source": "ECODRIVE COMBUSTIVEIS LTDA",
+			"target": 7149,
+			"value": 135.54
+		},
+		{
+			"source": -100,
+			"target": "Franere Participações S.A",
+			"value": 190
+		},
+		{
+			"source": "Franere Participações S.A",
+			"target": 7105,
+			"value": 190
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 206.8
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 7086,
+			"value": 206.8
+		},
+		{
+			"source": -100,
+			"target": "POSTO ATLANTICO SUL LTDA",
+			"value": 220.02
+		},
+		{
+			"source": "POSTO ATLANTICO SUL LTDA",
+			"target": 7094,
+			"value": 220.02
+		}
+	]
+}

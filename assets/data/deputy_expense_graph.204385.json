@@ -1,0 +1,1353 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "VALDEVAN NOVENTA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1758.778515894638,
+			"desc": 29602.24999999999,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49026,
+			"name": -466.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49016,
+			"name": 1767.84,
+			"val": 3.2474429562305,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48988,
+			"name": 1753.39,
+			"val": 3.2438785253407074,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48989,
+			"name": 640.39,
+			"val": 2.8064445415815413,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49024,
+			"name": 594.39,
+			"val": 2.7740714942563014,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49019,
+			"name": 1742.39,
+			"val": 3.24114536989719,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49056,
+			"name": 1892.39,
+			"val": 3.2770106444302725,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49061,
+			"name": 1306.85,
+			"val": 3.1162257422012325,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48990,
+			"name": 1677.39,
+			"val": 3.224634049580591,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49023,
+			"name": 1753.39,
+			"val": 3.2438785253407074,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49028,
+			"name": -1667.19,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49062,
+			"name": -472.25,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49064,
+			"name": -332.11,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49018,
+			"name": 1028.39,
+			"val": 3.0121578449389927,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49063,
+			"name": -470.11,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49025,
+			"name": 1080.85,
+			"val": 3.0337654268927925,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49057,
+			"name": 780,
+			"val": 2.8920946026904804,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49059,
+			"name": 2025.79,
+			"val": 3.306594422974816,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49022,
+			"name": 1858.79,
+			"val": 3.269230327376606,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49014,
+			"name": 489.39,
+			"val": 2.6896550909062693,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49013,
+			"name": 1499.85,
+			"val": 3.1760478274358737,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49058,
+			"name": 1490.79,
+			"val": 3.17341647090808,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49060,
+			"name": 1598.85,
+			"val": 3.2038077212646714,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49021,
+			"name": 1806.85,
+			"val": 3.2569221000560837,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48991,
+			"name": 1829.39,
+			"val": 3.262306300770294,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49015,
+			"name": 762.85,
+			"val": 2.882439150567529,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49017,
+			"name": 1425.85,
+			"val": 3.1540738399627175,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49012,
+			"name": 1399.89,
+			"val": 3.146093911199752,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48992,
+			"name": -1667.19,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49020,
+			"name": 1190.85,
+			"val": 3.0758570610000673,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49055,
+			"name": 1886.39,
+			"val": 3.2756314855052917,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49027,
+			"name": -605.7,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 997.9598246912734,
+			"desc": 17681.81,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49071,
+			"name": 662,
+			"val": 2.8208579894397,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49065,
+			"name": 22,
+			"val": 1.3424226808222062,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49067,
+			"name": 65.1,
+			"val": 1.813580988568192,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49036,
+			"name": 1137.39,
+			"val": 3.0559094055902207,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49066,
+			"name": 22,
+			"val": 1.3424226808222062,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48995,
+			"name": 1141.39,
+			"val": 3.0574340632682717,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48998,
+			"name": 1545.79,
+			"val": 3.1891504934400454,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49037,
+			"name": 880.39,
+			"val": 2.944675100930965,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49034,
+			"name": 805.39,
+			"val": 2.906006232954824,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49068,
+			"name": 65.1,
+			"val": 1.813580988568192,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49030,
+			"name": 978.89,
+			"val": 2.9907338919287225,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48997,
+			"name": 2130.79,
+			"val": 3.328540649932292,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49039,
+			"name": 122,
+			"val": 2.0863598306747484,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48993,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49031,
+			"name": 633.49,
+			"val": 2.8017397636881314,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49069,
+			"name": 209.9,
+			"val": 2.3220124385824006,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49029,
+			"name": 1399.89,
+			"val": 3.146093911199752,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48994,
+			"name": 1217.84,
+			"val": 3.0855902343711437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48996,
+			"name": 718,
+			"val": 2.8561244442423,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49033,
+			"name": 681.39,
+			"val": 2.833395755623571,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49038,
+			"name": 773.49,
+			"val": 2.8884547033322283,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49032,
+			"name": 1165.79,
+			"val": 3.0666203256759585,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49035,
+			"name": 1058.89,
+			"val": 3.024850846911755,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49070,
+			"name": 209.9,
+			"val": 2.3220124385824006,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 567.5701590139001,
+			"desc": 10610.240000000002,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 49007,
+			"name": 1106.95,
+			"val": 3.0441280046054566,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48984,
+			"name": 1428.49,
+			"val": 3.1548772044947366,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 49011,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 49008,
+			"name": 852.95,
+			"val": 2.930923573535,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48983,
+			"name": 1211.95,
+			"val": 3.0834847030216714,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 49054,
+			"name": 963.49,
+			"val": 2.983847211500702,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48985,
+			"name": 1257.95,
+			"val": 3.0996633794592983,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 49006,
+			"name": 764,
+			"val": 2.8830933585756897,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 49010,
+			"name": 534.49,
+			"val": 2.7279395842212315,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48986,
+			"name": 865.94,
+			"val": 2.9374878012879626,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 49009,
+			"name": 731.08,
+			"val": 2.8639649031651637,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48987,
+			"name": 742.95,
+			"val": 2.8709595870381373,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.173661134425206,
+			"desc": 145.26999999999998,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49045,
+			"name": 49.91,
+			"val": 1.6981875698661224,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49003,
+			"name": 34.48,
+			"val": 1.537567257152675,
+			"group": "RAMAL"
+		},
+		{
+			"id": 48980,
+			"name": 60.88,
+			"val": 1.7844746437625165,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 58.52678222626104,
+			"desc": 1400,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49042,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48974,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48973,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48975,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49000,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49001,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48976,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "PANTANAL VEÍCULOS LTDA",
+			"name": "PANTANAL VEÍCULOS LTDA",
+			"val": 1528.509357363947,
+			"desc": 26050,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 49004,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 48982,
+			"name": 3850,
+			"val": 3.5854607295085006,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 49052,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 49053,
+			"name": 5500,
+			"val": 3.7403626894942437,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 49005,
+			"name": 5500,
+			"val": 3.7403626894942437,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 48981,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"val": 0.269126592740915,
+			"desc": 16.6,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 49047,
+			"name": 4.6,
+			"val": 0.6627578316815741,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 49046,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 5.006532099417101,
+			"desc": 169.1,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 49049,
+			"name": 102.8,
+			"val": 2.0119931146592567,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 49050,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 26.28001093891467,
+			"desc": 695.79,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 48979,
+			"name": 695.79,
+			"val": 2.842478182709892,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "GOL LINHAS ÁREAS S.A.",
+			"name": "GOL LINHAS ÁREAS S.A.",
+			"val": 8.512718330560615,
+			"desc": 264.47,
+			"group": "GOL LINHAS ÁREAS S.A."
+		},
+		{
+			"id": 48977,
+			"name": 264.47,
+			"val": 2.422376415224179,
+			"group": "GOL LINHAS ÁREAS S.A."
+		},
+		{
+			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"val": 0.02661115545439128,
+			"desc": 3.6,
+			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
+		},
+		{
+			"id": 49048,
+			"name": 3.6,
+			"val": 0.5563025007672873,
+			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
+		},
+		{
+			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"val": 36.62582508442724,
+			"desc": 928.73,
+			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": 48978,
+			"name": 928.73,
+			"val": 2.9678894744314452,
+			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49041,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 49043,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 49040,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "EMIDIO SOUTO PEREIRA - EPP",
+			"name": "EMIDIO SOUTO PEREIRA - EPP",
+			"val": 16.275701693737652,
+			"desc": 460,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": 48972,
+			"name": 460,
+			"val": 2.6627578316815743,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10 COM AR",
+			"name": "CORREIOS - SEDEX 10 COM AR",
+			"val": 1.9873476532594525,
+			"desc": 78.85,
+			"group": "CORREIOS - SEDEX 10 COM AR"
+		},
+		{
+			"id": 49051,
+			"name": 78.85,
+			"val": 1.8968016976649216,
+			"group": "CORREIOS - SEDEX 10 COM AR"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 48999,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI",
+			"name": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI",
+			"val": 3244.8896797299767,
+			"desc": 51800,
+			"group": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI"
+		},
+		{
+			"id": 49044,
+			"name": 22300,
+			"val": 4.348304863048161,
+			"group": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI"
+		},
+		{
+			"id": 49002,
+			"name": 29500,
+			"val": 4.469822015978163,
+			"group": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 29602.24999999999
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49026,
+			"value": -466.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49016,
+			"value": 1767.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48988,
+			"value": 1753.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48989,
+			"value": 640.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49024,
+			"value": 594.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49019,
+			"value": 1742.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49056,
+			"value": 1892.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49061,
+			"value": 1306.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48990,
+			"value": 1677.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49023,
+			"value": 1753.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49028,
+			"value": -1667.19
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49062,
+			"value": -472.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49064,
+			"value": -332.11
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49018,
+			"value": 1028.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49063,
+			"value": -470.11
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49025,
+			"value": 1080.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49057,
+			"value": 780
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49059,
+			"value": 2025.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49022,
+			"value": 1858.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49014,
+			"value": 489.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49013,
+			"value": 1499.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49058,
+			"value": 1490.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49060,
+			"value": 1598.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49021,
+			"value": 1806.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48991,
+			"value": 1829.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49015,
+			"value": 762.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49017,
+			"value": 1425.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49012,
+			"value": 1399.89
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48992,
+			"value": -1667.19
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49020,
+			"value": 1190.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49055,
+			"value": 1886.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49027,
+			"value": -605.7
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 17681.81
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49071,
+			"value": 662
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49065,
+			"value": 22
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49067,
+			"value": 65.1
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49036,
+			"value": 1137.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49066,
+			"value": 22
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48995,
+			"value": 1141.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48998,
+			"value": 1545.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49037,
+			"value": 880.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49034,
+			"value": 805.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49068,
+			"value": 65.1
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49030,
+			"value": 978.89
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48997,
+			"value": 2130.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49039,
+			"value": 122
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48993,
+			"value": 35
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49031,
+			"value": 633.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49069,
+			"value": 209.9
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49029,
+			"value": 1399.89
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48994,
+			"value": 1217.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48996,
+			"value": 718
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49033,
+			"value": 681.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49038,
+			"value": 773.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49032,
+			"value": 1165.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49035,
+			"value": 1058.89
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49070,
+			"value": 209.9
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 10610.240000000002
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 49007,
+			"value": 1106.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48984,
+			"value": 1428.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 49011,
+			"value": 150
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 49008,
+			"value": 852.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48983,
+			"value": 1211.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 49054,
+			"value": 963.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48985,
+			"value": 1257.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 49006,
+			"value": 764
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 49010,
+			"value": 534.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48986,
+			"value": 865.94
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 49009,
+			"value": 731.08
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48987,
+			"value": 742.95
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 145.26999999999998
+		},
+		{
+			"source": "RAMAL",
+			"target": 49045,
+			"value": 49.91
+		},
+		{
+			"source": "RAMAL",
+			"target": 49003,
+			"value": 34.48
+		},
+		{
+			"source": "RAMAL",
+			"target": 48980,
+			"value": 60.88
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1400
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49042,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48974,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48973,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48975,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49000,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49001,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48976,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "PANTANAL VEÍCULOS LTDA",
+			"value": 26050
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 49004,
+			"value": 4000
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 48982,
+			"value": 3850
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 49052,
+			"value": 4000
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 49053,
+			"value": 5500
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 49005,
+			"value": 5500
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 48981,
+			"value": 3200
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"value": 16.6
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 49047,
+			"value": 4.6
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 49046,
+			"value": 12
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 169.1
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 49049,
+			"value": 102.8
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 49050,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 695.79
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 48979,
+			"value": 695.79
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS ÁREAS S.A.",
+			"value": 264.47
+		},
+		{
+			"source": "GOL LINHAS ÁREAS S.A.",
+			"target": 48977,
+			"value": 264.47
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"value": 3.6
+		},
+		{
+			"source": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"target": 49048,
+			"value": 3.6
+		},
+		{
+			"source": -100,
+			"target": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"value": 928.73
+		},
+		{
+			"source": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"target": 48978,
+			"value": 928.73
+		},
+		{
+			"source": -100,
+			"target": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 49041,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 200
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 49043,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 200
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 49040,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "EMIDIO SOUTO PEREIRA - EPP",
+			"value": 460
+		},
+		{
+			"source": "EMIDIO SOUTO PEREIRA - EPP",
+			"target": 48972,
+			"value": 460
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10 COM AR",
+			"value": 78.85
+		},
+		{
+			"source": "CORREIOS - SEDEX 10 COM AR",
+			"target": 49051,
+			"value": 78.85
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 48999,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI",
+			"value": 51800
+		},
+		{
+			"source": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI",
+			"target": 49044,
+			"value": 22300
+		},
+		{
+			"source": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI",
+			"target": 49002,
+			"value": 29500
+		}
+	]
+}

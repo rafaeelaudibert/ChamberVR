@@ -1,0 +1,1593 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ARLINDO CHINAGLIA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "E M DA SILVA RESTAURANTE",
+			"name": "E M DA SILVA RESTAURANTE",
+			"val": 0.3205677632976285,
+			"desc": 18.9,
+			"group": "E M DA SILVA RESTAURANTE"
+		},
+		{
+			"id": 5047,
+			"name": 18.9,
+			"val": 1.276461804173244,
+			"group": "E M DA SILVA RESTAURANTE"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 44.06947528205208,
+			"desc": 1091.66,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 5043,
+			"name": 679.97,
+			"val": 2.8324897522329033,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 5005,
+			"name": 411.69,
+			"val": 2.6145703180599975,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 1010.2627422678931,
+			"desc": 17879.47,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 4992,
+			"name": 1530.17,
+			"val": 3.184739683079401,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5019,
+			"name": 1700.17,
+			"val": 3.2304923486551367,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5018,
+			"name": 1908.39,
+			"val": 3.280667132181482,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 4990,
+			"name": 1586.17,
+			"val": 3.200349731597828,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 4991,
+			"name": 314,
+			"val": 2.496929648073215,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5020,
+			"name": 1908.39,
+			"val": 3.280667132181482,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5060,
+			"name": 1850.85,
+			"val": 3.2673712232845187,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5062,
+			"name": 1042.39,
+			"val": 3.018030236390589,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5021,
+			"name": 2007.85,
+			"val": 3.302731264944306,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5061,
+			"name": 2007.85,
+			"val": 3.302731264944306,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5022,
+			"name": 604.39,
+			"val": 2.7813172700601925,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5063,
+			"name": 805,
+			"val": 2.9057958803678687,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5059,
+			"name": 613.85,
+			"val": 2.788062260178738,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
+			"name": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
+			"val": 3.4324934124028306,
+			"desc": 123.49999999999999,
+			"group": "FAZENDA DOS PAES CONVENIENCIAS LTDA"
+		},
+		{
+			"id": 4980,
+			"name": 37.3,
+			"val": 1.5717088318086876,
+			"group": "FAZENDA DOS PAES CONVENIENCIAS LTDA"
+		},
+		{
+			"id": 4979,
+			"name": 40.4,
+			"val": 1.606381365110605,
+			"group": "FAZENDA DOS PAES CONVENIENCIAS LTDA"
+		},
+		{
+			"id": 5048,
+			"name": 45.8,
+			"val": 1.6608654780038692,
+			"group": "FAZENDA DOS PAES CONVENIENCIAS LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 848.8733042130948,
+			"desc": 15269.320000000002,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 4983,
+			"name": 1719.17,
+			"val": 3.23531882398866,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5055,
+			"name": 2029.39,
+			"val": 3.307365516019059,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5014,
+			"name": -45.8,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5013,
+			"name": 1756.85,
+			"val": 3.2447346829789523,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5056,
+			"name": 1756.85,
+			"val": 3.2447346829789523,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5009,
+			"name": 1624.85,
+			"val": 3.210813274743124,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5012,
+			"name": 1872.39,
+			"val": 3.272396312995665,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5058,
+			"name": -1670.65,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5017,
+			"name": -1872.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5054,
+			"name": 1872.39,
+			"val": 3.272396312995665,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5057,
+			"name": -1872.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 4985,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 4986,
+			"name": 1720.17,
+			"val": 3.2355713692410286,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 4984,
+			"name": 1104,
+			"val": 3.0429690733931802,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 4988,
+			"name": -1634.77,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5053,
+			"name": 3282.68,
+			"val": 3.5162285491905996,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 4987,
+			"name": 2297.49,
+			"val": 3.3612536297624924,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5016,
+			"name": -926.69,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5011,
+			"name": 973.84,
+			"val": 2.9884876090089127,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5015,
+			"name": -585.14,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 4989,
+			"name": -96.31,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5010,
+			"name": 1753.39,
+			"val": 3.2438785253407074,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "AUTO POSTO SIRACUSA LTDA ME",
+			"name": "AUTO POSTO SIRACUSA LTDA ME",
+			"val": 3.315307485892089,
+			"desc": 120,
+			"group": "AUTO POSTO SIRACUSA LTDA ME"
+		},
+		{
+			"id": 5027,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "AUTO POSTO SIRACUSA LTDA ME"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 19.307438132355383,
+			"desc": 532.9,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5040,
+			"name": 189.14,
+			"val": 2.2767833847002685,
+			"group": "RAMAL"
+		},
+		{
+			"id": 4974,
+			"name": 130.51,
+			"val": 2.115643789669941,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5002,
+			"name": 213.25,
+			"val": 2.3288890398395607,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CAXINGUI RESTAURANTE LTDA ME",
+			"name": "CAXINGUI RESTAURANTE LTDA ME",
+			"val": 7.516987023116346,
+			"desc": 238.03,
+			"group": "CAXINGUI RESTAURANTE LTDA ME"
+		},
+		{
+			"id": 4978,
+			"name": 103.28,
+			"val": 2.014016229258364,
+			"group": "CAXINGUI RESTAURANTE LTDA ME"
+		},
+		{
+			"id": 4995,
+			"name": 134.75,
+			"val": 2.1295287738587763,
+			"group": "CAXINGUI RESTAURANTE LTDA ME"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 33.687809670096584,
+			"desc": 863.44,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 5042,
+			"name": 490.99,
+			"val": 2.6910726469314303,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 5041,
+			"name": 372.45,
+			"val": 2.5710679786102455,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 1.6047084831777296,
+			"desc": 66.3,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 5045,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 21.912405839921067,
+			"desc": 594.45,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 4971,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5000,
+			"name": 86.68,
+			"val": 1.9379189026477803,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5038,
+			"name": 86.68,
+			"val": 1.9379189026477803,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 4973,
+			"name": 86.68,
+			"val": 1.9379189026477803,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 4972,
+			"name": 80.32,
+			"val": 1.904823699800944,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5037,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 4999,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5039,
+			"name": 80.32,
+			"val": 1.904823699800944,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5036,
+			"name": 80.32,
+			"val": 1.904823699800944,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 2.062207653261696,
+			"desc": 81.25999999999999,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 5052,
+			"name": 20.18,
+			"val": 1.3049211619008918,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 5051,
+			"name": 19.4,
+			"val": 1.287801729930226,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 5049,
+			"name": 22.68,
+			"val": 1.355643050220869,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 5050,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"val": 6.867893432470724,
+			"desc": 220.55,
+			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
+		},
+		{
+			"id": 5031,
+			"name": 220.55,
+			"val": 2.3435070621144263,
+			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
+		},
+		{
+			"id": "POSTO E RESTAURANTE PIRAJU LT",
+			"name": "POSTO E RESTAURANTE PIRAJU LT",
+			"val": 4.658699346112667,
+			"desc": 159.22,
+			"group": "POSTO E RESTAURANTE PIRAJU LT"
+		},
+		{
+			"id": 4998,
+			"name": 159.22,
+			"val": 2.2019976195831052,
+			"group": "POSTO E RESTAURANTE PIRAJU LT"
+		},
+		{
+			"id": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME",
+			"name": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME",
+			"val": 0.7709990981130845,
+			"desc": 37,
+			"group": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME"
+		},
+		{
+			"id": 4981,
+			"name": 37,
+			"val": 1.568201724066995,
+			"group": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 66.16515958720986,
+			"desc": 1559.49,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 5007,
+			"name": 1559.49,
+			"val": 3.192982594252673,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"val": 15.710229870980285,
+			"desc": 446.23,
+			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5035,
+			"name": 228.82,
+			"val": 2.359493981266232,
+			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 5034,
+			"name": 217.41,
+			"val": 2.3372795160379405,
+			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "POSTO DE SERVICOS ANEL VIARIO LTDA",
+			"name": "POSTO DE SERVICOS ANEL VIARIO LTDA",
+			"val": 12.668344272431227,
+			"desc": 371.04999999999995,
+			"group": "POSTO DE SERVICOS ANEL VIARIO LTDA"
+		},
+		{
+			"id": 4968,
+			"name": 64.01,
+			"val": 1.8062478271957905,
+			"group": "POSTO DE SERVICOS ANEL VIARIO LTDA"
+		},
+		{
+			"id": 4996,
+			"name": 151.31,
+			"val": 2.179867631270407,
+			"group": "POSTO DE SERVICOS ANEL VIARIO LTDA"
+		},
+		{
+			"id": 4997,
+			"name": 155.73,
+			"val": 2.1923722835985116,
+			"group": "POSTO DE SERVICOS ANEL VIARIO LTDA"
+		},
+		{
+			"id": "AUTO POSTO S3 AICAS LTDA",
+			"name": "AUTO POSTO S3 AICAS LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "AUTO POSTO S3 AICAS LTDA"
+		},
+		{
+			"id": 5026,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO S3 AICAS LTDA"
+		},
+		{
+			"id": "CAXINGUI RESTAURANTE LTDA",
+			"name": "CAXINGUI RESTAURANTE LTDA",
+			"val": 1.9270868367897054,
+			"desc": 76.9,
+			"group": "CAXINGUI RESTAURANTE LTDA"
+		},
+		{
+			"id": 5046,
+			"name": 76.9,
+			"val": 1.885926339801431,
+			"group": "CAXINGUI RESTAURANTE LTDA"
+		},
+		{
+			"id": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
+			"name": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
+			"val": 448.4547517904029,
+			"desc": 8580.06,
+			"group": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP"
+		},
+		{
+			"id": 4965,
+			"name": 2824.25,
+			"val": 3.4509031374275407,
+			"group": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP"
+		},
+		{
+			"id": 4994,
+			"name": 2920,
+			"val": 3.4653828514484184,
+			"group": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP"
+		},
+		{
+			"id": 5024,
+			"name": 2835.81,
+			"val": 3.4526771296436825,
+			"group": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 56.405736049578415,
+			"desc": 1355.3300000000002,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 4975,
+			"name": 379.66,
+			"val": 2.57939484340167,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 4976,
+			"name": 494.49,
+			"val": 2.694157513347289,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 5003,
+			"name": 481.18,
+			"val": 2.6823075678154633,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA",
+			"name": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA",
+			"val": 2.7353382523341363,
+			"desc": 102.4,
+			"group": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA"
+		},
+		{
+			"id": 4969,
+			"name": 102.4,
+			"val": 2.010299956639812,
+			"group": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA"
+		},
+		{
+			"id": "POSTO UNIAO DE LIMEIRA LTDA",
+			"name": "POSTO UNIAO DE LIMEIRA LTDA",
+			"val": 2.658512888023484,
+			"desc": 100.03,
+			"group": "POSTO UNIAO DE LIMEIRA LTDA"
+		},
+		{
+			"id": 5032,
+			"name": 100.03,
+			"val": 2.000130268805227,
+			"group": "POSTO UNIAO DE LIMEIRA LTDA"
+		},
+		{
+			"id": "JJA PETRO AUTO POSTO LTDA",
+			"name": "JJA PETRO AUTO POSTO LTDA",
+			"val": 2.658189411549134,
+			"desc": 100.02,
+			"group": "JJA PETRO AUTO POSTO LTDA"
+		},
+		{
+			"id": 5030,
+			"name": 100.02,
+			"val": 2.000086850211649,
+			"group": "JJA PETRO AUTO POSTO LTDA"
+		},
+		{
+			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"val": 8.632776086104649,
+			"desc": 267.63,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 4982,
+			"name": 267.63,
+			"val": 2.4275347940890435,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA",
+			"name": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA"
+		},
+		{
+			"id": 5029,
+			"name": 100,
+			"val": 2,
+			"group": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA"
+		},
+		{
+			"id": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
+			"name": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
+			"val": 152.39518526477983,
+			"desc": 3264,
+			"group": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP"
+		},
+		{
+			"id": 4964,
+			"name": 1088,
+			"val": 3.036628895362161,
+			"group": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP"
+		},
+		{
+			"id": 5023,
+			"name": 1088,
+			"val": 3.036628895362161,
+			"group": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP"
+		},
+		{
+			"id": 4993,
+			"name": 1088,
+			"val": 3.036628895362161,
+			"group": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 28.88100773447651,
+			"desc": 755.2,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 5008,
+			"name": 755.2,
+			"val": 2.8780619812900126,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "RODOPOSTO RUBI LT",
+			"name": "RODOPOSTO RUBI LT",
+			"val": 1.7468318836894843,
+			"desc": 71.01,
+			"group": "RODOPOSTO RUBI LT"
+		},
+		{
+			"id": 5033,
+			"name": 71.01,
+			"val": 1.8513195126487452,
+			"group": "RODOPOSTO RUBI LT"
+		},
+		{
+			"id": "INTELIG TELECOM",
+			"name": "INTELIG TELECOM",
+			"val": 7.689804698210457,
+			"desc": 242.65,
+			"group": "INTELIG TELECOM"
+		},
+		{
+			"id": 5001,
+			"name": 242.65,
+			"val": 2.3849802956513044,
+			"group": "INTELIG TELECOM"
+		},
+		{
+			"id": "WILSON V DA SILVA CUNHA",
+			"name": "WILSON V DA SILVA CUNHA",
+			"val": 3.651631262774796,
+			"desc": 130,
+			"group": "WILSON V DA SILVA CUNHA"
+		},
+		{
+			"id": 4970,
+			"name": 130,
+			"val": 2.113943352306837,
+			"group": "WILSON V DA SILVA CUNHA"
+		},
+		{
+			"id": "TIM S/A",
+			"name": "TIM S/A",
+			"val": 17.253242619796804,
+			"desc": 483.66999999999996,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 4977,
+			"name": 260.28,
+			"val": 2.415440798061818,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 5044,
+			"name": 223.39,
+			"val": 2.3490637281259508,
+			"group": "TIM S/A"
+		},
+		{
+			"id": "AUTO POSTO RAMAL LT",
+			"name": "AUTO POSTO RAMAL LT",
+			"val": 2.1927047721820436,
+			"desc": 85.43,
+			"group": "AUTO POSTO RAMAL LT"
+		},
+		{
+			"id": 5025,
+			"name": 85.43,
+			"val": 1.931610406362962,
+			"group": "AUTO POSTO RAMAL LT"
+		},
+		{
+			"id": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA",
+			"name": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA",
+			"val": 7.628025320125683,
+			"desc": 241,
+			"group": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 4967,
+			"name": 241,
+			"val": 2.3820170425748683,
+			"group": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Sheraton Montevideo",
+			"name": "Sheraton Montevideo",
+			"val": 14.906744702456185,
+			"desc": 426.56,
+			"group": "Sheraton Montevideo"
+		},
+		{
+			"id": 5006,
+			"name": 426.56,
+			"val": 2.629980127733765,
+			"group": "Sheraton Montevideo"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 22.148737997121763,
+			"desc": 599.99,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 5004,
+			"name": 599.99,
+			"val": 2.778144012081959,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "AUTO POSTO BERARDO EIRELI",
+			"name": "AUTO POSTO BERARDO EIRELI",
+			"val": 2.996302620553701,
+			"desc": 110.38,
+			"group": "AUTO POSTO BERARDO EIRELI"
+		},
+		{
+			"id": 4966,
+			"name": 110.38,
+			"val": 2.0428903897292447,
+			"group": "AUTO POSTO BERARDO EIRELI"
+		},
+		{
+			"id": "CARRETEIRO REVEND PETROLEO DERIVADOS LT",
+			"name": "CARRETEIRO REVEND PETROLEO DERIVADOS LT",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CARRETEIRO REVEND PETROLEO DERIVADOS LT"
+		},
+		{
+			"id": 5028,
+			"name": 100,
+			"val": 2,
+			"group": "CARRETEIRO REVEND PETROLEO DERIVADOS LT"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "E M DA SILVA RESTAURANTE",
+			"value": 18.9
+		},
+		{
+			"source": "E M DA SILVA RESTAURANTE",
+			"target": 5047,
+			"value": 18.9
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 1091.66
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 5043,
+			"value": 679.97
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 5005,
+			"value": 411.69
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 17879.47
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 4992,
+			"value": 1530.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5019,
+			"value": 1700.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5018,
+			"value": 1908.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 4990,
+			"value": 1586.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 4991,
+			"value": 314
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5020,
+			"value": 1908.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5060,
+			"value": 1850.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5062,
+			"value": 1042.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5021,
+			"value": 2007.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5061,
+			"value": 2007.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5022,
+			"value": 604.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5063,
+			"value": 805
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5059,
+			"value": 613.85
+		},
+		{
+			"source": -100,
+			"target": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
+			"value": 123.49999999999999
+		},
+		{
+			"source": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
+			"target": 4980,
+			"value": 37.3
+		},
+		{
+			"source": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
+			"target": 4979,
+			"value": 40.4
+		},
+		{
+			"source": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
+			"target": 5048,
+			"value": 45.8
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 15269.320000000002
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 4983,
+			"value": 1719.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5055,
+			"value": 2029.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5014,
+			"value": -45.8
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5013,
+			"value": 1756.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5056,
+			"value": 1756.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5009,
+			"value": 1624.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5012,
+			"value": 1872.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5058,
+			"value": -1670.65
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5017,
+			"value": -1872.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5054,
+			"value": 1872.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5057,
+			"value": -1872.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 4985,
+			"value": 210
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 4986,
+			"value": 1720.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 4984,
+			"value": 1104
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 4988,
+			"value": -1634.77
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5053,
+			"value": 3282.68
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 4987,
+			"value": 2297.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5016,
+			"value": -926.69
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5011,
+			"value": 973.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5015,
+			"value": -585.14
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 4989,
+			"value": -96.31
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5010,
+			"value": 1753.39
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SIRACUSA LTDA ME",
+			"value": 120
+		},
+		{
+			"source": "AUTO POSTO SIRACUSA LTDA ME",
+			"target": 5027,
+			"value": 120
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 532.9
+		},
+		{
+			"source": "RAMAL",
+			"target": 5040,
+			"value": 189.14
+		},
+		{
+			"source": "RAMAL",
+			"target": 4974,
+			"value": 130.51
+		},
+		{
+			"source": "RAMAL",
+			"target": 5002,
+			"value": 213.25
+		},
+		{
+			"source": -100,
+			"target": "CAXINGUI RESTAURANTE LTDA ME",
+			"value": 238.03
+		},
+		{
+			"source": "CAXINGUI RESTAURANTE LTDA ME",
+			"target": 4978,
+			"value": 103.28
+		},
+		{
+			"source": "CAXINGUI RESTAURANTE LTDA ME",
+			"target": 4995,
+			"value": 134.75
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 863.44
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 5042,
+			"value": 490.99
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 5041,
+			"value": 372.45
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 66.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 5045,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 594.45
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 4971,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5000,
+			"value": 86.68
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5038,
+			"value": 86.68
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 4973,
+			"value": 86.68
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 4972,
+			"value": 80.32
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5037,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 4999,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5039,
+			"value": 80.32
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5036,
+			"value": 80.32
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 81.25999999999999
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 5052,
+			"value": 20.18
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 5051,
+			"value": 19.4
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 5049,
+			"value": 22.68
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 5050,
+			"value": 19
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"value": 220.55
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"target": 5031,
+			"value": 220.55
+		},
+		{
+			"source": -100,
+			"target": "POSTO E RESTAURANTE PIRAJU LT",
+			"value": 159.22
+		},
+		{
+			"source": "POSTO E RESTAURANTE PIRAJU LT",
+			"target": 4998,
+			"value": 159.22
+		},
+		{
+			"source": -100,
+			"target": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME",
+			"value": 37
+		},
+		{
+			"source": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME",
+			"target": 4981,
+			"value": 37
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 1559.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 5007,
+			"value": 1559.49
+		},
+		{
+			"source": -100,
+			"target": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"value": 446.23
+		},
+		{
+			"source": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 5035,
+			"value": 228.82
+		},
+		{
+			"source": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 5034,
+			"value": 217.41
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE SERVICOS ANEL VIARIO LTDA",
+			"value": 371.04999999999995
+		},
+		{
+			"source": "POSTO DE SERVICOS ANEL VIARIO LTDA",
+			"target": 4968,
+			"value": 64.01
+		},
+		{
+			"source": "POSTO DE SERVICOS ANEL VIARIO LTDA",
+			"target": 4996,
+			"value": 151.31
+		},
+		{
+			"source": "POSTO DE SERVICOS ANEL VIARIO LTDA",
+			"target": 4997,
+			"value": 155.73
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO S3 AICAS LTDA",
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO S3 AICAS LTDA",
+			"target": 5026,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "CAXINGUI RESTAURANTE LTDA",
+			"value": 76.9
+		},
+		{
+			"source": "CAXINGUI RESTAURANTE LTDA",
+			"target": 5046,
+			"value": 76.9
+		},
+		{
+			"source": -100,
+			"target": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
+			"value": 8580.06
+		},
+		{
+			"source": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
+			"target": 4965,
+			"value": 2824.25
+		},
+		{
+			"source": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
+			"target": 4994,
+			"value": 2920
+		},
+		{
+			"source": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
+			"target": 5024,
+			"value": 2835.81
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 1355.3300000000002
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 4975,
+			"value": 379.66
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 4976,
+			"value": 494.49
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 5003,
+			"value": 481.18
+		},
+		{
+			"source": -100,
+			"target": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA",
+			"value": 102.4
+		},
+		{
+			"source": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA",
+			"target": 4969,
+			"value": 102.4
+		},
+		{
+			"source": -100,
+			"target": "POSTO UNIAO DE LIMEIRA LTDA",
+			"value": 100.03
+		},
+		{
+			"source": "POSTO UNIAO DE LIMEIRA LTDA",
+			"target": 5032,
+			"value": 100.03
+		},
+		{
+			"source": -100,
+			"target": "JJA PETRO AUTO POSTO LTDA",
+			"value": 100.02
+		},
+		{
+			"source": "JJA PETRO AUTO POSTO LTDA",
+			"target": 5030,
+			"value": 100.02
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"value": 267.63
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 4982,
+			"value": 267.63
+		},
+		{
+			"source": -100,
+			"target": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA",
+			"value": 100
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA",
+			"target": 5029,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
+			"value": 3264
+		},
+		{
+			"source": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
+			"target": 4964,
+			"value": 1088
+		},
+		{
+			"source": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
+			"target": 5023,
+			"value": 1088
+		},
+		{
+			"source": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
+			"target": 4993,
+			"value": 1088
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 755.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 5008,
+			"value": 755.2
+		},
+		{
+			"source": -100,
+			"target": "RODOPOSTO RUBI LT",
+			"value": 71.01
+		},
+		{
+			"source": "RODOPOSTO RUBI LT",
+			"target": 5033,
+			"value": 71.01
+		},
+		{
+			"source": -100,
+			"target": "INTELIG TELECOM",
+			"value": 242.65
+		},
+		{
+			"source": "INTELIG TELECOM",
+			"target": 5001,
+			"value": 242.65
+		},
+		{
+			"source": -100,
+			"target": "WILSON V DA SILVA CUNHA",
+			"value": 130
+		},
+		{
+			"source": "WILSON V DA SILVA CUNHA",
+			"target": 4970,
+			"value": 130
+		},
+		{
+			"source": -100,
+			"target": "TIM S/A",
+			"value": 483.66999999999996
+		},
+		{
+			"source": "TIM S/A",
+			"target": 4977,
+			"value": 260.28
+		},
+		{
+			"source": "TIM S/A",
+			"target": 5044,
+			"value": 223.39
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO RAMAL LT",
+			"value": 85.43
+		},
+		{
+			"source": "AUTO POSTO RAMAL LT",
+			"target": 5025,
+			"value": 85.43
+		},
+		{
+			"source": -100,
+			"target": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA",
+			"value": 241
+		},
+		{
+			"source": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA",
+			"target": 4967,
+			"value": 241
+		},
+		{
+			"source": -100,
+			"target": "Sheraton Montevideo",
+			"value": 426.56
+		},
+		{
+			"source": "Sheraton Montevideo",
+			"target": 5006,
+			"value": 426.56
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 599.99
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 5004,
+			"value": 599.99
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BERARDO EIRELI",
+			"value": 110.38
+		},
+		{
+			"source": "AUTO POSTO BERARDO EIRELI",
+			"target": 4966,
+			"value": 110.38
+		},
+		{
+			"source": -100,
+			"target": "CARRETEIRO REVEND PETROLEO DERIVADOS LT",
+			"value": 100
+		},
+		{
+			"source": "CARRETEIRO REVEND PETROLEO DERIVADOS LT",
+			"target": 5028,
+			"value": 100
+		}
+	]
+}

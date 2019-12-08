@@ -1,0 +1,1593 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "RICARDO IZAR"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "ENTREVIAS",
+			"name": "ENTREVIAS",
+			"val": 1.120272580598975,
+			"desc": 49.7,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 43474,
+			"name": 5.9,
+			"val": 0.7708520116421442,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 43470,
+			"name": 5.9,
+			"val": 0.7708520116421442,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 43471,
+			"name": 9.3,
+			"val": 0.9684829485539351,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 43472,
+			"name": 5.9,
+			"val": 0.7708520116421442,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 43475,
+			"name": 7.5,
+			"val": 0.8750612633917001,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 43473,
+			"name": 5.9,
+			"val": 0.7708520116421442,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 43476,
+			"name": 9.3,
+			"val": 0.9684829485539351,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": "AUTO POSTO ESCALADA LT",
+			"name": "AUTO POSTO ESCALADA LT",
+			"val": 7.965784284662087,
+			"desc": 250,
+			"group": "AUTO POSTO ESCALADA LT"
+		},
+		{
+			"id": 43438,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "AUTO POSTO ESCALADA LT"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 985.374469491179,
+			"desc": 17479.4,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43428,
+			"name": 1698.39,
+			"val": 3.230037424070328,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43430,
+			"name": 1082,
+			"val": 3.0342272607705505,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43424,
+			"name": 803.85,
+			"val": 2.9051750160992933,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43425,
+			"name": 800.39,
+			"val": 2.9033016539622385,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43432,
+			"name": 1184.85,
+			"val": 3.073663372881412,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43423,
+			"name": 1698.39,
+			"val": 3.230037424070328,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43431,
+			"name": 1847.39,
+			"val": 3.2665585884388535,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43426,
+			"name": 649.85,
+			"val": 2.812813123273506,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43397,
+			"name": 1586.17,
+			"val": 3.200349731597828,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43429,
+			"name": 1533.39,
+			"val": 3.185652626678804,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43396,
+			"name": 3003.56,
+			"val": 3.4776363119646274,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43427,
+			"name": 1591.17,
+			"val": 3.201716581983348,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "POSTO BOLA PESADA LT",
+			"name": "POSTO BOLA PESADA LT",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO BOLA PESADA LT"
+		},
+		{
+			"id": 43404,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO BOLA PESADA LT"
+		},
+		{
+			"id": "AUTOVIAS S/A",
+			"name": "AUTOVIAS S/A",
+			"val": 0.22588515349717106,
+			"desc": 14.6,
+			"group": "AUTOVIAS S/A"
+		},
+		{
+			"id": 43460,
+			"name": 7.3,
+			"val": 0.8633228601204559,
+			"group": "AUTOVIAS S/A"
+		},
+		{
+			"id": 43459,
+			"name": 7.3,
+			"val": 0.8633228601204559,
+			"group": "AUTOVIAS S/A"
+		},
+		{
+			"id": "CLASSIC AUTO POSTO LTDA",
+			"name": "CLASSIC AUTO POSTO LTDA",
+			"val": 4.337638076770334,
+			"desc": 150.01,
+			"group": "CLASSIC AUTO POSTO LTDA"
+		},
+		{
+			"id": 43441,
+			"name": 150.01,
+			"val": 2.1761202110560856,
+			"group": "CLASSIC AUTO POSTO LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 81.97523142018159,
+			"desc": 1883.73,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 43451,
+			"name": 239.99,
+			"val": 2.3801931457311913,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 43450,
+			"name": 593.64,
+			"val": 2.773523156411806,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 43449,
+			"name": 1050.1,
+			"val": 3.0212306584797024,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "SUELY ELIAS",
+			"name": "SUELY ELIAS",
+			"val": 902.9396531784114,
+			"desc": 16148.060000000001,
+			"group": "SUELY ELIAS"
+		},
+		{
+			"id": 43436,
+			"name": 5300,
+			"val": 3.724275869600789,
+			"group": "SUELY ELIAS"
+		},
+		{
+			"id": 43401,
+			"name": 5300,
+			"val": 3.724275869600789,
+			"group": "SUELY ELIAS"
+		},
+		{
+			"id": 43382,
+			"name": 5548.06,
+			"val": 3.7441411491438594,
+			"group": "SUELY ELIAS"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 11.988543823864774,
+			"desc": 353.96000000000004,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43448,
+			"name": 181.43,
+			"val": 2.2587091005698268,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43390,
+			"name": 29.77,
+			"val": 1.4737788346467249,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43412,
+			"name": 142.76,
+			"val": 2.154606539283623,
+			"group": "RAMAL"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 43.78904189959899,
+			"desc": 1085.58,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 43417,
+			"name": 239.99,
+			"val": 2.3801931457311913,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 43415,
+			"name": 266.85,
+			"val": 2.4262672071396065,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 43416,
+			"name": 578.74,
+			"val": 2.762483499952853,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 32.35037581856408,
+			"desc": 833.5099999999999,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43387,
+			"name": 110.13,
+			"val": 2.041905639223649,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43446,
+			"name": 278.39,
+			"val": 2.444653631000237,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43388,
+			"name": 67.62,
+			"val": 1.83007516642975,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43410,
+			"name": 337.21,
+			"val": 2.527900445194766,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43445,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "QUELUZ AUTO POSTO LTDA",
+			"name": "QUELUZ AUTO POSTO LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "QUELUZ AUTO POSTO LTDA"
+		},
+		{
+			"id": 43406,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "QUELUZ AUTO POSTO LTDA"
+		},
+		{
+			"id": "AB TRIANGULO",
+			"name": "AB TRIANGULO",
+			"val": 1.0330769004765537,
+			"desc": 46.6,
+			"group": "AB TRIANGULO"
+		},
+		{
+			"id": 43455,
+			"name": 13.1,
+			"val": 1.1172712956557642,
+			"group": "AB TRIANGULO"
+		},
+		{
+			"id": 43456,
+			"name": 13.1,
+			"val": 1.1172712956557642,
+			"group": "AB TRIANGULO"
+		},
+		{
+			"id": 43458,
+			"name": 7.3,
+			"val": 0.8633228601204559,
+			"group": "AB TRIANGULO"
+		},
+		{
+			"id": 43457,
+			"name": 13.1,
+			"val": 1.1172712956557642,
+			"group": "AB TRIANGULO"
+		},
+		{
+			"id": "CENTRO AUTOMOTIVO DINAMITE LTDA",
+			"name": "CENTRO AUTOMOTIVO DINAMITE LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "CENTRO AUTOMOTIVO DINAMITE LTDA"
+		},
+		{
+			"id": 43402,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CENTRO AUTOMOTIVO DINAMITE LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 60.04891147504344,
+			"desc": 1431.95,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 43477,
+			"name": 1431.95,
+			"val": 3.155927853793623,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "POSTO DE SERVICO S S LT",
+			"name": "POSTO DE SERVICO S S LT",
+			"val": 10.41921214677262,
+			"desc": 314.03000000000003,
+			"group": "POSTO DE SERVICO S S LT"
+		},
+		{
+			"id": 43405,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE SERVICO S S LT"
+		},
+		{
+			"id": 43443,
+			"name": 60.02,
+			"val": 1.7782959910888338,
+			"group": "POSTO DE SERVICO S S LT"
+		},
+		{
+			"id": 43385,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO DE SERVICO S S LT"
+		},
+		{
+			"id": 43384,
+			"name": 104.01,
+			"val": 2.0170750963760593,
+			"group": "POSTO DE SERVICO S S LT"
+		},
+		{
+			"id": "Telefônia Brasil S/A",
+			"name": "Telefônia Brasil S/A",
+			"val": 105.08083911063159,
+			"desc": 2346.35,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 43393,
+			"name": 728.51,
+			"val": 2.862435517554206,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 43392,
+			"name": 991.03,
+			"val": 2.996086801445168,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 43391,
+			"name": 266.85,
+			"val": 2.4262672071396065,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 43394,
+			"name": 359.96,
+			"val": 2.5562542431438247,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": "SABESP",
+			"name": "SABESP",
+			"val": 9.921019525948447,
+			"desc": 301.20000000000005,
+			"group": "SABESP"
+		},
+		{
+			"id": 43381,
+			"name": 100.4,
+			"val": 2.0017337128090005,
+			"group": "SABESP"
+		},
+		{
+			"id": 43435,
+			"name": 100.4,
+			"val": 2.0017337128090005,
+			"group": "SABESP"
+		},
+		{
+			"id": 43400,
+			"name": 100.4,
+			"val": 2.0017337128090005,
+			"group": "SABESP"
+		},
+		{
+			"id": "NEXTEL TELECOMUNICAÇÕES LTDA",
+			"name": "NEXTEL TELECOMUNICAÇÕES LTDA",
+			"val": 20.685296956956922,
+			"desc": 565.57,
+			"group": "NEXTEL TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 43411,
+			"name": 169.9,
+			"val": 2.230193378869046,
+			"group": "NEXTEL TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 43389,
+			"name": 199.83,
+			"val": 2.3006606883765213,
+			"group": "NEXTEL TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 43447,
+			"name": 195.84,
+			"val": 2.291901400465467,
+			"group": "NEXTEL TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"val": 2034.0482566428939,
+			"desc": 33800,
+			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
+		},
+		{
+			"id": 43444,
+			"name": 7800,
+			"val": 3.8920946026904804,
+			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
+		},
+		{
+			"id": 43386,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
+		},
+		{
+			"id": 43409,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
+		},
+		{
+			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"val": 40.97602011819397,
+			"desc": 1024.35,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 43398,
+			"name": 680.16,
+			"val": 2.8326110876230475,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 43378,
+			"name": 344.19,
+			"val": 2.5367982483044185,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 13.724915554933068,
+			"desc": 397.39,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43421,
+			"name": 397.39,
+			"val": 2.59921693423967,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"name": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43407,
+			"name": 100,
+			"val": 2,
+			"group": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43408,
+			"name": 100,
+			"val": 2,
+			"group": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"val": 0.652907815693699,
+			"desc": 32.5,
+			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
+		},
+		{
+			"id": 43464,
+			"name": 6.1,
+			"val": 0.785329835010767,
+			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
+		},
+		{
+			"id": 43463,
+			"name": 9.2,
+			"val": 0.9637878273455552,
+			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
+		},
+		{
+			"id": 43465,
+			"name": 8.1,
+			"val": 0.9084850188786497,
+			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
+		},
+		{
+			"id": 43466,
+			"name": 9.1,
+			"val": 0.9590413923210935,
+			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
+		},
+		{
+			"id": "MATHS INFORMATICA",
+			"name": "MATHS INFORMATICA",
+			"val": 234.79331885752092,
+			"desc": 4800,
+			"group": "MATHS INFORMATICA"
+		},
+		{
+			"id": 43379,
+			"name": 4800,
+			"val": 3.681241237375587,
+			"group": "MATHS INFORMATICA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 22.55981961244903,
+			"desc": 609.6099999999999,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 43454,
+			"name": 51.26,
+			"val": 1.709778601848225,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 43453,
+			"name": 35.46,
+			"val": 1.549738731264899,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 43419,
+			"name": 71.74,
+			"val": 1.8557613723399478,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 43420,
+			"name": 168.13,
+			"val": 2.2256452129754534,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 43418,
+			"name": 232.71,
+			"val": 2.3668150461638477,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 43395,
+			"name": 50.31,
+			"val": 1.7016543173257481,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "Concessionária do Aeroporto Internacional de Confins S/A",
+			"name": "Concessionária do Aeroporto Internacional de Confins S/A",
+			"val": 0.5359247630107077,
+			"desc": 27.9,
+			"group": "Concessionária do Aeroporto Internacional de Confins S/A"
+		},
+		{
+			"id": 43467,
+			"name": 13.1,
+			"val": 1.1172712956557642,
+			"group": "Concessionária do Aeroporto Internacional de Confins S/A"
+		},
+		{
+			"id": 43468,
+			"name": 7.3,
+			"val": 0.8633228601204559,
+			"group": "Concessionária do Aeroporto Internacional de Confins S/A"
+		},
+		{
+			"id": 43469,
+			"name": 7.5,
+			"val": 0.8750612633917001,
+			"group": "Concessionária do Aeroporto Internacional de Confins S/A"
+		},
+		{
+			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
+			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
+			"val": 14.41263340758394,
+			"desc": 414.4,
+			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A"
+		},
+		{
+			"id": 43433,
+			"name": 414.4,
+			"val": 2.6174197467371765,
+			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A"
+		},
+		{
+			"id": "Cia Aérea - PASSAREDO",
+			"name": "Cia Aérea - PASSAREDO",
+			"val": 36.844700787948724,
+			"desc": 933.57,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": 43422,
+			"name": 933.57,
+			"val": 2.970146887334878,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": "PREFEITURA DE SÃO PAULO",
+			"name": "PREFEITURA DE SÃO PAULO",
+			"val": 29.91476528702332,
+			"desc": 778.64,
+			"group": "PREFEITURA DE SÃO PAULO"
+		},
+		{
+			"id": 43399,
+			"name": 389.32,
+			"val": 2.590306714703341,
+			"group": "PREFEITURA DE SÃO PAULO"
+		},
+		{
+			"id": 43434,
+			"name": 389.32,
+			"val": 2.590306714703341,
+			"group": "PREFEITURA DE SÃO PAULO"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 49.782326829161306,
+			"desc": 1214.6399999999999,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 43414,
+			"name": 947.79,
+			"val": 2.9767121222070942,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 43413,
+			"name": 266.85,
+			"val": 2.4262672071396065,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "Papelaria ABC Comercio e Industria LTDA",
+			"name": "Papelaria ABC Comercio e Industria LTDA",
+			"val": 36.08378750235133,
+			"desc": 916.73,
+			"group": "Papelaria ABC Comercio e Industria LTDA"
+		},
+		{
+			"id": 43380,
+			"name": 916.73,
+			"val": 2.962241443874652,
+			"group": "Papelaria ABC Comercio e Industria LTDA"
+		},
+		{
+			"id": "WORKLINE",
+			"name": "WORKLINE",
+			"val": 85.74324144178016,
+			"desc": 1960,
+			"group": "WORKLINE"
+		},
+		{
+			"id": 43437,
+			"name": 980,
+			"val": 2.991226075692495,
+			"group": "WORKLINE"
+		},
+		{
+			"id": 43383,
+			"name": 980,
+			"val": 2.991226075692495,
+			"group": "WORKLINE"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 1.6047084831777296,
+			"desc": 66.3,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 43452,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA",
+			"name": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA"
+		},
+		{
+			"id": 43440,
+			"name": 100,
+			"val": 2,
+			"group": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA"
+		},
+		{
+			"id": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
+			"name": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
+			"val": 0.23870076464821835,
+			"desc": 15.2,
+			"group": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A"
+		},
+		{
+			"id": 43462,
+			"name": 7.6,
+			"val": 0.8808135922807914,
+			"group": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A"
+		},
+		{
+			"id": 43461,
+			"name": 7.6,
+			"val": 0.8808135922807914,
+			"group": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A"
+		},
+		{
+			"id": "GROENLANDIA AUTO POSTO LT",
+			"name": "GROENLANDIA AUTO POSTO LT",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "GROENLANDIA AUTO POSTO LT"
+		},
+		{
+			"id": 43442,
+			"name": 100,
+			"val": 2,
+			"group": "GROENLANDIA AUTO POSTO LT"
+		},
+		{
+			"id": "CENTRO AUTOMOTIVO TANNAT LTDA",
+			"name": "CENTRO AUTOMOTIVO TANNAT LTDA",
+			"val": 1.0739996542625925,
+			"desc": 48.06,
+			"group": "CENTRO AUTOMOTIVO TANNAT LTDA"
+		},
+		{
+			"id": 43403,
+			"name": 48.06,
+			"val": 1.6817837664678814,
+			"group": "CENTRO AUTOMOTIVO TANNAT LTDA"
+		},
+		{
+			"id": "AUTO POSTO JORUHI LTDA",
+			"name": "AUTO POSTO JORUHI LTDA",
+			"val": 4.33694435567191,
+			"desc": 149.99,
+			"group": "AUTO POSTO JORUHI LTDA"
+		},
+		{
+			"id": 43439,
+			"name": 149.99,
+			"val": 2.1760623051250794,
+			"group": "AUTO POSTO JORUHI LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "ENTREVIAS",
+			"value": 49.7
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 43474,
+			"value": 5.9
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 43470,
+			"value": 5.9
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 43471,
+			"value": 9.3
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 43472,
+			"value": 5.9
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 43475,
+			"value": 7.5
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 43473,
+			"value": 5.9
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 43476,
+			"value": 9.3
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ESCALADA LT",
+			"value": 250
+		},
+		{
+			"source": "AUTO POSTO ESCALADA LT",
+			"target": 43438,
+			"value": 250
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 17479.4
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43428,
+			"value": 1698.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43430,
+			"value": 1082
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43424,
+			"value": 803.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43425,
+			"value": 800.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43432,
+			"value": 1184.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43423,
+			"value": 1698.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43431,
+			"value": 1847.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43426,
+			"value": 649.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43397,
+			"value": 1586.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43429,
+			"value": 1533.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43396,
+			"value": 3003.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43427,
+			"value": 1591.17
+		},
+		{
+			"source": -100,
+			"target": "POSTO BOLA PESADA LT",
+			"value": 100
+		},
+		{
+			"source": "POSTO BOLA PESADA LT",
+			"target": 43404,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTOVIAS S/A",
+			"value": 14.6
+		},
+		{
+			"source": "AUTOVIAS S/A",
+			"target": 43460,
+			"value": 7.3
+		},
+		{
+			"source": "AUTOVIAS S/A",
+			"target": 43459,
+			"value": 7.3
+		},
+		{
+			"source": -100,
+			"target": "CLASSIC AUTO POSTO LTDA",
+			"value": 150.01
+		},
+		{
+			"source": "CLASSIC AUTO POSTO LTDA",
+			"target": 43441,
+			"value": 150.01
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 1883.73
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 43451,
+			"value": 239.99
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 43450,
+			"value": 593.64
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 43449,
+			"value": 1050.1
+		},
+		{
+			"source": -100,
+			"target": "SUELY ELIAS",
+			"value": 16148.060000000001
+		},
+		{
+			"source": "SUELY ELIAS",
+			"target": 43436,
+			"value": 5300
+		},
+		{
+			"source": "SUELY ELIAS",
+			"target": 43401,
+			"value": 5300
+		},
+		{
+			"source": "SUELY ELIAS",
+			"target": 43382,
+			"value": 5548.06
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 353.96000000000004
+		},
+		{
+			"source": "RAMAL",
+			"target": 43448,
+			"value": 181.43
+		},
+		{
+			"source": "RAMAL",
+			"target": 43390,
+			"value": 29.77
+		},
+		{
+			"source": "RAMAL",
+			"target": 43412,
+			"value": 142.76
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 1085.58
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 43417,
+			"value": 239.99
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 43415,
+			"value": 266.85
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 43416,
+			"value": 578.74
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 833.5099999999999
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43387,
+			"value": 110.13
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43446,
+			"value": 278.39
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43388,
+			"value": 67.62
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43410,
+			"value": 337.21
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43445,
+			"value": 40.16
+		},
+		{
+			"source": -100,
+			"target": "QUELUZ AUTO POSTO LTDA",
+			"value": 50
+		},
+		{
+			"source": "QUELUZ AUTO POSTO LTDA",
+			"target": 43406,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "AB TRIANGULO",
+			"value": 46.6
+		},
+		{
+			"source": "AB TRIANGULO",
+			"target": 43455,
+			"value": 13.1
+		},
+		{
+			"source": "AB TRIANGULO",
+			"target": 43456,
+			"value": 13.1
+		},
+		{
+			"source": "AB TRIANGULO",
+			"target": 43458,
+			"value": 7.3
+		},
+		{
+			"source": "AB TRIANGULO",
+			"target": 43457,
+			"value": 13.1
+		},
+		{
+			"source": -100,
+			"target": "CENTRO AUTOMOTIVO DINAMITE LTDA",
+			"value": 150
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO DINAMITE LTDA",
+			"target": 43402,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 1431.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 43477,
+			"value": 1431.95
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE SERVICO S S LT",
+			"value": 314.03000000000003
+		},
+		{
+			"source": "POSTO DE SERVICO S S LT",
+			"target": 43405,
+			"value": 100
+		},
+		{
+			"source": "POSTO DE SERVICO S S LT",
+			"target": 43443,
+			"value": 60.02
+		},
+		{
+			"source": "POSTO DE SERVICO S S LT",
+			"target": 43385,
+			"value": 50
+		},
+		{
+			"source": "POSTO DE SERVICO S S LT",
+			"target": 43384,
+			"value": 104.01
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A",
+			"value": 2346.35
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 43393,
+			"value": 728.51
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 43392,
+			"value": 991.03
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 43391,
+			"value": 266.85
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 43394,
+			"value": 359.96
+		},
+		{
+			"source": -100,
+			"target": "SABESP",
+			"value": 301.20000000000005
+		},
+		{
+			"source": "SABESP",
+			"target": 43381,
+			"value": 100.4
+		},
+		{
+			"source": "SABESP",
+			"target": 43435,
+			"value": 100.4
+		},
+		{
+			"source": "SABESP",
+			"target": 43400,
+			"value": 100.4
+		},
+		{
+			"source": -100,
+			"target": "NEXTEL TELECOMUNICAÇÕES LTDA",
+			"value": 565.57
+		},
+		{
+			"source": "NEXTEL TELECOMUNICAÇÕES LTDA",
+			"target": 43411,
+			"value": 169.9
+		},
+		{
+			"source": "NEXTEL TELECOMUNICAÇÕES LTDA",
+			"target": 43389,
+			"value": 199.83
+		},
+		{
+			"source": "NEXTEL TELECOMUNICAÇÕES LTDA",
+			"target": 43447,
+			"value": 195.84
+		},
+		{
+			"source": -100,
+			"target": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"value": 33800
+		},
+		{
+			"source": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"target": 43444,
+			"value": 7800
+		},
+		{
+			"source": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"target": 43386,
+			"value": 13000
+		},
+		{
+			"source": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"target": 43409,
+			"value": 13000
+		},
+		{
+			"source": -100,
+			"target": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"value": 1024.35
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 43398,
+			"value": 680.16
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 43378,
+			"value": 344.19
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 397.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43421,
+			"value": 397.39
+		},
+		{
+			"source": -100,
+			"target": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 43407,
+			"value": 100
+		},
+		{
+			"source": "SAO LUIS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 43408,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"value": 32.5
+		},
+		{
+			"source": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"target": 43464,
+			"value": 6.1
+		},
+		{
+			"source": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"target": 43463,
+			"value": 9.2
+		},
+		{
+			"source": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"target": 43465,
+			"value": 8.1
+		},
+		{
+			"source": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"target": 43466,
+			"value": 9.1
+		},
+		{
+			"source": -100,
+			"target": "MATHS INFORMATICA",
+			"value": 4800
+		},
+		{
+			"source": "MATHS INFORMATICA",
+			"target": 43379,
+			"value": 4800
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 609.6099999999999
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 43454,
+			"value": 51.26
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 43453,
+			"value": 35.46
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 43419,
+			"value": 71.74
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 43420,
+			"value": 168.13
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 43418,
+			"value": 232.71
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 43395,
+			"value": 50.31
+		},
+		{
+			"source": -100,
+			"target": "Concessionária do Aeroporto Internacional de Confins S/A",
+			"value": 27.9
+		},
+		{
+			"source": "Concessionária do Aeroporto Internacional de Confins S/A",
+			"target": 43467,
+			"value": 13.1
+		},
+		{
+			"source": "Concessionária do Aeroporto Internacional de Confins S/A",
+			"target": 43468,
+			"value": 7.3
+		},
+		{
+			"source": "Concessionária do Aeroporto Internacional de Confins S/A",
+			"target": 43469,
+			"value": 7.5
+		},
+		{
+			"source": -100,
+			"target": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
+			"value": 414.4
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
+			"target": 43433,
+			"value": 414.4
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - PASSAREDO",
+			"value": 933.57
+		},
+		{
+			"source": "Cia Aérea - PASSAREDO",
+			"target": 43422,
+			"value": 933.57
+		},
+		{
+			"source": -100,
+			"target": "PREFEITURA DE SÃO PAULO",
+			"value": 778.64
+		},
+		{
+			"source": "PREFEITURA DE SÃO PAULO",
+			"target": 43399,
+			"value": 389.32
+		},
+		{
+			"source": "PREFEITURA DE SÃO PAULO",
+			"target": 43434,
+			"value": 389.32
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 1214.6399999999999
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 43414,
+			"value": 947.79
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 43413,
+			"value": 266.85
+		},
+		{
+			"source": -100,
+			"target": "Papelaria ABC Comercio e Industria LTDA",
+			"value": 916.73
+		},
+		{
+			"source": "Papelaria ABC Comercio e Industria LTDA",
+			"target": 43380,
+			"value": 916.73
+		},
+		{
+			"source": -100,
+			"target": "WORKLINE",
+			"value": 1960
+		},
+		{
+			"source": "WORKLINE",
+			"target": 43437,
+			"value": 980
+		},
+		{
+			"source": "WORKLINE",
+			"target": 43383,
+			"value": 980
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 66.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 43452,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA",
+			"value": 100
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA",
+			"target": 43440,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
+			"value": 15.2
+		},
+		{
+			"source": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
+			"target": 43462,
+			"value": 7.6
+		},
+		{
+			"source": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
+			"target": 43461,
+			"value": 7.6
+		},
+		{
+			"source": -100,
+			"target": "GROENLANDIA AUTO POSTO LT",
+			"value": 100
+		},
+		{
+			"source": "GROENLANDIA AUTO POSTO LT",
+			"target": 43442,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CENTRO AUTOMOTIVO TANNAT LTDA",
+			"value": 48.06
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO TANNAT LTDA",
+			"target": 43403,
+			"value": 48.06
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO JORUHI LTDA",
+			"value": 149.99
+		},
+		{
+			"source": "AUTO POSTO JORUHI LTDA",
+			"target": 43439,
+			"value": 149.99
+		}
+	]
+}

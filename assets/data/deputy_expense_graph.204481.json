@@ -1,0 +1,1509 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "DR. JAZIEL"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 981.1338941958218,
+			"desc": 17411.149999999998,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14183,
+			"name": 1357.98,
+			"val": 3.1328933738078115,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14234,
+			"name": 834.39,
+			"val": 2.9213690905157375,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14236,
+			"name": 1949.98,
+			"val": 3.2900301570372967,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14232,
+			"name": 432,
+			"val": 2.635483746814912,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14235,
+			"name": 1948.39,
+			"val": 3.2896758919139164,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14179,
+			"name": 1799.98,
+			"val": 3.2552676795822544,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14181,
+			"name": 1948.39,
+			"val": 3.2896758919139164,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14233,
+			"name": 709.98,
+			"val": 2.8512461148993897,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14185,
+			"name": -1852.44,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14239,
+			"name": 569.39,
+			"val": 2.755409835513859,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14182,
+			"name": 1231.39,
+			"val": 3.09039562240598,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14238,
+			"name": 835.98,
+			"val": 2.922195887494593,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14237,
+			"name": 1949.98,
+			"val": 3.2900301570372967,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14184,
+			"name": 1357.98,
+			"val": 3.1328933738078115,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14180,
+			"name": 1356.39,
+			"val": 3.132384579277069,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 14231,
+			"name": 981.39,
+			"val": 2.9918416283677973,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"name": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"val": 28.22561937974777,
+			"desc": 740.29,
+			"group": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14243,
+			"name": 220.51,
+			"val": 2.343428289252123,
+			"group": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14242,
+			"name": 299,
+			"val": 2.4756711883244296,
+			"group": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14195,
+			"name": 220.78,
+			"val": 2.343959729007141,
+			"group": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 27.51417991316252,
+			"desc": 724.06,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 14197,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 14246,
+			"name": 251.76,
+			"val": 2.400986729905164,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 14198,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 14247,
+			"name": 272.3,
+			"val": 2.4350476413399647,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 17.593883730382743,
+			"desc": 491.88000000000005,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14176,
+			"name": 28.4,
+			"val": 1.4533183400470377,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14223,
+			"name": 27.18,
+			"val": 1.4342494523964755,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14175,
+			"name": 95.53,
+			"val": 1.9801397777457543,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14172,
+			"name": 29.74,
+			"val": 1.4733409641859354,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14173,
+			"name": 17.91,
+			"val": 1.2530955858490316,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14227,
+			"name": 34.18,
+			"val": 1.533772058384718,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14224,
+			"name": 34.89,
+			"val": 1.5427009694481109,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14174,
+			"name": 45.19,
+			"val": 1.6550423413312016,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14177,
+			"name": 23.35,
+			"val": 1.368286884902131,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14171,
+			"name": 47.19,
+			"val": 1.6738499773429494,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14226,
+			"name": 57,
+			"val": 1.7558748556724915,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14228,
+			"name": 23.06,
+			"val": 1.3628593029586802,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 14225,
+			"name": 28.26,
+			"val": 1.4511721575125398,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "L C M DINIZ SERVICOS",
+			"name": "L C M DINIZ SERVICOS",
+			"val": 443.8104022810225,
+			"desc": 8500,
+			"group": "L C M DINIZ SERVICOS"
+		},
+		{
+			"id": 14209,
+			"name": 8500,
+			"val": 3.929418925714293,
+			"group": "L C M DINIZ SERVICOS"
+		},
+		{
+			"id": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI",
+			"name": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI",
+			"val": 0.7023567243905076,
+			"desc": 34.4,
+			"group": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI"
+		},
+		{
+			"id": 14213,
+			"name": 34.4,
+			"val": 1.5365584425715302,
+			"group": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI"
+		},
+		{
+			"id": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"name": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"val": 188.72927942332714,
+			"desc": 3949.1899999999996,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14257,
+			"name": 198.46,
+			"val": 2.2976729870194537,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14249,
+			"name": 100,
+			"val": 2,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14203,
+			"name": 230.77,
+			"val": 2.3631793500586857,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14251,
+			"name": 126.8,
+			"val": 2.1031192535457137,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14258,
+			"name": 251.34,
+			"val": 2.400261610744863,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14207,
+			"name": 86.25,
+			"val": 1.9357591037453117,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14248,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14201,
+			"name": 229.06,
+			"val": 2.359949256382866,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14255,
+			"name": 100,
+			"val": 2,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14253,
+			"name": 74.32,
+			"val": 1.8711057009855854,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14205,
+			"name": 461.11,
+			"val": 2.6638045407787794,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14202,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14254,
+			"name": 189.46,
+			"val": 2.277517532969171,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14250,
+			"name": 173.58,
+			"val": 2.2394996840316264,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14256,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14204,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14166,
+			"name": 165.02,
+			"val": 2.217536582779137,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14206,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14200,
+			"name": 242.79,
+			"val": 2.3852307951122147,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14259,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14252,
+			"name": 218.99,
+			"val": 2.340424283589086,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": 14260,
+			"name": 151.24,
+			"val": 2.179666668690498,
+			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 4.619838103113603,
+			"desc": 158.11,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 14221,
+			"name": 11.23,
+			"val": 1.0503797562614579,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 14222,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 14170,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 14220,
+			"name": 22.18,
+			"val": 1.3459615418131412,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "BRASIL 21 EVENTOS E HOTELARIA LTDA",
+			"name": "BRASIL 21 EVENTOS E HOTELARIA LTDA",
+			"val": 28.854600926302822,
+			"desc": 754.6,
+			"group": "BRASIL 21 EVENTOS E HOTELARIA LTDA"
+		},
+		{
+			"id": 14212,
+			"name": 754.6,
+			"val": 2.877716800864977,
+			"group": "BRASIL 21 EVENTOS E HOTELARIA LTDA"
+		},
+		{
+			"id": "HDCN COMERCIO DE ALIMENTOS LTDA",
+			"name": "HDCN COMERCIO DE ALIMENTOS LTDA",
+			"val": 0.440156400069231,
+			"desc": 24,
+			"group": "HDCN COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 14217,
+			"name": 24,
+			"val": 1.380211241711606,
+			"group": "HDCN COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "J C COMERCIO DE COMBUSTIVÉL LTDA",
+			"name": "J C COMERCIO DE COMBUSTIVÉL LTDA",
+			"val": 10.54199492960264,
+			"desc": 317.18,
+			"group": "J C COMERCIO DE COMBUSTIVÉL LTDA"
+		},
+		{
+			"id": 14244,
+			"name": 86.77,
+			"val": 1.9383695974518063,
+			"group": "J C COMERCIO DE COMBUSTIVÉL LTDA"
+		},
+		{
+			"id": 14196,
+			"name": 230.41,
+			"val": 2.362501323929012,
+			"group": "J C COMERCIO DE COMBUSTIVÉL LTDA"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA",
+			"name": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA"
+		},
+		{
+			"id": 14194,
+			"name": 100,
+			"val": 2,
+			"group": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA"
+		},
+		{
+			"id": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
+			"name": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
+			"val": 832.3604928162363,
+			"desc": 15000,
+			"group": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA"
+		},
+		{
+			"id": 14208,
+			"name": 15000,
+			"val": 4.176091259055681,
+			"group": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA"
+		},
+		{
+			"id": "IGUACU NOVO BAR E RESTAURANTE",
+			"name": "IGUACU NOVO BAR E RESTAURANTE",
+			"val": 0.21111392156768968,
+			"desc": 13.9,
+			"group": "IGUACU NOVO BAR E RESTAURANTE"
+		},
+		{
+			"id": 14169,
+			"name": 13.9,
+			"val": 1.1430148002540952,
+			"group": "IGUACU NOVO BAR E RESTAURANTE"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 189.85650772475466,
+			"desc": 3970.23,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 14187,
+			"name": 689.98,
+			"val": 2.8388365023089612,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 14190,
+			"name": 589.39,
+			"val": 2.770402763034671,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 14188,
+			"name": 1336.39,
+			"val": 3.1259332172197096,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 14189,
+			"name": 666.08,
+			"val": 2.823526393542702,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 14186,
+			"name": 688.39,
+			"val": 2.8378345528577844,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "BECA COMERCIO DE ALIMENTOS LTDA.",
+			"name": "BECA COMERCIO DE ALIMENTOS LTDA.",
+			"val": 0.6490307786394058,
+			"desc": 32.35,
+			"group": "BECA COMERCIO DE ALIMENTOS LTDA."
+		},
+		{
+			"id": 14211,
+			"name": 32.35,
+			"val": 1.5098742850047193,
+			"group": "BECA COMERCIO DE ALIMENTOS LTDA."
+		},
+		{
+			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
+			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
+			"val": 0.3900704453089298,
+			"desc": 21.9,
+			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
+		},
+		{
+			"id": 14219,
+			"name": 21.9,
+			"val": 1.3404441148401183,
+			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
+		},
+		{
+			"id": "ANTONIO ARNALDO SALES PROTASIO",
+			"name": "ANTONIO ARNALDO SALES PROTASIO",
+			"val": 6.262886758854283,
+			"desc": 204.06,
+			"group": "ANTONIO ARNALDO SALES PROTASIO"
+		},
+		{
+			"id": 14192,
+			"name": 204.06,
+			"val": 2.3097578823163656,
+			"group": "ANTONIO ARNALDO SALES PROTASIO"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 14.225035334415098,
+			"desc": 409.77,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 14199,
+			"name": 195.12,
+			"val": 2.2903017873056744,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 14165,
+			"name": 214.65,
+			"val": 2.3317308928154574,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "JF e FILHOS RESTAURANTE LTDA",
+			"name": "JF e FILHOS RESTAURANTE LTDA",
+			"val": 1.3339742422183063,
+			"desc": 57.14,
+			"group": "JF e FILHOS RESTAURANTE LTDA"
+		},
+		{
+			"id": 14218,
+			"name": 57.14,
+			"val": 1.7569402360467241,
+			"group": "JF e FILHOS RESTAURANTE LTDA"
+		},
+		{
+			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"val": 376.7426538914525,
+			"desc": 7335,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": 14178,
+			"name": 3385,
+			"val": 3.529558673021163,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": 14229,
+			"name": 3950,
+			"val": 3.59659709562646,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": "POSTO BRASIL LTDA",
+			"name": "POSTO BRASIL LTDA",
+			"val": 3.349398741041111,
+			"desc": 121.02,
+			"group": "POSTO BRASIL LTDA"
+		},
+		{
+			"id": 14245,
+			"name": 121.02,
+			"val": 2.082857148596409,
+			"group": "POSTO BRASIL LTDA"
+		},
+		{
+			"id": "CPQ BRASIL S A",
+			"name": "CPQ BRASIL S A",
+			"val": 0.5384237512704516,
+			"desc": 28,
+			"group": "CPQ BRASIL S A"
+		},
+		{
+			"id": 14168,
+			"name": 28,
+			"val": 1.4471580313422192,
+			"group": "CPQ BRASIL S A"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.053488811581129,
+			"desc": 80.97999999999999,
+			"group": "RAMAL"
+		},
+		{
+			"id": 14167,
+			"name": 50.73,
+			"val": 1.705264862317404,
+			"group": "RAMAL"
+		},
+		{
+			"id": 14210,
+			"name": 30.25,
+			"val": 1.4807253789884878,
+			"group": "RAMAL"
+		},
+		{
+			"id": "JOÃO CLEMENTE POMPEU",
+			"name": "JOÃO CLEMENTE POMPEU",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "JOÃO CLEMENTE POMPEU"
+		},
+		{
+			"id": 14240,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "JOÃO CLEMENTE POMPEU"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 7.505409447182857,
+			"desc": 237.72,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 14193,
+			"name": 237.72,
+			"val": 2.376065721586172,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA",
+			"name": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA",
+			"val": 0.7550621689973303,
+			"desc": 36.4,
+			"group": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 14214,
+			"name": 36.4,
+			"val": 1.561101383649056,
+			"group": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 15.32520959379718,
+			"desc": 436.82000000000005,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 14163,
+			"name": 211.3,
+			"val": 2.3248994970523134,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 14164,
+			"name": 225.52,
+			"val": 2.353185062863546,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "PLENA INFORMATICA LTDA EPP",
+			"name": "PLENA INFORMATICA LTDA EPP",
+			"val": 84.768323248723,
+			"desc": 1940.3,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": 14162,
+			"name": 124,
+			"val": 2.093421685162235,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": 14191,
+			"name": 324.8,
+			"val": 2.5116160205691376,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": 14241,
+			"name": 355,
+			"val": 2.550228353055094,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": 14161,
+			"name": 1136.5,
+			"val": 3.0555694400609896,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": "Empada Conic",
+			"name": "Empada Conic",
+			"val": 0.2344134357365111,
+			"desc": 15,
+			"group": "Empada Conic"
+		},
+		{
+			"id": 14216,
+			"name": 15,
+			"val": 1.1760912590556813,
+			"group": "Empada Conic"
+		},
+		{
+			"id": "MB ESTACIONAMENTOS LTDA",
+			"name": "MB ESTACIONAMENTOS LTDA",
+			"val": 0.04795014384051631,
+			"desc": 5.1,
+			"group": "MB ESTACIONAMENTOS LTDA"
+		},
+		{
+			"id": 14230,
+			"name": 5.1,
+			"val": 0.7075701760979364,
+			"group": "MB ESTACIONAMENTOS LTDA"
+		},
+		{
+			"id": "DL CONFEITARIA E COMERCIO LTDA",
+			"name": "DL CONFEITARIA E COMERCIO LTDA",
+			"val": 0.9094646933379146,
+			"desc": 42.13,
+			"group": "DL CONFEITARIA E COMERCIO LTDA"
+		},
+		{
+			"id": 14215,
+			"name": 42.13,
+			"val": 1.6245914591268478,
+			"group": "DL CONFEITARIA E COMERCIO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 17411.149999999998
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14183,
+			"value": 1357.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14234,
+			"value": 834.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14236,
+			"value": 1949.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14232,
+			"value": 432
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14235,
+			"value": 1948.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14179,
+			"value": 1799.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14181,
+			"value": 1948.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14233,
+			"value": 709.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14185,
+			"value": -1852.44
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14239,
+			"value": 569.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14182,
+			"value": 1231.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14238,
+			"value": 835.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14237,
+			"value": 1949.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14184,
+			"value": 1357.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14180,
+			"value": 1356.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 14231,
+			"value": 981.39
+		},
+		{
+			"source": -100,
+			"target": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"value": 740.29
+		},
+		{
+			"source": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14243,
+			"value": 220.51
+		},
+		{
+			"source": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14242,
+			"value": 299
+		},
+		{
+			"source": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14195,
+			"value": 220.78
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 724.06
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 14197,
+			"value": 100
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 14246,
+			"value": 251.76
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 14198,
+			"value": 100
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 14247,
+			"value": 272.3
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 491.88000000000005
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14176,
+			"value": 28.4
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14223,
+			"value": 27.18
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14175,
+			"value": 95.53
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14172,
+			"value": 29.74
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14173,
+			"value": 17.91
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14227,
+			"value": 34.18
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14224,
+			"value": 34.89
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14174,
+			"value": 45.19
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14177,
+			"value": 23.35
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14171,
+			"value": 47.19
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14226,
+			"value": 57
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14228,
+			"value": 23.06
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 14225,
+			"value": 28.26
+		},
+		{
+			"source": -100,
+			"target": "L C M DINIZ SERVICOS",
+			"value": 8500
+		},
+		{
+			"source": "L C M DINIZ SERVICOS",
+			"target": 14209,
+			"value": 8500
+		},
+		{
+			"source": -100,
+			"target": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI",
+			"value": 34.4
+		},
+		{
+			"source": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI",
+			"target": 14213,
+			"value": 34.4
+		},
+		{
+			"source": -100,
+			"target": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"value": 3949.1899999999996
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14257,
+			"value": 198.46
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14249,
+			"value": 100
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14203,
+			"value": 230.77
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14251,
+			"value": 126.8
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14258,
+			"value": 251.34
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14207,
+			"value": 86.25
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14248,
+			"value": 200
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14201,
+			"value": 229.06
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14255,
+			"value": 100
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14253,
+			"value": 74.32
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14205,
+			"value": 461.11
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14202,
+			"value": 150
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14254,
+			"value": 189.46
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14250,
+			"value": 173.58
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14256,
+			"value": 50
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14204,
+			"value": 200
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14166,
+			"value": 165.02
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14206,
+			"value": 150
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14200,
+			"value": 242.79
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14259,
+			"value": 200
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14252,
+			"value": 218.99
+		},
+		{
+			"source": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
+			"target": 14260,
+			"value": 151.24
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 158.11
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 14221,
+			"value": 11.23
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 14222,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 14170,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 14220,
+			"value": 22.18
+		},
+		{
+			"source": -100,
+			"target": "BRASIL 21 EVENTOS E HOTELARIA LTDA",
+			"value": 754.6
+		},
+		{
+			"source": "BRASIL 21 EVENTOS E HOTELARIA LTDA",
+			"target": 14212,
+			"value": 754.6
+		},
+		{
+			"source": -100,
+			"target": "HDCN COMERCIO DE ALIMENTOS LTDA",
+			"value": 24
+		},
+		{
+			"source": "HDCN COMERCIO DE ALIMENTOS LTDA",
+			"target": 14217,
+			"value": 24
+		},
+		{
+			"source": -100,
+			"target": "J C COMERCIO DE COMBUSTIVÉL LTDA",
+			"value": 317.18
+		},
+		{
+			"source": "J C COMERCIO DE COMBUSTIVÉL LTDA",
+			"target": 14244,
+			"value": 86.77
+		},
+		{
+			"source": "J C COMERCIO DE COMBUSTIVÉL LTDA",
+			"target": 14196,
+			"value": 230.41
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA",
+			"value": 100
+		},
+		{
+			"source": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA",
+			"target": 14194,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
+			"value": 15000
+		},
+		{
+			"source": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
+			"target": 14208,
+			"value": 15000
+		},
+		{
+			"source": -100,
+			"target": "IGUACU NOVO BAR E RESTAURANTE",
+			"value": 13.9
+		},
+		{
+			"source": "IGUACU NOVO BAR E RESTAURANTE",
+			"target": 14169,
+			"value": 13.9
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 3970.23
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 14187,
+			"value": 689.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 14190,
+			"value": 589.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 14188,
+			"value": 1336.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 14189,
+			"value": 666.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 14186,
+			"value": 688.39
+		},
+		{
+			"source": -100,
+			"target": "BECA COMERCIO DE ALIMENTOS LTDA.",
+			"value": 32.35
+		},
+		{
+			"source": "BECA COMERCIO DE ALIMENTOS LTDA.",
+			"target": 14211,
+			"value": 32.35
+		},
+		{
+			"source": -100,
+			"target": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
+			"value": 21.9
+		},
+		{
+			"source": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
+			"target": 14219,
+			"value": 21.9
+		},
+		{
+			"source": -100,
+			"target": "ANTONIO ARNALDO SALES PROTASIO",
+			"value": 204.06
+		},
+		{
+			"source": "ANTONIO ARNALDO SALES PROTASIO",
+			"target": 14192,
+			"value": 204.06
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 409.77
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 14199,
+			"value": 195.12
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 14165,
+			"value": 214.65
+		},
+		{
+			"source": -100,
+			"target": "JF e FILHOS RESTAURANTE LTDA",
+			"value": 57.14
+		},
+		{
+			"source": "JF e FILHOS RESTAURANTE LTDA",
+			"target": 14218,
+			"value": 57.14
+		},
+		{
+			"source": -100,
+			"target": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"value": 7335
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"target": 14178,
+			"value": 3385
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"target": 14229,
+			"value": 3950
+		},
+		{
+			"source": -100,
+			"target": "POSTO BRASIL LTDA",
+			"value": 121.02
+		},
+		{
+			"source": "POSTO BRASIL LTDA",
+			"target": 14245,
+			"value": 121.02
+		},
+		{
+			"source": -100,
+			"target": "CPQ BRASIL S A",
+			"value": 28
+		},
+		{
+			"source": "CPQ BRASIL S A",
+			"target": 14168,
+			"value": 28
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 80.97999999999999
+		},
+		{
+			"source": "RAMAL",
+			"target": 14167,
+			"value": 50.73
+		},
+		{
+			"source": "RAMAL",
+			"target": 14210,
+			"value": 30.25
+		},
+		{
+			"source": -100,
+			"target": "JOÃO CLEMENTE POMPEU",
+			"value": 3000
+		},
+		{
+			"source": "JOÃO CLEMENTE POMPEU",
+			"target": 14240,
+			"value": 3000
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 237.72
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 14193,
+			"value": 237.72
+		},
+		{
+			"source": -100,
+			"target": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA",
+			"value": 36.4
+		},
+		{
+			"source": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA",
+			"target": 14214,
+			"value": 36.4
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 436.82000000000005
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 14163,
+			"value": 211.3
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 14164,
+			"value": 225.52
+		},
+		{
+			"source": -100,
+			"target": "PLENA INFORMATICA LTDA EPP",
+			"value": 1940.3
+		},
+		{
+			"source": "PLENA INFORMATICA LTDA EPP",
+			"target": 14162,
+			"value": 124
+		},
+		{
+			"source": "PLENA INFORMATICA LTDA EPP",
+			"target": 14191,
+			"value": 324.8
+		},
+		{
+			"source": "PLENA INFORMATICA LTDA EPP",
+			"target": 14241,
+			"value": 355
+		},
+		{
+			"source": "PLENA INFORMATICA LTDA EPP",
+			"target": 14161,
+			"value": 1136.5
+		},
+		{
+			"source": -100,
+			"target": "Empada Conic",
+			"value": 15
+		},
+		{
+			"source": "Empada Conic",
+			"target": 14216,
+			"value": 15
+		},
+		{
+			"source": -100,
+			"target": "MB ESTACIONAMENTOS LTDA",
+			"value": 5.1
+		},
+		{
+			"source": "MB ESTACIONAMENTOS LTDA",
+			"target": 14230,
+			"value": 5.1
+		},
+		{
+			"source": -100,
+			"target": "DL CONFEITARIA E COMERCIO LTDA",
+			"value": 42.13
+		},
+		{
+			"source": "DL CONFEITARIA E COMERCIO LTDA",
+			"target": 14215,
+			"value": 42.13
+		}
+	]
+}

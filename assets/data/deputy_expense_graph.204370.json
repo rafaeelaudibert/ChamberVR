@@ -1,0 +1,1785 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "CÉLIO MOURA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.628715847176361,
+			"desc": 67.1,
+			"group": "RAMAL"
+		},
+		{
+			"id": 9536,
+			"name": 44.25,
+			"val": 1.6459132750338443,
+			"group": "RAMAL"
+		},
+		{
+			"id": 9487,
+			"name": 22.85,
+			"val": 1.3588862044058692,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Almir e Cia Ltda-ME",
+			"name": "Almir e Cia Ltda-ME",
+			"val": 220.61633473235753,
+			"desc": 4540,
+			"group": "Almir e Cia Ltda-ME"
+		},
+		{
+			"id": 9527,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "Almir e Cia Ltda-ME"
+		},
+		{
+			"id": 9482,
+			"name": 2040,
+			"val": 3.3096301674258988,
+			"group": "Almir e Cia Ltda-ME"
+		},
+		{
+			"id": "F G O SILVA",
+			"name": "F G O SILVA",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "F G O SILVA"
+		},
+		{
+			"id": 9483,
+			"name": 1000,
+			"val": 3,
+			"group": "F G O SILVA"
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"val": 4.626136879655514,
+			"desc": 158.29000000000002,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9495,
+			"name": 6.49,
+			"val": 0.8122446968003693,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9497,
+			"name": 9.26,
+			"val": 0.9666109866819343,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9499,
+			"name": 38.41,
+			"val": 1.5844443071651761,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9494,
+			"name": 6.48,
+			"val": 0.8115750058705934,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9552,
+			"name": 18.51,
+			"val": 1.2674064187529042,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9496,
+			"name": 6.26,
+			"val": 0.7965743332104297,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9555,
+			"name": 8.74,
+			"val": 0.9415114326344031,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9553,
+			"name": 32.33,
+			"val": 1.509605704611556,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9498,
+			"name": 18.69,
+			"val": 1.271609301378832,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9554,
+			"name": 13.12,
+			"val": 1.1179338350396415,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": "CLARO S/A - NET",
+			"name": "CLARO S/A - NET",
+			"val": 7.589867009742375,
+			"desc": 239.98,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 9486,
+			"name": 119.99,
+			"val": 2.079145053332749,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 9535,
+			"name": 119.99,
+			"val": 2.079145053332749,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 4.272495839007654,
+			"desc": 148.13,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9545,
+			"name": 22.91,
+			"val": 1.3600250891893975,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9488,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9543,
+			"name": 29.72,
+			"val": 1.4730488050885377,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9544,
+			"name": 29.72,
+			"val": 1.4730488050885377,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "Real Sul Transportes e Turismo LTDA - EPP",
+			"name": "Real Sul Transportes e Turismo LTDA - EPP",
+			"val": 4.949971581181241,
+			"desc": 167.5,
+			"group": "Real Sul Transportes e Turismo LTDA - EPP"
+		},
+		{
+			"id": 9503,
+			"name": 167.5,
+			"val": 2.224014811372864,
+			"group": "Real Sul Transportes e Turismo LTDA - EPP"
+		},
+		{
+			"id": "HOTEL DIPLOMAT",
+			"name": "HOTEL DIPLOMAT",
+			"val": 31.12654655597417,
+			"desc": 806,
+			"group": "HOTEL DIPLOMAT"
+		},
+		{
+			"id": 9491,
+			"name": 149,
+			"val": 2.173186268412274,
+			"group": "HOTEL DIPLOMAT"
+		},
+		{
+			"id": 9490,
+			"name": 657,
+			"val": 2.8175653695597807,
+			"group": "HOTEL DIPLOMAT"
+		},
+		{
+			"id": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME",
+			"name": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME",
+			"val": 13.54810200955053,
+			"desc": 393,
+			"group": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME"
+		},
+		{
+			"id": 9549,
+			"name": 130,
+			"val": 2.113943352306837,
+			"group": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME"
+		},
+		{
+			"id": 9550,
+			"name": 263,
+			"val": 2.419955748489758,
+			"group": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME"
+		},
+		{
+			"id": "AUTO POSTO 314 NORTE",
+			"name": "AUTO POSTO 314 NORTE",
+			"val": 5.625664046368412,
+			"desc": 186.46,
+			"group": "AUTO POSTO 314 NORTE"
+		},
+		{
+			"id": 9466,
+			"name": 186.46,
+			"val": 2.2705856798848245,
+			"group": "AUTO POSTO 314 NORTE"
+		},
+		{
+			"id": "PREFEITUA MUNICIPAL DE ARAGUAÍNA",
+			"name": "PREFEITUA MUNICIPAL DE ARAGUAÍNA",
+			"val": 1.2097313375527439,
+			"desc": 52.84,
+			"group": "PREFEITUA MUNICIPAL DE ARAGUAÍNA"
+		},
+		{
+			"id": 9461,
+			"name": 52.84,
+			"val": 1.7229628089424895,
+			"group": "PREFEITUA MUNICIPAL DE ARAGUAÍNA"
+		},
+		{
+			"id": "Auto Posto Biquinha Ltda",
+			"name": "Auto Posto Biquinha Ltda",
+			"val": 2.1791929182868186,
+			"desc": 85,
+			"group": "Auto Posto Biquinha Ltda"
+		},
+		{
+			"id": 9467,
+			"name": 85,
+			"val": 1.9294189257142929,
+			"group": "Auto Posto Biquinha Ltda"
+		},
+		{
+			"id": "STAR COM DE COMBUSTIVEL LTDA",
+			"name": "STAR COM DE COMBUSTIVEL LTDA",
+			"val": 5.42809995391977,
+			"desc": 180.95,
+			"group": "STAR COM DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 9481,
+			"name": 180.95,
+			"val": 2.257558587444218,
+			"group": "STAR COM DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 11.391463313646913,
+			"desc": 338.85,
+			"group": "060 COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 9512,
+			"name": 166.95,
+			"val": 2.2225864233903896,
+			"group": "060 COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 9465,
+			"name": 171.9,
+			"val": 2.2352758766870524,
+			"group": "060 COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Terezinha Fernandes da Cunha",
+			"name": "Terezinha Fernandes da Cunha",
+			"val": 126.96636553997307,
+			"desc": 2775.03,
+			"group": "Terezinha Fernandes da Cunha"
+		},
+		{
+			"id": 9462,
+			"name": 52.84,
+			"val": 1.7229628089424895,
+			"group": "Terezinha Fernandes da Cunha"
+		},
+		{
+			"id": 9464,
+			"name": 1200,
+			"val": 3.0791812460476247,
+			"group": "Terezinha Fernandes da Cunha"
+		},
+		{
+			"id": 9510,
+			"name": 1200,
+			"val": 3.0791812460476247,
+			"group": "Terezinha Fernandes da Cunha"
+		},
+		{
+			"id": 9463,
+			"name": 322.19,
+			"val": 2.5081120568398236,
+			"group": "Terezinha Fernandes da Cunha"
+		},
+		{
+			"id": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA",
+			"name": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA",
+			"val": 8.92316322767437,
+			"desc": 275.25,
+			"group": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA"
+		},
+		{
+			"id": 9522,
+			"name": 153.24,
+			"val": 2.18537214331104,
+			"group": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA"
+		},
+		{
+			"id": 9523,
+			"name": 122.01,
+			"val": 2.08639542712425,
+			"group": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA"
+		},
+		{
+			"id": "SEBASTIAO RIBEIRO JUNIOR",
+			"name": "SEBASTIAO RIBEIRO JUNIOR",
+			"val": 13.954100565767394,
+			"desc": 403.07,
+			"group": "SEBASTIAO RIBEIRO JUNIOR"
+		},
+		{
+			"id": 9480,
+			"name": 403.07,
+			"val": 2.605380475356462,
+			"group": "SEBASTIAO RIBEIRO JUNIOR"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 41.20678622378119,
+			"desc": 1029.3899999999999,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 9507,
+			"name": 994.39,
+			"val": 2.9975567482093566,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 9506,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 23.335632421362465,
+			"desc": 627.71,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 9519,
+			"name": 200.21,
+			"val": 2.3014857656325978,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 9472,
+			"name": 197.71,
+			"val": 2.2960286361067226,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 9520,
+			"name": 229.79,
+			"val": 2.3613311251385336,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "REAL EXPRESSO LTDA.",
+			"name": "REAL EXPRESSO LTDA.",
+			"val": 5.038385836573638,
+			"desc": 170,
+			"group": "REAL EXPRESSO LTDA."
+		},
+		{
+			"id": 9557,
+			"name": 60.2,
+			"val": 1.7795964912578246,
+			"group": "REAL EXPRESSO LTDA."
+		},
+		{
+			"id": 9558,
+			"name": 109.8,
+			"val": 2.040602340114073,
+			"group": "REAL EXPRESSO LTDA."
+		},
+		{
+			"id": "Amazonia Notícias - omelhordaamazonia.com.br",
+			"name": "Amazonia Notícias - omelhordaamazonia.com.br",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "Amazonia Notícias - omelhordaamazonia.com.br"
+		},
+		{
+			"id": 9528,
+			"name": 1000,
+			"val": 3,
+			"group": "Amazonia Notícias - omelhordaamazonia.com.br"
+		},
+		{
+			"id": "Condomínio Comercial Palácio das Acacias",
+			"name": "Condomínio Comercial Palácio das Acacias",
+			"val": 24.05281841498548,
+			"desc": 644.38,
+			"group": "Condomínio Comercial Palácio das Acacias"
+		},
+		{
+			"id": 9460,
+			"name": 322.19,
+			"val": 2.5081120568398236,
+			"group": "Condomínio Comercial Palácio das Acacias"
+		},
+		{
+			"id": 9508,
+			"name": 322.19,
+			"val": 2.5081120568398236,
+			"group": "Condomínio Comercial Palácio das Acacias"
+		},
+		{
+			"id": "Auto Posto Sof Norte Ltda",
+			"name": "Auto Posto Sof Norte Ltda",
+			"val": 12.846108984466436,
+			"desc": 375.5,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 9516,
+			"name": 189.59,
+			"val": 2.277815426570865,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 9517,
+			"name": 185.91,
+			"val": 2.269302750869341,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"name": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"val": 3.2466095262009027,
+			"desc": 117.94,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 9509,
+			"name": 117.94,
+			"val": 2.0716611234417877,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": "HOTEL ROMA",
+			"name": "HOTEL ROMA",
+			"val": 32.6844961352183,
+			"desc": 841,
+			"group": "HOTEL ROMA"
+		},
+		{
+			"id": 9492,
+			"name": 841,
+			"val": 2.924795995797912,
+			"group": "HOTEL ROMA"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 2.6517210944516236,
+			"desc": 99.82,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9489,
+			"name": 25.03,
+			"val": 1.3984608496082234,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9548,
+			"name": 37.58,
+			"val": 1.5749567757645069,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9547,
+			"name": 22.27,
+			"val": 1.347720217034038,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9546,
+			"name": 14.94,
+			"val": 1.17435059747938,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI",
+			"name": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI",
+			"val": 21.297389088834645,
+			"desc": 580,
+			"group": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI"
+		},
+		{
+			"id": 9530,
+			"name": 580,
+			"val": 2.7634279935629373,
+			"group": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI"
+		},
+		{
+			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"val": 13.31412998109551,
+			"desc": 387.18,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 9518,
+			"name": 207.15,
+			"val": 2.3162849376343124,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 9470,
+			"name": 180.03,
+			"val": 2.255344881485759,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": "DECIO AUTO POSTO GURUPI LTDA",
+			"name": "DECIO AUTO POSTO GURUPI LTDA",
+			"val": 5.039094010240687,
+			"desc": 170.02,
+			"group": "DECIO AUTO POSTO GURUPI LTDA"
+		},
+		{
+			"id": 9473,
+			"name": 170.02,
+			"val": 2.2305000118414706,
+			"group": "DECIO AUTO POSTO GURUPI LTDA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 25.9502107160998,
+			"desc": 688.2099999999999,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9533,
+			"name": 83.7,
+			"val": 1.92272545799326,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9484,
+			"name": 102.53,
+			"val": 2.010850957373923,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9531,
+			"name": 109,
+			"val": 2.037426497940624,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9485,
+			"name": 87.78,
+			"val": 1.9433955765089546,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9534,
+			"name": 265.05,
+			"val": 2.4233278085624455,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9532,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "JERIVA COMERCIO DE ALIMENTOS LTDA",
+			"name": "JERIVA COMERCIO DE ALIMENTOS LTDA",
+			"val": 0.9512050421303667,
+			"desc": 43.65,
+			"group": "JERIVA COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 9541,
+			"name": 43.65,
+			"val": 1.6399842480415885,
+			"group": "JERIVA COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "Kandango Transporte e Turismo Ltda EPP",
+			"name": "Kandango Transporte e Turismo Ltda EPP",
+			"val": 10.255008295837968,
+			"desc": 309.81,
+			"group": "Kandango Transporte e Turismo Ltda EPP"
+		},
+		{
+			"id": 9556,
+			"name": 139.9,
+			"val": 2.1458177144918276,
+			"group": "Kandango Transporte e Turismo Ltda EPP"
+		},
+		{
+			"id": 9500,
+			"name": 169.91,
+			"val": 2.230218939887381,
+			"group": "Kandango Transporte e Turismo Ltda EPP"
+		},
+		{
+			"id": "BAR E RESTAURANTE TIA ZELIA LTDA ME",
+			"name": "BAR E RESTAURANTE TIA ZELIA LTDA ME",
+			"val": 1.0526649582831245,
+			"desc": 47.3,
+			"group": "BAR E RESTAURANTE TIA ZELIA LTDA ME"
+		},
+		{
+			"id": 9540,
+			"name": 47.3,
+			"val": 1.6748611407378116,
+			"group": "BAR E RESTAURANTE TIA ZELIA LTDA ME"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 3.648245459643246,
+			"desc": 129.9,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 9511,
+			"name": 129.9,
+			"val": 2.1136091510730277,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 289.19267965033697,
+			"desc": 5784.759999999999,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 9559,
+			"name": 2913.18,
+			"val": 3.464367319708893,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 9505,
+			"name": 1730.79,
+			"val": 3.2382443773070397,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 9504,
+			"name": 1140.79,
+			"val": 3.0572057055619157,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "IRFATUR TUR. E HOTELARIA S/A",
+			"name": "IRFATUR TUR. E HOTELARIA S/A",
+			"val": 64.48579315780619,
+			"desc": 1524.6,
+			"group": "IRFATUR TUR. E HOTELARIA S/A"
+		},
+		{
+			"id": 9493,
+			"name": 653.4,
+			"val": 2.8151791301394185,
+			"group": "IRFATUR TUR. E HOTELARIA S/A"
+		},
+		{
+			"id": 9551,
+			"name": 871.2,
+			"val": 2.9401178667477184,
+			"group": "IRFATUR TUR. E HOTELARIA S/A"
+		},
+		{
+			"id": "AUTO POSTO JK LTDA",
+			"name": "AUTO POSTO JK LTDA",
+			"val": 5.058219826023311,
+			"desc": 170.56,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": 9513,
+			"name": 170.56,
+			"val": 2.231877187346478,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"name": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"val": 132.02558117878584,
+			"desc": 2873.0299999999997,
+			"group": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 9525,
+			"name": 205.18,
+			"val": 2.3121350254799613,
+			"group": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 9479,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 9524,
+			"name": 167.85,
+			"val": 2.2249213455840313,
+			"group": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "POSTO BOIADEIROS COM DERIVADOS PET TRANS LTDA",
+			"name": "POSTO BOIADEIROS COM DERIVADOS PET TRANS LTDA",
+			"val": 4.68673515779195,
+			"desc": 160.02,
+			"group": "POSTO BOIADEIROS COM DERIVADOS PET TRANS LTDA"
+		},
+		{
+			"id": 9475,
+			"name": 160.02,
+			"val": 2.2041742660735197,
+			"group": "POSTO BOIADEIROS COM DERIVADOS PET TRANS LTDA"
+		},
+		{
+			"id": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME",
+			"name": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME",
+			"val": 301.21792284919786,
+			"desc": 6000,
+			"group": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME"
+		},
+		{
+			"id": 9526,
+			"name": 6000,
+			"val": 3.778151250383644,
+			"group": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME"
+		},
+		{
+			"id": "S A LEAL COMERCIAL DE ALIMENTOS",
+			"name": "S A LEAL COMERCIAL DE ALIMENTOS",
+			"val": 0.7304730710817666,
+			"desc": 35.47,
+			"group": "S A LEAL COMERCIAL DE ALIMENTOS"
+		},
+		{
+			"id": 9542,
+			"name": 35.47,
+			"val": 1.5498611884719427,
+			"group": "S A LEAL COMERCIAL DE ALIMENTOS"
+		},
+		{
+			"id": "C & C COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "C & C COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 4.967990710323334,
+			"desc": 168.01,
+			"group": "C & C COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 9471,
+			"name": 168.01,
+			"val": 2.2253351318185404,
+			"group": "C & C COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO CERRADO LTDA",
+			"name": "AUTO POSTO CERRADO LTDA",
+			"val": 4.650993559560851,
+			"desc": 159,
+			"group": "AUTO POSTO CERRADO LTDA"
+		},
+		{
+			"id": 9468,
+			"name": 159,
+			"val": 2.2013971243204513,
+			"group": "AUTO POSTO CERRADO LTDA"
+		},
+		{
+			"id": "AUTO POSTO RAYNER LTDA",
+			"name": "AUTO POSTO RAYNER LTDA",
+			"val": 9.875356153540668,
+			"desc": 300.02,
+			"group": "AUTO POSTO RAYNER LTDA"
+		},
+		{
+			"id": 9515,
+			"name": 300.02,
+			"val": 2.477150206720067,
+			"group": "AUTO POSTO RAYNER LTDA"
+		},
+		{
+			"id": "AUTO POSTO PETER PAN 01 LTDA",
+			"name": "AUTO POSTO PETER PAN 01 LTDA",
+			"val": 3.4896198486242644,
+			"desc": 125.2,
+			"group": "AUTO POSTO PETER PAN 01 LTDA"
+		},
+		{
+			"id": 9469,
+			"name": 125.2,
+			"val": 2.097604328874411,
+			"group": "AUTO POSTO PETER PAN 01 LTDA"
+		},
+		{
+			"id": "AUTO POSTO RAINHA DA PAZ LTDA",
+			"name": "AUTO POSTO RAINHA DA PAZ LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO RAINHA DA PAZ LTDA"
+		},
+		{
+			"id": 9514,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO RAINHA DA PAZ LTDA"
+		},
+		{
+			"id": "J.O.POSTO DE COMBUSTIVEIS LTDA - ME",
+			"name": "J.O.POSTO DE COMBUSTIVEIS LTDA - ME",
+			"val": 6.480698795580034,
+			"desc": 210.02,
+			"group": "J.O.POSTO DE COMBUSTIVEIS LTDA - ME"
+		},
+		{
+			"id": 9474,
+			"name": 210.02,
+			"val": 2.3222606541436837,
+			"group": "J.O.POSTO DE COMBUSTIVEIS LTDA - ME"
+		},
+		{
+			"id": "202 OPEN SHOPPING COMERCIO DE ALIMENTOS LTDA",
+			"name": "202 OPEN SHOPPING COMERCIO DE ALIMENTOS LTDA",
+			"val": 0.7723297226654174,
+			"desc": 37.05,
+			"group": "202 OPEN SHOPPING COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 9539,
+			"name": 37.05,
+			"val": 1.568788212315347,
+			"group": "202 OPEN SHOPPING COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 2.4965451311657603,
+			"desc": 95,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 9537,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 0.4721881730049182,
+			"desc": 25.32,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 9538,
+			"name": 25.32,
+			"val": 1.4034637013453175,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"name": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"val": 13.841467406422446,
+			"desc": 400.28,
+			"group": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 9477,
+			"name": 198,
+			"val": 2.296665190261531,
+			"group": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 9478,
+			"name": 202.28,
+			"val": 2.3059529449605067,
+			"group": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "REAL EXPRESSO LIMITADA",
+			"name": "REAL EXPRESSO LIMITADA",
+			"val": 5.038739921709973,
+			"desc": 170.01,
+			"group": "REAL EXPRESSO LIMITADA"
+		},
+		{
+			"id": 9501,
+			"name": 109.81,
+			"val": 2.0406418915445363,
+			"group": "REAL EXPRESSO LIMITADA"
+		},
+		{
+			"id": 9502,
+			"name": 60.2,
+			"val": 1.7795964912578246,
+			"group": "REAL EXPRESSO LIMITADA"
+		},
+		{
+			"id": "Posto Vila Rica Ltda",
+			"name": "Posto Vila Rica Ltda",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "Posto Vila Rica Ltda"
+		},
+		{
+			"id": 9476,
+			"name": 100,
+			"val": 2,
+			"group": "Posto Vila Rica Ltda"
+		},
+		{
+			"id": "Dith2 Agencia Aigital Ltda",
+			"name": "Dith2 Agencia Aigital Ltda",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "Dith2 Agencia Aigital Ltda"
+		},
+		{
+			"id": 9529,
+			"name": 1000,
+			"val": 3,
+			"group": "Dith2 Agencia Aigital Ltda"
+		},
+		{
+			"id": "FURUKAWA &amp; CIA LTDA - ME",
+			"name": "FURUKAWA &amp; CIA LTDA - ME",
+			"val": 4.571237478333925,
+			"desc": 156.72,
+			"group": "FURUKAWA &amp; CIA LTDA - ME"
+		},
+		{
+			"id": 9521,
+			"name": 156.72,
+			"val": 2.1951244229866798,
+			"group": "FURUKAWA &amp; CIA LTDA - ME"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 67.1
+		},
+		{
+			"source": "RAMAL",
+			"target": 9536,
+			"value": 44.25
+		},
+		{
+			"source": "RAMAL",
+			"target": 9487,
+			"value": 22.85
+		},
+		{
+			"source": -100,
+			"target": "Almir e Cia Ltda-ME",
+			"value": 4540
+		},
+		{
+			"source": "Almir e Cia Ltda-ME",
+			"target": 9527,
+			"value": 2500
+		},
+		{
+			"source": "Almir e Cia Ltda-ME",
+			"target": 9482,
+			"value": 2040
+		},
+		{
+			"source": -100,
+			"target": "F G O SILVA",
+			"value": 1000
+		},
+		{
+			"source": "F G O SILVA",
+			"target": 9483,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"value": 158.29000000000002
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9495,
+			"value": 6.49
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9497,
+			"value": 9.26
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9499,
+			"value": 38.41
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9494,
+			"value": 6.48
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9552,
+			"value": 18.51
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9496,
+			"value": 6.26
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9555,
+			"value": 8.74
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9553,
+			"value": 32.33
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9498,
+			"value": 18.69
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9554,
+			"value": 13.12
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A - NET",
+			"value": 239.98
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 9486,
+			"value": 119.99
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 9535,
+			"value": 119.99
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 148.13
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9545,
+			"value": 22.91
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9488,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9543,
+			"value": 29.72
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9544,
+			"value": 29.72
+		},
+		{
+			"source": -100,
+			"target": "Real Sul Transportes e Turismo LTDA - EPP",
+			"value": 167.5
+		},
+		{
+			"source": "Real Sul Transportes e Turismo LTDA - EPP",
+			"target": 9503,
+			"value": 167.5
+		},
+		{
+			"source": -100,
+			"target": "HOTEL DIPLOMAT",
+			"value": 806
+		},
+		{
+			"source": "HOTEL DIPLOMAT",
+			"target": 9491,
+			"value": 149
+		},
+		{
+			"source": "HOTEL DIPLOMAT",
+			"target": 9490,
+			"value": 657
+		},
+		{
+			"source": -100,
+			"target": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME",
+			"value": 393
+		},
+		{
+			"source": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME",
+			"target": 9549,
+			"value": 130
+		},
+		{
+			"source": "HOTEL RESIDENCIAL ARAGUAINA LTDA - ME",
+			"target": 9550,
+			"value": 263
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO 314 NORTE",
+			"value": 186.46
+		},
+		{
+			"source": "AUTO POSTO 314 NORTE",
+			"target": 9466,
+			"value": 186.46
+		},
+		{
+			"source": -100,
+			"target": "PREFEITUA MUNICIPAL DE ARAGUAÍNA",
+			"value": 52.84
+		},
+		{
+			"source": "PREFEITUA MUNICIPAL DE ARAGUAÍNA",
+			"target": 9461,
+			"value": 52.84
+		},
+		{
+			"source": -100,
+			"target": "Auto Posto Biquinha Ltda",
+			"value": 85
+		},
+		{
+			"source": "Auto Posto Biquinha Ltda",
+			"target": 9467,
+			"value": 85
+		},
+		{
+			"source": -100,
+			"target": "STAR COM DE COMBUSTIVEL LTDA",
+			"value": 180.95
+		},
+		{
+			"source": "STAR COM DE COMBUSTIVEL LTDA",
+			"target": 9481,
+			"value": 180.95
+		},
+		{
+			"source": -100,
+			"target": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 338.85
+		},
+		{
+			"source": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 9512,
+			"value": 166.95
+		},
+		{
+			"source": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 9465,
+			"value": 171.9
+		},
+		{
+			"source": -100,
+			"target": "Terezinha Fernandes da Cunha",
+			"value": 2775.03
+		},
+		{
+			"source": "Terezinha Fernandes da Cunha",
+			"target": 9462,
+			"value": 52.84
+		},
+		{
+			"source": "Terezinha Fernandes da Cunha",
+			"target": 9464,
+			"value": 1200
+		},
+		{
+			"source": "Terezinha Fernandes da Cunha",
+			"target": 9510,
+			"value": 1200
+		},
+		{
+			"source": "Terezinha Fernandes da Cunha",
+			"target": 9463,
+			"value": 322.19
+		},
+		{
+			"source": -100,
+			"target": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA",
+			"value": 275.25
+		},
+		{
+			"source": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA",
+			"target": 9522,
+			"value": 153.24
+		},
+		{
+			"source": "REDE DITO-COMERCIO DE COMB. E DERIV. DE PETROLEO LTDA",
+			"target": 9523,
+			"value": 122.01
+		},
+		{
+			"source": -100,
+			"target": "SEBASTIAO RIBEIRO JUNIOR",
+			"value": 403.07
+		},
+		{
+			"source": "SEBASTIAO RIBEIRO JUNIOR",
+			"target": 9480,
+			"value": 403.07
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 1029.3899999999999
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 9507,
+			"value": 994.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 9506,
+			"value": 35
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 627.71
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 9519,
+			"value": 200.21
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 9472,
+			"value": 197.71
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 9520,
+			"value": 229.79
+		},
+		{
+			"source": -100,
+			"target": "REAL EXPRESSO LTDA.",
+			"value": 170
+		},
+		{
+			"source": "REAL EXPRESSO LTDA.",
+			"target": 9557,
+			"value": 60.2
+		},
+		{
+			"source": "REAL EXPRESSO LTDA.",
+			"target": 9558,
+			"value": 109.8
+		},
+		{
+			"source": -100,
+			"target": "Amazonia Notícias - omelhordaamazonia.com.br",
+			"value": 1000
+		},
+		{
+			"source": "Amazonia Notícias - omelhordaamazonia.com.br",
+			"target": 9528,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "Condomínio Comercial Palácio das Acacias",
+			"value": 644.38
+		},
+		{
+			"source": "Condomínio Comercial Palácio das Acacias",
+			"target": 9460,
+			"value": 322.19
+		},
+		{
+			"source": "Condomínio Comercial Palácio das Acacias",
+			"target": 9508,
+			"value": 322.19
+		},
+		{
+			"source": -100,
+			"target": "Auto Posto Sof Norte Ltda",
+			"value": 375.5
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 9516,
+			"value": 189.59
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 9517,
+			"value": 185.91
+		},
+		{
+			"source": -100,
+			"target": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"value": 117.94
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 9509,
+			"value": 117.94
+		},
+		{
+			"source": -100,
+			"target": "HOTEL ROMA",
+			"value": 841
+		},
+		{
+			"source": "HOTEL ROMA",
+			"target": 9492,
+			"value": 841
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 99.82
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9489,
+			"value": 25.03
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9548,
+			"value": 37.58
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9547,
+			"value": 22.27
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9546,
+			"value": 14.94
+		},
+		{
+			"source": -100,
+			"target": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI",
+			"value": 580
+		},
+		{
+			"source": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI",
+			"target": 9530,
+			"value": 580
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"value": 387.18
+		},
+		{
+			"source": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"target": 9518,
+			"value": 207.15
+		},
+		{
+			"source": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"target": 9470,
+			"value": 180.03
+		},
+		{
+			"source": -100,
+			"target": "DECIO AUTO POSTO GURUPI LTDA",
+			"value": 170.02
+		},
+		{
+			"source": "DECIO AUTO POSTO GURUPI LTDA",
+			"target": 9473,
+			"value": 170.02
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 688.2099999999999
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9533,
+			"value": 83.7
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9484,
+			"value": 102.53
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9531,
+			"value": 109
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9485,
+			"value": 87.78
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9534,
+			"value": 265.05
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9532,
+			"value": 40.15
+		},
+		{
+			"source": -100,
+			"target": "JERIVA COMERCIO DE ALIMENTOS LTDA",
+			"value": 43.65
+		},
+		{
+			"source": "JERIVA COMERCIO DE ALIMENTOS LTDA",
+			"target": 9541,
+			"value": 43.65
+		},
+		{
+			"source": -100,
+			"target": "Kandango Transporte e Turismo Ltda EPP",
+			"value": 309.81
+		},
+		{
+			"source": "Kandango Transporte e Turismo Ltda EPP",
+			"target": 9556,
+			"value": 139.9
+		},
+		{
+			"source": "Kandango Transporte e Turismo Ltda EPP",
+			"target": 9500,
+			"value": 169.91
+		},
+		{
+			"source": -100,
+			"target": "BAR E RESTAURANTE TIA ZELIA LTDA ME",
+			"value": 47.3
+		},
+		{
+			"source": "BAR E RESTAURANTE TIA ZELIA LTDA ME",
+			"target": 9540,
+			"value": 47.3
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 129.9
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 9511,
+			"value": 129.9
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 5784.759999999999
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 9559,
+			"value": 2913.18
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 9505,
+			"value": 1730.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 9504,
+			"value": 1140.79
+		},
+		{
+			"source": -100,
+			"target": "IRFATUR TUR. E HOTELARIA S/A",
+			"value": 1524.6
+		},
+		{
+			"source": "IRFATUR TUR. E HOTELARIA S/A",
+			"target": 9493,
+			"value": 653.4
+		},
+		{
+			"source": "IRFATUR TUR. E HOTELARIA S/A",
+			"target": 9551,
+			"value": 871.2
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO JK LTDA",
+			"value": 170.56
+		},
+		{
+			"source": "AUTO POSTO JK LTDA",
+			"target": 9513,
+			"value": 170.56
+		},
+		{
+			"source": -100,
+			"target": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"value": 2873.0299999999997
+		},
+		{
+			"source": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 9525,
+			"value": 205.18
+		},
+		{
+			"source": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 9479,
+			"value": 2500
+		},
+		{
+			"source": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 9524,
+			"value": 167.85
+		},
+		{
+			"source": -100,
+			"target": "POSTO BOIADEIROS COM DERIVADOS PET TRANS LTDA",
+			"value": 160.02
+		},
+		{
+			"source": "POSTO BOIADEIROS COM DERIVADOS PET TRANS LTDA",
+			"target": 9475,
+			"value": 160.02
+		},
+		{
+			"source": -100,
+			"target": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME",
+			"value": 6000
+		},
+		{
+			"source": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME",
+			"target": 9526,
+			"value": 6000
+		},
+		{
+			"source": -100,
+			"target": "S A LEAL COMERCIAL DE ALIMENTOS",
+			"value": 35.47
+		},
+		{
+			"source": "S A LEAL COMERCIAL DE ALIMENTOS",
+			"target": 9542,
+			"value": 35.47
+		},
+		{
+			"source": -100,
+			"target": "C & C COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 168.01
+		},
+		{
+			"source": "C & C COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 9471,
+			"value": 168.01
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CERRADO LTDA",
+			"value": 159
+		},
+		{
+			"source": "AUTO POSTO CERRADO LTDA",
+			"target": 9468,
+			"value": 159
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO RAYNER LTDA",
+			"value": 300.02
+		},
+		{
+			"source": "AUTO POSTO RAYNER LTDA",
+			"target": 9515,
+			"value": 300.02
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO PETER PAN 01 LTDA",
+			"value": 125.2
+		},
+		{
+			"source": "AUTO POSTO PETER PAN 01 LTDA",
+			"target": 9469,
+			"value": 125.2
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO RAINHA DA PAZ LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO RAINHA DA PAZ LTDA",
+			"target": 9514,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "J.O.POSTO DE COMBUSTIVEIS LTDA - ME",
+			"value": 210.02
+		},
+		{
+			"source": "J.O.POSTO DE COMBUSTIVEIS LTDA - ME",
+			"target": 9474,
+			"value": 210.02
+		},
+		{
+			"source": -100,
+			"target": "202 OPEN SHOPPING COMERCIO DE ALIMENTOS LTDA",
+			"value": 37.05
+		},
+		{
+			"source": "202 OPEN SHOPPING COMERCIO DE ALIMENTOS LTDA",
+			"target": 9539,
+			"value": 37.05
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 9537,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 25.32
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 9538,
+			"value": 25.32
+		},
+		{
+			"source": -100,
+			"target": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"value": 400.28
+		},
+		{
+			"source": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"target": 9477,
+			"value": 198
+		},
+		{
+			"source": "REDE DITO-COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"target": 9478,
+			"value": 202.28
+		},
+		{
+			"source": -100,
+			"target": "REAL EXPRESSO LIMITADA",
+			"value": 170.01
+		},
+		{
+			"source": "REAL EXPRESSO LIMITADA",
+			"target": 9501,
+			"value": 109.81
+		},
+		{
+			"source": "REAL EXPRESSO LIMITADA",
+			"target": 9502,
+			"value": 60.2
+		},
+		{
+			"source": -100,
+			"target": "Posto Vila Rica Ltda",
+			"value": 100
+		},
+		{
+			"source": "Posto Vila Rica Ltda",
+			"target": 9476,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "Dith2 Agencia Aigital Ltda",
+			"value": 1000
+		},
+		{
+			"source": "Dith2 Agencia Aigital Ltda",
+			"target": 9529,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "FURUKAWA &amp; CIA LTDA - ME",
+			"value": 156.72
+		},
+		{
+			"source": "FURUKAWA &amp; CIA LTDA - ME",
+			"target": 9521,
+			"value": 156.72
+		}
+	]
+}

@@ -1,0 +1,1677 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ROBERTO DE LUCENA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 5.697609063777015,
+			"desc": 188.45999999999998,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43796,
+			"name": 66.89,
+			"val": 1.8253611959526332,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43839,
+			"name": 121.57,
+			"val": 2.0848264166974335,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 1.7513883845073668,
+			"desc": 71.16,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 43840,
+			"name": 71.16,
+			"val": 1.8522359394118875,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 799.8409675743508,
+			"desc": 14468.269999999997,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43804,
+			"name": 1141.39,
+			"val": 3.0574340632682717,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43853,
+			"name": 1020.39,
+			"val": 3.0087661937969257,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43805,
+			"name": 1187.84,
+			"val": 3.0747579458667302,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43854,
+			"name": 1442.74,
+			"val": 3.1591880727849837,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43851,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43852,
+			"name": 876.35,
+			"val": 2.942677590997809,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43850,
+			"name": 1727.84,
+			"val": 3.237503523829044,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43847,
+			"name": 950.17,
+			"val": 2.9778013141908097,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43855,
+			"name": 758.74,
+			"val": 2.8800929802303474,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43803,
+			"name": 1631.39,
+			"val": 3.212557795866124,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43849,
+			"name": 731.39,
+			"val": 2.864149018109616,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43848,
+			"name": 1707.64,
+			"val": 3.2323963192262024,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43846,
+			"name": 992.39,
+			"val": 2.9966823793741537,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 52.44044454591545,
+			"desc": 1271.33,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 43824,
+			"name": 199.58,
+			"val": 2.30011701828987,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 43828,
+			"name": 247.05,
+			"val": 2.3927848582254354,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 43826,
+			"name": 200.52,
+			"val": 2.302157695941016,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 43827,
+			"name": 211.62,
+			"val": 2.325556710051133,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 43823,
+			"name": 180.01,
+			"val": 2.25529663190434,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 43825,
+			"name": 232.55,
+			"val": 2.366516343847535,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 5.395206389559981,
+			"desc": 180.03,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 43822,
+			"name": 180.03,
+			"val": 2.255344881485759,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 6.143807445736705,
+			"desc": 200.79000000000002,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43838,
+			"name": 24.48,
+			"val": 1.3888114134735237,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43793,
+			"name": 56.45,
+			"val": 1.7516639462609866,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43792,
+			"name": 119.86,
+			"val": 2.078674273360466,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
+			"name": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
+			"val": 126.03772781156839,
+			"desc": 2757,
+			"group": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI"
+		},
+		{
+			"id": 43791,
+			"name": 2757,
+			"val": 3.4404367661057735,
+			"group": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 288.3942566354829,
+			"desc": 5770.4400000000005,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43858,
+			"name": 1206.39,
+			"val": 3.0814877285896753,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43806,
+			"name": 1316.39,
+			"val": 3.1193845745025284,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43857,
+			"name": 970.84,
+			"val": 2.9871476615838777,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43860,
+			"name": 332,
+			"val": 2.5211380837040362,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43859,
+			"name": 1044.39,
+			"val": 3.018862704815393,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43856,
+			"name": 1172.84,
+			"val": 3.069238769270994,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43862,
+			"name": -1035.25,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43861,
+			"name": 1207.84,
+			"val": 3.0820094080274085,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43863,
+			"name": -445,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
+			"name": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
+			"val": 6.662710584984031,
+			"desc": 214.98,
+			"group": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 43784,
+			"name": 214.98,
+			"val": 2.3323980585497543,
+			"group": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO 4 IRMAOS JL LTDA",
+			"name": "POSTO 4 IRMAOS JL LTDA",
+			"val": 3.6083266256980777,
+			"desc": 128.72,
+			"group": "POSTO 4 IRMAOS JL LTDA"
+		},
+		{
+			"id": 43830,
+			"name": 128.72,
+			"val": 2.109646031090973,
+			"group": "POSTO 4 IRMAOS JL LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 626.0853408319009,
+			"desc": 11593.31,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43869,
+			"name": -292,
+			"val": null,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43811,
+			"name": 747,
+			"val": 2.873320601815399,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43809,
+			"name": 1152.84,
+			"val": 3.061769036749287,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43865,
+			"name": 900.84,
+			"val": 2.9546476619140103,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43866,
+			"name": 1351.39,
+			"val": 3.1307807009135917,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43864,
+			"name": 776.39,
+			"val": 2.8900799329852744,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43807,
+			"name": 1573.39,
+			"val": 3.196836385595016,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43812,
+			"name": 762,
+			"val": 2.8819549713396007,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43868,
+			"name": 1187.84,
+			"val": 3.0747579458667302,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43867,
+			"name": 1186.39,
+			"val": 3.0742274773973297,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43810,
+			"name": 1296.39,
+			"val": 3.112735672343535,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43808,
+			"name": 950.84,
+			"val": 2.978107443369429,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "AUTO POSTO JK LTDA",
+			"name": "AUTO POSTO JK LTDA",
+			"val": 21.966130398266525,
+			"desc": 595.71,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": 43820,
+			"name": 149.99,
+			"val": 2.1760623051250794,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": 43877,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": 43818,
+			"name": 90,
+			"val": 1.9542425094393248,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": 43819,
+			"name": 155.72,
+			"val": 2.192344395046124,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
+			"name": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
+			"val": 3.6773778489509787,
+			"desc": 130.76,
+			"group": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA"
+		},
+		{
+			"id": 43789,
+			"name": 130.76,
+			"val": 2.1164749119083313,
+			"group": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA"
+		},
+		{
+			"id": "AUTO POSTAO I LTDA",
+			"name": "AUTO POSTAO I LTDA",
+			"val": 2.799438555865948,
+			"desc": 104.37,
+			"group": "AUTO POSTAO I LTDA"
+		},
+		{
+			"id": 43816,
+			"name": 104.37,
+			"val": 2.0185756834672515,
+			"group": "AUTO POSTAO I LTDA"
+		},
+		{
+			"id": "PORTO SEGURO TELECOMUNICACOES LTDA",
+			"name": "PORTO SEGURO TELECOMUNICACOES LTDA",
+			"val": 8.444049050456439,
+			"desc": 262.65999999999997,
+			"group": "PORTO SEGURO TELECOMUNICACOES LTDA"
+		},
+		{
+			"id": 43794,
+			"name": 129.9,
+			"val": 2.1136091510730277,
+			"group": "PORTO SEGURO TELECOMUNICACOES LTDA"
+		},
+		{
+			"id": 43795,
+			"name": 132.76,
+			"val": 2.1230672437365663,
+			"group": "PORTO SEGURO TELECOMUNICACOES LTDA"
+		},
+		{
+			"id": "AUTO POSTO ARUJA VILLE LTDA",
+			"name": "AUTO POSTO ARUJA VILLE LTDA",
+			"val": 2.690241478149398,
+			"desc": 101.01,
+			"group": "AUTO POSTO ARUJA VILLE LTDA"
+		},
+		{
+			"id": 43871,
+			"name": 101.01,
+			"val": 2.004364371107751,
+			"group": "AUTO POSTO ARUJA VILLE LTDA"
+		},
+		{
+			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"val": 28.13652136508669,
+			"desc": 738.26,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 43845,
+			"name": 213.03,
+			"val": 2.3284407673684075,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 43801,
+			"name": 525.23,
+			"val": 2.7203495240860645,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": "AMORETTO CAFES EXPRESSO LTDA",
+			"name": "AMORETTO CAFES EXPRESSO LTDA",
+			"val": 67.91282430759108,
+			"desc": 1595.6999999999998,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 43778,
+			"name": 531.9,
+			"val": 2.7258299903205803,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 43813,
+			"name": 531.9,
+			"val": 2.7258299903205803,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 43870,
+			"name": 531.9,
+			"val": 2.7258299903205803,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"val": 6.115448415311677,
+			"desc": 200.01,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 43829,
+			"name": 200.01,
+			"val": 2.3010517098452263,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
+			"name": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
+			"val": 123.1064318729325,
+			"desc": 2700,
+			"group": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME"
+		},
+		{
+			"id": 43779,
+			"name": 900,
+			"val": 2.9542425094393248,
+			"group": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME"
+		},
+		{
+			"id": 43815,
+			"name": 900,
+			"val": 2.9542425094393248,
+			"group": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME"
+		},
+		{
+			"id": 43814,
+			"name": 900,
+			"val": 2.9542425094393248,
+			"group": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME"
+		},
+		{
+			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
+			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
+			"val": 30.86033980727912,
+			"desc": 800,
+			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
+		},
+		{
+			"id": 43834,
+			"name": 800,
+			"val": 2.9030899869919438,
+			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
+		},
+		{
+			"id": "AUTO POSTO LAGO NORTE LTDA",
+			"name": "AUTO POSTO LAGO NORTE LTDA",
+			"val": 24.817473106209707,
+			"desc": 662.09,
+			"group": "AUTO POSTO LAGO NORTE LTDA"
+		},
+		{
+			"id": 43781,
+			"name": 193.05,
+			"val": 2.285669805960068,
+			"group": "AUTO POSTO LAGO NORTE LTDA"
+		},
+		{
+			"id": 43821,
+			"name": 230,
+			"val": 2.361727836017593,
+			"group": "AUTO POSTO LAGO NORTE LTDA"
+		},
+		{
+			"id": 43782,
+			"name": 239.04,
+			"val": 2.3784705801353048,
+			"group": "AUTO POSTO LAGO NORTE LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 7.909359429312913,
+			"desc": 248.5,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 43780,
+			"name": 248.5,
+			"val": 2.395326393069351,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE",
+			"name": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE",
+			"val": 7.172171989735104,
+			"desc": 228.77,
+			"group": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE"
+		},
+		{
+			"id": 43872,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE"
+		},
+		{
+			"id": 43873,
+			"name": 128.77,
+			"val": 2.109814695694399,
+			"group": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE"
+		},
+		{
+			"id": "Movida Locação de Veículos S.A.",
+			"name": "Movida Locação de Veículos S.A.",
+			"val": 507.9866377150418,
+			"desc": 9600,
+			"group": "Movida Locação de Veículos S.A."
+		},
+		{
+			"id": 43800,
+			"name": 4800,
+			"val": 3.681241237375587,
+			"group": "Movida Locação de Veículos S.A."
+		},
+		{
+			"id": 43844,
+			"name": 4800,
+			"val": 3.681241237375587,
+			"group": "Movida Locação de Veículos S.A."
+		},
+		{
+			"id": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS",
+			"name": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS"
+		},
+		{
+			"id": 43836,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS"
+		},
+		{
+			"id": "AUTO POSTO ESTRELA DO RIO LTDA",
+			"name": "AUTO POSTO ESTRELA DO RIO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO ESTRELA DO RIO LTDA"
+		},
+		{
+			"id": 43874,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO ESTRELA DO RIO LTDA"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 0.8245227461425108,
+			"desc": 39,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 43790,
+			"name": 39,
+			"val": 1.591064607026499,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "POSTO ANTLETA LTDA",
+			"name": "POSTO ANTLETA LTDA",
+			"val": 3.80036026451281,
+			"desc": 134.38,
+			"group": "POSTO ANTLETA LTDA"
+		},
+		{
+			"id": 43831,
+			"name": 134.38,
+			"val": 2.128334636753716,
+			"group": "POSTO ANTLETA LTDA"
+		},
+		{
+			"id": "AUTO POSTO SAO MARCOS LTDA",
+			"name": "AUTO POSTO SAO MARCOS LTDA",
+			"val": 6.116175350951067,
+			"desc": 200.03,
+			"group": "AUTO POSTO SAO MARCOS LTDA"
+		},
+		{
+			"id": 43783,
+			"name": 200.03,
+			"val": 2.301095134950942,
+			"group": "AUTO POSTO SAO MARCOS LTDA"
+		},
+		{
+			"id": "JARJOUR FILIAL - 206 NORTE",
+			"name": "JARJOUR FILIAL - 206 NORTE",
+			"val": 5.040864503802918,
+			"desc": 170.07,
+			"group": "JARJOUR FILIAL - 206 NORTE"
+		},
+		{
+			"id": 43785,
+			"name": 170.07,
+			"val": 2.2306277117106323,
+			"group": "JARJOUR FILIAL - 206 NORTE"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 33.97906333170983,
+			"desc": 869.94,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 43802,
+			"name": 869.94,
+			"val": 2.9394893002421867,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "Movida Locação de Veículos LTDA",
+			"name": "Movida Locação de Veículos LTDA",
+			"val": 278.90712890504415,
+			"desc": 5600,
+			"group": "Movida Locação de Veículos LTDA"
+		},
+		{
+			"id": 43843,
+			"name": 2800,
+			"val": 3.4471580313422194,
+			"group": "Movida Locação de Veículos LTDA"
+		},
+		{
+			"id": 43799,
+			"name": 2800,
+			"val": 3.4471580313422194,
+			"group": "Movida Locação de Veículos LTDA"
+		},
+		{
+			"id": "RODOPOSTO MARISTELA LTDA",
+			"name": "RODOPOSTO MARISTELA LTDA",
+			"val": 3.7534102556866333,
+			"desc": 133,
+			"group": "RODOPOSTO MARISTELA LTDA"
+		},
+		{
+			"id": 43833,
+			"name": 133,
+			"val": 2.123851640967086,
+			"group": "RODOPOSTO MARISTELA LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 1.6047084831777296,
+			"desc": 66.3,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 43841,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"val": 507.9866377150418,
+			"desc": 9600,
+			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
+		},
+		{
+			"id": 43842,
+			"name": 4800,
+			"val": 3.681241237375587,
+			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
+		},
+		{
+			"id": 43798,
+			"name": 4800,
+			"val": 3.681241237375587,
+			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 6.667490003678131,
+			"desc": 215.11,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 43787,
+			"name": 215.11,
+			"val": 2.332660600270635,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "AUTO POSTO GARPELLI LTDA",
+			"name": "AUTO POSTO GARPELLI LTDA",
+			"val": 3.8443222895404396,
+			"desc": 135.67,
+			"group": "AUTO POSTO GARPELLI LTDA"
+		},
+		{
+			"id": 43876,
+			"name": 135.67,
+			"val": 2.1324838250005618,
+			"group": "AUTO POSTO GARPELLI LTDA"
+		},
+		{
+			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"val": 4.620887817118598,
+			"desc": 158.14,
+			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": 43786,
+			"name": 158.14,
+			"val": 2.199041734461483,
+			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO POSTO 92 DA RAPOSO LTDA",
+			"name": "AUTO POSTO 92 DA RAPOSO LTDA",
+			"val": 3.579610179669434,
+			"desc": 127.87,
+			"group": "AUTO POSTO 92 DA RAPOSO LTDA"
+		},
+		{
+			"id": 43817,
+			"name": 127.87,
+			"val": 2.106768665176806,
+			"group": "AUTO POSTO 92 DA RAPOSO LTDA"
+		},
+		{
+			"id": "2HC SOLUCOES INTEGRADAS LTDA",
+			"name": "2HC SOLUCOES INTEGRADAS LTDA",
+			"val": 357.64789778815134,
+			"desc": 7000,
+			"group": "2HC SOLUCOES INTEGRADAS LTDA"
+		},
+		{
+			"id": 43835,
+			"name": 7000,
+			"val": 3.845098040014257,
+			"group": "2HC SOLUCOES INTEGRADAS LTDA"
+		},
+		{
+			"id": "POSTO MAIS LTDA",
+			"name": "POSTO MAIS LTDA",
+			"val": 2.658189411549134,
+			"desc": 100.02,
+			"group": "POSTO MAIS LTDA"
+		},
+		{
+			"id": 43788,
+			"name": 100.02,
+			"val": 2.000086850211649,
+			"group": "POSTO MAIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO GAROUPA LT",
+			"name": "AUTO POSTO GAROUPA LT",
+			"val": 2.5572277953662885,
+			"desc": 96.89,
+			"group": "AUTO POSTO GAROUPA LT"
+		},
+		{
+			"id": 43875,
+			"name": 96.89,
+			"val": 1.9862789559059912,
+			"group": "AUTO POSTO GAROUPA LT"
+		},
+		{
+			"id": "PARLABRASIL EIRELI",
+			"name": "PARLABRASIL EIRELI",
+			"val": 22.149164857190115,
+			"desc": 600,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": 43837,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 0.015475961598581948,
+			"desc": 2.7,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 43797,
+			"name": 2.7,
+			"val": 0.43136376415898736,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 43832,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 188.45999999999998
+		},
+		{
+			"source": "RAMAL",
+			"target": 43796,
+			"value": 66.89
+		},
+		{
+			"source": "RAMAL",
+			"target": 43839,
+			"value": 121.57
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 71.16
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 43840,
+			"value": 71.16
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 14468.269999999997
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43804,
+			"value": 1141.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43853,
+			"value": 1020.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43805,
+			"value": 1187.84
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43854,
+			"value": 1442.74
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43851,
+			"value": 300
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43852,
+			"value": 876.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43850,
+			"value": 1727.84
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43847,
+			"value": 950.17
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43855,
+			"value": 758.74
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43803,
+			"value": 1631.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43849,
+			"value": 731.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43848,
+			"value": 1707.64
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43846,
+			"value": 992.39
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1271.33
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 43824,
+			"value": 199.58
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 43828,
+			"value": 247.05
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 43826,
+			"value": 200.52
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 43827,
+			"value": 211.62
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 43823,
+			"value": 180.01
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 43825,
+			"value": 232.55
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 180.03
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 43822,
+			"value": 180.03
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 200.79000000000002
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43838,
+			"value": 24.48
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43793,
+			"value": 56.45
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43792,
+			"value": 119.86
+		},
+		{
+			"source": -100,
+			"target": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
+			"value": 2757
+		},
+		{
+			"source": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
+			"target": 43791,
+			"value": 2757
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 5770.4400000000005
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43858,
+			"value": 1206.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43806,
+			"value": 1316.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43857,
+			"value": 970.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43860,
+			"value": 332
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43859,
+			"value": 1044.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43856,
+			"value": 1172.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43862,
+			"value": -1035.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43861,
+			"value": 1207.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43863,
+			"value": -445
+		},
+		{
+			"source": -100,
+			"target": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
+			"value": 214.98
+		},
+		{
+			"source": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
+			"target": 43784,
+			"value": 214.98
+		},
+		{
+			"source": -100,
+			"target": "POSTO 4 IRMAOS JL LTDA",
+			"value": 128.72
+		},
+		{
+			"source": "POSTO 4 IRMAOS JL LTDA",
+			"target": 43830,
+			"value": 128.72
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 11593.31
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43869,
+			"value": -292
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43811,
+			"value": 747
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43809,
+			"value": 1152.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43865,
+			"value": 900.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43866,
+			"value": 1351.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43864,
+			"value": 776.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43807,
+			"value": 1573.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43812,
+			"value": 762
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43868,
+			"value": 1187.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43867,
+			"value": 1186.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43810,
+			"value": 1296.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43808,
+			"value": 950.84
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO JK LTDA",
+			"value": 595.71
+		},
+		{
+			"source": "AUTO POSTO JK LTDA",
+			"target": 43820,
+			"value": 149.99
+		},
+		{
+			"source": "AUTO POSTO JK LTDA",
+			"target": 43877,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO JK LTDA",
+			"target": 43818,
+			"value": 90
+		},
+		{
+			"source": "AUTO POSTO JK LTDA",
+			"target": 43819,
+			"value": 155.72
+		},
+		{
+			"source": -100,
+			"target": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
+			"value": 130.76
+		},
+		{
+			"source": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
+			"target": 43789,
+			"value": 130.76
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTAO I LTDA",
+			"value": 104.37
+		},
+		{
+			"source": "AUTO POSTAO I LTDA",
+			"target": 43816,
+			"value": 104.37
+		},
+		{
+			"source": -100,
+			"target": "PORTO SEGURO TELECOMUNICACOES LTDA",
+			"value": 262.65999999999997
+		},
+		{
+			"source": "PORTO SEGURO TELECOMUNICACOES LTDA",
+			"target": 43794,
+			"value": 129.9
+		},
+		{
+			"source": "PORTO SEGURO TELECOMUNICACOES LTDA",
+			"target": 43795,
+			"value": 132.76
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ARUJA VILLE LTDA",
+			"value": 101.01
+		},
+		{
+			"source": "AUTO POSTO ARUJA VILLE LTDA",
+			"target": 43871,
+			"value": 101.01
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"value": 738.26
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 43845,
+			"value": 213.03
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 43801,
+			"value": 525.23
+		},
+		{
+			"source": -100,
+			"target": "AMORETTO CAFES EXPRESSO LTDA",
+			"value": 1595.6999999999998
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 43778,
+			"value": 531.9
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 43813,
+			"value": 531.9
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 43870,
+			"value": 531.9
+		},
+		{
+			"source": -100,
+			"target": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"value": 200.01
+		},
+		{
+			"source": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"target": 43829,
+			"value": 200.01
+		},
+		{
+			"source": -100,
+			"target": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
+			"value": 2700
+		},
+		{
+			"source": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
+			"target": 43779,
+			"value": 900
+		},
+		{
+			"source": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
+			"target": 43815,
+			"value": 900
+		},
+		{
+			"source": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
+			"target": 43814,
+			"value": 900
+		},
+		{
+			"source": -100,
+			"target": "LINCE ASSESSORIA E CONSULTORIA LTDA",
+			"value": 800
+		},
+		{
+			"source": "LINCE ASSESSORIA E CONSULTORIA LTDA",
+			"target": 43834,
+			"value": 800
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO LAGO NORTE LTDA",
+			"value": 662.09
+		},
+		{
+			"source": "AUTO POSTO LAGO NORTE LTDA",
+			"target": 43781,
+			"value": 193.05
+		},
+		{
+			"source": "AUTO POSTO LAGO NORTE LTDA",
+			"target": 43821,
+			"value": 230
+		},
+		{
+			"source": "AUTO POSTO LAGO NORTE LTDA",
+			"target": 43782,
+			"value": 239.04
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 248.5
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 43780,
+			"value": 248.5
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE",
+			"value": 228.77
+		},
+		{
+			"source": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE",
+			"target": 43872,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE",
+			"target": 43873,
+			"value": 128.77
+		},
+		{
+			"source": -100,
+			"target": "Movida Locação de Veículos S.A.",
+			"value": 9600
+		},
+		{
+			"source": "Movida Locação de Veículos S.A.",
+			"target": 43800,
+			"value": 4800
+		},
+		{
+			"source": "Movida Locação de Veículos S.A.",
+			"target": 43844,
+			"value": 4800
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS",
+			"value": 400
+		},
+		{
+			"source": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS",
+			"target": 43836,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ESTRELA DO RIO LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO ESTRELA DO RIO LTDA",
+			"target": 43874,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 39
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 43790,
+			"value": 39
+		},
+		{
+			"source": -100,
+			"target": "POSTO ANTLETA LTDA",
+			"value": 134.38
+		},
+		{
+			"source": "POSTO ANTLETA LTDA",
+			"target": 43831,
+			"value": 134.38
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SAO MARCOS LTDA",
+			"value": 200.03
+		},
+		{
+			"source": "AUTO POSTO SAO MARCOS LTDA",
+			"target": 43783,
+			"value": 200.03
+		},
+		{
+			"source": -100,
+			"target": "JARJOUR FILIAL - 206 NORTE",
+			"value": 170.07
+		},
+		{
+			"source": "JARJOUR FILIAL - 206 NORTE",
+			"target": 43785,
+			"value": 170.07
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 869.94
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 43802,
+			"value": 869.94
+		},
+		{
+			"source": -100,
+			"target": "Movida Locação de Veículos LTDA",
+			"value": 5600
+		},
+		{
+			"source": "Movida Locação de Veículos LTDA",
+			"target": 43843,
+			"value": 2800
+		},
+		{
+			"source": "Movida Locação de Veículos LTDA",
+			"target": 43799,
+			"value": 2800
+		},
+		{
+			"source": -100,
+			"target": "RODOPOSTO MARISTELA LTDA",
+			"value": 133
+		},
+		{
+			"source": "RODOPOSTO MARISTELA LTDA",
+			"target": 43833,
+			"value": 133
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 66.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 43841,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"value": 9600
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"target": 43842,
+			"value": 4800
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"target": 43798,
+			"value": 4800
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 215.11
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 43787,
+			"value": 215.11
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GARPELLI LTDA",
+			"value": 135.67
+		},
+		{
+			"source": "AUTO POSTO GARPELLI LTDA",
+			"target": 43876,
+			"value": 135.67
+		},
+		{
+			"source": -100,
+			"target": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"value": 158.14
+		},
+		{
+			"source": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"target": 43786,
+			"value": 158.14
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO 92 DA RAPOSO LTDA",
+			"value": 127.87
+		},
+		{
+			"source": "AUTO POSTO 92 DA RAPOSO LTDA",
+			"target": 43817,
+			"value": 127.87
+		},
+		{
+			"source": -100,
+			"target": "2HC SOLUCOES INTEGRADAS LTDA",
+			"value": 7000
+		},
+		{
+			"source": "2HC SOLUCOES INTEGRADAS LTDA",
+			"target": 43835,
+			"value": 7000
+		},
+		{
+			"source": -100,
+			"target": "POSTO MAIS LTDA",
+			"value": 100.02
+		},
+		{
+			"source": "POSTO MAIS LTDA",
+			"target": 43788,
+			"value": 100.02
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GAROUPA LT",
+			"value": 96.89
+		},
+		{
+			"source": "AUTO POSTO GAROUPA LT",
+			"target": 43875,
+			"value": 96.89
+		},
+		{
+			"source": -100,
+			"target": "PARLABRASIL EIRELI",
+			"value": 600
+		},
+		{
+			"source": "PARLABRASIL EIRELI",
+			"target": 43837,
+			"value": 600
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 2.7
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 43797,
+			"value": 2.7
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 150
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 43832,
+			"value": 150
+		}
+	]
+}

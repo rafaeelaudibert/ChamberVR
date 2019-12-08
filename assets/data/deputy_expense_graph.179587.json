@@ -1,0 +1,1641 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "VITOR HUGO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
+			"name": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
+			"val": 240.98045926875503,
+			"desc": 4913,
+			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
+		},
+		{
+			"id": 50209,
+			"name": 2200,
+			"val": 3.342422680822206,
+			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
+		},
+		{
+			"id": 50253,
+			"name": 2200,
+			"val": 3.342422680822206,
+			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
+		},
+		{
+			"id": 50184,
+			"name": 513,
+			"val": 2.7101173651118162,
+			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 1.1694232084974112,
+			"desc": 51.43000000000001,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 50245,
+			"name": 17.42,
+			"val": 1.2410481506716444,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 50244,
+			"name": 17.42,
+			"val": 1.2410481506716444,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 50182,
+			"name": 16.59,
+			"val": 1.2198463860243607,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "JOSE DEGANELO BADONA DE SOUZA",
+			"name": "JOSE DEGANELO BADONA DE SOUZA",
+			"val": 154.28490408055794,
+			"desc": 3300,
+			"group": "JOSE DEGANELO BADONA DE SOUZA"
+		},
+		{
+			"id": 50266,
+			"name": 1100,
+			"val": 3.041392685158225,
+			"group": "JOSE DEGANELO BADONA DE SOUZA"
+		},
+		{
+			"id": 50218,
+			"name": 1100,
+			"val": 3.041392685158225,
+			"group": "JOSE DEGANELO BADONA DE SOUZA"
+		},
+		{
+			"id": 50186,
+			"name": 1100,
+			"val": 3.041392685158225,
+			"group": "JOSE DEGANELO BADONA DE SOUZA"
+		},
+		{
+			"id": "SECRETARIA DE FINANÇAS DE GOIÁS",
+			"name": "SECRETARIA DE FINANÇAS DE GOIÁS",
+			"val": 9.184863617076832,
+			"desc": 282.09,
+			"group": "SECRETARIA DE FINANÇAS DE GOIÁS"
+		},
+		{
+			"id": 50220,
+			"name": 282.09,
+			"val": 2.450387690828191,
+			"group": "SECRETARIA DE FINANÇAS DE GOIÁS"
+		},
+		{
+			"id": "SUBLIMAX DIGITAL LTDA",
+			"name": "SUBLIMAX DIGITAL LTDA",
+			"val": 2.3370671146786828,
+			"desc": 90,
+			"group": "SUBLIMAX DIGITAL LTDA"
+		},
+		{
+			"id": 50242,
+			"name": 90,
+			"val": 1.9542425094393248,
+			"group": "SUBLIMAX DIGITAL LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 0.3342613730712554,
+			"desc": 19.5,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 50181,
+			"name": 19.5,
+			"val": 1.290034611362518,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "AUTO POSTO SANTA LUZIA LTDA",
+			"name": "AUTO POSTO SANTA LUZIA LTDA",
+			"val": 43.034973386507524,
+			"desc": 1069.21,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50270,
+			"name": 205,
+			"val": 2.311753861055754,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50222,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50271,
+			"name": 162.83,
+			"val": 2.211734422876027,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50224,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50225,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50189,
+			"name": 123.12,
+			"val": 2.090328606823422,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50226,
+			"name": 165,
+			"val": 2.2174839442139063,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": 50223,
+			"name": 113.26,
+			"val": 2.0540765572905104,
+			"group": "AUTO POSTO SANTA LUZIA LTDA"
+		},
+		{
+			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 6.071853438606781,
+			"desc": 198.81,
+			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 50179,
+			"name": 198.81,
+			"val": 2.29843822531076,
+			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 3.7007751204239927,
+			"desc": 131.45,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50243,
+			"name": 58.8,
+			"val": 1.7693773260761385,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50180,
+			"name": 34.32,
+			"val": 1.5355472791766678,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50204,
+			"name": 38.33,
+			"val": 1.583538819254352,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 220.49836635588042,
+			"desc": 4537.83,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50213,
+			"name": 1702.85,
+			"val": 3.2311763936810984,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50212,
+			"name": 1677.39,
+			"val": 3.224634049580591,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50262,
+			"name": 196.54,
+			"val": 2.2934509517160055,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50211,
+			"name": 248.85,
+			"val": 2.395937645080042,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50261,
+			"name": 712.2,
+			"val": 2.852601969338235,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"val": 22.340494662148068,
+			"desc": 604.48,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 50216,
+			"name": 254.18,
+			"val": 2.4051413753629496,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 50265,
+			"name": 289.49,
+			"val": 2.4616335662678472,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 50217,
+			"name": 60.81,
+			"val": 1.7839750034126711,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 24.870249852107893,
+			"desc": 663.31,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50195,
+			"name": 183.64,
+			"val": 2.263967284093983,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50234,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50194,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50197,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50233,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50198,
+			"name": 129.67,
+			"val": 2.112839510845115,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50196,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "POSTO A1 LTDA",
+			"name": "POSTO A1 LTDA",
+			"val": 3.4069981056089933,
+			"desc": 122.74,
+			"group": "POSTO A1 LTDA"
+		},
+		{
+			"id": 50238,
+			"name": 122.74,
+			"val": 2.088986118947913,
+			"group": "POSTO A1 LTDA"
+		},
+		{
+			"id": "H DUARTE E FILHO LTDA",
+			"name": "H DUARTE E FILHO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "H DUARTE E FILHO LTDA"
+		},
+		{
+			"id": 50236,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "H DUARTE E FILHO LTDA"
+		},
+		{
+			"id": "EDUARDO LÚCIO DE REZENDE PEREIRA",
+			"name": "EDUARDO LÚCIO DE REZENDE PEREIRA",
+			"val": 650.4358456983957,
+			"desc": 12000,
+			"group": "EDUARDO LÚCIO DE REZENDE PEREIRA"
+		},
+		{
+			"id": 50215,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "EDUARDO LÚCIO DE REZENDE PEREIRA"
+		},
+		{
+			"id": 50264,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "EDUARDO LÚCIO DE REZENDE PEREIRA"
+		},
+		{
+			"id": 50185,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "EDUARDO LÚCIO DE REZENDE PEREIRA"
+		},
+		{
+			"id": "Kalunga Comercio e Industria Grafica Ltda",
+			"name": "Kalunga Comercio e Industria Grafica Ltda",
+			"val": 7.620541331659438,
+			"desc": 240.8,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": 50219,
+			"name": 162.8,
+			"val": 2.2116544005531824,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": 50187,
+			"name": 78,
+			"val": 1.8920946026904804,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": "CLARO",
+			"name": "CLARO",
+			"val": 25.72337217391862,
+			"desc": 682.99,
+			"group": "CLARO"
+		},
+		{
+			"id": 50263,
+			"name": 316.02,
+			"val": 2.4997145687411244,
+			"group": "CLARO"
+		},
+		{
+			"id": 50214,
+			"name": 366.97,
+			"val": 2.5646305618896923,
+			"group": "CLARO"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 0.9135699151183378,
+			"desc": 42.28,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 50203,
+			"name": 13.66,
+			"val": 1.1354506993455138,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 50250,
+			"name": 6.5,
+			"val": 0.8129133566428556,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 50252,
+			"name": 7.59,
+			"val": 0.8802417758954804,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 50251,
+			"name": 6.42,
+			"val": 0.8075350280688532,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 50249,
+			"name": 8.11,
+			"val": 0.909020854211156,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "ELO COMERCIO E SERVICOS LTDA",
+			"name": "ELO COMERCIO E SERVICOS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "ELO COMERCIO E SERVICOS LTDA"
+		},
+		{
+			"id": 50199,
+			"name": 100,
+			"val": 2,
+			"group": "ELO COMERCIO E SERVICOS LTDA"
+		},
+		{
+			"id": 50235,
+			"name": 100,
+			"val": 2,
+			"group": "ELO COMERCIO E SERVICOS LTDA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 11.540079639455184,
+			"desc": 342.61999999999995,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50206,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50208,
+			"name": 69.21,
+			"val": 1.840168849240756,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50207,
+			"name": 69.21,
+			"val": 1.840168849240756,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50205,
+			"name": 69.21,
+			"val": 1.840168849240756,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 50248,
+			"name": 69.21,
+			"val": 1.840168849240756,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"val": 0.25165308768791156,
+			"desc": 15.799999999999999,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 50257,
+			"name": 3.3,
+			"val": 0.5185139398778874,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 50254,
+			"name": 4.6,
+			"val": 0.6627578316815741,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 50256,
+			"name": 3.3,
+			"val": 0.5185139398778874,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 50255,
+			"name": 4.6,
+			"val": 0.6627578316815741,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 7.792538730018693,
+			"desc": 245.39,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 50210,
+			"name": 245.39,
+			"val": 2.389856860618742,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "AUTO POSTO REIS COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "AUTO POSTO REIS COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO REIS COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50269,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO REIS COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO BR 060 LTDA",
+			"name": "AUTO POSTO BR 060 LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO BR 060 LTDA"
+		},
+		{
+			"id": 50268,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO BR 060 LTDA"
+		},
+		{
+			"id": "Lucas Paulino de Sousa Nogueira",
+			"name": "Lucas Paulino de Sousa Nogueira",
+			"val": 46.612254964555916,
+			"desc": 1146.6,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 50174,
+			"name": 352.6,
+			"val": 2.5472823079633033,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 50173,
+			"name": 572.5,
+			"val": 2.7577754910119254,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 50172,
+			"name": 221.5,
+			"val": 2.3453737305590883,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 42.26214212817729,
+			"desc": 1052.4,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50177,
+			"name": 100,
+			"val": 2,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50190,
+			"name": 112.49,
+			"val": 2.0511139167776014,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50229,
+			"name": 100,
+			"val": 2,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50230,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50228,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50191,
+			"name": 100,
+			"val": 2,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50176,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50227,
+			"name": 100,
+			"val": 2,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50192,
+			"name": 389.91,
+			"val": 2.5909643736571493,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "TBT DISTRIBUIDORA EIRELI EPP",
+			"name": "TBT DISTRIBUIDORA EIRELI EPP",
+			"val": 25.721200501343272,
+			"desc": 682.94,
+			"group": "TBT DISTRIBUIDORA EIRELI EPP"
+		},
+		{
+			"id": 50188,
+			"name": 682.94,
+			"val": 2.8343825502210134,
+			"group": "TBT DISTRIBUIDORA EIRELI EPP"
+		},
+		{
+			"id": "POSTO TABOCAO IV LTDA.",
+			"name": "POSTO TABOCAO IV LTDA.",
+			"val": 3.3487298068409035,
+			"desc": 121,
+			"group": "POSTO TABOCAO IV LTDA."
+		},
+		{
+			"id": 50178,
+			"name": 121,
+			"val": 2.08278537031645,
+			"group": "POSTO TABOCAO IV LTDA."
+		},
+		{
+			"id": "MIOLO COMUNICACAO GRAFICA E EDITORA EIRELI - EPP",
+			"name": "MIOLO COMUNICACAO GRAFICA E EDITORA EIRELI - EPP",
+			"val": 5.394134229357365,
+			"desc": 180,
+			"group": "MIOLO COMUNICACAO GRAFICA E EDITORA EIRELI - EPP"
+		},
+		{
+			"id": 50241,
+			"name": 180,
+			"val": 2.255272505103306,
+			"group": "MIOLO COMUNICACAO GRAFICA E EDITORA EIRELI - EPP"
+		},
+		{
+			"id": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"name": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"val": 5.193797236487418,
+			"desc": 174.38,
+			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 50202,
+			"name": 174.38,
+			"val": 2.24149667332751,
+			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": "CARRETEIRO DERIVADOS DE PETROLEO LTDA",
+			"name": "CARRETEIRO DERIVADOS DE PETROLEO LTDA",
+			"val": 6.903339674879563,
+			"desc": 221.51,
+			"group": "CARRETEIRO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 50231,
+			"name": 100,
+			"val": 2,
+			"group": "CARRETEIRO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 50232,
+			"name": 121.51,
+			"val": 2.0846120208652517,
+			"group": "CARRETEIRO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 69.54118477889783,
+			"desc": 1629.35,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50258,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50259,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50260,
+			"name": 1029.35,
+			"val": 3.012563068857345,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS",
+			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS",
+			"val": 1.5810558755294606,
+			"desc": 65.51,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS"
+		},
+		{
+			"id": 50246,
+			"name": 35.31,
+			"val": 1.5478977175630972,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS"
+		},
+		{
+			"id": 50247,
+			"name": 30.2,
+			"val": 1.4800069429571505,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS"
+		},
+		{
+			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": 50237,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": "MARE CLAUSUM PUBLICACOES LTDA",
+			"name": "MARE CLAUSUM PUBLICACOES LTDA",
+			"val": 3.96840706666618,
+			"desc": 139.3,
+			"group": "MARE CLAUSUM PUBLICACOES LTDA"
+		},
+		{
+			"id": 50183,
+			"name": 139.3,
+			"val": 2.1439511164239633,
+			"group": "MARE CLAUSUM PUBLICACOES LTDA"
+		},
+		{
+			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
+			"val": 5.130916647942412,
+			"desc": 172.61,
+			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 50221,
+			"name": 172.61,
+			"val": 2.2370659525554037,
+			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CANA VERDE AUTO POSTO LTDA",
+			"name": "CANA VERDE AUTO POSTO LTDA",
+			"val": 2.5106530913725313,
+			"desc": 95.44,
+			"group": "CANA VERDE AUTO POSTO LTDA"
+		},
+		{
+			"id": 50193,
+			"name": 95.44,
+			"val": 1.9797304306622854,
+			"group": "CANA VERDE AUTO POSTO LTDA"
+		},
+		{
+			"id": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 3.229300974246917,
+			"desc": 117.42,
+			"group": "060 COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50267,
+			"name": 117.42,
+			"val": 2.0697420760416447,
+			"group": "060 COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "RE AUTO POSTO LTDA",
+			"name": "RE AUTO POSTO LTDA",
+			"val": 3.44928136995189,
+			"desc": 124,
+			"group": "RE AUTO POSTO LTDA"
+		},
+		{
+			"id": 50201,
+			"name": 124,
+			"val": 2.093421685162235,
+			"group": "RE AUTO POSTO LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"val": 4.065181028636197,
+			"desc": 142.12,
+			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
+		},
+		{
+			"id": 50239,
+			"name": 142.12,
+			"val": 2.1526551988172904,
+			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
+		},
+		{
+			"id": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA",
+			"name": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA",
+			"val": 2.98379827395085,
+			"desc": 110,
+			"group": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 50240,
+			"name": 110,
+			"val": 2.041392685158225,
+			"group": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Auto Posto Avenida Parauna Ltda Me",
+			"name": "Auto Posto Avenida Parauna Ltda Me",
+			"val": 3.685513652805624,
+			"desc": 131,
+			"group": "Auto Posto Avenida Parauna Ltda Me"
+		},
+		{
+			"id": 50175,
+			"name": 131,
+			"val": 2.1172712956557644,
+			"group": "Auto Posto Avenida Parauna Ltda Me"
+		},
+		{
+			"id": "POSTO XODO LTDA",
+			"name": "POSTO XODO LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "POSTO XODO LTDA"
+		},
+		{
+			"id": 50200,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO XODO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
+			"value": 4913
+		},
+		{
+			"source": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
+			"target": 50209,
+			"value": 2200
+		},
+		{
+			"source": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
+			"target": 50253,
+			"value": 2200
+		},
+		{
+			"source": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
+			"target": 50184,
+			"value": 513
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 51.43000000000001
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 50245,
+			"value": 17.42
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 50244,
+			"value": 17.42
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 50182,
+			"value": 16.59
+		},
+		{
+			"source": -100,
+			"target": "JOSE DEGANELO BADONA DE SOUZA",
+			"value": 3300
+		},
+		{
+			"source": "JOSE DEGANELO BADONA DE SOUZA",
+			"target": 50266,
+			"value": 1100
+		},
+		{
+			"source": "JOSE DEGANELO BADONA DE SOUZA",
+			"target": 50218,
+			"value": 1100
+		},
+		{
+			"source": "JOSE DEGANELO BADONA DE SOUZA",
+			"target": 50186,
+			"value": 1100
+		},
+		{
+			"source": -100,
+			"target": "SECRETARIA DE FINANÇAS DE GOIÁS",
+			"value": 282.09
+		},
+		{
+			"source": "SECRETARIA DE FINANÇAS DE GOIÁS",
+			"target": 50220,
+			"value": 282.09
+		},
+		{
+			"source": -100,
+			"target": "SUBLIMAX DIGITAL LTDA",
+			"value": 90
+		},
+		{
+			"source": "SUBLIMAX DIGITAL LTDA",
+			"target": 50242,
+			"value": 90
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 19.5
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 50181,
+			"value": 19.5
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SANTA LUZIA LTDA",
+			"value": 1069.21
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50270,
+			"value": 205
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50222,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50271,
+			"value": 162.83
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50224,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50225,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50189,
+			"value": 123.12
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50226,
+			"value": 165
+		},
+		{
+			"source": "AUTO POSTO SANTA LUZIA LTDA",
+			"target": 50223,
+			"value": 113.26
+		},
+		{
+			"source": -100,
+			"target": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 198.81
+		},
+		{
+			"source": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 50179,
+			"value": 198.81
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 131.45
+		},
+		{
+			"source": "RAMAL",
+			"target": 50243,
+			"value": 58.8
+		},
+		{
+			"source": "RAMAL",
+			"target": 50180,
+			"value": 34.32
+		},
+		{
+			"source": "RAMAL",
+			"target": 50204,
+			"value": 38.33
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 4537.83
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50213,
+			"value": 1702.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50212,
+			"value": 1677.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50262,
+			"value": 196.54
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50211,
+			"value": 248.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50261,
+			"value": 712.2
+		},
+		{
+			"source": -100,
+			"target": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"value": 604.48
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 50216,
+			"value": 254.18
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 50265,
+			"value": 289.49
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 50217,
+			"value": 60.81
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 663.31
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50195,
+			"value": 183.64
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50234,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50194,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50197,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50233,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50198,
+			"value": 129.67
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50196,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "POSTO A1 LTDA",
+			"value": 122.74
+		},
+		{
+			"source": "POSTO A1 LTDA",
+			"target": 50238,
+			"value": 122.74
+		},
+		{
+			"source": -100,
+			"target": "H DUARTE E FILHO LTDA",
+			"value": 200
+		},
+		{
+			"source": "H DUARTE E FILHO LTDA",
+			"target": 50236,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "EDUARDO LÚCIO DE REZENDE PEREIRA",
+			"value": 12000
+		},
+		{
+			"source": "EDUARDO LÚCIO DE REZENDE PEREIRA",
+			"target": 50215,
+			"value": 4000
+		},
+		{
+			"source": "EDUARDO LÚCIO DE REZENDE PEREIRA",
+			"target": 50264,
+			"value": 4000
+		},
+		{
+			"source": "EDUARDO LÚCIO DE REZENDE PEREIRA",
+			"target": 50185,
+			"value": 4000
+		},
+		{
+			"source": -100,
+			"target": "Kalunga Comercio e Industria Grafica Ltda",
+			"value": 240.8
+		},
+		{
+			"source": "Kalunga Comercio e Industria Grafica Ltda",
+			"target": 50219,
+			"value": 162.8
+		},
+		{
+			"source": "Kalunga Comercio e Industria Grafica Ltda",
+			"target": 50187,
+			"value": 78
+		},
+		{
+			"source": -100,
+			"target": "CLARO",
+			"value": 682.99
+		},
+		{
+			"source": "CLARO",
+			"target": 50263,
+			"value": 316.02
+		},
+		{
+			"source": "CLARO",
+			"target": 50214,
+			"value": 366.97
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 42.28
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 50203,
+			"value": 13.66
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 50250,
+			"value": 6.5
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 50252,
+			"value": 7.59
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 50251,
+			"value": 6.42
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 50249,
+			"value": 8.11
+		},
+		{
+			"source": -100,
+			"target": "ELO COMERCIO E SERVICOS LTDA",
+			"value": 200
+		},
+		{
+			"source": "ELO COMERCIO E SERVICOS LTDA",
+			"target": 50199,
+			"value": 100
+		},
+		{
+			"source": "ELO COMERCIO E SERVICOS LTDA",
+			"target": 50235,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 342.61999999999995
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50206,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50208,
+			"value": 69.21
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50207,
+			"value": 69.21
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50205,
+			"value": 69.21
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 50248,
+			"value": 69.21
+		},
+		{
+			"source": -100,
+			"target": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"value": 15.799999999999999
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 50257,
+			"value": 3.3
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 50254,
+			"value": 4.6
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 50256,
+			"value": 3.3
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 50255,
+			"value": 4.6
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 245.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 50210,
+			"value": 245.39
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO REIS COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO REIS COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 50269,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BR 060 LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO BR 060 LTDA",
+			"target": 50268,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "Lucas Paulino de Sousa Nogueira",
+			"value": 1146.6
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 50174,
+			"value": 352.6
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 50173,
+			"value": 572.5
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 50172,
+			"value": 221.5
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 1052.4
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50177,
+			"value": 100
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50190,
+			"value": 112.49
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50229,
+			"value": 100
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50230,
+			"value": 50
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50228,
+			"value": 50
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50191,
+			"value": 100
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50176,
+			"value": 50
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50227,
+			"value": 100
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 50192,
+			"value": 389.91
+		},
+		{
+			"source": -100,
+			"target": "TBT DISTRIBUIDORA EIRELI EPP",
+			"value": 682.94
+		},
+		{
+			"source": "TBT DISTRIBUIDORA EIRELI EPP",
+			"target": 50188,
+			"value": 682.94
+		},
+		{
+			"source": -100,
+			"target": "POSTO TABOCAO IV LTDA.",
+			"value": 121
+		},
+		{
+			"source": "POSTO TABOCAO IV LTDA.",
+			"target": 50178,
+			"value": 121
+		},
+		{
+			"source": -100,
+			"target": "MIOLO COMUNICACAO GRAFICA E EDITORA EIRELI - EPP",
+			"value": 180
+		},
+		{
+			"source": "MIOLO COMUNICACAO GRAFICA E EDITORA EIRELI - EPP",
+			"target": 50241,
+			"value": 180
+		},
+		{
+			"source": -100,
+			"target": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"value": 174.38
+		},
+		{
+			"source": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"target": 50202,
+			"value": 174.38
+		},
+		{
+			"source": -100,
+			"target": "CARRETEIRO DERIVADOS DE PETROLEO LTDA",
+			"value": 221.51
+		},
+		{
+			"source": "CARRETEIRO DERIVADOS DE PETROLEO LTDA",
+			"target": 50231,
+			"value": 100
+		},
+		{
+			"source": "CARRETEIRO DERIVADOS DE PETROLEO LTDA",
+			"target": 50232,
+			"value": 121.51
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 1629.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50258,
+			"value": 300
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50259,
+			"value": 300
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50260,
+			"value": 1029.35
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS",
+			"value": 65.51
+		},
+		{
+			"source": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS",
+			"target": 50246,
+			"value": 35.31
+		},
+		{
+			"source": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS",
+			"target": 50247,
+			"value": 30.2
+		},
+		{
+			"source": -100,
+			"target": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"value": 200
+		},
+		{
+			"source": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"target": 50237,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "MARE CLAUSUM PUBLICACOES LTDA",
+			"value": 139.3
+		},
+		{
+			"source": "MARE CLAUSUM PUBLICACOES LTDA",
+			"target": 50183,
+			"value": 139.3
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
+			"value": 172.61
+		},
+		{
+			"source": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
+			"target": 50221,
+			"value": 172.61
+		},
+		{
+			"source": -100,
+			"target": "CANA VERDE AUTO POSTO LTDA",
+			"value": 95.44
+		},
+		{
+			"source": "CANA VERDE AUTO POSTO LTDA",
+			"target": 50193,
+			"value": 95.44
+		},
+		{
+			"source": -100,
+			"target": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 117.42
+		},
+		{
+			"source": "060 COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 50267,
+			"value": 117.42
+		},
+		{
+			"source": -100,
+			"target": "RE AUTO POSTO LTDA",
+			"value": 124
+		},
+		{
+			"source": "RE AUTO POSTO LTDA",
+			"target": 50201,
+			"value": 124
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"value": 142.12
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"target": 50239,
+			"value": 142.12
+		},
+		{
+			"source": -100,
+			"target": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA",
+			"value": 110
+		},
+		{
+			"source": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA",
+			"target": 50240,
+			"value": 110
+		},
+		{
+			"source": -100,
+			"target": "Auto Posto Avenida Parauna Ltda Me",
+			"value": 131
+		},
+		{
+			"source": "Auto Posto Avenida Parauna Ltda Me",
+			"target": 50175,
+			"value": 131
+		},
+		{
+			"source": -100,
+			"target": "POSTO XODO LTDA",
+			"value": 50
+		},
+		{
+			"source": "POSTO XODO LTDA",
+			"target": 50200,
+			"value": 50
+		}
+	]
+}

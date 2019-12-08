@@ -1,0 +1,1725 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "MILTON VIEIRA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 95.1144535909616,
+			"desc": 2148.23,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 36765,
+			"name": 1052.39,
+			"val": 3.022176712688606,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 36764,
+			"name": 1095.84,
+			"val": 3.0397471488658225,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "RIALTO IMÓVEIS E EMPREENDIMENTOS LTDA",
+			"name": "RIALTO IMÓVEIS E EMPREENDIMENTOS LTDA",
+			"val": 240.2678942642427,
+			"desc": 4900,
+			"group": "RIALTO IMÓVEIS E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": 36767,
+			"name": 4900,
+			"val": 3.690196080028514,
+			"group": "RIALTO IMÓVEIS E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 3.315307485892089,
+			"desc": 120,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36726,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO SAKAMOTO LTDA",
+			"name": "AUTO POSTO SAKAMOTO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO SAKAMOTO LTDA"
+		},
+		{
+			"id": 36723,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO SAKAMOTO LTDA"
+		},
+		{
+			"id": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"name": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"val": 67.94472334069523,
+			"desc": 1596.36,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36688,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36690,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36718,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36722,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36721,
+			"name": 171.04,
+			"val": 2.233097687864703,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36686,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36691,
+			"name": 125.32,
+			"val": 2.0980203862096674,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36720,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36687,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36719,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": 36689,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 17.987784865476236,
+			"desc": 501.35,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 36736,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 36738,
+			"name": 177,
+			"val": 2.2479732663618064,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 36695,
+			"name": 174.35,
+			"val": 2.2414219517119953,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 36737,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"name": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"val": 29.539860007707126,
+			"desc": 770.15,
+			"group": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA"
+		},
+		{
+			"id": 36717,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA"
+		},
+		{
+			"id": 36771,
+			"name": 220.15,
+			"val": 2.3427186897955448,
+			"group": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA"
+		},
+		{
+			"id": 36770,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA"
+		},
+		{
+			"id": 36716,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA"
+		},
+		{
+			"id": 36683,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO CHAPARRAL SAO JOSE LT",
+			"name": "AUTO POSTO CHAPARRAL SAO JOSE LT",
+			"val": 18.342218909414527,
+			"desc": 509.85,
+			"group": "AUTO POSTO CHAPARRAL SAO JOSE LT"
+		},
+		{
+			"id": 36681,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO CHAPARRAL SAO JOSE LT"
+		},
+		{
+			"id": 36769,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO CHAPARRAL SAO JOSE LT"
+		},
+		{
+			"id": 36680,
+			"name": 209.85,
+			"val": 2.321908973547509,
+			"group": "AUTO POSTO CHAPARRAL SAO JOSE LT"
+		},
+		{
+			"id": "COLUSA AUTO POSTO LTDA",
+			"name": "COLUSA AUTO POSTO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "COLUSA AUTO POSTO LTDA"
+		},
+		{
+			"id": 36732,
+			"name": 100,
+			"val": 2,
+			"group": "COLUSA AUTO POSTO LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 186.91443258578906,
+			"desc": 3915.29,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36755,
+			"name": 763.49,
+			"val": 2.882803353149794,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36759,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36757,
+			"name": 166,
+			"val": 2.220108088040055,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36754,
+			"name": 614.94,
+			"val": 2.788832743515087,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36756,
+			"name": 779.49,
+			"val": 2.891810548039708,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36712,
+			"name": 820.94,
+			"val": 2.914311417020624,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36758,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36753,
+			"name": 145.94,
+			"val": 2.164174341916649,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 36752,
+			"name": 444.49,
+			"val": 2.647861994791785,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 344.8900439909256,
+			"desc": 6775.27,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 36763,
+			"name": 1156.23,
+			"val": 3.0630442335613504,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 36760,
+			"name": 773.39,
+			"val": 2.8883985523079074,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 36762,
+			"name": 1222.23,
+			"val": 3.087152939402264,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 36713,
+			"name": 1140.35,
+			"val": 3.0570381668975575,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 36714,
+			"name": 880.84,
+			"val": 2.9448970282443874,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 36761,
+			"name": 1602.23,
+			"val": 3.2047248591646085,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "PAPELARIA LUMIVALE LTDA",
+			"name": "PAPELARIA LUMIVALE LTDA",
+			"val": 27.861969126495676,
+			"desc": 732,
+			"group": "PAPELARIA LUMIVALE LTDA"
+		},
+		{
+			"id": 36766,
+			"name": 732,
+			"val": 2.864511081058392,
+			"group": "PAPELARIA LUMIVALE LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 7.015744013461584,
+			"desc": 224.55,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 36707,
+			"name": 44.11,
+			"val": 1.6445370577784073,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 36708,
+			"name": 54.88,
+			"val": 1.7394141026986953,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 36709,
+			"name": 36.58,
+			"val": 1.5632437011403981,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 36748,
+			"name": 52.4,
+			"val": 1.7193312869837265,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 36710,
+			"name": 36.58,
+			"val": 1.5632437011403981,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 0.0907016401308722,
+			"desc": 7.7,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 36705,
+			"name": 7.7,
+			"val": 0.8864907251724818,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
+			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
+			"val": 13.923811850022757,
+			"desc": 402.32,
+			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
+		},
+		{
+			"id": 36743,
+			"name": 239.14,
+			"val": 2.378652224908501,
+			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
+		},
+		{
+			"id": 36744,
+			"name": 163.18,
+			"val": 2.2126669287934235,
+			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
+		},
+		{
+			"id": "CINQUENTAO COMERCIO DE COMBUSTIVEIS LTDA.",
+			"name": "CINQUENTAO COMERCIO DE COMBUSTIVEIS LTDA.",
+			"val": 8.133105068070343,
+			"desc": 254.44,
+			"group": "CINQUENTAO COMERCIO DE COMBUSTIVEIS LTDA."
+		},
+		{
+			"id": 36731,
+			"name": 254.44,
+			"val": 2.4055853869044945,
+			"group": "CINQUENTAO COMERCIO DE COMBUSTIVEIS LTDA."
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 17.855813978201706,
+			"desc": 498.18,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 36746,
+			"name": 262.64,
+			"val": 2.4193608697212836,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 36745,
+			"name": 215.22,
+			"val": 2.33288262705961,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 36703,
+			"name": 20.32,
+			"val": 1.3079237036118816,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "AUTO POSTO AGULHAS NEGRAS LTDA",
+			"name": "AUTO POSTO AGULHAS NEGRAS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO AGULHAS NEGRAS LTDA"
+		},
+		{
+			"id": 36715,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AGULHAS NEGRAS LTDA"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 36775,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
+		},
+		{
+			"id": 36739,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
+		},
+		{
+			"id": 36740,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.191122244481528,
+			"desc": 52.19,
+			"group": "RAMAL"
+		},
+		{
+			"id": 36704,
+			"name": 29.53,
+			"val": 1.4702634469650784,
+			"group": "RAMAL"
+		},
+		{
+			"id": 36747,
+			"name": 22.66,
+			"val": 1.3552599055273784,
+			"group": "RAMAL"
+		},
+		{
+			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36733,
+			"name": 100,
+			"val": 2,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36777,
+			"name": 100,
+			"val": 2,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "FAROL COMERCIAL LT",
+			"name": "FAROL COMERCIAL LT",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "FAROL COMERCIAL LT"
+		},
+		{
+			"id": 36735,
+			"name": 100,
+			"val": 2,
+			"group": "FAROL COMERCIAL LT"
+		},
+		{
+			"id": "AUTO POSTO SONHO VERDE LTDA",
+			"name": "AUTO POSTO SONHO VERDE LTDA",
+			"val": 1.1010477453883818,
+			"desc": 49.02,
+			"group": "AUTO POSTO SONHO VERDE LTDA"
+		},
+		{
+			"id": 36773,
+			"name": 49.02,
+			"val": 1.6903733069160591,
+			"group": "AUTO POSTO SONHO VERDE LTDA"
+		},
+		{
+			"id": "D PEDRO PARKING POSTO LT",
+			"name": "D PEDRO PARKING POSTO LT",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "D PEDRO PARKING POSTO LT"
+		},
+		{
+			"id": 36776,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "D PEDRO PARKING POSTO LT"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 1.6104052130834106,
+			"desc": 66.49,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 36750,
+			"name": 66.49,
+			"val": 1.8227563329513907,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 3.651631262774796,
+			"desc": 130,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36692,
+			"name": 130,
+			"val": 2.113943352306837,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"name": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"val": 4.454400062081023,
+			"desc": 153.37,
+			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 36698,
+			"name": 153.37,
+			"val": 2.185740417574962,
+			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": "ESPACO JAGUARE SERVICOS AUTOMOTIVOS EIRELI",
+			"name": "ESPACO JAGUARE SERVICOS AUTOMOTIVOS EIRELI",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "ESPACO JAGUARE SERVICOS AUTOMOTIVOS EIRELI"
+		},
+		{
+			"id": 36693,
+			"name": 100,
+			"val": 2,
+			"group": "ESPACO JAGUARE SERVICOS AUTOMOTIVOS EIRELI"
+		},
+		{
+			"id": "SERVICOS AUTOMOTIVOS 7 LT",
+			"name": "SERVICOS AUTOMOTIVOS 7 LT",
+			"val": 6.818456730020015,
+			"desc": 219.20999999999998,
+			"group": "SERVICOS AUTOMOTIVOS 7 LT"
+		},
+		{
+			"id": 36700,
+			"name": 119.21,
+			"val": 2.076312687976858,
+			"group": "SERVICOS AUTOMOTIVOS 7 LT"
+		},
+		{
+			"id": 36699,
+			"name": 100,
+			"val": 2,
+			"group": "SERVICOS AUTOMOTIVOS 7 LT"
+		},
+		{
+			"id": "H B AUTO POSTO LTDA",
+			"name": "H B AUTO POSTO LTDA",
+			"val": 7.471063936446432,
+			"desc": 236.8,
+			"group": "H B AUTO POSTO LTDA"
+		},
+		{
+			"id": 36694,
+			"name": 236.8,
+			"val": 2.374381698050882,
+			"group": "H B AUTO POSTO LTDA"
+		},
+		{
+			"id": "EMIDIO SOUTO PEREIRA - EPP",
+			"name": "EMIDIO SOUTO PEREIRA - EPP",
+			"val": 25.073257869490668,
+			"desc": 668,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": 36678,
+			"name": 668,
+			"val": 2.824776462475546,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 1.8104821741114279,
+			"desc": 73.1,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 36706,
+			"name": 73.1,
+			"val": 1.8639173769578603,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "ECO POSTO DE COMBUSTIVEIS JARDIM LTDA",
+			"name": "ECO POSTO DE COMBUSTIVEIS JARDIM LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "ECO POSTO DE COMBUSTIVEIS JARDIM LTDA"
+		},
+		{
+			"id": 36734,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "ECO POSTO DE COMBUSTIVEIS JARDIM LTDA"
+		},
+		{
+			"id": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
+			"name": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "AUTO POSTO AGULHAS NEGRAS LTDA ME"
+		},
+		{
+			"id": 36679,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO AGULHAS NEGRAS LTDA ME"
+		},
+		{
+			"id": "AUTO POSTO D B MOGI LTDA",
+			"name": "AUTO POSTO D B MOGI LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO D B MOGI LTDA"
+		},
+		{
+			"id": 36682,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO D B MOGI LTDA"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 132.81460852500314,
+			"desc": 2888.2799999999997,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 36701,
+			"name": 1302.93,
+			"val": 3.1149210838397097,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 36702,
+			"name": 1585.35,
+			"val": 3.2001251569565863,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "CEU 070 COMBUSTIVEIS LTDA",
+			"name": "CEU 070 COMBUSTIVEIS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CEU 070 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 36730,
+			"name": 100,
+			"val": 2,
+			"group": "CEU 070 COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "BG LESTE PETROLEO LTDA",
+			"name": "BG LESTE PETROLEO LTDA",
+			"val": 3.315307485892089,
+			"desc": 120,
+			"group": "BG LESTE PETROLEO LTDA"
+		},
+		{
+			"id": 36774,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "BG LESTE PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 7.038327545099363,
+			"desc": 225.16,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 36696,
+			"name": 225.16,
+			"val": 2.3524912399881646,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"val": 11.359563983427972,
+			"desc": 338.03999999999996,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36724,
+			"name": 193.04,
+			"val": 2.2856473089007294,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36725,
+			"name": 145,
+			"val": 2.161368002234975,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO POSTO MAGGA LTDA",
+			"name": "AUTO POSTO MAGGA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO MAGGA LTDA"
+		},
+		{
+			"id": 36772,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO MAGGA LTDA"
+		},
+		{
+			"id": "Posto de Combustiveis Garantia Ltda",
+			"name": "Posto de Combustiveis Garantia Ltda",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "Posto de Combustiveis Garantia Ltda"
+		},
+		{
+			"id": 36742,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "Posto de Combustiveis Garantia Ltda"
+		},
+		{
+			"id": 36741,
+			"name": 100,
+			"val": 2,
+			"group": "Posto de Combustiveis Garantia Ltda"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 36768,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+			"name": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+			"val": 12.804936243771655,
+			"desc": 374.47,
+			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
+		},
+		{
+			"id": 36729,
+			"name": 100,
+			"val": 2,
+			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
+		},
+		{
+			"id": 36727,
+			"name": 224.47,
+			"val": 2.3511583065640274,
+			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
+		},
+		{
+			"id": 36728,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
+		},
+		{
+			"id": "RODOPOSTO TOPAZIO LT",
+			"name": "RODOPOSTO TOPAZIO LT",
+			"val": 5.642200486121106,
+			"desc": 186.92,
+			"group": "RODOPOSTO TOPAZIO LT"
+		},
+		{
+			"id": 36697,
+			"name": 186.92,
+			"val": 2.2716557723522754,
+			"group": "RODOPOSTO TOPAZIO LT"
+		},
+		{
+			"id": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
+			"name": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
+			"val": 496.26153355860885,
+			"desc": 9400,
+			"group": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME"
+		},
+		{
+			"id": 36751,
+			"name": 4700,
+			"val": 3.6720978579357175,
+			"group": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME"
+		},
+		{
+			"id": 36711,
+			"name": 4700,
+			"val": 3.6720978579357175,
+			"group": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME"
+		},
+		{
+			"id": "AUTO POSTO LIDER BANDEIRAS LTDA",
+			"name": "AUTO POSTO LIDER BANDEIRAS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO LIDER BANDEIRAS LTDA"
+		},
+		{
+			"id": 36684,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO LIDER BANDEIRAS LTDA"
+		},
+		{
+			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"val": 5.465674498064651,
+			"desc": 182,
+			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
+		},
+		{
+			"id": 36749,
+			"name": 182,
+			"val": 2.2600713879850747,
+			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
+		},
+		{
+			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
+			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
+			"val": 4.687436349281133,
+			"desc": 160.04,
+			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
+		},
+		{
+			"id": 36685,
+			"name": 160.04,
+			"val": 2.2042285427069594,
+			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 2148.23
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 36765,
+			"value": 1052.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 36764,
+			"value": 1095.84
+		},
+		{
+			"source": -100,
+			"target": "RIALTO IMÓVEIS E EMPREENDIMENTOS LTDA",
+			"value": 4900
+		},
+		{
+			"source": "RIALTO IMÓVEIS E EMPREENDIMENTOS LTDA",
+			"target": 36767,
+			"value": 4900
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 120
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36726,
+			"value": 120
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SAKAMOTO LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO SAKAMOTO LTDA",
+			"target": 36723,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"value": 1596.36
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36688,
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36690,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36718,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36722,
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36721,
+			"value": 171.04
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36686,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36691,
+			"value": 125.32
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36720,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36687,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36719,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO RETAO DA DUTRA LTDA",
+			"target": 36689,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 501.35
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 36736,
+			"value": 100
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 36738,
+			"value": 177
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 36695,
+			"value": 174.35
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 36737,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"value": 770.15
+		},
+		{
+			"source": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"target": 36717,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"target": 36771,
+			"value": 220.15
+		},
+		{
+			"source": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"target": 36770,
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"target": 36716,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
+			"target": 36683,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CHAPARRAL SAO JOSE LT",
+			"value": 509.85
+		},
+		{
+			"source": "AUTO POSTO CHAPARRAL SAO JOSE LT",
+			"target": 36681,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO CHAPARRAL SAO JOSE LT",
+			"target": 36769,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO CHAPARRAL SAO JOSE LT",
+			"target": 36680,
+			"value": 209.85
+		},
+		{
+			"source": -100,
+			"target": "COLUSA AUTO POSTO LTDA",
+			"value": 100
+		},
+		{
+			"source": "COLUSA AUTO POSTO LTDA",
+			"target": 36732,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 3915.29
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36755,
+			"value": 763.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36759,
+			"value": 60
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36757,
+			"value": 166
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36754,
+			"value": 614.94
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36756,
+			"value": 779.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36712,
+			"value": 820.94
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36758,
+			"value": 120
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36753,
+			"value": 145.94
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 36752,
+			"value": 444.49
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 6775.27
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 36763,
+			"value": 1156.23
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 36760,
+			"value": 773.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 36762,
+			"value": 1222.23
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 36713,
+			"value": 1140.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 36714,
+			"value": 880.84
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 36761,
+			"value": 1602.23
+		},
+		{
+			"source": -100,
+			"target": "PAPELARIA LUMIVALE LTDA",
+			"value": 732
+		},
+		{
+			"source": "PAPELARIA LUMIVALE LTDA",
+			"target": 36766,
+			"value": 732
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 224.55
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 36707,
+			"value": 44.11
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 36708,
+			"value": 54.88
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 36709,
+			"value": 36.58
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 36748,
+			"value": 52.4
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 36710,
+			"value": 36.58
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 7.7
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 36705,
+			"value": 7.7
+		},
+		{
+			"source": -100,
+			"target": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
+			"value": 402.32
+		},
+		{
+			"source": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
+			"target": 36743,
+			"value": 239.14
+		},
+		{
+			"source": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
+			"target": 36744,
+			"value": 163.18
+		},
+		{
+			"source": -100,
+			"target": "CINQUENTAO COMERCIO DE COMBUSTIVEIS LTDA.",
+			"value": 254.44
+		},
+		{
+			"source": "CINQUENTAO COMERCIO DE COMBUSTIVEIS LTDA.",
+			"target": 36731,
+			"value": 254.44
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 498.18
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 36746,
+			"value": 262.64
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 36745,
+			"value": 215.22
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 36703,
+			"value": 20.32
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AGULHAS NEGRAS LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AGULHAS NEGRAS LTDA",
+			"target": 36715,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 150
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 36775,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"target": 36739,
+			"value": 100
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"target": 36740,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 52.19
+		},
+		{
+			"source": "RAMAL",
+			"target": 36704,
+			"value": 29.53
+		},
+		{
+			"source": "RAMAL",
+			"target": 36747,
+			"value": 22.66
+		},
+		{
+			"source": -100,
+			"target": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"value": 200
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 36733,
+			"value": 100
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 36777,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "FAROL COMERCIAL LT",
+			"value": 100
+		},
+		{
+			"source": "FAROL COMERCIAL LT",
+			"target": 36735,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SONHO VERDE LTDA",
+			"value": 49.02
+		},
+		{
+			"source": "AUTO POSTO SONHO VERDE LTDA",
+			"target": 36773,
+			"value": 49.02
+		},
+		{
+			"source": -100,
+			"target": "D PEDRO PARKING POSTO LT",
+			"value": 50
+		},
+		{
+			"source": "D PEDRO PARKING POSTO LT",
+			"target": 36776,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 66.49
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 36750,
+			"value": 66.49
+		},
+		{
+			"source": -100,
+			"target": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 130
+		},
+		{
+			"source": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 36692,
+			"value": 130
+		},
+		{
+			"source": -100,
+			"target": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"value": 153.37
+		},
+		{
+			"source": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
+			"target": 36698,
+			"value": 153.37
+		},
+		{
+			"source": -100,
+			"target": "ESPACO JAGUARE SERVICOS AUTOMOTIVOS EIRELI",
+			"value": 100
+		},
+		{
+			"source": "ESPACO JAGUARE SERVICOS AUTOMOTIVOS EIRELI",
+			"target": 36693,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "SERVICOS AUTOMOTIVOS 7 LT",
+			"value": 219.20999999999998
+		},
+		{
+			"source": "SERVICOS AUTOMOTIVOS 7 LT",
+			"target": 36700,
+			"value": 119.21
+		},
+		{
+			"source": "SERVICOS AUTOMOTIVOS 7 LT",
+			"target": 36699,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "H B AUTO POSTO LTDA",
+			"value": 236.8
+		},
+		{
+			"source": "H B AUTO POSTO LTDA",
+			"target": 36694,
+			"value": 236.8
+		},
+		{
+			"source": -100,
+			"target": "EMIDIO SOUTO PEREIRA - EPP",
+			"value": 668
+		},
+		{
+			"source": "EMIDIO SOUTO PEREIRA - EPP",
+			"target": 36678,
+			"value": 668
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 73.1
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 36706,
+			"value": 73.1
+		},
+		{
+			"source": -100,
+			"target": "ECO POSTO DE COMBUSTIVEIS JARDIM LTDA",
+			"value": 200
+		},
+		{
+			"source": "ECO POSTO DE COMBUSTIVEIS JARDIM LTDA",
+			"target": 36734,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
+			"target": 36679,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO D B MOGI LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO D B MOGI LTDA",
+			"target": 36682,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 2888.2799999999997
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 36701,
+			"value": 1302.93
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 36702,
+			"value": 1585.35
+		},
+		{
+			"source": -100,
+			"target": "CEU 070 COMBUSTIVEIS LTDA",
+			"value": 100
+		},
+		{
+			"source": "CEU 070 COMBUSTIVEIS LTDA",
+			"target": 36730,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "BG LESTE PETROLEO LTDA",
+			"value": 120
+		},
+		{
+			"source": "BG LESTE PETROLEO LTDA",
+			"target": 36774,
+			"value": 120
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 225.16
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 36696,
+			"value": 225.16
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"value": 338.03999999999996
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 36724,
+			"value": 193.04
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 36725,
+			"value": 145
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MAGGA LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO MAGGA LTDA",
+			"target": 36772,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "Posto de Combustiveis Garantia Ltda",
+			"value": 150
+		},
+		{
+			"source": "Posto de Combustiveis Garantia Ltda",
+			"target": 36742,
+			"value": 50
+		},
+		{
+			"source": "Posto de Combustiveis Garantia Ltda",
+			"target": 36741,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 36768,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+			"value": 374.47
+		},
+		{
+			"source": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+			"target": 36729,
+			"value": 100
+		},
+		{
+			"source": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+			"target": 36727,
+			"value": 224.47
+		},
+		{
+			"source": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+			"target": 36728,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "RODOPOSTO TOPAZIO LT",
+			"value": 186.92
+		},
+		{
+			"source": "RODOPOSTO TOPAZIO LT",
+			"target": 36697,
+			"value": 186.92
+		},
+		{
+			"source": -100,
+			"target": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
+			"value": 9400
+		},
+		{
+			"source": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
+			"target": 36751,
+			"value": 4700
+		},
+		{
+			"source": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
+			"target": 36711,
+			"value": 4700
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO LIDER BANDEIRAS LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO LIDER BANDEIRAS LTDA",
+			"target": 36684,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"value": 182
+		},
+		{
+			"source": "CHURRASCARIA FOGO DE CHAO LTDA",
+			"target": 36749,
+			"value": 182
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MILLENNIUM 2000 LTDA",
+			"value": 160.04
+		},
+		{
+			"source": "AUTO POSTO MILLENNIUM 2000 LTDA",
+			"target": 36685,
+			"value": 160.04
+		}
+	]
+}

@@ -1,0 +1,1593 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ALAN RICK"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1044.771440005335,
+			"desc": 18432.82,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2183,
+			"name": 1160.39,
+			"val": 3.064603977487114,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2255,
+			"name": 1449.39,
+			"val": 3.161185260597686,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2258,
+			"name": 1255.39,
+			"val": 3.098778664889715,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2182,
+			"name": 1333.39,
+			"val": 3.1249571937315697,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2252,
+			"name": 1449.39,
+			"val": 3.161185260597686,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2250,
+			"name": 866.39,
+			"val": 2.9377134309558115,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2260,
+			"name": 862.79,
+			"val": 2.9359051028537957,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2251,
+			"name": 1415.39,
+			"val": 3.150876122906825,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2249,
+			"name": 809.58,
+			"val": 2.9082597707445803,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2184,
+			"name": 1007.39,
+			"val": 3.0031976354571954,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2185,
+			"name": 562.39,
+			"val": 2.7500375897794944,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2213,
+			"name": -1387.89,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2261,
+			"name": 862.79,
+			"val": 2.9359051028537957,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2253,
+			"name": 862.79,
+			"val": 2.9359051028537957,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2248,
+			"name": 1449.39,
+			"val": 3.161185260597686,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2257,
+			"name": 59,
+			"val": 1.7708520116421442,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2247,
+			"name": 1449.39,
+			"val": 3.161185260597686,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2259,
+			"name": 862.79,
+			"val": 2.9359051028537957,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2262,
+			"name": -1171.29,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2212,
+			"name": 1879.79,
+			"val": 3.274109334936393,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2254,
+			"name": 1045.39,
+			"val": 3.0192783414039828,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2256,
+			"name": 348.79,
+			"val": 2.542564024978776,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.550629907642246,
+			"desc": 156.13,
+			"group": "RAMAL"
+		},
+		{
+			"id": 2240,
+			"name": 61.38,
+			"val": 1.7880268840958038,
+			"group": "RAMAL"
+		},
+		{
+			"id": 2206,
+			"name": 51.35,
+			"val": 1.710540447933297,
+			"group": "RAMAL"
+		},
+		{
+			"id": 2176,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "RAMAL"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 20.02723317850645,
+			"desc": 550,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 2228,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 2229,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 2227,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "LARISSA MAIA MARTINELLO",
+			"name": "LARISSA MAIA MARTINELLO",
+			"val": 133.42131134486664,
+			"desc": 2900,
+			"group": "LARISSA MAIA MARTINELLO"
+		},
+		{
+			"id": 2223,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "LARISSA MAIA MARTINELLO"
+		},
+		{
+			"id": 2167,
+			"name": 1400,
+			"val": 3.146128035678238,
+			"group": "LARISSA MAIA MARTINELLO"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 7.581640062297707,
+			"desc": 239.76,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 2170,
+			"name": 189.76,
+			"val": 2.2782046716841684,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 2191,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 262.4999420046885,
+			"desc": 5303.95,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2217,
+			"name": 811.79,
+			"val": 2.9094436971764277,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2215,
+			"name": 811.79,
+			"val": 2.9094436971764277,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2218,
+			"name": 1886.79,
+			"val": 3.2757235658160173,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2214,
+			"name": 811.79,
+			"val": 2.9094436971764277,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2216,
+			"name": 981.79,
+			"val": 2.9920186042896844,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"val": 9.174131787700782,
+			"desc": 281.81,
+			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
+		},
+		{
+			"id": 2180,
+			"name": 281.81,
+			"val": 2.449956399943542,
+			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
+		},
+		{
+			"id": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"name": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"val": 46.90760917527986,
+			"desc": 1152.96,
+			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
+		},
+		{
+			"id": 2166,
+			"name": 24,
+			"val": 1.380211241711606,
+			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
+		},
+		{
+			"id": 2165,
+			"name": 286.78,
+			"val": 2.4575488604110087,
+			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
+		},
+		{
+			"id": 2187,
+			"name": 418.78,
+			"val": 2.621985932564961,
+			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
+		},
+		{
+			"id": 2220,
+			"name": 353.18,
+			"val": 2.5479961022227244,
+			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
+		},
+		{
+			"id": 2188,
+			"name": 38.59,
+			"val": 1.5864747785713966,
+			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
+		},
+		{
+			"id": 2221,
+			"name": 31.63,
+			"val": 1.500099191915723,
+			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
+		},
+		{
+			"id": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"name": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"val": 740.91627648858,
+			"desc": 13500,
+			"group": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": 2197,
+			"name": 6750,
+			"val": 3.829303772831025,
+			"group": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": 2232,
+			"name": 6750,
+			"val": 3.829303772831025,
+			"group": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": "A & S DERIVADOS DE PETROLEO LTDA",
+			"name": "A & S DERIVADOS DE PETROLEO LTDA",
+			"val": 758.3017995275069,
+			"desc": 13786.349999999999,
+			"group": "A & S DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 2224,
+			"name": 3870.12,
+			"val": 3.5877244313056957,
+			"group": "A & S DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 2189,
+			"name": 4942.5,
+			"val": 3.6939466779857097,
+			"group": "A & S DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 2168,
+			"name": 4973.73,
+			"val": 3.696682205804688,
+			"group": "A & S DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
+			"name": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
+			"val": 5.749485393961118,
+			"desc": 189.9,
+			"group": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP"
+		},
+		{
+			"id": 2177,
+			"name": 77.5,
+			"val": 1.8893017025063104,
+			"group": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP"
+		},
+		{
+			"id": 2179,
+			"name": 69,
+			"val": 1.8388490907372552,
+			"group": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP"
+		},
+		{
+			"id": 2178,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 46.49110713469503,
+			"desc": 1143.99,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2239,
+			"name": 377.35,
+			"val": 2.576744354327417,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2175,
+			"name": 95.38,
+			"val": 1.9794573180978483,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2238,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2173,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2204,
+			"name": 117.23,
+			"val": 2.069038764986071,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2237,
+			"name": 201.2,
+			"val": 2.30362797638389,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2205,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 2174,
+			"name": 259.38,
+			"val": 2.4139364859172954,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "AD. FIRMINO DA COSTA - ME",
+			"name": "AD. FIRMINO DA COSTA - ME",
+			"val": 531.508495181978,
+			"desc": 10000,
+			"group": "AD. FIRMINO DA COSTA - ME"
+		},
+		{
+			"id": 2233,
+			"name": 6000,
+			"val": 3.778151250383644,
+			"group": "AD. FIRMINO DA COSTA - ME"
+		},
+		{
+			"id": 2198,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "AD. FIRMINO DA COSTA - ME"
+		},
+		{
+			"id": "JACOB GOMES DE ALMEIDA JUNIOR",
+			"name": "JACOB GOMES DE ALMEIDA JUNIOR",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "JACOB GOMES DE ALMEIDA JUNIOR"
+		},
+		{
+			"id": 2231,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "JACOB GOMES DE ALMEIDA JUNIOR"
+		},
+		{
+			"id": 2196,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "JACOB GOMES DE ALMEIDA JUNIOR"
+		},
+		{
+			"id": "verde Service Ltda EPP",
+			"name": "verde Service Ltda EPP",
+			"val": 516.7962736374491,
+			"desc": 9750,
+			"group": "verde Service Ltda EPP"
+		},
+		{
+			"id": 2245,
+			"name": 3250,
+			"val": 3.5118833609788744,
+			"group": "verde Service Ltda EPP"
+		},
+		{
+			"id": 2181,
+			"name": 3250,
+			"val": 3.5118833609788744,
+			"group": "verde Service Ltda EPP"
+		},
+		{
+			"id": 2211,
+			"name": 3250,
+			"val": 3.5118833609788744,
+			"group": "verde Service Ltda EPP"
+		},
+		{
+			"id": "AUTO POSTO 306 NORTE LTDA",
+			"name": "AUTO POSTO 306 NORTE LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO 306 NORTE LTDA"
+		},
+		{
+			"id": 2190,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO 306 NORTE LTDA"
+		},
+		{
+			"id": "Claro S.A",
+			"name": "Claro S.A",
+			"val": 53.821457343931144,
+			"desc": 1300.6599999999999,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 2164,
+			"name": 427.43,
+			"val": 2.6308650006947314,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 2219,
+			"name": 438.86,
+			"val": 2.642325998774047,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 2186,
+			"name": 434.37,
+			"val": 2.6378598228322443,
+			"group": "Claro S.A"
+		},
+		{
+			"id": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215",
+			"name": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215",
+			"val": 218.4427671498792,
+			"desc": 4500,
+			"group": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215"
+		},
+		{
+			"id": 2172,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215"
+		},
+		{
+			"id": 2202,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215"
+		},
+		{
+			"id": 2235,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 8.286118898801414,
+			"desc": 258.49,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 2209,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 2208,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 2210,
+			"name": 52.72,
+			"val": 1.7219754015859534,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 2243,
+			"name": 74.21,
+			"val": 1.87046243158892,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "RONALDO D. BARROS",
+			"name": "RONALDO D. BARROS",
+			"val": 87.7262742772967,
+			"desc": 2000,
+			"group": "RONALDO D. BARROS"
+		},
+		{
+			"id": 2236,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "RONALDO D. BARROS"
+		},
+		{
+			"id": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"name": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"val": 0.9940837568490309,
+			"desc": 45.2,
+			"group": "RESTAURANTE E BAR XIQUE XIQUE LTDA"
+		},
+		{
+			"id": 2242,
+			"name": 45.2,
+			"val": 1.6551384348113822,
+			"group": "RESTAURANTE E BAR XIQUE XIQUE LTDA"
+		},
+		{
+			"id": "DIANA AGÊNCIA DE COMUNICAÇÃO",
+			"name": "DIANA AGÊNCIA DE COMUNICAÇÃO",
+			"val": 87.7262742772967,
+			"desc": 2000,
+			"group": "DIANA AGÊNCIA DE COMUNICAÇÃO"
+		},
+		{
+			"id": 2234,
+			"name": 1000,
+			"val": 3,
+			"group": "DIANA AGÊNCIA DE COMUNICAÇÃO"
+		},
+		{
+			"id": 2199,
+			"name": 1000,
+			"val": 3,
+			"group": "DIANA AGÊNCIA DE COMUNICAÇÃO"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 6.3252783157092285,
+			"desc": 205.77,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 2192,
+			"name": 205.77,
+			"val": 2.313382057578149,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"val": 6.782699937495199,
+			"desc": 218.24,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": 2226,
+			"name": 218.24,
+			"val": 2.338934352976385,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
+		},
+		{
+			"id": 2195,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
+		},
+		{
+			"id": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"name": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"val": 343.45813824429,
+			"desc": 6750,
+			"group": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": 2171,
+			"name": 6750,
+			"val": 3.829303772831025,
+			"group": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": "POSTO PETROMINAS LTDA",
+			"name": "POSTO PETROMINAS LTDA",
+			"val": 7.528940512994818,
+			"desc": 238.35,
+			"group": "POSTO PETROMINAS LTDA"
+		},
+		{
+			"id": 2230,
+			"name": 238.35,
+			"val": 2.377215156263061,
+			"group": "POSTO PETROMINAS LTDA"
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"val": 0.7034043836148232,
+			"desc": 34.44,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 2246,
+			"name": 34.44,
+			"val": 1.537063142781617,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 1.7456171254606025,
+			"desc": 70.97,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 2241,
+			"name": 70.97,
+			"val": 1.8510748052288868,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 1.6047084831777296,
+			"desc": 66.3,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 2207,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"val": 8.115371886417426,
+			"desc": 253.97,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 2169,
+			"name": 253.97,
+			"val": 2.4047824189666427,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 2225,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "CALURINO FERRAZ MIRANDA",
+			"name": "CALURINO FERRAZ MIRANDA",
+			"val": 9.763632927036934,
+			"desc": 297.13,
+			"group": "CALURINO FERRAZ MIRANDA"
+		},
+		{
+			"id": 2163,
+			"name": 297.13,
+			"val": 2.4729465029537847,
+			"group": "CALURINO FERRAZ MIRANDA"
+		},
+		{
+			"id": "EMIDIO SOUTO PEREIRA - EPP",
+			"name": "EMIDIO SOUTO PEREIRA - EPP",
+			"val": 33.44426973029844,
+			"desc": 858,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": 2222,
+			"name": 858,
+			"val": 2.9334872878487053,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 10.900058871470037,
+			"desc": 326.34000000000003,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 2193,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 2194,
+			"name": 176.34,
+			"val": 2.2463508364562563,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "SENA ONLINE.NET",
+			"name": "SENA ONLINE.NET",
+			"val": 87.7262742772967,
+			"desc": 2000,
+			"group": "SENA ONLINE.NET"
+		},
+		{
+			"id": 2203,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "SENA ONLINE.NET"
+		},
+		{
+			"id": "GP COBERTURA JORNALISTICA LTDA ME",
+			"name": "GP COBERTURA JORNALISTICA LTDA ME",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 2200,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
+			"name": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
+			"val": 49.09832971438023,
+			"desc": 1200,
+			"group": "KALLINY COMUNICACOES E TECNOLOGIA LTDA"
+		},
+		{
+			"id": 2201,
+			"name": 1200,
+			"val": 3.0791812460476247,
+			"group": "KALLINY COMUNICACOES E TECNOLOGIA LTDA"
+		},
+		{
+			"id": "5SERVICO SOCIAL DO COMERCIO",
+			"name": "5SERVICO SOCIAL DO COMERCIO",
+			"val": 4.967637308107327,
+			"desc": 168,
+			"group": "5SERVICO SOCIAL DO COMERCIO"
+		},
+		{
+			"id": 2244,
+			"name": 168,
+			"val": 2.225309281725863,
+			"group": "5SERVICO SOCIAL DO COMERCIO"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 18432.82
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2183,
+			"value": 1160.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2255,
+			"value": 1449.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2258,
+			"value": 1255.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2182,
+			"value": 1333.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2252,
+			"value": 1449.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2250,
+			"value": 866.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2260,
+			"value": 862.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2251,
+			"value": 1415.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2249,
+			"value": 809.58
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2184,
+			"value": 1007.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2185,
+			"value": 562.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2213,
+			"value": -1387.89
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2261,
+			"value": 862.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2253,
+			"value": 862.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2248,
+			"value": 1449.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2257,
+			"value": 59
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2247,
+			"value": 1449.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2259,
+			"value": 862.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2262,
+			"value": -1171.29
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2212,
+			"value": 1879.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2254,
+			"value": 1045.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2256,
+			"value": 348.79
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 156.13
+		},
+		{
+			"source": "RAMAL",
+			"target": 2240,
+			"value": 61.38
+		},
+		{
+			"source": "RAMAL",
+			"target": 2206,
+			"value": 51.35
+		},
+		{
+			"source": "RAMAL",
+			"target": 2176,
+			"value": 43.4
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 550
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 2228,
+			"value": 200
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 2229,
+			"value": 150
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 2227,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "LARISSA MAIA MARTINELLO",
+			"value": 2900
+		},
+		{
+			"source": "LARISSA MAIA MARTINELLO",
+			"target": 2223,
+			"value": 1500
+		},
+		{
+			"source": "LARISSA MAIA MARTINELLO",
+			"target": 2167,
+			"value": 1400
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 239.76
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 2170,
+			"value": 189.76
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 2191,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 5303.95
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2217,
+			"value": 811.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2215,
+			"value": 811.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2218,
+			"value": 1886.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2214,
+			"value": 811.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2216,
+			"value": 981.79
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"value": 281.81
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"target": 2180,
+			"value": 281.81
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"value": 1152.96
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"target": 2166,
+			"value": 24
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"target": 2165,
+			"value": 286.78
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"target": 2187,
+			"value": 418.78
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"target": 2220,
+			"value": 353.18
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"target": 2188,
+			"value": 38.59
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ACRE",
+			"target": 2221,
+			"value": 31.63
+		},
+		{
+			"source": -100,
+			"target": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"value": 13500
+		},
+		{
+			"source": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"target": 2197,
+			"value": 6750
+		},
+		{
+			"source": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"target": 2232,
+			"value": 6750
+		},
+		{
+			"source": -100,
+			"target": "A & S DERIVADOS DE PETROLEO LTDA",
+			"value": 13786.349999999999
+		},
+		{
+			"source": "A & S DERIVADOS DE PETROLEO LTDA",
+			"target": 2224,
+			"value": 3870.12
+		},
+		{
+			"source": "A & S DERIVADOS DE PETROLEO LTDA",
+			"target": 2189,
+			"value": 4942.5
+		},
+		{
+			"source": "A & S DERIVADOS DE PETROLEO LTDA",
+			"target": 2168,
+			"value": 4973.73
+		},
+		{
+			"source": -100,
+			"target": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
+			"value": 189.9
+		},
+		{
+			"source": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
+			"target": 2177,
+			"value": 77.5
+		},
+		{
+			"source": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
+			"target": 2179,
+			"value": 69
+		},
+		{
+			"source": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
+			"target": 2178,
+			"value": 43.4
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 1143.99
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2239,
+			"value": 377.35
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2175,
+			"value": 95.38
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2238,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2173,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2204,
+			"value": 117.23
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2237,
+			"value": 201.2
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2205,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 2174,
+			"value": 259.38
+		},
+		{
+			"source": -100,
+			"target": "AD. FIRMINO DA COSTA - ME",
+			"value": 10000
+		},
+		{
+			"source": "AD. FIRMINO DA COSTA - ME",
+			"target": 2233,
+			"value": 6000
+		},
+		{
+			"source": "AD. FIRMINO DA COSTA - ME",
+			"target": 2198,
+			"value": 4000
+		},
+		{
+			"source": -100,
+			"target": "JACOB GOMES DE ALMEIDA JUNIOR",
+			"value": 4000
+		},
+		{
+			"source": "JACOB GOMES DE ALMEIDA JUNIOR",
+			"target": 2231,
+			"value": 2000
+		},
+		{
+			"source": "JACOB GOMES DE ALMEIDA JUNIOR",
+			"target": 2196,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "verde Service Ltda EPP",
+			"value": 9750
+		},
+		{
+			"source": "verde Service Ltda EPP",
+			"target": 2245,
+			"value": 3250
+		},
+		{
+			"source": "verde Service Ltda EPP",
+			"target": 2181,
+			"value": 3250
+		},
+		{
+			"source": "verde Service Ltda EPP",
+			"target": 2211,
+			"value": 3250
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO 306 NORTE LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO 306 NORTE LTDA",
+			"target": 2190,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "Claro S.A",
+			"value": 1300.6599999999999
+		},
+		{
+			"source": "Claro S.A",
+			"target": 2164,
+			"value": 427.43
+		},
+		{
+			"source": "Claro S.A",
+			"target": 2219,
+			"value": 438.86
+		},
+		{
+			"source": "Claro S.A",
+			"target": 2186,
+			"value": 434.37
+		},
+		{
+			"source": -100,
+			"target": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215",
+			"value": 4500
+		},
+		{
+			"source": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215",
+			"target": 2172,
+			"value": 1500
+		},
+		{
+			"source": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215",
+			"target": 2202,
+			"value": 1500
+		},
+		{
+			"source": "MARIA JANIR SOUZA DO NASCIMENTO 86722697215",
+			"target": 2235,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 258.49
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 2209,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 2208,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 2210,
+			"value": 52.72
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 2243,
+			"value": 74.21
+		},
+		{
+			"source": -100,
+			"target": "RONALDO D. BARROS",
+			"value": 2000
+		},
+		{
+			"source": "RONALDO D. BARROS",
+			"target": 2236,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"value": 45.2
+		},
+		{
+			"source": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
+			"target": 2242,
+			"value": 45.2
+		},
+		{
+			"source": -100,
+			"target": "DIANA AGÊNCIA DE COMUNICAÇÃO",
+			"value": 2000
+		},
+		{
+			"source": "DIANA AGÊNCIA DE COMUNICAÇÃO",
+			"target": 2234,
+			"value": 1000
+		},
+		{
+			"source": "DIANA AGÊNCIA DE COMUNICAÇÃO",
+			"target": 2199,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 205.77
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 2192,
+			"value": 205.77
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"value": 218.24
+		},
+		{
+			"source": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"target": 2226,
+			"value": 218.24
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"value": 150
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"target": 2195,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"value": 6750
+		},
+		{
+			"source": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"target": 2171,
+			"value": 6750
+		},
+		{
+			"source": -100,
+			"target": "POSTO PETROMINAS LTDA",
+			"value": 238.35
+		},
+		{
+			"source": "POSTO PETROMINAS LTDA",
+			"target": 2230,
+			"value": 238.35
+		},
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"value": 34.44
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 2246,
+			"value": 34.44
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 70.97
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 2241,
+			"value": 70.97
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 66.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 2207,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"value": 253.97
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 2169,
+			"value": 253.97
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 2225,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "CALURINO FERRAZ MIRANDA",
+			"value": 297.13
+		},
+		{
+			"source": "CALURINO FERRAZ MIRANDA",
+			"target": 2163,
+			"value": 297.13
+		},
+		{
+			"source": -100,
+			"target": "EMIDIO SOUTO PEREIRA - EPP",
+			"value": 858
+		},
+		{
+			"source": "EMIDIO SOUTO PEREIRA - EPP",
+			"target": 2222,
+			"value": 858
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 326.34000000000003
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 2193,
+			"value": 150
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 2194,
+			"value": 176.34
+		},
+		{
+			"source": -100,
+			"target": "SENA ONLINE.NET",
+			"value": 2000
+		},
+		{
+			"source": "SENA ONLINE.NET",
+			"target": 2203,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "GP COBERTURA JORNALISTICA LTDA ME",
+			"value": 4000
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 2200,
+			"value": 4000
+		},
+		{
+			"source": -100,
+			"target": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
+			"value": 1200
+		},
+		{
+			"source": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
+			"target": 2201,
+			"value": 1200
+		},
+		{
+			"source": -100,
+			"target": "5SERVICO SOCIAL DO COMERCIO",
+			"value": 168
+		},
+		{
+			"source": "5SERVICO SOCIAL DO COMERCIO",
+			"target": 2244,
+			"value": 168
+		}
+	]
+}

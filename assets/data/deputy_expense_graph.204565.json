@@ -1,0 +1,1617 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PROFESSORA DAYANE PIMENTEL"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "DEOCILDA TESSARI MORETO",
+			"name": "DEOCILDA TESSARI MORETO",
+			"val": 173.4622439106018,
+			"desc": 3663,
+			"group": "DEOCILDA TESSARI MORETO"
+		},
+		{
+			"id": 42048,
+			"name": 1831.5,
+			"val": 3.262806923000564,
+			"group": "DEOCILDA TESSARI MORETO"
+		},
+		{
+			"id": 41981,
+			"name": 1831.5,
+			"val": 3.262806923000564,
+			"group": "DEOCILDA TESSARI MORETO"
+		},
+		{
+			"id": "VIA BAHIA",
+			"name": "VIA BAHIA",
+			"val": 0.1640728545711457,
+			"desc": 11.6,
+			"group": "VIA BAHIA"
+		},
+		{
+			"id": 42024,
+			"name": 2.9,
+			"val": 0.4623979978989561,
+			"group": "VIA BAHIA"
+		},
+		{
+			"id": 42025,
+			"name": 2.9,
+			"val": 0.4623979978989561,
+			"group": "VIA BAHIA"
+		},
+		{
+			"id": 42023,
+			"name": 2.9,
+			"val": 0.4623979978989561,
+			"group": "VIA BAHIA"
+		},
+		{
+			"id": 42022,
+			"name": 2.9,
+			"val": 0.4623979978989561,
+			"group": "VIA BAHIA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 7.362563780460639,
+			"desc": 233.89000000000001,
+			"group": "RAMAL"
+		},
+		{
+			"id": 42066,
+			"name": 83.78,
+			"val": 1.9231403560252007,
+			"group": "RAMAL"
+		},
+		{
+			"id": 42004,
+			"name": 150.11,
+			"val": 2.1764096249558427,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 100.9219971021914,
+			"desc": 2263.9199999999996,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42032,
+			"name": 780.39,
+			"val": 2.8923116956627104,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42031,
+			"name": 780.39,
+			"val": 2.8923116956627104,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42033,
+			"name": 675.39,
+			"val": 2.829554626069943,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42029,
+			"name": 1062.39,
+			"val": 3.0262839741424865,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42028,
+			"name": 748.39,
+			"val": 2.8741279758164353,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42034,
+			"name": -1010.74,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42035,
+			"name": -742.84,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42030,
+			"name": 713.39,
+			"val": 2.853327017288209,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 42036,
+			"name": -742.84,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 342.08057905307476,
+			"desc": 6725.6799999999985,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42045,
+			"name": 1766.39,
+			"val": 3.2470865974003775,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42041,
+			"name": 410.98,
+			"val": 2.6138206878104233,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42037,
+			"name": 877.98,
+			"val": 2.943484622980627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42044,
+			"name": 418.9,
+			"val": 2.6221103603612193,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42039,
+			"name": 862.98,
+			"val": 2.9360007308365454,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42043,
+			"name": 277,
+			"val": 2.4424797690644486,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42042,
+			"name": 560.98,
+			"val": 2.748947378110938,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42040,
+			"name": 793.49,
+			"val": 2.899541457906009,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 42038,
+			"name": 756.98,
+			"val": 2.8790844052538627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"name": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"val": 102.72965450190104,
+			"desc": 2299.79,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 41995,
+			"name": 100,
+			"val": 2,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42057,
+			"name": 314.52,
+			"val": 2.4976482669942253,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42061,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42062,
+			"name": 303.97,
+			"val": 2.4828307234858276,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42056,
+			"name": 258.58,
+			"val": 2.4125949311184796,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42058,
+			"name": 100,
+			"val": 2,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42060,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42059,
+			"name": 263.36,
+			"val": 2.4205498135321757,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 41996,
+			"name": 303.31,
+			"val": 2.4818867290486315,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 41994,
+			"name": 256.05,
+			"val": 2.408324780170415,
+			"group": "PITUBA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"val": 6.077300530007586,
+			"desc": 198.96,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 41980,
+			"name": 42.77,
+			"val": 1.6311392502568112,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 42047,
+			"name": 156.19,
+			"val": 2.193653224907199,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": "POSTO KALILANDIA LTDA",
+			"name": "POSTO KALILANDIA LTDA",
+			"val": 18.54733020551457,
+			"desc": 514.76,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 42063,
+			"name": 271,
+			"val": 2.432969290874406,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 42064,
+			"name": 243.76,
+			"val": 2.3869624412146173,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 14.599717723627728,
+			"desc": 419.01,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42014,
+			"name": 11.99,
+			"val": 1.0788191830988487,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42072,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42015,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42019,
+			"name": 19.78,
+			"val": 1.2962262872611605,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42018,
+			"name": 22.61,
+			"val": 1.3543005623453597,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42013,
+			"name": 14.87,
+			"val": 1.1723109685219542,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42017,
+			"name": 33.86,
+			"val": 1.5296869537729165,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42075,
+			"name": 38.25,
+			"val": 1.5826314394896364,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42076,
+			"name": 19.78,
+			"val": 1.2962262872611605,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42073,
+			"name": 19.78,
+			"val": 1.2962262872611605,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42071,
+			"name": 68.28,
+			"val": 1.834293512442696,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42016,
+			"name": 18.47,
+			"val": 1.2664668954402414,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 42074,
+			"name": 19.78,
+			"val": 1.2962262872611605,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 6.566117073511957,
+			"desc": 212.35,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 41998,
+			"name": 212.35,
+			"val": 2.327052265326698,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"name": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": 41999,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+			"name": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+			"val": 7.594728934913768,
+			"desc": 240.11,
+			"group": "HIPER POSTO CAMINHO DAS ARVORES LTDA"
+		},
+		{
+			"id": 41991,
+			"name": 240.11,
+			"val": 2.3804102477470783,
+			"group": "HIPER POSTO CAMINHO DAS ARVORES LTDA"
+		},
+		{
+			"id": "TREVO DERIVADOS DE PETROLEO LTDA",
+			"name": "TREVO DERIVADOS DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "TREVO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42000,
+			"name": 100,
+			"val": 2,
+			"group": "TREVO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
+			"name": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
+			"val": 1.4176537429460445,
+			"desc": 60,
+			"group": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA"
+		},
+		{
+			"id": 41997,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA"
+		},
+		{
+			"id": "JLM RESTAURANTE LTDA EPP",
+			"name": "JLM RESTAURANTE LTDA EPP",
+			"val": 5.109270151235043,
+			"desc": 172,
+			"group": "JLM RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": 42010,
+			"name": 52,
+			"val": 1.716003343634799,
+			"group": "JLM RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": 42068,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "JLM RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": 42009,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "JLM RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": 42069,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "JLM RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 0.21742012059826374,
+			"desc": 14.2,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 42005,
+			"name": 14.2,
+			"val": 1.1522883443830565,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 33.473806271052275,
+			"desc": 858.6600000000001,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 41983,
+			"name": 194.12,
+			"val": 2.2880702826432477,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 41987,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 41984,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 41986,
+			"name": 264.54,
+			"val": 2.4224913492099662,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 41985,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 42051,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"val": 38.49674283584902,
+			"desc": 970,
+			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
+		},
+		{
+			"id": 42067,
+			"name": 970,
+			"val": 2.9867717342662448,
+			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
+		},
+		{
+			"id": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"name": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"val": 11.328856695489723,
+			"desc": 337.26,
+			"group": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 42001,
+			"name": 100,
+			"val": 2,
+			"group": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 42002,
+			"name": 237.26,
+			"val": 2.3752245260657996,
+			"group": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 5.038385836573638,
+			"desc": 170,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 41990,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 42052,
+			"name": 110,
+			"val": 2.041392685158225,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 115.52712715315167,
+			"desc": 2551.98,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 42027,
+			"name": 1428.49,
+			"val": 3.1548772044947366,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 42026,
+			"name": 1123.49,
+			"val": 3.050569211188484,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"val": 656.4356202691871,
+			"desc": 12100,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": 42077,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": 42020,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": 42021,
+			"name": 3900,
+			"val": 3.591064607026499,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": "Jose Elenilson Ribeiro da Cruz",
+			"name": "Jose Elenilson Ribeiro da Cruz",
+			"val": 282.13224247432,
+			"desc": 5658,
+			"group": "Jose Elenilson Ribeiro da Cruz"
+		},
+		{
+			"id": 42049,
+			"name": 5658,
+			"val": 3.752662943120972,
+			"group": "Jose Elenilson Ribeiro da Cruz"
+		},
+		{
+			"id": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159",
+			"name": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159",
+			"val": 0.2890498111861477,
+			"desc": 17.5,
+			"group": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159"
+		},
+		{
+			"id": 42006,
+			"name": 17.5,
+			"val": 1.2430380486862944,
+			"group": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159"
+		},
+		{
+			"id": "RESTAURANTE PICANHA DO SUL",
+			"name": "RESTAURANTE PICANHA DO SUL",
+			"val": 9.515642707380193,
+			"desc": 290.70000000000005,
+			"group": "RESTAURANTE PICANHA DO SUL"
+		},
+		{
+			"id": 42012,
+			"name": 143.8,
+			"val": 2.1577588860468637,
+			"group": "RESTAURANTE PICANHA DO SUL"
+		},
+		{
+			"id": 42011,
+			"name": 146.9,
+			"val": 2.1670217957902564,
+			"group": "RESTAURANTE PICANHA DO SUL"
+		},
+		{
+			"id": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1",
+			"name": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1"
+		},
+		{
+			"id": 42065,
+			"name": 100,
+			"val": 2,
+			"group": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1"
+		},
+		{
+			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"val": 52.50063293072991,
+			"desc": 1272.6100000000001,
+			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": 42003,
+			"name": 426.17,
+			"val": 2.6295828745357968,
+			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": 41978,
+			"name": 846.44,
+			"val": 2.9275961785200364,
+			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"name": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA"
+		},
+		{
+			"id": 41993,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA"
+		},
+		{
+			"id": "PETROBRASDISTRIBUIDORASA",
+			"name": "PETROBRASDISTRIBUIDORASA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "PETROBRASDISTRIBUIDORASA"
+		},
+		{
+			"id": 42055,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "PETROBRASDISTRIBUIDORASA"
+		},
+		{
+			"id": "EME COMERCIO DE ALIMENTOS LTDA ME",
+			"name": "EME COMERCIO DE ALIMENTOS LTDA ME",
+			"val": 1.9089099796034623,
+			"desc": 76.31,
+			"group": "EME COMERCIO DE ALIMENTOS LTDA ME"
+		},
+		{
+			"id": 42007,
+			"name": 76.31,
+			"val": 1.8825814535544512,
+			"group": "EME COMERCIO DE ALIMENTOS LTDA ME"
+		},
+		{
+			"id": "S.A. ATACADISTA DE ALIMENTOS LTDA",
+			"name": "S.A. ATACADISTA DE ALIMENTOS LTDA",
+			"val": 0.10244353839071792,
+			"desc": 8.36,
+			"group": "S.A. ATACADISTA DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 41982,
+			"name": 8.36,
+			"val": 0.9222062774390164,
+			"group": "S.A. ATACADISTA DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "JACUIPE DERIVADOS DE PETROLEO LTDA",
+			"name": "JACUIPE DERIVADOS DE PETROLEO LTDA",
+			"val": 2.023016990363956,
+			"desc": 80,
+			"group": "JACUIPE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 42054,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "JACUIPE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "J MARTINS DERIVADOS DE PETR&Oacute;LEO LTDA",
+			"name": "J MARTINS DERIVADOS DE PETR&Oacute;LEO LTDA",
+			"val": 6.782331440146129,
+			"desc": 218.23,
+			"group": "J MARTINS DERIVADOS DE PETR&Oacute;LEO LTDA"
+		},
+		{
+			"id": 42053,
+			"name": 218.23,
+			"val": 2.338914452663329,
+			"group": "J MARTINS DERIVADOS DE PETR&Oacute;LEO LTDA"
+		},
+		{
+			"id": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"name": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"val": 1.565815631387398,
+			"desc": 65,
+			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
+		},
+		{
+			"id": 42070,
+			"name": 65,
+			"val": 1.8129133566428555,
+			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
+		},
+		{
+			"id": "Marcelo Moreto",
+			"name": "Marcelo Moreto",
+			"val": 36.98903899186734,
+			"desc": 936.76,
+			"group": "Marcelo Moreto"
+		},
+		{
+			"id": 42050,
+			"name": 936.76,
+			"val": 2.97162833792451,
+			"group": "Marcelo Moreto"
+		},
+		{
+			"id": "CARTORIO DO 2 OFICIO DE NOTAS E PROTESTO DE BRASILIA DF",
+			"name": "CARTORIO DO 2 OFICIO DE NOTAS E PROTESTO DE BRASILIA DF",
+			"val": 0.0977806698191113,
+			"desc": 8.1,
+			"group": "CARTORIO DO 2 OFICIO DE NOTAS E PROTESTO DE BRASILIA DF"
+		},
+		{
+			"id": 41979,
+			"name": 8.1,
+			"val": 0.9084850188786497,
+			"group": "CARTORIO DO 2 OFICIO DE NOTAS E PROTESTO DE BRASILIA DF"
+		},
+		{
+			"id": "DERIVADOS DE PETROLEO VELHO CHICO LTDA",
+			"name": "DERIVADOS DE PETROLEO VELHO CHICO LTDA",
+			"val": 7.665459613681807,
+			"desc": 242,
+			"group": "DERIVADOS DE PETROLEO VELHO CHICO LTDA"
+		},
+		{
+			"id": 41989,
+			"name": 242,
+			"val": 2.383815365980431,
+			"group": "DERIVADOS DE PETROLEO VELHO CHICO LTDA"
+		},
+		{
+			"id": "ANTONIO J DOS SANTOS",
+			"name": "ANTONIO J DOS SANTOS",
+			"val": 5.028826821697181,
+			"desc": 169.73,
+			"group": "ANTONIO J DOS SANTOS"
+		},
+		{
+			"id": 42046,
+			"name": 169.73,
+			"val": 2.2297586112213734,
+			"group": "ANTONIO J DOS SANTOS"
+		},
+		{
+			"id": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
+			"name": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
+			"val": 2.2958619083519816,
+			"desc": 88.7,
+			"group": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP"
+		},
+		{
+			"id": 42008,
+			"name": 88.7,
+			"val": 1.9479236198317265,
+			"group": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP"
+		},
+		{
+			"id": "J MARTINS DERIVADOS DE PETROLEO LTDA",
+			"name": "J MARTINS DERIVADOS DE PETROLEO LTDA",
+			"val": 6.1408980213498685,
+			"desc": 200.71,
+			"group": "J MARTINS DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 41992,
+			"name": 200.71,
+			"val": 2.302569010936054,
+			"group": "J MARTINS DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "COMERCIAL DE DERIVADO DE PETROLEO DA HORA LTDA",
+			"name": "COMERCIAL DE DERIVADO DE PETROLEO DA HORA LTDA",
+			"val": 5.826334532983402,
+			"desc": 192.03,
+			"group": "COMERCIAL DE DERIVADO DE PETROLEO DA HORA LTDA"
+		},
+		{
+			"id": 41988,
+			"name": 192.03,
+			"val": 2.2833690819154526,
+			"group": "COMERCIAL DE DERIVADO DE PETROLEO DA HORA LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "DEOCILDA TESSARI MORETO",
+			"value": 3663
+		},
+		{
+			"source": "DEOCILDA TESSARI MORETO",
+			"target": 42048,
+			"value": 1831.5
+		},
+		{
+			"source": "DEOCILDA TESSARI MORETO",
+			"target": 41981,
+			"value": 1831.5
+		},
+		{
+			"source": -100,
+			"target": "VIA BAHIA",
+			"value": 11.6
+		},
+		{
+			"source": "VIA BAHIA",
+			"target": 42024,
+			"value": 2.9
+		},
+		{
+			"source": "VIA BAHIA",
+			"target": 42025,
+			"value": 2.9
+		},
+		{
+			"source": "VIA BAHIA",
+			"target": 42023,
+			"value": 2.9
+		},
+		{
+			"source": "VIA BAHIA",
+			"target": 42022,
+			"value": 2.9
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 233.89000000000001
+		},
+		{
+			"source": "RAMAL",
+			"target": 42066,
+			"value": 83.78
+		},
+		{
+			"source": "RAMAL",
+			"target": 42004,
+			"value": 150.11
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 2263.9199999999996
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42032,
+			"value": 780.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42031,
+			"value": 780.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42033,
+			"value": 675.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42029,
+			"value": 1062.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42028,
+			"value": 748.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42034,
+			"value": -1010.74
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42035,
+			"value": -742.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42030,
+			"value": 713.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 42036,
+			"value": -742.84
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 6725.6799999999985
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42045,
+			"value": 1766.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42041,
+			"value": 410.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42037,
+			"value": 877.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42044,
+			"value": 418.9
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42039,
+			"value": 862.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42043,
+			"value": 277
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42042,
+			"value": 560.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42040,
+			"value": 793.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 42038,
+			"value": 756.98
+		},
+		{
+			"source": -100,
+			"target": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"value": 2299.79
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 41995,
+			"value": 100
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 42057,
+			"value": 314.52
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 42061,
+			"value": 200
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 42062,
+			"value": 303.97
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 42056,
+			"value": 258.58
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 42058,
+			"value": 100
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 42060,
+			"value": 200
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 42059,
+			"value": 263.36
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 41996,
+			"value": 303.31
+		},
+		{
+			"source": "PITUBA DERIVADOS DE PETROLEO LTDA",
+			"target": 41994,
+			"value": 256.05
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"value": 198.96
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 41980,
+			"value": 42.77
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 42047,
+			"value": 156.19
+		},
+		{
+			"source": -100,
+			"target": "POSTO KALILANDIA LTDA",
+			"value": 514.76
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 42063,
+			"value": 271
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 42064,
+			"value": 243.76
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 419.01
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42014,
+			"value": 11.99
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42072,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42015,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42019,
+			"value": 19.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42018,
+			"value": 22.61
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42013,
+			"value": 14.87
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42017,
+			"value": 33.86
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42075,
+			"value": 38.25
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42076,
+			"value": 19.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42073,
+			"value": 19.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42071,
+			"value": 68.28
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42016,
+			"value": 18.47
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 42074,
+			"value": 19.78
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 212.35
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 41998,
+			"value": 212.35
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"value": 100
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"target": 41999,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+			"value": 240.11
+		},
+		{
+			"source": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+			"target": 41991,
+			"value": 240.11
+		},
+		{
+			"source": -100,
+			"target": "TREVO DERIVADOS DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "TREVO DERIVADOS DE PETROLEO LTDA",
+			"target": 42000,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
+			"value": 60
+		},
+		{
+			"source": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
+			"target": 41997,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "JLM RESTAURANTE LTDA EPP",
+			"value": 172
+		},
+		{
+			"source": "JLM RESTAURANTE LTDA EPP",
+			"target": 42010,
+			"value": 52
+		},
+		{
+			"source": "JLM RESTAURANTE LTDA EPP",
+			"target": 42068,
+			"value": 40
+		},
+		{
+			"source": "JLM RESTAURANTE LTDA EPP",
+			"target": 42009,
+			"value": 40
+		},
+		{
+			"source": "JLM RESTAURANTE LTDA EPP",
+			"target": 42069,
+			"value": 40
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 14.2
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 42005,
+			"value": 14.2
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 858.6600000000001
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 41983,
+			"value": 194.12
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 41987,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 41984,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 41986,
+			"value": 264.54
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 41985,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 42051,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"value": 970
+		},
+		{
+			"source": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"target": 42067,
+			"value": 970
+		},
+		{
+			"source": -100,
+			"target": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"value": 337.26
+		},
+		{
+			"source": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 42001,
+			"value": 100
+		},
+		{
+			"source": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 42002,
+			"value": 237.26
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 170
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 41990,
+			"value": 60
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 42052,
+			"value": 110
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 2551.98
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 42027,
+			"value": 1428.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 42026,
+			"value": 1123.49
+		},
+		{
+			"source": -100,
+			"target": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"value": 12100
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"target": 42077,
+			"value": 4100
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"target": 42020,
+			"value": 4100
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"target": 42021,
+			"value": 3900
+		},
+		{
+			"source": -100,
+			"target": "Jose Elenilson Ribeiro da Cruz",
+			"value": 5658
+		},
+		{
+			"source": "Jose Elenilson Ribeiro da Cruz",
+			"target": 42049,
+			"value": 5658
+		},
+		{
+			"source": -100,
+			"target": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159",
+			"value": 17.5
+		},
+		{
+			"source": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159",
+			"target": 42006,
+			"value": 17.5
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE PICANHA DO SUL",
+			"value": 290.70000000000005
+		},
+		{
+			"source": "RESTAURANTE PICANHA DO SUL",
+			"target": 42012,
+			"value": 143.8
+		},
+		{
+			"source": "RESTAURANTE PICANHA DO SUL",
+			"target": 42011,
+			"value": 146.9
+		},
+		{
+			"source": -100,
+			"target": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1",
+			"value": 100
+		},
+		{
+			"source": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1",
+			"target": 42065,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"value": 1272.6100000000001
+		},
+		{
+			"source": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"target": 42003,
+			"value": 426.17
+		},
+		{
+			"source": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"target": 41978,
+			"value": 846.44
+		},
+		{
+			"source": -100,
+			"target": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"value": 50
+		},
+		{
+			"source": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"target": 41993,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "PETROBRASDISTRIBUIDORASA",
+			"value": 150
+		},
+		{
+			"source": "PETROBRASDISTRIBUIDORASA",
+			"target": 42055,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "EME COMERCIO DE ALIMENTOS LTDA ME",
+			"value": 76.31
+		},
+		{
+			"source": "EME COMERCIO DE ALIMENTOS LTDA ME",
+			"target": 42007,
+			"value": 76.31
+		},
+		{
+			"source": -100,
+			"target": "S.A. ATACADISTA DE ALIMENTOS LTDA",
+			"value": 8.36
+		},
+		{
+			"source": "S.A. ATACADISTA DE ALIMENTOS LTDA",
+			"target": 41982,
+			"value": 8.36
+		},
+		{
+			"source": -100,
+			"target": "JACUIPE DERIVADOS DE PETROLEO LTDA",
+			"value": 80
+		},
+		{
+			"source": "JACUIPE DERIVADOS DE PETROLEO LTDA",
+			"target": 42054,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "J MARTINS DERIVADOS DE PETR&Oacute;LEO LTDA",
+			"value": 218.23
+		},
+		{
+			"source": "J MARTINS DERIVADOS DE PETR&Oacute;LEO LTDA",
+			"target": 42053,
+			"value": 218.23
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"value": 65
+		},
+		{
+			"source": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"target": 42070,
+			"value": 65
+		},
+		{
+			"source": -100,
+			"target": "Marcelo Moreto",
+			"value": 936.76
+		},
+		{
+			"source": "Marcelo Moreto",
+			"target": 42050,
+			"value": 936.76
+		},
+		{
+			"source": -100,
+			"target": "CARTORIO DO 2 OFICIO DE NOTAS E PROTESTO DE BRASILIA DF",
+			"value": 8.1
+		},
+		{
+			"source": "CARTORIO DO 2 OFICIO DE NOTAS E PROTESTO DE BRASILIA DF",
+			"target": 41979,
+			"value": 8.1
+		},
+		{
+			"source": -100,
+			"target": "DERIVADOS DE PETROLEO VELHO CHICO LTDA",
+			"value": 242
+		},
+		{
+			"source": "DERIVADOS DE PETROLEO VELHO CHICO LTDA",
+			"target": 41989,
+			"value": 242
+		},
+		{
+			"source": -100,
+			"target": "ANTONIO J DOS SANTOS",
+			"value": 169.73
+		},
+		{
+			"source": "ANTONIO J DOS SANTOS",
+			"target": 42046,
+			"value": 169.73
+		},
+		{
+			"source": -100,
+			"target": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
+			"value": 88.7
+		},
+		{
+			"source": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
+			"target": 42008,
+			"value": 88.7
+		},
+		{
+			"source": -100,
+			"target": "J MARTINS DERIVADOS DE PETROLEO LTDA",
+			"value": 200.71
+		},
+		{
+			"source": "J MARTINS DERIVADOS DE PETROLEO LTDA",
+			"target": 41992,
+			"value": 200.71
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE DERIVADO DE PETROLEO DA HORA LTDA",
+			"value": 192.03
+		},
+		{
+			"source": "COMERCIAL DE DERIVADO DE PETROLEO DA HORA LTDA",
+			"target": 41988,
+			"value": 192.03
+		}
+	]
+}

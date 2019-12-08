@@ -1,0 +1,1437 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "LEONARDO MONTEIRO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 91.66371999308689,
+			"desc": 2079.15,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 30111,
+			"name": 19.32,
+			"val": 1.2860071220794747,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 30162,
+			"name": 26.43,
+			"val": 1.4220971631317103,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 30112,
+			"name": 2033.4,
+			"val": 3.308222819221022,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 1128.1214992030036,
+			"desc": 19763.139999999992,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30116,
+			"name": 750.25,
+			"val": 2.8752060040968903,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30181,
+			"name": 961.25,
+			"val": 2.9828363528094877,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30179,
+			"name": 780.25,
+			"val": 2.8922337773373705,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30174,
+			"name": 1319.35,
+			"val": 3.1203600214031,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30117,
+			"name": 955.05,
+			"val": 2.980026108919523,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30118,
+			"name": 1558.64,
+			"val": 3.1927458175186936,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30178,
+			"name": 1203.39,
+			"val": 3.080406398245164,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30119,
+			"name": 235,
+			"val": 2.3710678622717363,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30180,
+			"name": 774.39,
+			"val": 2.888959736122574,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30171,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30121,
+			"name": 278.25,
+			"val": 2.4444351730067457,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30123,
+			"name": 526.39,
+			"val": 2.721307630252421,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30172,
+			"name": 997.39,
+			"val": 2.9988650095946054,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30122,
+			"name": 275,
+			"val": 2.439332693830263,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30173,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30126,
+			"name": 1510.3,
+			"val": 3.17906322239498,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30124,
+			"name": 664.05,
+			"val": 2.822200781034529,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30176,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30177,
+			"name": 2984.35,
+			"val": 3.474849755179644,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30182,
+			"name": 534.05,
+			"val": 2.727581919402249,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30125,
+			"name": 1075.39,
+			"val": 3.0315659936763324,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30175,
+			"name": 630.35,
+			"val": 2.799581757169809,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 30120,
+			"name": 760.05,
+			"val": 2.8808421633463523,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "AUTO POSTO BRASIL GV LTDA",
+			"name": "AUTO POSTO BRASIL GV LTDA",
+			"val": 303.3512199874487,
+			"desc": 6038.1,
+			"group": "AUTO POSTO BRASIL GV LTDA"
+		},
+		{
+			"id": 30135,
+			"name": 898.54,
+			"val": 2.9535374152152802,
+			"group": "AUTO POSTO BRASIL GV LTDA"
+		},
+		{
+			"id": 30136,
+			"name": 2359.62,
+			"val": 3.3728420685671336,
+			"group": "AUTO POSTO BRASIL GV LTDA"
+		},
+		{
+			"id": 30137,
+			"name": 849.72,
+			"val": 2.9292758404343258,
+			"group": "AUTO POSTO BRASIL GV LTDA"
+		},
+		{
+			"id": 30094,
+			"name": 1930.22,
+			"val": 3.2856068112569314,
+			"group": "AUTO POSTO BRASIL GV LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 123.274409314054,
+			"desc": 2703.27,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 30187,
+			"name": 638.05,
+			"val": 2.804854713005252,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 30188,
+			"name": 522.39,
+			"val": 2.7179948547402435,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 30185,
+			"name": 368.05,
+			"val": 2.565906822067658,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 30186,
+			"name": 777.39,
+			"val": 2.890638949759678,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 30184,
+			"name": 367.39,
+			"val": 2.565127331055462,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 30183,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 0.7683390192891396,
+			"desc": 36.9,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 30158,
+			"name": 14.6,
+			"val": 1.1643528557844371,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 30157,
+			"name": 7.7,
+			"val": 0.8864907251724818,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 30156,
+			"name": 14.6,
+			"val": 1.1643528557844371,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "yelloy aluguel de carros",
+			"name": "yelloy aluguel de carros",
+			"val": 698.565436916466,
+			"desc": 12800,
+			"group": "yelloy aluguel de carros"
+		},
+		{
+			"id": 30170,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "yelloy aluguel de carros"
+		},
+		{
+			"id": 30115,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "yelloy aluguel de carros"
+		},
+		{
+			"id": 30114,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "yelloy aluguel de carros"
+		},
+		{
+			"id": 30169,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "yelloy aluguel de carros"
+		},
+		{
+			"id": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
+			"name": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
+			"val": 2.379971813794642,
+			"desc": 91.35,
+			"group": "SERVIÇO AUTONOMO DE AGUA E ESGOTO"
+		},
+		{
+			"id": 30092,
+			"name": 46.16,
+			"val": 1.664265800147675,
+			"group": "SERVIÇO AUTONOMO DE AGUA E ESGOTO"
+		},
+		{
+			"id": 30133,
+			"name": 45.19,
+			"val": 1.6550423413312016,
+			"group": "SERVIÇO AUTONOMO DE AGUA E ESGOTO"
+		},
+		{
+			"id": "Adilson Monteiro",
+			"name": "Adilson Monteiro",
+			"val": 438.0154333817971,
+			"desc": 8400,
+			"group": "Adilson Monteiro"
+		},
+		{
+			"id": 30127,
+			"name": 4500,
+			"val": 3.6532125137753435,
+			"group": "Adilson Monteiro"
+		},
+		{
+			"id": 30089,
+			"name": 3900,
+			"val": 3.591064607026499,
+			"group": "Adilson Monteiro"
+		},
+		{
+			"id": "VRP COMUNICACAO EIRELI",
+			"name": "VRP COMUNICACAO EIRELI",
+			"val": 112.87712379549448,
+			"desc": 2500,
+			"group": "VRP COMUNICACAO EIRELI"
+		},
+		{
+			"id": 30097,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "VRP COMUNICACAO EIRELI"
+		},
+		{
+			"id": 30141,
+			"name": 1000,
+			"val": 3,
+			"group": "VRP COMUNICACAO EIRELI"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 3.07776374138864,
+			"desc": 112.85000000000001,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 30160,
+			"name": 27.65,
+			"val": 1.441695135640717,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 30159,
+			"name": 71,
+			"val": 1.8512583487190752,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 30161,
+			"name": 14.2,
+			"val": 1.1522883443830565,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "TELEMAR NORTE LESTE S/A",
+			"name": "TELEMAR NORTE LESTE S/A",
+			"val": 21.04729370933364,
+			"desc": 574.1099999999999,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 30105,
+			"name": 80.5,
+			"val": 1.9057958803678685,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 30104,
+			"name": 207.42,
+			"val": 2.3168506299260505,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 30148,
+			"name": 80.37,
+			"val": 1.9050939683278714,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 30149,
+			"name": 205.82,
+			"val": 2.3134875738647547,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA",
+			"name": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA",
+			"val": 0.851508495181978,
+			"desc": 40,
+			"group": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA"
+		},
+		{
+			"id": 30131,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA"
+		},
+		{
+			"id": "DIARIO DO RIO DOCE LTDA -EPP",
+			"name": "DIARIO DO RIO DOCE LTDA -EPP",
+			"val": 60.43307383485892,
+			"desc": 1440,
+			"group": "DIARIO DO RIO DOCE LTDA -EPP"
+		},
+		{
+			"id": 30168,
+			"name": 1440,
+			"val": 3.1583624920952498,
+			"group": "DIARIO DO RIO DOCE LTDA -EPP"
+		},
+		{
+			"id": "TIM S.A",
+			"name": "TIM S.A",
+			"val": 41.22922942391358,
+			"desc": 1029.88,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30108,
+			"name": 125.17,
+			"val": 2.0975002522316863,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30107,
+			"name": 140.83,
+			"val": 2.148695179285065,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30151,
+			"name": 123.31,
+			"val": 2.090998297753198,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30152,
+			"name": 119.99,
+			"val": 2.079145053332749,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30110,
+			"name": 122.07,
+			"val": 2.086608944572948,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30109,
+			"name": 128.24,
+			"val": 2.1080235093460886,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30106,
+			"name": 122.2,
+			"val": 2.0870712059065353,
+			"group": "TIM S.A"
+		},
+		{
+			"id": 30150,
+			"name": 148.07,
+			"val": 2.170467076385937,
+			"group": "TIM S.A"
+		},
+		{
+			"id": "CEMIG DISTRIBUIÇÃO S.A.",
+			"name": "CEMIG DISTRIBUIÇÃO S.A.",
+			"val": 30.1610184535374,
+			"desc": 784.21,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": 30090,
+			"name": 274.49,
+			"val": 2.4385265272053185,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": 30128,
+			"name": 509.72,
+			"val": 2.707331674434756,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 5.067786435653504,
+			"desc": 170.83,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 30163,
+			"name": 39.22,
+			"val": 1.5935075893317652,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 30164,
+			"name": 38.21,
+			"val": 1.5821770376884088,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 30113,
+			"name": 14.96,
+			"val": 1.1749315935284426,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 30166,
+			"name": 38.21,
+			"val": 1.5821770376884088,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 30165,
+			"name": 40.23,
+			"val": 1.6045500325712614,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 13.639897156951754,
+			"desc": 395.28,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30142,
+			"name": 0.25,
+			"val": -0.6020599913279624,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30143,
+			"name": 68.84,
+			"val": 1.8378408616555226,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30098,
+			"name": 0.24,
+			"val": -0.619788758288394,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30146,
+			"name": 1.88,
+			"val": 0.2741578492636798,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30101,
+			"name": 103.75,
+			"val": 2.0159881053841304,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30100,
+			"name": 22.47,
+			"val": 1.3516030724191288,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30102,
+			"name": 0.82,
+			"val": -0.08618614761628333,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30144,
+			"name": 57.07,
+			"val": 1.7564078725489582,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30145,
+			"name": 52.72,
+			"val": 1.7219754015859534,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 30099,
+			"name": 87.24,
+			"val": 1.9407156569066626,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "POSTO DM LTDA",
+			"name": "POSTO DM LTDA",
+			"val": 14.692760158883328,
+			"desc": 421.3,
+			"group": "POSTO DM LTDA"
+		},
+		{
+			"id": 30139,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DM LTDA"
+		},
+		{
+			"id": 30138,
+			"name": 321.3,
+			"val": 2.506910725551518,
+			"group": "POSTO DM LTDA"
+		},
+		{
+			"id": "COMERCIAL OLIVEIRA BARROS LTDA",
+			"name": "COMERCIAL OLIVEIRA BARROS LTDA",
+			"val": 6.81808797674255,
+			"desc": 219.2,
+			"group": "COMERCIAL OLIVEIRA BARROS LTDA"
+		},
+		{
+			"id": 30130,
+			"name": 77.5,
+			"val": 1.8893017025063104,
+			"group": "COMERCIAL OLIVEIRA BARROS LTDA"
+		},
+		{
+			"id": 30129,
+			"name": 56.1,
+			"val": 1.7489628612561614,
+			"group": "COMERCIAL OLIVEIRA BARROS LTDA"
+		},
+		{
+			"id": 30091,
+			"name": 85.6,
+			"val": 1.9324737646771533,
+			"group": "COMERCIAL OLIVEIRA BARROS LTDA"
+		},
+		{
+			"id": "TIM S/A",
+			"name": "TIM S/A",
+			"val": 7.966913312568141,
+			"desc": 250.03,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 30154,
+			"name": 121.97,
+			"val": 2.0862530238171613,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 30153,
+			"name": 128.06,
+			"val": 2.1074134974881487,
+			"group": "TIM S/A"
+		},
+		{
+			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"val": 0.04795014384051631,
+			"desc": 5.1,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 30155,
+			"name": 5.1,
+			"val": 0.7075701760979364,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 5.2446748353053545,
+			"desc": 175.81,
+			"group": "RAMAL"
+		},
+		{
+			"id": 30147,
+			"name": 97.77,
+			"val": 1.9902056151848067,
+			"group": "RAMAL"
+		},
+		{
+			"id": 30103,
+			"name": 78.04,
+			"val": 1.8923172607224805,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CORREIOS - TELEGRAMA",
+			"name": "CORREIOS - TELEGRAMA",
+			"val": 0.1690670383001165,
+			"desc": 11.85,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": 30167,
+			"name": 11.85,
+			"val": 1.0737183503461227,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+			"name": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+			"val": 1525.2872962915308,
+			"desc": 26000,
+			"group": "LIBRE COMUNICAÇÃO E MARKETING EIRELI"
+		},
+		{
+			"id": 30095,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "LIBRE COMUNICAÇÃO E MARKETING EIRELI"
+		},
+		{
+			"id": 30096,
+			"name": 8000,
+			"val": 3.9030899869919438,
+			"group": "LIBRE COMUNICAÇÃO E MARKETING EIRELI"
+		},
+		{
+			"id": 30140,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "LIBRE COMUNICAÇÃO E MARKETING EIRELI"
+		},
+		{
+			"id": "Sisnetti Integradora De Soluções Ltda -",
+			"name": "Sisnetti Integradora De Soluções Ltda -",
+			"val": 170.11844915352535,
+			"desc": 3600,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 30093,
+			"name": 1800,
+			"val": 3.255272505103306,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 30134,
+			"name": 1800,
+			"val": 3.255272505103306,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": "PREFEITURA DE GOVERNADOR VALADARES",
+			"name": "PREFEITURA DE GOVERNADOR VALADARES",
+			"val": 15.245160460589418,
+			"desc": 434.86,
+			"group": "PREFEITURA DE GOVERNADOR VALADARES"
+		},
+		{
+			"id": 30132,
+			"name": 434.86,
+			"val": 2.638349461520909,
+			"group": "PREFEITURA DE GOVERNADOR VALADARES"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 2079.15
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 30111,
+			"value": 19.32
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 30162,
+			"value": 26.43
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 30112,
+			"value": 2033.4
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 19763.139999999992
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30116,
+			"value": 750.25
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30181,
+			"value": 961.25
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30179,
+			"value": 780.25
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30174,
+			"value": 1319.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30117,
+			"value": 955.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30118,
+			"value": 1558.64
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30178,
+			"value": 1203.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30119,
+			"value": 235
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30180,
+			"value": 774.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30171,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30121,
+			"value": 278.25
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30123,
+			"value": 526.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30172,
+			"value": 997.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30122,
+			"value": 275
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30173,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30126,
+			"value": 1510.3
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30124,
+			"value": 664.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30176,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30177,
+			"value": 2984.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30182,
+			"value": 534.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30125,
+			"value": 1075.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30175,
+			"value": 630.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 30120,
+			"value": 760.05
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BRASIL GV LTDA",
+			"value": 6038.1
+		},
+		{
+			"source": "AUTO POSTO BRASIL GV LTDA",
+			"target": 30135,
+			"value": 898.54
+		},
+		{
+			"source": "AUTO POSTO BRASIL GV LTDA",
+			"target": 30136,
+			"value": 2359.62
+		},
+		{
+			"source": "AUTO POSTO BRASIL GV LTDA",
+			"target": 30137,
+			"value": 849.72
+		},
+		{
+			"source": "AUTO POSTO BRASIL GV LTDA",
+			"target": 30094,
+			"value": 1930.22
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 2703.27
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 30187,
+			"value": 638.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 30188,
+			"value": 522.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 30185,
+			"value": 368.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 30186,
+			"value": 777.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 30184,
+			"value": 367.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 30183,
+			"value": 30
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 36.9
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 30158,
+			"value": 14.6
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 30157,
+			"value": 7.7
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 30156,
+			"value": 14.6
+		},
+		{
+			"source": -100,
+			"target": "yelloy aluguel de carros",
+			"value": 12800
+		},
+		{
+			"source": "yelloy aluguel de carros",
+			"target": 30170,
+			"value": 3200
+		},
+		{
+			"source": "yelloy aluguel de carros",
+			"target": 30115,
+			"value": 3200
+		},
+		{
+			"source": "yelloy aluguel de carros",
+			"target": 30114,
+			"value": 3200
+		},
+		{
+			"source": "yelloy aluguel de carros",
+			"target": 30169,
+			"value": 3200
+		},
+		{
+			"source": -100,
+			"target": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
+			"value": 91.35
+		},
+		{
+			"source": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
+			"target": 30092,
+			"value": 46.16
+		},
+		{
+			"source": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
+			"target": 30133,
+			"value": 45.19
+		},
+		{
+			"source": -100,
+			"target": "Adilson Monteiro",
+			"value": 8400
+		},
+		{
+			"source": "Adilson Monteiro",
+			"target": 30127,
+			"value": 4500
+		},
+		{
+			"source": "Adilson Monteiro",
+			"target": 30089,
+			"value": 3900
+		},
+		{
+			"source": -100,
+			"target": "VRP COMUNICACAO EIRELI",
+			"value": 2500
+		},
+		{
+			"source": "VRP COMUNICACAO EIRELI",
+			"target": 30097,
+			"value": 1500
+		},
+		{
+			"source": "VRP COMUNICACAO EIRELI",
+			"target": 30141,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 112.85000000000001
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 30160,
+			"value": 27.65
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 30159,
+			"value": 71
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 30161,
+			"value": 14.2
+		},
+		{
+			"source": -100,
+			"target": "TELEMAR NORTE LESTE S/A",
+			"value": 574.1099999999999
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 30105,
+			"value": 80.5
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 30104,
+			"value": 207.42
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 30148,
+			"value": 80.37
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 30149,
+			"value": 205.82
+		},
+		{
+			"source": -100,
+			"target": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA",
+			"value": 40
+		},
+		{
+			"source": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA",
+			"target": 30131,
+			"value": 40
+		},
+		{
+			"source": -100,
+			"target": "DIARIO DO RIO DOCE LTDA -EPP",
+			"value": 1440
+		},
+		{
+			"source": "DIARIO DO RIO DOCE LTDA -EPP",
+			"target": 30168,
+			"value": 1440
+		},
+		{
+			"source": -100,
+			"target": "TIM S.A",
+			"value": 1029.88
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30108,
+			"value": 125.17
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30107,
+			"value": 140.83
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30151,
+			"value": 123.31
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30152,
+			"value": 119.99
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30110,
+			"value": 122.07
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30109,
+			"value": 128.24
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30106,
+			"value": 122.2
+		},
+		{
+			"source": "TIM S.A",
+			"target": 30150,
+			"value": 148.07
+		},
+		{
+			"source": -100,
+			"target": "CEMIG DISTRIBUIÇÃO S.A.",
+			"value": 784.21
+		},
+		{
+			"source": "CEMIG DISTRIBUIÇÃO S.A.",
+			"target": 30090,
+			"value": 274.49
+		},
+		{
+			"source": "CEMIG DISTRIBUIÇÃO S.A.",
+			"target": 30128,
+			"value": 509.72
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 170.83
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 30163,
+			"value": 39.22
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 30164,
+			"value": 38.21
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 30113,
+			"value": 14.96
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 30166,
+			"value": 38.21
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 30165,
+			"value": 40.23
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 395.28
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30142,
+			"value": 0.25
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30143,
+			"value": 68.84
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30098,
+			"value": 0.24
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30146,
+			"value": 1.88
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30101,
+			"value": 103.75
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30100,
+			"value": 22.47
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30102,
+			"value": 0.82
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30144,
+			"value": 57.07
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30145,
+			"value": 52.72
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 30099,
+			"value": 87.24
+		},
+		{
+			"source": -100,
+			"target": "POSTO DM LTDA",
+			"value": 421.3
+		},
+		{
+			"source": "POSTO DM LTDA",
+			"target": 30139,
+			"value": 100
+		},
+		{
+			"source": "POSTO DM LTDA",
+			"target": 30138,
+			"value": 321.3
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL OLIVEIRA BARROS LTDA",
+			"value": 219.2
+		},
+		{
+			"source": "COMERCIAL OLIVEIRA BARROS LTDA",
+			"target": 30130,
+			"value": 77.5
+		},
+		{
+			"source": "COMERCIAL OLIVEIRA BARROS LTDA",
+			"target": 30129,
+			"value": 56.1
+		},
+		{
+			"source": "COMERCIAL OLIVEIRA BARROS LTDA",
+			"target": 30091,
+			"value": 85.6
+		},
+		{
+			"source": -100,
+			"target": "TIM S/A",
+			"value": 250.03
+		},
+		{
+			"source": "TIM S/A",
+			"target": 30154,
+			"value": 121.97
+		},
+		{
+			"source": "TIM S/A",
+			"target": 30153,
+			"value": 128.06
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"value": 5.1
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 30155,
+			"value": 5.1
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 175.81
+		},
+		{
+			"source": "RAMAL",
+			"target": 30147,
+			"value": 97.77
+		},
+		{
+			"source": "RAMAL",
+			"target": 30103,
+			"value": 78.04
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - TELEGRAMA",
+			"value": 11.85
+		},
+		{
+			"source": "CORREIOS - TELEGRAMA",
+			"target": 30167,
+			"value": 11.85
+		},
+		{
+			"source": -100,
+			"target": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+			"value": 26000
+		},
+		{
+			"source": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+			"target": 30095,
+			"value": 9000
+		},
+		{
+			"source": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+			"target": 30096,
+			"value": 8000
+		},
+		{
+			"source": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+			"target": 30140,
+			"value": 9000
+		},
+		{
+			"source": -100,
+			"target": "Sisnetti Integradora De Soluções Ltda -",
+			"value": 3600
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 30093,
+			"value": 1800
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 30134,
+			"value": 1800
+		},
+		{
+			"source": -100,
+			"target": "PREFEITURA DE GOVERNADOR VALADARES",
+			"value": 434.86
+		},
+		{
+			"source": "PREFEITURA DE GOVERNADOR VALADARES",
+			"target": 30132,
+			"value": 434.86
+		}
+	]
+}

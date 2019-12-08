@@ -1,0 +1,1461 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "MAURO NAZIF"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 16.7146844032962,
+			"desc": 470.65,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 36474,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 36473,
+			"name": 27.5,
+			"val": 1.4393326938302626,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 36446,
+			"name": 385,
+			"val": 2.5854607295085006,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 36447,
+			"name": 8.45,
+			"val": 0.9268567089496923,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 7.55509741097917,
+			"desc": 239.05,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 36448,
+			"name": 19.5,
+			"val": 1.290034611362518,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 36449,
+			"name": 53.2,
+			"val": 1.7259116322950483,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 36427,
+			"name": 41.1,
+			"val": 1.6138418218760693,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 36407,
+			"name": 28.4,
+			"val": 1.4533183400470377,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 36428,
+			"name": 29.45,
+			"val": 1.4690852991231205,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 36408,
+			"name": 28.4,
+			"val": 1.4533183400470377,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 36409,
+			"name": 39,
+			"val": 1.591064607026499,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "GOL LINHAS AÉREAS INTELIGENTES",
+			"name": "GOL LINHAS AÉREAS INTELIGENTES",
+			"val": 1115.4368469144708,
+			"desc": 19561.23,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36385,
+			"name": 1523.39,
+			"val": 3.1828111004243125,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36378,
+			"name": 1716.47,
+			"val": 3.234636217346206,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36387,
+			"name": 1882.39,
+			"val": 3.27470960703008,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36401,
+			"name": 1300.79,
+			"val": 3.1142071895649432,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36383,
+			"name": 1329.39,
+			"val": 3.1236524075800256,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36382,
+			"name": 1205.47,
+			"val": 3.081156406752811,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36405,
+			"name": 1455.79,
+			"val": 3.1630987318321777,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36381,
+			"name": 1893.39,
+			"val": 3.277240079047183,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36386,
+			"name": 1519.79,
+			"val": 3.1817835825882548,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36384,
+			"name": 1629.79,
+			"val": 3.2121316487495593,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36404,
+			"name": 1459.39,
+			"val": 3.164171366063765,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36402,
+			"name": 1119.39,
+			"val": 3.048981422845664,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 36403,
+			"name": 1525.79,
+			"val": 3.1834947642105185,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": "GOL LINHAS AEREAS S.A.",
+			"name": "GOL LINHAS AEREAS S.A.",
+			"val": 2012.3422769970098,
+			"desc": 33470.73,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36471,
+			"name": 1064.79,
+			"val": 3.0272639637990637,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36465,
+			"name": 636.79,
+			"val": 2.8039962347250285,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36442,
+			"name": 1008.79,
+			"val": 3.003800768483399,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36441,
+			"name": 1012.39,
+			"val": 3.0053478467131347,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36438,
+			"name": 1425.79,
+			"val": 3.154055564395733,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36420,
+			"name": 1359.39,
+			"val": 3.1333440708232647,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36443,
+			"name": 1012.39,
+			"val": 3.0053478467131347,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36467,
+			"name": 640.39,
+			"val": 2.8064445415815413,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36469,
+			"name": 1068.39,
+			"val": 3.028729814425015,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36425,
+			"name": 1692.79,
+			"val": 3.228603084808278,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36424,
+			"name": 1359.39,
+			"val": 3.1333440708232647,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36436,
+			"name": 1825.79,
+			"val": 3.2614508240822024,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36416,
+			"name": 1603.79,
+			"val": 3.2051475012225112,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36470,
+			"name": 1264.39,
+			"val": 3.101881052366852,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36423,
+			"name": 1355.79,
+			"val": 3.1321924263274914,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36468,
+			"name": 874.79,
+			"val": 2.941903809836974,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36440,
+			"name": 1008.79,
+			"val": 3.003800768483399,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36418,
+			"name": 1355.79,
+			"val": 3.1321924263274914,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36466,
+			"name": 465.79,
+			"val": 2.6681901604729474,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36422,
+			"name": 1359.39,
+			"val": 3.1333440708232647,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36444,
+			"name": 469.39,
+			"val": 2.671533833044678,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36415,
+			"name": 1459.39,
+			"val": 3.164171366063765,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36439,
+			"name": 1696.39,
+			"val": 3.229525703685326,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36419,
+			"name": 1696.39,
+			"val": 3.229525703685326,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36437,
+			"name": 1696.39,
+			"val": 3.229525703685326,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36417,
+			"name": 1530.39,
+			"val": 3.184802119225847,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 36421,
+			"name": 1526.79,
+			"val": 3.1837793067924913,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"name": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": 36433,
+			"name": 1000,
+			"val": 3,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": 36413,
+			"name": 1000,
+			"val": 3,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": 36399,
+			"name": 1000,
+			"val": 3,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": 36461,
+			"name": 1000,
+			"val": 3,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 77.43282073048925,
+			"desc": 1791.3,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36411,
+			"name": 221.65,
+			"val": 2.3456677356353532,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36393,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36431,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36453,
+			"name": 196.19,
+			"val": 2.292676867185116,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36476,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36412,
+			"name": 190.4,
+			"val": 2.2796669440484556,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36454,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36430,
+			"name": 200.03,
+			"val": 2.301095134950942,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 36380,
+			"name": 183.03,
+			"val": 2.26252227971205,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 5.365196826451086,
+			"desc": 179.18999999999997,
+			"group": "RAMAL"
+		},
+		{
+			"id": 36445,
+			"name": 48.01,
+			"val": 1.6813317059691657,
+			"group": "RAMAL"
+		},
+		{
+			"id": 36406,
+			"name": 33.75,
+			"val": 1.5282737771670438,
+			"group": "RAMAL"
+		},
+		{
+			"id": 36472,
+			"name": 39.98,
+			"val": 1.6018427897820982,
+			"group": "RAMAL"
+		},
+		{
+			"id": 36388,
+			"name": 29.7,
+			"val": 1.4727564493172123,
+			"group": "RAMAL"
+		},
+		{
+			"id": 36426,
+			"name": 27.75,
+			"val": 1.443262987458695,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 2.061584693986083,
+			"desc": 81.24,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 36450,
+			"name": 81.24,
+			"val": 1.9097699147327691,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"name": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "NELSON CANEDO ADVOGADO ASSOCIADOS"
+		},
+		{
+			"id": 36398,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "NELSON CANEDO ADVOGADO ASSOCIADOS"
+		},
+		{
+			"id": "ELISMAR FERREIRA DA SILVA",
+			"name": "ELISMAR FERREIRA DA SILVA",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "ELISMAR FERREIRA DA SILVA"
+		},
+		{
+			"id": 36400,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "ELISMAR FERREIRA DA SILVA"
+		},
+		{
+			"id": "SCHONS & SCHONS LTDA",
+			"name": "SCHONS & SCHONS LTDA",
+			"val": 9.797248876390897,
+			"desc": 298,
+			"group": "SCHONS & SCHONS LTDA"
+		},
+		{
+			"id": 36459,
+			"name": 298,
+			"val": 2.4742162640762553,
+			"group": "SCHONS & SCHONS LTDA"
+		},
+		{
+			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": 36391,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": 36429,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": "COMERCIAL DE PETROLEO LARANJENSE LTDA",
+			"name": "COMERCIAL DE PETROLEO LARANJENSE LTDA",
+			"val": 18.51598200648757,
+			"desc": 514.01,
+			"group": "COMERCIAL DE PETROLEO LARANJENSE LTDA"
+		},
+		{
+			"id": 36455,
+			"name": 239,
+			"val": 2.3783979009481375,
+			"group": "COMERCIAL DE PETROLEO LARANJENSE LTDA"
+		},
+		{
+			"id": 36394,
+			"name": 275.01,
+			"val": 2.4393484860697474,
+			"group": "COMERCIAL DE PETROLEO LARANJENSE LTDA"
+		},
+		{
+			"id": "POSTO CEILANDIA LTDA",
+			"name": "POSTO CEILANDIA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO CEILANDIA LTDA"
+		},
+		{
+			"id": 36458,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO CEILANDIA LTDA"
+		},
+		{
+			"id": "ELIZEU FRANCISCO SILVA",
+			"name": "ELIZEU FRANCISCO SILVA",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "ELIZEU FRANCISCO SILVA"
+		},
+		{
+			"id": 36434,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "ELIZEU FRANCISCO SILVA"
+		},
+		{
+			"id": 36462,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "ELIZEU FRANCISCO SILVA"
+		},
+		{
+			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36452,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36475,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36410,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 36392,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 238.14782330329786,
+			"desc": 4861.3,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 36390,
+			"name": 3405,
+			"val": 3.532117116248804,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 36451,
+			"name": 1456.3,
+			"val": 3.1632508495126306,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I",
+			"name": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I",
+			"val": 9.56571508477186,
+			"desc": 292,
+			"group": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I"
+		},
+		{
+			"id": 36477,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I"
+		},
+		{
+			"id": 36456,
+			"name": 142,
+			"val": 2.1522883443830563,
+			"group": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I"
+		},
+		{
+			"id": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"name": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"val": 26.46339111313052,
+			"desc": 700,
+			"group": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA"
+		},
+		{
+			"id": 36463,
+			"name": 700,
+			"val": 2.845098040014257,
+			"group": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA"
+		},
+		{
+			"id": "IRMAOS RUSSI LTDA",
+			"name": "IRMAOS RUSSI LTDA",
+			"val": 10.537704224354043,
+			"desc": 317.07,
+			"group": "IRMAOS RUSSI LTDA"
+		},
+		{
+			"id": 36457,
+			"name": 317.07,
+			"val": 2.5011551526205675,
+			"group": "IRMAOS RUSSI LTDA"
+		},
+		{
+			"id": "R.F. RIBEIRO",
+			"name": "R.F. RIBEIRO",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "R.F. RIBEIRO"
+		},
+		{
+			"id": 36464,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "R.F. RIBEIRO"
+		},
+		{
+			"id": 36435,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "R.F. RIBEIRO"
+		},
+		{
+			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"val": 6.210046399756074,
+			"desc": 202.61,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 36379,
+			"name": 202.61,
+			"val": 2.3066608765506302,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA",
+			"name": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA",
+			"val": 16.797691631385828,
+			"desc": 472.65999999999997,
+			"group": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA"
+		},
+		{
+			"id": 36396,
+			"name": 199.96,
+			"val": 2.3009431280805526,
+			"group": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA"
+		},
+		{
+			"id": 36395,
+			"name": 272.7,
+			"val": 2.43568513794163,
+			"group": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA"
+		},
+		{
+			"id": "ELISMAR FERREIRA DA SILVA 01754966250",
+			"name": "ELISMAR FERREIRA DA SILVA 01754966250",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "ELISMAR FERREIRA DA SILVA 01754966250"
+		},
+		{
+			"id": 36414,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "ELISMAR FERREIRA DA SILVA 01754966250"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 36432,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "NELSON CANEDO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"name": "NELSON CANEDO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "NELSON CANEDO SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": 36460,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "NELSON CANEDO SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+		},
+		{
+			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": 36389,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": 36397,
+			"name": 100,
+			"val": 2,
+			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 470.65
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 36474,
+			"value": 49.7
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 36473,
+			"value": 27.5
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 36446,
+			"value": 385
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 36447,
+			"value": 8.45
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 239.05
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 36448,
+			"value": 19.5
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 36449,
+			"value": 53.2
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 36427,
+			"value": 41.1
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 36407,
+			"value": 28.4
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 36428,
+			"value": 29.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 36408,
+			"value": 28.4
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 36409,
+			"value": 39
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AÉREAS INTELIGENTES",
+			"value": 19561.23
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36385,
+			"value": 1523.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36378,
+			"value": 1716.47
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36387,
+			"value": 1882.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36401,
+			"value": 1300.79
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36383,
+			"value": 1329.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36382,
+			"value": 1205.47
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36405,
+			"value": 1455.79
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36381,
+			"value": 1893.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36386,
+			"value": 1519.79
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36384,
+			"value": 1629.79
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36404,
+			"value": 1459.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36402,
+			"value": 1119.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 36403,
+			"value": 1525.79
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS S.A.",
+			"value": 33470.73
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36471,
+			"value": 1064.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36465,
+			"value": 636.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36442,
+			"value": 1008.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36441,
+			"value": 1012.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36438,
+			"value": 1425.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36420,
+			"value": 1359.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36443,
+			"value": 1012.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36467,
+			"value": 640.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36469,
+			"value": 1068.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36425,
+			"value": 1692.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36424,
+			"value": 1359.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36436,
+			"value": 1825.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36416,
+			"value": 1603.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36470,
+			"value": 1264.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36423,
+			"value": 1355.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36468,
+			"value": 874.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36440,
+			"value": 1008.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36418,
+			"value": 1355.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36466,
+			"value": 465.79
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36422,
+			"value": 1359.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36444,
+			"value": 469.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36415,
+			"value": 1459.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36439,
+			"value": 1696.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36419,
+			"value": 1696.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36437,
+			"value": 1696.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36417,
+			"value": 1530.39
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 36421,
+			"value": 1526.79
+		},
+		{
+			"source": -100,
+			"target": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"value": 4000
+		},
+		{
+			"source": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"target": 36433,
+			"value": 1000
+		},
+		{
+			"source": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"target": 36413,
+			"value": 1000
+		},
+		{
+			"source": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"target": 36399,
+			"value": 1000
+		},
+		{
+			"source": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"target": 36461,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1791.3
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36411,
+			"value": 221.65
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36393,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36431,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36453,
+			"value": 196.19
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36476,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36412,
+			"value": 190.4
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36454,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36430,
+			"value": 200.03
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 36380,
+			"value": 183.03
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 179.18999999999997
+		},
+		{
+			"source": "RAMAL",
+			"target": 36445,
+			"value": 48.01
+		},
+		{
+			"source": "RAMAL",
+			"target": 36406,
+			"value": 33.75
+		},
+		{
+			"source": "RAMAL",
+			"target": 36472,
+			"value": 39.98
+		},
+		{
+			"source": "RAMAL",
+			"target": 36388,
+			"value": 29.7
+		},
+		{
+			"source": "RAMAL",
+			"target": 36426,
+			"value": 27.75
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 81.24
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 36450,
+			"value": 81.24
+		},
+		{
+			"source": -100,
+			"target": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"value": 5000
+		},
+		{
+			"source": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"target": 36398,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "ELISMAR FERREIRA DA SILVA",
+			"value": 500
+		},
+		{
+			"source": "ELISMAR FERREIRA DA SILVA",
+			"target": 36400,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "SCHONS & SCHONS LTDA",
+			"value": 298
+		},
+		{
+			"source": "SCHONS & SCHONS LTDA",
+			"target": 36459,
+			"value": 298
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"target": 36391,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"target": 36429,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE PETROLEO LARANJENSE LTDA",
+			"value": 514.01
+		},
+		{
+			"source": "COMERCIAL DE PETROLEO LARANJENSE LTDA",
+			"target": 36455,
+			"value": 239
+		},
+		{
+			"source": "COMERCIAL DE PETROLEO LARANJENSE LTDA",
+			"target": 36394,
+			"value": 275.01
+		},
+		{
+			"source": -100,
+			"target": "POSTO CEILANDIA LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO CEILANDIA LTDA",
+			"target": 36458,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "ELIZEU FRANCISCO SILVA",
+			"value": 1000
+		},
+		{
+			"source": "ELIZEU FRANCISCO SILVA",
+			"target": 36434,
+			"value": 500
+		},
+		{
+			"source": "ELIZEU FRANCISCO SILVA",
+			"target": 36462,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 400
+		},
+		{
+			"source": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 36452,
+			"value": 100
+		},
+		{
+			"source": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 36475,
+			"value": 100
+		},
+		{
+			"source": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 36410,
+			"value": 100
+		},
+		{
+			"source": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 36392,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 4861.3
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 36390,
+			"value": 3405
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 36451,
+			"value": 1456.3
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I",
+			"value": 292
+		},
+		{
+			"source": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I",
+			"target": 36477,
+			"value": 150
+		},
+		{
+			"source": "COMERCIO DERIVADOS DE PETROLEO MRA LTDA - MRA I",
+			"target": 36456,
+			"value": 142
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"value": 700
+		},
+		{
+			"source": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"target": 36463,
+			"value": 700
+		},
+		{
+			"source": -100,
+			"target": "IRMAOS RUSSI LTDA",
+			"value": 317.07
+		},
+		{
+			"source": "IRMAOS RUSSI LTDA",
+			"target": 36457,
+			"value": 317.07
+		},
+		{
+			"source": -100,
+			"target": "R.F. RIBEIRO",
+			"value": 1000
+		},
+		{
+			"source": "R.F. RIBEIRO",
+			"target": 36464,
+			"value": 500
+		},
+		{
+			"source": "R.F. RIBEIRO",
+			"target": 36435,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"value": 202.61
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 36379,
+			"value": 202.61
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA",
+			"value": 472.65999999999997
+		},
+		{
+			"source": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA",
+			"target": 36396,
+			"value": 199.96
+		},
+		{
+			"source": "COMERCIO DE DERIVADOS DE PETROLEO CALAMA LTDA",
+			"target": 36395,
+			"value": 272.7
+		},
+		{
+			"source": -100,
+			"target": "ELISMAR FERREIRA DA SILVA 01754966250",
+			"value": 500
+		},
+		{
+			"source": "ELISMAR FERREIRA DA SILVA 01754966250",
+			"target": 36414,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 36432,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "NELSON CANEDO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"value": 5000
+		},
+		{
+			"source": "NELSON CANEDO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+			"target": 36460,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"value": 50
+		},
+		{
+			"source": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"target": 36389,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
+			"target": 36397,
+			"value": 100
+		}
+	]
+}

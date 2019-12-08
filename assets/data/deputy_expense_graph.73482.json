@@ -1,0 +1,1653 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "HENRIQUE FONTANA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Oi S.A",
+			"name": "Oi S.A",
+			"val": 7.2189654403700105,
+			"desc": 230.02999999999997,
+			"group": "Oi S.A"
+		},
+		{
+			"id": 23764,
+			"name": 122.21,
+			"val": 2.0871067440990925,
+			"group": "Oi S.A"
+		},
+		{
+			"id": 23763,
+			"name": 107.82,
+			"val": 2.0326993274926175,
+			"group": "Oi S.A"
+		},
+		{
+			"id": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
+			"name": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
+			"val": 10.402854846223091,
+			"desc": 313.61,
+			"group": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA"
+		},
+		{
+			"id": 23805,
+			"name": 173.59,
+			"val": 2.2395247031566674,
+			"group": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA"
+		},
+		{
+			"id": 23804,
+			"name": 140.02,
+			"val": 2.146190073315927,
+			"group": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA"
+		},
+		{
+			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"val": 1.072312800138462,
+			"desc": 48,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": 23842,
+			"name": 7,
+			"val": 0.8450980400142568,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": 23843,
+			"name": 7,
+			"val": 0.8450980400142568,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": 23846,
+			"name": 7,
+			"val": 0.8450980400142568,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": 23841,
+			"name": 7,
+			"val": 0.8450980400142568,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": 23844,
+			"name": 6.5,
+			"val": 0.8129133566428556,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": 23840,
+			"name": 7,
+			"val": 0.8450980400142568,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": 23845,
+			"name": 6.5,
+			"val": 0.8129133566428556,
+			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
+		},
+		{
+			"id": "CLARO S/A - NET",
+			"name": "CLARO S/A - NET",
+			"val": 0.0968894388199176,
+			"desc": 8.05,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 23762,
+			"name": 8.05,
+			"val": 0.9057958803678685,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": "POSTO TONATTO LTDA",
+			"name": "POSTO TONATTO LTDA",
+			"val": 7.32942148681779,
+			"desc": 233,
+			"group": "POSTO TONATTO LTDA"
+		},
+		{
+			"id": 23819,
+			"name": 233,
+			"val": 2.367355921026019,
+			"group": "POSTO TONATTO LTDA"
+		},
+		{
+			"id": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA",
+			"name": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA",
+			"val": 239.17202924142885,
+			"desc": 4880,
+			"group": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA"
+		},
+		{
+			"id": 23837,
+			"name": 4880,
+			"val": 3.6884198220027105,
+			"group": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA"
+		},
+		{
+			"id": "SIM REDE DE POSTOS LTDA",
+			"name": "SIM REDE DE POSTOS LTDA",
+			"val": 12.557048636501575,
+			"desc": 368.26,
+			"group": "SIM REDE DE POSTOS LTDA"
+		},
+		{
+			"id": 23821,
+			"name": 195.31,
+			"val": 2.290724480019223,
+			"group": "SIM REDE DE POSTOS LTDA"
+		},
+		{
+			"id": 23820,
+			"name": 172.95,
+			"val": 2.2379205663503803,
+			"group": "SIM REDE DE POSTOS LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 465.24848538098087,
+			"desc": 8868.94,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23782,
+			"name": 440.39,
+			"val": 2.6438374488234957,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23780,
+			"name": 441.98,
+			"val": 2.6454026175704555,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23789,
+			"name": 535.98,
+			"val": 2.7291485843724486,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23791,
+			"name": 1154.98,
+			"val": 3.062574463912283,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23790,
+			"name": 619.39,
+			"val": 2.791964189429103,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23781,
+			"name": 539.98,
+			"val": 2.73237767454428,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23785,
+			"name": 539.98,
+			"val": 2.73237767454428,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23786,
+			"name": 1154.98,
+			"val": 3.062574463912283,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23784,
+			"name": 619.39,
+			"val": 2.791964189429103,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23787,
+			"name": 538.39,
+			"val": 2.731096984750186,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23783,
+			"name": 670.39,
+			"val": 2.8263275274342576,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23788,
+			"name": 1613.11,
+			"val": 3.207663983485764,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO",
+			"name": "TELEFONICA BRASIL SA VIVO",
+			"val": 180.33698973927343,
+			"desc": 3792.16,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 23830,
+			"name": 1051.24,
+			"val": 3.021701877566515,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 23828,
+			"name": 1020.41,
+			"val": 3.008774706036869,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 23829,
+			"name": 1510.3,
+			"val": 3.17906322239498,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 23831,
+			"name": 210.21,
+			"val": 2.322653372213238,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
+			"name": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
+			"val": 25.408700966826775,
+			"desc": 675.74,
+			"group": "POSTO DE COMB ULYSSE MARASCHIN LTDA"
+		},
+		{
+			"id": 23754,
+			"name": 238.95,
+			"val": 2.378307034856813,
+			"group": "POSTO DE COMB ULYSSE MARASCHIN LTDA"
+		},
+		{
+			"id": 23813,
+			"name": 183.79,
+			"val": 2.2643218777630056,
+			"group": "POSTO DE COMB ULYSSE MARASCHIN LTDA"
+		},
+		{
+			"id": 23814,
+			"name": 153,
+			"val": 2.184691430817599,
+			"group": "POSTO DE COMB ULYSSE MARASCHIN LTDA"
+		},
+		{
+			"id": 23755,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMB ULYSSE MARASCHIN LTDA"
+		},
+		{
+			"id": "CEEE",
+			"name": "CEEE",
+			"val": 38.39220485309089,
+			"desc": 967.7,
+			"group": "CEEE"
+		},
+		{
+			"id": 23749,
+			"name": 354.41,
+			"val": 2.549505967401098,
+			"group": "CEEE"
+		},
+		{
+			"id": 23799,
+			"name": 82.21,
+			"val": 1.9149246482051485,
+			"group": "CEEE"
+		},
+		{
+			"id": 23798,
+			"name": 343.1,
+			"val": 2.5354207180561734,
+			"group": "CEEE"
+		},
+		{
+			"id": 23750,
+			"name": 187.98,
+			"val": 2.2741116452653487,
+			"group": "CEEE"
+		},
+		{
+			"id": "GIOVANNI E SILVA",
+			"name": "GIOVANNI E SILVA",
+			"val": 382.7230603333604,
+			"desc": 7439.6,
+			"group": "GIOVANNI E SILVA"
+		},
+		{
+			"id": 23752,
+			"name": 1809.9,
+			"val": 3.257654580036067,
+			"group": "GIOVANNI E SILVA"
+		},
+		{
+			"id": 23751,
+			"name": 1809.9,
+			"val": 3.257654580036067,
+			"group": "GIOVANNI E SILVA"
+		},
+		{
+			"id": 23801,
+			"name": 1909.9,
+			"val": 3.281010628721483,
+			"group": "GIOVANNI E SILVA"
+		},
+		{
+			"id": 23800,
+			"name": 1909.9,
+			"val": 3.281010628721483,
+			"group": "GIOVANNI E SILVA"
+		},
+		{
+			"id": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+			"name": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+			"val": 82.50821644479831,
+			"desc": 1894.5400000000002,
+			"group": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL"
+		},
+		{
+			"id": 23796,
+			"name": 467.61,
+			"val": 2.669883790125348,
+			"group": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL"
+		},
+		{
+			"id": 23797,
+			"name": 467.61,
+			"val": 2.669883790125348,
+			"group": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL"
+		},
+		{
+			"id": 23747,
+			"name": 479.66,
+			"val": 2.680933503115484,
+			"group": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL"
+		},
+		{
+			"id": 23748,
+			"name": 479.66,
+			"val": 2.680933503115484,
+			"group": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL"
+		},
+		{
+			"id": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
+			"name": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
+			"val": 5.977903746333383,
+			"desc": 196.22,
+			"group": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA"
+		},
+		{
+			"id": 23808,
+			"name": 196.22,
+			"val": 2.292743271377071,
+			"group": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA"
+		},
+		{
+			"id": "PARKPLATZ ESTACIONAMENTOS LTDA",
+			"name": "PARKPLATZ ESTACIONAMENTOS LTDA",
+			"val": 50.360593071217544,
+			"desc": 1227,
+			"group": "PARKPLATZ ESTACIONAMENTOS LTDA"
+		},
+		{
+			"id": 23775,
+			"name": 404,
+			"val": 2.606381365110605,
+			"group": "PARKPLATZ ESTACIONAMENTOS LTDA"
+		},
+		{
+			"id": 23776,
+			"name": 235,
+			"val": 2.3710678622717363,
+			"group": "PARKPLATZ ESTACIONAMENTOS LTDA"
+		},
+		{
+			"id": 23774,
+			"name": 588,
+			"val": 2.7693773260761385,
+			"group": "PARKPLATZ ESTACIONAMENTOS LTDA"
+		},
+		{
+			"id": "POSTO CADORE PILLON LTDA",
+			"name": "POSTO CADORE PILLON LTDA",
+			"val": 6.11871971655751,
+			"desc": 200.1,
+			"group": "POSTO CADORE PILLON LTDA"
+		},
+		{
+			"id": 23812,
+			"name": 200.1,
+			"val": 2.3012470886362113,
+			"group": "POSTO CADORE PILLON LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 36.003010969246176,
+			"desc": 914.94,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 23778,
+			"name": 914.94,
+			"val": 2.9613926148060097,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 0.45175701945372343,
+			"desc": 24.48,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 23832,
+			"name": 24.48,
+			"val": 1.3888114134735237,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 187.3885924835019,
+			"desc": 3924.1499999999996,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23793,
+			"name": 1637.39,
+			"val": 3.214152133703424,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23795,
+			"name": 690.98,
+			"val": 2.8394654771638645,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23794,
+			"name": 858.39,
+			"val": 2.933684649579847,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23792,
+			"name": 737.39,
+			"val": 2.867697243692844,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Matheus Felipe Pereira ME",
+			"name": "Matheus Felipe Pereira ME",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "Matheus Felipe Pereira ME"
+		},
+		{
+			"id": 23802,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "Matheus Felipe Pereira ME"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS MILLANI LTDA",
+			"name": "POSTO DE COMBUSTIVEIS MILLANI LTDA",
+			"val": 11.46515007703019,
+			"desc": 340.72,
+			"group": "POSTO DE COMBUSTIVEIS MILLANI LTDA"
+		},
+		{
+			"id": 23757,
+			"name": 154.9,
+			"val": 2.190051417759206,
+			"group": "POSTO DE COMBUSTIVEIS MILLANI LTDA"
+		},
+		{
+			"id": 23756,
+			"name": 185.82,
+			"val": 2.2690924557404304,
+			"group": "POSTO DE COMBUSTIVEIS MILLANI LTDA"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A. VIVO",
+			"name": "TELEFONICA BRASIL S.A. VIVO",
+			"val": 104.51072877371625,
+			"desc": 2335.0699999999997,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 23768,
+			"name": 979.31,
+			"val": 2.9909201892274626,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 23767,
+			"name": 1060.36,
+			"val": 3.0254533364630456,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 23766,
+			"name": 18.36,
+			"val": 1.2638726768652235,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 23769,
+			"name": 277.04,
+			"val": 2.4425424785414043,
+			"group": "TELEFONICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": "OI S/A",
+			"name": "OI S/A",
+			"val": 5.531603596741904,
+			"desc": 183.84,
+			"group": "OI S/A"
+		},
+		{
+			"id": 23825,
+			"name": 64.11,
+			"val": 1.806925776883732,
+			"group": "OI S/A"
+		},
+		{
+			"id": 23826,
+			"name": 119.73,
+			"val": 2.0782029825036856,
+			"group": "OI S/A"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 35.8694807261341,
+			"desc": 911.98,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23824,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23760,
+			"name": 364.95,
+			"val": 2.5622333679864995,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23759,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23823,
+			"name": 305.82,
+			"val": 2.485465883972352,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23761,
+			"name": 116.61,
+			"val": 2.0667357953509287,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "MAXXYNPRESS GRAFICA DIGITAL LTDA",
+			"name": "MAXXYNPRESS GRAFICA DIGITAL LTDA",
+			"val": 2.576858822362348,
+			"desc": 97.5,
+			"group": "MAXXYNPRESS GRAFICA DIGITAL LTDA"
+		},
+		{
+			"id": 23822,
+			"name": 97.5,
+			"val": 1.9890046156985368,
+			"group": "MAXXYNPRESS GRAFICA DIGITAL LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"name": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"val": 6.3303900374656505,
+			"desc": 205.91,
+			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
+		},
+		{
+			"id": 23815,
+			"name": 205.91,
+			"val": 2.313677438601324,
+			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA",
+			"name": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA",
+			"val": 6.685141013448877,
+			"desc": 215.59,
+			"group": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA"
+		},
+		{
+			"id": 23816,
+			"name": 215.59,
+			"val": 2.333628612518691,
+			"group": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 9.296492644319398,
+			"desc": 285,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 23833,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 23773,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 23834,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "EKO RESIDENCE",
+			"name": "EKO RESIDENCE",
+			"val": 9.874582428595057,
+			"desc": 300,
+			"group": "EKO RESIDENCE"
+		},
+		{
+			"id": 23835,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "EKO RESIDENCE"
+		},
+		{
+			"id": 23836,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "EKO RESIDENCE"
+		},
+		{
+			"id": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA",
+			"name": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA"
+		},
+		{
+			"id": 23770,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA"
+		},
+		{
+			"id": 23771,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA"
+		},
+		{
+			"id": "SINPETAXI",
+			"name": "SINPETAXI",
+			"val": 0.851508495181978,
+			"desc": 40,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 23777,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": "POSTO MULLER COMB. E LUBRIFICANTES LTDA",
+			"name": "POSTO MULLER COMB. E LUBRIFICANTES LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO MULLER COMB. E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": 23818,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO MULLER COMB. E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": "Denis ribeiro Soares",
+			"name": "Denis ribeiro Soares",
+			"val": 301.21792284919786,
+			"desc": 6000,
+			"group": "Denis ribeiro Soares"
+		},
+		{
+			"id": 23758,
+			"name": 6000,
+			"val": 3.778151250383644,
+			"group": "Denis ribeiro Soares"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 22.149164857190115,
+			"desc": 600,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 23779,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 5.549178765585777,
+			"desc": 184.32999999999998,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23765,
+			"name": 60.42,
+			"val": 1.7811807209372617,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23827,
+			"name": 123.91,
+			"val": 2.0931063569779065,
+			"group": "RAMAL"
+		},
+		{
+			"id": "ABASTECEDORA ABM LTDA.",
+			"name": "ABASTECEDORA ABM LTDA.",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "ABASTECEDORA ABM LTDA."
+		},
+		{
+			"id": 23803,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "ABASTECEDORA ABM LTDA."
+		},
+		{
+			"id": "Cootraero",
+			"name": "Cootraero",
+			"val": 3.617793263798399,
+			"desc": 129,
+			"group": "Cootraero"
+		},
+		{
+			"id": 23838,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cootraero"
+		},
+		{
+			"id": 23839,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "Cootraero"
+		},
+		{
+			"id": "POSTO GAS. LUBR. BOLINHA LTDA",
+			"name": "POSTO GAS. LUBR. BOLINHA LTDA",
+			"val": 5.038385836573638,
+			"desc": 170,
+			"group": "POSTO GAS. LUBR. BOLINHA LTDA"
+		},
+		{
+			"id": 23817,
+			"name": 170,
+			"val": 2.230448921378274,
+			"group": "POSTO GAS. LUBR. BOLINHA LTDA"
+		},
+		{
+			"id": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA",
+			"name": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA",
+			"val": 1413.2549059497296,
+			"desc": 24255.97,
+			"group": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA"
+		},
+		{
+			"id": 23772,
+			"name": 24255.97,
+			"val": 4.384818646813003,
+			"group": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 9.838612724703125,
+			"desc": 299.07,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 23806,
+			"name": 193.68,
+			"val": 2.2870847764336766,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 23807,
+			"name": 105.39,
+			"val": 2.022799404511688,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02",
+			"name": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02",
+			"val": 5.6544272716544794,
+			"desc": 187.26,
+			"group": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02"
+		},
+		{
+			"id": 23753,
+			"name": 187.26,
+			"val": 2.2724450190489764,
+			"group": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"name": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"val": 5.750566822571571,
+			"desc": 189.93,
+			"group": "COMERCIAL DE COMBUSTIVEIS VIP LTDA"
+		},
+		{
+			"id": 23810,
+			"name": 189.93,
+			"val": 2.2785935682411336,
+			"group": "COMERCIAL DE COMBUSTIVEIS VIP LTDA"
+		},
+		{
+			"id": "DS COMBUSTIVEIS LTDA",
+			"name": "DS COMBUSTIVEIS LTDA",
+			"val": 5.364482589583628,
+			"desc": 179.17,
+			"group": "DS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 23811,
+			"name": 179.17,
+			"val": 2.2532652936901574,
+			"group": "DS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA.",
+			"name": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA.",
+			"val": 1.4179477311802207,
+			"desc": 60.01,
+			"group": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA."
+		},
+		{
+			"id": 23809,
+			"name": 60.01,
+			"val": 1.7782236267660965,
+			"group": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA."
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Oi S.A",
+			"value": 230.02999999999997
+		},
+		{
+			"source": "Oi S.A",
+			"target": 23764,
+			"value": 122.21
+		},
+		{
+			"source": "Oi S.A",
+			"target": 23763,
+			"value": 107.82
+		},
+		{
+			"source": -100,
+			"target": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
+			"value": 313.61
+		},
+		{
+			"source": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
+			"target": 23805,
+			"value": 173.59
+		},
+		{
+			"source": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
+			"target": 23804,
+			"value": 140.02
+		},
+		{
+			"source": -100,
+			"target": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"value": 48
+		},
+		{
+			"source": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"target": 23842,
+			"value": 7
+		},
+		{
+			"source": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"target": 23843,
+			"value": 7
+		},
+		{
+			"source": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"target": 23846,
+			"value": 7
+		},
+		{
+			"source": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"target": 23841,
+			"value": 7
+		},
+		{
+			"source": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"target": 23844,
+			"value": 6.5
+		},
+		{
+			"source": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"target": 23840,
+			"value": 7
+		},
+		{
+			"source": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
+			"target": 23845,
+			"value": 6.5
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A - NET",
+			"value": 8.05
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 23762,
+			"value": 8.05
+		},
+		{
+			"source": -100,
+			"target": "POSTO TONATTO LTDA",
+			"value": 233
+		},
+		{
+			"source": "POSTO TONATTO LTDA",
+			"target": 23819,
+			"value": 233
+		},
+		{
+			"source": -100,
+			"target": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA",
+			"value": 4880
+		},
+		{
+			"source": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA",
+			"target": 23837,
+			"value": 4880
+		},
+		{
+			"source": -100,
+			"target": "SIM REDE DE POSTOS LTDA",
+			"value": 368.26
+		},
+		{
+			"source": "SIM REDE DE POSTOS LTDA",
+			"target": 23821,
+			"value": 195.31
+		},
+		{
+			"source": "SIM REDE DE POSTOS LTDA",
+			"target": 23820,
+			"value": 172.95
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 8868.94
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23782,
+			"value": 440.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23780,
+			"value": 441.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23789,
+			"value": 535.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23791,
+			"value": 1154.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23790,
+			"value": 619.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23781,
+			"value": 539.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23785,
+			"value": 539.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23786,
+			"value": 1154.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23784,
+			"value": 619.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23787,
+			"value": 538.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23783,
+			"value": 670.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23788,
+			"value": 1613.11
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO",
+			"value": 3792.16
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 23830,
+			"value": 1051.24
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 23828,
+			"value": 1020.41
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 23829,
+			"value": 1510.3
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 23831,
+			"value": 210.21
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
+			"value": 675.74
+		},
+		{
+			"source": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
+			"target": 23754,
+			"value": 238.95
+		},
+		{
+			"source": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
+			"target": 23813,
+			"value": 183.79
+		},
+		{
+			"source": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
+			"target": 23814,
+			"value": 153
+		},
+		{
+			"source": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
+			"target": 23755,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CEEE",
+			"value": 967.7
+		},
+		{
+			"source": "CEEE",
+			"target": 23749,
+			"value": 354.41
+		},
+		{
+			"source": "CEEE",
+			"target": 23799,
+			"value": 82.21
+		},
+		{
+			"source": "CEEE",
+			"target": 23798,
+			"value": 343.1
+		},
+		{
+			"source": "CEEE",
+			"target": 23750,
+			"value": 187.98
+		},
+		{
+			"source": -100,
+			"target": "GIOVANNI E SILVA",
+			"value": 7439.6
+		},
+		{
+			"source": "GIOVANNI E SILVA",
+			"target": 23752,
+			"value": 1809.9
+		},
+		{
+			"source": "GIOVANNI E SILVA",
+			"target": 23751,
+			"value": 1809.9
+		},
+		{
+			"source": "GIOVANNI E SILVA",
+			"target": 23801,
+			"value": 1909.9
+		},
+		{
+			"source": "GIOVANNI E SILVA",
+			"target": 23800,
+			"value": 1909.9
+		},
+		{
+			"source": -100,
+			"target": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+			"value": 1894.5400000000002
+		},
+		{
+			"source": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+			"target": 23796,
+			"value": 467.61
+		},
+		{
+			"source": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+			"target": 23797,
+			"value": 467.61
+		},
+		{
+			"source": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+			"target": 23747,
+			"value": 479.66
+		},
+		{
+			"source": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+			"target": 23748,
+			"value": 479.66
+		},
+		{
+			"source": -100,
+			"target": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
+			"value": 196.22
+		},
+		{
+			"source": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
+			"target": 23808,
+			"value": 196.22
+		},
+		{
+			"source": -100,
+			"target": "PARKPLATZ ESTACIONAMENTOS LTDA",
+			"value": 1227
+		},
+		{
+			"source": "PARKPLATZ ESTACIONAMENTOS LTDA",
+			"target": 23775,
+			"value": 404
+		},
+		{
+			"source": "PARKPLATZ ESTACIONAMENTOS LTDA",
+			"target": 23776,
+			"value": 235
+		},
+		{
+			"source": "PARKPLATZ ESTACIONAMENTOS LTDA",
+			"target": 23774,
+			"value": 588
+		},
+		{
+			"source": -100,
+			"target": "POSTO CADORE PILLON LTDA",
+			"value": 200.1
+		},
+		{
+			"source": "POSTO CADORE PILLON LTDA",
+			"target": 23812,
+			"value": 200.1
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 914.94
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 23778,
+			"value": 914.94
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 24.48
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 23832,
+			"value": 24.48
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 3924.1499999999996
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23793,
+			"value": 1637.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23795,
+			"value": 690.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23794,
+			"value": 858.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23792,
+			"value": 737.39
+		},
+		{
+			"source": -100,
+			"target": "Matheus Felipe Pereira ME",
+			"value": 200
+		},
+		{
+			"source": "Matheus Felipe Pereira ME",
+			"target": 23802,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS MILLANI LTDA",
+			"value": 340.72
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS MILLANI LTDA",
+			"target": 23757,
+			"value": 154.9
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS MILLANI LTDA",
+			"target": 23756,
+			"value": 185.82
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A. VIVO",
+			"value": 2335.0699999999997
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A. VIVO",
+			"target": 23768,
+			"value": 979.31
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A. VIVO",
+			"target": 23767,
+			"value": 1060.36
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A. VIVO",
+			"target": 23766,
+			"value": 18.36
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A. VIVO",
+			"target": 23769,
+			"value": 277.04
+		},
+		{
+			"source": -100,
+			"target": "OI S/A",
+			"value": 183.84
+		},
+		{
+			"source": "OI S/A",
+			"target": 23825,
+			"value": 64.11
+		},
+		{
+			"source": "OI S/A",
+			"target": 23826,
+			"value": 119.73
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 911.98
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23824,
+			"value": 62.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23760,
+			"value": 364.95
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23759,
+			"value": 62.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23823,
+			"value": 305.82
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23761,
+			"value": 116.61
+		},
+		{
+			"source": -100,
+			"target": "MAXXYNPRESS GRAFICA DIGITAL LTDA",
+			"value": 97.5
+		},
+		{
+			"source": "MAXXYNPRESS GRAFICA DIGITAL LTDA",
+			"target": 23822,
+			"value": 97.5
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"value": 205.91
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"target": 23815,
+			"value": 205.91
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA",
+			"value": 215.59
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA",
+			"target": 23816,
+			"value": 215.59
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 285
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 23833,
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 23773,
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 23834,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "EKO RESIDENCE",
+			"value": 300
+		},
+		{
+			"source": "EKO RESIDENCE",
+			"target": 23835,
+			"value": 150
+		},
+		{
+			"source": "EKO RESIDENCE",
+			"target": 23836,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA",
+			"value": 190
+		},
+		{
+			"source": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA",
+			"target": 23770,
+			"value": 95
+		},
+		{
+			"source": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA",
+			"target": 23771,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "SINPETAXI",
+			"value": 40
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 23777,
+			"value": 40
+		},
+		{
+			"source": -100,
+			"target": "POSTO MULLER COMB. E LUBRIFICANTES LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO MULLER COMB. E LUBRIFICANTES LTDA",
+			"target": 23818,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "Denis ribeiro Soares",
+			"value": 6000
+		},
+		{
+			"source": "Denis ribeiro Soares",
+			"target": 23758,
+			"value": 6000
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 600
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 23779,
+			"value": 600
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 184.32999999999998
+		},
+		{
+			"source": "RAMAL",
+			"target": 23765,
+			"value": 60.42
+		},
+		{
+			"source": "RAMAL",
+			"target": 23827,
+			"value": 123.91
+		},
+		{
+			"source": -100,
+			"target": "ABASTECEDORA ABM LTDA.",
+			"value": 50
+		},
+		{
+			"source": "ABASTECEDORA ABM LTDA.",
+			"target": 23803,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "Cootraero",
+			"value": 129
+		},
+		{
+			"source": "Cootraero",
+			"target": 23838,
+			"value": 49
+		},
+		{
+			"source": "Cootraero",
+			"target": 23839,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "POSTO GAS. LUBR. BOLINHA LTDA",
+			"value": 170
+		},
+		{
+			"source": "POSTO GAS. LUBR. BOLINHA LTDA",
+			"target": 23817,
+			"value": 170
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA",
+			"value": 24255.97
+		},
+		{
+			"source": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA",
+			"target": 23772,
+			"value": 24255.97
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 299.07
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 23806,
+			"value": 193.68
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 23807,
+			"value": 105.39
+		},
+		{
+			"source": -100,
+			"target": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02",
+			"value": 187.26
+		},
+		{
+			"source": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02",
+			"target": 23753,
+			"value": 187.26
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"value": 189.93
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"target": 23810,
+			"value": 189.93
+		},
+		{
+			"source": -100,
+			"target": "DS COMBUSTIVEIS LTDA",
+			"value": 179.17
+		},
+		{
+			"source": "DS COMBUSTIVEIS LTDA",
+			"target": 23811,
+			"value": 179.17
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA.",
+			"value": 60.01
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA.",
+			"target": 23809,
+			"value": 60.01
+		}
+	]
+}

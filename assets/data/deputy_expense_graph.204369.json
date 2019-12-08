@@ -1,0 +1,1617 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "CAROLINE DE TONI"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 452.27683828775093,
+			"desc": 8645.890000000001,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9181,
+			"name": 1409.79,
+			"val": 3.149154425681266,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9205,
+			"name": 977.79,
+			"val": 2.9902455913579384,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9203,
+			"name": 1167.39,
+			"val": 3.067215968772479,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9204,
+			"name": 275,
+			"val": 2.439332693830263,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9206,
+			"name": 513.98,
+			"val": 2.7109462200485273,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9239,
+			"name": 923.79,
+			"val": 2.9655732567107824,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9238,
+			"name": 444.79,
+			"val": 2.6481550146494532,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9236,
+			"name": 950.39,
+			"val": 2.9779018580162564,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9237,
+			"name": 946.79,
+			"val": 2.976253662261107,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9182,
+			"name": 477.79,
+			"val": 2.6792370558570004,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 9240,
+			"name": 558.39,
+			"val": 2.746937632065486,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "TIM S/A",
+			"name": "TIM S/A",
+			"val": 1.4173597643298352,
+			"desc": 59.99,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 9190,
+			"name": 59.99,
+			"val": 1.778078861937455,
+			"group": "TIM S/A"
+		},
+		{
+			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"val": 1.4176537429460445,
+			"desc": 60,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 9232,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+			"name": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+			"val": 15.62461548810553,
+			"desc": 444.14,
+			"group": "POSTO DE COMBUSTIVEIS 310 SUL LTDA"
+		},
+		{
+			"id": 9215,
+			"name": 241.56,
+			"val": 2.3830250209362793,
+			"group": "POSTO DE COMBUSTIVEIS 310 SUL LTDA"
+		},
+		{
+			"id": 9248,
+			"name": 202.58,
+			"val": 2.3065965667972756,
+			"group": "POSTO DE COMBUSTIVEIS 310 SUL LTDA"
+		},
+		{
+			"id": "FLEX HOTELARIA LTDA",
+			"name": "FLEX HOTELARIA LTDA",
+			"val": 1.536,
+			"desc": 64,
+			"group": "FLEX HOTELARIA LTDA"
+		},
+		{
+			"id": 9223,
+			"name": 25,
+			"val": 1.3979400086720377,
+			"group": "FLEX HOTELARIA LTDA"
+		},
+		{
+			"id": 9259,
+			"name": 39,
+			"val": 1.591064607026499,
+			"group": "FLEX HOTELARIA LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 0.7643518346909455,
+			"desc": 36.75,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 9256,
+			"name": 28.3,
+			"val": 1.4517864355242902,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 9257,
+			"name": 8.45,
+			"val": 0.9268567089496923,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 19.54239604004103,
+			"desc": 538.49,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 9165,
+			"name": 538.49,
+			"val": 2.7311776426662306,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "CLARO S.A",
+			"name": "CLARO S.A",
+			"val": 9.20939953284409,
+			"desc": 282.73,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 9252,
+			"name": 50.99,
+			"val": 1.7074850119674736,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 9171,
+			"name": 38.99,
+			"val": 1.5909532351879858,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 9188,
+			"name": 51.79,
+			"val": 1.714245911017894,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 9218,
+			"name": 140.96,
+			"val": 2.1490958910679727,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 168.30007687056806,
+			"desc": 3565.6899999999996,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9179,
+			"name": 562.49,
+			"val": 2.750114805923981,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9235,
+			"name": 238.58,
+			"val": 2.377634034247592,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9199,
+			"name": 458.49,
+			"val": 2.661329867831165,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9177,
+			"name": 909.49,
+			"val": 2.958797928282741,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9234,
+			"name": 230.99,
+			"val": 2.3635931788582702,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9201,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9200,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9180,
+			"name": 256.08,
+			"val": 2.408375661136076,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9178,
+			"name": 499.49,
+			"val": 2.698526797890745,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9198,
+			"name": 230.08,
+			"val": 2.3618788687027887,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 9202,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"val": 0.8539443433646228,
+			"desc": 40.09,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9233,
+			"name": 20.24,
+			"val": 1.3062105081677615,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 9264,
+			"name": 19.85,
+			"val": 1.297760511099134,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": "CENTRO PROFISSIONAL CHAPECO",
+			"name": "CENTRO PROFISSIONAL CHAPECO",
+			"val": 24.597421844527084,
+			"desc": 657,
+			"group": "CENTRO PROFISSIONAL CHAPECO"
+		},
+		{
+			"id": 9208,
+			"name": 219,
+			"val": 2.3404441148401185,
+			"group": "CENTRO PROFISSIONAL CHAPECO"
+		},
+		{
+			"id": 9209,
+			"name": 219,
+			"val": 2.3404441148401185,
+			"group": "CENTRO PROFISSIONAL CHAPECO"
+		},
+		{
+			"id": 9243,
+			"name": 219,
+			"val": 2.3404441148401185,
+			"group": "CENTRO PROFISSIONAL CHAPECO"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 9168,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 5.051489245723388,
+			"desc": 170.37,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9260,
+			"name": 17.92,
+			"val": 1.2533380053261065,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9192,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9174,
+			"name": 29.72,
+			"val": 1.4730488050885377,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9193,
+			"name": 29.01,
+			"val": 1.4625477288026643,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 9173,
+			"name": 27.94,
+			"val": 1.4462264017781632,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "HOTEL ALIANCA EXPRESS SA",
+			"name": "HOTEL ALIANCA EXPRESS SA",
+			"val": 5.002994498926757,
+			"desc": 169,
+			"group": "HOTEL ALIANCA EXPRESS SA"
+		},
+		{
+			"id": 9197,
+			"name": 169,
+			"val": 2.2278867046136734,
+			"group": "HOTEL ALIANCA EXPRESS SA"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 4.964103474905356,
+			"desc": 167.89999999999998,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9175,
+			"name": 26.21,
+			"val": 1.4184670209466006,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9194,
+			"name": 19.32,
+			"val": 1.2860071220794747,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9226,
+			"name": 16.72,
+			"val": 1.2232362731029975,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9227,
+			"name": 19.32,
+			"val": 1.2860071220794747,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9228,
+			"name": 20.5,
+			"val": 1.3117538610557542,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9196,
+			"name": 17.82,
+			"val": 1.250907699700856,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9195,
+			"name": 16.51,
+			"val": 1.2177470732627937,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 9176,
+			"name": 31.5,
+			"val": 1.4983105537896004,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "HOTEL ANTARES LTDA",
+			"name": "HOTEL ANTARES LTDA",
+			"val": 2.3053611014240376,
+			"desc": 89,
+			"group": "HOTEL ANTARES LTDA"
+		},
+		{
+			"id": 9261,
+			"name": 89,
+			"val": 1.9493900066449128,
+			"group": "HOTEL ANTARES LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 0.678335283242111,
+			"desc": 33.480000000000004,
+			"group": "RAMAL"
+		},
+		{
+			"id": 9172,
+			"name": 9.25,
+			"val": 0.9661417327390326,
+			"group": "RAMAL"
+		},
+		{
+			"id": 9219,
+			"name": 9.78,
+			"val": 0.9903388547876014,
+			"group": "RAMAL"
+		},
+		{
+			"id": 9255,
+			"name": 5.49,
+			"val": 0.7395723444500919,
+			"group": "RAMAL"
+		},
+		{
+			"id": 9189,
+			"name": 8.96,
+			"val": 0.9523080096621253,
+			"group": "RAMAL"
+		},
+		{
+			"id": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"name": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"val": 20.39209193507752,
+			"desc": 558.64,
+			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
+		},
+		{
+			"id": 9247,
+			"name": 100,
+			"val": 2,
+			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
+		},
+		{
+			"id": 9185,
+			"name": 160.52,
+			"val": 2.205529151061801,
+			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
+		},
+		{
+			"id": 9169,
+			"name": 127.13,
+			"val": 2.104248046990444,
+			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
+		},
+		{
+			"id": 9214,
+			"name": 170.99,
+			"val": 2.2329707123113898,
+			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 5.66198088986889,
+			"desc": 187.47,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 9213,
+			"name": 187.47,
+			"val": 2.2729317793870707,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX 12",
+			"name": "CORREIOS - SEDEX 12",
+			"val": 1.8104821741114279,
+			"desc": 73.1,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 9258,
+			"name": 73.1,
+			"val": 1.8639173769578603,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+			"val": 6.262886758854283,
+			"desc": 204.06,
+			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 9212,
+			"name": 204.06,
+			"val": 2.3097578823163656,
+			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 15.512051497058245,
+			"desc": 441.39,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 9241,
+			"name": 441.39,
+			"val": 2.644822489691031,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "INTELIG",
+			"name": "INTELIG",
+			"val": 3.650954066625061,
+			"desc": 129.98,
+			"group": "INTELIG"
+		},
+		{
+			"id": 9254,
+			"name": 64.99,
+			"val": 1.8128465369670712,
+			"group": "INTELIG"
+		},
+		{
+			"id": 9253,
+			"name": 64.99,
+			"val": 1.8128465369670712,
+			"group": "INTELIG"
+		},
+		{
+			"id": "AUTO POSTO GEMELLI LTDA",
+			"name": "AUTO POSTO GEMELLI LTDA",
+			"val": 11.805183591158523,
+			"desc": 349.33000000000004,
+			"group": "AUTO POSTO GEMELLI LTDA"
+		},
+		{
+			"id": 9167,
+			"name": 179,
+			"val": 2.2528530309798933,
+			"group": "AUTO POSTO GEMELLI LTDA"
+		},
+		{
+			"id": 9246,
+			"name": 170.33,
+			"val": 2.2312911464183496,
+			"group": "AUTO POSTO GEMELLI LTDA"
+		},
+		{
+			"id": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"name": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"val": 33.66810421816575,
+			"desc": 863,
+			"group": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME"
+		},
+		{
+			"id": 9263,
+			"name": 863,
+			"val": 2.9360107957152097,
+			"group": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME"
+		},
+		{
+			"id": "CELESC DISTRIBUICAO S.A",
+			"name": "CELESC DISTRIBUICAO S.A",
+			"val": 1.1574593802347575,
+			"desc": 51.010000000000005,
+			"group": "CELESC DISTRIBUICAO S.A"
+		},
+		{
+			"id": 9242,
+			"name": 29.12,
+			"val": 1.4641913706409997,
+			"group": "CELESC DISTRIBUICAO S.A"
+		},
+		{
+			"id": 9207,
+			"name": 21.89,
+			"val": 1.3402457615679317,
+			"group": "CELESC DISTRIBUICAO S.A"
+		},
+		{
+			"id": "CPQ BRASIL S A",
+			"name": "CPQ BRASIL S A",
+			"val": 0.34344984344224033,
+			"desc": 19.9,
+			"group": "CPQ BRASIL S A"
+		},
+		{
+			"id": 9222,
+			"name": 19.9,
+			"val": 1.2988530764097066,
+			"group": "CPQ BRASIL S A"
+		},
+		{
+			"id": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+			"name": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+			"val": 0.5135278502336545,
+			"desc": 27,
+			"group": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+		},
+		{
+			"id": 9224,
+			"name": 27,
+			"val": 1.4313637641589874,
+			"group": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO DUQUE LTDA",
+			"name": "AUTO POSTO DUQUE LTDA",
+			"val": 5.14440764226176,
+			"desc": 172.99,
+			"group": "AUTO POSTO DUQUE LTDA"
+		},
+		{
+			"id": 9184,
+			"name": 172.99,
+			"val": 2.2380209986759487,
+			"group": "AUTO POSTO DUQUE LTDA"
+		},
+		{
+			"id": "VERDE VALE SERVICOS LTDA - EPP",
+			"name": "VERDE VALE SERVICOS LTDA - EPP",
+			"val": 2.6252252215515255,
+			"desc": 99,
+			"group": "VERDE VALE SERVICOS LTDA - EPP"
+		},
+		{
+			"id": 9230,
+			"name": 99,
+			"val": 1.99563519459755,
+			"group": "VERDE VALE SERVICOS LTDA - EPP"
+		},
+		{
+			"id": "MHNET TELECOMUNICACOES EIRELI",
+			"name": "MHNET TELECOMUNICACOES EIRELI",
+			"val": 7.242005423457693,
+			"desc": 230.64999999999998,
+			"group": "MHNET TELECOMUNICACOES EIRELI"
+		},
+		{
+			"id": 9245,
+			"name": 110.35,
+			"val": 2.0427723374976736,
+			"group": "MHNET TELECOMUNICACOES EIRELI"
+		},
+		{
+			"id": 9211,
+			"name": 120.3,
+			"val": 2.0802656273398448,
+			"group": "MHNET TELECOMUNICACOES EIRELI"
+		},
+		{
+			"id": "CONQUILHA RESTAURANTE EIRELI",
+			"name": "CONQUILHA RESTAURANTE EIRELI",
+			"val": 0.8490738155833022,
+			"desc": 39.91,
+			"group": "CONQUILHA RESTAURANTE EIRELI"
+		},
+		{
+			"id": 9221,
+			"name": 39.91,
+			"val": 1.6010817277840232,
+			"group": "CONQUILHA RESTAURANTE EIRELI"
+		},
+		{
+			"id": "HOTELARIA ACCOR BRASIL S/A",
+			"name": "HOTELARIA ACCOR BRASIL S/A",
+			"val": 13.037395176545537,
+			"desc": 380.28,
+			"group": "HOTELARIA ACCOR BRASIL S/A"
+		},
+		{
+			"id": 9262,
+			"name": 197.83,
+			"val": 2.2962921509948617,
+			"group": "HOTELARIA ACCOR BRASIL S/A"
+		},
+		{
+			"id": 9229,
+			"name": 182.45,
+			"val": 2.261143867700667,
+			"group": "HOTELARIA ACCOR BRASIL S/A"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 28.151880796099416,
+			"desc": 738.6099999999999,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9170,
+			"name": 174.69,
+			"val": 2.2422680448276875,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9216,
+			"name": 154.83,
+			"val": 2.1898551137896143,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9186,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9251,
+			"name": 9.86,
+			"val": 0.9938769149412112,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9217,
+			"name": 7.77,
+			"val": 0.8904210188009143,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9187,
+			"name": 120.49,
+			"val": 2.080951004379483,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 9250,
+			"name": 230.81,
+			"val": 2.3632546209946867,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 1.644651078688309,
+			"desc": 67.63,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 9220,
+			"name": 67.63,
+			"val": 1.8301393874253427,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "IMOBILIÁRIA NOSTRA CASA LTDA",
+			"name": "IMOBILIÁRIA NOSTRA CASA LTDA",
+			"val": 160.8459384005568,
+			"desc": 3424.66,
+			"group": "IMOBILIÁRIA NOSTRA CASA LTDA"
+		},
+		{
+			"id": 9183,
+			"name": 530.58,
+			"val": 2.7247508753987764,
+			"group": "IMOBILIÁRIA NOSTRA CASA LTDA"
+		},
+		{
+			"id": 9210,
+			"name": 1447.04,
+			"val": 3.160480536329247,
+			"group": "IMOBILIÁRIA NOSTRA CASA LTDA"
+		},
+		{
+			"id": 9244,
+			"name": 1447.04,
+			"val": 3.160480536329247,
+			"group": "IMOBILIÁRIA NOSTRA CASA LTDA"
+		},
+		{
+			"id": "Restaurante e e Chácara Dal Pizzol",
+			"name": "Restaurante e e Chácara Dal Pizzol",
+			"val": 0.8379973582119823,
+			"desc": 39.5,
+			"group": "Restaurante e e Chácara Dal Pizzol"
+		},
+		{
+			"id": 9225,
+			"name": 39.5,
+			"val": 1.5965970956264601,
+			"group": "Restaurante e e Chácara Dal Pizzol"
+		},
+		{
+			"id": "LIOMAR JOSÉ FARIA JUNIOR",
+			"name": "LIOMAR JOSÉ FARIA JUNIOR",
+			"val": 1.0442627041153958,
+			"desc": 47,
+			"group": "LIOMAR JOSÉ FARIA JUNIOR"
+		},
+		{
+			"id": 9231,
+			"name": 47,
+			"val": 1.6720978579357175,
+			"group": "LIOMAR JOSÉ FARIA JUNIOR"
+		},
+		{
+			"id": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA",
+			"name": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA",
+			"val": 22.149164857190115,
+			"desc": 600,
+			"group": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA"
+		},
+		{
+			"id": 9191,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA"
+		},
+		{
+			"id": "STANG & STANG",
+			"name": "STANG & STANG",
+			"val": 2.21094983736432,
+			"desc": 86.01,
+			"group": "STANG & STANG"
+		},
+		{
+			"id": 9249,
+			"name": 86.01,
+			"val": 1.934548947666147,
+			"group": "STANG & STANG"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 53.587643561291145,
+			"desc": 1295.7,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 9166,
+			"name": 1295.7,
+			"val": 3.112504458767161,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 8645.890000000001
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9181,
+			"value": 1409.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9205,
+			"value": 977.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9203,
+			"value": 1167.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9204,
+			"value": 275
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9206,
+			"value": 513.98
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9239,
+			"value": 923.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9238,
+			"value": 444.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9236,
+			"value": 950.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9237,
+			"value": 946.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9182,
+			"value": 477.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 9240,
+			"value": 558.39
+		},
+		{
+			"source": -100,
+			"target": "TIM S/A",
+			"value": 59.99
+		},
+		{
+			"source": "TIM S/A",
+			"target": 9190,
+			"value": 59.99
+		},
+		{
+			"source": -100,
+			"target": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"value": 60
+		},
+		{
+			"source": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"target": 9232,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+			"value": 444.14
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+			"target": 9215,
+			"value": 241.56
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+			"target": 9248,
+			"value": 202.58
+		},
+		{
+			"source": -100,
+			"target": "FLEX HOTELARIA LTDA",
+			"value": 64
+		},
+		{
+			"source": "FLEX HOTELARIA LTDA",
+			"target": 9223,
+			"value": 25
+		},
+		{
+			"source": "FLEX HOTELARIA LTDA",
+			"target": 9259,
+			"value": 39
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 36.75
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 9256,
+			"value": 28.3
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 9257,
+			"value": 8.45
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 538.49
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 9165,
+			"value": 538.49
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A",
+			"value": 282.73
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 9252,
+			"value": 50.99
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 9171,
+			"value": 38.99
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 9188,
+			"value": 51.79
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 9218,
+			"value": 140.96
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 3565.6899999999996
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9179,
+			"value": 562.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9235,
+			"value": 238.58
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9199,
+			"value": 458.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9177,
+			"value": 909.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9234,
+			"value": 230.99
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9201,
+			"value": 60
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9200,
+			"value": 60
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9180,
+			"value": 256.08
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9178,
+			"value": 499.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9198,
+			"value": 230.08
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 9202,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"value": 40.09
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9233,
+			"value": 20.24
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 9264,
+			"value": 19.85
+		},
+		{
+			"source": -100,
+			"target": "CENTRO PROFISSIONAL CHAPECO",
+			"value": 657
+		},
+		{
+			"source": "CENTRO PROFISSIONAL CHAPECO",
+			"target": 9208,
+			"value": 219
+		},
+		{
+			"source": "CENTRO PROFISSIONAL CHAPECO",
+			"target": 9209,
+			"value": 219
+		},
+		{
+			"source": "CENTRO PROFISSIONAL CHAPECO",
+			"target": 9243,
+			"value": 219
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 50
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 9168,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 170.37
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9260,
+			"value": 17.92
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9192,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9174,
+			"value": 29.72
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9193,
+			"value": 29.01
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 9173,
+			"value": 27.94
+		},
+		{
+			"source": -100,
+			"target": "HOTEL ALIANCA EXPRESS SA",
+			"value": 169
+		},
+		{
+			"source": "HOTEL ALIANCA EXPRESS SA",
+			"target": 9197,
+			"value": 169
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 167.89999999999998
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9175,
+			"value": 26.21
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9194,
+			"value": 19.32
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9226,
+			"value": 16.72
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9227,
+			"value": 19.32
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9228,
+			"value": 20.5
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9196,
+			"value": 17.82
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9195,
+			"value": 16.51
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 9176,
+			"value": 31.5
+		},
+		{
+			"source": -100,
+			"target": "HOTEL ANTARES LTDA",
+			"value": 89
+		},
+		{
+			"source": "HOTEL ANTARES LTDA",
+			"target": 9261,
+			"value": 89
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 33.480000000000004
+		},
+		{
+			"source": "RAMAL",
+			"target": 9172,
+			"value": 9.25
+		},
+		{
+			"source": "RAMAL",
+			"target": 9219,
+			"value": 9.78
+		},
+		{
+			"source": "RAMAL",
+			"target": 9255,
+			"value": 5.49
+		},
+		{
+			"source": "RAMAL",
+			"target": 9189,
+			"value": 8.96
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"value": 558.64
+		},
+		{
+			"source": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"target": 9247,
+			"value": 100
+		},
+		{
+			"source": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"target": 9185,
+			"value": 160.52
+		},
+		{
+			"source": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"target": 9169,
+			"value": 127.13
+		},
+		{
+			"source": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"target": 9214,
+			"value": 170.99
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 187.47
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 9213,
+			"value": 187.47
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 12",
+			"value": 73.1
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 9258,
+			"value": 73.1
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+			"value": 204.06
+		},
+		{
+			"source": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+			"target": 9212,
+			"value": 204.06
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 441.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 9241,
+			"value": 441.39
+		},
+		{
+			"source": -100,
+			"target": "INTELIG",
+			"value": 129.98
+		},
+		{
+			"source": "INTELIG",
+			"target": 9254,
+			"value": 64.99
+		},
+		{
+			"source": "INTELIG",
+			"target": 9253,
+			"value": 64.99
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GEMELLI LTDA",
+			"value": 349.33000000000004
+		},
+		{
+			"source": "AUTO POSTO GEMELLI LTDA",
+			"target": 9167,
+			"value": 179
+		},
+		{
+			"source": "AUTO POSTO GEMELLI LTDA",
+			"target": 9246,
+			"value": 170.33
+		},
+		{
+			"source": -100,
+			"target": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"value": 863
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"target": 9263,
+			"value": 863
+		},
+		{
+			"source": -100,
+			"target": "CELESC DISTRIBUICAO S.A",
+			"value": 51.010000000000005
+		},
+		{
+			"source": "CELESC DISTRIBUICAO S.A",
+			"target": 9242,
+			"value": 29.12
+		},
+		{
+			"source": "CELESC DISTRIBUICAO S.A",
+			"target": 9207,
+			"value": 21.89
+		},
+		{
+			"source": -100,
+			"target": "CPQ BRASIL S A",
+			"value": 19.9
+		},
+		{
+			"source": "CPQ BRASIL S A",
+			"target": 9222,
+			"value": 19.9
+		},
+		{
+			"source": -100,
+			"target": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+			"value": 27
+		},
+		{
+			"source": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+			"target": 9224,
+			"value": 27
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DUQUE LTDA",
+			"value": 172.99
+		},
+		{
+			"source": "AUTO POSTO DUQUE LTDA",
+			"target": 9184,
+			"value": 172.99
+		},
+		{
+			"source": -100,
+			"target": "VERDE VALE SERVICOS LTDA - EPP",
+			"value": 99
+		},
+		{
+			"source": "VERDE VALE SERVICOS LTDA - EPP",
+			"target": 9230,
+			"value": 99
+		},
+		{
+			"source": -100,
+			"target": "MHNET TELECOMUNICACOES EIRELI",
+			"value": 230.64999999999998
+		},
+		{
+			"source": "MHNET TELECOMUNICACOES EIRELI",
+			"target": 9245,
+			"value": 110.35
+		},
+		{
+			"source": "MHNET TELECOMUNICACOES EIRELI",
+			"target": 9211,
+			"value": 120.3
+		},
+		{
+			"source": -100,
+			"target": "CONQUILHA RESTAURANTE EIRELI",
+			"value": 39.91
+		},
+		{
+			"source": "CONQUILHA RESTAURANTE EIRELI",
+			"target": 9221,
+			"value": 39.91
+		},
+		{
+			"source": -100,
+			"target": "HOTELARIA ACCOR BRASIL S/A",
+			"value": 380.28
+		},
+		{
+			"source": "HOTELARIA ACCOR BRASIL S/A",
+			"target": 9262,
+			"value": 197.83
+		},
+		{
+			"source": "HOTELARIA ACCOR BRASIL S/A",
+			"target": 9229,
+			"value": 182.45
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 738.6099999999999
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9170,
+			"value": 174.69
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9216,
+			"value": 154.83
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9186,
+			"value": 40.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9251,
+			"value": 9.86
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9217,
+			"value": 7.77
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9187,
+			"value": 120.49
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 9250,
+			"value": 230.81
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 67.63
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 9220,
+			"value": 67.63
+		},
+		{
+			"source": -100,
+			"target": "IMOBILIÁRIA NOSTRA CASA LTDA",
+			"value": 3424.66
+		},
+		{
+			"source": "IMOBILIÁRIA NOSTRA CASA LTDA",
+			"target": 9183,
+			"value": 530.58
+		},
+		{
+			"source": "IMOBILIÁRIA NOSTRA CASA LTDA",
+			"target": 9210,
+			"value": 1447.04
+		},
+		{
+			"source": "IMOBILIÁRIA NOSTRA CASA LTDA",
+			"target": 9244,
+			"value": 1447.04
+		},
+		{
+			"source": -100,
+			"target": "Restaurante e e Chácara Dal Pizzol",
+			"value": 39.5
+		},
+		{
+			"source": "Restaurante e e Chácara Dal Pizzol",
+			"target": 9225,
+			"value": 39.5
+		},
+		{
+			"source": -100,
+			"target": "LIOMAR JOSÉ FARIA JUNIOR",
+			"value": 47
+		},
+		{
+			"source": "LIOMAR JOSÉ FARIA JUNIOR",
+			"target": 9231,
+			"value": 47
+		},
+		{
+			"source": -100,
+			"target": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA",
+			"value": 600
+		},
+		{
+			"source": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA",
+			"target": 9191,
+			"value": 600
+		},
+		{
+			"source": -100,
+			"target": "STANG & STANG",
+			"value": 86.01
+		},
+		{
+			"source": "STANG & STANG",
+			"target": 9249,
+			"value": 86.01
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 1295.7
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 9166,
+			"value": 1295.7
+		}
+	]
+}

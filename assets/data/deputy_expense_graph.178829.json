@@ -1,0 +1,1881 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "CAPITÃO AUGUSTO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CONC. RODOVIAS DO TIETÊ",
+			"name": "CONC. RODOVIAS DO TIETÊ",
+			"val": 0.273530162834302,
+			"desc": 16.8,
+			"group": "CONC. RODOVIAS DO TIETÊ"
+		},
+		{
+			"id": 8043,
+			"name": 5.7,
+			"val": 0.7558748556724915,
+			"group": "CONC. RODOVIAS DO TIETÊ"
+		},
+		{
+			"id": 8042,
+			"name": 5.9,
+			"val": 0.7708520116421442,
+			"group": "CONC. RODOVIAS DO TIETÊ"
+		},
+		{
+			"id": 8044,
+			"name": 5.2,
+			"val": 0.7160033436347992,
+			"group": "CONC. RODOVIAS DO TIETÊ"
+		},
+		{
+			"id": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"name": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"val": 60.35097007391007,
+			"desc": 1438.28,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7981,
+			"name": 153,
+			"val": 2.184691430817599,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7977,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7986,
+			"name": 134.3,
+			"val": 2.1280760126687155,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7982,
+			"name": 134.08,
+			"val": 2.1273640012862014,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7983,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7978,
+			"name": 170.2,
+			"val": 2.230959555748569,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7985,
+			"name": 94.09,
+			"val": 1.9735434685324897,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7987,
+			"name": 167.82,
+			"val": 2.2248437167551707,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7979,
+			"name": 105.4,
+			"val": 2.022840610876528,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7980,
+			"name": 146.35,
+			"val": 2.1653927267698108,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7984,
+			"name": 63.04,
+			"val": 1.799616204481499,
+			"group": "AUTO POSTO MIRANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 68.36245567650205,
+			"desc": 1605,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 7971,
+			"name": 1605,
+			"val": 3.205475036740891,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "MUNICIPIO DE OURINHOS",
+			"name": "MUNICIPIO DE OURINHOS",
+			"val": 7.901840056220711,
+			"desc": 248.3,
+			"group": "MUNICIPIO DE OURINHOS"
+		},
+		{
+			"id": 7968,
+			"name": 248.3,
+			"val": 2.394976719554564,
+			"group": "MUNICIPIO DE OURINHOS"
+		},
+		{
+			"id": "Rodosnack São Carlos Rest. e Lanchonete Ltda",
+			"name": "Rodosnack São Carlos Rest. e Lanchonete Ltda",
+			"val": 1.2652557856986053,
+			"desc": 54.77,
+			"group": "Rodosnack São Carlos Rest. e Lanchonete Ltda"
+		},
+		{
+			"id": 8032,
+			"name": 54.77,
+			"val": 1.7385427409287852,
+			"group": "Rodosnack São Carlos Rest. e Lanchonete Ltda"
+		},
+		{
+			"id": "Vou de Taxi",
+			"name": "Vou de Taxi",
+			"val": 1.7161992447445908,
+			"desc": 70,
+			"group": "Vou de Taxi"
+		},
+		{
+			"id": 8047,
+			"name": 70,
+			"val": 1.845098040014257,
+			"group": "Vou de Taxi"
+		},
+		{
+			"id": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A",
+			"name": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A",
+			"val": 0.269126592740915,
+			"desc": 16.6,
+			"group": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A"
+		},
+		{
+			"id": 8046,
+			"name": 8.3,
+			"val": 0.919078092376074,
+			"group": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A"
+		},
+		{
+			"id": 8045,
+			"name": 8.3,
+			"val": 0.919078092376074,
+			"group": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A"
+		},
+		{
+			"id": "POSTO GIGANTE DE OURINHOS LTDA",
+			"name": "POSTO GIGANTE DE OURINHOS LTDA",
+			"val": 6.762436513349465,
+			"desc": 217.69,
+			"group": "POSTO GIGANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7997,
+			"name": 56.69,
+			"val": 1.75350645699097,
+			"group": "POSTO GIGANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": 7996,
+			"name": 161,
+			"val": 2.2068258760318495,
+			"group": "POSTO GIGANTE DE OURINHOS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 1.3856670342683046,
+			"desc": 58.91,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 8016,
+			"name": 58.91,
+			"val": 1.7701890227359933,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "SIQUELERO AUTO POSTO LTDA",
+			"name": "SIQUELERO AUTO POSTO LTDA",
+			"val": 3.44928136995189,
+			"desc": 124,
+			"group": "SIQUELERO AUTO POSTO LTDA"
+		},
+		{
+			"id": 8008,
+			"name": 124,
+			"val": 2.093421685162235,
+			"group": "SIQUELERO AUTO POSTO LTDA"
+		},
+		{
+			"id": "POSTO ICCAR LTDA",
+			"name": "POSTO ICCAR LTDA",
+			"val": 4.337638076770334,
+			"desc": 150.01,
+			"group": "POSTO ICCAR LTDA"
+		},
+		{
+			"id": 7998,
+			"name": 92.01,
+			"val": 1.963835030702148,
+			"group": "POSTO ICCAR LTDA"
+		},
+		{
+			"id": 7999,
+			"name": 58,
+			"val": 1.7634279935629373,
+			"group": "POSTO ICCAR LTDA"
+		},
+		{
+			"id": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"name": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"val": 13.850344808718754,
+			"desc": 400.49999999999994,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8021,
+			"name": 52.6,
+			"val": 1.720985744153739,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8023,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8020,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8017,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8019,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8024,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8022,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 8018,
+			"name": 49.7,
+			"val": 1.6963563887333322,
+			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "POSTO RODOSERV LT",
+			"name": "POSTO RODOSERV LT",
+			"val": 29.504119788820447,
+			"desc": 769.3399999999999,
+			"group": "POSTO RODOSERV LT"
+		},
+		{
+			"id": 8003,
+			"name": 118.62,
+			"val": 2.074157919697316,
+			"group": "POSTO RODOSERV LT"
+		},
+		{
+			"id": 8004,
+			"name": 178.02,
+			"val": 2.2504687967004857,
+			"group": "POSTO RODOSERV LT"
+		},
+		{
+			"id": 8000,
+			"name": 146.01,
+			"val": 2.164382600963169,
+			"group": "POSTO RODOSERV LT"
+		},
+		{
+			"id": 8001,
+			"name": 176.65,
+			"val": 2.247113641770864,
+			"group": "POSTO RODOSERV LT"
+		},
+		{
+			"id": 8002,
+			"name": 150.04,
+			"val": 2.176207055478685,
+			"group": "POSTO RODOSERV LT"
+		},
+		{
+			"id": "Prefeitura Municipal de Ourinhos",
+			"name": "Prefeitura Municipal de Ourinhos",
+			"val": 7.901840056220711,
+			"desc": 248.3,
+			"group": "Prefeitura Municipal de Ourinhos"
+		},
+		{
+			"id": 8060,
+			"name": 248.3,
+			"val": 2.394976719554564,
+			"group": "Prefeitura Municipal de Ourinhos"
+		},
+		{
+			"id": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
+			"name": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
+			"val": 0.345754247590989,
+			"desc": 20,
+			"group": "SAO PAULO AIRPORT RESTAURANTES LIMITADA"
+		},
+		{
+			"id": 8033,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "SAO PAULO AIRPORT RESTAURANTES LIMITADA"
+		},
+		{
+			"id": "Telefônica Brasil S/A",
+			"name": "Telefônica Brasil S/A",
+			"val": 2.0227064090454125,
+			"desc": 79.99,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 8014,
+			"name": 79.99,
+			"val": 1.9030356967884972,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": "AUTO POSTO ABS LTDA",
+			"name": "AUTO POSTO ABS LTDA",
+			"val": 4.511197131270027,
+			"desc": 155,
+			"group": "AUTO POSTO ABS LTDA"
+		},
+		{
+			"id": 7973,
+			"name": 155,
+			"val": 2.1903316981702914,
+			"group": "AUTO POSTO ABS LTDA"
+		},
+		{
+			"id": "CHEF ERICA ALIMENTOS EIRELI",
+			"name": "CHEF ERICA ALIMENTOS EIRELI",
+			"val": 0.7934049301843487,
+			"desc": 37.84,
+			"group": "CHEF ERICA ALIMENTOS EIRELI"
+		},
+		{
+			"id": 8026,
+			"name": 37.84,
+			"val": 1.577951127729755,
+			"group": "CHEF ERICA ALIMENTOS EIRELI"
+		},
+		{
+			"id": "Cantarello Veiculos e Peças LTDA",
+			"name": "Cantarello Veiculos e Peças LTDA",
+			"val": 164.82394889407567,
+			"desc": 3500,
+			"group": "Cantarello Veiculos e Peças LTDA"
+		},
+		{
+			"id": 8040,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "Cantarello Veiculos e Peças LTDA"
+		},
+		{
+			"id": "CARLOS EDUARDO MACHADO OURINHOS",
+			"name": "CARLOS EDUARDO MACHADO OURINHOS",
+			"val": 6.370938100944766,
+			"desc": 207.02,
+			"group": "CARLOS EDUARDO MACHADO OURINHOS"
+		},
+		{
+			"id": 7989,
+			"name": 100.01,
+			"val": 2.0000434272768626,
+			"group": "CARLOS EDUARDO MACHADO OURINHOS"
+		},
+		{
+			"id": 7988,
+			"name": 107.01,
+			"val": 2.0294243640580163,
+			"group": "CARLOS EDUARDO MACHADO OURINHOS"
+		},
+		{
+			"id": "AUTO POSTO GUACU BRASIL LTDA",
+			"name": "AUTO POSTO GUACU BRASIL LTDA",
+			"val": 2.150012625811177,
+			"desc": 84.07,
+			"group": "AUTO POSTO GUACU BRASIL LTDA"
+		},
+		{
+			"id": 7975,
+			"name": 84.07,
+			"val": 1.924641047417163,
+			"group": "AUTO POSTO GUACU BRASIL LTDA"
+		},
+		{
+			"id": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"name": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"val": 3.4627201152010367,
+			"desc": 124.4,
+			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
+		},
+		{
+			"id": 7966,
+			"name": 61,
+			"val": 1.7853298350107671,
+			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
+		},
+		{
+			"id": 8053,
+			"name": 63.4,
+			"val": 1.8020892578817327,
+			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 80.27514449361196,
+			"desc": 1849.2,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8049,
+			"name": 1519.2,
+			"val": 3.181614951728961,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8048,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "Pedrinho Boarato",
+			"name": "Pedrinho Boarato",
+			"val": 357.64789778815134,
+			"desc": 7000,
+			"group": "Pedrinho Boarato"
+		},
+		{
+			"id": 8058,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "Pedrinho Boarato"
+		},
+		{
+			"id": 7969,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "Pedrinho Boarato"
+		},
+		{
+			"id": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 8.343262525549592,
+			"desc": 260,
+			"group": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 7990,
+			"name": 180,
+			"val": 2.255272505103306,
+			"group": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 7991,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "RODOCAMP AUTO SERVICE LTDA",
+			"name": "RODOCAMP AUTO SERVICE LTDA",
+			"val": 2.5607661827686057,
+			"desc": 97,
+			"group": "RODOCAMP AUTO SERVICE LTDA"
+		},
+		{
+			"id": 8007,
+			"name": 97,
+			"val": 1.9867717342662448,
+			"group": "RODOCAMP AUTO SERVICE LTDA"
+		},
+		{
+			"id": "Floriano Pereira da Silva Filho",
+			"name": "Floriano Pereira da Silva Filho",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "Floriano Pereira da Silva Filho"
+		},
+		{
+			"id": 8010,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "Floriano Pereira da Silva Filho"
+		},
+		{
+			"id": "ATA HOTEIS E TURISMO LTDA EPP",
+			"name": "ATA HOTEIS E TURISMO LTDA EPP",
+			"val": 5.038385836573638,
+			"desc": 170,
+			"group": "ATA HOTEIS E TURISMO LTDA EPP"
+		},
+		{
+			"id": 8036,
+			"name": 170,
+			"val": 2.230448921378274,
+			"group": "ATA HOTEIS E TURISMO LTDA EPP"
+		},
+		{
+			"id": "LUNI EMPREENDIMENTOS TURISTICO",
+			"name": "LUNI EMPREENDIMENTOS TURISTICO",
+			"val": 4.650993559560851,
+			"desc": 159,
+			"group": "LUNI EMPREENDIMENTOS TURISTICO"
+		},
+		{
+			"id": 8039,
+			"name": 159,
+			"val": 2.2013971243204513,
+			"group": "LUNI EMPREENDIMENTOS TURISTICO"
+		},
+		{
+			"id": "FILDI HOTEL LTDA",
+			"name": "FILDI HOTEL LTDA",
+			"val": 6.972454842365699,
+			"desc": 223.38,
+			"group": "FILDI HOTEL LTDA"
+		},
+		{
+			"id": 8038,
+			"name": 223.38,
+			"val": 2.349044286602036,
+			"group": "FILDI HOTEL LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.6672418486299991,
+			"desc": 68.38,
+			"group": "RAMAL"
+		},
+		{
+			"id": 8013,
+			"name": 68.38,
+			"val": 1.8349290964605758,
+			"group": "RAMAL"
+		},
+		{
+			"id": "POSTO SEM LIMITES LTDA",
+			"name": "POSTO SEM LIMITES LTDA",
+			"val": 3.6807674585629546,
+			"desc": 130.86,
+			"group": "POSTO SEM LIMITES LTDA"
+		},
+		{
+			"id": 8006,
+			"name": 130.86,
+			"val": 2.116806915962344,
+			"group": "POSTO SEM LIMITES LTDA"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 35.203114836729405,
+			"desc": 897.19,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8015,
+			"name": 897.19,
+			"val": 2.95288442433021,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "PAULISTA CENTER AUTO POSTO LT",
+			"name": "PAULISTA CENTER AUTO POSTO LT",
+			"val": 3.651631262774796,
+			"desc": 130,
+			"group": "PAULISTA CENTER AUTO POSTO LT"
+		},
+		{
+			"id": 7995,
+			"name": 130,
+			"val": 2.113943352306837,
+			"group": "PAULISTA CENTER AUTO POSTO LT"
+		},
+		{
+			"id": "Evangelista Inocencio Batista",
+			"name": "Evangelista Inocencio Batista",
+			"val": 467.05739049838394,
+			"desc": 8900,
+			"group": "Evangelista Inocencio Batista"
+		},
+		{
+			"id": 8009,
+			"name": 8900,
+			"val": 3.949390006644913,
+			"group": "Evangelista Inocencio Batista"
+		},
+		{
+			"id": "TDKOM - INFORMATICA LTDA",
+			"name": "TDKOM - INFORMATICA LTDA",
+			"val": 4.302624438195448,
+			"desc": 149,
+			"group": "TDKOM - INFORMATICA LTDA"
+		},
+		{
+			"id": 7970,
+			"name": 149,
+			"val": 2.173186268412274,
+			"group": "TDKOM - INFORMATICA LTDA"
+		},
+		{
+			"id": "TEREZINHA MARTINS RABELO ME",
+			"name": "TEREZINHA MARTINS RABELO ME",
+			"val": 35.329612288381334,
+			"desc": 900,
+			"group": "TEREZINHA MARTINS RABELO ME"
+		},
+		{
+			"id": 8062,
+			"name": 900,
+			"val": 2.9542425094393248,
+			"group": "TEREZINHA MARTINS RABELO ME"
+		},
+		{
+			"id": "AUTO POSTO FERRARO EIRELI",
+			"name": "AUTO POSTO FERRARO EIRELI",
+			"val": 7.590614971784178,
+			"desc": 240,
+			"group": "AUTO POSTO FERRARO EIRELI"
+		},
+		{
+			"id": 8064,
+			"name": 240,
+			"val": 2.380211241711606,
+			"group": "AUTO POSTO FERRARO EIRELI"
+		},
+		{
+			"id": "DAN INN HOTEL FRANCA LTDA",
+			"name": "DAN INN HOTEL FRANCA LTDA",
+			"val": 2.754838217199486,
+			"desc": 103,
+			"group": "DAN INN HOTEL FRANCA LTDA"
+		},
+		{
+			"id": 8037,
+			"name": 103,
+			"val": 2.012837224705172,
+			"group": "DAN INN HOTEL FRANCA LTDA"
+		},
+		{
+			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"val": 54.86929431551796,
+			"desc": 1322.86,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 8041,
+			"name": 1322.86,
+			"val": 3.1215138846677055,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": "Papelaria ABC Comercio e Industria LTDA",
+			"name": "Papelaria ABC Comercio e Industria LTDA",
+			"val": 1.4459202368837025,
+			"desc": 60.959999999999994,
+			"group": "Papelaria ABC Comercio e Industria LTDA"
+		},
+		{
+			"id": 8057,
+			"name": 24.99,
+			"val": 1.3977662561264501,
+			"group": "Papelaria ABC Comercio e Industria LTDA"
+		},
+		{
+			"id": 8056,
+			"name": 35.97,
+			"val": 1.555940437818511,
+			"group": "Papelaria ABC Comercio e Industria LTDA"
+		},
+		{
+			"id": "LUIS EDUARDO BORGES ANTOGNETTI OURINHOS",
+			"name": "LUIS EDUARDO BORGES ANTOGNETTI OURINHOS",
+			"val": 87.7262742772967,
+			"desc": 2000,
+			"group": "LUIS EDUARDO BORGES ANTOGNETTI OURINHOS"
+		},
+		{
+			"id": 8011,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "LUIS EDUARDO BORGES ANTOGNETTI OURINHOS"
+		},
+		{
+			"id": "companhia jaguari de energia s.a.",
+			"name": "companhia jaguari de energia s.a.",
+			"val": 42.74975271337859,
+			"desc": 1063.01,
+			"group": "companhia jaguari de energia s.a."
+		},
+		{
+			"id": 8052,
+			"name": 764.46,
+			"val": 2.8833547660939853,
+			"group": "companhia jaguari de energia s.a."
+		},
+		{
+			"id": 7965,
+			"name": 298.55,
+			"val": 2.4750170755177985,
+			"group": "companhia jaguari de energia s.a."
+		},
+		{
+			"id": "J DOMINGOS COCENZO e CIA LTDA",
+			"name": "J DOMINGOS COCENZO e CIA LTDA",
+			"val": 2.3377018913526664,
+			"desc": 90.02,
+			"group": "J DOMINGOS COCENZO e CIA LTDA"
+		},
+		{
+			"id": 7992,
+			"name": 90.02,
+			"val": 1.9543390086024601,
+			"group": "J DOMINGOS COCENZO e CIA LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 15.479324146741204,
+			"desc": 440.59,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8050,
+			"name": 197.39,
+			"val": 2.295325147042704,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8051,
+			"name": 243.2,
+			"val": 2.385963570600697,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "RESTAURANTE DO PEPO LTDA ME",
+			"name": "RESTAURANTE DO PEPO LTDA ME",
+			"val": 2.1133863451953414,
+			"desc": 82.9,
+			"group": "RESTAURANTE DO PEPO LTDA ME"
+		},
+		{
+			"id": 8030,
+			"name": 82.9,
+			"val": 1.9185545305502736,
+			"group": "RESTAURANTE DO PEPO LTDA ME"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 1.5891335273573257,
+			"desc": 65.78,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 8034,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "ANNA PREMIER AUTO POSTO LTDA",
+			"name": "ANNA PREMIER AUTO POSTO LTDA",
+			"val": 8.52600518389222,
+			"desc": 264.82,
+			"group": "ANNA PREMIER AUTO POSTO LTDA"
+		},
+		{
+			"id": 7972,
+			"name": 159.12,
+			"val": 2.201724770116379,
+			"group": "ANNA PREMIER AUTO POSTO LTDA"
+		},
+		{
+			"id": 8063,
+			"name": 105.7,
+			"val": 2.024074987307426,
+			"group": "ANNA PREMIER AUTO POSTO LTDA"
+		},
+		{
+			"id": "AUTO POSTO MB 1 DE OURINHOS LTDA",
+			"name": "AUTO POSTO MB 1 DE OURINHOS LTDA",
+			"val": 2.9844562088228948,
+			"desc": 110.02,
+			"group": "AUTO POSTO MB 1 DE OURINHOS LTDA"
+		},
+		{
+			"id": 7976,
+			"name": 110.02,
+			"val": 2.041471640613747,
+			"group": "AUTO POSTO MB 1 DE OURINHOS LTDA"
+		},
+		{
+			"id": "SUPERINTENDENCIA DE AGUA E ESGOTO DE OURINHOS",
+			"name": "SUPERINTENDENCIA DE AGUA E ESGOTO DE OURINHOS",
+			"val": 5.430961541506049,
+			"desc": 181.03,
+			"group": "SUPERINTENDENCIA DE AGUA E ESGOTO DE OURINHOS"
+		},
+		{
+			"id": 8061,
+			"name": 181.03,
+			"val": 2.257750551415255,
+			"group": "SUPERINTENDENCIA DE AGUA E ESGOTO DE OURINHOS"
+		},
+		{
+			"id": "Jorge Shayed",
+			"name": "Jorge Shayed",
+			"val": 369.0368983070507,
+			"desc": 7200,
+			"group": "Jorge Shayed"
+		},
+		{
+			"id": 7967,
+			"name": 3600,
+			"val": 3.5563025007672873,
+			"group": "Jorge Shayed"
+		},
+		{
+			"id": 8055,
+			"name": 3600,
+			"val": 3.5563025007672873,
+			"group": "Jorge Shayed"
+		},
+		{
+			"id": "LANCHES RODOSERV PRUDENTE LTDA - ME",
+			"name": "LANCHES RODOSERV PRUDENTE LTDA - ME",
+			"val": 0.376671765007478,
+			"desc": 21.33,
+			"group": "LANCHES RODOSERV PRUDENTE LTDA - ME"
+		},
+		{
+			"id": 8027,
+			"name": 21.33,
+			"val": 1.3289908554494287,
+			"group": "LANCHES RODOSERV PRUDENTE LTDA - ME"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 37.62686406326393,
+			"desc": 950.84,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 8012,
+			"name": 950.84,
+			"val": 2.978107443369429,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "JARDINS RIBEIRAO SERVICOS AUTOMOTIVOS LTDA",
+			"name": "JARDINS RIBEIRAO SERVICOS AUTOMOTIVOS LTDA",
+			"val": 2.9854431504688463,
+			"desc": 110.05,
+			"group": "JARDINS RIBEIRAO SERVICOS AUTOMOTIVOS LTDA"
+		},
+		{
+			"id": 7993,
+			"name": 110.05,
+			"val": 2.041590046889367,
+			"group": "JARDINS RIBEIRAO SERVICOS AUTOMOTIVOS LTDA"
+		},
+		{
+			"id": "MA SERVICOS DE AUTO POSTO LTDA",
+			"name": "MA SERVICOS DE AUTO POSTO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "MA SERVICOS DE AUTO POSTO LTDA"
+		},
+		{
+			"id": 7994,
+			"name": 100,
+			"val": 2,
+			"group": "MA SERVICOS DE AUTO POSTO LTDA"
+		},
+		{
+			"id": "AUTO POSTO CATANDUVA LT",
+			"name": "AUTO POSTO CATANDUVA LT",
+			"val": 3.6865308067924927,
+			"desc": 131.03,
+			"group": "AUTO POSTO CATANDUVA LT"
+		},
+		{
+			"id": 7974,
+			"name": 131.03,
+			"val": 2.1173707410209057,
+			"group": "AUTO POSTO CATANDUVA LT"
+		},
+		{
+			"id": "Prefeitura Municipal de Bauru - Secretaria de Economia e Finanças",
+			"name": "Prefeitura Municipal de Bauru - Secretaria de Economia e Finanças",
+			"val": 19.860267276573197,
+			"desc": 546.04,
+			"group": "Prefeitura Municipal de Bauru - Secretaria de Economia e Finanças"
+		},
+		{
+			"id": 8059,
+			"name": 546.04,
+			"val": 2.7372244579849174,
+			"group": "Prefeitura Municipal de Bauru - Secretaria de Economia e Finanças"
+		},
+		{
+			"id": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"name": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"val": 1.3532130422561988,
+			"desc": 57.8,
+			"group": "AEROTRIO ALIMENTOS LIMITADA ME"
+		},
+		{
+			"id": 8025,
+			"name": 57.8,
+			"val": 1.761927838420529,
+			"group": "AEROTRIO ALIMENTOS LIMITADA ME"
+		},
+		{
+			"id": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA",
+			"name": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA",
+			"val": 2.4754052584700585,
+			"desc": 94.34,
+			"group": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA"
+		},
+		{
+			"id": 8029,
+			"name": 12.5,
+			"val": 1.0969100130080565,
+			"group": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA"
+		},
+		{
+			"id": 8028,
+			"name": 81.84,
+			"val": 1.9129656207041037,
+			"group": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA"
+		},
+		{
+			"id": "WRC RESTAURANTES LTDA",
+			"name": "WRC RESTAURANTES LTDA",
+			"val": 1.2718991369754251,
+			"desc": 55,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 8035,
+			"name": 55,
+			"val": 1.7403626894942439,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": "RODOSERV STAR LTDA",
+			"name": "RODOSERV STAR LTDA",
+			"val": 0.5359247630107077,
+			"desc": 27.9,
+			"group": "RODOSERV STAR LTDA"
+		},
+		{
+			"id": 8031,
+			"name": 27.9,
+			"val": 1.4456042032735976,
+			"group": "RODOSERV STAR LTDA"
+		},
+		{
+			"id": "POSTO RODOSERV STAR LTDA",
+			"name": "POSTO RODOSERV STAR LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO RODOSERV STAR LTDA"
+		},
+		{
+			"id": 8005,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO RODOSERV STAR LTDA"
+		},
+		{
+			"id": "DEPARTAMENTO DE AGUA E ESGOTO",
+			"name": "DEPARTAMENTO DE AGUA E ESGOTO",
+			"val": 2.589743591466916,
+			"desc": 97.9,
+			"group": "DEPARTAMENTO DE AGUA E ESGOTO"
+		},
+		{
+			"id": 8054,
+			"name": 97.9,
+			"val": 1.990782691803138,
+			"group": "DEPARTAMENTO DE AGUA E ESGOTO"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CONC. RODOVIAS DO TIETÊ",
+			"value": 16.8
+		},
+		{
+			"source": "CONC. RODOVIAS DO TIETÊ",
+			"target": 8043,
+			"value": 5.7
+		},
+		{
+			"source": "CONC. RODOVIAS DO TIETÊ",
+			"target": 8042,
+			"value": 5.9
+		},
+		{
+			"source": "CONC. RODOVIAS DO TIETÊ",
+			"target": 8044,
+			"value": 5.2
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"value": 1438.28
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7981,
+			"value": 153
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7977,
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7986,
+			"value": 134.3
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7982,
+			"value": 134.08
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7983,
+			"value": 120
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7978,
+			"value": 170.2
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7985,
+			"value": 94.09
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7987,
+			"value": 167.82
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7979,
+			"value": 105.4
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7980,
+			"value": 146.35
+		},
+		{
+			"source": "AUTO POSTO MIRANTE DE OURINHOS LTDA",
+			"target": 7984,
+			"value": 63.04
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 1605
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 7971,
+			"value": 1605
+		},
+		{
+			"source": -100,
+			"target": "MUNICIPIO DE OURINHOS",
+			"value": 248.3
+		},
+		{
+			"source": "MUNICIPIO DE OURINHOS",
+			"target": 7968,
+			"value": 248.3
+		},
+		{
+			"source": -100,
+			"target": "Rodosnack São Carlos Rest. e Lanchonete Ltda",
+			"value": 54.77
+		},
+		{
+			"source": "Rodosnack São Carlos Rest. e Lanchonete Ltda",
+			"target": 8032,
+			"value": 54.77
+		},
+		{
+			"source": -100,
+			"target": "Vou de Taxi",
+			"value": 70
+		},
+		{
+			"source": "Vou de Taxi",
+			"target": 8047,
+			"value": 70
+		},
+		{
+			"source": -100,
+			"target": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A",
+			"value": 16.6
+		},
+		{
+			"source": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A",
+			"target": 8046,
+			"value": 8.3
+		},
+		{
+			"source": "CONCESSIONARIA AUTO RAPOSO TAVARES S/A",
+			"target": 8045,
+			"value": 8.3
+		},
+		{
+			"source": -100,
+			"target": "POSTO GIGANTE DE OURINHOS LTDA",
+			"value": 217.69
+		},
+		{
+			"source": "POSTO GIGANTE DE OURINHOS LTDA",
+			"target": 7997,
+			"value": 56.69
+		},
+		{
+			"source": "POSTO GIGANTE DE OURINHOS LTDA",
+			"target": 7996,
+			"value": 161
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 58.91
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 8016,
+			"value": 58.91
+		},
+		{
+			"source": -100,
+			"target": "SIQUELERO AUTO POSTO LTDA",
+			"value": 124
+		},
+		{
+			"source": "SIQUELERO AUTO POSTO LTDA",
+			"target": 8008,
+			"value": 124
+		},
+		{
+			"source": -100,
+			"target": "POSTO ICCAR LTDA",
+			"value": 150.01
+		},
+		{
+			"source": "POSTO ICCAR LTDA",
+			"target": 7998,
+			"value": 92.01
+		},
+		{
+			"source": "POSTO ICCAR LTDA",
+			"target": 7999,
+			"value": 58
+		},
+		{
+			"source": -100,
+			"target": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"value": 400.49999999999994
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8021,
+			"value": 52.6
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8023,
+			"value": 49.7
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8020,
+			"value": 49.7
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8017,
+			"value": 49.7
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8019,
+			"value": 49.7
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8024,
+			"value": 49.7
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8022,
+			"value": 49.7
+		},
+		{
+			"source": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 8018,
+			"value": 49.7
+		},
+		{
+			"source": -100,
+			"target": "POSTO RODOSERV LT",
+			"value": 769.3399999999999
+		},
+		{
+			"source": "POSTO RODOSERV LT",
+			"target": 8003,
+			"value": 118.62
+		},
+		{
+			"source": "POSTO RODOSERV LT",
+			"target": 8004,
+			"value": 178.02
+		},
+		{
+			"source": "POSTO RODOSERV LT",
+			"target": 8000,
+			"value": 146.01
+		},
+		{
+			"source": "POSTO RODOSERV LT",
+			"target": 8001,
+			"value": 176.65
+		},
+		{
+			"source": "POSTO RODOSERV LT",
+			"target": 8002,
+			"value": 150.04
+		},
+		{
+			"source": -100,
+			"target": "Prefeitura Municipal de Ourinhos",
+			"value": 248.3
+		},
+		{
+			"source": "Prefeitura Municipal de Ourinhos",
+			"target": 8060,
+			"value": 248.3
+		},
+		{
+			"source": -100,
+			"target": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
+			"value": 20
+		},
+		{
+			"source": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
+			"target": 8033,
+			"value": 20
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A",
+			"value": 79.99
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 8014,
+			"value": 79.99
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ABS LTDA",
+			"value": 155
+		},
+		{
+			"source": "AUTO POSTO ABS LTDA",
+			"target": 7973,
+			"value": 155
+		},
+		{
+			"source": -100,
+			"target": "CHEF ERICA ALIMENTOS EIRELI",
+			"value": 37.84
+		},
+		{
+			"source": "CHEF ERICA ALIMENTOS EIRELI",
+			"target": 8026,
+			"value": 37.84
+		},
+		{
+			"source": -100,
+			"target": "Cantarello Veiculos e Peças LTDA",
+			"value": 3500
+		},
+		{
+			"source": "Cantarello Veiculos e Peças LTDA",
+			"target": 8040,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "CARLOS EDUARDO MACHADO OURINHOS",
+			"value": 207.02
+		},
+		{
+			"source": "CARLOS EDUARDO MACHADO OURINHOS",
+			"target": 7989,
+			"value": 100.01
+		},
+		{
+			"source": "CARLOS EDUARDO MACHADO OURINHOS",
+			"target": 7988,
+			"value": 107.01
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GUACU BRASIL LTDA",
+			"value": 84.07
+		},
+		{
+			"source": "AUTO POSTO GUACU BRASIL LTDA",
+			"target": 7975,
+			"value": 84.07
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"value": 124.4
+		},
+		{
+			"source": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"target": 7966,
+			"value": 61
+		},
+		{
+			"source": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"target": 8053,
+			"value": 63.4
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 1849.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8049,
+			"value": 1519.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8048,
+			"value": 330
+		},
+		{
+			"source": -100,
+			"target": "Pedrinho Boarato",
+			"value": 7000
+		},
+		{
+			"source": "Pedrinho Boarato",
+			"target": 8058,
+			"value": 3500
+		},
+		{
+			"source": "Pedrinho Boarato",
+			"target": 7969,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 260
+		},
+		{
+			"source": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 7990,
+			"value": 180
+		},
+		{
+			"source": "DEL COR COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 7991,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "RODOCAMP AUTO SERVICE LTDA",
+			"value": 97
+		},
+		{
+			"source": "RODOCAMP AUTO SERVICE LTDA",
+			"target": 8007,
+			"value": 97
+		},
+		{
+			"source": -100,
+			"target": "Floriano Pereira da Silva Filho",
+			"value": 1500
+		},
+		{
+			"source": "Floriano Pereira da Silva Filho",
+			"target": 8010,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "ATA HOTEIS E TURISMO LTDA EPP",
+			"value": 170
+		},
+		{
+			"source": "ATA HOTEIS E TURISMO LTDA EPP",
+			"target": 8036,
+			"value": 170
+		},
+		{
+			"source": -100,
+			"target": "LUNI EMPREENDIMENTOS TURISTICO",
+			"value": 159
+		},
+		{
+			"source": "LUNI EMPREENDIMENTOS TURISTICO",
+			"target": 8039,
+			"value": 159
+		},
+		{
+			"source": -100,
+			"target": "FILDI HOTEL LTDA",
+			"value": 223.38
+		},
+		{
+			"source": "FILDI HOTEL LTDA",
+			"target": 8038,
+			"value": 223.38
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 68.38
+		},
+		{
+			"source": "RAMAL",
+			"target": 8013,
+			"value": 68.38
+		},
+		{
+			"source": -100,
+			"target": "POSTO SEM LIMITES LTDA",
+			"value": 130.86
+		},
+		{
+			"source": "POSTO SEM LIMITES LTDA",
+			"target": 8006,
+			"value": 130.86
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 897.19
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8015,
+			"value": 897.19
+		},
+		{
+			"source": -100,
+			"target": "PAULISTA CENTER AUTO POSTO LT",
+			"value": 130
+		},
+		{
+			"source": "PAULISTA CENTER AUTO POSTO LT",
+			"target": 7995,
+			"value": 130
+		},
+		{
+			"source": -100,
+			"target": "Evangelista Inocencio Batista",
+			"value": 8900
+		},
+		{
+			"source": "Evangelista Inocencio Batista",
+			"target": 8009,
+			"value": 8900
+		},
+		{
+			"source": -100,
+			"target": "TDKOM - INFORMATICA LTDA",
+			"value": 149
+		},
+		{
+			"source": "TDKOM - INFORMATICA LTDA",
+			"target": 7970,
+			"value": 149
+		},
+		{
+			"source": -100,
+			"target": "TEREZINHA MARTINS RABELO ME",
+			"value": 900
+		},
+		{
+			"source": "TEREZINHA MARTINS RABELO ME",
+			"target": 8062,
+			"value": 900
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO FERRARO EIRELI",
+			"value": 240
+		},
+		{
+			"source": "AUTO POSTO FERRARO EIRELI",
+			"target": 8064,
+			"value": 240
+		},
+		{
+			"source": -100,
+			"target": "DAN INN HOTEL FRANCA LTDA",
+			"value": 103
+		},
+		{
+			"source": "DAN INN HOTEL FRANCA LTDA",
+			"target": 8037,
+			"value": 103
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"value": 1322.86
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 8041,
+			"value": 1322.86
+		},
+		{
+			"source": -100,
+			"target": "Papelaria ABC Comercio e Industria LTDA",
+			"value": 60.959999999999994
+		},
+		{
+			"source": "Papelaria ABC Comercio e Industria LTDA",
+			"target": 8057,
+			"value": 24.99
+		},
+		{
+			"source": "Papelaria ABC Comercio e Industria LTDA",
+			"target": 8056,
+			"value": 35.97
+		},
+		{
+			"source": -100,
+			"target": "LUIS EDUARDO BORGES ANTOGNETTI OURINHOS",
+			"value": 2000
+		},
+		{
+			"source": "LUIS EDUARDO BORGES ANTOGNETTI OURINHOS",
+			"target": 8011,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "companhia jaguari de energia s.a.",
+			"value": 1063.01
+		},
+		{
+			"source": "companhia jaguari de energia s.a.",
+			"target": 8052,
+			"value": 764.46
+		},
+		{
+			"source": "companhia jaguari de energia s.a.",
+			"target": 7965,
+			"value": 298.55
+		},
+		{
+			"source": -100,
+			"target": "J DOMINGOS COCENZO e CIA LTDA",
+			"value": 90.02
+		},
+		{
+			"source": "J DOMINGOS COCENZO e CIA LTDA",
+			"target": 7992,
+			"value": 90.02
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 440.59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8050,
+			"value": 197.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8051,
+			"value": 243.2
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE DO PEPO LTDA ME",
+			"value": 82.9
+		},
+		{
+			"source": "RESTAURANTE DO PEPO LTDA ME",
+			"target": 8030,
+			"value": 82.9
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 8034,
+			"value": 65.78
+		},
+		{
+			"source": -100,
+			"target": "ANNA PREMIER AUTO POSTO LTDA",
+			"value": 264.82
+		},
+		{
+			"source": "ANNA PREMIER AUTO POSTO LTDA",
+			"target": 7972,
+			"value": 159.12
+		},
+		{
+			"source": "ANNA PREMIER AUTO POSTO LTDA",
+			"target": 8063,
+			"value": 105.7
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MB 1 DE OURINHOS LTDA",
+			"value": 110.02
+		},
+		{
+			"source": "AUTO POSTO MB 1 DE OURINHOS LTDA",
+			"target": 7976,
+			"value": 110.02
+		},
+		{
+			"source": -100,
+			"target": "SUPERINTENDENCIA DE AGUA E ESGOTO DE OURINHOS",
+			"value": 181.03
+		},
+		{
+			"source": "SUPERINTENDENCIA DE AGUA E ESGOTO DE OURINHOS",
+			"target": 8061,
+			"value": 181.03
+		},
+		{
+			"source": -100,
+			"target": "Jorge Shayed",
+			"value": 7200
+		},
+		{
+			"source": "Jorge Shayed",
+			"target": 7967,
+			"value": 3600
+		},
+		{
+			"source": "Jorge Shayed",
+			"target": 8055,
+			"value": 3600
+		},
+		{
+			"source": -100,
+			"target": "LANCHES RODOSERV PRUDENTE LTDA - ME",
+			"value": 21.33
+		},
+		{
+			"source": "LANCHES RODOSERV PRUDENTE LTDA - ME",
+			"target": 8027,
+			"value": 21.33
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 950.84
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 8012,
+			"value": 950.84
+		},
+		{
+			"source": -100,
+			"target": "JARDINS RIBEIRAO SERVICOS AUTOMOTIVOS LTDA",
+			"value": 110.05
+		},
+		{
+			"source": "JARDINS RIBEIRAO SERVICOS AUTOMOTIVOS LTDA",
+			"target": 7993,
+			"value": 110.05
+		},
+		{
+			"source": -100,
+			"target": "MA SERVICOS DE AUTO POSTO LTDA",
+			"value": 100
+		},
+		{
+			"source": "MA SERVICOS DE AUTO POSTO LTDA",
+			"target": 7994,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CATANDUVA LT",
+			"value": 131.03
+		},
+		{
+			"source": "AUTO POSTO CATANDUVA LT",
+			"target": 7974,
+			"value": 131.03
+		},
+		{
+			"source": -100,
+			"target": "Prefeitura Municipal de Bauru - Secretaria de Economia e Finanças",
+			"value": 546.04
+		},
+		{
+			"source": "Prefeitura Municipal de Bauru - Secretaria de Economia e Finanças",
+			"target": 8059,
+			"value": 546.04
+		},
+		{
+			"source": -100,
+			"target": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"value": 57.8
+		},
+		{
+			"source": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"target": 8025,
+			"value": 57.8
+		},
+		{
+			"source": -100,
+			"target": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA",
+			"value": 94.34
+		},
+		{
+			"source": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA",
+			"target": 8029,
+			"value": 12.5
+		},
+		{
+			"source": "QUINTA DO MARQUES RESTAURANTE E LANCHES LTDA",
+			"target": 8028,
+			"value": 81.84
+		},
+		{
+			"source": -100,
+			"target": "WRC RESTAURANTES LTDA",
+			"value": 55
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 8035,
+			"value": 55
+		},
+		{
+			"source": -100,
+			"target": "RODOSERV STAR LTDA",
+			"value": 27.9
+		},
+		{
+			"source": "RODOSERV STAR LTDA",
+			"target": 8031,
+			"value": 27.9
+		},
+		{
+			"source": -100,
+			"target": "POSTO RODOSERV STAR LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO RODOSERV STAR LTDA",
+			"target": 8005,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "DEPARTAMENTO DE AGUA E ESGOTO",
+			"value": 97.9
+		},
+		{
+			"source": "DEPARTAMENTO DE AGUA E ESGOTO",
+			"target": 8054,
+			"value": 97.9
+		}
+	]
+}

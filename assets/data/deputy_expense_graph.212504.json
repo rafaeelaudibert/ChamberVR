@@ -1,0 +1,335 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "FERNANDO BORJA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"val": 11.29147085667183,
+			"desc": 336.30999999999995,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19139,
+			"name": 6.4,
+			"val": 0.8061799739838872,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19152,
+			"name": 8.03,
+			"val": 0.9047155452786809,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19156,
+			"name": 12.2,
+			"val": 1.0863598306747482,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19146,
+			"name": 17.37,
+			"val": 1.2397998184470986,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19154,
+			"name": 11.03,
+			"val": 1.0425755124401905,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19149,
+			"name": 12.2,
+			"val": 1.0863598306747482,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19134,
+			"name": 7.8,
+			"val": 0.8920946026904804,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19137,
+			"name": 7.23,
+			"val": 0.8591382972945308,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19143,
+			"name": 8.11,
+			"val": 0.909020854211156,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19140,
+			"name": 19.18,
+			"val": 1.2828486028346449,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19144,
+			"name": 21.71,
+			"val": 1.33665982345442,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19150,
+			"name": 10.75,
+			"val": 1.0314084642516241,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19133,
+			"name": 27.78,
+			"val": 1.4437322414015967,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19153,
+			"name": 12.23,
+			"val": 1.0874264570362855,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19135,
+			"name": 21.23,
+			"val": 1.3269499941659988,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19151,
+			"name": 6.14,
+			"val": 0.7881683711411677,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19148,
+			"name": 11.03,
+			"val": 1.0425755124401905,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19136,
+			"name": 10.38,
+			"val": 1.0161973535124391,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19142,
+			"name": 9.16,
+			"val": 0.9618954736678504,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19155,
+			"name": 7.9,
+			"val": 0.8976270912904414,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19132,
+			"name": 26.48,
+			"val": 1.4229179807676624,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19138,
+			"name": 27.02,
+			"val": 1.4316853446860118,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19145,
+			"name": 21.19,
+			"val": 1.3261309567107946,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19147,
+			"name": 6.14,
+			"val": 0.7881683711411677,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 19141,
+			"name": 7.62,
+			"val": 0.8819549713396004,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": "LATAM AIRLINES",
+			"name": "LATAM AIRLINES",
+			"val": 6.574923931405951,
+			"desc": 212.59,
+			"group": "LATAM AIRLINES"
+		},
+		{
+			"id": 19131,
+			"name": 212.59,
+			"val": 2.327542831932522,
+			"group": "LATAM AIRLINES"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"value": 336.30999999999995
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19139,
+			"value": 6.4
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19152,
+			"value": 8.03
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19156,
+			"value": 12.2
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19146,
+			"value": 17.37
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19154,
+			"value": 11.03
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19149,
+			"value": 12.2
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19134,
+			"value": 7.8
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19137,
+			"value": 7.23
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19143,
+			"value": 8.11
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19140,
+			"value": 19.18
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19144,
+			"value": 21.71
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19150,
+			"value": 10.75
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19133,
+			"value": 27.78
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19153,
+			"value": 12.23
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19135,
+			"value": 21.23
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19151,
+			"value": 6.14
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19148,
+			"value": 11.03
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19136,
+			"value": 10.38
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19142,
+			"value": 9.16
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19155,
+			"value": 7.9
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19132,
+			"value": 26.48
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19138,
+			"value": 27.02
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19145,
+			"value": 21.19
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19147,
+			"value": 6.14
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 19141,
+			"value": 7.62
+		},
+		{
+			"source": -100,
+			"target": "LATAM AIRLINES",
+			"value": 212.59
+		},
+		{
+			"source": "LATAM AIRLINES",
+			"target": 19131,
+			"value": 212.59
+		}
+	]
+}

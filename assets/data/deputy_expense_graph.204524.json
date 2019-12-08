@@ -1,0 +1,1665 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PINHEIRINHO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "POSTO JAVARI EIRELI",
+			"name": "POSTO JAVARI EIRELI",
+			"val": 65.71900308721038,
+			"desc": 1550.23,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41347,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41288,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41294,
+			"name": 145.18,
+			"val": 2.161906792067279,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41295,
+			"name": 140.01,
+			"val": 2.1461590556048185,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41287,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41289,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41296,
+			"name": 120.01,
+			"val": 2.079217435746567,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41291,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41349,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41350,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41293,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41348,
+			"name": 195.03,
+			"val": 2.290101420759143,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41290,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": 41292,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO JAVARI EIRELI"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 247.30734239199253,
+			"desc": 5028.27,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41327,
+			"name": 999.39,
+			"val": 2.9997349995326767,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41330,
+			"name": 863.05,
+			"val": 2.9360359568914225,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41328,
+			"name": 1389.39,
+			"val": 3.1428241687571017,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41329,
+			"name": 697.05,
+			"val": 2.84326393153455,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41326,
+			"name": 749.39,
+			"val": 2.8747078934898376,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41325,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "POSTO TRES PODERES LTDA",
+			"name": "POSTO TRES PODERES LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "POSTO TRES PODERES LTDA"
+		},
+		{
+			"id": 41358,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO TRES PODERES LTDA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 3.7045070547146515,
+			"desc": 131.56,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 41371,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 41372,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "Posto Londrina Ltda",
+			"name": "Posto Londrina Ltda",
+			"val": 32.23002697392242,
+			"desc": 830.81,
+			"group": "Posto Londrina Ltda"
+		},
+		{
+			"id": 41352,
+			"name": 268.02,
+			"val": 2.4281672028554824,
+			"group": "Posto Londrina Ltda"
+		},
+		{
+			"id": 41298,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "Posto Londrina Ltda"
+		},
+		{
+			"id": 41301,
+			"name": 100,
+			"val": 2,
+			"group": "Posto Londrina Ltda"
+		},
+		{
+			"id": 41299,
+			"name": 100,
+			"val": 2,
+			"group": "Posto Londrina Ltda"
+		},
+		{
+			"id": 41300,
+			"name": 150.05,
+			"val": 2.1762359997608716,
+			"group": "Posto Londrina Ltda"
+		},
+		{
+			"id": 41297,
+			"name": 162.74,
+			"val": 2.2114943116595946,
+			"group": "Posto Londrina Ltda"
+		},
+		{
+			"id": "POSTO TRIANGULO IBIRITE",
+			"name": "POSTO TRIANGULO IBIRITE",
+			"val": 29.97531258028289,
+			"desc": 780.01,
+			"group": "POSTO TRIANGULO IBIRITE"
+		},
+		{
+			"id": 41307,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO TRIANGULO IBIRITE"
+		},
+		{
+			"id": 41360,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO TRIANGULO IBIRITE"
+		},
+		{
+			"id": 41359,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO TRIANGULO IBIRITE"
+		},
+		{
+			"id": 41361,
+			"name": 280.01,
+			"val": 2.447173541582463,
+			"group": "POSTO TRIANGULO IBIRITE"
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"val": 1.0013066476612014,
+			"desc": 45.459999999999994,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 41319,
+			"name": 19.29,
+			"val": 1.2853322276438846,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 41321,
+			"name": 17.09,
+			"val": 1.2327420627207368,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 41320,
+			"name": 9.08,
+			"val": 0.9580858485210851,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
+			"name": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
+			"val": 2.2737199297603286,
+			"desc": 88,
+			"group": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA"
+		},
+		{
+			"id": 41316,
+			"name": 18,
+			"val": 1.255272505103306,
+			"group": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA"
+		},
+		{
+			"id": 41315,
+			"name": 18,
+			"val": 1.255272505103306,
+			"group": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA"
+		},
+		{
+			"id": 41314,
+			"name": 22,
+			"val": 1.3424226808222062,
+			"group": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA"
+		},
+		{
+			"id": 41317,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA"
+		},
+		{
+			"id": "Posto Formula BR ltda",
+			"name": "Posto Formula BR ltda",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "Posto Formula BR ltda"
+		},
+		{
+			"id": 41286,
+			"name": 100,
+			"val": 2,
+			"group": "Posto Formula BR ltda"
+		},
+		{
+			"id": "AUTO POSTO BETH LTDA",
+			"name": "AUTO POSTO BETH LTDA",
+			"val": 7.8800391340894045,
+			"desc": 247.72,
+			"group": "AUTO POSTO BETH LTDA"
+		},
+		{
+			"id": 41333,
+			"name": 247.72,
+			"val": 2.3939610713375337,
+			"group": "AUTO POSTO BETH LTDA"
+		},
+		{
+			"id": "SINTAXI/DF",
+			"name": "SINTAXI/DF",
+			"val": 0.345754247590989,
+			"desc": 20,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 41318,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": "REDE 1000 LTDA",
+			"name": "REDE 1000 LTDA",
+			"val": 9.874195569007611,
+			"desc": 299.99,
+			"group": "REDE 1000 LTDA"
+		},
+		{
+			"id": 41362,
+			"name": 99.98,
+			"val": 1.9999131324165713,
+			"group": "REDE 1000 LTDA"
+		},
+		{
+			"id": 41363,
+			"name": 200.01,
+			"val": 2.3010517098452263,
+			"group": "REDE 1000 LTDA"
+		},
+		{
+			"id": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"name": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"val": 49.66965859730954,
+			"desc": 1212.23,
+			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
+		},
+		{
+			"id": 41339,
+			"name": 273.28,
+			"val": 2.436607849008911,
+			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
+		},
+		{
+			"id": 41340,
+			"name": 187.61,
+			"val": 2.2732559834517505,
+			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
+		},
+		{
+			"id": 41342,
+			"name": 211.1,
+			"val": 2.3244882333076564,
+			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
+		},
+		{
+			"id": 41281,
+			"name": 100,
+			"val": 2,
+			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
+		},
+		{
+			"id": 41341,
+			"name": 179.99,
+			"val": 2.2552483769618568,
+			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
+		},
+		{
+			"id": 41282,
+			"name": 260.25,
+			"val": 2.4153907381825737,
+			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
+		},
+		{
+			"id": "POSTO SARZEDO III LTDA",
+			"name": "POSTO SARZEDO III LTDA",
+			"val": 7.96841871542161,
+			"desc": 250.07,
+			"group": "POSTO SARZEDO III LTDA"
+		},
+		{
+			"id": 41304,
+			"name": 250.07,
+			"val": 2.398061594105804,
+			"group": "POSTO SARZEDO III LTDA"
+		},
+		{
+			"id": "LUBRIMIL LTDA",
+			"name": "LUBRIMIL LTDA",
+			"val": 3.9923984894891817,
+			"desc": 140,
+			"group": "LUBRIMIL LTDA"
+		},
+		{
+			"id": 41338,
+			"name": 140,
+			"val": 2.146128035678238,
+			"group": "LUBRIMIL LTDA"
+		},
+		{
+			"id": "PETRO OURO LTDA",
+			"name": "PETRO OURO LTDA",
+			"val": 29.49044273532692,
+			"desc": 769.03,
+			"group": "PETRO OURO LTDA"
+		},
+		{
+			"id": 41285,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "PETRO OURO LTDA"
+		},
+		{
+			"id": 41283,
+			"name": 234.86,
+			"val": 2.3708090565454953,
+			"group": "PETRO OURO LTDA"
+		},
+		{
+			"id": 41284,
+			"name": 284.17,
+			"val": 2.453578227278418,
+			"group": "PETRO OURO LTDA"
+		},
+		{
+			"id": "POSTO PIONEIRO LTDA",
+			"name": "POSTO PIONEIRO LTDA",
+			"val": 8.952193050108423,
+			"desc": 276.01,
+			"group": "POSTO PIONEIRO LTDA"
+		},
+		{
+			"id": 41303,
+			"name": 276.01,
+			"val": 2.44092481708748,
+			"group": "POSTO PIONEIRO LTDA"
+		},
+		{
+			"id": "POSTO LIBERDADE LTDA",
+			"name": "POSTO LIBERDADE LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO LIBERDADE LTDA"
+		},
+		{
+			"id": 41351,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO LIBERDADE LTDA"
+		},
+		{
+			"id": "Rádio Táxi Alvorada Ltda",
+			"name": "Rádio Táxi Alvorada Ltda",
+			"val": 0.9059093270268318,
+			"desc": 42,
+			"group": "Rádio Táxi Alvorada Ltda"
+		},
+		{
+			"id": 41377,
+			"name": 24,
+			"val": 1.380211241711606,
+			"group": "Rádio Táxi Alvorada Ltda"
+		},
+		{
+			"id": 41376,
+			"name": 18,
+			"val": 1.255272505103306,
+			"group": "Rádio Táxi Alvorada Ltda"
+		},
+		{
+			"id": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
+			"name": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "VITORIA ORGANIZACOES EM PETROLEO LTDA"
+		},
+		{
+			"id": 41364,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "VITORIA ORGANIZACOES EM PETROLEO LTDA"
+		},
+		{
+			"id": "OPERAR HOTEIS LTDA",
+			"name": "OPERAR HOTEIS LTDA",
+			"val": 4.124709679804197,
+			"desc": 143.85,
+			"group": "OPERAR HOTEIS LTDA"
+		},
+		{
+			"id": 41373,
+			"name": 143.85,
+			"val": 2.157909866226345,
+			"group": "OPERAR HOTEIS LTDA"
+		},
+		{
+			"id": "UNITAXI DF",
+			"name": "UNITAXI DF",
+			"val": 1.7161992447445908,
+			"desc": 70,
+			"group": "UNITAXI DF"
+		},
+		{
+			"id": 41323,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "UNITAXI DF"
+		},
+		{
+			"id": 41322,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "UNITAXI DF"
+		},
+		{
+			"id": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
+			"name": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
+			"val": 4.4620601116449645,
+			"desc": 153.59,
+			"group": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 41337,
+			"name": 153.59,
+			"val": 2.186362940394731,
+			"group": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 14.347770773876864,
+			"desc": 412.79999999999995,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 41369,
+			"name": 194.7,
+			"val": 2.2893659515200318,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 41311,
+			"name": 218.1,
+			"val": 2.3386556655787003,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "locarnew veiculos ltda",
+			"name": "locarnew veiculos ltda",
+			"val": 1358.5310771159209,
+			"desc": 23400,
+			"group": "locarnew veiculos ltda"
+		},
+		{
+			"id": 41375,
+			"name": 6500,
+			"val": 3.8129133566428557,
+			"group": "locarnew veiculos ltda"
+		},
+		{
+			"id": 41374,
+			"name": 5200,
+			"val": 3.716003343634799,
+			"group": "locarnew veiculos ltda"
+		},
+		{
+			"id": 41312,
+			"name": 6500,
+			"val": 3.8129133566428557,
+			"group": "locarnew veiculos ltda"
+		},
+		{
+			"id": 41313,
+			"name": 5200,
+			"val": 3.716003343634799,
+			"group": "locarnew veiculos ltda"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 0.10406855533914497,
+			"desc": 8.45,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 41367,
+			"name": 8.45,
+			"val": 0.9268567089496923,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "AUTO POSTO IRMÃOS MAIA LTDA",
+			"name": "AUTO POSTO IRMÃOS MAIA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO IRMÃOS MAIA LTDA"
+		},
+		{
+			"id": 41279,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO IRMÃOS MAIA LTDA"
+		},
+		{
+			"id": 41280,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO IRMÃOS MAIA LTDA"
+		},
+		{
+			"id": "POSTO ABRIL ROSARIO LTDA",
+			"name": "POSTO ABRIL ROSARIO LTDA",
+			"val": 6.663445850646936,
+			"desc": 215,
+			"group": "POSTO ABRIL ROSARIO LTDA"
+		},
+		{
+			"id": 41343,
+			"name": 115,
+			"val": 2.060697840353612,
+			"group": "POSTO ABRIL ROSARIO LTDA"
+		},
+		{
+			"id": 41344,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO ABRIL ROSARIO LTDA"
+		},
+		{
+			"id": "POSTO SARZEDO LTDA",
+			"name": "POSTO SARZEDO LTDA",
+			"val": 23.00864733777513,
+			"desc": 620.09,
+			"group": "POSTO SARZEDO LTDA"
+		},
+		{
+			"id": 41355,
+			"name": 250.02,
+			"val": 2.3979747508409215,
+			"group": "POSTO SARZEDO LTDA"
+		},
+		{
+			"id": 41356,
+			"name": 220.07,
+			"val": 2.3425608434508316,
+			"group": "POSTO SARZEDO LTDA"
+		},
+		{
+			"id": 41354,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO SARZEDO LTDA"
+		},
+		{
+			"id": "posto tabooes ltda",
+			"name": "posto tabooes ltda",
+			"val": 24.236927705254185,
+			"desc": 648.65,
+			"group": "posto tabooes ltda"
+		},
+		{
+			"id": 41305,
+			"name": 248.29,
+			"val": 2.3949592284862,
+			"group": "posto tabooes ltda"
+		},
+		{
+			"id": 41357,
+			"name": 217.36,
+			"val": 2.3371796254098345,
+			"group": "posto tabooes ltda"
+		},
+		{
+			"id": 41306,
+			"name": 183,
+			"val": 2.2624510897304293,
+			"group": "posto tabooes ltda"
+		},
+		{
+			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
+			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
+			"val": 60.2946499392705,
+			"desc": 1437.1,
+			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
+		},
+		{
+			"id": 41309,
+			"name": 770.05,
+			"val": 2.88651892519729,
+			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
+		},
+		{
+			"id": 41278,
+			"name": 667.05,
+			"val": 2.8241583885046158,
+			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
+		},
+		{
+			"id": "Vou de Taxi",
+			"name": "Vou de Taxi",
+			"val": 1.243055700467309,
+			"desc": 54,
+			"group": "Vou de Taxi"
+		},
+		{
+			"id": 41324,
+			"name": 54,
+			"val": 1.7323937598229686,
+			"group": "Vou de Taxi"
+		},
+		{
+			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"val": 22.206799789146075,
+			"desc": 601.35,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 41365,
+			"name": 601.35,
+			"val": 2.779127315306203,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": "S & S Soluções em Ti LTDA",
+			"name": "S & S Soluções em Ti LTDA",
+			"val": 37.58877807222958,
+			"desc": 950,
+			"group": "S & S Soluções em Ti LTDA"
+		},
+		{
+			"id": 41332,
+			"name": 950,
+			"val": 2.9777236052888476,
+			"group": "S & S Soluções em Ti LTDA"
+		},
+		{
+			"id": "Posto Ouro Fino Ltda",
+			"name": "Posto Ouro Fino Ltda",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "Posto Ouro Fino Ltda"
+		},
+		{
+			"id": 41302,
+			"name": 100,
+			"val": 2,
+			"group": "Posto Ouro Fino Ltda"
+		},
+		{
+			"id": "Posto Camila Ltda",
+			"name": "Posto Camila Ltda",
+			"val": 3.315307485892089,
+			"desc": 120,
+			"group": "Posto Camila Ltda"
+		},
+		{
+			"id": 41346,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Posto Camila Ltda"
+		},
+		{
+			"id": 41345,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Posto Camila Ltda"
+		},
+		{
+			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"val": 0.7252033531355174,
+			"desc": 35.27,
+			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
+		},
+		{
+			"id": 41370,
+			"name": 35.27,
+			"val": 1.5474054596674898,
+			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 57.119887837058755,
+			"desc": 1370.39,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 41331,
+			"name": 1370.39,
+			"val": 3.1368441808384637,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"name": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"val": 6.468979143354302,
+			"desc": 209.7,
+			"group": "POSTO SANTA EDWIGES PETROLEO LTDA"
+		},
+		{
+			"id": 41353,
+			"name": 209.7,
+			"val": 2.3215984304653436,
+			"group": "POSTO SANTA EDWIGES PETROLEO LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 0.39976116461981065,
+			"desc": 22.31,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 41368,
+			"name": 22.31,
+			"val": 1.3484995702838378,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "AUTO POSTO JARDIM",
+			"name": "AUTO POSTO JARDIM",
+			"val": 7.435620110891884,
+			"desc": 235.85,
+			"group": "AUTO POSTO JARDIM"
+		},
+		{
+			"id": 41334,
+			"name": 235.85,
+			"val": 2.3726358805817207,
+			"group": "AUTO POSTO JARDIM"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 3.615088151844316,
+			"desc": 128.92,
+			"group": "RAMAL"
+		},
+		{
+			"id": 41366,
+			"name": 63.51,
+			"val": 1.8028421127390744,
+			"group": "RAMAL"
+		},
+		{
+			"id": 41310,
+			"name": 65.41,
+			"val": 1.8156441491319653,
+			"group": "RAMAL"
+		},
+		{
+			"id": "BEL POSTO LTDA",
+			"name": "BEL POSTO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "BEL POSTO LTDA"
+		},
+		{
+			"id": 41336,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BEL POSTO LTDA"
+		},
+		{
+			"id": "AUTO POSTO MAQUINE LTDA",
+			"name": "AUTO POSTO MAQUINE LTDA",
+			"val": 6.539339176423549,
+			"desc": 211.62,
+			"group": "AUTO POSTO MAQUINE LTDA"
+		},
+		{
+			"id": 41335,
+			"name": 211.62,
+			"val": 2.325556710051133,
+			"group": "AUTO POSTO MAQUINE LTDA"
+		},
+		{
+			"id": "SAYONARA COMERCIO DE PETROLEO LTDA",
+			"name": "SAYONARA COMERCIO DE PETROLEO LTDA",
+			"val": 7.683811128713005,
+			"desc": 242.49,
+			"group": "SAYONARA COMERCIO DE PETROLEO LTDA"
+		},
+		{
+			"id": 41308,
+			"name": 242.49,
+			"val": 2.3846938335182135,
+			"group": "SAYONARA COMERCIO DE PETROLEO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "POSTO JAVARI EIRELI",
+			"value": 1550.23
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41347,
+			"value": 50
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41288,
+			"value": 100
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41294,
+			"value": 145.18
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41295,
+			"value": 140.01
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41287,
+			"value": 100
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41289,
+			"value": 100
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41296,
+			"value": 120.01
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41291,
+			"value": 100
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41349,
+			"value": 100
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41350,
+			"value": 150
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41293,
+			"value": 50
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41348,
+			"value": 195.03
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41290,
+			"value": 150
+		},
+		{
+			"source": "POSTO JAVARI EIRELI",
+			"target": 41292,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 5028.27
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41327,
+			"value": 999.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41330,
+			"value": 863.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41328,
+			"value": 1389.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41329,
+			"value": 697.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41326,
+			"value": 749.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41325,
+			"value": 330
+		},
+		{
+			"source": -100,
+			"target": "POSTO TRES PODERES LTDA",
+			"value": 150
+		},
+		{
+			"source": "POSTO TRES PODERES LTDA",
+			"target": 41358,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 131.56
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 41371,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 41372,
+			"value": 65.78
+		},
+		{
+			"source": -100,
+			"target": "Posto Londrina Ltda",
+			"value": 830.81
+		},
+		{
+			"source": "Posto Londrina Ltda",
+			"target": 41352,
+			"value": 268.02
+		},
+		{
+			"source": "Posto Londrina Ltda",
+			"target": 41298,
+			"value": 50
+		},
+		{
+			"source": "Posto Londrina Ltda",
+			"target": 41301,
+			"value": 100
+		},
+		{
+			"source": "Posto Londrina Ltda",
+			"target": 41299,
+			"value": 100
+		},
+		{
+			"source": "Posto Londrina Ltda",
+			"target": 41300,
+			"value": 150.05
+		},
+		{
+			"source": "Posto Londrina Ltda",
+			"target": 41297,
+			"value": 162.74
+		},
+		{
+			"source": -100,
+			"target": "POSTO TRIANGULO IBIRITE",
+			"value": 780.01
+		},
+		{
+			"source": "POSTO TRIANGULO IBIRITE",
+			"target": 41307,
+			"value": 200
+		},
+		{
+			"source": "POSTO TRIANGULO IBIRITE",
+			"target": 41360,
+			"value": 100
+		},
+		{
+			"source": "POSTO TRIANGULO IBIRITE",
+			"target": 41359,
+			"value": 200
+		},
+		{
+			"source": "POSTO TRIANGULO IBIRITE",
+			"target": 41361,
+			"value": 280.01
+		},
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"value": 45.459999999999994
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 41319,
+			"value": 19.29
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 41321,
+			"value": 17.09
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 41320,
+			"value": 9.08
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
+			"value": 88
+		},
+		{
+			"source": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
+			"target": 41316,
+			"value": 18
+		},
+		{
+			"source": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
+			"target": 41315,
+			"value": 18
+		},
+		{
+			"source": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
+			"target": 41314,
+			"value": 22
+		},
+		{
+			"source": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
+			"target": 41317,
+			"value": 30
+		},
+		{
+			"source": -100,
+			"target": "Posto Formula BR ltda",
+			"value": 100
+		},
+		{
+			"source": "Posto Formula BR ltda",
+			"target": 41286,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BETH LTDA",
+			"value": 247.72
+		},
+		{
+			"source": "AUTO POSTO BETH LTDA",
+			"target": 41333,
+			"value": 247.72
+		},
+		{
+			"source": -100,
+			"target": "SINTAXI/DF",
+			"value": 20
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 41318,
+			"value": 20
+		},
+		{
+			"source": -100,
+			"target": "REDE 1000 LTDA",
+			"value": 299.99
+		},
+		{
+			"source": "REDE 1000 LTDA",
+			"target": 41362,
+			"value": 99.98
+		},
+		{
+			"source": "REDE 1000 LTDA",
+			"target": 41363,
+			"value": 200.01
+		},
+		{
+			"source": -100,
+			"target": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"value": 1212.23
+		},
+		{
+			"source": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"target": 41339,
+			"value": 273.28
+		},
+		{
+			"source": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"target": 41340,
+			"value": 187.61
+		},
+		{
+			"source": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"target": 41342,
+			"value": 211.1
+		},
+		{
+			"source": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"target": 41281,
+			"value": 100
+		},
+		{
+			"source": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"target": 41341,
+			"value": 179.99
+		},
+		{
+			"source": "ORGANIZACOES NOVO BELVEDERE LTDA",
+			"target": 41282,
+			"value": 260.25
+		},
+		{
+			"source": -100,
+			"target": "POSTO SARZEDO III LTDA",
+			"value": 250.07
+		},
+		{
+			"source": "POSTO SARZEDO III LTDA",
+			"target": 41304,
+			"value": 250.07
+		},
+		{
+			"source": -100,
+			"target": "LUBRIMIL LTDA",
+			"value": 140
+		},
+		{
+			"source": "LUBRIMIL LTDA",
+			"target": 41338,
+			"value": 140
+		},
+		{
+			"source": -100,
+			"target": "PETRO OURO LTDA",
+			"value": 769.03
+		},
+		{
+			"source": "PETRO OURO LTDA",
+			"target": 41285,
+			"value": 250
+		},
+		{
+			"source": "PETRO OURO LTDA",
+			"target": 41283,
+			"value": 234.86
+		},
+		{
+			"source": "PETRO OURO LTDA",
+			"target": 41284,
+			"value": 284.17
+		},
+		{
+			"source": -100,
+			"target": "POSTO PIONEIRO LTDA",
+			"value": 276.01
+		},
+		{
+			"source": "POSTO PIONEIRO LTDA",
+			"target": 41303,
+			"value": 276.01
+		},
+		{
+			"source": -100,
+			"target": "POSTO LIBERDADE LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO LIBERDADE LTDA",
+			"target": 41351,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "Rádio Táxi Alvorada Ltda",
+			"value": 42
+		},
+		{
+			"source": "Rádio Táxi Alvorada Ltda",
+			"target": 41377,
+			"value": 24
+		},
+		{
+			"source": "Rádio Táxi Alvorada Ltda",
+			"target": 41376,
+			"value": 18
+		},
+		{
+			"source": -100,
+			"target": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
+			"value": 200
+		},
+		{
+			"source": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
+			"target": 41364,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "OPERAR HOTEIS LTDA",
+			"value": 143.85
+		},
+		{
+			"source": "OPERAR HOTEIS LTDA",
+			"target": 41373,
+			"value": 143.85
+		},
+		{
+			"source": -100,
+			"target": "UNITAXI DF",
+			"value": 70
+		},
+		{
+			"source": "UNITAXI DF",
+			"target": 41323,
+			"value": 30
+		},
+		{
+			"source": "UNITAXI DF",
+			"target": 41322,
+			"value": 40
+		},
+		{
+			"source": -100,
+			"target": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
+			"value": 153.59
+		},
+		{
+			"source": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
+			"target": 41337,
+			"value": 153.59
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 412.79999999999995
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 41369,
+			"value": 194.7
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 41311,
+			"value": 218.1
+		},
+		{
+			"source": -100,
+			"target": "locarnew veiculos ltda",
+			"value": 23400
+		},
+		{
+			"source": "locarnew veiculos ltda",
+			"target": 41375,
+			"value": 6500
+		},
+		{
+			"source": "locarnew veiculos ltda",
+			"target": 41374,
+			"value": 5200
+		},
+		{
+			"source": "locarnew veiculos ltda",
+			"target": 41312,
+			"value": 6500
+		},
+		{
+			"source": "locarnew veiculos ltda",
+			"target": 41313,
+			"value": 5200
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 8.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 41367,
+			"value": 8.45
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO IRMÃOS MAIA LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO IRMÃOS MAIA LTDA",
+			"target": 41279,
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO IRMÃOS MAIA LTDA",
+			"target": 41280,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "POSTO ABRIL ROSARIO LTDA",
+			"value": 215
+		},
+		{
+			"source": "POSTO ABRIL ROSARIO LTDA",
+			"target": 41343,
+			"value": 115
+		},
+		{
+			"source": "POSTO ABRIL ROSARIO LTDA",
+			"target": 41344,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO SARZEDO LTDA",
+			"value": 620.09
+		},
+		{
+			"source": "POSTO SARZEDO LTDA",
+			"target": 41355,
+			"value": 250.02
+		},
+		{
+			"source": "POSTO SARZEDO LTDA",
+			"target": 41356,
+			"value": 220.07
+		},
+		{
+			"source": "POSTO SARZEDO LTDA",
+			"target": 41354,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "posto tabooes ltda",
+			"value": 648.65
+		},
+		{
+			"source": "posto tabooes ltda",
+			"target": 41305,
+			"value": 248.29
+		},
+		{
+			"source": "posto tabooes ltda",
+			"target": 41357,
+			"value": 217.36
+		},
+		{
+			"source": "posto tabooes ltda",
+			"target": 41306,
+			"value": 183
+		},
+		{
+			"source": -100,
+			"target": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
+			"value": 1437.1
+		},
+		{
+			"source": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
+			"target": 41309,
+			"value": 770.05
+		},
+		{
+			"source": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
+			"target": 41278,
+			"value": 667.05
+		},
+		{
+			"source": -100,
+			"target": "Vou de Taxi",
+			"value": 54
+		},
+		{
+			"source": "Vou de Taxi",
+			"target": 41324,
+			"value": 54
+		},
+		{
+			"source": -100,
+			"target": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"value": 601.35
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 41365,
+			"value": 601.35
+		},
+		{
+			"source": -100,
+			"target": "S & S Soluções em Ti LTDA",
+			"value": 950
+		},
+		{
+			"source": "S & S Soluções em Ti LTDA",
+			"target": 41332,
+			"value": 950
+		},
+		{
+			"source": -100,
+			"target": "Posto Ouro Fino Ltda",
+			"value": 100
+		},
+		{
+			"source": "Posto Ouro Fino Ltda",
+			"target": 41302,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "Posto Camila Ltda",
+			"value": 120
+		},
+		{
+			"source": "Posto Camila Ltda",
+			"target": 41346,
+			"value": 60
+		},
+		{
+			"source": "Posto Camila Ltda",
+			"target": 41345,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"value": 35.27
+		},
+		{
+			"source": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
+			"target": 41370,
+			"value": 35.27
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 1370.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 41331,
+			"value": 1370.39
+		},
+		{
+			"source": -100,
+			"target": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"value": 209.7
+		},
+		{
+			"source": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"target": 41353,
+			"value": 209.7
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 22.31
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 41368,
+			"value": 22.31
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO JARDIM",
+			"value": 235.85
+		},
+		{
+			"source": "AUTO POSTO JARDIM",
+			"target": 41334,
+			"value": 235.85
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 128.92
+		},
+		{
+			"source": "RAMAL",
+			"target": 41366,
+			"value": 63.51
+		},
+		{
+			"source": "RAMAL",
+			"target": 41310,
+			"value": 65.41
+		},
+		{
+			"source": -100,
+			"target": "BEL POSTO LTDA",
+			"value": 200
+		},
+		{
+			"source": "BEL POSTO LTDA",
+			"target": 41336,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MAQUINE LTDA",
+			"value": 211.62
+		},
+		{
+			"source": "AUTO POSTO MAQUINE LTDA",
+			"target": 41335,
+			"value": 211.62
+		},
+		{
+			"source": -100,
+			"target": "SAYONARA COMERCIO DE PETROLEO LTDA",
+			"value": 242.49
+		},
+		{
+			"source": "SAYONARA COMERCIO DE PETROLEO LTDA",
+			"target": 41308,
+			"value": 242.49
+		}
+	]
+}

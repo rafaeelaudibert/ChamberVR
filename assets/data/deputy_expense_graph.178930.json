@@ -1,0 +1,1701 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ROMAN"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "AUTO POSTO ALMENARA LTDA",
+			"name": "AUTO POSTO ALMENARA LTDA",
+			"val": 20.648037285763447,
+			"desc": 564.69,
+			"group": "AUTO POSTO ALMENARA LTDA"
+		},
+		{
+			"id": 44671,
+			"name": 187.13,
+			"val": 2.2721434175910504,
+			"group": "AUTO POSTO ALMENARA LTDA"
+		},
+		{
+			"id": 44625,
+			"name": 186.32,
+			"val": 2.270259475526624,
+			"group": "AUTO POSTO ALMENARA LTDA"
+		},
+		{
+			"id": 44626,
+			"name": 191.24,
+			"val": 2.2815787350237517,
+			"group": "AUTO POSTO ALMENARA LTDA"
+		},
+		{
+			"id": "POSTO NEVA LTDA",
+			"name": "POSTO NEVA LTDA",
+			"val": 310.46376200642237,
+			"desc": 6164.95,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44590,
+			"name": 291,
+			"val": 2.4638929889859074,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44630,
+			"name": 247.61,
+			"val": 2.393768180158745,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44629,
+			"name": 242.01,
+			"val": 2.3838333116626265,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44588,
+			"name": 203.64,
+			"val": 2.3088630883653005,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44673,
+			"name": 1788.35,
+			"val": 3.252452519042309,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44591,
+			"name": 792.13,
+			"val": 2.8987964614500785,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44628,
+			"name": 146.56,
+			"val": 2.166015456323775,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44632,
+			"name": 1410.9,
+			"val": 3.149496233465742,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44589,
+			"name": 253.04,
+			"val": 2.4031891789076663,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44587,
+			"name": 280.6,
+			"val": 2.448087666692341,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44627,
+			"name": 274.65,
+			"val": 2.4387796033573776,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": 44631,
+			"name": 234.46,
+			"val": 2.370068760650052,
+			"group": "POSTO NEVA LTDA"
+		},
+		{
+			"id": "VIACAO GARCIA LTDA",
+			"name": "VIACAO GARCIA LTDA",
+			"val": 49.22720152840447,
+			"desc": 1202.76,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 44610,
+			"name": 300.69,
+			"val": 2.4781189850774563,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 44650,
+			"name": 300.69,
+			"val": 2.4781189850774563,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 44609,
+			"name": 300.69,
+			"val": 2.4781189850774563,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 44651,
+			"name": 300.69,
+			"val": 2.4781189850774563,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 240.43067043899399,
+			"desc": 4902.969999999999,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 44658,
+			"name": 658.39,
+			"val": 2.8184832259438846,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 44660,
+			"name": 930.39,
+			"val": 2.968665033869835,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 44617,
+			"name": 881.17,
+			"val": 2.94505970289516,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 44659,
+			"name": 1570.85,
+			"val": 3.1961347163687543,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 44616,
+			"name": 862.17,
+			"val": 2.935592907103894,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Alexandre Lemes Silva",
+			"name": "Alexandre Lemes Silva",
+			"val": 246.0750095822642,
+			"desc": 5005.84,
+			"group": "Alexandre Lemes Silva"
+		},
+		{
+			"id": 44619,
+			"name": 2502.92,
+			"val": 3.3984469686198913,
+			"group": "Alexandre Lemes Silva"
+		},
+		{
+			"id": 44662,
+			"name": 2502.92,
+			"val": 3.3984469686198913,
+			"group": "Alexandre Lemes Silva"
+		},
+		{
+			"id": "SANEPAR",
+			"name": "SANEPAR",
+			"val": 13.418993594481107,
+			"desc": 389.78999999999996,
+			"group": "SANEPAR"
+		},
+		{
+			"id": 44580,
+			"name": 114.78,
+			"val": 2.0598662204109397,
+			"group": "SANEPAR"
+		},
+		{
+			"id": 44624,
+			"name": 114.78,
+			"val": 2.0598662204109397,
+			"group": "SANEPAR"
+		},
+		{
+			"id": 44668,
+			"name": 160.23,
+			"val": 2.2047438326888,
+			"group": "SANEPAR"
+		},
+		{
+			"id": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
+			"name": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
+			"val": 38.21728799722567,
+			"desc": 963.8499999999999,
+			"group": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA"
+		},
+		{
+			"id": 44645,
+			"name": 288.4,
+			"val": 2.4599952560473914,
+			"group": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA"
+		},
+		{
+			"id": 44605,
+			"name": 465.45,
+			"val": 2.6678730346398467,
+			"group": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA"
+		},
+		{
+			"id": 44646,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA"
+		},
+		{
+			"id": "AUTO POSTO GISELA LTDA",
+			"name": "AUTO POSTO GISELA LTDA",
+			"val": 193.36229066697405,
+			"desc": 4035.59,
+			"group": "AUTO POSTO GISELA LTDA"
+		},
+		{
+			"id": 44672,
+			"name": 4035.59,
+			"val": 3.605907037202532,
+			"group": "AUTO POSTO GISELA LTDA"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 42.02889545474081,
+			"desc": 1047.32,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 44620,
+			"name": 234.8,
+			"val": 2.370698092575577,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 44637,
+			"name": 239.98,
+			"val": 2.38017504899673,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 44638,
+			"name": 334.54,
+			"val": 2.5244480525692756,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 44664,
+			"name": 238,
+			"val": 2.376576957056512,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"name": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"val": 0.36778800479244467,
+			"desc": 20.95,
+			"group": "INTELIG TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 44639,
+			"name": 20.95,
+			"val": 1.321184027302314,
+			"group": "INTELIG TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": "ECT EMO BRAS CORREIOS E TELEGRAFOS",
+			"name": "ECT EMO BRAS CORREIOS E TELEGRAFOS",
+			"val": 4.585216006462879,
+			"desc": 157.12,
+			"group": "ECT EMO BRAS CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 44602,
+			"name": 157.12,
+			"val": 2.1962314704428745,
+			"group": "ECT EMO BRAS CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "Copel Distribuição S.A.",
+			"name": "Copel Distribuição S.A.",
+			"val": 14.030059641574669,
+			"desc": 404.95,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 44665,
+			"name": 121.03,
+			"val": 2.0828930332881797,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 44578,
+			"name": 119.97,
+			"val": 2.079072658853184,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 44621,
+			"name": 163.95,
+			"val": 2.214711421005384,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 420.99408900658926,
+			"desc": 8105.580000000001,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44615,
+			"name": 903.25,
+			"val": 2.95580797024006,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44654,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44657,
+			"name": 275,
+			"val": 2.439332693830263,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44655,
+			"name": 859.2,
+			"val": 2.9340942683554805,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44613,
+			"name": 1187.25,
+			"val": 3.074542178254056,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44653,
+			"name": 1127.25,
+			"val": 3.052020243978608,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44614,
+			"name": 1431.39,
+			"val": 3.1557579788133787,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44652,
+			"name": 1119.39,
+			"val": 3.048981422845664,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 44656,
+			"name": 902.85,
+			"val": 2.955615602380471,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "ISABELA CABRAL FRANCA VIDAL",
+			"name": "ISABELA CABRAL FRANCA VIDAL",
+			"val": 151.66091203644135,
+			"desc": 3250,
+			"group": "ISABELA CABRAL FRANCA VIDAL"
+		},
+		{
+			"id": 44675,
+			"name": 3250,
+			"val": 3.5118833609788744,
+			"group": "ISABELA CABRAL FRANCA VIDAL"
+		},
+		{
+			"id": "Aero Sllep Serviços em Aeroportos LTDA",
+			"name": "Aero Sllep Serviços em Aeroportos LTDA",
+			"val": 3.315307485892089,
+			"desc": 120,
+			"group": "Aero Sllep Serviços em Aeroportos LTDA"
+		},
+		{
+			"id": 44603,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "Aero Sllep Serviços em Aeroportos LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 26.17379607397845,
+			"desc": 693.35,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 44612,
+			"name": 39,
+			"val": 1.591064607026499,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 44611,
+			"name": 654.35,
+			"val": 2.8158101067486827,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "ST EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"name": "ST EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"val": 113.0258247911321,
+			"desc": 2502.92,
+			"group": "ST EMPREENDIMENTOS IMOBILIARIOS LTDA"
+		},
+		{
+			"id": 44581,
+			"name": 2502.92,
+			"val": 3.3984469686198913,
+			"group": "ST EMPREENDIMENTOS IMOBILIARIOS LTDA"
+		},
+		{
+			"id": "GP SISTEMAS E SERVIÇOS LTDA",
+			"name": "GP SISTEMAS E SERVIÇOS LTDA",
+			"val": 55.7270976514956,
+			"desc": 1341,
+			"group": "GP SISTEMAS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 44579,
+			"name": 447,
+			"val": 2.6503075231319366,
+			"group": "GP SISTEMAS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 44667,
+			"name": 447,
+			"val": 2.6503075231319366,
+			"group": "GP SISTEMAS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 44622,
+			"name": 447,
+			"val": 2.6503075231319366,
+			"group": "GP SISTEMAS E SERVIÇOS LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 127.98436778889857,
+			"desc": 2794.78,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 44618,
+			"name": 1391.39,
+			"val": 3.1434488777334137,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 44661,
+			"name": 1403.39,
+			"val": 3.1471783775937574,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 2.235837153359831,
+			"desc": 86.8,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 44642,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 44643,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.887856914191449,
+			"desc": 165.74,
+			"group": "RAMAL"
+		},
+		{
+			"id": 44600,
+			"name": 82.92,
+			"val": 1.9186592934218232,
+			"group": "RAMAL"
+		},
+		{
+			"id": 44640,
+			"name": 82.82,
+			"val": 1.9181352261663593,
+			"group": "RAMAL"
+		},
+		{
+			"id": "TIM S/A",
+			"name": "TIM S/A",
+			"val": 1.3897689494952135,
+			"desc": 59.05,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 44601,
+			"name": 59.05,
+			"val": 1.7712199019495336,
+			"group": "TIM S/A"
+		},
+		{
+			"id": "Radio Colmeia ltda",
+			"name": "Radio Colmeia ltda",
+			"val": 564.0011169719367,
+			"desc": 10550,
+			"group": "Radio Colmeia ltda"
+		},
+		{
+			"id": 44595,
+			"name": 10550,
+			"val": 4.023252459633712,
+			"group": "Radio Colmeia ltda"
+		},
+		{
+			"id": "Superpel Livraria e Papelaria Ltda",
+			"name": "Superpel Livraria e Papelaria Ltda",
+			"val": 1.461858568313453,
+			"desc": 61.5,
+			"group": "Superpel Livraria e Papelaria Ltda"
+		},
+		{
+			"id": 44582,
+			"name": 61.5,
+			"val": 1.7888751157754168,
+			"group": "Superpel Livraria e Papelaria Ltda"
+		},
+		{
+			"id": "CAPORRINO - ADVOGADOS ASSOCIADOS",
+			"name": "CAPORRINO - ADVOGADOS ASSOCIADOS",
+			"val": 461.2357308561032,
+			"desc": 8800,
+			"group": "CAPORRINO - ADVOGADOS ASSOCIADOS"
+		},
+		{
+			"id": 44633,
+			"name": 4400,
+			"val": 3.6434526764861874,
+			"group": "CAPORRINO - ADVOGADOS ASSOCIADOS"
+		},
+		{
+			"id": 44674,
+			"name": 4400,
+			"val": 3.6434526764861874,
+			"group": "CAPORRINO - ADVOGADOS ASSOCIADOS"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 61.30065745672433,
+			"desc": 1458.16,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 44641,
+			"name": 1458.16,
+			"val": 3.1638051805695055,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "AMM SERVICES E INFORMÁTICA EIRELI - ME",
+			"name": "AMM SERVICES E INFORMÁTICA EIRELI - ME",
+			"val": 86.73417494253842,
+			"desc": 1980,
+			"group": "AMM SERVICES E INFORMÁTICA EIRELI - ME"
+		},
+		{
+			"id": 44663,
+			"name": 1980,
+			"val": 3.296665190261531,
+			"group": "AMM SERVICES E INFORMÁTICA EIRELI - ME"
+		},
+		{
+			"id": "Kalunga Comercio e Industria Grafica Ltda",
+			"name": "Kalunga Comercio e Industria Grafica Ltda",
+			"val": 10.118295608361167,
+			"desc": 306.29,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": 44623,
+			"name": 306.29,
+			"val": 2.4861328178457036,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": "AUTO POSTO TEXANO SHOPPING CENTER LTDA",
+			"name": "AUTO POSTO TEXANO SHOPPING CENTER LTDA",
+			"val": 8.7229608448149,
+			"desc": 270,
+			"group": "AUTO POSTO TEXANO SHOPPING CENTER LTDA"
+		},
+		{
+			"id": 44584,
+			"name": 270,
+			"val": 2.4313637641589874,
+			"group": "AUTO POSTO TEXANO SHOPPING CENTER LTDA"
+		},
+		{
+			"id": "ISABELA CABRAL FRANCA VIDAL-ME",
+			"name": "ISABELA CABRAL FRANCA VIDAL-ME",
+			"val": 164.82394889407567,
+			"desc": 3500,
+			"group": "ISABELA CABRAL FRANCA VIDAL-ME"
+		},
+		{
+			"id": 44593,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "ISABELA CABRAL FRANCA VIDAL-ME"
+		},
+		{
+			"id": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI",
+			"name": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI"
+		},
+		{
+			"id": 44635,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI"
+		},
+		{
+			"id": 44676,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI"
+		},
+		{
+			"id": "Wilson Garcia Alves",
+			"name": "Wilson Garcia Alves",
+			"val": 26.46339111313052,
+			"desc": 700,
+			"group": "Wilson Garcia Alves"
+		},
+		{
+			"id": 44649,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "Wilson Garcia Alves"
+		},
+		{
+			"id": 44648,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "Wilson Garcia Alves"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 10.721620594326305,
+			"desc": 321.78,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 44596,
+			"name": 160.64,
+			"val": 2.205853695464925,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 44597,
+			"name": 0.5,
+			"val": -0.3010299956639812,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 44677,
+			"name": 160.64,
+			"val": 2.205853695464925,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "Francis Bacon",
+			"name": "Francis Bacon",
+			"val": 26.46339111313052,
+			"desc": 700,
+			"group": "Francis Bacon"
+		},
+		{
+			"id": 44607,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "Francis Bacon"
+		},
+		{
+			"id": 44608,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "Francis Bacon"
+		},
+		{
+			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"val": 60.23928983309535,
+			"desc": 1435.94,
+			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
+		},
+		{
+			"id": 44636,
+			"name": 1435.94,
+			"val": 3.157136293518183,
+			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
+		},
+		{
+			"id": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"name": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"val": 10.262394262540056,
+			"desc": 310,
+			"group": "LAR COOPERATIVA AGROINDUSTRIAL"
+		},
+		{
+			"id": 44585,
+			"name": 310,
+			"val": 2.4913616938342726,
+			"group": "LAR COOPERATIVA AGROINDUSTRIAL"
+		},
+		{
+			"id": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA",
+			"name": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA",
+			"val": 10.158275563258044,
+			"desc": 307.32,
+			"group": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA"
+		},
+		{
+			"id": 44670,
+			"name": 205.98,
+			"val": 2.313825053809394,
+			"group": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA"
+		},
+		{
+			"id": 44669,
+			"name": 101.34,
+			"val": 2.0057808999546523,
+			"group": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA"
+		},
+		{
+			"id": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME",
+			"name": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME",
+			"val": 164.82394889407567,
+			"desc": 3500,
+			"group": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME"
+		},
+		{
+			"id": 44634,
+			"name": 1000,
+			"val": 3,
+			"group": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME"
+		},
+		{
+			"id": 44592,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME"
+		},
+		{
+			"id": "CLAUDINEY",
+			"name": "CLAUDINEY",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "CLAUDINEY"
+		},
+		{
+			"id": 44647,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CLAUDINEY"
+		},
+		{
+			"id": "FELIPE PERELLES BOSCARDN ME",
+			"name": "FELIPE PERELLES BOSCARDN ME",
+			"val": 98.71313437578873,
+			"desc": 2220,
+			"group": "FELIPE PERELLES BOSCARDN ME"
+		},
+		{
+			"id": 44666,
+			"name": 2220,
+			"val": 3.346352974450639,
+			"group": "FELIPE PERELLES BOSCARDN ME"
+		},
+		{
+			"id": "POSTO DAS AMERICAS LTDA",
+			"name": "POSTO DAS AMERICAS LTDA",
+			"val": 9.591534669703634,
+			"desc": 292.67,
+			"group": "POSTO DAS AMERICAS LTDA"
+		},
+		{
+			"id": 44586,
+			"name": 292.67,
+			"val": 2.4663782075646714,
+			"group": "POSTO DAS AMERICAS LTDA"
+		},
+		{
+			"id": "BONOTEL ADMINISTRADORA DE HOTEIS LTDA",
+			"name": "BONOTEL ADMINISTRADORA DE HOTEIS LTDA",
+			"val": 11.788172355165667,
+			"desc": 348.9,
+			"group": "BONOTEL ADMINISTRADORA DE HOTEIS LTDA"
+		},
+		{
+			"id": 44604,
+			"name": 348.9,
+			"val": 2.5427009694481106,
+			"group": "BONOTEL ADMINISTRADORA DE HOTEIS LTDA"
+		},
+		{
+			"id": "Luciano da S Barros e Cia Ltda",
+			"name": "Luciano da S Barros e Cia Ltda",
+			"val": 650.4358456983957,
+			"desc": 12000,
+			"group": "Luciano da S Barros e Cia Ltda"
+		},
+		{
+			"id": 44594,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "Luciano da S Barros e Cia Ltda"
+		},
+		{
+			"id": "Oi S.A",
+			"name": "Oi S.A",
+			"val": 1.8260667858046167,
+			"desc": 73.61,
+			"group": "Oi S.A"
+		},
+		{
+			"id": 44599,
+			"name": 73.61,
+			"val": 1.8669368177316394,
+			"group": "Oi S.A"
+		},
+		{
+			"id": "AUTO POSTO ANILA EIRELI",
+			"name": "AUTO POSTO ANILA EIRELI",
+			"val": 9.681779841839552,
+			"desc": 295.01,
+			"group": "AUTO POSTO ANILA EIRELI"
+		},
+		{
+			"id": 44583,
+			"name": 295.01,
+			"val": 2.46983673757549,
+			"group": "AUTO POSTO ANILA EIRELI"
+		},
+		{
+			"id": "EDITORA RIO COTINGO EIRELI - EPP",
+			"name": "EDITORA RIO COTINGO EIRELI - EPP",
+			"val": 11.83169555656526,
+			"desc": 350,
+			"group": "EDITORA RIO COTINGO EIRELI - EPP"
+		},
+		{
+			"id": 44644,
+			"name": 350,
+			"val": 2.5440680443502757,
+			"group": "EDITORA RIO COTINGO EIRELI - EPP"
+		},
+		{
+			"id": "NET CLARO",
+			"name": "NET CLARO",
+			"val": 14.427232418039939,
+			"desc": 414.76,
+			"group": "NET CLARO"
+		},
+		{
+			"id": 44598,
+			"name": 414.76,
+			"val": 2.6177968658054125,
+			"group": "NET CLARO"
+		},
+		{
+			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"val": 24.494175590819047,
+			"desc": 654.61,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 44606,
+			"name": 654.61,
+			"val": 2.8159826354230195,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "AUTO POSTO ALMENARA LTDA",
+			"value": 564.69
+		},
+		{
+			"source": "AUTO POSTO ALMENARA LTDA",
+			"target": 44671,
+			"value": 187.13
+		},
+		{
+			"source": "AUTO POSTO ALMENARA LTDA",
+			"target": 44625,
+			"value": 186.32
+		},
+		{
+			"source": "AUTO POSTO ALMENARA LTDA",
+			"target": 44626,
+			"value": 191.24
+		},
+		{
+			"source": -100,
+			"target": "POSTO NEVA LTDA",
+			"value": 6164.95
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44590,
+			"value": 291
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44630,
+			"value": 247.61
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44629,
+			"value": 242.01
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44588,
+			"value": 203.64
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44673,
+			"value": 1788.35
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44591,
+			"value": 792.13
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44628,
+			"value": 146.56
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44632,
+			"value": 1410.9
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44589,
+			"value": 253.04
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44587,
+			"value": 280.6
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44627,
+			"value": 274.65
+		},
+		{
+			"source": "POSTO NEVA LTDA",
+			"target": 44631,
+			"value": 234.46
+		},
+		{
+			"source": -100,
+			"target": "VIACAO GARCIA LTDA",
+			"value": 1202.76
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 44610,
+			"value": 300.69
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 44650,
+			"value": 300.69
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 44609,
+			"value": 300.69
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 44651,
+			"value": 300.69
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 4902.969999999999
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 44658,
+			"value": 658.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 44660,
+			"value": 930.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 44617,
+			"value": 881.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 44659,
+			"value": 1570.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 44616,
+			"value": 862.17
+		},
+		{
+			"source": -100,
+			"target": "Alexandre Lemes Silva",
+			"value": 5005.84
+		},
+		{
+			"source": "Alexandre Lemes Silva",
+			"target": 44619,
+			"value": 2502.92
+		},
+		{
+			"source": "Alexandre Lemes Silva",
+			"target": 44662,
+			"value": 2502.92
+		},
+		{
+			"source": -100,
+			"target": "SANEPAR",
+			"value": 389.78999999999996
+		},
+		{
+			"source": "SANEPAR",
+			"target": 44580,
+			"value": 114.78
+		},
+		{
+			"source": "SANEPAR",
+			"target": 44624,
+			"value": 114.78
+		},
+		{
+			"source": "SANEPAR",
+			"target": 44668,
+			"value": 160.23
+		},
+		{
+			"source": -100,
+			"target": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
+			"value": 963.8499999999999
+		},
+		{
+			"source": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
+			"target": 44645,
+			"value": 288.4
+		},
+		{
+			"source": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
+			"target": 44605,
+			"value": 465.45
+		},
+		{
+			"source": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
+			"target": 44646,
+			"value": 210
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GISELA LTDA",
+			"value": 4035.59
+		},
+		{
+			"source": "AUTO POSTO GISELA LTDA",
+			"target": 44672,
+			"value": 4035.59
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 1047.32
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 44620,
+			"value": 234.8
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 44637,
+			"value": 239.98
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 44638,
+			"value": 334.54
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 44664,
+			"value": 238
+		},
+		{
+			"source": -100,
+			"target": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"value": 20.95
+		},
+		{
+			"source": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"target": 44639,
+			"value": 20.95
+		},
+		{
+			"source": -100,
+			"target": "ECT EMO BRAS CORREIOS E TELEGRAFOS",
+			"value": 157.12
+		},
+		{
+			"source": "ECT EMO BRAS CORREIOS E TELEGRAFOS",
+			"target": 44602,
+			"value": 157.12
+		},
+		{
+			"source": -100,
+			"target": "Copel Distribuição S.A.",
+			"value": 404.95
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 44665,
+			"value": 121.03
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 44578,
+			"value": 119.97
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 44621,
+			"value": 163.95
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 8105.580000000001
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44615,
+			"value": 903.25
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44654,
+			"value": 300
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44657,
+			"value": 275
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44655,
+			"value": 859.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44613,
+			"value": 1187.25
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44653,
+			"value": 1127.25
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44614,
+			"value": 1431.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44652,
+			"value": 1119.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 44656,
+			"value": 902.85
+		},
+		{
+			"source": -100,
+			"target": "ISABELA CABRAL FRANCA VIDAL",
+			"value": 3250
+		},
+		{
+			"source": "ISABELA CABRAL FRANCA VIDAL",
+			"target": 44675,
+			"value": 3250
+		},
+		{
+			"source": -100,
+			"target": "Aero Sllep Serviços em Aeroportos LTDA",
+			"value": 120
+		},
+		{
+			"source": "Aero Sllep Serviços em Aeroportos LTDA",
+			"target": 44603,
+			"value": 120
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 693.35
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 44612,
+			"value": 39
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 44611,
+			"value": 654.35
+		},
+		{
+			"source": -100,
+			"target": "ST EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"value": 2502.92
+		},
+		{
+			"source": "ST EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"target": 44581,
+			"value": 2502.92
+		},
+		{
+			"source": -100,
+			"target": "GP SISTEMAS E SERVIÇOS LTDA",
+			"value": 1341
+		},
+		{
+			"source": "GP SISTEMAS E SERVIÇOS LTDA",
+			"target": 44579,
+			"value": 447
+		},
+		{
+			"source": "GP SISTEMAS E SERVIÇOS LTDA",
+			"target": 44667,
+			"value": 447
+		},
+		{
+			"source": "GP SISTEMAS E SERVIÇOS LTDA",
+			"target": 44622,
+			"value": 447
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 2794.78
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 44618,
+			"value": 1391.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 44661,
+			"value": 1403.39
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 86.8
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 44642,
+			"value": 43.4
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 44643,
+			"value": 43.4
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 165.74
+		},
+		{
+			"source": "RAMAL",
+			"target": 44600,
+			"value": 82.92
+		},
+		{
+			"source": "RAMAL",
+			"target": 44640,
+			"value": 82.82
+		},
+		{
+			"source": -100,
+			"target": "TIM S/A",
+			"value": 59.05
+		},
+		{
+			"source": "TIM S/A",
+			"target": 44601,
+			"value": 59.05
+		},
+		{
+			"source": -100,
+			"target": "Radio Colmeia ltda",
+			"value": 10550
+		},
+		{
+			"source": "Radio Colmeia ltda",
+			"target": 44595,
+			"value": 10550
+		},
+		{
+			"source": -100,
+			"target": "Superpel Livraria e Papelaria Ltda",
+			"value": 61.5
+		},
+		{
+			"source": "Superpel Livraria e Papelaria Ltda",
+			"target": 44582,
+			"value": 61.5
+		},
+		{
+			"source": -100,
+			"target": "CAPORRINO - ADVOGADOS ASSOCIADOS",
+			"value": 8800
+		},
+		{
+			"source": "CAPORRINO - ADVOGADOS ASSOCIADOS",
+			"target": 44633,
+			"value": 4400
+		},
+		{
+			"source": "CAPORRINO - ADVOGADOS ASSOCIADOS",
+			"target": 44674,
+			"value": 4400
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 1458.16
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 44641,
+			"value": 1458.16
+		},
+		{
+			"source": -100,
+			"target": "AMM SERVICES E INFORMÁTICA EIRELI - ME",
+			"value": 1980
+		},
+		{
+			"source": "AMM SERVICES E INFORMÁTICA EIRELI - ME",
+			"target": 44663,
+			"value": 1980
+		},
+		{
+			"source": -100,
+			"target": "Kalunga Comercio e Industria Grafica Ltda",
+			"value": 306.29
+		},
+		{
+			"source": "Kalunga Comercio e Industria Grafica Ltda",
+			"target": 44623,
+			"value": 306.29
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO TEXANO SHOPPING CENTER LTDA",
+			"value": 270
+		},
+		{
+			"source": "AUTO POSTO TEXANO SHOPPING CENTER LTDA",
+			"target": 44584,
+			"value": 270
+		},
+		{
+			"source": -100,
+			"target": "ISABELA CABRAL FRANCA VIDAL-ME",
+			"value": 3500
+		},
+		{
+			"source": "ISABELA CABRAL FRANCA VIDAL-ME",
+			"target": 44593,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI",
+			"value": 5000
+		},
+		{
+			"source": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI",
+			"target": 44635,
+			"value": 2500
+		},
+		{
+			"source": "SJ INDUSTRIA E COMERCIO DE PAINEIS EIRELI",
+			"target": 44676,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "Wilson Garcia Alves",
+			"value": 700
+		},
+		{
+			"source": "Wilson Garcia Alves",
+			"target": 44649,
+			"value": 300
+		},
+		{
+			"source": "Wilson Garcia Alves",
+			"target": 44648,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 321.78
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 44596,
+			"value": 160.64
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 44597,
+			"value": 0.5
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 44677,
+			"value": 160.64
+		},
+		{
+			"source": -100,
+			"target": "Francis Bacon",
+			"value": 700
+		},
+		{
+			"source": "Francis Bacon",
+			"target": 44607,
+			"value": 400
+		},
+		{
+			"source": "Francis Bacon",
+			"target": 44608,
+			"value": 300
+		},
+		{
+			"source": -100,
+			"target": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"value": 1435.94
+		},
+		{
+			"source": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"target": 44636,
+			"value": 1435.94
+		},
+		{
+			"source": -100,
+			"target": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"value": 310
+		},
+		{
+			"source": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"target": 44585,
+			"value": 310
+		},
+		{
+			"source": -100,
+			"target": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA",
+			"value": 307.32
+		},
+		{
+			"source": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA",
+			"target": 44670,
+			"value": 205.98
+		},
+		{
+			"source": "SUPORTE MANUTENCAO PARA COMPUTADORES LTDA",
+			"target": 44669,
+			"value": 101.34
+		},
+		{
+			"source": -100,
+			"target": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME",
+			"value": 3500
+		},
+		{
+			"source": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME",
+			"target": 44634,
+			"value": 1000
+		},
+		{
+			"source": "CLIPPING NEWS AGENCIA DE NOTICIAS LTDA - ME",
+			"target": 44592,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "CLAUDINEY",
+			"value": 150
+		},
+		{
+			"source": "CLAUDINEY",
+			"target": 44647,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "FELIPE PERELLES BOSCARDN ME",
+			"value": 2220
+		},
+		{
+			"source": "FELIPE PERELLES BOSCARDN ME",
+			"target": 44666,
+			"value": 2220
+		},
+		{
+			"source": -100,
+			"target": "POSTO DAS AMERICAS LTDA",
+			"value": 292.67
+		},
+		{
+			"source": "POSTO DAS AMERICAS LTDA",
+			"target": 44586,
+			"value": 292.67
+		},
+		{
+			"source": -100,
+			"target": "BONOTEL ADMINISTRADORA DE HOTEIS LTDA",
+			"value": 348.9
+		},
+		{
+			"source": "BONOTEL ADMINISTRADORA DE HOTEIS LTDA",
+			"target": 44604,
+			"value": 348.9
+		},
+		{
+			"source": -100,
+			"target": "Luciano da S Barros e Cia Ltda",
+			"value": 12000
+		},
+		{
+			"source": "Luciano da S Barros e Cia Ltda",
+			"target": 44594,
+			"value": 12000
+		},
+		{
+			"source": -100,
+			"target": "Oi S.A",
+			"value": 73.61
+		},
+		{
+			"source": "Oi S.A",
+			"target": 44599,
+			"value": 73.61
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ANILA EIRELI",
+			"value": 295.01
+		},
+		{
+			"source": "AUTO POSTO ANILA EIRELI",
+			"target": 44583,
+			"value": 295.01
+		},
+		{
+			"source": -100,
+			"target": "EDITORA RIO COTINGO EIRELI - EPP",
+			"value": 350
+		},
+		{
+			"source": "EDITORA RIO COTINGO EIRELI - EPP",
+			"target": 44644,
+			"value": 350
+		},
+		{
+			"source": -100,
+			"target": "NET CLARO",
+			"value": 414.76
+		},
+		{
+			"source": "NET CLARO",
+			"target": 44598,
+			"value": 414.76
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"value": 654.61
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 44606,
+			"value": 654.61
+		}
+	]
+}

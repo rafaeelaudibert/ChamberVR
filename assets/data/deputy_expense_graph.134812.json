@@ -1,0 +1,1473 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "EDMILSON RODRIGUES"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 614.9311239278086,
+			"desc": 11406.56,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15232,
+			"name": 1192,
+			"val": 3.076276255404218,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15228,
+			"name": 717.39,
+			"val": 2.855755318569265,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15222,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15230,
+			"name": 771.39,
+			"val": 2.88727400454173,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15227,
+			"name": 717.39,
+			"val": 2.855755318569265,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15183,
+			"name": 828.27,
+			"val": 2.918171931465883,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15225,
+			"name": 670.39,
+			"val": 2.8263275274342576,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15229,
+			"name": 631.39,
+			"val": 2.800297699223587,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15184,
+			"name": 1454.17,
+			"val": 3.16261518076387,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15231,
+			"name": 847,
+			"val": 2.9278834103307068,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15224,
+			"name": 992.39,
+			"val": 2.9966823793741537,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15226,
+			"name": 717.39,
+			"val": 2.855755318569265,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 15223,
+			"name": 1822.39,
+			"val": 3.260641323637607,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 263.96698296732086,
+			"desc": 5330.49,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 15203,
+			"name": 2315.27,
+			"val": 3.3646016444566147,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 15207,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 15205,
+			"name": 661.95,
+			"val": 2.8208251865028737,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 15206,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 15204,
+			"name": 2315.27,
+			"val": 3.3646016444566147,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1531.929214245956,
+			"desc": 26103.05999999999,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15213,
+			"name": 1534.17,
+			"val": 3.1858734860609745,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15220,
+			"name": -455.82,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15249,
+			"name": 1053.39,
+			"val": 3.02258919121395,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15219,
+			"name": -780.5,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15253,
+			"name": 791.39,
+			"val": 2.898390558221824,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15254,
+			"name": 794.85,
+			"val": 2.900285178570011,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15179,
+			"name": 940.17,
+			"val": 2.9732063891173643,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15210,
+			"name": 1178.85,
+			"val": 3.071458547829043,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15178,
+			"name": 1849.17,
+			"val": 3.2669768390489,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15180,
+			"name": -455.82,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15216,
+			"name": 1178.85,
+			"val": 3.071458547829043,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15260,
+			"name": 854.85,
+			"val": 2.9318899160295118,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15250,
+			"name": 867.85,
+			"val": 2.938444667801203,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15256,
+			"name": 637.85,
+			"val": 2.8047185598630118,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15214,
+			"name": 1847.39,
+			"val": 3.2665585884388535,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15182,
+			"name": -436.63,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15176,
+			"name": 2029.39,
+			"val": 3.307365516019059,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15177,
+			"name": 1277.17,
+			"val": 3.1062487086557913,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15255,
+			"name": 791.39,
+			"val": 2.898390558221824,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15211,
+			"name": 1847.39,
+			"val": 3.2665585884388535,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15221,
+			"name": -1654.5,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15259,
+			"name": 1827.85,
+			"val": 3.2619405530798717,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15257,
+			"name": 1218.85,
+			"val": 3.0859502616637764,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15218,
+			"name": -610.79,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15175,
+			"name": 1426.17,
+			"val": 3.154171296666943,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15258,
+			"name": 457.85,
+			"val": 2.6607232185228016,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15251,
+			"name": 1237.85,
+			"val": 3.0926680210014323,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15181,
+			"name": -455.82,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15217,
+			"name": 957.85,
+			"val": 2.9812975035745453,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15252,
+			"name": 789.85,
+			"val": 2.8975446224833,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15212,
+			"name": 819.85,
+			"val": 2.9137344010040573,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15248,
+			"name": 1002.85,
+			"val": 3.001235978838992,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 15215,
+			"name": 1739.85,
+			"val": 3.2405118074892747,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 84.53787645870008,
+			"desc": 1935.6399999999999,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 15209,
+			"name": 934.47,
+			"val": 2.9705653634531153,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 15208,
+			"name": 1001.17,
+			"val": 3.0005078275226227,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA",
+			"val": 7.853738114460031,
+			"desc": 247.02,
+			"group": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 15163,
+			"name": 70,
+			"val": 1.845098040014257,
+			"group": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 15235,
+			"name": 177.02,
+			"val": 2.2480223364123537,
+			"group": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "PRIME DERIVADOS DE PETROLEO LTDA",
+			"name": "PRIME DERIVADOS DE PETROLEO LTDA",
+			"val": 2.023016990363956,
+			"desc": 80,
+			"group": "PRIME DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 15166,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "PRIME DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 15165,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 15191,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "T. P. MONTENEGRO GRAFICA",
+			"name": "T. P. MONTENEGRO GRAFICA",
+			"val": 3819.485896094487,
+			"desc": 60145,
+			"group": "T. P. MONTENEGRO GRAFICA"
+		},
+		{
+			"id": 15167,
+			"name": 26500,
+			"val": 4.423245873936808,
+			"group": "T. P. MONTENEGRO GRAFICA"
+		},
+		{
+			"id": 15240,
+			"name": 15645,
+			"val": 4.194375567482212,
+			"group": "T. P. MONTENEGRO GRAFICA"
+		},
+		{
+			"id": 15193,
+			"name": 18000,
+			"val": 4.2552725051033065,
+			"group": "T. P. MONTENEGRO GRAFICA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 20.527421141632146,
+			"desc": 561.84,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 15171,
+			"name": 187.28,
+			"val": 2.272491400688568,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 15172,
+			"name": 374.56,
+			"val": 2.573521396352549,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "THALES CAMPELO DE FIGUEIREDO",
+			"name": "THALES CAMPELO DE FIGUEIREDO",
+			"val": 223.88049388330396,
+			"desc": 4600,
+			"group": "THALES CAMPELO DE FIGUEIREDO"
+		},
+		{
+			"id": 15241,
+			"name": 2300,
+			"val": 3.361727836017593,
+			"group": "THALES CAMPELO DE FIGUEIREDO"
+		},
+		{
+			"id": 15194,
+			"name": 2300,
+			"val": 3.361727836017593,
+			"group": "THALES CAMPELO DE FIGUEIREDO"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 73.624825706063,
+			"desc": 1713.3799999999999,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 15195,
+			"name": 0.12,
+			"val": -0.9208187539523752,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 15243,
+			"name": 580.24,
+			"val": 2.7636076644536898,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 15169,
+			"name": 211.69,
+			"val": 2.3257003429159857,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 15196,
+			"name": 460.01,
+			"val": 2.662767272763343,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 15242,
+			"name": 121.04,
+			"val": 2.0829289150151302,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 15168,
+			"name": 340.28,
+			"val": 2.531836424132864,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "POSTO SOBRADINHO LTDA",
+			"name": "POSTO SOBRADINHO LTDA",
+			"val": 10.639179641188623,
+			"desc": 319.66999999999996,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": 15237,
+			"name": 136.5,
+			"val": 2.1351326513767748,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": 15238,
+			"name": 183.17,
+			"val": 2.2628543454161933,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": "BRASIL RENT A CAR LTDA",
+			"name": "BRASIL RENT A CAR LTDA",
+			"val": 561.0402717125156,
+			"desc": 10500,
+			"group": "BRASIL RENT A CAR LTDA"
+		},
+		{
+			"id": 15202,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "BRASIL RENT A CAR LTDA"
+		},
+		{
+			"id": 15174,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "BRASIL RENT A CAR LTDA"
+		},
+		{
+			"id": 15247,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "BRASIL RENT A CAR LTDA"
+		},
+		{
+			"id": "PLANALTO BITTAR HOTEL LTDA",
+			"name": "PLANALTO BITTAR HOTEL LTDA",
+			"val": 38.58767101401927,
+			"desc": 972,
+			"group": "PLANALTO BITTAR HOTEL LTDA"
+		},
+		{
+			"id": 15201,
+			"name": 324,
+			"val": 2.510545010206612,
+			"group": "PLANALTO BITTAR HOTEL LTDA"
+		},
+		{
+			"id": 15199,
+			"name": 324,
+			"val": 2.510545010206612,
+			"group": "PLANALTO BITTAR HOTEL LTDA"
+		},
+		{
+			"id": 15200,
+			"name": 324,
+			"val": 2.510545010206612,
+			"group": "PLANALTO BITTAR HOTEL LTDA"
+		},
+		{
+			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"val": 4.280111786586229,
+			"desc": 148.35,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 15162,
+			"name": 148.35,
+			"val": 2.1712875506528606,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": "DUARTE E SANTOS LTDA",
+			"name": "DUARTE E SANTOS LTDA",
+			"val": 112.87712379549448,
+			"desc": 2500,
+			"group": "DUARTE E SANTOS LTDA"
+		},
+		{
+			"id": 15190,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "DUARTE E SANTOS LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 5.021747667706676,
+			"desc": 169.53,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 15189,
+			"name": 169.53,
+			"val": 2.2292465620175608,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "CARLOS BLAESE NETO EPP",
+			"name": "CARLOS BLAESE NETO EPP",
+			"val": 4.686033980727912,
+			"desc": 160,
+			"group": "CARLOS BLAESE NETO EPP"
+		},
+		{
+			"id": 15245,
+			"name": 160,
+			"val": 2.204119982655925,
+			"group": "CARLOS BLAESE NETO EPP"
+		},
+		{
+			"id": "APOLO COMERCIAL LTDA",
+			"name": "APOLO COMERCIAL LTDA",
+			"val": 17.723543735634603,
+			"desc": 495,
+			"group": "APOLO COMERCIAL LTDA"
+		},
+		{
+			"id": 15185,
+			"name": 495,
+			"val": 2.694605198933569,
+			"group": "APOLO COMERCIAL LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 0.7611646301802256,
+			"desc": 36.63,
+			"group": "RAMAL"
+		},
+		{
+			"id": 15197,
+			"name": 19.72,
+			"val": 1.2949069106051925,
+			"group": "RAMAL"
+		},
+		{
+			"id": 15244,
+			"name": 13.7,
+			"val": 1.1367205671564067,
+			"group": "RAMAL"
+		},
+		{
+			"id": 15170,
+			"name": 3.21,
+			"val": 0.5065050324048721,
+			"group": "RAMAL"
+		},
+		{
+			"id": "LB1 HOTELARIA EIRELI",
+			"name": "LB1 HOTELARIA EIRELI",
+			"val": 9.150757291651482,
+			"desc": 281.2,
+			"group": "LB1 HOTELARIA EIRELI"
+		},
+		{
+			"id": 15198,
+			"name": 281.2,
+			"val": 2.4490153163477864,
+			"group": "LB1 HOTELARIA EIRELI"
+		},
+		{
+			"id": "PARLABRASIL EIRELI",
+			"name": "PARLABRASIL EIRELI",
+			"val": 49.09832971438023,
+			"desc": 1200,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": 15192,
+			"name": 550,
+			"val": 2.7403626894942437,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": 15239,
+			"name": 650,
+			"val": 2.8129133566428557,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": "AUTO POSTO EIXINHO LTDA",
+			"name": "AUTO POSTO EIXINHO LTDA",
+			"val": 10.25967303870634,
+			"desc": 309.93,
+			"group": "AUTO POSTO EIXINHO LTDA"
+		},
+		{
+			"id": 15187,
+			"name": 159.9,
+			"val": 2.2038484637462346,
+			"group": "AUTO POSTO EIXINHO LTDA"
+		},
+		{
+			"id": 15188,
+			"name": 150.03,
+			"val": 2.17617810926733,
+			"group": "AUTO POSTO EIXINHO LTDA"
+		},
+		{
+			"id": "SANDRA MARIA GOMES FARIAS",
+			"name": "SANDRA MARIA GOMES FARIAS",
+			"val": 215.18626875157747,
+			"desc": 4440,
+			"group": "SANDRA MARIA GOMES FARIAS"
+		},
+		{
+			"id": 15161,
+			"name": 1480,
+			"val": 3.1702617153949575,
+			"group": "SANDRA MARIA GOMES FARIAS"
+		},
+		{
+			"id": 15234,
+			"name": 1480,
+			"val": 3.1702617153949575,
+			"group": "SANDRA MARIA GOMES FARIAS"
+		},
+		{
+			"id": 15186,
+			"name": 1480,
+			"val": 3.1702617153949575,
+			"group": "SANDRA MARIA GOMES FARIAS"
+		},
+		{
+			"id": "JADE COM. DE DERIVADOS DE PETROLEO LTDA",
+			"name": "JADE COM. DE DERIVADOS DE PETROLEO LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "JADE COM. DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 15164,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "JADE COM. DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO ITAMARATY LTDA",
+			"name": "POSTO ITAMARATY LTDA",
+			"val": 4.884330899094644,
+			"desc": 165.64,
+			"group": "POSTO ITAMARATY LTDA"
+		},
+		{
+			"id": 15236,
+			"name": 165.64,
+			"val": 2.2191652218303406,
+			"group": "POSTO ITAMARATY LTDA"
+		},
+		{
+			"id": "DANIELA BITTAR HOMSI HOTELARIA LTDA",
+			"name": "DANIELA BITTAR HOMSI HOTELARIA LTDA",
+			"val": 9.68139395021406,
+			"desc": 295,
+			"group": "DANIELA BITTAR HOMSI HOTELARIA LTDA"
+		},
+		{
+			"id": 15246,
+			"name": 295,
+			"val": 2.469822015978163,
+			"group": "DANIELA BITTAR HOMSI HOTELARIA LTDA"
+		},
+		{
+			"id": "CENTER COMERCIAL LTDA",
+			"name": "CENTER COMERCIAL LTDA",
+			"val": 10.652067961455824,
+			"desc": 320,
+			"group": "CENTER COMERCIAL LTDA"
+		},
+		{
+			"id": 15233,
+			"name": 320,
+			"val": 2.505149978319906,
+			"group": "CENTER COMERCIAL LTDA"
+		},
+		{
+			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"val": 1.7632438164584092,
+			"desc": 71.55,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
+		},
+		{
+			"id": 15173,
+			"name": 71.55,
+			"val": 1.854609638095795,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 11406.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15232,
+			"value": 1192
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15228,
+			"value": 717.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15222,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15230,
+			"value": 771.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15227,
+			"value": 717.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15183,
+			"value": 828.27
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15225,
+			"value": 670.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15229,
+			"value": 631.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15184,
+			"value": 1454.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15231,
+			"value": 847
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15224,
+			"value": 992.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15226,
+			"value": 717.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 15223,
+			"value": 1822.39
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 5330.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 15203,
+			"value": 2315.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 15207,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 15205,
+			"value": 661.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 15206,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 15204,
+			"value": 2315.27
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 26103.05999999999
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15213,
+			"value": 1534.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15220,
+			"value": -455.82
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15249,
+			"value": 1053.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15219,
+			"value": -780.5
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15253,
+			"value": 791.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15254,
+			"value": 794.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15179,
+			"value": 940.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15210,
+			"value": 1178.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15178,
+			"value": 1849.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15180,
+			"value": -455.82
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15216,
+			"value": 1178.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15260,
+			"value": 854.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15250,
+			"value": 867.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15256,
+			"value": 637.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15214,
+			"value": 1847.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15182,
+			"value": -436.63
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15176,
+			"value": 2029.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15177,
+			"value": 1277.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15255,
+			"value": 791.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15211,
+			"value": 1847.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15221,
+			"value": -1654.5
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15259,
+			"value": 1827.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15257,
+			"value": 1218.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15218,
+			"value": -610.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15175,
+			"value": 1426.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15258,
+			"value": 457.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15251,
+			"value": 1237.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15181,
+			"value": -455.82
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15217,
+			"value": 957.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15252,
+			"value": 789.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15212,
+			"value": 819.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15248,
+			"value": 1002.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 15215,
+			"value": 1739.85
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 1935.6399999999999
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 15209,
+			"value": 934.47
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 15208,
+			"value": 1001.17
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA",
+			"value": 247.02
+		},
+		{
+			"source": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA",
+			"target": 15163,
+			"value": 70
+		},
+		{
+			"source": "AUTO SHOPPING SOBRADINHO DERIVADOS DE PETROLEO LTDA",
+			"target": 15235,
+			"value": 177.02
+		},
+		{
+			"source": -100,
+			"target": "PRIME DERIVADOS DE PETROLEO LTDA",
+			"value": 80
+		},
+		{
+			"source": "PRIME DERIVADOS DE PETROLEO LTDA",
+			"target": 15166,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 150
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 15165,
+			"value": 100
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 15191,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "T. P. MONTENEGRO GRAFICA",
+			"value": 60145
+		},
+		{
+			"source": "T. P. MONTENEGRO GRAFICA",
+			"target": 15167,
+			"value": 26500
+		},
+		{
+			"source": "T. P. MONTENEGRO GRAFICA",
+			"target": 15240,
+			"value": 15645
+		},
+		{
+			"source": "T. P. MONTENEGRO GRAFICA",
+			"target": 15193,
+			"value": 18000
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 561.84
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 15171,
+			"value": 187.28
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 15172,
+			"value": 374.56
+		},
+		{
+			"source": -100,
+			"target": "THALES CAMPELO DE FIGUEIREDO",
+			"value": 4600
+		},
+		{
+			"source": "THALES CAMPELO DE FIGUEIREDO",
+			"target": 15241,
+			"value": 2300
+		},
+		{
+			"source": "THALES CAMPELO DE FIGUEIREDO",
+			"target": 15194,
+			"value": 2300
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 1713.3799999999999
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 15195,
+			"value": 0.12
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 15243,
+			"value": 580.24
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 15169,
+			"value": 211.69
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 15196,
+			"value": 460.01
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 15242,
+			"value": 121.04
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 15168,
+			"value": 340.28
+		},
+		{
+			"source": -100,
+			"target": "POSTO SOBRADINHO LTDA",
+			"value": 319.66999999999996
+		},
+		{
+			"source": "POSTO SOBRADINHO LTDA",
+			"target": 15237,
+			"value": 136.5
+		},
+		{
+			"source": "POSTO SOBRADINHO LTDA",
+			"target": 15238,
+			"value": 183.17
+		},
+		{
+			"source": -100,
+			"target": "BRASIL RENT A CAR LTDA",
+			"value": 10500
+		},
+		{
+			"source": "BRASIL RENT A CAR LTDA",
+			"target": 15202,
+			"value": 3500
+		},
+		{
+			"source": "BRASIL RENT A CAR LTDA",
+			"target": 15174,
+			"value": 3500
+		},
+		{
+			"source": "BRASIL RENT A CAR LTDA",
+			"target": 15247,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "PLANALTO BITTAR HOTEL LTDA",
+			"value": 972
+		},
+		{
+			"source": "PLANALTO BITTAR HOTEL LTDA",
+			"target": 15201,
+			"value": 324
+		},
+		{
+			"source": "PLANALTO BITTAR HOTEL LTDA",
+			"target": 15199,
+			"value": 324
+		},
+		{
+			"source": "PLANALTO BITTAR HOTEL LTDA",
+			"target": 15200,
+			"value": 324
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"value": 148.35
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 15162,
+			"value": 148.35
+		},
+		{
+			"source": -100,
+			"target": "DUARTE E SANTOS LTDA",
+			"value": 2500
+		},
+		{
+			"source": "DUARTE E SANTOS LTDA",
+			"target": 15190,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 169.53
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 15189,
+			"value": 169.53
+		},
+		{
+			"source": -100,
+			"target": "CARLOS BLAESE NETO EPP",
+			"value": 160
+		},
+		{
+			"source": "CARLOS BLAESE NETO EPP",
+			"target": 15245,
+			"value": 160
+		},
+		{
+			"source": -100,
+			"target": "APOLO COMERCIAL LTDA",
+			"value": 495
+		},
+		{
+			"source": "APOLO COMERCIAL LTDA",
+			"target": 15185,
+			"value": 495
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 36.63
+		},
+		{
+			"source": "RAMAL",
+			"target": 15197,
+			"value": 19.72
+		},
+		{
+			"source": "RAMAL",
+			"target": 15244,
+			"value": 13.7
+		},
+		{
+			"source": "RAMAL",
+			"target": 15170,
+			"value": 3.21
+		},
+		{
+			"source": -100,
+			"target": "LB1 HOTELARIA EIRELI",
+			"value": 281.2
+		},
+		{
+			"source": "LB1 HOTELARIA EIRELI",
+			"target": 15198,
+			"value": 281.2
+		},
+		{
+			"source": -100,
+			"target": "PARLABRASIL EIRELI",
+			"value": 1200
+		},
+		{
+			"source": "PARLABRASIL EIRELI",
+			"target": 15192,
+			"value": 550
+		},
+		{
+			"source": "PARLABRASIL EIRELI",
+			"target": 15239,
+			"value": 650
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO EIXINHO LTDA",
+			"value": 309.93
+		},
+		{
+			"source": "AUTO POSTO EIXINHO LTDA",
+			"target": 15187,
+			"value": 159.9
+		},
+		{
+			"source": "AUTO POSTO EIXINHO LTDA",
+			"target": 15188,
+			"value": 150.03
+		},
+		{
+			"source": -100,
+			"target": "SANDRA MARIA GOMES FARIAS",
+			"value": 4440
+		},
+		{
+			"source": "SANDRA MARIA GOMES FARIAS",
+			"target": 15161,
+			"value": 1480
+		},
+		{
+			"source": "SANDRA MARIA GOMES FARIAS",
+			"target": 15234,
+			"value": 1480
+		},
+		{
+			"source": "SANDRA MARIA GOMES FARIAS",
+			"target": 15186,
+			"value": 1480
+		},
+		{
+			"source": -100,
+			"target": "JADE COM. DE DERIVADOS DE PETROLEO LTDA",
+			"value": 50
+		},
+		{
+			"source": "JADE COM. DE DERIVADOS DE PETROLEO LTDA",
+			"target": 15164,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "POSTO ITAMARATY LTDA",
+			"value": 165.64
+		},
+		{
+			"source": "POSTO ITAMARATY LTDA",
+			"target": 15236,
+			"value": 165.64
+		},
+		{
+			"source": -100,
+			"target": "DANIELA BITTAR HOMSI HOTELARIA LTDA",
+			"value": 295
+		},
+		{
+			"source": "DANIELA BITTAR HOMSI HOTELARIA LTDA",
+			"target": 15246,
+			"value": 295
+		},
+		{
+			"source": -100,
+			"target": "CENTER COMERCIAL LTDA",
+			"value": 320
+		},
+		{
+			"source": "CENTER COMERCIAL LTDA",
+			"target": 15233,
+			"value": 320
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"value": 71.55
+		},
+		{
+			"source": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"target": 15173,
+			"value": 71.55
+		}
+	]
+}

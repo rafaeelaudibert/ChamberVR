@@ -1,0 +1,1389 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "GUTEMBERG REIS"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 8.918962545263565,
+			"desc": 275.14,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23020,
+			"name": 171.14,
+			"val": 2.2333515276532743,
+			"group": "RAMAL"
+		},
+		{
+			"id": 22967,
+			"name": 104,
+			"val": 2.0170333392987803,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 556.2945397410194,
+			"desc": 10419.81,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23038,
+			"name": 1134.25,
+			"val": 3.054708787938054,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 22986,
+			"name": 1239.39,
+			"val": 3.093207987729152,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 22985,
+			"name": 1239.39,
+			"val": 3.093207987729152,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23034,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23037,
+			"name": 1132.25,
+			"val": 3.053942329354995,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23036,
+			"name": 871.25,
+			"val": 2.940142791106066,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23035,
+			"name": 1240.25,
+			"val": 3.0935092357082232,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 22984,
+			"name": 1391.39,
+			"val": 3.1434488777334137,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23039,
+			"name": 735.25,
+			"val": 2.866435033179107,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 22983,
+			"name": 1391.39,
+			"val": 3.1434488777334137,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 22992,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 23044,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 25.64520528086796,
+			"desc": 681.19,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 23043,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 22991,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 22952,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 22950,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 22951,
+			"name": 31.19,
+			"val": 1.4940153747571436,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 22990,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"name": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"val": 260.7326625129341,
+			"desc": 5271.96,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23012,
+			"name": 191.05,
+			"val": 2.2811470420244278,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23001,
+			"name": 173.08,
+			"val": 2.238246886526687,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23004,
+			"name": 167.67,
+			"val": 2.2244553643355673,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23008,
+			"name": 138.94,
+			"val": 2.1428272945383364,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22964,
+			"name": 174.75,
+			"val": 2.242417184417719,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22997,
+			"name": 162.5,
+			"val": 2.210853365314893,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22998,
+			"name": 117.9,
+			"val": 2.071513805095089,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22961,
+			"name": 248.88,
+			"val": 2.3959899981006467,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22959,
+			"name": 241.04,
+			"val": 2.382089118665301,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23000,
+			"name": 169.43,
+			"val": 2.228990310840724,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23006,
+			"name": 224.99,
+			"val": 2.3521632157054433,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23017,
+			"name": 211.71,
+			"val": 2.3257413721537965,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22962,
+			"name": 213.91,
+			"val": 2.33023108771928,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22994,
+			"name": 226,
+			"val": 2.3541084391474008,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22960,
+			"name": 142.44,
+			"val": 2.153631965002216,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23016,
+			"name": 200.43,
+			"val": 2.301962726473363,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23011,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22999,
+			"name": 235.08,
+			"val": 2.371215682042361,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23009,
+			"name": 253.55,
+			"val": 2.404063614883892,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23007,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22995,
+			"name": 147.74,
+			"val": 2.169498094684968,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23010,
+			"name": 52.07,
+			"val": 1.7165875776756923,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23013,
+			"name": 23.53,
+			"val": 1.3716219271760213,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23003,
+			"name": 225.38,
+			"val": 2.3529153745538527,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23014,
+			"name": 146.73,
+			"val": 2.166518917540945,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23015,
+			"name": 157.68,
+			"val": 2.197776611271387,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22996,
+			"name": 102.15,
+			"val": 2.0092383709684665,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23002,
+			"name": 110.05,
+			"val": 2.041590046889367,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 22963,
+			"name": 239.11,
+			"val": 2.378597739453303,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": 23005,
+			"name": 244.17,
+			"val": 2.3876923032009207,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 23018,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"val": 46.86162089449532,
+			"desc": 1151.97,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 22955,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 22957,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 22953,
+			"name": 201.97,
+			"val": 2.3052868654761256,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 22956,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 23045,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 22954,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "OI MÓVEL SA",
+			"name": "OI MÓVEL SA",
+			"val": 29.83832763275314,
+			"desc": 776.9100000000001,
+			"group": "OI MÓVEL SA"
+		},
+		{
+			"id": 23040,
+			"name": 304.86,
+			"val": 2.4841004452939393,
+			"group": "OI MÓVEL SA"
+		},
+		{
+			"id": 22987,
+			"name": 304.86,
+			"val": 2.4841004452939393,
+			"group": "OI MÓVEL SA"
+		},
+		{
+			"id": 22948,
+			"name": 167.19,
+			"val": 2.2232102977758625,
+			"group": "OI MÓVEL SA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 576.0106116344742,
+			"desc": 10752.57,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22975,
+			"name": 1895.39,
+			"val": 3.2776985849749405,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22982,
+			"name": -1703.29,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23029,
+			"name": 976.25,
+			"val": 2.9895610468853566,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23025,
+			"name": 1039.39,
+			"val": 3.0167785341476923,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23032,
+			"name": -847.34,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23031,
+			"name": 1259.39,
+			"val": 3.1001602405286444,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23033,
+			"name": -1197.89,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22980,
+			"name": 1260.25,
+			"val": 3.100456706110188,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22978,
+			"name": 904.25,
+			"val": 2.9562885174336575,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22981,
+			"name": -10.7,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23027,
+			"name": 975.2,
+			"val": 2.9890936926103255,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23026,
+			"name": 1829.39,
+			"val": 3.262306300770294,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22976,
+			"name": 1301.25,
+			"val": 3.1143607425185924,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23030,
+			"name": 890.39,
+			"val": 2.949580273778127,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22977,
+			"name": 385,
+			"val": 2.5854607295085006,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 23028,
+			"name": 1259.39,
+			"val": 3.1001602405286444,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 22979,
+			"name": 536.25,
+			"val": 2.7293673051927807,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "PLACAR IMOBILIARIA LTDA",
+			"name": "PLACAR IMOBILIARIA LTDA",
+			"val": 838.5529251433688,
+			"desc": 15101.05,
+			"group": "PLACAR IMOBILIARIA LTDA"
+		},
+		{
+			"id": 22949,
+			"name": 768.77,
+			"val": 2.885796427354729,
+			"group": "PLACAR IMOBILIARIA LTDA"
+		},
+		{
+			"id": 22989,
+			"name": 769.77,
+			"val": 2.886360981468447,
+			"group": "PLACAR IMOBILIARIA LTDA"
+		},
+		{
+			"id": 23041,
+			"name": 6081.12,
+			"val": 3.7839835735201572,
+			"group": "PLACAR IMOBILIARIA LTDA"
+		},
+		{
+			"id": 23042,
+			"name": 749.53,
+			"val": 2.8747890202045965,
+			"group": "PLACAR IMOBILIARIA LTDA"
+		},
+		{
+			"id": 22988,
+			"name": 6731.86,
+			"val": 3.828135075536155,
+			"group": "PLACAR IMOBILIARIA LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 126.80252995868841,
+			"desc": 2771.8500000000004,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 22973,
+			"name": 1127.95,
+			"val": 3.052289848578728,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 22974,
+			"name": 381.95,
+			"val": 2.5820065143636985,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 22972,
+			"name": 1261.95,
+			"val": 3.1010421479712917,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "PANTANAL VEÍCULOS LTDA",
+			"name": "PANTANAL VEÍCULOS LTDA",
+			"val": 435.12052010710914,
+			"desc": 8350,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 22971,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 23024,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 22970,
+			"name": 350,
+			"val": 2.5440680443502757,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 22958,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 1.8104821741114279,
+			"desc": 73.1,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 23022,
+			"name": 73.1,
+			"val": 1.8639173769578603,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 23046,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 134.45675281819402,
+			"desc": 2919.99,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 22968,
+			"name": 1512.41,
+			"val": 3.179669540239335,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 23021,
+			"name": 1407.58,
+			"val": 3.148473087410564,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "H PLUS ADMINISTRACAO E HOTELARIA LTDA",
+			"name": "H PLUS ADMINISTRACAO E HOTELARIA LTDA",
+			"val": 86.83184515665013,
+			"desc": 1981.97,
+			"group": "H PLUS ADMINISTRACAO E HOTELARIA LTDA"
+		},
+		{
+			"id": 22969,
+			"name": 1981.97,
+			"val": 3.297097076520063,
+			"group": "H PLUS ADMINISTRACAO E HOTELARIA LTDA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 0.4544231832612287,
+			"desc": 24.59,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23019,
+			"name": 24.59,
+			"val": 1.3907585287387172,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "CWM TRANSPORTE EXECUTIVO LTDA",
+			"name": "CWM TRANSPORTE EXECUTIVO LTDA",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "CWM TRANSPORTE EXECUTIVO LTDA"
+		},
+		{
+			"id": 23023,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "CWM TRANSPORTE EXECUTIVO LTDA"
+		},
+		{
+			"id": "Kalunga Comercio e Industria Grafica Ltda",
+			"name": "Kalunga Comercio e Industria Grafica Ltda",
+			"val": 13.829766442311687,
+			"desc": 399.99,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": 22947,
+			"name": 399.99,
+			"val": 2.6020491338301954,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 163.58739922478085,
+			"desc": 3476.6000000000004,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 22965,
+			"name": 1448.9,
+			"val": 3.161038412422962,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 22966,
+			"name": 2027.7,
+			"val": 3.307003701163156,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA",
+			"name": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA",
+			"val": 7.465466078478158,
+			"desc": 236.65,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA"
+		},
+		{
+			"id": 22993,
+			"name": 236.65,
+			"val": 2.374106508804013,
+			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 275.14
+		},
+		{
+			"source": "RAMAL",
+			"target": 23020,
+			"value": 171.14
+		},
+		{
+			"source": "RAMAL",
+			"target": 22967,
+			"value": 104
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 10419.81
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23038,
+			"value": 1134.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 22986,
+			"value": 1239.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 22985,
+			"value": 1239.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23034,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23037,
+			"value": 1132.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23036,
+			"value": 871.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23035,
+			"value": 1240.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 22984,
+			"value": 1391.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23039,
+			"value": 735.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 22983,
+			"value": 1391.39
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"value": 400
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 22992,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 23044,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 681.19
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 23043,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 22991,
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 22952,
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 22950,
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 22951,
+			"value": 31.19
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 22990,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"value": 5271.96
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23012,
+			"value": 191.05
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23001,
+			"value": 173.08
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23004,
+			"value": 167.67
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23008,
+			"value": 138.94
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22964,
+			"value": 174.75
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22997,
+			"value": 162.5
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22998,
+			"value": 117.9
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22961,
+			"value": 248.88
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22959,
+			"value": 241.04
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23000,
+			"value": 169.43
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23006,
+			"value": 224.99
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23017,
+			"value": 211.71
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22962,
+			"value": 213.91
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22994,
+			"value": 226
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22960,
+			"value": 142.44
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23016,
+			"value": 200.43
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23011,
+			"value": 210
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22999,
+			"value": 235.08
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23009,
+			"value": 253.55
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23007,
+			"value": 120
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22995,
+			"value": 147.74
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23010,
+			"value": 52.07
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23013,
+			"value": 23.53
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23003,
+			"value": 225.38
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23014,
+			"value": 146.73
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23015,
+			"value": 157.68
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22996,
+			"value": 102.15
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23002,
+			"value": 110.05
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 22963,
+			"value": 239.11
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
+			"target": 23005,
+			"value": 244.17
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 200
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 23018,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"value": 1151.97
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 22955,
+			"value": 200
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 22957,
+			"value": 200
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 22953,
+			"value": 201.97
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 22956,
+			"value": 150
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 23045,
+			"value": 200
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 22954,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "OI MÓVEL SA",
+			"value": 776.9100000000001
+		},
+		{
+			"source": "OI MÓVEL SA",
+			"target": 23040,
+			"value": 304.86
+		},
+		{
+			"source": "OI MÓVEL SA",
+			"target": 22987,
+			"value": 304.86
+		},
+		{
+			"source": "OI MÓVEL SA",
+			"target": 22948,
+			"value": 167.19
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 10752.57
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22975,
+			"value": 1895.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22982,
+			"value": -1703.29
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23029,
+			"value": 976.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23025,
+			"value": 1039.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23032,
+			"value": -847.34
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23031,
+			"value": 1259.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23033,
+			"value": -1197.89
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22980,
+			"value": 1260.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22978,
+			"value": 904.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22981,
+			"value": -10.7
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23027,
+			"value": 975.2
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23026,
+			"value": 1829.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22976,
+			"value": 1301.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23030,
+			"value": 890.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22977,
+			"value": 385
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 23028,
+			"value": 1259.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 22979,
+			"value": 536.25
+		},
+		{
+			"source": -100,
+			"target": "PLACAR IMOBILIARIA LTDA",
+			"value": 15101.05
+		},
+		{
+			"source": "PLACAR IMOBILIARIA LTDA",
+			"target": 22949,
+			"value": 768.77
+		},
+		{
+			"source": "PLACAR IMOBILIARIA LTDA",
+			"target": 22989,
+			"value": 769.77
+		},
+		{
+			"source": "PLACAR IMOBILIARIA LTDA",
+			"target": 23041,
+			"value": 6081.12
+		},
+		{
+			"source": "PLACAR IMOBILIARIA LTDA",
+			"target": 23042,
+			"value": 749.53
+		},
+		{
+			"source": "PLACAR IMOBILIARIA LTDA",
+			"target": 22988,
+			"value": 6731.86
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 2771.8500000000004
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 22973,
+			"value": 1127.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 22974,
+			"value": 381.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 22972,
+			"value": 1261.95
+		},
+		{
+			"source": -100,
+			"target": "PANTANAL VEÍCULOS LTDA",
+			"value": 8350
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 22971,
+			"value": 4000
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 23024,
+			"value": 4000
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 22970,
+			"value": 350
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 50
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 22958,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 73.1
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 23022,
+			"value": 73.1
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 23046,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 2919.99
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 22968,
+			"value": 1512.41
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 23021,
+			"value": 1407.58
+		},
+		{
+			"source": -100,
+			"target": "H PLUS ADMINISTRACAO E HOTELARIA LTDA",
+			"value": 1981.97
+		},
+		{
+			"source": "H PLUS ADMINISTRACAO E HOTELARIA LTDA",
+			"target": 22969,
+			"value": 1981.97
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 24.59
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23019,
+			"value": 24.59
+		},
+		{
+			"source": -100,
+			"target": "CWM TRANSPORTE EXECUTIVO LTDA",
+			"value": 5000
+		},
+		{
+			"source": "CWM TRANSPORTE EXECUTIVO LTDA",
+			"target": 23023,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "Kalunga Comercio e Industria Grafica Ltda",
+			"value": 399.99
+		},
+		{
+			"source": "Kalunga Comercio e Industria Grafica Ltda",
+			"target": 22947,
+			"value": 399.99
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 3476.6000000000004
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 22965,
+			"value": 1448.9
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 22966,
+			"value": 2027.7
+		},
+		{
+			"source": -100,
+			"target": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA",
+			"value": 236.65
+		},
+		{
+			"source": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA",
+			"target": 22993,
+			"value": 236.65
+		}
+	]
+}

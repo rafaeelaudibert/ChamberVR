@@ -1,0 +1,1761 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "VANDERLEI MACRIS"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "PIMENTA VERDE ALIMENTOS LTDA",
+			"name": "PIMENTA VERDE ALIMENTOS LTDA",
+			"val": 1.8625099364080824,
+			"desc": 74.80000000000001,
+			"group": "PIMENTA VERDE ALIMENTOS LTDA"
+		},
+		{
+			"id": 49321,
+			"name": 34.2,
+			"val": 1.534026106056135,
+			"group": "PIMENTA VERDE ALIMENTOS LTDA"
+		},
+		{
+			"id": 49323,
+			"name": 22.6,
+			"val": 1.354108439147401,
+			"group": "PIMENTA VERDE ALIMENTOS LTDA"
+		},
+		{
+			"id": 49322,
+			"name": 18,
+			"val": 1.255272505103306,
+			"group": "PIMENTA VERDE ALIMENTOS LTDA"
+		},
+		{
+			"id": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A.",
+			"name": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A.",
+			"val": 0.08202231090878255,
+			"desc": 7.2,
+			"group": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A."
+		},
+		{
+			"id": 49333,
+			"name": 7.2,
+			"val": 0.8573324964312685,
+			"group": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A."
+		},
+		{
+			"id": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"name": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"val": 82.07332117320121,
+			"desc": 1885.7199999999998,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49295,
+			"name": 100.03,
+			"val": 2.000130268805227,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49293,
+			"name": 127.87,
+			"val": 2.106768665176806,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49355,
+			"name": 108.01,
+			"val": 2.033463966077405,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49356,
+			"name": 112.03,
+			"val": 2.0493343359722838,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49348,
+			"name": 118.24,
+			"val": 2.0727644210507505,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49294,
+			"name": 110,
+			"val": 2.041392685158225,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49351,
+			"name": 190.09,
+			"val": 2.2789592706842177,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49354,
+			"name": 154.03,
+			"val": 2.1876053154181485,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49352,
+			"name": 236.01,
+			"val": 2.3729304048887934,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49350,
+			"name": 94.04,
+			"val": 1.9733126204529017,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49297,
+			"name": 123.04,
+			"val": 2.090046322457356,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49353,
+			"name": 93.5,
+			"val": 1.9708116108725178,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49349,
+			"name": 74.84,
+			"val": 1.8741337788279724,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49298,
+			"name": 126.95,
+			"val": 2.103632705209741,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": 49296,
+			"name": 117.04,
+			"val": 2.0683343131172545,
+			"group": "POSTO DE GASOLINA PIRAQUARA LTDA"
+		},
+		{
+			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"val": 0.0977806698191113,
+			"desc": 8.1,
+			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
+		},
+		{
+			"id": 49332,
+			"name": 8.1,
+			"val": 0.9084850188786497,
+			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
+		},
+		{
+			"id": "GRACIA DO AMPARO LTDA",
+			"name": "GRACIA DO AMPARO LTDA",
+			"val": 2.8199831174197714,
+			"desc": 105,
+			"group": "GRACIA DO AMPARO LTDA"
+		},
+		{
+			"id": 49314,
+			"name": 105,
+			"val": 2.0211892990699383,
+			"group": "GRACIA DO AMPARO LTDA"
+		},
+		{
+			"id": "COLONIAL PAES E DOCES LT",
+			"name": "COLONIAL PAES E DOCES LT",
+			"val": 0.8726577236338542,
+			"desc": 40.78,
+			"group": "COLONIAL PAES E DOCES LT"
+		},
+		{
+			"id": 49313,
+			"name": 40.78,
+			"val": 1.6104472214421213,
+			"group": "COLONIAL PAES E DOCES LT"
+		},
+		{
+			"id": "ECT EMP.BRAS.CORREIOS E TELÉGRAFOS",
+			"name": "ECT EMP.BRAS.CORREIOS E TELÉGRAFOS",
+			"val": 0.575139982296771,
+			"desc": 29.46,
+			"group": "ECT EMP.BRAS.CORREIOS E TELÉGRAFOS"
+		},
+		{
+			"id": 49307,
+			"name": 29.46,
+			"val": 1.469232742506612,
+			"group": "ECT EMP.BRAS.CORREIOS E TELÉGRAFOS"
+		},
+		{
+			"id": "CORREIOS - SEDEX 12",
+			"name": "CORREIOS - SEDEX 12",
+			"val": 3.7398169663554595,
+			"desc": 132.6,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 49363,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 49306,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA",
+			"name": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA",
+			"val": 7.910111417723875,
+			"desc": 248.51999999999998,
+			"group": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA"
+		},
+		{
+			"id": 49290,
+			"name": 123.03,
+			"val": 2.090011024007147,
+			"group": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA"
+		},
+		{
+			"id": 49291,
+			"name": 125.49,
+			"val": 2.098609119300293,
+			"group": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA"
+		},
+		{
+			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"val": 54.443762271702674,
+			"desc": 1313.85,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 49331,
+			"name": 1313.85,
+			"val": 3.118545785398158,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"name": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"val": 55.67977264944993,
+			"desc": 1340,
+			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
+		},
+		{
+			"id": 49280,
+			"name": 670,
+			"val": 2.8260748027008264,
+			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
+		},
+		{
+			"id": 49341,
+			"name": 670,
+			"val": 2.8260748027008264,
+			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
+		},
+		{
+			"id": "LANCHONETE CENTRAL DO PARAISO LTDA ME",
+			"name": "LANCHONETE CENTRAL DO PARAISO LTDA ME",
+			"val": 0.4300512678214991,
+			"desc": 23.58,
+			"group": "LANCHONETE CENTRAL DO PARAISO LTDA ME"
+		},
+		{
+			"id": 49316,
+			"name": 23.58,
+			"val": 1.3725438007590702,
+			"group": "LANCHONETE CENTRAL DO PARAISO LTDA ME"
+		},
+		{
+			"id": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
+			"name": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
+			"val": 0.3228424910217125,
+			"desc": 19,
+			"group": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD"
+		},
+		{
+			"id": 49367,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD"
+		},
+		{
+			"id": "AUTO POSTO BONNEVILE LTDA ME",
+			"name": "AUTO POSTO BONNEVILE LTDA ME",
+			"val": 13.157626645101299,
+			"desc": 383.28,
+			"group": "AUTO POSTO BONNEVILE LTDA ME"
+		},
+		{
+			"id": 49284,
+			"name": 70,
+			"val": 1.845098040014257,
+			"group": "AUTO POSTO BONNEVILE LTDA ME"
+		},
+		{
+			"id": 49345,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO BONNEVILE LTDA ME"
+		},
+		{
+			"id": 49282,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO BONNEVILE LTDA ME"
+		},
+		{
+			"id": 49283,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "AUTO POSTO BONNEVILE LTDA ME"
+		},
+		{
+			"id": 49344,
+			"name": 103.28,
+			"val": 2.014016229258364,
+			"group": "AUTO POSTO BONNEVILE LTDA ME"
+		},
+		{
+			"id": "FINE LINEA PAES E DOCES LTDA",
+			"name": "FINE LINEA PAES E DOCES LTDA",
+			"val": 0.3092402521820863,
+			"desc": 18.4,
+			"group": "FINE LINEA PAES E DOCES LTDA"
+		},
+		{
+			"id": 49370,
+			"name": 18.4,
+			"val": 1.2648178230095364,
+			"group": "FINE LINEA PAES E DOCES LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 2.023016990363956,
+			"desc": 80,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49347,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "ADM COMERCIO DE ALIMENTOS LTDA",
+			"name": "ADM COMERCIO DE ALIMENTOS LTDA",
+			"val": 2.0572247750266226,
+			"desc": 81.1,
+			"group": "ADM COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 49309,
+			"name": 81.1,
+			"val": 1.909020854211156,
+			"group": "ADM COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "CANINDE EVENTOS E PROMOCOES EIRELI",
+			"name": "CANINDE EVENTOS E PROMOCOES EIRELI",
+			"val": 2.688297329159332,
+			"desc": 100.95,
+			"group": "CANINDE EVENTOS E PROMOCOES EIRELI"
+		},
+		{
+			"id": 49368,
+			"name": 100.95,
+			"val": 2.0041063232796583,
+			"group": "CANINDE EVENTOS E PROMOCOES EIRELI"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 176.08698692259824,
+			"desc": 3712.37,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 49361,
+			"name": 1239.77,
+			"val": 3.093341123068876,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 49362,
+			"name": 2472.6,
+			"val": 3.393153864908232,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "WALTER CHAZANAS",
+			"name": "WALTER CHAZANAS",
+			"val": 273.35474987258647,
+			"desc": 5500,
+			"group": "WALTER CHAZANAS"
+		},
+		{
+			"id": 49342,
+			"name": 2750,
+			"val": 3.439332693830263,
+			"group": "WALTER CHAZANAS"
+		},
+		{
+			"id": 49281,
+			"name": 2750,
+			"val": 3.439332693830263,
+			"group": "WALTER CHAZANAS"
+		},
+		{
+			"id": "PANIFICADORA FLOR DO CAMPO BELO LTDA",
+			"name": "PANIFICADORA FLOR DO CAMPO BELO LTDA",
+			"val": 0.5888268714730223,
+			"desc": 30,
+			"group": "PANIFICADORA FLOR DO CAMPO BELO LTDA"
+		},
+		{
+			"id": 49320,
+			"name": 6,
+			"val": 0.7781512503836436,
+			"group": "PANIFICADORA FLOR DO CAMPO BELO LTDA"
+		},
+		{
+			"id": 49317,
+			"name": 9,
+			"val": 0.9542425094393249,
+			"group": "PANIFICADORA FLOR DO CAMPO BELO LTDA"
+		},
+		{
+			"id": 49319,
+			"name": 6,
+			"val": 0.7781512503836436,
+			"group": "PANIFICADORA FLOR DO CAMPO BELO LTDA"
+		},
+		{
+			"id": 49318,
+			"name": 9,
+			"val": 0.9542425094393249,
+			"group": "PANIFICADORA FLOR DO CAMPO BELO LTDA"
+		},
+		{
+			"id": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA",
+			"name": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA",
+			"val": 3.1837633791225954,
+			"desc": 116.05,
+			"group": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 49310,
+			"name": 116.05,
+			"val": 2.0646451447919363,
+			"group": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "ERNESTO PAVAN PAP.E LIV.APOLO LTDA - EPP (PAP. E LIV. APOLO)",
+			"name": "ERNESTO PAVAN PAP.E LIV.APOLO LTDA - EPP (PAP. E LIV. APOLO)",
+			"val": 12.966122327838399,
+			"desc": 378.5,
+			"group": "ERNESTO PAVAN PAP.E LIV.APOLO LTDA - EPP (PAP. E LIV. APOLO)"
+		},
+		{
+			"id": 49278,
+			"name": 378.5,
+			"val": 2.5780658838360915,
+			"group": "ERNESTO PAVAN PAP.E LIV.APOLO LTDA - EPP (PAP. E LIV. APOLO)"
+		},
+		{
+			"id": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"name": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"val": 82.28432912445977,
+			"desc": 1890,
+			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
+		},
+		{
+			"id": 49273,
+			"name": 315,
+			"val": 2.4983105537896004,
+			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
+		},
+		{
+			"id": 49336,
+			"name": 315,
+			"val": 2.4983105537896004,
+			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
+		},
+		{
+			"id": 49337,
+			"name": 315,
+			"val": 2.4983105537896004,
+			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
+		},
+		{
+			"id": 49335,
+			"name": 315,
+			"val": 2.4983105537896004,
+			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
+		},
+		{
+			"id": 49275,
+			"name": 315,
+			"val": 2.4983105537896004,
+			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
+		},
+		{
+			"id": 49274,
+			"name": 315,
+			"val": 2.4983105537896004,
+			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
+		},
+		{
+			"id": "AEROMIX CONVENIENCIAS EIRELI",
+			"name": "AEROMIX CONVENIENCIAS EIRELI",
+			"val": 1.2782588409238116,
+			"desc": 55.22,
+			"group": "AEROMIX CONVENIENCIAS EIRELI"
+		},
+		{
+			"id": 49365,
+			"name": 55.22,
+			"val": 1.7420964023032444,
+			"group": "AEROMIX CONVENIENCIAS EIRELI"
+		},
+		{
+			"id": "MARIA CRISTINA PUPO MATIAS 01807131831",
+			"name": "MARIA CRISTINA PUPO MATIAS 01807131831",
+			"val": 678.7361470814084,
+			"desc": 12471,
+			"group": "MARIA CRISTINA PUPO MATIAS 01807131831"
+		},
+		{
+			"id": 49359,
+			"name": 4982.4,
+			"val": 3.697438590888026,
+			"group": "MARIA CRISTINA PUPO MATIAS 01807131831"
+		},
+		{
+			"id": 49299,
+			"name": 4992.4,
+			"val": 3.698309374517574,
+			"group": "MARIA CRISTINA PUPO MATIAS 01807131831"
+		},
+		{
+			"id": 49300,
+			"name": 2496.2,
+			"val": 3.3972793788535927,
+			"group": "MARIA CRISTINA PUPO MATIAS 01807131831"
+		},
+		{
+			"id": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"name": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"val": 51.265452545402546,
+			"desc": 1246.31,
+			"group": "AUTO POSTO VIP DE AMERICANA LTDA"
+		},
+		{
+			"id": 49288,
+			"name": 200.01,
+			"val": 2.3010517098452263,
+			"group": "AUTO POSTO VIP DE AMERICANA LTDA"
+		},
+		{
+			"id": 49287,
+			"name": 120.39,
+			"val": 2.0805904144535012,
+			"group": "AUTO POSTO VIP DE AMERICANA LTDA"
+		},
+		{
+			"id": 49286,
+			"name": 136,
+			"val": 2.1335389083702174,
+			"group": "AUTO POSTO VIP DE AMERICANA LTDA"
+		},
+		{
+			"id": 49289,
+			"name": 598.12,
+			"val": 2.7767883246398557,
+			"group": "AUTO POSTO VIP DE AMERICANA LTDA"
+		},
+		{
+			"id": 49346,
+			"name": 191.79,
+			"val": 2.2828259591535267,
+			"group": "AUTO POSTO VIP DE AMERICANA LTDA"
+		},
+		{
+			"id": "HOOTERS PAULISTA LANCHONETE LTDA.",
+			"name": "HOOTERS PAULISTA LANCHONETE LTDA.",
+			"val": 1.0247005414066561,
+			"desc": 46.3,
+			"group": "HOOTERS PAULISTA LANCHONETE LTDA."
+		},
+		{
+			"id": 49315,
+			"name": 46.3,
+			"val": 1.665580991017953,
+			"group": "HOOTERS PAULISTA LANCHONETE LTDA."
+		},
+		{
+			"id": "GZ COMERCIO DE ALIMENTOS LTDA - EPP",
+			"name": "GZ COMERCIO DE ALIMENTOS LTDA - EPP",
+			"val": 0.9857603797577396,
+			"desc": 44.9,
+			"group": "GZ COMERCIO DE ALIMENTOS LTDA - EPP"
+		},
+		{
+			"id": 49371,
+			"name": 44.9,
+			"val": 1.6522463410033232,
+			"group": "GZ COMERCIO DE ALIMENTOS LTDA - EPP"
+		},
+		{
+			"id": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"name": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"val": 87.7262742772967,
+			"desc": 2000,
+			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
+		},
+		{
+			"id": 49330,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
+		},
+		{
+			"id": "COSTELARIA E O PONTO LTDA",
+			"name": "COSTELARIA E O PONTO LTDA",
+			"val": 3.7608895253090293,
+			"desc": 133.22,
+			"group": "COSTELARIA E O PONTO LTDA"
+		},
+		{
+			"id": 49369,
+			"name": 133.22,
+			"val": 2.1245694293208404,
+			"group": "COSTELARIA E O PONTO LTDA"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 4.686033980727912,
+			"desc": 160,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 49358,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 49357,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA",
+			"name": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA",
+			"val": 52.054099817561465,
+			"desc": 1263.1100000000001,
+			"group": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA"
+		},
+		{
+			"id": 49334,
+			"name": 873.84,
+			"val": 2.9414319206455497,
+			"group": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA"
+		},
+		{
+			"id": 49272,
+			"name": 389.27,
+			"val": 2.590250935091157,
+			"group": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA"
+		},
+		{
+			"id": "CONDOMINIO IBIRAPUERA CENTRAL PARK",
+			"name": "CONDOMINIO IBIRAPUERA CENTRAL PARK",
+			"val": 95.86094497649127,
+			"desc": 2163.14,
+			"group": "CONDOMINIO IBIRAPUERA CENTRAL PARK"
+		},
+		{
+			"id": 49338,
+			"name": 1081.57,
+			"val": 3.034054632540655,
+			"group": "CONDOMINIO IBIRAPUERA CENTRAL PARK"
+		},
+		{
+			"id": 49276,
+			"name": 1081.57,
+			"val": 3.034054632540655,
+			"group": "CONDOMINIO IBIRAPUERA CENTRAL PARK"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 5.776168605314639,
+			"desc": 190.64000000000001,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49360,
+			"name": 130.93,
+			"val": 2.1170391678776785,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49301,
+			"name": 59.71,
+			"val": 1.7760470711817797,
+			"group": "RAMAL"
+		},
+		{
+			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"val": 9.449829385140266,
+			"desc": 288.99,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 49277,
+			"name": 145.2,
+			"val": 2.161966616364075,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 49339,
+			"name": 143.79,
+			"val": 2.15772868371145,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": "PACK EXPRESS LTDA",
+			"name": "PACK EXPRESS LTDA",
+			"val": 104.78765808970346,
+			"desc": 2340.55,
+			"group": "PACK EXPRESS LTDA"
+		},
+		{
+			"id": 49364,
+			"name": 1600.55,
+			"val": 3.2042692457309574,
+			"group": "PACK EXPRESS LTDA"
+		},
+		{
+			"id": 49308,
+			"name": 740,
+			"val": 2.8692317197309762,
+			"group": "PACK EXPRESS LTDA"
+		},
+		{
+			"id": "PIZZARIA PAULINO CAMPO BELO LTDA",
+			"name": "PIZZARIA PAULINO CAMPO BELO LTDA",
+			"val": 0.9553408906178597,
+			"desc": 43.8,
+			"group": "PIZZARIA PAULINO CAMPO BELO LTDA"
+		},
+		{
+			"id": 49324,
+			"name": 43.8,
+			"val": 1.6414741105040995,
+			"group": "PIZZARIA PAULINO CAMPO BELO LTDA"
+		},
+		{
+			"id": "BRASSERIE ROTISSERIE VICTORIA LT",
+			"name": "BRASSERIE ROTISSERIE VICTORIA LT",
+			"val": 2.232684558634395,
+			"desc": 86.7,
+			"group": "BRASSERIE ROTISSERIE VICTORIA LT"
+		},
+		{
+			"id": 49366,
+			"name": 86.7,
+			"val": 1.9380190974762104,
+			"group": "BRASSERIE ROTISSERIE VICTORIA LT"
+		},
+		{
+			"id": "AUTO POSTO MAX PREMIUM LTDA",
+			"name": "AUTO POSTO MAX PREMIUM LTDA",
+			"val": 2.625548106532402,
+			"desc": 99.01,
+			"group": "AUTO POSTO MAX PREMIUM LTDA"
+		},
+		{
+			"id": 49285,
+			"name": 99.01,
+			"val": 1.9956790605116221,
+			"group": "AUTO POSTO MAX PREMIUM LTDA"
+		},
+		{
+			"id": "MARCOS DOMINGOS SANTAROSA",
+			"name": "MARCOS DOMINGOS SANTAROSA",
+			"val": 357.64789778815134,
+			"desc": 7000,
+			"group": "MARCOS DOMINGOS SANTAROSA"
+		},
+		{
+			"id": 49279,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "MARCOS DOMINGOS SANTAROSA"
+		},
+		{
+			"id": 49340,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "MARCOS DOMINGOS SANTAROSA"
+		},
+		{
+			"id": "RESTAURANTE MARCONATO - ME",
+			"name": "RESTAURANTE MARCONATO - ME",
+			"val": 1.7921736361043308,
+			"desc": 72.5,
+			"group": "RESTAURANTE MARCONATO - ME"
+		},
+		{
+			"id": 49325,
+			"name": 72.5,
+			"val": 1.8603380065709938,
+			"group": "RESTAURANTE MARCONATO - ME"
+		},
+		{
+			"id": "RESTAURANTE TEMPERANCA LT",
+			"name": "RESTAURANTE TEMPERANCA LT",
+			"val": 5.566043643674012,
+			"desc": 184.8,
+			"group": "RESTAURANTE TEMPERANCA LT"
+		},
+		{
+			"id": 49326,
+			"name": 184.8,
+			"val": 2.2667019668840878,
+			"group": "RESTAURANTE TEMPERANCA LT"
+		},
+		{
+			"id": "BOTECO KSN LTDA ME",
+			"name": "BOTECO KSN LTDA ME",
+			"val": 0.345754247590989,
+			"desc": 20,
+			"group": "BOTECO KSN LTDA ME"
+		},
+		{
+			"id": 49311,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "BOTECO KSN LTDA ME"
+		},
+		{
+			"id": "LOCALIZA RENT A CAR S.A.",
+			"name": "LOCALIZA RENT A CAR S.A.",
+			"val": 112.87712379549448,
+			"desc": 2500,
+			"group": "LOCALIZA RENT A CAR S.A."
+		},
+		{
+			"id": 49329,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "LOCALIZA RENT A CAR S.A."
+		},
+		{
+			"id": "Telefônia Brasil S/A",
+			"name": "Telefônia Brasil S/A",
+			"val": 49.002633412418476,
+			"desc": 1197.95,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 49303,
+			"name": 209.77,
+			"val": 2.3217433782042307,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 49302,
+			"name": 988.18,
+			"val": 2.9948360598574504,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 4.320993022145356,
+			"desc": 149.53,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 49292,
+			"name": 149.53,
+			"val": 2.1747283333118936,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "CHURRASCARIA E LANCHONETE BORSATTO DE ARACARIGUAM",
+			"name": "CHURRASCARIA E LANCHONETE BORSATTO DE ARACARIGUAM",
+			"val": 1.1856914613733471,
+			"desc": 52,
+			"group": "CHURRASCARIA E LANCHONETE BORSATTO DE ARACARIGUAM"
+		},
+		{
+			"id": 49312,
+			"name": 52,
+			"val": 1.716003343634799,
+			"group": "CHURRASCARIA E LANCHONETE BORSATTO DE ARACARIGUAM"
+		},
+		{
+			"id": "RODOSNACK RUBI LANCHONETE E RESTAURANTE LTDA.",
+			"name": "RODOSNACK RUBI LANCHONETE E RESTAURANTE LTDA.",
+			"val": 0.30023460010384645,
+			"desc": 18,
+			"group": "RODOSNACK RUBI LANCHONETE E RESTAURANTE LTDA."
+		},
+		{
+			"id": 49328,
+			"name": 18,
+			"val": 1.255272505103306,
+			"group": "RODOSNACK RUBI LANCHONETE E RESTAURANTE LTDA."
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 5.394134229357365,
+			"desc": 180,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 49343,
+			"name": 180,
+			"val": 2.255272505103306,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "RODOSNACK LANCHONETE E RESTAURANTE JUNDIAI LTDA",
+			"name": "RODOSNACK LANCHONETE E RESTAURANTE JUNDIAI LTDA",
+			"val": 0.04947304176367758,
+			"desc": 5.2,
+			"group": "RODOSNACK LANCHONETE E RESTAURANTE JUNDIAI LTDA"
+		},
+		{
+			"id": 49327,
+			"name": 5.2,
+			"val": 0.7160033436347992,
+			"group": "RODOSNACK LANCHONETE E RESTAURANTE JUNDIAI LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 14.096767361022668,
+			"desc": 406.6,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 49305,
+			"name": 406.6,
+			"val": 2.60916737430202,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "Telefônica Brasil S. A. VIVO",
+			"name": "Telefônica Brasil S. A. VIVO",
+			"val": 67.93312351006541,
+			"desc": 1596.12,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 49304,
+			"name": 1596.12,
+			"val": 3.2030655395076324,
+			"group": "Telefônica Brasil S. A. VIVO"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "PIMENTA VERDE ALIMENTOS LTDA",
+			"value": 74.80000000000001
+		},
+		{
+			"source": "PIMENTA VERDE ALIMENTOS LTDA",
+			"target": 49321,
+			"value": 34.2
+		},
+		{
+			"source": "PIMENTA VERDE ALIMENTOS LTDA",
+			"target": 49323,
+			"value": 22.6
+		},
+		{
+			"source": "PIMENTA VERDE ALIMENTOS LTDA",
+			"target": 49322,
+			"value": 18
+		},
+		{
+			"source": -100,
+			"target": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A.",
+			"value": 7.2
+		},
+		{
+			"source": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A.",
+			"target": 49333,
+			"value": 7.2
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"value": 1885.7199999999998
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49295,
+			"value": 100.03
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49293,
+			"value": 127.87
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49355,
+			"value": 108.01
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49356,
+			"value": 112.03
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49348,
+			"value": 118.24
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49294,
+			"value": 110
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49351,
+			"value": 190.09
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49354,
+			"value": 154.03
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49352,
+			"value": 236.01
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49350,
+			"value": 94.04
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49297,
+			"value": 123.04
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49353,
+			"value": 93.5
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49349,
+			"value": 74.84
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49298,
+			"value": 126.95
+		},
+		{
+			"source": "POSTO DE GASOLINA PIRAQUARA LTDA",
+			"target": 49296,
+			"value": 117.04
+		},
+		{
+			"source": -100,
+			"target": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"value": 8.1
+		},
+		{
+			"source": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
+			"target": 49332,
+			"value": 8.1
+		},
+		{
+			"source": -100,
+			"target": "GRACIA DO AMPARO LTDA",
+			"value": 105
+		},
+		{
+			"source": "GRACIA DO AMPARO LTDA",
+			"target": 49314,
+			"value": 105
+		},
+		{
+			"source": -100,
+			"target": "COLONIAL PAES E DOCES LT",
+			"value": 40.78
+		},
+		{
+			"source": "COLONIAL PAES E DOCES LT",
+			"target": 49313,
+			"value": 40.78
+		},
+		{
+			"source": -100,
+			"target": "ECT EMP.BRAS.CORREIOS E TELÉGRAFOS",
+			"value": 29.46
+		},
+		{
+			"source": "ECT EMP.BRAS.CORREIOS E TELÉGRAFOS",
+			"target": 49307,
+			"value": 29.46
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 12",
+			"value": 132.6
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 49363,
+			"value": 66.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 49306,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA",
+			"value": 248.51999999999998
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA",
+			"target": 49290,
+			"value": 123.03
+		},
+		{
+			"source": "CENTRO AUTOMOTIVO AGUA ESPRAIADA LTDA",
+			"target": 49291,
+			"value": 125.49
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"value": 1313.85
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 49331,
+			"value": 1313.85
+		},
+		{
+			"source": -100,
+			"target": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"value": 1340
+		},
+		{
+			"source": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"target": 49280,
+			"value": 670
+		},
+		{
+			"source": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"target": 49341,
+			"value": 670
+		},
+		{
+			"source": -100,
+			"target": "LANCHONETE CENTRAL DO PARAISO LTDA ME",
+			"value": 23.58
+		},
+		{
+			"source": "LANCHONETE CENTRAL DO PARAISO LTDA ME",
+			"target": 49316,
+			"value": 23.58
+		},
+		{
+			"source": -100,
+			"target": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
+			"value": 19
+		},
+		{
+			"source": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
+			"target": 49367,
+			"value": 19
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BONNEVILE LTDA ME",
+			"value": 383.28
+		},
+		{
+			"source": "AUTO POSTO BONNEVILE LTDA ME",
+			"target": 49284,
+			"value": 70
+		},
+		{
+			"source": "AUTO POSTO BONNEVILE LTDA ME",
+			"target": 49345,
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO BONNEVILE LTDA ME",
+			"target": 49282,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO BONNEVILE LTDA ME",
+			"target": 49283,
+			"value": 60
+		},
+		{
+			"source": "AUTO POSTO BONNEVILE LTDA ME",
+			"target": 49344,
+			"value": 103.28
+		},
+		{
+			"source": -100,
+			"target": "FINE LINEA PAES E DOCES LTDA",
+			"value": 18.4
+		},
+		{
+			"source": "FINE LINEA PAES E DOCES LTDA",
+			"target": 49370,
+			"value": 18.4
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 80
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49347,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "ADM COMERCIO DE ALIMENTOS LTDA",
+			"value": 81.1
+		},
+		{
+			"source": "ADM COMERCIO DE ALIMENTOS LTDA",
+			"target": 49309,
+			"value": 81.1
+		},
+		{
+			"source": -100,
+			"target": "CANINDE EVENTOS E PROMOCOES EIRELI",
+			"value": 100.95
+		},
+		{
+			"source": "CANINDE EVENTOS E PROMOCOES EIRELI",
+			"target": 49368,
+			"value": 100.95
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 3712.37
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 49361,
+			"value": 1239.77
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 49362,
+			"value": 2472.6
+		},
+		{
+			"source": -100,
+			"target": "WALTER CHAZANAS",
+			"value": 5500
+		},
+		{
+			"source": "WALTER CHAZANAS",
+			"target": 49342,
+			"value": 2750
+		},
+		{
+			"source": "WALTER CHAZANAS",
+			"target": 49281,
+			"value": 2750
+		},
+		{
+			"source": -100,
+			"target": "PANIFICADORA FLOR DO CAMPO BELO LTDA",
+			"value": 30
+		},
+		{
+			"source": "PANIFICADORA FLOR DO CAMPO BELO LTDA",
+			"target": 49320,
+			"value": 6
+		},
+		{
+			"source": "PANIFICADORA FLOR DO CAMPO BELO LTDA",
+			"target": 49317,
+			"value": 9
+		},
+		{
+			"source": "PANIFICADORA FLOR DO CAMPO BELO LTDA",
+			"target": 49319,
+			"value": 6
+		},
+		{
+			"source": "PANIFICADORA FLOR DO CAMPO BELO LTDA",
+			"target": 49318,
+			"value": 9
+		},
+		{
+			"source": -100,
+			"target": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA",
+			"value": 116.05
+		},
+		{
+			"source": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA",
+			"target": 49310,
+			"value": 116.05
+		},
+		{
+			"source": -100,
+			"target": "ERNESTO PAVAN PAP.E LIV.APOLO LTDA - EPP (PAP. E LIV. APOLO)",
+			"value": 378.5
+		},
+		{
+			"source": "ERNESTO PAVAN PAP.E LIV.APOLO LTDA - EPP (PAP. E LIV. APOLO)",
+			"target": 49278,
+			"value": 378.5
+		},
+		{
+			"source": -100,
+			"target": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"value": 1890
+		},
+		{
+			"source": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"target": 49273,
+			"value": 315
+		},
+		{
+			"source": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"target": 49336,
+			"value": 315
+		},
+		{
+			"source": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"target": 49337,
+			"value": 315
+		},
+		{
+			"source": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"target": 49335,
+			"value": 315
+		},
+		{
+			"source": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"target": 49275,
+			"value": 315
+		},
+		{
+			"source": "CENTRAL PARK DE ESTACIONAMENTOS",
+			"target": 49274,
+			"value": 315
+		},
+		{
+			"source": -100,
+			"target": "AEROMIX CONVENIENCIAS EIRELI",
+			"value": 55.22
+		},
+		{
+			"source": "AEROMIX CONVENIENCIAS EIRELI",
+			"target": 49365,
+			"value": 55.22
+		},
+		{
+			"source": -100,
+			"target": "MARIA CRISTINA PUPO MATIAS 01807131831",
+			"value": 12471
+		},
+		{
+			"source": "MARIA CRISTINA PUPO MATIAS 01807131831",
+			"target": 49359,
+			"value": 4982.4
+		},
+		{
+			"source": "MARIA CRISTINA PUPO MATIAS 01807131831",
+			"target": 49299,
+			"value": 4992.4
+		},
+		{
+			"source": "MARIA CRISTINA PUPO MATIAS 01807131831",
+			"target": 49300,
+			"value": 2496.2
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"value": 1246.31
+		},
+		{
+			"source": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"target": 49288,
+			"value": 200.01
+		},
+		{
+			"source": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"target": 49287,
+			"value": 120.39
+		},
+		{
+			"source": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"target": 49286,
+			"value": 136
+		},
+		{
+			"source": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"target": 49289,
+			"value": 598.12
+		},
+		{
+			"source": "AUTO POSTO VIP DE AMERICANA LTDA",
+			"target": 49346,
+			"value": 191.79
+		},
+		{
+			"source": -100,
+			"target": "HOOTERS PAULISTA LANCHONETE LTDA.",
+			"value": 46.3
+		},
+		{
+			"source": "HOOTERS PAULISTA LANCHONETE LTDA.",
+			"target": 49315,
+			"value": 46.3
+		},
+		{
+			"source": -100,
+			"target": "GZ COMERCIO DE ALIMENTOS LTDA - EPP",
+			"value": 44.9
+		},
+		{
+			"source": "GZ COMERCIO DE ALIMENTOS LTDA - EPP",
+			"target": 49371,
+			"value": 44.9
+		},
+		{
+			"source": -100,
+			"target": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"value": 2000
+		},
+		{
+			"source": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"target": 49330,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "COSTELARIA E O PONTO LTDA",
+			"value": 133.22
+		},
+		{
+			"source": "COSTELARIA E O PONTO LTDA",
+			"target": 49369,
+			"value": 133.22
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 160
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 49358,
+			"value": 80
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 49357,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA",
+			"value": 1263.1100000000001
+		},
+		{
+			"source": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA",
+			"target": 49334,
+			"value": 873.84
+		},
+		{
+			"source": "CAMILLO CANO PAPELARIA, ARMARINHOS E CONVENIENCIA LTDA",
+			"target": 49272,
+			"value": 389.27
+		},
+		{
+			"source": -100,
+			"target": "CONDOMINIO IBIRAPUERA CENTRAL PARK",
+			"value": 2163.14
+		},
+		{
+			"source": "CONDOMINIO IBIRAPUERA CENTRAL PARK",
+			"target": 49338,
+			"value": 1081.57
+		},
+		{
+			"source": "CONDOMINIO IBIRAPUERA CENTRAL PARK",
+			"target": 49276,
+			"value": 1081.57
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 190.64000000000001
+		},
+		{
+			"source": "RAMAL",
+			"target": 49360,
+			"value": 130.93
+		},
+		{
+			"source": "RAMAL",
+			"target": 49301,
+			"value": 59.71
+		},
+		{
+			"source": -100,
+			"target": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"value": 288.99
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 49277,
+			"value": 145.2
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 49339,
+			"value": 143.79
+		},
+		{
+			"source": -100,
+			"target": "PACK EXPRESS LTDA",
+			"value": 2340.55
+		},
+		{
+			"source": "PACK EXPRESS LTDA",
+			"target": 49364,
+			"value": 1600.55
+		},
+		{
+			"source": "PACK EXPRESS LTDA",
+			"target": 49308,
+			"value": 740
+		},
+		{
+			"source": -100,
+			"target": "PIZZARIA PAULINO CAMPO BELO LTDA",
+			"value": 43.8
+		},
+		{
+			"source": "PIZZARIA PAULINO CAMPO BELO LTDA",
+			"target": 49324,
+			"value": 43.8
+		},
+		{
+			"source": -100,
+			"target": "BRASSERIE ROTISSERIE VICTORIA LT",
+			"value": 86.7
+		},
+		{
+			"source": "BRASSERIE ROTISSERIE VICTORIA LT",
+			"target": 49366,
+			"value": 86.7
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MAX PREMIUM LTDA",
+			"value": 99.01
+		},
+		{
+			"source": "AUTO POSTO MAX PREMIUM LTDA",
+			"target": 49285,
+			"value": 99.01
+		},
+		{
+			"source": -100,
+			"target": "MARCOS DOMINGOS SANTAROSA",
+			"value": 7000
+		},
+		{
+			"source": "MARCOS DOMINGOS SANTAROSA",
+			"target": 49279,
+			"value": 3500
+		},
+		{
+			"source": "MARCOS DOMINGOS SANTAROSA",
+			"target": 49340,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE MARCONATO - ME",
+			"value": 72.5
+		},
+		{
+			"source": "RESTAURANTE MARCONATO - ME",
+			"target": 49325,
+			"value": 72.5
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE TEMPERANCA LT",
+			"value": 184.8
+		},
+		{
+			"source": "RESTAURANTE TEMPERANCA LT",
+			"target": 49326,
+			"value": 184.8
+		},
+		{
+			"source": -100,
+			"target": "BOTECO KSN LTDA ME",
+			"value": 20
+		},
+		{
+			"source": "BOTECO KSN LTDA ME",
+			"target": 49311,
+			"value": 20
+		},
+		{
+			"source": -100,
+			"target": "LOCALIZA RENT A CAR S.A.",
+			"value": 2500
+		},
+		{
+			"source": "LOCALIZA RENT A CAR S.A.",
+			"target": 49329,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A",
+			"value": 1197.95
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 49303,
+			"value": 209.77
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 49302,
+			"value": 988.18
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 149.53
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 49292,
+			"value": 149.53
+		},
+		{
+			"source": -100,
+			"target": "CHURRASCARIA E LANCHONETE BORSATTO DE ARACARIGUAM",
+			"value": 52
+		},
+		{
+			"source": "CHURRASCARIA E LANCHONETE BORSATTO DE ARACARIGUAM",
+			"target": 49312,
+			"value": 52
+		},
+		{
+			"source": -100,
+			"target": "RODOSNACK RUBI LANCHONETE E RESTAURANTE LTDA.",
+			"value": 18
+		},
+		{
+			"source": "RODOSNACK RUBI LANCHONETE E RESTAURANTE LTDA.",
+			"target": 49328,
+			"value": 18
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 180
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 49343,
+			"value": 180
+		},
+		{
+			"source": -100,
+			"target": "RODOSNACK LANCHONETE E RESTAURANTE JUNDIAI LTDA",
+			"value": 5.2
+		},
+		{
+			"source": "RODOSNACK LANCHONETE E RESTAURANTE JUNDIAI LTDA",
+			"target": 49327,
+			"value": 5.2
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 406.6
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 49305,
+			"value": 406.6
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S. A. VIVO",
+			"value": 1596.12
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 49304,
+			"value": 1596.12
+		}
+	]
+}

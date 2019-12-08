@@ -1,0 +1,1485 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "FAUSTO PINATO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 139.07836289056291,
+			"desc": 3009.0299999999997,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 18447,
+			"name": 230.27,
+			"val": 2.3622373609640985,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 18446,
+			"name": 1350.27,
+			"val": 3.1304206187066552,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 18485,
+			"name": 1428.49,
+			"val": 3.1548772044947366,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 2441.6435632908588,
+			"desc": 39934.38999999997,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18460,
+			"name": 1530.17,
+			"val": 3.184739683079401,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18450,
+			"name": 1579.39,
+			"val": 3.1984893839248802,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18496,
+			"name": 671.39,
+			"val": 2.826974868372879,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18488,
+			"name": 1733.39,
+			"val": 3.2388962867718893,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18529,
+			"name": 1036.49,
+			"val": 3.015565116400194,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18458,
+			"name": 2031.17,
+			"val": 3.30774627346498,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18451,
+			"name": 340,
+			"val": 2.531478917042255,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18500,
+			"name": 232.24,
+			"val": 2.3659370228236174,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18498,
+			"name": 1829.39,
+			"val": 3.262306300770294,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18492,
+			"name": 1125.39,
+			"val": 3.051303051777531,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18455,
+			"name": 827.39,
+			"val": 2.9177102676217803,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18524,
+			"name": 540.39,
+			"val": 2.73270730373822,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18490,
+			"name": 827.39,
+			"val": 2.9177102676217803,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18461,
+			"name": 1735.17,
+			"val": 3.2393420303920943,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18499,
+			"name": 549.85,
+			"val": 2.740244229390249,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18487,
+			"name": 1733.39,
+			"val": 3.2388962867718893,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18525,
+			"name": 1832.85,
+			"val": 3.2631269238613414,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18493,
+			"name": 1832.85,
+			"val": 3.2631269238613414,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18530,
+			"name": 704.85,
+			"val": 2.848096704078633,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18497,
+			"name": 1680.85,
+			"val": 3.2255289584847118,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18489,
+			"name": 550.17,
+			"val": 2.7404969052291053,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18457,
+			"name": 1528.39,
+			"val": 3.1842341875095492,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18491,
+			"name": 1733.39,
+			"val": 3.2388962867718893,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18527,
+			"name": 1016.39,
+			"val": 3.007060383487557,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18494,
+			"name": 1677.39,
+			"val": 3.224634049580591,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18495,
+			"name": 463.85,
+			"val": 2.6663775609334914,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18456,
+			"name": 1426.17,
+			"val": 3.154171296666943,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18452,
+			"name": 1530.17,
+			"val": 3.184739683079401,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18459,
+			"name": 230.27,
+			"val": 2.3622373609640985,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18501,
+			"name": 232.24,
+			"val": 2.3659370228236174,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18453,
+			"name": 1528.39,
+			"val": 3.1842341875095492,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18528,
+			"name": 1832.85,
+			"val": 3.2631269238613414,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18523,
+			"name": 646.7,
+			"val": 2.8107028609471167,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18526,
+			"name": 613.85,
+			"val": 2.788062260178738,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18454,
+			"name": 550.17,
+			"val": 2.7404969052291053,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA",
+			"name": "TELEFONICA BRASIL SA",
+			"val": 39.8120307720552,
+			"desc": 998.8799999999999,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 18479,
+			"name": 701.93,
+			"val": 2.846293804252976,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 18478,
+			"name": 296.95,
+			"val": 2.4726833296130404,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"val": 1525.2872962915308,
+			"desc": 26000,
+			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
+		},
+		{
+			"id": 18515,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
+		},
+		{
+			"id": 18475,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 335.11055508702293,
+			"desc": 6602.49,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18486,
+			"name": 1735.17,
+			"val": 3.2393420303920943,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18522,
+			"name": 1558.49,
+			"val": 3.192704019985491,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18449,
+			"name": 1543.39,
+			"val": 3.1884756820232463,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18521,
+			"name": 1486.95,
+			"val": 3.172296365234006,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18448,
+			"name": 278.49,
+			"val": 2.444809605172975,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 26.46339111313052,
+			"desc": 700,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 18434,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 18435,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 18467,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 18510,
+			"name": 100,
+			"val": 2,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 69.79172426763671,
+			"desc": 1634.52,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18516,
+			"name": 242.2,
+			"val": 2.384174138807033,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18439,
+			"name": 88.19,
+			"val": 1.945419342603063,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18517,
+			"name": 500.37,
+			"val": 2.699291263401428,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18476,
+			"name": 311.8,
+			"val": 2.4938761108528227,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18438,
+			"name": 491.96,
+			"val": 2.6919297928375143,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 29.349302442863934,
+			"desc": 765.83,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 18512,
+			"name": 158.78,
+			"val": 2.200795797608367,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 18436,
+			"name": 245.06,
+			"val": 2.389272429175553,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 18469,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 18468,
+			"name": 61.99,
+			"val": 1.7923216363515735,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 18511,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "POSTO CACIQUE LTDA",
+			"name": "POSTO CACIQUE LTDA",
+			"val": 2.3377018913526664,
+			"desc": 90.02,
+			"group": "POSTO CACIQUE LTDA"
+		},
+		{
+			"id": 18471,
+			"name": 90.02,
+			"val": 1.9543390086024601,
+			"group": "POSTO CACIQUE LTDA"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 18472,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "AMORETTO CAFES EXPRESSO LTDA",
+			"name": "AMORETTO CAFES EXPRESSO LTDA",
+			"val": 45.61995461351696,
+			"desc": 1125.2,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 18502,
+			"name": 562.6,
+			"val": 2.750199727829182,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 18462,
+			"name": 562.6,
+			"val": 2.750199727829182,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
+			"name": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
+			"val": 1009.2576683125324,
+			"desc": 17863.33,
+			"group": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE"
+		},
+		{
+			"id": 18444,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE"
+		},
+		{
+			"id": 18482,
+			"name": 4130,
+			"val": 3.615950051656401,
+			"group": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE"
+		},
+		{
+			"id": 18445,
+			"name": 5900,
+			"val": 3.7708520116421442,
+			"group": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE"
+		},
+		{
+			"id": 18483,
+			"name": 2833.33,
+			"val": 3.4522971600596453,
+			"group": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE"
+		},
+		{
+			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		},
+		{
+			"id": 18431,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		},
+		{
+			"id": 18463,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		},
+		{
+			"id": 18503,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		},
+		{
+			"id": "VIEIRA E FILHOS ARACATUBA LTDA",
+			"name": "VIEIRA E FILHOS ARACATUBA LTDA",
+			"val": 24.23175145340986,
+			"desc": 648.53,
+			"group": "VIEIRA E FILHOS ARACATUBA LTDA"
+		},
+		{
+			"id": 18474,
+			"name": 648.53,
+			"val": 2.811930070679321,
+			"group": "VIEIRA E FILHOS ARACATUBA LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.9141446883215871,
+			"desc": 76.48,
+			"group": "RAMAL"
+		},
+		{
+			"id": 18477,
+			"name": 27.55,
+			"val": 1.440121603187804,
+			"group": "RAMAL"
+		},
+		{
+			"id": 18518,
+			"name": 31.24,
+			"val": 1.4947110252052627,
+			"group": "RAMAL"
+		},
+		{
+			"id": 18440,
+			"name": 17.69,
+			"val": 1.2477278329097232,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 5.183132183555499,
+			"desc": 174.07999999999998,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 18519,
+			"name": 66,
+			"val": 1.8195439355418688,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 18481,
+			"name": 35.17,
+			"val": 1.5461723683169426,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 18480,
+			"name": 24.11,
+			"val": 1.3821972103774536,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 18443,
+			"name": 48.8,
+			"val": 1.6884198220027105,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "PETRONORTE COMBUSTIVEIS LTDA",
+			"name": "PETRONORTE COMBUSTIVEIS LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "PETRONORTE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 18437,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "PETRONORTE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO INVICTO LTDA",
+			"name": "AUTO POSTO INVICTO LTDA",
+			"val": 4.9358451998493855,
+			"desc": 167.1,
+			"group": "AUTO POSTO INVICTO LTDA"
+		},
+		{
+			"id": 18465,
+			"name": 167.1,
+			"val": 2.2229764498933915,
+			"group": "AUTO POSTO INVICTO LTDA"
+		},
+		{
+			"id": "AUTO POSTO S3 BANDEIRANTES LTDA",
+			"name": "AUTO POSTO S3 BANDEIRANTES LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "AUTO POSTO S3 BANDEIRANTES LTDA"
+		},
+		{
+			"id": 18507,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO S3 BANDEIRANTES LTDA"
+		},
+		{
+			"id": "POSTO PRATAO LTDA",
+			"name": "POSTO PRATAO LTDA",
+			"val": 1.7465281819393297,
+			"desc": 71,
+			"group": "POSTO PRATAO LTDA"
+		},
+		{
+			"id": 18473,
+			"name": 71,
+			"val": 1.8512583487190752,
+			"group": "POSTO PRATAO LTDA"
+		},
+		{
+			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 18514,
+			"name": 100,
+			"val": 2,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO POSTO TALISMA VILA JAGUARA LTDA",
+			"name": "AUTO POSTO TALISMA VILA JAGUARA LTDA",
+			"val": 9.757066008790328,
+			"desc": 296.96000000000004,
+			"group": "AUTO POSTO TALISMA VILA JAGUARA LTDA"
+		},
+		{
+			"id": 18508,
+			"name": 146.96,
+			"val": 2.167199143297752,
+			"group": "AUTO POSTO TALISMA VILA JAGUARA LTDA"
+		},
+		{
+			"id": 18509,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO TALISMA VILA JAGUARA LTDA"
+		},
+		{
+			"id": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
+			"name": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
+			"val": 254.7965878881075,
+			"desc": 5164.360000000001,
+			"group": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA"
+		},
+		{
+			"id": 18433,
+			"name": 1169.39,
+			"val": 3.0679593756622126,
+			"group": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA"
+		},
+		{
+			"id": 18505,
+			"name": 1779.5,
+			"val": 3.2502979923398647,
+			"group": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA"
+		},
+		{
+			"id": 18464,
+			"name": 2215.47,
+			"val": 3.3454658735629956,
+			"group": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 15.704902924124154,
+			"desc": 446.09999999999997,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 18504,
+			"name": 300.4,
+			"val": 2.4776999283321306,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 18432,
+			"name": 145.7,
+			"val": 2.16345955176999,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "telefonica brasil sa",
+			"name": "telefonica brasil sa",
+			"val": 26.54750740852293,
+			"desc": 701.93,
+			"group": "telefonica brasil sa"
+		},
+		{
+			"id": 18442,
+			"name": 701.93,
+			"val": 2.846293804252976,
+			"group": "telefonica brasil sa"
+		},
+		{
+			"id": "JARJOUR FILIAL - 206 NORTE",
+			"name": "JARJOUR FILIAL - 206 NORTE",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "JARJOUR FILIAL - 206 NORTE"
+		},
+		{
+			"id": 18513,
+			"name": 100,
+			"val": 2,
+			"group": "JARJOUR FILIAL - 206 NORTE"
+		},
+		{
+			"id": 18470,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "JARJOUR FILIAL - 206 NORTE"
+		},
+		{
+			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"val": 13.594795292905621,
+			"desc": 394.16,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 18484,
+			"name": 352.86,
+			"val": 2.547602429785681,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": 18520,
+			"name": 41.3,
+			"val": 1.615950051656401,
+			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
+		},
+		{
+			"id": "AUTO POSTO MEDICINE BOW LT",
+			"name": "AUTO POSTO MEDICINE BOW LT",
+			"val": 6.482530245514228,
+			"desc": 210.07,
+			"group": "AUTO POSTO MEDICINE BOW LT"
+		},
+		{
+			"id": 18466,
+			"name": 210.07,
+			"val": 2.3223640354391093,
+			"group": "AUTO POSTO MEDICINE BOW LT"
+		},
+		{
+			"id": "AUTO POSTO S3 AICAS LTDA",
+			"name": "AUTO POSTO S3 AICAS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO S3 AICAS LTDA"
+		},
+		{
+			"id": 18506,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO S3 AICAS LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 9.488309641247062,
+			"desc": 289.99,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 18441,
+			"name": 289.99,
+			"val": 2.462383021968959,
+			"group": "TELEFÔNICA BRASIL S.A."
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 3009.0299999999997
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 18447,
+			"value": 230.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 18446,
+			"value": 1350.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 18485,
+			"value": 1428.49
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 39934.38999999997
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18460,
+			"value": 1530.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18450,
+			"value": 1579.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18496,
+			"value": 671.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18488,
+			"value": 1733.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18529,
+			"value": 1036.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18458,
+			"value": 2031.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18451,
+			"value": 340
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18500,
+			"value": 232.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18498,
+			"value": 1829.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18492,
+			"value": 1125.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18455,
+			"value": 827.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18524,
+			"value": 540.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18490,
+			"value": 827.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18461,
+			"value": 1735.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18499,
+			"value": 549.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18487,
+			"value": 1733.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18525,
+			"value": 1832.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18493,
+			"value": 1832.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18530,
+			"value": 704.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18497,
+			"value": 1680.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18489,
+			"value": 550.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18457,
+			"value": 1528.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18491,
+			"value": 1733.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18527,
+			"value": 1016.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18494,
+			"value": 1677.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18495,
+			"value": 463.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18456,
+			"value": 1426.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18452,
+			"value": 1530.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18459,
+			"value": 230.27
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18501,
+			"value": 232.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18453,
+			"value": 1528.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18528,
+			"value": 1832.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18523,
+			"value": 646.7
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18526,
+			"value": 613.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18454,
+			"value": 550.17
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA",
+			"value": 998.8799999999999
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 18479,
+			"value": 701.93
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 18478,
+			"value": 296.95
+		},
+		{
+			"source": -100,
+			"target": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"value": 26000
+		},
+		{
+			"source": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"target": 18515,
+			"value": 13000
+		},
+		{
+			"source": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
+			"target": 18475,
+			"value": 13000
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 6602.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18486,
+			"value": 1735.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18522,
+			"value": 1558.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18449,
+			"value": 1543.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18521,
+			"value": 1486.95
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18448,
+			"value": 278.49
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 700
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 18434,
+			"value": 200
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 18435,
+			"value": 200
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 18467,
+			"value": 200
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 18510,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 1634.52
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18516,
+			"value": 242.2
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18439,
+			"value": 88.19
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18517,
+			"value": 500.37
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18476,
+			"value": 311.8
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18438,
+			"value": 491.96
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 765.83
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 18512,
+			"value": 158.78
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 18436,
+			"value": 245.06
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 18469,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 18468,
+			"value": 61.99
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 18511,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO CACIQUE LTDA",
+			"value": 90.02
+		},
+		{
+			"source": "POSTO CACIQUE LTDA",
+			"target": 18471,
+			"value": 90.02
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 150
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 18472,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "AMORETTO CAFES EXPRESSO LTDA",
+			"value": 1125.2
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 18502,
+			"value": 562.6
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 18462,
+			"value": 562.6
+		},
+		{
+			"source": -100,
+			"target": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
+			"value": 17863.33
+		},
+		{
+			"source": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
+			"target": 18444,
+			"value": 5000
+		},
+		{
+			"source": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
+			"target": 18482,
+			"value": 4130
+		},
+		{
+			"source": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
+			"target": 18445,
+			"value": 5900
+		},
+		{
+			"source": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
+			"target": 18483,
+			"value": 2833.33
+		},
+		{
+			"source": -100,
+			"target": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"value": 1500
+		},
+		{
+			"source": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"target": 18431,
+			"value": 500
+		},
+		{
+			"source": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"target": 18463,
+			"value": 500
+		},
+		{
+			"source": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"target": 18503,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "VIEIRA E FILHOS ARACATUBA LTDA",
+			"value": 648.53
+		},
+		{
+			"source": "VIEIRA E FILHOS ARACATUBA LTDA",
+			"target": 18474,
+			"value": 648.53
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 76.48
+		},
+		{
+			"source": "RAMAL",
+			"target": 18477,
+			"value": 27.55
+		},
+		{
+			"source": "RAMAL",
+			"target": 18518,
+			"value": 31.24
+		},
+		{
+			"source": "RAMAL",
+			"target": 18440,
+			"value": 17.69
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 174.07999999999998
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 18519,
+			"value": 66
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 18481,
+			"value": 35.17
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 18480,
+			"value": 24.11
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 18443,
+			"value": 48.8
+		},
+		{
+			"source": -100,
+			"target": "PETRONORTE COMBUSTIVEIS LTDA",
+			"value": 150
+		},
+		{
+			"source": "PETRONORTE COMBUSTIVEIS LTDA",
+			"target": 18437,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO INVICTO LTDA",
+			"value": 167.1
+		},
+		{
+			"source": "AUTO POSTO INVICTO LTDA",
+			"target": 18465,
+			"value": 167.1
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO S3 BANDEIRANTES LTDA",
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO S3 BANDEIRANTES LTDA",
+			"target": 18507,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "POSTO PRATAO LTDA",
+			"value": 71
+		},
+		{
+			"source": "POSTO PRATAO LTDA",
+			"target": 18473,
+			"value": 71
+		},
+		{
+			"source": -100,
+			"target": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"target": 18514,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO TALISMA VILA JAGUARA LTDA",
+			"value": 296.96000000000004
+		},
+		{
+			"source": "AUTO POSTO TALISMA VILA JAGUARA LTDA",
+			"target": 18508,
+			"value": 146.96
+		},
+		{
+			"source": "AUTO POSTO TALISMA VILA JAGUARA LTDA",
+			"target": 18509,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
+			"value": 5164.360000000001
+		},
+		{
+			"source": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
+			"target": 18433,
+			"value": 1169.39
+		},
+		{
+			"source": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
+			"target": 18505,
+			"value": 1779.5
+		},
+		{
+			"source": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
+			"target": 18464,
+			"value": 2215.47
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 446.09999999999997
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 18504,
+			"value": 300.4
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 18432,
+			"value": 145.7
+		},
+		{
+			"source": -100,
+			"target": "telefonica brasil sa",
+			"value": 701.93
+		},
+		{
+			"source": "telefonica brasil sa",
+			"target": 18442,
+			"value": 701.93
+		},
+		{
+			"source": -100,
+			"target": "JARJOUR FILIAL - 206 NORTE",
+			"value": 150
+		},
+		{
+			"source": "JARJOUR FILIAL - 206 NORTE",
+			"target": 18513,
+			"value": 100
+		},
+		{
+			"source": "JARJOUR FILIAL - 206 NORTE",
+			"target": 18470,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"value": 394.16
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 18484,
+			"value": 352.86
+		},
+		{
+			"source": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
+			"target": 18520,
+			"value": 41.3
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MEDICINE BOW LT",
+			"value": 210.07
+		},
+		{
+			"source": "AUTO POSTO MEDICINE BOW LT",
+			"target": 18466,
+			"value": 210.07
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO S3 AICAS LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO S3 AICAS LTDA",
+			"target": 18506,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 289.99
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 18441,
+			"value": 289.99
+		}
+	]
+}

@@ -1,0 +1,1833 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "NICOLETTI"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 553.8458346437536,
+			"desc": 10378.410000000002,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37427,
+			"name": 466.39,
+			"val": 2.668749230019873,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37426,
+			"name": 1926.39,
+			"val": 3.284744215136238,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37425,
+			"name": 1816.17,
+			"val": 3.259156497602708,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37429,
+			"name": 1926.39,
+			"val": 3.284744215136238,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37430,
+			"name": 432.98,
+			"val": 2.6364678360987646,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37432,
+			"name": 1926.39,
+			"val": 3.284744215136238,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37431,
+			"name": 662.85,
+			"val": 2.8214152606179748,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 37428,
+			"name": 1220.85,
+			"val": 3.08666230753694,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 66.07599922523097,
+			"desc": 1557.64,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 37388,
+			"name": 249.56,
+			"val": 2.3971749769583255,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 37389,
+			"name": 228.51,
+			"val": 2.358905210313047,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 37450,
+			"name": 245.76,
+			"val": 2.390511198351418,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 37391,
+			"name": 181.19,
+			"val": 2.2581342249927707,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 37390,
+			"name": 227.16,
+			"val": 2.3563318600114216,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 37392,
+			"name": 205.06,
+			"val": 2.311880953037904,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 37451,
+			"name": 220.4,
+			"val": 2.3432115901797474,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "POSTO DE GASOLINA RANONI LTDA",
+			"name": "POSTO DE GASOLINA RANONI LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "POSTO DE GASOLINA RANONI LTDA"
+		},
+		{
+			"id": 37394,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO DE GASOLINA RANONI LTDA"
+		},
+		{
+			"id": "ARNOGAS & CIA.LTDA.",
+			"name": "ARNOGAS & CIA.LTDA.",
+			"val": 4.686033980727912,
+			"desc": 160,
+			"group": "ARNOGAS & CIA.LTDA."
+		},
+		{
+			"id": 37382,
+			"name": 160,
+			"val": 2.204119982655925,
+			"group": "ARNOGAS & CIA.LTDA."
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 367.11729111420766,
+			"desc": 7166.33,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 37434,
+			"name": 1613.39,
+			"val": 3.207739360801889,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 37437,
+			"name": 583.85,
+			"val": 2.766301284544187,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 37436,
+			"name": 1777.39,
+			"val": 3.2497827323996886,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 37433,
+			"name": 1616.85,
+			"val": 3.208669730979993,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 37435,
+			"name": 1574.85,
+			"val": 3.197239194776676,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 0.8922565456035895,
+			"desc": 41.5,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 37401,
+			"name": 7.7,
+			"val": 0.8864907251724818,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 37461,
+			"name": 33.8,
+			"val": 1.5289167002776547,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "O REI DO CAMARAO RESTAURANTE LTDA EPP",
+			"name": "O REI DO CAMARAO RESTAURANTE LTDA EPP",
+			"val": 3.716384920021856,
+			"desc": 131.91,
+			"group": "O REI DO CAMARAO RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": 37467,
+			"name": 55.17,
+			"val": 1.7417029839577398,
+			"group": "O REI DO CAMARAO RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": 37468,
+			"name": 76.74,
+			"val": 1.8850217948622976,
+			"group": "O REI DO CAMARAO RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 17.654543790629074,
+			"desc": 493.34000000000003,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 37458,
+			"name": 283.99,
+			"val": 2.453303047718583,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 37457,
+			"name": 189.36,
+			"val": 2.2772882449210265,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 37397,
+			"name": 19.99,
+			"val": 1.300812794118117,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "POSTO MACUXI LTDA",
+			"name": "POSTO MACUXI LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "POSTO MACUXI LTDA"
+		},
+		{
+			"id": 37453,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO MACUXI LTDA"
+		},
+		{
+			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"val": 2.286368570648639,
+			"desc": 88.4,
+			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 37403,
+			"name": 88.4,
+			"val": 1.9464522650130731,
+			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 6.479966234839543,
+			"desc": 210,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 37385,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "SEMALO COMBUSTIVEIS LTDA",
+			"name": "SEMALO COMBUSTIVEIS LTDA",
+			"val": 11.436771673147277,
+			"desc": 340,
+			"group": "SEMALO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37395,
+			"name": 136,
+			"val": 2.1335389083702174,
+			"group": "SEMALO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37455,
+			"name": 204,
+			"val": 2.3096301674258988,
+			"group": "SEMALO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "BVK COMBUSTIVEIS LTDA",
+			"name": "BVK COMBUSTIVEIS LTDA",
+			"val": 33.871042630497776,
+			"desc": 867.53,
+			"group": "BVK COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37448,
+			"name": 100,
+			"val": 2,
+			"group": "BVK COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37449,
+			"name": 181.31,
+			"val": 2.2584217579016372,
+			"group": "BVK COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37387,
+			"name": 140.84,
+			"val": 2.1487260163981468,
+			"group": "BVK COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37386,
+			"name": 175.24,
+			"val": 2.243633244506138,
+			"group": "BVK COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37447,
+			"name": 100,
+			"val": 2,
+			"group": "BVK COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 37446,
+			"name": 170.14,
+			"val": 2.2308064284688833,
+			"group": "BVK COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO ABEL GALINHA LTDA MATRIZ",
+			"name": "AUTO POSTO ABEL GALINHA LTDA MATRIZ",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO ABEL GALINHA LTDA MATRIZ"
+		},
+		{
+			"id": 37443,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO ABEL GALINHA LTDA MATRIZ"
+		},
+		{
+			"id": "A.P. FACCIO",
+			"name": "A.P. FACCIO",
+			"val": 3.207683979232,
+			"desc": 116.77,
+			"group": "A.P. FACCIO"
+		},
+		{
+			"id": 37442,
+			"name": 116.77,
+			"val": 2.067331280208168,
+			"group": "A.P. FACCIO"
+		},
+		{
+			"id": "JEAN PIERRE GOMES DOS SANTOS",
+			"name": "JEAN PIERRE GOMES DOS SANTOS",
+			"val": 531.508495181978,
+			"desc": 10000,
+			"group": "JEAN PIERRE GOMES DOS SANTOS"
+		},
+		{
+			"id": 37440,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "JEAN PIERRE GOMES DOS SANTOS"
+		},
+		{
+			"id": 37380,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "JEAN PIERRE GOMES DOS SANTOS"
+		},
+		{
+			"id": "Restaurante - Golden Comércio e Serviços LTDA",
+			"name": "Restaurante - Golden Comércio e Serviços LTDA",
+			"val": 4.257961540976159,
+			"desc": 147.71,
+			"group": "Restaurante - Golden Comércio e Serviços LTDA"
+		},
+		{
+			"id": 37409,
+			"name": 43.87,
+			"val": 1.6421676344049452,
+			"group": "Restaurante - Golden Comércio e Serviços LTDA"
+		},
+		{
+			"id": 37471,
+			"name": 36.67,
+			"val": 1.5643109099606027,
+			"group": "Restaurante - Golden Comércio e Serviços LTDA"
+		},
+		{
+			"id": 37472,
+			"name": 36.93,
+			"val": 1.5673793076509788,
+			"group": "Restaurante - Golden Comércio e Serviços LTDA"
+		},
+		{
+			"id": 37410,
+			"name": 30.24,
+			"val": 1.4805817868291689,
+			"group": "Restaurante - Golden Comércio e Serviços LTDA"
+		},
+		{
+			"id": "AUTO POSTO CAPITAL LTDA",
+			"name": "AUTO POSTO CAPITAL LTDA",
+			"val": 2.519316047799719,
+			"desc": 95.71,
+			"group": "AUTO POSTO CAPITAL LTDA"
+		},
+		{
+			"id": 37384,
+			"name": 95.71,
+			"val": 1.9809573162296201,
+			"group": "AUTO POSTO CAPITAL LTDA"
+		},
+		{
+			"id": "WM RESTAURANTE E CHOPERIA LTDA",
+			"name": "WM RESTAURANTE E CHOPERIA LTDA",
+			"val": 3.223977936796665,
+			"desc": 117.26,
+			"group": "WM RESTAURANTE E CHOPERIA LTDA"
+		},
+		{
+			"id": 37423,
+			"name": 117.26,
+			"val": 2.0691498898487786,
+			"group": "WM RESTAURANTE E CHOPERIA LTDA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 3.4909656112212026,
+			"desc": 125.24000000000001,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 37419,
+			"name": 68.28,
+			"val": 1.834293512442696,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 37417,
+			"name": 29.2,
+			"val": 1.4653828514484184,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 37477,
+			"name": 11.81,
+			"val": 1.0722498976135149,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 37418,
+			"name": 15.95,
+			"val": 1.2027606873932,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "A P FACCIO",
+			"name": "A P FACCIO",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "A P FACCIO"
+		},
+		{
+			"id": 37441,
+			"name": 100,
+			"val": 2,
+			"group": "A P FACCIO"
+		},
+		{
+			"id": "ABENCOADO BAR E ESPETARIA",
+			"name": "ABENCOADO BAR E ESPETARIA",
+			"val": 1.7921736361043308,
+			"desc": 72.5,
+			"group": "ABENCOADO BAR E ESPETARIA"
+		},
+		{
+			"id": 37402,
+			"name": 72.5,
+			"val": 1.8603380065709938,
+			"group": "ABENCOADO BAR E ESPETARIA"
+		},
+		{
+			"id": "HADCO COMERCIO DE ALIMENTOS LTDA.",
+			"name": "HADCO COMERCIO DE ALIMENTOS LTDA.",
+			"val": 0.6918949464100461,
+			"desc": 34,
+			"group": "HADCO COMERCIO DE ALIMENTOS LTDA."
+		},
+		{
+			"id": 37464,
+			"name": 34,
+			"val": 1.5314789170422551,
+			"group": "HADCO COMERCIO DE ALIMENTOS LTDA."
+		},
+		{
+			"id": "RECANTO DA PEIXADA",
+			"name": "RECANTO DA PEIXADA",
+			"val": 1.9610454922850216,
+			"desc": 78,
+			"group": "RECANTO DA PEIXADA"
+		},
+		{
+			"id": 37470,
+			"name": 78,
+			"val": 1.8920946026904804,
+			"group": "RECANTO DA PEIXADA"
+		},
+		{
+			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"val": 223.88049388330396,
+			"desc": 4600,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": 37424,
+			"name": 4600,
+			"val": 3.662757831681574,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"val": 6.5690525189721765,
+			"desc": 212.43,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": 37444,
+			"name": 212.43,
+			"val": 2.3272158491063633,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"name": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"val": 4.777658830964876,
+			"desc": 162.60999999999999,
+			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
+		},
+		{
+			"id": 37411,
+			"name": 98.71,
+			"val": 1.994361151908001,
+			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
+		},
+		{
+			"id": 37473,
+			"name": 63.9,
+			"val": 1.8055008581584002,
+			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
+		},
+		{
+			"id": "PIZZARIA TREVO",
+			"name": "PIZZARIA TREVO",
+			"val": 1.086383091384303,
+			"desc": 48.5,
+			"group": "PIZZARIA TREVO"
+		},
+		{
+			"id": 37469,
+			"name": 48.5,
+			"val": 1.6857417386022637,
+			"group": "PIZZARIA TREVO"
+		},
+		{
+			"id": "NOVO SUCESSO EIRELI",
+			"name": "NOVO SUCESSO EIRELI",
+			"val": 2.467724628635418,
+			"desc": 94.1,
+			"group": "NOVO SUCESSO EIRELI"
+		},
+		{
+			"id": 37407,
+			"name": 94.1,
+			"val": 1.973589623427257,
+			"group": "NOVO SUCESSO EIRELI"
+		},
+		{
+			"id": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA",
+			"name": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA",
+			"val": 2.2358371533598316,
+			"desc": 86.80000000000001,
+			"group": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA"
+		},
+		{
+			"id": 37465,
+			"name": 53.6,
+			"val": 1.72916478969277,
+			"group": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA"
+		},
+		{
+			"id": 37404,
+			"name": 33.2,
+			"val": 1.5211380837040362,
+			"group": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA"
+		},
+		{
+			"id": "OI MÓVEL S.A",
+			"name": "OI MÓVEL S.A",
+			"val": 22.83850265487769,
+			"desc": 616.1199999999999,
+			"group": "OI MÓVEL S.A"
+		},
+		{
+			"id": 37459,
+			"name": 309.03,
+			"val": 2.490000641890952,
+			"group": "OI MÓVEL S.A"
+		},
+		{
+			"id": 37399,
+			"name": 307.09,
+			"val": 2.487265674419202,
+			"group": "OI MÓVEL S.A"
+		},
+		{
+			"id": "TGC COMÉRCIO DE ALIMENTOS LTDA",
+			"name": "TGC COMÉRCIO DE ALIMENTOS LTDA",
+			"val": 2.152520433944575,
+			"desc": 84.15,
+			"group": "TGC COMÉRCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 37421,
+			"name": 84.15,
+			"val": 1.9250541203118428,
+			"group": "TGC COMÉRCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "RESTAURANTE MADERO BRASILIA LT",
+			"name": "RESTAURANTE MADERO BRASILIA LT",
+			"val": 3.1655080571342187,
+			"desc": 115.5,
+			"group": "RESTAURANTE MADERO BRASILIA LT"
+		},
+		{
+			"id": 37413,
+			"name": 59.4,
+			"val": 1.7737864449811935,
+			"group": "RESTAURANTE MADERO BRASILIA LT"
+		},
+		{
+			"id": 37412,
+			"name": 56.1,
+			"val": 1.7489628612561614,
+			"group": "RESTAURANTE MADERO BRASILIA LT"
+		},
+		{
+			"id": "SAKURA HOUSE",
+			"name": "SAKURA HOUSE",
+			"val": 5.95182139149435,
+			"desc": 195.5,
+			"group": "SAKURA HOUSE"
+		},
+		{
+			"id": 37476,
+			"name": 100.5,
+			"val": 2.002166061756508,
+			"group": "SAKURA HOUSE"
+		},
+		{
+			"id": 37475,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "SAKURA HOUSE"
+		},
+		{
+			"id": "AMORETTO CAFES EXPRESSO LTDA",
+			"name": "AMORETTO CAFES EXPRESSO LTDA",
+			"val": 43.55027502369273,
+			"desc": 1080.4,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 37379,
+			"name": 540.2,
+			"val": 2.732554579851432,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 37438,
+			"name": 540.2,
+			"val": 2.732554579851432,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": "SALOME BOA VISTA",
+			"name": "SALOME BOA VISTA",
+			"val": 2.0547340187857874,
+			"desc": 81.02,
+			"group": "SALOME BOA VISTA"
+		},
+		{
+			"id": 37414,
+			"name": 81.02,
+			"val": 1.9085922388475693,
+			"group": "SALOME BOA VISTA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 111.7721607781752,
+			"desc": 2478.29,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 37381,
+			"name": 2478.29,
+			"val": 3.3941521244898594,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
+			"name": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
+			"val": 0.5796959832024884,
+			"desc": 29.64,
+			"group": "ROGERIO DE ALMEIDA TCHE GAROTO - ME"
+		},
+		{
+			"id": 37474,
+			"name": 29.64,
+			"val": 1.4718781993072905,
+			"group": "ROGERIO DE ALMEIDA TCHE GAROTO - ME"
+		},
+		{
+			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"val": 6.748072761444277,
+			"desc": 217.3,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 37393,
+			"name": 217.3,
+			"val": 2.3370597263205246,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 3.0890015965307316,
+			"desc": 113.19,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 37398,
+			"name": 113.19,
+			"val": 2.053808059920658,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "MAIA & TAVARES LTDA",
+			"name": "MAIA & TAVARES LTDA",
+			"val": 1.9006005244299438,
+			"desc": 76.04,
+			"group": "MAIA & TAVARES LTDA"
+		},
+		{
+			"id": 37406,
+			"name": 76.04,
+			"val": 1.8810421081934057,
+			"group": "MAIA & TAVARES LTDA"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 0.2868226719069111,
+			"desc": 17.4,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 37420,
+			"name": 17.4,
+			"val": 1.2405492482825997,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.9709412396072197,
+			"desc": 78.32,
+			"group": "RAMAL"
+		},
+		{
+			"id": 37460,
+			"name": 32.95,
+			"val": 1.5178554189300286,
+			"group": "RAMAL"
+		},
+		{
+			"id": 37400,
+			"name": 45.37,
+			"val": 1.6567687792660166,
+			"group": "RAMAL"
+		},
+		{
+			"id": "F M FARIAS DE ASSIS ME",
+			"name": "F M FARIAS DE ASSIS ME",
+			"val": 2.152520433944575,
+			"desc": 84.15,
+			"group": "F M FARIAS DE ASSIS ME"
+		},
+		{
+			"id": 37463,
+			"name": 84.15,
+			"val": 1.9250541203118428,
+			"group": "F M FARIAS DE ASSIS ME"
+		},
+		{
+			"id": "MABELLE RESTAURANTE EIRELI EPP",
+			"name": "MABELLE RESTAURANTE EIRELI EPP",
+			"val": 0.7460565173966947,
+			"desc": 36.06,
+			"group": "MABELLE RESTAURANTE EIRELI EPP"
+		},
+		{
+			"id": 37405,
+			"name": 36.06,
+			"val": 1.5570257223863833,
+			"group": "MABELLE RESTAURANTE EIRELI EPP"
+		},
+		{
+			"id": "KOTINSKI & CIA. LTDA",
+			"name": "KOTINSKI & CIA. LTDA",
+			"val": 5.572863319281714,
+			"desc": 184.99,
+			"group": "KOTINSKI & CIA. LTDA"
+		},
+		{
+			"id": 37452,
+			"name": 184.99,
+			"val": 2.267148252391121,
+			"group": "KOTINSKI & CIA. LTDA"
+		},
+		{
+			"id": "ASA GAUCHA RESTAURANTE LTDA EPP",
+			"name": "ASA GAUCHA RESTAURANTE LTDA EPP",
+			"val": 1.4855211363276504,
+			"desc": 62.3,
+			"group": "ASA GAUCHA RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": 37462,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "ASA GAUCHA RESTAURANTE LTDA EPP"
+		},
+		{
+			"id": "MEU CANTINHO",
+			"name": "MEU CANTINHO",
+			"val": 2.1791929182868186,
+			"desc": 85,
+			"group": "MEU CANTINHO"
+		},
+		{
+			"id": 37466,
+			"name": 85,
+			"val": 1.9294189257142929,
+			"group": "MEU CANTINHO"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 37383,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "TREVO CHURRASCARIA",
+			"name": "TREVO CHURRASCARIA",
+			"val": 1.911681024050147,
+			"desc": 76.4,
+			"group": "TREVO CHURRASCARIA"
+		},
+		{
+			"id": 37422,
+			"name": 76.4,
+			"val": 1.88309335857569,
+			"group": "TREVO CHURRASCARIA"
+		},
+		{
+			"id": "RR COMERCIO DE COMBUSTIVEIS EIRELI",
+			"name": "RR COMERCIO DE COMBUSTIVEIS EIRELI",
+			"val": 6.498283548221905,
+			"desc": 210.5,
+			"group": "RR COMERCIO DE COMBUSTIVEIS EIRELI"
+		},
+		{
+			"id": 37454,
+			"name": 210.5,
+			"val": 2.323252100171687,
+			"group": "RR COMERCIO DE COMBUSTIVEIS EIRELI"
+		},
+		{
+			"id": "Cristiano de Souza Bernardo",
+			"name": "Cristiano de Souza Bernardo",
+			"val": 3.6380907171057806,
+			"desc": 129.6,
+			"group": "Cristiano de Souza Bernardo"
+		},
+		{
+			"id": 37439,
+			"name": 129.6,
+			"val": 2.1126050015345745,
+			"group": "Cristiano de Souza Bernardo"
+		},
+		{
+			"id": "Petryk e Pereira LTDA",
+			"name": "Petryk e Pereira LTDA",
+			"val": 2.98379827395085,
+			"desc": 110,
+			"group": "Petryk e Pereira LTDA"
+		},
+		{
+			"id": 37408,
+			"name": 110,
+			"val": 2.041392685158225,
+			"group": "Petryk e Pereira LTDA"
+		},
+		{
+			"id": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO",
+			"name": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO",
+			"val": 15.80656230192567,
+			"desc": 448.58,
+			"group": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO"
+		},
+		{
+			"id": 37378,
+			"name": 448.58,
+			"val": 2.651839906600346,
+			"group": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO"
+		},
+		{
+			"id": "M3 RR PUBLICIDADE E PRODUCAO LTDA",
+			"name": "M3 RR PUBLICIDADE E PRODUCAO LTDA",
+			"val": 876.8745837495375,
+			"desc": 15725,
+			"group": "M3 RR PUBLICIDADE E PRODUCAO LTDA"
+		},
+		{
+			"id": 37456,
+			"name": 15725,
+			"val": 4.196590654117307,
+			"group": "M3 RR PUBLICIDADE E PRODUCAO LTDA"
+		},
+		{
+			"id": "SEGUNDO BAR E RESTAURANTE LTDA ME",
+			"name": "SEGUNDO BAR E RESTAURANTE LTDA ME",
+			"val": 2.2980778637331967,
+			"desc": 88.77,
+			"group": "SEGUNDO BAR E RESTAURANTE LTDA ME"
+		},
+		{
+			"id": 37416,
+			"name": 88.77,
+			"val": 1.9482662198802954,
+			"group": "SEGUNDO BAR E RESTAURANTE LTDA ME"
+		},
+		{
+			"id": "SB CHURRASCARIA LTDA",
+			"name": "SB CHURRASCARIA LTDA",
+			"val": 4.1050828598689035,
+			"desc": 143.28,
+			"group": "SB CHURRASCARIA LTDA"
+		},
+		{
+			"id": 37415,
+			"name": 143.28,
+			"val": 2.156185572840975,
+			"group": "SB CHURRASCARIA LTDA"
+		},
+		{
+			"id": "BORGES E BORGES COM DER DE PETROLEO LTDA",
+			"name": "BORGES E BORGES COM DER DE PETROLEO LTDA",
+			"val": 6.6072291074036436,
+			"desc": 213.47,
+			"group": "BORGES E BORGES COM DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 37445,
+			"name": 213.47,
+			"val": 2.3293368500874236,
+			"group": "BORGES E BORGES COM DER DE PETROLEO LTDA"
+		},
+		{
+			"id": "M3 RR publicidade e produção ltda - me",
+			"name": "M3 RR publicidade e produção ltda - me",
+			"val": 812.4709782253365,
+			"desc": 14675,
+			"group": "M3 RR publicidade e produção ltda - me"
+		},
+		{
+			"id": 37396,
+			"name": 14675,
+			"val": 4.166578109919652,
+			"group": "M3 RR publicidade e produção ltda - me"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 10378.410000000002
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37427,
+			"value": 466.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37426,
+			"value": 1926.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37425,
+			"value": 1816.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37429,
+			"value": 1926.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37430,
+			"value": 432.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37432,
+			"value": 1926.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37431,
+			"value": 662.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 37428,
+			"value": 1220.85
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1557.64
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 37388,
+			"value": 249.56
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 37389,
+			"value": 228.51
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 37450,
+			"value": 245.76
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 37391,
+			"value": 181.19
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 37390,
+			"value": 227.16
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 37392,
+			"value": 205.06
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 37451,
+			"value": 220.4
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA RANONI LTDA",
+			"value": 50
+		},
+		{
+			"source": "POSTO DE GASOLINA RANONI LTDA",
+			"target": 37394,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "ARNOGAS & CIA.LTDA.",
+			"value": 160
+		},
+		{
+			"source": "ARNOGAS & CIA.LTDA.",
+			"target": 37382,
+			"value": 160
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 7166.33
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 37434,
+			"value": 1613.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 37437,
+			"value": 583.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 37436,
+			"value": 1777.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 37433,
+			"value": 1616.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 37435,
+			"value": 1574.85
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 41.5
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 37401,
+			"value": 7.7
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 37461,
+			"value": 33.8
+		},
+		{
+			"source": -100,
+			"target": "O REI DO CAMARAO RESTAURANTE LTDA EPP",
+			"value": 131.91
+		},
+		{
+			"source": "O REI DO CAMARAO RESTAURANTE LTDA EPP",
+			"target": 37467,
+			"value": 55.17
+		},
+		{
+			"source": "O REI DO CAMARAO RESTAURANTE LTDA EPP",
+			"target": 37468,
+			"value": 76.74
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 493.34000000000003
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 37458,
+			"value": 283.99
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 37457,
+			"value": 189.36
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 37397,
+			"value": 19.99
+		},
+		{
+			"source": -100,
+			"target": "POSTO MACUXI LTDA",
+			"value": 50
+		},
+		{
+			"source": "POSTO MACUXI LTDA",
+			"target": 37453,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"value": 88.4
+		},
+		{
+			"source": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"target": 37403,
+			"value": 88.4
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 210
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 37385,
+			"value": 210
+		},
+		{
+			"source": -100,
+			"target": "SEMALO COMBUSTIVEIS LTDA",
+			"value": 340
+		},
+		{
+			"source": "SEMALO COMBUSTIVEIS LTDA",
+			"target": 37395,
+			"value": 136
+		},
+		{
+			"source": "SEMALO COMBUSTIVEIS LTDA",
+			"target": 37455,
+			"value": 204
+		},
+		{
+			"source": -100,
+			"target": "BVK COMBUSTIVEIS LTDA",
+			"value": 867.53
+		},
+		{
+			"source": "BVK COMBUSTIVEIS LTDA",
+			"target": 37448,
+			"value": 100
+		},
+		{
+			"source": "BVK COMBUSTIVEIS LTDA",
+			"target": 37449,
+			"value": 181.31
+		},
+		{
+			"source": "BVK COMBUSTIVEIS LTDA",
+			"target": 37387,
+			"value": 140.84
+		},
+		{
+			"source": "BVK COMBUSTIVEIS LTDA",
+			"target": 37386,
+			"value": 175.24
+		},
+		{
+			"source": "BVK COMBUSTIVEIS LTDA",
+			"target": 37447,
+			"value": 100
+		},
+		{
+			"source": "BVK COMBUSTIVEIS LTDA",
+			"target": 37446,
+			"value": 170.14
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ABEL GALINHA LTDA MATRIZ",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO ABEL GALINHA LTDA MATRIZ",
+			"target": 37443,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "A.P. FACCIO",
+			"value": 116.77
+		},
+		{
+			"source": "A.P. FACCIO",
+			"target": 37442,
+			"value": 116.77
+		},
+		{
+			"source": -100,
+			"target": "JEAN PIERRE GOMES DOS SANTOS",
+			"value": 10000
+		},
+		{
+			"source": "JEAN PIERRE GOMES DOS SANTOS",
+			"target": 37440,
+			"value": 5000
+		},
+		{
+			"source": "JEAN PIERRE GOMES DOS SANTOS",
+			"target": 37380,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "Restaurante - Golden Comércio e Serviços LTDA",
+			"value": 147.71
+		},
+		{
+			"source": "Restaurante - Golden Comércio e Serviços LTDA",
+			"target": 37409,
+			"value": 43.87
+		},
+		{
+			"source": "Restaurante - Golden Comércio e Serviços LTDA",
+			"target": 37471,
+			"value": 36.67
+		},
+		{
+			"source": "Restaurante - Golden Comércio e Serviços LTDA",
+			"target": 37472,
+			"value": 36.93
+		},
+		{
+			"source": "Restaurante - Golden Comércio e Serviços LTDA",
+			"target": 37410,
+			"value": 30.24
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CAPITAL LTDA",
+			"value": 95.71
+		},
+		{
+			"source": "AUTO POSTO CAPITAL LTDA",
+			"target": 37384,
+			"value": 95.71
+		},
+		{
+			"source": -100,
+			"target": "WM RESTAURANTE E CHOPERIA LTDA",
+			"value": 117.26
+		},
+		{
+			"source": "WM RESTAURANTE E CHOPERIA LTDA",
+			"target": 37423,
+			"value": 117.26
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 125.24000000000001
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 37419,
+			"value": 68.28
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 37417,
+			"value": 29.2
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 37477,
+			"value": 11.81
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 37418,
+			"value": 15.95
+		},
+		{
+			"source": -100,
+			"target": "A P FACCIO",
+			"value": 100
+		},
+		{
+			"source": "A P FACCIO",
+			"target": 37441,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "ABENCOADO BAR E ESPETARIA",
+			"value": 72.5
+		},
+		{
+			"source": "ABENCOADO BAR E ESPETARIA",
+			"target": 37402,
+			"value": 72.5
+		},
+		{
+			"source": -100,
+			"target": "HADCO COMERCIO DE ALIMENTOS LTDA.",
+			"value": 34
+		},
+		{
+			"source": "HADCO COMERCIO DE ALIMENTOS LTDA.",
+			"target": 37464,
+			"value": 34
+		},
+		{
+			"source": -100,
+			"target": "RECANTO DA PEIXADA",
+			"value": 78
+		},
+		{
+			"source": "RECANTO DA PEIXADA",
+			"target": 37470,
+			"value": 78
+		},
+		{
+			"source": -100,
+			"target": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"value": 4600
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"target": 37424,
+			"value": 4600
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"value": 212.43
+		},
+		{
+			"source": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"target": 37444,
+			"value": 212.43
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"value": 162.60999999999999
+		},
+		{
+			"source": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"target": 37411,
+			"value": 98.71
+		},
+		{
+			"source": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
+			"target": 37473,
+			"value": 63.9
+		},
+		{
+			"source": -100,
+			"target": "PIZZARIA TREVO",
+			"value": 48.5
+		},
+		{
+			"source": "PIZZARIA TREVO",
+			"target": 37469,
+			"value": 48.5
+		},
+		{
+			"source": -100,
+			"target": "NOVO SUCESSO EIRELI",
+			"value": 94.1
+		},
+		{
+			"source": "NOVO SUCESSO EIRELI",
+			"target": 37407,
+			"value": 94.1
+		},
+		{
+			"source": -100,
+			"target": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA",
+			"value": 86.80000000000001
+		},
+		{
+			"source": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA",
+			"target": 37465,
+			"value": 53.6
+		},
+		{
+			"source": "LANCHONETE GAUCHA COMERCIO DE ALIMENTOS ASA NORTE LTDA",
+			"target": 37404,
+			"value": 33.2
+		},
+		{
+			"source": -100,
+			"target": "OI MÓVEL S.A",
+			"value": 616.1199999999999
+		},
+		{
+			"source": "OI MÓVEL S.A",
+			"target": 37459,
+			"value": 309.03
+		},
+		{
+			"source": "OI MÓVEL S.A",
+			"target": 37399,
+			"value": 307.09
+		},
+		{
+			"source": -100,
+			"target": "TGC COMÉRCIO DE ALIMENTOS LTDA",
+			"value": 84.15
+		},
+		{
+			"source": "TGC COMÉRCIO DE ALIMENTOS LTDA",
+			"target": 37421,
+			"value": 84.15
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE MADERO BRASILIA LT",
+			"value": 115.5
+		},
+		{
+			"source": "RESTAURANTE MADERO BRASILIA LT",
+			"target": 37413,
+			"value": 59.4
+		},
+		{
+			"source": "RESTAURANTE MADERO BRASILIA LT",
+			"target": 37412,
+			"value": 56.1
+		},
+		{
+			"source": -100,
+			"target": "SAKURA HOUSE",
+			"value": 195.5
+		},
+		{
+			"source": "SAKURA HOUSE",
+			"target": 37476,
+			"value": 100.5
+		},
+		{
+			"source": "SAKURA HOUSE",
+			"target": 37475,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "AMORETTO CAFES EXPRESSO LTDA",
+			"value": 1080.4
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 37379,
+			"value": 540.2
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 37438,
+			"value": 540.2
+		},
+		{
+			"source": -100,
+			"target": "SALOME BOA VISTA",
+			"value": 81.02
+		},
+		{
+			"source": "SALOME BOA VISTA",
+			"target": 37414,
+			"value": 81.02
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 2478.29
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 37381,
+			"value": 2478.29
+		},
+		{
+			"source": -100,
+			"target": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
+			"value": 29.64
+		},
+		{
+			"source": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
+			"target": 37474,
+			"value": 29.64
+		},
+		{
+			"source": -100,
+			"target": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"value": 217.3
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 37393,
+			"value": 217.3
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 113.19
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 37398,
+			"value": 113.19
+		},
+		{
+			"source": -100,
+			"target": "MAIA & TAVARES LTDA",
+			"value": 76.04
+		},
+		{
+			"source": "MAIA & TAVARES LTDA",
+			"target": 37406,
+			"value": 76.04
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 17.4
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 37420,
+			"value": 17.4
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 78.32
+		},
+		{
+			"source": "RAMAL",
+			"target": 37460,
+			"value": 32.95
+		},
+		{
+			"source": "RAMAL",
+			"target": 37400,
+			"value": 45.37
+		},
+		{
+			"source": -100,
+			"target": "F M FARIAS DE ASSIS ME",
+			"value": 84.15
+		},
+		{
+			"source": "F M FARIAS DE ASSIS ME",
+			"target": 37463,
+			"value": 84.15
+		},
+		{
+			"source": -100,
+			"target": "MABELLE RESTAURANTE EIRELI EPP",
+			"value": 36.06
+		},
+		{
+			"source": "MABELLE RESTAURANTE EIRELI EPP",
+			"target": 37405,
+			"value": 36.06
+		},
+		{
+			"source": -100,
+			"target": "KOTINSKI & CIA. LTDA",
+			"value": 184.99
+		},
+		{
+			"source": "KOTINSKI & CIA. LTDA",
+			"target": 37452,
+			"value": 184.99
+		},
+		{
+			"source": -100,
+			"target": "ASA GAUCHA RESTAURANTE LTDA EPP",
+			"value": 62.3
+		},
+		{
+			"source": "ASA GAUCHA RESTAURANTE LTDA EPP",
+			"target": 37462,
+			"value": 62.3
+		},
+		{
+			"source": -100,
+			"target": "MEU CANTINHO",
+			"value": 85
+		},
+		{
+			"source": "MEU CANTINHO",
+			"target": 37466,
+			"value": 85
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 37383,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "TREVO CHURRASCARIA",
+			"value": 76.4
+		},
+		{
+			"source": "TREVO CHURRASCARIA",
+			"target": 37422,
+			"value": 76.4
+		},
+		{
+			"source": -100,
+			"target": "RR COMERCIO DE COMBUSTIVEIS EIRELI",
+			"value": 210.5
+		},
+		{
+			"source": "RR COMERCIO DE COMBUSTIVEIS EIRELI",
+			"target": 37454,
+			"value": 210.5
+		},
+		{
+			"source": -100,
+			"target": "Cristiano de Souza Bernardo",
+			"value": 129.6
+		},
+		{
+			"source": "Cristiano de Souza Bernardo",
+			"target": 37439,
+			"value": 129.6
+		},
+		{
+			"source": -100,
+			"target": "Petryk e Pereira LTDA",
+			"value": 110
+		},
+		{
+			"source": "Petryk e Pereira LTDA",
+			"target": 37408,
+			"value": 110
+		},
+		{
+			"source": -100,
+			"target": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO",
+			"value": 448.58
+		},
+		{
+			"source": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO",
+			"target": 37378,
+			"value": 448.58
+		},
+		{
+			"source": -100,
+			"target": "M3 RR PUBLICIDADE E PRODUCAO LTDA",
+			"value": 15725
+		},
+		{
+			"source": "M3 RR PUBLICIDADE E PRODUCAO LTDA",
+			"target": 37456,
+			"value": 15725
+		},
+		{
+			"source": -100,
+			"target": "SEGUNDO BAR E RESTAURANTE LTDA ME",
+			"value": 88.77
+		},
+		{
+			"source": "SEGUNDO BAR E RESTAURANTE LTDA ME",
+			"target": 37416,
+			"value": 88.77
+		},
+		{
+			"source": -100,
+			"target": "SB CHURRASCARIA LTDA",
+			"value": 143.28
+		},
+		{
+			"source": "SB CHURRASCARIA LTDA",
+			"target": 37415,
+			"value": 143.28
+		},
+		{
+			"source": -100,
+			"target": "BORGES E BORGES COM DER DE PETROLEO LTDA",
+			"value": 213.47
+		},
+		{
+			"source": "BORGES E BORGES COM DER DE PETROLEO LTDA",
+			"target": 37445,
+			"value": 213.47
+		},
+		{
+			"source": -100,
+			"target": "M3 RR publicidade e produção ltda - me",
+			"value": 14675
+		},
+		{
+			"source": "M3 RR publicidade e produção ltda - me",
+			"target": 37396,
+			"value": 14675
+		}
+	]
+}

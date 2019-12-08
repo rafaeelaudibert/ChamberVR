@@ -1,0 +1,1569 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "SEBASTIÃO OLIVEIRA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "ADEGA ESTORIL RESTAURANTE LTDA ME",
+			"name": "ADEGA ESTORIL RESTAURANTE LTDA ME",
+			"val": 3.0890015965307316,
+			"desc": 113.19,
+			"group": "ADEGA ESTORIL RESTAURANTE LTDA ME"
+		},
+		{
+			"id": 46184,
+			"name": 113.19,
+			"val": 2.053808059920658,
+			"group": "ADEGA ESTORIL RESTAURANTE LTDA ME"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 295.8181627444608,
+			"desc": 5903.450000000001,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46259,
+			"name": 2299.24,
+			"val": 3.361584306299965,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46229,
+			"name": 549,
+			"val": 2.739572344450092,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46190,
+			"name": 318,
+			"val": 2.5024271199844326,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46205,
+			"name": 82,
+			"val": 1.9138138523837167,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46267,
+			"name": -2187.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46261,
+			"name": 1072.39,
+			"val": 3.030352755548563,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46264,
+			"name": -396.19,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46233,
+			"name": -2.46,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46231,
+			"name": -451.4,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46188,
+			"name": 911.39,
+			"val": 2.959704259084432,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46187,
+			"name": 911.39,
+			"val": 2.959704259084432,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46266,
+			"name": -945.19,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46265,
+			"name": -1532.29,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46262,
+			"name": 1075.85,
+			"val": 3.0317517241989336,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46230,
+			"name": 1359.85,
+			"val": 3.1334910056017917,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46189,
+			"name": 1398.56,
+			"val": 3.1456811028919955,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46268,
+			"name": -1020.24,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46258,
+			"name": 1611.39,
+			"val": 3.207200664162011,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46232,
+			"name": -296.65,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46207,
+			"name": 567.46,
+			"val": 2.753935253721502,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46260,
+			"name": 1158.39,
+			"val": 3.0638547997477845,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46263,
+			"name": -549,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46206,
+			"name": 996.85,
+			"val": 2.9986298132030385,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46269,
+			"name": -1023.7,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46208,
+			"name": -3.8,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
+			"name": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
+			"val": 1784.7209856324725,
+			"desc": 30000,
+			"group": "MAKPLAN MARKETING E PLANEJAMENTO LTDA"
+		},
+		{
+			"id": 46180,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "MAKPLAN MARKETING E PLANEJAMENTO LTDA"
+		},
+		{
+			"id": 46198,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "MAKPLAN MARKETING E PLANEJAMENTO LTDA"
+		},
+		{
+			"id": 46222,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "MAKPLAN MARKETING E PLANEJAMENTO LTDA"
+		},
+		{
+			"id": 46252,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "MAKPLAN MARKETING E PLANEJAMENTO LTDA"
+		},
+		{
+			"id": "Telefônica Brasil S/A",
+			"name": "Telefônica Brasil S/A",
+			"val": 7.217479320719688,
+			"desc": 229.99,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 46200,
+			"name": 229.99,
+			"val": 2.3617089532383164,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": "RESTAURANTE COSTA BRAVA LTDA",
+			"name": "RESTAURANTE COSTA BRAVA LTDA",
+			"val": 9.334892809274477,
+			"desc": 286,
+			"group": "RESTAURANTE COSTA BRAVA LTDA"
+		},
+		{
+			"id": 46226,
+			"name": 118,
+			"val": 2.0718820073061255,
+			"group": "RESTAURANTE COSTA BRAVA LTDA"
+		},
+		{
+			"id": 46202,
+			"name": 168,
+			"val": 2.225309281725863,
+			"group": "RESTAURANTE COSTA BRAVA LTDA"
+		},
+		{
+			"id": "AUTO POSTO MOURA LTDA",
+			"name": "AUTO POSTO MOURA LTDA",
+			"val": 6.848703446275562,
+			"desc": 220.03,
+			"group": "AUTO POSTO MOURA LTDA"
+		},
+		{
+			"id": 46174,
+			"name": 220.03,
+			"val": 2.3424818987595164,
+			"group": "AUTO POSTO MOURA LTDA"
+		},
+		{
+			"id": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
+			"name": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
+			"val": 9.296492644319398,
+			"desc": 285,
+			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
+		},
+		{
+			"id": 46177,
+			"name": 285,
+			"val": 2.45484486000851,
+			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 6.488391346731705,
+			"desc": 210.23,
+			"group": "RAMAL"
+		},
+		{
+			"id": 46225,
+			"name": 48.14,
+			"val": 1.682506085939011,
+			"group": "RAMAL"
+		},
+		{
+			"id": 46199,
+			"name": 81.89,
+			"val": 1.9132308711135606,
+			"group": "RAMAL"
+		},
+		{
+			"id": 46182,
+			"name": 46.97,
+			"val": 1.671820560183249,
+			"group": "RAMAL"
+		},
+		{
+			"id": 46255,
+			"name": 33.23,
+			"val": 1.521530341278711,
+			"group": "RAMAL"
+		},
+		{
+			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"val": 38.76049993820452,
+			"desc": 975.8,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 46217,
+			"name": 195.47,
+			"val": 2.2910801129635265,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 46216,
+			"name": 175.34,
+			"val": 2.2438810022183184,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 46242,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 46244,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 46243,
+			"name": 204.99,
+			"val": 2.3117326754423497,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": "POSTO CASA FORTE LTDA",
+			"name": "POSTO CASA FORTE LTDA",
+			"val": 62.026875453405225,
+			"desc": 1473.3399999999997,
+			"group": "POSTO CASA FORTE LTDA"
+		},
+		{
+			"id": 46196,
+			"name": 309.98,
+			"val": 2.4913336739315626,
+			"group": "POSTO CASA FORTE LTDA"
+		},
+		{
+			"id": 46220,
+			"name": 305.05,
+			"val": 2.4843710293284063,
+			"group": "POSTO CASA FORTE LTDA"
+		},
+		{
+			"id": 46249,
+			"name": 157.92,
+			"val": 2.1984371353255616,
+			"group": "POSTO CASA FORTE LTDA"
+		},
+		{
+			"id": 46219,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO CASA FORTE LTDA"
+		},
+		{
+			"id": 46248,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO CASA FORTE LTDA"
+		},
+		{
+			"id": 46250,
+			"name": 400.39,
+			"val": 2.602483222156301,
+			"group": "POSTO CASA FORTE LTDA"
+		},
+		{
+			"id": "AUTO POSTO CARRETEIRO LTDA",
+			"name": "AUTO POSTO CARRETEIRO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO CARRETEIRO LTDA"
+		},
+		{
+			"id": 46239,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO CARRETEIRO LTDA"
+		},
+		{
+			"id": "CLARO S.A",
+			"name": "CLARO S.A",
+			"val": 9.935343200906626,
+			"desc": 301.57,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 46254,
+			"name": 301.57,
+			"val": 2.47938813599586,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 483.72067894358224,
+			"desc": 9185.62,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46212,
+			"name": 70.9,
+			"val": 1.8506462351830666,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46211,
+			"name": 891.95,
+			"val": 2.950340509832721,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46210,
+			"name": 891.95,
+			"val": 2.950340509832721,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46271,
+			"name": 1040.85,
+			"val": 3.017388146545963,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46234,
+			"name": 1404.85,
+			"val": 3.1476299558069494,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46270,
+			"name": 1037.39,
+			"val": 3.015942057262973,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46213,
+			"name": 240,
+			"val": 2.380211241711606,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46214,
+			"name": 718.39,
+			"val": 2.8563602783153645,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46209,
+			"name": 1650.17,
+			"val": 3.2175286874010687,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46235,
+			"name": 241,
+			"val": 2.3820170425748683,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46191,
+			"name": 998.17,
+			"val": 2.999204513005313,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"name": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"val": 1784.7209856324725,
+			"desc": 30000,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46185,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46227,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46186,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46203,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46228,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46256,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46257,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": 46204,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
+		},
+		{
+			"id": "PETROVEL- PETROLEO VELOSO LTDA",
+			"name": "PETROVEL- PETROLEO VELOSO LTDA",
+			"val": 9.888897585076206,
+			"desc": 300.37,
+			"group": "PETROVEL- PETROLEO VELOSO LTDA"
+		},
+		{
+			"id": 46178,
+			"name": 300.37,
+			"val": 2.477656554546929,
+			"group": "PETROVEL- PETROLEO VELOSO LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 22.665937506936814,
+			"desc": 612.09,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46194,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46240,
+			"name": 192.09,
+			"val": 2.28350475654383,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46175,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46193,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "TAM LINHAS AEREAS SA",
+			"name": "TAM LINHAS AEREAS SA",
+			"val": 1.6497674654691237,
+			"desc": 67.8,
+			"group": "TAM LINHAS AEREAS SA"
+		},
+		{
+			"id": 46201,
+			"name": 67.8,
+			"val": 1.8312296938670634,
+			"group": "TAM LINHAS AEREAS SA"
+		},
+		{
+			"id": "Claro S.A",
+			"name": "Claro S.A",
+			"val": 38.374936394843786,
+			"desc": 967.3199999999999,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 46223,
+			"name": 506.34,
+			"val": 2.704442237268507,
+			"group": "Claro S.A"
+		},
+		{
+			"id": 46253,
+			"name": 460.98,
+			"val": 2.663682083571736,
+			"group": "Claro S.A"
+		},
+		{
+			"id": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A",
+			"name": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A",
+			"val": 207.60608024500135,
+			"desc": 4300,
+			"group": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A"
+		},
+		{
+			"id": 46173,
+			"name": 4300,
+			"val": 3.6334684555795866,
+			"group": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 46192,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN",
+			"name": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN"
+		},
+		{
+			"id": 46197,
+			"name": 100,
+			"val": 2,
+			"group": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN"
+		},
+		{
+			"id": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
+			"name": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
+			"val": 10.65245854728293,
+			"desc": 320.01,
+			"group": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME"
+		},
+		{
+			"id": 46246,
+			"name": 320.01,
+			"val": 2.505163549810412,
+			"group": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME"
+		},
+		{
+			"id": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS",
+			"name": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS",
+			"val": 414.9050971091868,
+			"desc": 8000,
+			"group": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS"
+		},
+		{
+			"id": 46221,
+			"name": 8000,
+			"val": 3.9030899869919438,
+			"group": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS"
+		},
+		{
+			"id": "CAVALCANTE RABELO LTDA",
+			"name": "CAVALCANTE RABELO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CAVALCANTE RABELO LTDA"
+		},
+		{
+			"id": 46241,
+			"name": 100,
+			"val": 2,
+			"group": "CAVALCANTE RABELO LTDA"
+		},
+		{
+			"id": "POSTO APIPUCOS LTDA",
+			"name": "POSTO APIPUCOS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO APIPUCOS LTDA"
+		},
+		{
+			"id": 46195,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO APIPUCOS LTDA"
+		},
+		{
+			"id": "AMORETTO CAFES EXPRESSO LTDA",
+			"name": "AMORETTO CAFES EXPRESSO LTDA",
+			"val": 73.32366887971102,
+			"desc": 1707.2,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 46236,
+			"name": 853.6,
+			"val": 2.9312544064164134,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": 46215,
+			"name": 853.6,
+			"val": 2.9312544064164134,
+			"group": "AMORETTO CAFES EXPRESSO LTDA"
+		},
+		{
+			"id": "PETROCAL PETROLEO CAVALCANTI LTDA",
+			"name": "PETROCAL PETROLEO CAVALCANTI LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
+		},
+		{
+			"id": 46247,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
+		},
+		{
+			"id": 46218,
+			"name": 100,
+			"val": 2,
+			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA",
+			"name": "TELEFONICA BRASIL SA",
+			"val": 7.414364409430204,
+			"desc": 235.28,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 46183,
+			"name": 235.28,
+			"val": 2.371585011499013,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA",
+			"name": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 46179,
+			"name": 190,
+			"val": 2.278753600952829,
+			"group": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": "BARCELAR INVESTIMENTOS LTDA",
+			"name": "BARCELAR INVESTIMENTOS LTDA",
+			"val": 68.12067961455824,
+			"desc": 1600,
+			"group": "BARCELAR INVESTIMENTOS LTDA"
+		},
+		{
+			"id": 46172,
+			"name": 1600,
+			"val": 3.204119982655925,
+			"group": "BARCELAR INVESTIMENTOS LTDA"
+		},
+		{
+			"id": "CJCM PETROLEO LTDA",
+			"name": "CJCM PETROLEO LTDA",
+			"val": 7.782032229215289,
+			"desc": 245.11,
+			"group": "CJCM PETROLEO LTDA"
+		},
+		{
+			"id": 46176,
+			"name": 245.11,
+			"val": 2.3893610299637307,
+			"group": "CJCM PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO PORTAL DE SUAPE LTDA",
+			"name": "POSTO PORTAL DE SUAPE LTDA",
+			"val": 9.10517985913116,
+			"desc": 280.01,
+			"group": "POSTO PORTAL DE SUAPE LTDA"
+		},
+		{
+			"id": 46251,
+			"name": 280.01,
+			"val": 2.447173541582463,
+			"group": "POSTO PORTAL DE SUAPE LTDA"
+		},
+		{
+			"id": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
+			"name": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "AGUAS CLARAS POSTO DE SERVICOS LTDA"
+		},
+		{
+			"id": 46238,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AGUAS CLARAS POSTO DE SERVICOS LTDA"
+		},
+		{
+			"id": "Lucas Paulino de Sousa Nogueira",
+			"name": "Lucas Paulino de Sousa Nogueira",
+			"val": 28.625857481123393,
+			"desc": 749.4,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 46237,
+			"name": 749.4,
+			"val": 2.874713688757779,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 8.368255121536846,
+			"desc": 260.66,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 46224,
+			"name": 260.66,
+			"val": 2.4160743909223945,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "CLARO S/A - NET",
+			"name": "CLARO S/A - NET",
+			"val": 16.73285091207326,
+			"desc": 471.09,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 46181,
+			"name": 471.09,
+			"val": 2.673103885408021,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA",
+			"name": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA"
+		},
+		{
+			"id": 46245,
+			"name": 100,
+			"val": 2,
+			"group": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "ADEGA ESTORIL RESTAURANTE LTDA ME",
+			"value": 113.19
+		},
+		{
+			"source": "ADEGA ESTORIL RESTAURANTE LTDA ME",
+			"target": 46184,
+			"value": 113.19
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 5903.450000000001
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46259,
+			"value": 2299.24
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46229,
+			"value": 549
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46190,
+			"value": 318
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46205,
+			"value": 82
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46267,
+			"value": -2187.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46261,
+			"value": 1072.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46264,
+			"value": -396.19
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46233,
+			"value": -2.46
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46231,
+			"value": -451.4
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46188,
+			"value": 911.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46187,
+			"value": 911.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46266,
+			"value": -945.19
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46265,
+			"value": -1532.29
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46262,
+			"value": 1075.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46230,
+			"value": 1359.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46189,
+			"value": 1398.56
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46268,
+			"value": -1020.24
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46258,
+			"value": 1611.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46232,
+			"value": -296.65
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46207,
+			"value": 567.46
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46260,
+			"value": 1158.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46263,
+			"value": -549
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46206,
+			"value": 996.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46269,
+			"value": -1023.7
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46208,
+			"value": -3.8
+		},
+		{
+			"source": -100,
+			"target": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
+			"value": 30000
+		},
+		{
+			"source": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
+			"target": 46180,
+			"value": 7500
+		},
+		{
+			"source": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
+			"target": 46198,
+			"value": 7500
+		},
+		{
+			"source": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
+			"target": 46222,
+			"value": 7500
+		},
+		{
+			"source": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
+			"target": 46252,
+			"value": 7500
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A",
+			"value": 229.99
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 46200,
+			"value": 229.99
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE COSTA BRAVA LTDA",
+			"value": 286
+		},
+		{
+			"source": "RESTAURANTE COSTA BRAVA LTDA",
+			"target": 46226,
+			"value": 118
+		},
+		{
+			"source": "RESTAURANTE COSTA BRAVA LTDA",
+			"target": 46202,
+			"value": 168
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MOURA LTDA",
+			"value": 220.03
+		},
+		{
+			"source": "AUTO POSTO MOURA LTDA",
+			"target": 46174,
+			"value": 220.03
+		},
+		{
+			"source": -100,
+			"target": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
+			"value": 285
+		},
+		{
+			"source": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
+			"target": 46177,
+			"value": 285
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 210.23
+		},
+		{
+			"source": "RAMAL",
+			"target": 46225,
+			"value": 48.14
+		},
+		{
+			"source": "RAMAL",
+			"target": 46199,
+			"value": 81.89
+		},
+		{
+			"source": "RAMAL",
+			"target": 46182,
+			"value": 46.97
+		},
+		{
+			"source": "RAMAL",
+			"target": 46255,
+			"value": 33.23
+		},
+		{
+			"source": -100,
+			"target": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"value": 975.8
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 46217,
+			"value": 195.47
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 46216,
+			"value": 175.34
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 46242,
+			"value": 200
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 46244,
+			"value": 200
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 46243,
+			"value": 204.99
+		},
+		{
+			"source": -100,
+			"target": "POSTO CASA FORTE LTDA",
+			"value": 1473.3399999999997
+		},
+		{
+			"source": "POSTO CASA FORTE LTDA",
+			"target": 46196,
+			"value": 309.98
+		},
+		{
+			"source": "POSTO CASA FORTE LTDA",
+			"target": 46220,
+			"value": 305.05
+		},
+		{
+			"source": "POSTO CASA FORTE LTDA",
+			"target": 46249,
+			"value": 157.92
+		},
+		{
+			"source": "POSTO CASA FORTE LTDA",
+			"target": 46219,
+			"value": 100
+		},
+		{
+			"source": "POSTO CASA FORTE LTDA",
+			"target": 46248,
+			"value": 200
+		},
+		{
+			"source": "POSTO CASA FORTE LTDA",
+			"target": 46250,
+			"value": 400.39
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CARRETEIRO LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO CARRETEIRO LTDA",
+			"target": 46239,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A",
+			"value": 301.57
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 46254,
+			"value": 301.57
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 9185.62
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46212,
+			"value": 70.9
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46211,
+			"value": 891.95
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46210,
+			"value": 891.95
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46271,
+			"value": 1040.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46234,
+			"value": 1404.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46270,
+			"value": 1037.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46213,
+			"value": 240
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46214,
+			"value": 718.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46209,
+			"value": 1650.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46235,
+			"value": 241
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46191,
+			"value": 998.17
+		},
+		{
+			"source": -100,
+			"target": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"value": 30000
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46185,
+			"value": 5000
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46227,
+			"value": 5000
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46186,
+			"value": 2500
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46203,
+			"value": 5000
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46228,
+			"value": 2500
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46256,
+			"value": 5000
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46257,
+			"value": 2500
+		},
+		{
+			"source": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
+			"target": 46204,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "PETROVEL- PETROLEO VELOSO LTDA",
+			"value": 300.37
+		},
+		{
+			"source": "PETROVEL- PETROLEO VELOSO LTDA",
+			"target": 46178,
+			"value": 300.37
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 612.09
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46194,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46240,
+			"value": 192.09
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46175,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46193,
+			"value": 120
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS SA",
+			"value": 67.8
+		},
+		{
+			"source": "TAM LINHAS AEREAS SA",
+			"target": 46201,
+			"value": 67.8
+		},
+		{
+			"source": -100,
+			"target": "Claro S.A",
+			"value": 967.3199999999999
+		},
+		{
+			"source": "Claro S.A",
+			"target": 46223,
+			"value": 506.34
+		},
+		{
+			"source": "Claro S.A",
+			"target": 46253,
+			"value": 460.98
+		},
+		{
+			"source": -100,
+			"target": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A",
+			"value": 4300
+		},
+		{
+			"source": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A",
+			"target": 46173,
+			"value": 4300
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 46192,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN",
+			"value": 100
+		},
+		{
+			"source": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN",
+			"target": 46197,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
+			"value": 320.01
+		},
+		{
+			"source": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
+			"target": 46246,
+			"value": 320.01
+		},
+		{
+			"source": -100,
+			"target": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS",
+			"value": 8000
+		},
+		{
+			"source": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS",
+			"target": 46221,
+			"value": 8000
+		},
+		{
+			"source": -100,
+			"target": "CAVALCANTE RABELO LTDA",
+			"value": 100
+		},
+		{
+			"source": "CAVALCANTE RABELO LTDA",
+			"target": 46241,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO APIPUCOS LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO APIPUCOS LTDA",
+			"target": 46195,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AMORETTO CAFES EXPRESSO LTDA",
+			"value": 1707.2
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 46236,
+			"value": 853.6
+		},
+		{
+			"source": "AMORETTO CAFES EXPRESSO LTDA",
+			"target": 46215,
+			"value": 853.6
+		},
+		{
+			"source": -100,
+			"target": "PETROCAL PETROLEO CAVALCANTI LTDA",
+			"value": 150
+		},
+		{
+			"source": "PETROCAL PETROLEO CAVALCANTI LTDA",
+			"target": 46247,
+			"value": 50
+		},
+		{
+			"source": "PETROCAL PETROLEO CAVALCANTI LTDA",
+			"target": 46218,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA",
+			"value": 235.28
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 46183,
+			"value": 235.28
+		},
+		{
+			"source": -100,
+			"target": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA",
+			"value": 190
+		},
+		{
+			"source": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 46179,
+			"value": 190
+		},
+		{
+			"source": -100,
+			"target": "BARCELAR INVESTIMENTOS LTDA",
+			"value": 1600
+		},
+		{
+			"source": "BARCELAR INVESTIMENTOS LTDA",
+			"target": 46172,
+			"value": 1600
+		},
+		{
+			"source": -100,
+			"target": "CJCM PETROLEO LTDA",
+			"value": 245.11
+		},
+		{
+			"source": "CJCM PETROLEO LTDA",
+			"target": 46176,
+			"value": 245.11
+		},
+		{
+			"source": -100,
+			"target": "POSTO PORTAL DE SUAPE LTDA",
+			"value": 280.01
+		},
+		{
+			"source": "POSTO PORTAL DE SUAPE LTDA",
+			"target": 46251,
+			"value": 280.01
+		},
+		{
+			"source": -100,
+			"target": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
+			"value": 150
+		},
+		{
+			"source": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
+			"target": 46238,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "Lucas Paulino de Sousa Nogueira",
+			"value": 749.4
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 46237,
+			"value": 749.4
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 260.66
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 46224,
+			"value": 260.66
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A - NET",
+			"value": 471.09
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 46181,
+			"value": 471.09
+		},
+		{
+			"source": -100,
+			"target": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA",
+			"value": 100
+		},
+		{
+			"source": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA",
+			"target": 46245,
+			"value": 100
+		}
+	]
+}

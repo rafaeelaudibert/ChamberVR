@@ -1,0 +1,1641 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ALINE SLEUTJES"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "MARCIO TEIXEIRA - REVISTA",
+			"name": "MARCIO TEIXEIRA - REVISTA",
+			"val": 97.70893271402579,
+			"desc": 2200,
+			"group": "MARCIO TEIXEIRA - REVISTA"
+		},
+		{
+			"id": 3853,
+			"name": 2200,
+			"val": 3.342422680822206,
+			"group": "MARCIO TEIXEIRA - REVISTA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 78.38300372224629,
+			"desc": 1810.6800000000003,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3845,
+			"name": 228.52,
+			"val": 2.3589242153885115,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3770,
+			"name": 225.01,
+			"val": 2.352201819659416,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3768,
+			"name": 227.83,
+			"val": 2.357610910158445,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3847,
+			"name": 210.55,
+			"val": 2.323355245756284,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3846,
+			"name": 227.66,
+			"val": 2.35728673151412,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3767,
+			"name": 231.86,
+			"val": 2.365225831528624,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3844,
+			"name": 251.16,
+			"val": 2.399950474386311,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 3769,
+			"name": 208.09,
+			"val": 2.3182512102011996,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "POSTO SAFF LTDA",
+			"name": "POSTO SAFF LTDA",
+			"val": 9.917148712555264,
+			"desc": 301.1,
+			"group": "POSTO SAFF LTDA"
+		},
+		{
+			"id": 3776,
+			"name": 101.1,
+			"val": 2.004751155591001,
+			"group": "POSTO SAFF LTDA"
+		},
+		{
+			"id": 3849,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO SAFF LTDA"
+		},
+		{
+			"id": "RESTAURANTE DAS MINAS LTDA",
+			"name": "RESTAURANTE DAS MINAS LTDA",
+			"val": 0.7891287824587921,
+			"desc": 37.68,
+			"group": "RESTAURANTE DAS MINAS LTDA"
+		},
+		{
+			"id": 3786,
+			"name": 37.68,
+			"val": 1.5761108941208397,
+			"group": "RESTAURANTE DAS MINAS LTDA"
+		},
+		{
+			"id": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"name": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"val": 7.707414328084117,
+			"desc": 243.12,
+			"group": "INTELIG TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 3780,
+			"name": 243.12,
+			"val": 2.3858206870718863,
+			"group": "INTELIG TELECOMUNICAÇÕES LTDA"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTIVEIS ALTO DA GLORIA",
+			"name": "COMERCIO DE COMBUSTIVEIS ALTO DA GLORIA",
+			"val": 2.6598068516056115,
+			"desc": 100.07,
+			"group": "COMERCIO DE COMBUSTIVEIS ALTO DA GLORIA"
+		},
+		{
+			"id": 3771,
+			"name": 100.07,
+			"val": 2.0003038997848126,
+			"group": "COMERCIO DE COMBUSTIVEIS ALTO DA GLORIA"
+		},
+		{
+			"id": "DUNAPETROL COM DE DERIVADOS DE PETROLEO LTDA",
+			"name": "DUNAPETROL COM DE DERIVADOS DE PETROLEO LTDA",
+			"val": 7.032773332426993,
+			"desc": 225.01,
+			"group": "DUNAPETROL COM DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 3772,
+			"name": 225.01,
+			"val": 2.352201819659416,
+			"group": "DUNAPETROL COM DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "JI COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "JI COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 4.904433845588378,
+			"desc": 166.21,
+			"group": "JI COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 3848,
+			"name": 166.21,
+			"val": 2.2206571494972502,
+			"group": "JI COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "OI S.A",
+			"name": "OI S.A",
+			"val": 1.1270706734908205,
+			"desc": 49.94,
+			"group": "OI S.A"
+		},
+		{
+			"id": 3858,
+			"name": 49.94,
+			"val": 1.698448538015329,
+			"group": "OI S.A"
+		},
+		{
+			"id": "WEAA RESTAURANTE E BAR LTDA - ME",
+			"name": "WEAA RESTAURANTE E BAR LTDA - ME",
+			"val": 2.150012625811177,
+			"desc": 84.07,
+			"group": "WEAA RESTAURANTE E BAR LTDA - ME"
+		},
+		{
+			"id": 3792,
+			"name": 84.07,
+			"val": 1.924641047417163,
+			"group": "WEAA RESTAURANTE E BAR LTDA - ME"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 616.1803597763775,
+			"desc": 11427.49,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3828,
+			"name": 431.85,
+			"val": 2.6353329239337633,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3825,
+			"name": 916.7,
+			"val": 2.9622272313500853,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3830,
+			"name": 218.85,
+			"val": 2.340146550949133,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3826,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3822,
+			"name": 1144.24,
+			"val": 3.0585171256317416,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3836,
+			"name": 520.24,
+			"val": 2.716203740999842,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3832,
+			"name": 350.85,
+			"val": 2.545121480864834,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3824,
+			"name": 851.85,
+			"val": 2.9303631277391404,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3831,
+			"name": 347.39,
+			"val": 2.5408173126507267,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3833,
+			"name": 274.39,
+			"val": 2.4383682796879347,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3829,
+			"name": 215.39,
+			"val": 2.333225536261715,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3837,
+			"name": 963.39,
+			"val": 2.98380213401977,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3827,
+			"name": 10,
+			"val": 1,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3834,
+			"name": 520.24,
+			"val": 2.716203740999842,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3823,
+			"name": 1540.39,
+			"val": 3.1876306905798053,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3821,
+			"name": 338,
+			"val": 2.5289167002776547,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3820,
+			"name": 1016.24,
+			"val": 3.0069962850806617,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3838,
+			"name": 984.24,
+			"val": 2.9931010109990908,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 3835,
+			"name": 573.24,
+			"val": 2.7583364873309786,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "PAGINA UM - JORNAIS E PUBLICACOES LTDA",
+			"name": "PAGINA UM - JORNAIS E PUBLICACOES LTDA",
+			"val": 159.54593882194087,
+			"desc": 3400,
+			"group": "PAGINA UM - JORNAIS E PUBLICACOES LTDA"
+		},
+		{
+			"id": 3856,
+			"name": 900,
+			"val": 2.9542425094393248,
+			"group": "PAGINA UM - JORNAIS E PUBLICACOES LTDA"
+		},
+		{
+			"id": 3855,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "PAGINA UM - JORNAIS E PUBLICACOES LTDA"
+		},
+		{
+			"id": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"name": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"val": 1.7799838489955377,
+			"desc": 72.1,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": 3802,
+			"name": 10.3,
+			"val": 1.0128372247051722,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": 3801,
+			"name": 10.3,
+			"val": 1.0128372247051722,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": 3799,
+			"name": 10.3,
+			"val": 1.0128372247051722,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": 3804,
+			"name": 10.3,
+			"val": 1.0128372247051722,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": 3803,
+			"name": 10.3,
+			"val": 1.0128372247051722,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": 3800,
+			"name": 10.3,
+			"val": 1.0128372247051722,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": 3798,
+			"name": 10.3,
+			"val": 1.0128372247051722,
+			"group": "CONC. DE RODOVIAS IMTEGRADAS S/A"
+		},
+		{
+			"id": "Copel Distribuição S.A.",
+			"name": "Copel Distribuição S.A.",
+			"val": 0.8396167752405694,
+			"desc": 39.56,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 3839,
+			"name": 39.56,
+			"val": 1.5972562829251418,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": "PE.ADM. ESTACIONAMENTO LTDA",
+			"name": "PE.ADM. ESTACIONAMENTO LTDA",
+			"val": 2.8199831174197714,
+			"desc": 105,
+			"group": "PE.ADM. ESTACIONAMENTO LTDA"
+		},
+		{
+			"id": 3819,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "PE.ADM. ESTACIONAMENTO LTDA"
+		},
+		{
+			"id": 3818,
+			"name": 70,
+			"val": 1.845098040014257,
+			"group": "PE.ADM. ESTACIONAMENTO LTDA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 6.006902019338913,
+			"desc": 197.01999999999998,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 3787,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 3862,
+			"name": 31.03,
+			"val": 1.4917817755841658,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 3788,
+			"name": 14.33,
+			"val": 1.1562461903973444,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 3791,
+			"name": 28.05,
+			"val": 1.4479328655921804,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 3789,
+			"name": 18.47,
+			"val": 1.2664668954402414,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 3863,
+			"name": 29.72,
+			"val": 1.4730488050885377,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 3790,
+			"name": 13.07,
+			"val": 1.1162755875805443,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 1.4730908477152256,
+			"desc": 61.88,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 3860,
+			"name": 61.88,
+			"val": 1.79155030502733,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "BARBIERO COMUNICAÇÕES LTDA",
+			"name": "BARBIERO COMUNICAÇÕES LTDA",
+			"val": 332.7095578110229,
+			"desc": 6560,
+			"group": "BARBIERO COMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 3850,
+			"name": 2186.66,
+			"val": 3.339781260585437,
+			"group": "BARBIERO COMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 3851,
+			"name": 2186.67,
+			"val": 3.3397832466897643,
+			"group": "BARBIERO COMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 3852,
+			"name": 2186.67,
+			"val": 3.3397832466897643,
+			"group": "BARBIERO COMUNICAÇÕES LTDA"
+		},
+		{
+			"id": "ECT - Emp. Bras. de Correios e Telégrafos",
+			"name": "ECT - Emp. Bras. de Correios e Telégrafos",
+			"val": 2.882074475115446,
+			"desc": 106.9,
+			"group": "ECT - Emp. Bras. de Correios e Telégrafos"
+		},
+		{
+			"id": 3861,
+			"name": 106.9,
+			"val": 2.028977705208778,
+			"group": "ECT - Emp. Bras. de Correios e Telégrafos"
+		},
+		{
+			"id": "JOAO ALEXANDRINO VASCO",
+			"name": "JOAO ALEXANDRINO VASCO",
+			"val": 771.2957955763027,
+			"desc": 14000,
+			"group": "JOAO ALEXANDRINO VASCO"
+		},
+		{
+			"id": 3777,
+			"name": 14000,
+			"val": 4.146128035678238,
+			"group": "JOAO ALEXANDRINO VASCO"
+		},
+		{
+			"id": "CARLTON HOTELARIA E TURISMO LTDA",
+			"name": "CARLTON HOTELARIA E TURISMO LTDA",
+			"val": 119.18326562130163,
+			"desc": 2623.5,
+			"group": "CARLTON HOTELARIA E TURISMO LTDA"
+		},
+		{
+			"id": 3794,
+			"name": 1237.5,
+			"val": 3.0925452076056064,
+			"group": "CARLTON HOTELARIA E TURISMO LTDA"
+		},
+		{
+			"id": 3793,
+			"name": 1386,
+			"val": 3.141763230275788,
+			"group": "CARLTON HOTELARIA E TURISMO LTDA"
+		},
+		{
+			"id": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"name": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"val": 2.2358371533598316,
+			"desc": 86.80000000000001,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": 3812,
+			"name": 12.4,
+			"val": 1.0934216851622351,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": 3816,
+			"name": 12.4,
+			"val": 1.0934216851622351,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": 3811,
+			"name": 12.4,
+			"val": 1.0934216851622351,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": 3814,
+			"name": 12.4,
+			"val": 1.0934216851622351,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": 3815,
+			"name": 12.4,
+			"val": 1.0934216851622351,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": 3817,
+			"name": 12.4,
+			"val": 1.0934216851622351,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": 3813,
+			"name": 12.4,
+			"val": 1.0934216851622351,
+			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
+		},
+		{
+			"id": "ECT-EMP.BRAS. DE CORREIOS E TELEGRAFOS",
+			"name": "ECT-EMP.BRAS. DE CORREIOS E TELEGRAFOS",
+			"val": 2.602637791903405,
+			"desc": 98.3,
+			"group": "ECT-EMP.BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 3782,
+			"name": 98.3,
+			"val": 1.9925535178321356,
+			"group": "ECT-EMP.BRAS. DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "AUTO POSTO VERENKA CASTRO LTDA",
+			"name": "AUTO POSTO VERENKA CASTRO LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "AUTO POSTO VERENKA CASTRO LTDA"
+		},
+		{
+			"id": 3766,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "AUTO POSTO VERENKA CASTRO LTDA"
+		},
+		{
+			"id": "Conc. de Rodovias Integradas S/A",
+			"name": "Conc. de Rodovias Integradas S/A",
+			"val": 1.1914081858713108,
+			"desc": 52.2,
+			"group": "Conc. de Rodovias Integradas S/A"
+		},
+		{
+			"id": 3806,
+			"name": 8.7,
+			"val": 0.9395192526186185,
+			"group": "Conc. de Rodovias Integradas S/A"
+		},
+		{
+			"id": 3807,
+			"name": 8.7,
+			"val": 0.9395192526186185,
+			"group": "Conc. de Rodovias Integradas S/A"
+		},
+		{
+			"id": 3810,
+			"name": 8.7,
+			"val": 0.9395192526186185,
+			"group": "Conc. de Rodovias Integradas S/A"
+		},
+		{
+			"id": 3808,
+			"name": 8.7,
+			"val": 0.9395192526186185,
+			"group": "Conc. de Rodovias Integradas S/A"
+		},
+		{
+			"id": 3805,
+			"name": 8.7,
+			"val": 0.9395192526186185,
+			"group": "Conc. de Rodovias Integradas S/A"
+		},
+		{
+			"id": 3809,
+			"name": 8.7,
+			"val": 0.9395192526186185,
+			"group": "Conc. de Rodovias Integradas S/A"
+		},
+		{
+			"id": "POSTO QUINTA BALSA NOVA LTDA",
+			"name": "POSTO QUINTA BALSA NOVA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO QUINTA BALSA NOVA LTDA"
+		},
+		{
+			"id": 3774,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO QUINTA BALSA NOVA LTDA"
+		},
+		{
+			"id": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
+			"name": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
+			"val": 531.508495181978,
+			"desc": 10000,
+			"group": "NUVEM COMUNICACAO DIGITAL EIRELI - ME"
+		},
+		{
+			"id": 3854,
+			"name": 10000,
+			"val": 4,
+			"group": "NUVEM COMUNICACAO DIGITAL EIRELI - ME"
+		},
+		{
+			"id": "Kalunga Comercio e Industria Grafica Ltda",
+			"name": "Kalunga Comercio e Industria Grafica Ltda",
+			"val": 40.44360838297262,
+			"desc": 1012.71,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": 3765,
+			"name": 572.71,
+			"val": 2.7579347663277574,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": 3764,
+			"name": 189,
+			"val": 2.2764618041732443,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": 3840,
+			"name": 251,
+			"val": 2.399673721481038,
+			"group": "Kalunga Comercio e Industria Grafica Ltda"
+		},
+		{
+			"id": "HOTEL NACIONAL SA",
+			"name": "HOTEL NACIONAL SA",
+			"val": 19.101760380085057,
+			"desc": 528,
+			"group": "HOTEL NACIONAL SA"
+		},
+		{
+			"id": 3797,
+			"name": 528,
+			"val": 2.722633922533812,
+			"group": "HOTEL NACIONAL SA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.000053517557751,
+			"desc": 79.26,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3781,
+			"name": 28.34,
+			"val": 1.4523998459114416,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3859,
+			"name": 50.92,
+			"val": 1.7068883949816178,
+			"group": "RAMAL"
+		},
+		{
+			"id": "RADIO CASTRO LTDA",
+			"name": "RADIO CASTRO LTDA",
+			"val": 43.5318433792596,
+			"desc": 1080,
+			"group": "RADIO CASTRO LTDA"
+		},
+		{
+			"id": 3857,
+			"name": 1080,
+			"val": 3.03342375548695,
+			"group": "RADIO CASTRO LTDA"
+		},
+		{
+			"id": "POSTO RM",
+			"name": "POSTO RM",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "POSTO RM"
+		},
+		{
+			"id": 3775,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO RM"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 30.417239944083715,
+			"desc": 790,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 3778,
+			"name": 790,
+			"val": 2.8976270912904414,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "AUTO POSTO AMF VALENTIM",
+			"name": "AUTO POSTO AMF VALENTIM",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO AMF VALENTIM"
+		},
+		{
+			"id": 3841,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AMF VALENTIM"
+		},
+		{
+			"id": "POSTO PORTAL DO SOLAR LTDA",
+			"name": "POSTO PORTAL DO SOLAR LTDA",
+			"val": 5.051489245723388,
+			"desc": 170.37,
+			"group": "POSTO PORTAL DO SOLAR LTDA"
+		},
+		{
+			"id": 3773,
+			"name": 170.37,
+			"val": 2.2313931234031217,
+			"group": "POSTO PORTAL DO SOLAR LTDA"
+		},
+		{
+			"id": "AUTO POSTO POTENZA LTDA",
+			"name": "AUTO POSTO POTENZA LTDA",
+			"val": 5.455651193196993,
+			"desc": 181.72,
+			"group": "AUTO POSTO POTENZA LTDA"
+		},
+		{
+			"id": 3842,
+			"name": 181.72,
+			"val": 2.2594027281425886,
+			"group": "AUTO POSTO POTENZA LTDA"
+		},
+		{
+			"id": "MPZ SERVICOS DE ALIMENTACAO EIRELI ME",
+			"name": "MPZ SERVICOS DE ALIMENTACAO EIRELI ME",
+			"val": 0.8674979933340933,
+			"desc": 40.59,
+			"group": "MPZ SERVICOS DE ALIMENTACAO EIRELI ME"
+		},
+		{
+			"id": 3785,
+			"name": 40.59,
+			"val": 1.6084190513172854,
+			"group": "MPZ SERVICOS DE ALIMENTACAO EIRELI ME"
+		},
+		{
+			"id": "HOT SALADA RESTAURANTE LTDA",
+			"name": "HOT SALADA RESTAURANTE LTDA",
+			"val": 0.4137824534979977,
+			"desc": 22.9,
+			"group": "HOT SALADA RESTAURANTE LTDA"
+		},
+		{
+			"id": 3784,
+			"name": 22.9,
+			"val": 1.359835482339888,
+			"group": "HOT SALADA RESTAURANTE LTDA"
+		},
+		{
+			"id": "GWP H ALIMENTACAO E NEGOCIOS LTDA ME",
+			"name": "GWP H ALIMENTACAO E NEGOCIOS LTDA ME",
+			"val": 9.104796978978364,
+			"desc": 280,
+			"group": "GWP H ALIMENTACAO E NEGOCIOS LTDA ME"
+		},
+		{
+			"id": 3795,
+			"name": 280,
+			"val": 2.4471580313422194,
+			"group": "GWP H ALIMENTACAO E NEGOCIOS LTDA ME"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 65.80136870509875,
+			"desc": 1551.94,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3779,
+			"name": 1551.94,
+			"val": 3.1908749268624925,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "HOTEL BOURBON DE CURITIBA LTDA",
+			"name": "HOTEL BOURBON DE CURITIBA LTDA",
+			"val": 9.602327567624581,
+			"desc": 292.95,
+			"group": "HOTEL BOURBON DE CURITIBA LTDA"
+		},
+		{
+			"id": 3796,
+			"name": 292.95,
+			"val": 2.4667935023435357,
+			"group": "HOTEL BOURBON DE CURITIBA LTDA"
+		},
+		{
+			"id": "AUTO POSTO SUL PARANA LTDA",
+			"name": "AUTO POSTO SUL PARANA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO SUL PARANA LTDA"
+		},
+		{
+			"id": 3843,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO SUL PARANA LTDA"
+		},
+		{
+			"id": "NAPOLI E DANCHURA LTDA",
+			"name": "NAPOLI E DANCHURA LTDA",
+			"val": 2.144684992703406,
+			"desc": 83.9,
+			"group": "NAPOLI E DANCHURA LTDA"
+		},
+		{
+			"id": 3783,
+			"name": 83.9,
+			"val": 1.9237619608287002,
+			"group": "NAPOLI E DANCHURA LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "MARCIO TEIXEIRA - REVISTA",
+			"value": 2200
+		},
+		{
+			"source": "MARCIO TEIXEIRA - REVISTA",
+			"target": 3853,
+			"value": 2200
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1810.6800000000003
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3845,
+			"value": 228.52
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3770,
+			"value": 225.01
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3768,
+			"value": 227.83
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3847,
+			"value": 210.55
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3846,
+			"value": 227.66
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3767,
+			"value": 231.86
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3844,
+			"value": 251.16
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 3769,
+			"value": 208.09
+		},
+		{
+			"source": -100,
+			"target": "POSTO SAFF LTDA",
+			"value": 301.1
+		},
+		{
+			"source": "POSTO SAFF LTDA",
+			"target": 3776,
+			"value": 101.1
+		},
+		{
+			"source": "POSTO SAFF LTDA",
+			"target": 3849,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE DAS MINAS LTDA",
+			"value": 37.68
+		},
+		{
+			"source": "RESTAURANTE DAS MINAS LTDA",
+			"target": 3786,
+			"value": 37.68
+		},
+		{
+			"source": -100,
+			"target": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"value": 243.12
+		},
+		{
+			"source": "INTELIG TELECOMUNICAÇÕES LTDA",
+			"target": 3780,
+			"value": 243.12
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTIVEIS ALTO DA GLORIA",
+			"value": 100.07
+		},
+		{
+			"source": "COMERCIO DE COMBUSTIVEIS ALTO DA GLORIA",
+			"target": 3771,
+			"value": 100.07
+		},
+		{
+			"source": -100,
+			"target": "DUNAPETROL COM DE DERIVADOS DE PETROLEO LTDA",
+			"value": 225.01
+		},
+		{
+			"source": "DUNAPETROL COM DE DERIVADOS DE PETROLEO LTDA",
+			"target": 3772,
+			"value": 225.01
+		},
+		{
+			"source": -100,
+			"target": "JI COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 166.21
+		},
+		{
+			"source": "JI COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 3848,
+			"value": 166.21
+		},
+		{
+			"source": -100,
+			"target": "OI S.A",
+			"value": 49.94
+		},
+		{
+			"source": "OI S.A",
+			"target": 3858,
+			"value": 49.94
+		},
+		{
+			"source": -100,
+			"target": "WEAA RESTAURANTE E BAR LTDA - ME",
+			"value": 84.07
+		},
+		{
+			"source": "WEAA RESTAURANTE E BAR LTDA - ME",
+			"target": 3792,
+			"value": 84.07
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 11427.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3828,
+			"value": 431.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3825,
+			"value": 916.7
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3830,
+			"value": 218.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3826,
+			"value": 210
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3822,
+			"value": 1144.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3836,
+			"value": 520.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3832,
+			"value": 350.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3824,
+			"value": 851.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3831,
+			"value": 347.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3833,
+			"value": 274.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3829,
+			"value": 215.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3837,
+			"value": 963.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3827,
+			"value": 10
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3834,
+			"value": 520.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3823,
+			"value": 1540.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3821,
+			"value": 338
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3820,
+			"value": 1016.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3838,
+			"value": 984.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 3835,
+			"value": 573.24
+		},
+		{
+			"source": -100,
+			"target": "PAGINA UM - JORNAIS E PUBLICACOES LTDA",
+			"value": 3400
+		},
+		{
+			"source": "PAGINA UM - JORNAIS E PUBLICACOES LTDA",
+			"target": 3856,
+			"value": 900
+		},
+		{
+			"source": "PAGINA UM - JORNAIS E PUBLICACOES LTDA",
+			"target": 3855,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"value": 72.1
+		},
+		{
+			"source": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"target": 3802,
+			"value": 10.3
+		},
+		{
+			"source": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"target": 3801,
+			"value": 10.3
+		},
+		{
+			"source": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"target": 3799,
+			"value": 10.3
+		},
+		{
+			"source": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"target": 3804,
+			"value": 10.3
+		},
+		{
+			"source": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"target": 3803,
+			"value": 10.3
+		},
+		{
+			"source": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"target": 3800,
+			"value": 10.3
+		},
+		{
+			"source": "CONC. DE RODOVIAS IMTEGRADAS S/A",
+			"target": 3798,
+			"value": 10.3
+		},
+		{
+			"source": -100,
+			"target": "Copel Distribuição S.A.",
+			"value": 39.56
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 3839,
+			"value": 39.56
+		},
+		{
+			"source": -100,
+			"target": "PE.ADM. ESTACIONAMENTO LTDA",
+			"value": 105
+		},
+		{
+			"source": "PE.ADM. ESTACIONAMENTO LTDA",
+			"target": 3819,
+			"value": 35
+		},
+		{
+			"source": "PE.ADM. ESTACIONAMENTO LTDA",
+			"target": 3818,
+			"value": 70
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 197.01999999999998
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 3787,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 3862,
+			"value": 31.03
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 3788,
+			"value": 14.33
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 3791,
+			"value": 28.05
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 3789,
+			"value": 18.47
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 3863,
+			"value": 29.72
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 3790,
+			"value": 13.07
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 61.88
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 3860,
+			"value": 61.88
+		},
+		{
+			"source": -100,
+			"target": "BARBIERO COMUNICAÇÕES LTDA",
+			"value": 6560
+		},
+		{
+			"source": "BARBIERO COMUNICAÇÕES LTDA",
+			"target": 3850,
+			"value": 2186.66
+		},
+		{
+			"source": "BARBIERO COMUNICAÇÕES LTDA",
+			"target": 3851,
+			"value": 2186.67
+		},
+		{
+			"source": "BARBIERO COMUNICAÇÕES LTDA",
+			"target": 3852,
+			"value": 2186.67
+		},
+		{
+			"source": -100,
+			"target": "ECT - Emp. Bras. de Correios e Telégrafos",
+			"value": 106.9
+		},
+		{
+			"source": "ECT - Emp. Bras. de Correios e Telégrafos",
+			"target": 3861,
+			"value": 106.9
+		},
+		{
+			"source": -100,
+			"target": "JOAO ALEXANDRINO VASCO",
+			"value": 14000
+		},
+		{
+			"source": "JOAO ALEXANDRINO VASCO",
+			"target": 3777,
+			"value": 14000
+		},
+		{
+			"source": -100,
+			"target": "CARLTON HOTELARIA E TURISMO LTDA",
+			"value": 2623.5
+		},
+		{
+			"source": "CARLTON HOTELARIA E TURISMO LTDA",
+			"target": 3794,
+			"value": 1237.5
+		},
+		{
+			"source": "CARLTON HOTELARIA E TURISMO LTDA",
+			"target": 3793,
+			"value": 1386
+		},
+		{
+			"source": -100,
+			"target": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"value": 86.80000000000001
+		},
+		{
+			"source": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"target": 3812,
+			"value": 12.4
+		},
+		{
+			"source": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"target": 3816,
+			"value": 12.4
+		},
+		{
+			"source": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"target": 3811,
+			"value": 12.4
+		},
+		{
+			"source": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"target": 3814,
+			"value": 12.4
+		},
+		{
+			"source": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"target": 3815,
+			"value": 12.4
+		},
+		{
+			"source": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"target": 3817,
+			"value": 12.4
+		},
+		{
+			"source": "CONC. DE RODOVIAS INTEGRADAS S/A",
+			"target": 3813,
+			"value": 12.4
+		},
+		{
+			"source": -100,
+			"target": "ECT-EMP.BRAS. DE CORREIOS E TELEGRAFOS",
+			"value": 98.3
+		},
+		{
+			"source": "ECT-EMP.BRAS. DE CORREIOS E TELEGRAFOS",
+			"target": 3782,
+			"value": 98.3
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO VERENKA CASTRO LTDA",
+			"value": 50
+		},
+		{
+			"source": "AUTO POSTO VERENKA CASTRO LTDA",
+			"target": 3766,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "Conc. de Rodovias Integradas S/A",
+			"value": 52.2
+		},
+		{
+			"source": "Conc. de Rodovias Integradas S/A",
+			"target": 3806,
+			"value": 8.7
+		},
+		{
+			"source": "Conc. de Rodovias Integradas S/A",
+			"target": 3807,
+			"value": 8.7
+		},
+		{
+			"source": "Conc. de Rodovias Integradas S/A",
+			"target": 3810,
+			"value": 8.7
+		},
+		{
+			"source": "Conc. de Rodovias Integradas S/A",
+			"target": 3808,
+			"value": 8.7
+		},
+		{
+			"source": "Conc. de Rodovias Integradas S/A",
+			"target": 3805,
+			"value": 8.7
+		},
+		{
+			"source": "Conc. de Rodovias Integradas S/A",
+			"target": 3809,
+			"value": 8.7
+		},
+		{
+			"source": -100,
+			"target": "POSTO QUINTA BALSA NOVA LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO QUINTA BALSA NOVA LTDA",
+			"target": 3774,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
+			"value": 10000
+		},
+		{
+			"source": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
+			"target": 3854,
+			"value": 10000
+		},
+		{
+			"source": -100,
+			"target": "Kalunga Comercio e Industria Grafica Ltda",
+			"value": 1012.71
+		},
+		{
+			"source": "Kalunga Comercio e Industria Grafica Ltda",
+			"target": 3765,
+			"value": 572.71
+		},
+		{
+			"source": "Kalunga Comercio e Industria Grafica Ltda",
+			"target": 3764,
+			"value": 189
+		},
+		{
+			"source": "Kalunga Comercio e Industria Grafica Ltda",
+			"target": 3840,
+			"value": 251
+		},
+		{
+			"source": -100,
+			"target": "HOTEL NACIONAL SA",
+			"value": 528
+		},
+		{
+			"source": "HOTEL NACIONAL SA",
+			"target": 3797,
+			"value": 528
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 79.26
+		},
+		{
+			"source": "RAMAL",
+			"target": 3781,
+			"value": 28.34
+		},
+		{
+			"source": "RAMAL",
+			"target": 3859,
+			"value": 50.92
+		},
+		{
+			"source": -100,
+			"target": "RADIO CASTRO LTDA",
+			"value": 1080
+		},
+		{
+			"source": "RADIO CASTRO LTDA",
+			"target": 3857,
+			"value": 1080
+		},
+		{
+			"source": -100,
+			"target": "POSTO RM",
+			"value": 50
+		},
+		{
+			"source": "POSTO RM",
+			"target": 3775,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 790
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 3778,
+			"value": 790
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AMF VALENTIM",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AMF VALENTIM",
+			"target": 3841,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO PORTAL DO SOLAR LTDA",
+			"value": 170.37
+		},
+		{
+			"source": "POSTO PORTAL DO SOLAR LTDA",
+			"target": 3773,
+			"value": 170.37
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO POTENZA LTDA",
+			"value": 181.72
+		},
+		{
+			"source": "AUTO POSTO POTENZA LTDA",
+			"target": 3842,
+			"value": 181.72
+		},
+		{
+			"source": -100,
+			"target": "MPZ SERVICOS DE ALIMENTACAO EIRELI ME",
+			"value": 40.59
+		},
+		{
+			"source": "MPZ SERVICOS DE ALIMENTACAO EIRELI ME",
+			"target": 3785,
+			"value": 40.59
+		},
+		{
+			"source": -100,
+			"target": "HOT SALADA RESTAURANTE LTDA",
+			"value": 22.9
+		},
+		{
+			"source": "HOT SALADA RESTAURANTE LTDA",
+			"target": 3784,
+			"value": 22.9
+		},
+		{
+			"source": -100,
+			"target": "GWP H ALIMENTACAO E NEGOCIOS LTDA ME",
+			"value": 280
+		},
+		{
+			"source": "GWP H ALIMENTACAO E NEGOCIOS LTDA ME",
+			"target": 3795,
+			"value": 280
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 1551.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3779,
+			"value": 1551.94
+		},
+		{
+			"source": -100,
+			"target": "HOTEL BOURBON DE CURITIBA LTDA",
+			"value": 292.95
+		},
+		{
+			"source": "HOTEL BOURBON DE CURITIBA LTDA",
+			"target": 3796,
+			"value": 292.95
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SUL PARANA LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO SUL PARANA LTDA",
+			"target": 3843,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "NAPOLI E DANCHURA LTDA",
+			"value": 83.9
+		},
+		{
+			"source": "NAPOLI E DANCHURA LTDA",
+			"target": 3783,
+			"value": 83.9
+		}
+	]
+}

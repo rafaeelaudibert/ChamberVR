@@ -1,0 +1,1605 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "TONINHO WANDSCHEER"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "E.S.S COMERCIO DE COMBUSTIVEIS AUTOMOTIVOS LTDA.",
+			"name": "E.S.S COMERCIO DE COMBUSTIVEIS AUTOMOTIVOS LTDA.",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "E.S.S COMERCIO DE COMBUSTIVEIS AUTOMOTIVOS LTDA."
+		},
+		{
+			"id": 48636,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "E.S.S COMERCIO DE COMBUSTIVEIS AUTOMOTIVOS LTDA."
+		},
+		{
+			"id": "POSTO MARU S .A II",
+			"name": "POSTO MARU S .A II",
+			"val": 6.847596547901701,
+			"desc": 220,
+			"group": "POSTO MARU S .A II"
+		},
+		{
+			"id": 48641,
+			"name": 220,
+			"val": 2.342422680822206,
+			"group": "POSTO MARU S .A II"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 5.191308457548348,
+			"desc": 174.31,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 48654,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 48653,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 48588,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 48655,
+			"name": 44.11,
+			"val": 1.6445370577784073,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"val": 14.622463802610726,
+			"desc": 419.57,
+			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
+		},
+		{
+			"id": 48639,
+			"name": 216.68,
+			"val": 2.335818826915165,
+			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
+		},
+		{
+			"id": 48640,
+			"name": 202.89,
+			"val": 2.307260642145005,
+			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
+		},
+		{
+			"id": "AUTO POSTO ANAVIAR LTDA",
+			"name": "AUTO POSTO ANAVIAR LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO ANAVIAR LTDA"
+		},
+		{
+			"id": 48628,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO ANAVIAR LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 246.0722631654042,
+			"desc": 5005.789999999999,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48604,
+			"name": 461.27,
+			"val": 2.6639552099559114,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48606,
+			"name": 785.27,
+			"val": 2.8950190062345373,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48602,
+			"name": 433.49,
+			"val": 2.6369790833695266,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48612,
+			"name": -231.49,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48600,
+			"name": 293.49,
+			"val": 2.4675933082452817,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48611,
+			"name": -196.27,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48608,
+			"name": -276.49,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48605,
+			"name": 595.27,
+			"val": 2.774713995834534,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48597,
+			"name": 525.27,
+			"val": 2.7203825974402474,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48613,
+			"name": -408.27,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48596,
+			"name": 433.49,
+			"val": 2.6369790833695266,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48599,
+			"name": 435.27,
+			"val": 2.6387587354242528,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48601,
+			"name": 361.27,
+			"val": 2.5578318990842086,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48603,
+			"name": 1163.49,
+			"val": 3.0657626549510835,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48595,
+			"name": 733.49,
+			"val": 2.8653941972871086,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48610,
+			"name": -161.49,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48598,
+			"name": 523.49,
+			"val": 2.7189083899569826,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48609,
+			"name": -233.27,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 48607,
+			"name": -231.49,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "Allpark Empreendimentos, Participações e Serviços S.A.",
+			"name": "Allpark Empreendimentos, Participações e Serviços S.A.",
+			"val": 25.376607968233124,
+			"desc": 675,
+			"group": "Allpark Empreendimentos, Participações e Serviços S.A."
+		},
+		{
+			"id": 48572,
+			"name": 675,
+			"val": 2.829303772831025,
+			"group": "Allpark Empreendimentos, Participações e Serviços S.A."
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 34.43263101075466,
+			"desc": 880.05,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 48575,
+			"name": 615.99,
+			"val": 2.789573661872103,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 48651,
+			"name": 264.06,
+			"val": 2.421702618946589,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 233.69983854283834,
+			"desc": 4780.000000000001,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48670,
+			"name": -1567.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48663,
+			"name": 414.39,
+			"val": 2.617409266531529,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48667,
+			"name": 1567.39,
+			"val": 3.1951770716275947,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48662,
+			"name": 643.39,
+			"val": 2.808474306521547,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48668,
+			"name": 1570.85,
+			"val": 3.1961347163687543,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48615,
+			"name": 221.29,
+			"val": 2.3449617887896825,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48614,
+			"name": 822.36,
+			"val": 2.9150619778650193,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48664,
+			"name": 414.39,
+			"val": 2.617409266531529,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48669,
+			"name": -131.45,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48666,
+			"name": 240.39,
+			"val": 2.3809163974606977,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 48665,
+			"name": 584.39,
+			"val": 2.7667027757393696,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 198.00113475939108,
+			"desc": 4121.9,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48671,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48616,
+			"name": 1142.17,
+			"val": 3.057730748889896,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48620,
+			"name": 1039,
+			"val": 3.016615547557177,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48619,
+			"name": 786.17,
+			"val": 2.8955164672593923,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48618,
+			"name": 667.39,
+			"val": 2.824379695010779,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 48617,
+			"name": 452.17,
+			"val": 2.6553017449472938,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 92.17690441015979,
+			"desc": 2089.44,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 48650,
+			"name": 973.36,
+			"val": 2.988273495044722,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 48585,
+			"name": 620.86,
+			"val": 2.7929936805596767,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 48586,
+			"name": 495.22,
+			"val": 2.694798175822726,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTIVEIS STANG LTDA",
+			"name": "COMERCIO DE COMBUSTIVEIS STANG LTDA",
+			"val": 5.464600453572117,
+			"desc": 181.97,
+			"group": "COMERCIO DE COMBUSTIVEIS STANG LTDA"
+		},
+		{
+			"id": 48635,
+			"name": 181.97,
+			"val": 2.259999795081887,
+			"group": "COMERCIO DE COMBUSTIVEIS STANG LTDA"
+		},
+		{
+			"id": "Mauricio Vitor Leone de Souza Sociedade Individual de Advocacia EIRELI-ME",
+			"name": "Mauricio Vitor Leone de Souza Sociedade Individual de Advocacia EIRELI-ME",
+			"val": 414.9050971091868,
+			"desc": 8000,
+			"group": "Mauricio Vitor Leone de Souza Sociedade Individual de Advocacia EIRELI-ME"
+		},
+		{
+			"id": 48648,
+			"name": 8000,
+			"val": 3.9030899869919438,
+			"group": "Mauricio Vitor Leone de Souza Sociedade Individual de Advocacia EIRELI-ME"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 39.79423650581386,
+			"desc": 998.49,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48632,
+			"name": 204.29,
+			"val": 2.3102471084282823,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48634,
+			"name": 187.98,
+			"val": 2.2741116452653487,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48579,
+			"name": 182.08,
+			"val": 2.260262244714977,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48633,
+			"name": 209.52,
+			"val": 2.321225485417176,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 48580,
+			"name": 214.62,
+			"val": 2.331670190532613,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS",
+			"name": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS",
+			"val": 0.46438561897747244,
+			"desc": 25,
+			"group": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS"
+		},
+		{
+			"id": 48657,
+			"name": 12.5,
+			"val": 1.0969100130080565,
+			"group": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS"
+		},
+		{
+			"id": 48658,
+			"name": 12.5,
+			"val": 1.0969100130080565,
+			"group": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS"
+		},
+		{
+			"id": "Copel Distribuição S.A.",
+			"name": "Copel Distribuição S.A.",
+			"val": 81.65393698519935,
+			"desc": 1877.21,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 48624,
+			"name": 1369.21,
+			"val": 3.136470062339167,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 48576,
+			"name": 508,
+			"val": 2.7058637122839193,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": "Enio Rudnei Pereira dos Anjos & CIA LTDA",
+			"name": "Enio Rudnei Pereira dos Anjos & CIA LTDA",
+			"val": 525.6192272702316,
+			"desc": 9900,
+			"group": "Enio Rudnei Pereira dos Anjos & CIA LTDA"
+		},
+		{
+			"id": 48589,
+			"name": 4950,
+			"val": 3.694605198933569,
+			"group": "Enio Rudnei Pereira dos Anjos & CIA LTDA"
+		},
+		{
+			"id": 48656,
+			"name": 4950,
+			"val": 3.694605198933569,
+			"group": "Enio Rudnei Pereira dos Anjos & CIA LTDA"
+		},
+		{
+			"id": "GP SISTEMAS E SERVICOS LTDA",
+			"name": "GP SISTEMAS E SERVICOS LTDA",
+			"val": 21.535490931732387,
+			"desc": 585.6,
+			"group": "GP SISTEMAS E SERVICOS LTDA"
+		},
+		{
+			"id": 48584,
+			"name": 585.6,
+			"val": 2.7676010680503356,
+			"group": "GP SISTEMAS E SERVICOS LTDA"
+		},
+		{
+			"id": "César Setti",
+			"name": "César Setti",
+			"val": 893.8101942183736,
+			"desc": 16000,
+			"group": "César Setti"
+		},
+		{
+			"id": 48649,
+			"name": 16000,
+			"val": 4.204119982655925,
+			"group": "César Setti"
+		},
+		{
+			"id": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L29",
+			"name": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L29",
+			"val": 3.3751671811293082,
+			"desc": 121.79,
+			"group": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L29"
+		},
+		{
+			"id": 48643,
+			"name": 121.79,
+			"val": 2.0856116304716465,
+			"group": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L29"
+		},
+		{
+			"id": "CONDE & DELL ARINGA - DESENVOLVIMENTO DE SOFTWARES LTDA",
+			"name": "CONDE & DELL ARINGA - DESENVOLVIMENTO DE SOFTWARES LTDA",
+			"val": 22.149164857190115,
+			"desc": 600,
+			"group": "CONDE & DELL ARINGA - DESENVOLVIMENTO DE SOFTWARES LTDA"
+		},
+		{
+			"id": 48583,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "CONDE & DELL ARINGA - DESENVOLVIMENTO DE SOFTWARES LTDA"
+		},
+		{
+			"id": "HIROMI ABE PAPELARIA EIRELI",
+			"name": "HIROMI ABE PAPELARIA EIRELI",
+			"val": 0.999639063260485,
+			"desc": 45.4,
+			"group": "HIROMI ABE PAPELARIA EIRELI"
+		},
+		{
+			"id": 48578,
+			"name": 45.4,
+			"val": 1.6570558528571038,
+			"group": "HIROMI ABE PAPELARIA EIRELI"
+		},
+		{
+			"id": "VIACAO GARCIA LTDA",
+			"name": "VIACAO GARCIA LTDA",
+			"val": 32.37222232101139,
+			"desc": 834,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 48661,
+			"name": 300.69,
+			"val": 2.4781189850774563,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 48660,
+			"name": 231.62,
+			"val": 2.3647760572774246,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 48659,
+			"name": 301.69,
+			"val": 2.479560915024855,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": "Beatriz Chiavegatti Amorese - ME",
+			"name": "Beatriz Chiavegatti Amorese - ME",
+			"val": 137.20637297011768,
+			"desc": 2973,
+			"group": "Beatriz Chiavegatti Amorese - ME"
+		},
+		{
+			"id": 48622,
+			"name": 1550,
+			"val": 3.1903316981702914,
+			"group": "Beatriz Chiavegatti Amorese - ME"
+		},
+		{
+			"id": 48573,
+			"name": 1423,
+			"val": 3.153204900084284,
+			"group": "Beatriz Chiavegatti Amorese - ME"
+		},
+		{
+			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"val": 22.149164857190115,
+			"desc": 600,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		},
+		{
+			"id": 48647,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		},
+		{
+			"id": "PILARZINHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "PILARZINHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 1.4176537429460445,
+			"desc": 60,
+			"group": "PILARZINHO COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 48637,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "PILARZINHO COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "COPEL TELECOMUNICACOES S.A.",
+			"name": "COPEL TELECOMUNICACOES S.A.",
+			"val": 17.923242016725723,
+			"desc": 499.8,
+			"group": "COPEL TELECOMUNICACOES S.A."
+		},
+		{
+			"id": 48625,
+			"name": 249.9,
+			"val": 2.39776625612645,
+			"group": "COPEL TELECOMUNICACOES S.A."
+		},
+		{
+			"id": 48577,
+			"name": 249.9,
+			"val": 2.39776625612645,
+			"group": "COPEL TELECOMUNICACOES S.A."
+		},
+		{
+			"id": "CAMINHOS DO PARANÁ S/A",
+			"name": "CAMINHOS DO PARANÁ S/A",
+			"val": 1.2171879266367263,
+			"desc": 53.099999999999994,
+			"group": "CAMINHOS DO PARANÁ S/A"
+		},
+		{
+			"id": 48592,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "CAMINHOS DO PARANÁ S/A"
+		},
+		{
+			"id": 48593,
+			"name": 13.7,
+			"val": 1.1367205671564067,
+			"group": "CAMINHOS DO PARANÁ S/A"
+		},
+		{
+			"id": 48591,
+			"name": 13.7,
+			"val": 1.1367205671564067,
+			"group": "CAMINHOS DO PARANÁ S/A"
+		},
+		{
+			"id": 48590,
+			"name": 13.7,
+			"val": 1.1367205671564067,
+			"group": "CAMINHOS DO PARANÁ S/A"
+		},
+		{
+			"id": "CAFEEIRA QUINTA SAO JOSE LTDA",
+			"name": "CAFEEIRA QUINTA SAO JOSE LTDA",
+			"val": 38.58767101401927,
+			"desc": 972,
+			"group": "CAFEEIRA QUINTA SAO JOSE LTDA"
+		},
+		{
+			"id": 48574,
+			"name": 486,
+			"val": 2.6866362692622934,
+			"group": "CAFEEIRA QUINTA SAO JOSE LTDA"
+		},
+		{
+			"id": 48623,
+			"name": 486,
+			"val": 2.6866362692622934,
+			"group": "CAFEEIRA QUINTA SAO JOSE LTDA"
+		},
+		{
+			"id": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A.",
+			"name": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A.",
+			"val": 25.376607968233124,
+			"desc": 675,
+			"group": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A."
+		},
+		{
+			"id": 48621,
+			"name": 675,
+			"val": 2.829303772831025,
+			"group": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A."
+		},
+		{
+			"id": "L. J. BOLOGNESI FILHO - COM. DE COMBUSTIVEIS LTDA",
+			"name": "L. J. BOLOGNESI FILHO - COM. DE COMBUSTIVEIS LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "L. J. BOLOGNESI FILHO - COM. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 48581,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "L. J. BOLOGNESI FILHO - COM. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 48646,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 48644,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 48582,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 48645,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO LISA EIRELI - EPP",
+			"name": "AUTO POSTO LISA EIRELI - EPP",
+			"val": 15.913225632250768,
+			"desc": 451.18,
+			"group": "AUTO POSTO LISA EIRELI - EPP"
+		},
+		{
+			"id": 48630,
+			"name": 251.18,
+			"val": 2.3999850561024503,
+			"group": "AUTO POSTO LISA EIRELI - EPP"
+		},
+		{
+			"id": 48629,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO LISA EIRELI - EPP"
+		},
+		{
+			"id": "POSTO CASTROVEL LTDA",
+			"name": "POSTO CASTROVEL LTDA",
+			"val": 29.22763090546901,
+			"desc": 763.07,
+			"group": "POSTO CASTROVEL LTDA"
+		},
+		{
+			"id": 48638,
+			"name": 763.07,
+			"val": 2.882564379657757,
+			"group": "POSTO CASTROVEL LTDA"
+		},
+		{
+			"id": "EMPRESA PRINCESA DO NORTE S/A",
+			"name": "EMPRESA PRINCESA DO NORTE S/A",
+			"val": 3.1247373219946466,
+			"desc": 114.27,
+			"group": "EMPRESA PRINCESA DO NORTE S/A"
+		},
+		{
+			"id": 48594,
+			"name": 114.27,
+			"val": 2.0579322273806087,
+			"group": "EMPRESA PRINCESA DO NORTE S/A"
+		},
+		{
+			"id": "Lucas Paulino de Sousa Nogueira",
+			"name": "Lucas Paulino de Sousa Nogueira",
+			"val": 6.681830978934802,
+			"desc": 215.5,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 48626,
+			"name": 215.5,
+			"val": 2.3334472744967503,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 23.87231719923277,
+			"desc": 640.19,
+			"group": "RAMAL"
+		},
+		{
+			"id": 48587,
+			"name": 230.63,
+			"val": 2.3629157989995946,
+			"group": "RAMAL"
+		},
+		{
+			"id": 48652,
+			"name": 409.56,
+			"val": 2.6123175343262637,
+			"group": "RAMAL"
+		},
+		{
+			"id": "NET",
+			"name": "NET",
+			"val": 35.3408689649692,
+			"desc": 900.25,
+			"group": "NET"
+		},
+		{
+			"id": 48627,
+			"name": 900.25,
+			"val": 2.954363130043323,
+			"group": "NET"
+		},
+		{
+			"id": "POSTO TIO ZICO III LTDA",
+			"name": "POSTO TIO ZICO III LTDA",
+			"val": 2.9999237099582925,
+			"desc": 110.49,
+			"group": "POSTO TIO ZICO III LTDA"
+		},
+		{
+			"id": 48642,
+			"name": 110.49,
+			"val": 2.0433229735745755,
+			"group": "POSTO TIO ZICO III LTDA"
+		},
+		{
+			"id": "BEGNINI COMERCIO DE COMBUSTIVEIS EIRELI - EPP",
+			"name": "BEGNINI COMERCIO DE COMBUSTIVEIS EIRELI - EPP",
+			"val": 1.930478637544391,
+			"desc": 77.01,
+			"group": "BEGNINI COMERCIO DE COMBUSTIVEIS EIRELI - EPP"
+		},
+		{
+			"id": 48631,
+			"name": 77.01,
+			"val": 1.8865471233911058,
+			"group": "BEGNINI COMERCIO DE COMBUSTIVEIS EIRELI - EPP"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "E.S.S COMERCIO DE COMBUSTIVEIS AUTOMOTIVOS LTDA.",
+			"value": 50
+		},
+		{
+			"source": "E.S.S COMERCIO DE COMBUSTIVEIS AUTOMOTIVOS LTDA.",
+			"target": 48636,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "POSTO MARU S .A II",
+			"value": 220
+		},
+		{
+			"source": "POSTO MARU S .A II",
+			"target": 48641,
+			"value": 220
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 174.31
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 48654,
+			"value": 43.4
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 48653,
+			"value": 43.4
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 48588,
+			"value": 43.4
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 48655,
+			"value": 44.11
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"value": 419.57
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"target": 48639,
+			"value": 216.68
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL YASMIN LTDA",
+			"target": 48640,
+			"value": 202.89
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ANAVIAR LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO ANAVIAR LTDA",
+			"target": 48628,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 5005.789999999999
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48604,
+			"value": 461.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48606,
+			"value": 785.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48602,
+			"value": 433.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48612,
+			"value": -231.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48600,
+			"value": 293.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48611,
+			"value": -196.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48608,
+			"value": -276.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48605,
+			"value": 595.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48597,
+			"value": 525.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48613,
+			"value": -408.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48596,
+			"value": 433.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48599,
+			"value": 435.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48601,
+			"value": 361.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48603,
+			"value": 1163.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48595,
+			"value": 733.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48610,
+			"value": -161.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48598,
+			"value": 523.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48609,
+			"value": -233.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 48607,
+			"value": -231.49
+		},
+		{
+			"source": -100,
+			"target": "Allpark Empreendimentos, Participações e Serviços S.A.",
+			"value": 675
+		},
+		{
+			"source": "Allpark Empreendimentos, Participações e Serviços S.A.",
+			"target": 48572,
+			"value": 675
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 880.05
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 48575,
+			"value": 615.99
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 48651,
+			"value": 264.06
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 4780.000000000001
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48670,
+			"value": -1567.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48663,
+			"value": 414.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48667,
+			"value": 1567.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48662,
+			"value": 643.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48668,
+			"value": 1570.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48615,
+			"value": 221.29
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48614,
+			"value": 822.36
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48664,
+			"value": 414.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48669,
+			"value": -131.45
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48666,
+			"value": 240.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 48665,
+			"value": 584.39
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 4121.9
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48671,
+			"value": 35
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48616,
+			"value": 1142.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48620,
+			"value": 1039
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48619,
+			"value": 786.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48618,
+			"value": 667.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 48617,
+			"value": 452.17
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 2089.44
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 48650,
+			"value": 973.36
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 48585,
+			"value": 620.86
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 48586,
+			"value": 495.22
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTIVEIS STANG LTDA",
+			"value": 181.97
+		},
+		{
+			"source": "COMERCIO DE COMBUSTIVEIS STANG LTDA",
+			"target": 48635,
+			"value": 181.97
+		},
+		{
+			"source": -100,
+			"target": "Mauricio Vitor Leone de Souza Sociedade Individual de Advocacia EIRELI-ME",
+			"value": 8000
+		},
+		{
+			"source": "Mauricio Vitor Leone de Souza Sociedade Individual de Advocacia EIRELI-ME",
+			"target": 48648,
+			"value": 8000
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 998.49
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48632,
+			"value": 204.29
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48634,
+			"value": 187.98
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48579,
+			"value": 182.08
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48633,
+			"value": 209.52
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 48580,
+			"value": 214.62
+		},
+		{
+			"source": -100,
+			"target": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS",
+			"value": 25
+		},
+		{
+			"source": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS",
+			"target": 48657,
+			"value": 12.5
+		},
+		{
+			"source": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS",
+			"target": 48658,
+			"value": 12.5
+		},
+		{
+			"source": -100,
+			"target": "Copel Distribuição S.A.",
+			"value": 1877.21
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 48624,
+			"value": 1369.21
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 48576,
+			"value": 508
+		},
+		{
+			"source": -100,
+			"target": "Enio Rudnei Pereira dos Anjos & CIA LTDA",
+			"value": 9900
+		},
+		{
+			"source": "Enio Rudnei Pereira dos Anjos & CIA LTDA",
+			"target": 48589,
+			"value": 4950
+		},
+		{
+			"source": "Enio Rudnei Pereira dos Anjos & CIA LTDA",
+			"target": 48656,
+			"value": 4950
+		},
+		{
+			"source": -100,
+			"target": "GP SISTEMAS E SERVICOS LTDA",
+			"value": 585.6
+		},
+		{
+			"source": "GP SISTEMAS E SERVICOS LTDA",
+			"target": 48584,
+			"value": 585.6
+		},
+		{
+			"source": -100,
+			"target": "César Setti",
+			"value": 16000
+		},
+		{
+			"source": "César Setti",
+			"target": 48649,
+			"value": 16000
+		},
+		{
+			"source": -100,
+			"target": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L29",
+			"value": 121.79
+		},
+		{
+			"source": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L29",
+			"target": 48643,
+			"value": 121.79
+		},
+		{
+			"source": -100,
+			"target": "CONDE & DELL ARINGA - DESENVOLVIMENTO DE SOFTWARES LTDA",
+			"value": 600
+		},
+		{
+			"source": "CONDE & DELL ARINGA - DESENVOLVIMENTO DE SOFTWARES LTDA",
+			"target": 48583,
+			"value": 600
+		},
+		{
+			"source": -100,
+			"target": "HIROMI ABE PAPELARIA EIRELI",
+			"value": 45.4
+		},
+		{
+			"source": "HIROMI ABE PAPELARIA EIRELI",
+			"target": 48578,
+			"value": 45.4
+		},
+		{
+			"source": -100,
+			"target": "VIACAO GARCIA LTDA",
+			"value": 834
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 48661,
+			"value": 300.69
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 48660,
+			"value": 231.62
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 48659,
+			"value": 301.69
+		},
+		{
+			"source": -100,
+			"target": "Beatriz Chiavegatti Amorese - ME",
+			"value": 2973
+		},
+		{
+			"source": "Beatriz Chiavegatti Amorese - ME",
+			"target": 48622,
+			"value": 1550
+		},
+		{
+			"source": "Beatriz Chiavegatti Amorese - ME",
+			"target": 48573,
+			"value": 1423
+		},
+		{
+			"source": -100,
+			"target": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"value": 600
+		},
+		{
+			"source": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"target": 48647,
+			"value": 600
+		},
+		{
+			"source": -100,
+			"target": "PILARZINHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 60
+		},
+		{
+			"source": "PILARZINHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 48637,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "COPEL TELECOMUNICACOES S.A.",
+			"value": 499.8
+		},
+		{
+			"source": "COPEL TELECOMUNICACOES S.A.",
+			"target": 48625,
+			"value": 249.9
+		},
+		{
+			"source": "COPEL TELECOMUNICACOES S.A.",
+			"target": 48577,
+			"value": 249.9
+		},
+		{
+			"source": -100,
+			"target": "CAMINHOS DO PARANÁ S/A",
+			"value": 53.099999999999994
+		},
+		{
+			"source": "CAMINHOS DO PARANÁ S/A",
+			"target": 48592,
+			"value": 12
+		},
+		{
+			"source": "CAMINHOS DO PARANÁ S/A",
+			"target": 48593,
+			"value": 13.7
+		},
+		{
+			"source": "CAMINHOS DO PARANÁ S/A",
+			"target": 48591,
+			"value": 13.7
+		},
+		{
+			"source": "CAMINHOS DO PARANÁ S/A",
+			"target": 48590,
+			"value": 13.7
+		},
+		{
+			"source": -100,
+			"target": "CAFEEIRA QUINTA SAO JOSE LTDA",
+			"value": 972
+		},
+		{
+			"source": "CAFEEIRA QUINTA SAO JOSE LTDA",
+			"target": 48574,
+			"value": 486
+		},
+		{
+			"source": "CAFEEIRA QUINTA SAO JOSE LTDA",
+			"target": 48623,
+			"value": 486
+		},
+		{
+			"source": -100,
+			"target": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A.",
+			"value": 675
+		},
+		{
+			"source": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A.",
+			"target": 48621,
+			"value": 675
+		},
+		{
+			"source": -100,
+			"target": "L. J. BOLOGNESI FILHO - COM. DE COMBUSTIVEIS LTDA",
+			"value": 150
+		},
+		{
+			"source": "L. J. BOLOGNESI FILHO - COM. DE COMBUSTIVEIS LTDA",
+			"target": 48581,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 48646,
+			"value": 60
+		},
+		{
+			"source": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 48644,
+			"value": 50
+		},
+		{
+			"source": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 48582,
+			"value": 30
+		},
+		{
+			"source": "VELHA PAINEIRA COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 48645,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO LISA EIRELI - EPP",
+			"value": 451.18
+		},
+		{
+			"source": "AUTO POSTO LISA EIRELI - EPP",
+			"target": 48630,
+			"value": 251.18
+		},
+		{
+			"source": "AUTO POSTO LISA EIRELI - EPP",
+			"target": 48629,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "POSTO CASTROVEL LTDA",
+			"value": 763.07
+		},
+		{
+			"source": "POSTO CASTROVEL LTDA",
+			"target": 48638,
+			"value": 763.07
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA PRINCESA DO NORTE S/A",
+			"value": 114.27
+		},
+		{
+			"source": "EMPRESA PRINCESA DO NORTE S/A",
+			"target": 48594,
+			"value": 114.27
+		},
+		{
+			"source": -100,
+			"target": "Lucas Paulino de Sousa Nogueira",
+			"value": 215.5
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 48626,
+			"value": 215.5
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 640.19
+		},
+		{
+			"source": "RAMAL",
+			"target": 48587,
+			"value": 230.63
+		},
+		{
+			"source": "RAMAL",
+			"target": 48652,
+			"value": 409.56
+		},
+		{
+			"source": -100,
+			"target": "NET",
+			"value": 900.25
+		},
+		{
+			"source": "NET",
+			"target": 48627,
+			"value": 900.25
+		},
+		{
+			"source": -100,
+			"target": "POSTO TIO ZICO III LTDA",
+			"value": 110.49
+		},
+		{
+			"source": "POSTO TIO ZICO III LTDA",
+			"target": 48642,
+			"value": 110.49
+		},
+		{
+			"source": -100,
+			"target": "BEGNINI COMERCIO DE COMBUSTIVEIS EIRELI - EPP",
+			"value": 77.01
+		},
+		{
+			"source": "BEGNINI COMERCIO DE COMBUSTIVEIS EIRELI - EPP",
+			"target": 48631,
+			"value": 77.01
+		}
+	]
+}

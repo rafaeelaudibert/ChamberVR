@@ -1,0 +1,1437 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "LUIZ CARLOS"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 920.2790984769895,
+			"desc": 16428.92,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31920,
+			"name": 805.15,
+			"val": 2.905876797266883,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31915,
+			"name": 1099.39,
+			"val": 3.041151782325391,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31964,
+			"name": 1235.18,
+			"val": 3.0917302509644924,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31916,
+			"name": 1099.39,
+			"val": 3.041151782325391,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31944,
+			"name": 1201.39,
+			"val": 3.0796840126929963,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31946,
+			"name": -941.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31918,
+			"name": 840.65,
+			"val": 2.924615217311472,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31895,
+			"name": 1824.39,
+			"val": 3.2611176830839623,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31966,
+			"name": 681.79,
+			"val": 2.8336506270238955,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31947,
+			"name": -594.7,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31943,
+			"name": 1189.79,
+			"val": 3.0754703144266755,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31945,
+			"name": 1000.79,
+			"val": 3.000342957190443,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31923,
+			"name": -1045.89,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31893,
+			"name": 1629.39,
+			"val": 3.2120250466020046,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31894,
+			"name": 1894.39,
+			"val": 3.2774693925194507,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31897,
+			"name": -1894.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31924,
+			"name": -18.5,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31919,
+			"name": 2154.59,
+			"val": 3.3333646398432832,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31922,
+			"name": 674,
+			"val": 2.82865989653532,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31896,
+			"name": 774.24,
+			"val": 2.8888756047645487,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31917,
+			"name": 2104.59,
+			"val": 3.3231675025086638,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31898,
+			"name": -780.1,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31965,
+			"name": 553.39,
+			"val": 2.7430313069840833,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31921,
+			"name": 941.39,
+			"val": 2.9737695806628626,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.405451259309999,
+			"desc": 92.14999999999999,
+			"group": "RAMAL"
+		},
+		{
+			"id": 31890,
+			"name": 24.65,
+			"val": 1.3918169236132487,
+			"group": "RAMAL"
+		},
+		{
+			"id": 31962,
+			"name": 25.75,
+			"val": 1.4107772333772097,
+			"group": "RAMAL"
+		},
+		{
+			"id": 31912,
+			"name": 14.67,
+			"val": 1.1664301138432827,
+			"group": "RAMAL"
+		},
+		{
+			"id": 31939,
+			"name": 27.08,
+			"val": 1.4326486600131068,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 1645.3694635799018,
+			"desc": 27857.79,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31969,
+			"name": 265.21,
+			"val": 2.4235898955356787,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31904,
+			"name": 1788.39,
+			"val": 3.252462232792415,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31929,
+			"name": 327,
+			"val": 2.514547752660286,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31927,
+			"name": 922.79,
+			"val": 2.965102879554788,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31955,
+			"name": 548.39,
+			"val": 2.739089526743996,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31902,
+			"name": 934.39,
+			"val": 2.9705281819001113,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31903,
+			"name": 1094.85,
+			"val": 3.039354622706162,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31901,
+			"name": 1625.79,
+			"val": 3.2110644479424746,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31953,
+			"name": 767.39,
+			"val": 2.8850161355280317,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31928,
+			"name": 1278.79,
+			"val": 3.106799231476879,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31926,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31975,
+			"name": 1144.24,
+			"val": 3.0585171256317416,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31905,
+			"name": 459,
+			"val": 2.661812685537261,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31950,
+			"name": 996.79,
+			"val": 2.998603672406383,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31899,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31967,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31971,
+			"name": 314,
+			"val": 2.496929648073215,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31968,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31974,
+			"name": 994.97,
+			"val": 2.997809986242333,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31932,
+			"name": 2232.18,
+			"val": 3.3487292126019095,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31952,
+			"name": 834.79,
+			"val": 2.9215772379846583,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31900,
+			"name": 1524.47,
+			"val": 3.1831188823172387,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31931,
+			"name": 1609.39,
+			"val": 3.206661298495651,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31970,
+			"name": 586.39,
+			"val": 2.7681865554566563,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31948,
+			"name": 310.85,
+			"val": 2.4925508717041747,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31976,
+			"name": 471,
+			"val": 2.673020907128896,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31949,
+			"name": 1386.79,
+			"val": 3.1420107013428265,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31954,
+			"name": 544.79,
+			"val": 2.7362291272001076,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31906,
+			"name": 1085.79,
+			"val": 3.035745837536259,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31930,
+			"name": 922.79,
+			"val": 2.965102879554788,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31951,
+			"name": 1000.39,
+			"val": 3.000169341828432,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31925,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31972,
+			"name": 826.39,
+			"val": 2.9171850532222425,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31973,
+			"name": 822.79,
+			"val": 2.9152890047397375,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "VERDE AMARELO POSTO DE SERVICOS LTDA",
+			"name": "VERDE AMARELO POSTO DE SERVICOS LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "VERDE AMARELO POSTO DE SERVICOS LTDA"
+		},
+		{
+			"id": 31888,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "VERDE AMARELO POSTO DE SERVICOS LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 9.874582428595057,
+			"desc": 300,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31883,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31882,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31909,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31884,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "EDSON GUIMARÃES CAVALCANTE",
+			"name": "EDSON GUIMARÃES CAVALCANTE",
+			"val": 414.9050971091868,
+			"desc": 8000,
+			"group": "EDSON GUIMARÃES CAVALCANTE"
+		},
+		{
+			"id": 31977,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "EDSON GUIMARÃES CAVALCANTE"
+		},
+		{
+			"id": 31956,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "EDSON GUIMARÃES CAVALCANTE"
+		},
+		{
+			"id": "JACENIRA DOS SANTOS ROCHA",
+			"name": "JACENIRA DOS SANTOS ROCHA",
+			"val": 771.2957955763027,
+			"desc": 14000,
+			"group": "JACENIRA DOS SANTOS ROCHA"
+		},
+		{
+			"id": 31933,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "JACENIRA DOS SANTOS ROCHA"
+		},
+		{
+			"id": 31907,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "JACENIRA DOS SANTOS ROCHA"
+		},
+		{
+			"id": 31878,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "JACENIRA DOS SANTOS ROCHA"
+		},
+		{
+			"id": 31957,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "JACENIRA DOS SANTOS ROCHA"
+		},
+		{
+			"id": "J G DA FONSECA - ME",
+			"name": "J G DA FONSECA - ME",
+			"val": 472.8855342997584,
+			"desc": 9000,
+			"group": "J G DA FONSECA - ME"
+		},
+		{
+			"id": 31938,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "J G DA FONSECA - ME"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA",
+			"name": "TELEFONICA BRASIL SA",
+			"val": 79.3083498119498,
+			"desc": 1829.5299999999997,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 31913,
+			"name": 630.76,
+			"val": 2.799864144501372,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 31940,
+			"name": 606.17,
+			"val": 2.782594438866217,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 31891,
+			"name": 592.6,
+			"val": 2.772761647144032,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 2.6594833520585235,
+			"desc": 100.06,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 31881,
+			"name": 100.06,
+			"val": 2.0002604985473904,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 9.642814677527562,
+			"desc": 294,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 31880,
+			"name": 294,
+			"val": 2.4683473304121573,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"val": 202.20771669089856,
+			"desc": 4200,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": 31892,
+			"name": 4200,
+			"val": 3.6232492903979003,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
+		},
+		{
+			"id": 31887,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
+		},
+		{
+			"id": "D C Dos S Trajano - ME",
+			"name": "D C Dos S Trajano - ME",
+			"val": 2179.5421371990333,
+			"desc": 36000,
+			"group": "D C Dos S Trajano - ME"
+		},
+		{
+			"id": 31961,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "D C Dos S Trajano - ME"
+		},
+		{
+			"id": 31937,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "D C Dos S Trajano - ME"
+		},
+		{
+			"id": 31911,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "D C Dos S Trajano - ME"
+		},
+		{
+			"id": "GRAMPOS OIAPOC EIRELI",
+			"name": "GRAMPOS OIAPOC EIRELI",
+			"val": 246.56721398891412,
+			"desc": 5014.8,
+			"group": "GRAMPOS OIAPOC EIRELI"
+		},
+		{
+			"id": 31910,
+			"name": 5014.8,
+			"val": 3.7002536171912506,
+			"group": "GRAMPOS OIAPOC EIRELI"
+		},
+		{
+			"id": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"name": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"val": 519.7357885284854,
+			"desc": 9800,
+			"group": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME"
+		},
+		{
+			"id": 31941,
+			"name": 4900,
+			"val": 3.690196080028514,
+			"group": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME"
+		},
+		{
+			"id": 31963,
+			"name": 4900,
+			"val": 3.690196080028514,
+			"group": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME"
+		},
+		{
+			"id": "PAPELARIA GLÓRIA LTDA - ME",
+			"name": "PAPELARIA GLÓRIA LTDA - ME",
+			"val": 1.0695023386626334,
+			"desc": 47.9,
+			"group": "PAPELARIA GLÓRIA LTDA - ME"
+		},
+		{
+			"id": 31879,
+			"name": 47.9,
+			"val": 1.6803355134145632,
+			"group": "PAPELARIA GLÓRIA LTDA - ME"
+		},
+		{
+			"id": "THAIANA ARAUJO ADVOCACIA LTDA - ME",
+			"name": "THAIANA ARAUJO ADVOCACIA LTDA - ME",
+			"val": 832.3604928162363,
+			"desc": 15000,
+			"group": "THAIANA ARAUJO ADVOCACIA LTDA - ME"
+		},
+		{
+			"id": 31960,
+			"name": 15000,
+			"val": 4.176091259055681,
+			"group": "THAIANA ARAUJO ADVOCACIA LTDA - ME"
+		},
+		{
+			"id": "GRAMPOS OIAPOC EIRELI ME",
+			"name": "GRAMPOS OIAPOC EIRELI ME",
+			"val": 891.4868520486332,
+			"desc": 15962.3,
+			"group": "GRAMPOS OIAPOC EIRELI ME"
+		},
+		{
+			"id": 31886,
+			"name": 5014.8,
+			"val": 3.7002536171912506,
+			"group": "GRAMPOS OIAPOC EIRELI ME"
+		},
+		{
+			"id": 31935,
+			"name": 5011.5,
+			"val": 3.6999677346938125,
+			"group": "GRAMPOS OIAPOC EIRELI ME"
+		},
+		{
+			"id": 31959,
+			"name": 5936,
+			"val": 3.7734938922709707,
+			"group": "GRAMPOS OIAPOC EIRELI ME"
+		},
+		{
+			"id": "LORENA LUANDA DA ROCHA BRAGA",
+			"name": "LORENA LUANDA DA ROCHA BRAGA",
+			"val": 357.64789778815134,
+			"desc": 7000,
+			"group": "LORENA LUANDA DA ROCHA BRAGA"
+		},
+		{
+			"id": 31958,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "LORENA LUANDA DA ROCHA BRAGA"
+		},
+		{
+			"id": 31934,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "LORENA LUANDA DA ROCHA BRAGA"
+		},
+		{
+			"id": "E R D DE SOUZA",
+			"name": "E R D DE SOUZA",
+			"val": 832.3604928162363,
+			"desc": 15000,
+			"group": "E R D DE SOUZA"
+		},
+		{
+			"id": 31936,
+			"name": 15000,
+			"val": 4.176091259055681,
+			"group": "E R D DE SOUZA"
+		},
+		{
+			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 31885,
+			"name": 100,
+			"val": 2,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": "D C DOS S S TRAJANO",
+			"name": "D C DOS S S TRAJANO",
+			"val": 650.4358456983957,
+			"desc": 12000,
+			"group": "D C DOS S S TRAJANO"
+		},
+		{
+			"id": 31889,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "D C DOS S S TRAJANO"
+		},
+		{
+			"id": "Antonio Pereira de Souza Transportes ME",
+			"name": "Antonio Pereira de Souza Transportes ME",
+			"val": 420.6720806421629,
+			"desc": 8100,
+			"group": "Antonio Pereira de Souza Transportes ME"
+		},
+		{
+			"id": 31942,
+			"name": 8100,
+			"val": 3.9084850188786495,
+			"group": "Antonio Pereira de Souza Transportes ME"
+		},
+		{
+			"id": "MANOEL PORTUGUES DA CUNHA",
+			"name": "MANOEL PORTUGUES DA CUNHA",
+			"val": 14.639932469679087,
+			"desc": 420,
+			"group": "MANOEL PORTUGUES DA CUNHA"
+		},
+		{
+			"id": 31908,
+			"name": 420,
+			"val": 2.6232492903979003,
+			"group": "MANOEL PORTUGUES DA CUNHA"
+		},
+		{
+			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
+			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
+			"val": 202.20771669089856,
+			"desc": 4200,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI"
+		},
+		{
+			"id": 31914,
+			"name": 4200,
+			"val": 3.6232492903979003,
+			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 16428.92
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31920,
+			"value": 805.15
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31915,
+			"value": 1099.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31964,
+			"value": 1235.18
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31916,
+			"value": 1099.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31944,
+			"value": 1201.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31946,
+			"value": -941.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31918,
+			"value": 840.65
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31895,
+			"value": 1824.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31966,
+			"value": 681.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31947,
+			"value": -594.7
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31943,
+			"value": 1189.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31945,
+			"value": 1000.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31923,
+			"value": -1045.89
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31893,
+			"value": 1629.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31894,
+			"value": 1894.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31897,
+			"value": -1894.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31924,
+			"value": -18.5
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31919,
+			"value": 2154.59
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31922,
+			"value": 674
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31896,
+			"value": 774.24
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31917,
+			"value": 2104.59
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31898,
+			"value": -780.1
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31965,
+			"value": 553.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31921,
+			"value": 941.39
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 92.14999999999999
+		},
+		{
+			"source": "RAMAL",
+			"target": 31890,
+			"value": 24.65
+		},
+		{
+			"source": "RAMAL",
+			"target": 31962,
+			"value": 25.75
+		},
+		{
+			"source": "RAMAL",
+			"target": 31912,
+			"value": 14.67
+		},
+		{
+			"source": "RAMAL",
+			"target": 31939,
+			"value": 27.08
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 27857.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31969,
+			"value": 265.21
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31904,
+			"value": 1788.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31929,
+			"value": 327
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31927,
+			"value": 922.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31955,
+			"value": 548.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31902,
+			"value": 934.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31903,
+			"value": 1094.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31901,
+			"value": 1625.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31953,
+			"value": 767.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31928,
+			"value": 1278.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31926,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31975,
+			"value": 1144.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31905,
+			"value": 459
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31950,
+			"value": 996.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31899,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31967,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31971,
+			"value": 314
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31968,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31974,
+			"value": 994.97
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31932,
+			"value": 2232.18
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31952,
+			"value": 834.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31900,
+			"value": 1524.47
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31931,
+			"value": 1609.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31970,
+			"value": 586.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31948,
+			"value": 310.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31976,
+			"value": 471
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31949,
+			"value": 1386.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31954,
+			"value": 544.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31906,
+			"value": 1085.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31930,
+			"value": 922.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31951,
+			"value": 1000.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31925,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31972,
+			"value": 826.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31973,
+			"value": 822.79
+		},
+		{
+			"source": -100,
+			"target": "VERDE AMARELO POSTO DE SERVICOS LTDA",
+			"value": 150
+		},
+		{
+			"source": "VERDE AMARELO POSTO DE SERVICOS LTDA",
+			"target": 31888,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 300
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31883,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31882,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31909,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31884,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "EDSON GUIMARÃES CAVALCANTE",
+			"value": 8000
+		},
+		{
+			"source": "EDSON GUIMARÃES CAVALCANTE",
+			"target": 31977,
+			"value": 4000
+		},
+		{
+			"source": "EDSON GUIMARÃES CAVALCANTE",
+			"target": 31956,
+			"value": 4000
+		},
+		{
+			"source": -100,
+			"target": "JACENIRA DOS SANTOS ROCHA",
+			"value": 14000
+		},
+		{
+			"source": "JACENIRA DOS SANTOS ROCHA",
+			"target": 31933,
+			"value": 3500
+		},
+		{
+			"source": "JACENIRA DOS SANTOS ROCHA",
+			"target": 31907,
+			"value": 3500
+		},
+		{
+			"source": "JACENIRA DOS SANTOS ROCHA",
+			"target": 31878,
+			"value": 3500
+		},
+		{
+			"source": "JACENIRA DOS SANTOS ROCHA",
+			"target": 31957,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "J G DA FONSECA - ME",
+			"value": 9000
+		},
+		{
+			"source": "J G DA FONSECA - ME",
+			"target": 31938,
+			"value": 9000
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA",
+			"value": 1829.5299999999997
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 31913,
+			"value": 630.76
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 31940,
+			"value": 606.17
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 31891,
+			"value": 592.6
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 100.06
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 31881,
+			"value": 100.06
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 294
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 31880,
+			"value": 294
+		},
+		{
+			"source": -100,
+			"target": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"value": 4200
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
+			"target": 31892,
+			"value": 4200
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"value": 100
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+			"target": 31887,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "D C Dos S Trajano - ME",
+			"value": 36000
+		},
+		{
+			"source": "D C Dos S Trajano - ME",
+			"target": 31961,
+			"value": 12000
+		},
+		{
+			"source": "D C Dos S Trajano - ME",
+			"target": 31937,
+			"value": 12000
+		},
+		{
+			"source": "D C Dos S Trajano - ME",
+			"target": 31911,
+			"value": 12000
+		},
+		{
+			"source": -100,
+			"target": "GRAMPOS OIAPOC EIRELI",
+			"value": 5014.8
+		},
+		{
+			"source": "GRAMPOS OIAPOC EIRELI",
+			"target": 31910,
+			"value": 5014.8
+		},
+		{
+			"source": -100,
+			"target": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"value": 9800
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"target": 31941,
+			"value": 4900
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+			"target": 31963,
+			"value": 4900
+		},
+		{
+			"source": -100,
+			"target": "PAPELARIA GLÓRIA LTDA - ME",
+			"value": 47.9
+		},
+		{
+			"source": "PAPELARIA GLÓRIA LTDA - ME",
+			"target": 31879,
+			"value": 47.9
+		},
+		{
+			"source": -100,
+			"target": "THAIANA ARAUJO ADVOCACIA LTDA - ME",
+			"value": 15000
+		},
+		{
+			"source": "THAIANA ARAUJO ADVOCACIA LTDA - ME",
+			"target": 31960,
+			"value": 15000
+		},
+		{
+			"source": -100,
+			"target": "GRAMPOS OIAPOC EIRELI ME",
+			"value": 15962.3
+		},
+		{
+			"source": "GRAMPOS OIAPOC EIRELI ME",
+			"target": 31886,
+			"value": 5014.8
+		},
+		{
+			"source": "GRAMPOS OIAPOC EIRELI ME",
+			"target": 31935,
+			"value": 5011.5
+		},
+		{
+			"source": "GRAMPOS OIAPOC EIRELI ME",
+			"target": 31959,
+			"value": 5936
+		},
+		{
+			"source": -100,
+			"target": "LORENA LUANDA DA ROCHA BRAGA",
+			"value": 7000
+		},
+		{
+			"source": "LORENA LUANDA DA ROCHA BRAGA",
+			"target": 31958,
+			"value": 3500
+		},
+		{
+			"source": "LORENA LUANDA DA ROCHA BRAGA",
+			"target": 31934,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "E R D DE SOUZA",
+			"value": 15000
+		},
+		{
+			"source": "E R D DE SOUZA",
+			"target": 31936,
+			"value": 15000
+		},
+		{
+			"source": -100,
+			"target": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"value": 100
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 31885,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "D C DOS S S TRAJANO",
+			"value": 12000
+		},
+		{
+			"source": "D C DOS S S TRAJANO",
+			"target": 31889,
+			"value": 12000
+		},
+		{
+			"source": -100,
+			"target": "Antonio Pereira de Souza Transportes ME",
+			"value": 8100
+		},
+		{
+			"source": "Antonio Pereira de Souza Transportes ME",
+			"target": 31942,
+			"value": 8100
+		},
+		{
+			"source": -100,
+			"target": "MANOEL PORTUGUES DA CUNHA",
+			"value": 420
+		},
+		{
+			"source": "MANOEL PORTUGUES DA CUNHA",
+			"target": 31908,
+			"value": 420
+		},
+		{
+			"source": -100,
+			"target": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
+			"value": 4200
+		},
+		{
+			"source": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
+			"target": 31914,
+			"value": 4200
+		}
+	]
+}

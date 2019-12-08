@@ -1,0 +1,1833 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PEDRO UCZAI"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RODOPOSTO CRUZEIRO LTDA",
+			"name": "RODOPOSTO CRUZEIRO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "RODOPOSTO CRUZEIRO LTDA"
+		},
+		{
+			"id": 41050,
+			"name": 100,
+			"val": 2,
+			"group": "RODOPOSTO CRUZEIRO LTDA"
+		},
+		{
+			"id": "COOPERATIVA DE PRODUCAO E CONSUMO CONCORDIA",
+			"name": "COOPERATIVA DE PRODUCAO E CONSUMO CONCORDIA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "COOPERATIVA DE PRODUCAO E CONSUMO CONCORDIA"
+		},
+		{
+			"id": 41017,
+			"name": 100,
+			"val": 2,
+			"group": "COOPERATIVA DE PRODUCAO E CONSUMO CONCORDIA"
+		},
+		{
+			"id": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA",
+			"name": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA",
+			"val": 17.213877825004325,
+			"desc": 482.72,
+			"group": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA"
+		},
+		{
+			"id": 40988,
+			"name": 87.69,
+			"val": 1.9429500700770987,
+			"group": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA"
+		},
+		{
+			"id": 40987,
+			"name": 133,
+			"val": 2.123851640967086,
+			"group": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA"
+		},
+		{
+			"id": 41051,
+			"name": 100,
+			"val": 2,
+			"group": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA"
+		},
+		{
+			"id": 40986,
+			"name": 162.03,
+			"val": 2.2095954320008557,
+			"group": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA"
+		},
+		{
+			"id": "POSTO MILAO LTDA",
+			"name": "POSTO MILAO LTDA",
+			"val": 262.4601535127923,
+			"desc": 5303.23,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41038,
+			"name": 146,
+			"val": 2.164352855784437,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41037,
+			"name": 195,
+			"val": 2.290034611362518,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41039,
+			"name": 69.81,
+			"val": 1.8439176380063924,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41045,
+			"name": 793.51,
+			"val": 2.8995524042067506,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41043,
+			"name": 156.01,
+			"val": 2.193152436852077,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41034,
+			"name": 45.01,
+			"val": 1.6533090129384789,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41042,
+			"name": 100.06,
+			"val": 2.0002604985473904,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41041,
+			"name": 170.03,
+			"val": 2.2305255548193874,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41044,
+			"name": 196.63,
+			"val": 2.293649779215835,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41033,
+			"name": 153.1,
+			"val": 2.184975190698261,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41040,
+			"name": 72.84,
+			"val": 1.8623699371228823,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41047,
+			"name": 82.02,
+			"val": 1.9139197649514659,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41046,
+			"name": 186.01,
+			"val": 2.2695362927559666,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41036,
+			"name": 70.04,
+			"val": 1.8453461374114086,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 41035,
+			"name": 167.03,
+			"val": 2.222794481113707,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": 40985,
+			"name": 2700.13,
+			"val": 3.431384674130658,
+			"group": "POSTO MILAO LTDA"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 52.252403811228476,
+			"desc": 1267.33,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41008,
+			"name": 413.47,
+			"val": 2.616444004076933,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41007,
+			"name": 314.39,
+			"val": 2.4974687237099666,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 41009,
+			"name": 539.47,
+			"val": 2.731967298515282,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 26.830588941588044,
+			"desc": 708.4200000000001,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40991,
+			"name": 71.16,
+			"val": 1.8522359394118875,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 41058,
+			"name": 345.6,
+			"val": 2.5385737338068557,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40990,
+			"name": 291.66,
+			"val": 2.464876871458186,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "RESTAURANTE E CHURRASCARIA DI FIORI LTDA",
+			"name": "RESTAURANTE E CHURRASCARIA DI FIORI LTDA",
+			"val": 0.533178265194976,
+			"desc": 27.79,
+			"group": "RESTAURANTE E CHURRASCARIA DI FIORI LTDA"
+		},
+		{
+			"id": 40999,
+			"name": 27.79,
+			"val": 1.4438885467773719,
+			"group": "RESTAURANTE E CHURRASCARIA DI FIORI LTDA"
+		},
+		{
+			"id": "TRIZOTO & CIA LTDA",
+			"name": "TRIZOTO & CIA LTDA",
+			"val": 0.9885335573393415,
+			"desc": 45,
+			"group": "TRIZOTO & CIA LTDA"
+		},
+		{
+			"id": 41001,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "TRIZOTO & CIA LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.8907594469957694,
+			"desc": 75.72,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40993,
+			"name": 29.56,
+			"val": 1.470704429722788,
+			"group": "RAMAL"
+		},
+		{
+			"id": 41060,
+			"name": 46.16,
+			"val": 1.664265800147675,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CONQUILHA RESTAURANTE EIRELI",
+			"name": "CONQUILHA RESTAURANTE EIRELI",
+			"val": 0.8371878468770095,
+			"desc": 39.47,
+			"group": "CONQUILHA RESTAURANTE EIRELI"
+		},
+		{
+			"id": 41072,
+			"name": 39.47,
+			"val": 1.5962671263955153,
+			"group": "CONQUILHA RESTAURANTE EIRELI"
+		},
+		{
+			"id": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"name": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"val": 6.277109157808177,
+			"desc": 204.45,
+			"group": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": 41053,
+			"name": 204.45,
+			"val": 2.310587114890355,
+			"group": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": "GOL LINHAS AÉREAS INTELIGENTES",
+			"name": "GOL LINHAS AÉREAS INTELIGENTES",
+			"val": 57.78463080956706,
+			"desc": 1384.39,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 41057,
+			"name": 1384.39,
+			"val": 3.1412584535515147,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": "OSMAR HENRIQUE SCHOLZE",
+			"name": "OSMAR HENRIQUE SCHOLZE",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "OSMAR HENRIQUE SCHOLZE"
+		},
+		{
+			"id": 41030,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "OSMAR HENRIQUE SCHOLZE"
+		},
+		{
+			"id": "ARTEMIO JOSÉ MEIRELES",
+			"name": "ARTEMIO JOSÉ MEIRELES",
+			"val": 1.6557898928200923,
+			"desc": 68,
+			"group": "ARTEMIO JOSÉ MEIRELES"
+		},
+		{
+			"id": 41068,
+			"name": 68,
+			"val": 1.8325089127062364,
+			"group": "ARTEMIO JOSÉ MEIRELES"
+		},
+		{
+			"id": "POSTO SANTA M&Ocirc;NICA",
+			"name": "POSTO SANTA M&Ocirc;NICA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO SANTA M&Ocirc;NICA"
+		},
+		{
+			"id": 41049,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO SANTA M&Ocirc;NICA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A",
+			"name": "TELEFÔNICA BRASIL S.A",
+			"val": 90.59192104266242,
+			"desc": 2057.6400000000003,
+			"group": "TELEFÔNICA BRASIL S.A"
+		},
+		{
+			"id": 40995,
+			"name": 500.91,
+			"val": 2.699759701886097,
+			"group": "TELEFÔNICA BRASIL S.A"
+		},
+		{
+			"id": 41061,
+			"name": 499.99,
+			"val": 2.6989613183595207,
+			"group": "TELEFÔNICA BRASIL S.A"
+		},
+		{
+			"id": 40994,
+			"name": 499.99,
+			"val": 2.6989613183595207,
+			"group": "TELEFÔNICA BRASIL S.A"
+		},
+		{
+			"id": 41062,
+			"name": 556.75,
+			"val": 2.7456602257060756,
+			"group": "TELEFÔNICA BRASIL S.A"
+		},
+		{
+			"id": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
+			"name": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
+			"val": 0.9829884874289073,
+			"desc": 44.8,
+			"group": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI"
+		},
+		{
+			"id": 41070,
+			"name": 44.8,
+			"val": 1.651278013998144,
+			"group": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 138.4608440024481,
+			"desc": 2997.1500000000005,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 41010,
+			"name": 1486.17,
+			"val": 3.172068490339177,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 41011,
+			"name": 1428.47,
+			"val": 3.154871123982837,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 41012,
+			"name": 82.51,
+			"val": 1.9165065871151556,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 27.099156990386792,
+			"desc": 714.5699999999999,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 41005,
+			"name": 458.49,
+			"val": 2.661329867831165,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 41006,
+			"name": 256.08,
+			"val": 2.408375661136076,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "CLARO S.A",
+			"name": "CLARO S.A",
+			"val": 23.369133563033238,
+			"desc": 628.49,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 41013,
+			"name": 336.2,
+			"val": 2.526597709103452,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 40978,
+			"name": 292.29,
+			"val": 2.465813957269479,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": "HERMINIO NICOLLI & FILHOS LTDA",
+			"name": "HERMINIO NICOLLI & FILHOS LTDA",
+			"val": 13.926638455675896,
+			"desc": 402.39,
+			"group": "HERMINIO NICOLLI & FILHOS LTDA"
+		},
+		{
+			"id": 41024,
+			"name": 100,
+			"val": 2,
+			"group": "HERMINIO NICOLLI & FILHOS LTDA"
+		},
+		{
+			"id": 41022,
+			"name": 100.17,
+			"val": 2.000737673774033,
+			"group": "HERMINIO NICOLLI & FILHOS LTDA"
+		},
+		{
+			"id": 41021,
+			"name": 100,
+			"val": 2,
+			"group": "HERMINIO NICOLLI & FILHOS LTDA"
+		},
+		{
+			"id": 41023,
+			"name": 102.22,
+			"val": 2.009535876619218,
+			"group": "HERMINIO NICOLLI & FILHOS LTDA"
+		},
+		{
+			"id": "RESTAURANTE E PIZZARIA FRANCESCON LTDA",
+			"name": "RESTAURANTE E PIZZARIA FRANCESCON LTDA",
+			"val": 0.3182960889106287,
+			"desc": 18.8,
+			"group": "RESTAURANTE E PIZZARIA FRANCESCON LTDA"
+		},
+		{
+			"id": 41000,
+			"name": 18.8,
+			"val": 1.2741578492636798,
+			"group": "RESTAURANTE E PIZZARIA FRANCESCON LTDA"
+		},
+		{
+			"id": "HOTEL SOLARIS LTDA EPP",
+			"name": "HOTEL SOLARIS LTDA EPP",
+			"val": 6.921441289318895,
+			"desc": 222,
+			"group": "HOTEL SOLARIS LTDA EPP"
+		},
+		{
+			"id": 40996,
+			"name": 78,
+			"val": 1.8920946026904804,
+			"group": "HOTEL SOLARIS LTDA EPP"
+		},
+		{
+			"id": 41002,
+			"name": 144,
+			"val": 2.1583624920952498,
+			"group": "HOTEL SOLARIS LTDA EPP"
+		},
+		{
+			"id": "HELIO BRUGGEMANN COMBUSTIVEIS EIRELI",
+			"name": "HELIO BRUGGEMANN COMBUSTIVEIS EIRELI",
+			"val": 1.9827022367992153,
+			"desc": 78.7,
+			"group": "HELIO BRUGGEMANN COMBUSTIVEIS EIRELI"
+		},
+		{
+			"id": 41020,
+			"name": 78.7,
+			"val": 1.8959747323590646,
+			"group": "HELIO BRUGGEMANN COMBUSTIVEIS EIRELI"
+		},
+		{
+			"id": "DIRCEU FAGUNDES & CIA LTDA",
+			"name": "DIRCEU FAGUNDES & CIA LTDA",
+			"val": 2.658189411549134,
+			"desc": 100.02,
+			"group": "DIRCEU FAGUNDES & CIA LTDA"
+		},
+		{
+			"id": 41018,
+			"name": 100.02,
+			"val": 2.000086850211649,
+			"group": "DIRCEU FAGUNDES & CIA LTDA"
+		},
+		{
+			"id": "MARIZA MARIA WLADYKA MARINHO EIRELI",
+			"name": "MARIZA MARIA WLADYKA MARINHO EIRELI",
+			"val": 3.2103434080287396,
+			"desc": 116.85,
+			"group": "MARIZA MARIA WLADYKA MARINHO EIRELI"
+		},
+		{
+			"id": 41026,
+			"name": 116.85,
+			"val": 2.0676287167282457,
+			"group": "MARIZA MARIA WLADYKA MARINHO EIRELI"
+		},
+		{
+			"id": "VILA RICA COM DE COMBUSTIVEL LTDA",
+			"name": "VILA RICA COM DE COMBUSTIVEL LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "VILA RICA COM DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 41054,
+			"name": 100,
+			"val": 2,
+			"group": "VILA RICA COM DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 40989,
+			"name": 100,
+			"val": 2,
+			"group": "VILA RICA COM DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": "POSTO MAIOCHI CAMBORIU",
+			"name": "POSTO MAIOCHI CAMBORIU",
+			"val": 5.287064729458762,
+			"desc": 177,
+			"group": "POSTO MAIOCHI CAMBORIU"
+		},
+		{
+			"id": 41032,
+			"name": 177,
+			"val": 2.2479732663618064,
+			"group": "POSTO MAIOCHI CAMBORIU"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 5.943854832641822,
+			"desc": 195.28,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 41016,
+			"name": 195.28,
+			"val": 2.290657766409132,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "STANG & STANG LTDA",
+			"name": "STANG & STANG LTDA",
+			"val": 3.6746664790000207,
+			"desc": 130.68,
+			"group": "STANG & STANG LTDA"
+		},
+		{
+			"id": 41052,
+			"name": 130.68,
+			"val": 2.1162091258033997,
+			"group": "STANG & STANG LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 8.137256111024309,
+			"desc": 254.54999999999998,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 41064,
+			"name": 58.91,
+			"val": 1.7701890227359933,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 41063,
+			"name": 58.91,
+			"val": 1.7701890227359933,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 41066,
+			"name": 18.91,
+			"val": 1.2766915288450398,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 41067,
+			"name": 58.91,
+			"val": 1.7701890227359933,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 41065,
+			"name": 58.91,
+			"val": 1.7701890227359933,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "GARDEN PIZZAS E MASSAS EIRELI - ME",
+			"name": "GARDEN PIZZAS E MASSAS EIRELI - ME",
+			"val": 0.3900704453089298,
+			"desc": 21.9,
+			"group": "GARDEN PIZZAS E MASSAS EIRELI - ME"
+		},
+		{
+			"id": 41076,
+			"name": 21.9,
+			"val": 1.3404441148401183,
+			"group": "GARDEN PIZZAS E MASSAS EIRELI - ME"
+		},
+		{
+			"id": "IDEAL GUAPO LTDA",
+			"name": "IDEAL GUAPO LTDA",
+			"val": 0.5903511180419908,
+			"desc": 30.06,
+			"group": "IDEAL GUAPO LTDA"
+		},
+		{
+			"id": 41025,
+			"name": 30.06,
+			"val": 1.4779889762508893,
+			"group": "IDEAL GUAPO LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTÍVEIS FAROL DA ILHA LTDA",
+			"name": "POSTO DE COMBUSTÍVEIS FAROL DA ILHA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DE COMBUSTÍVEIS FAROL DA ILHA LTDA"
+		},
+		{
+			"id": 41031,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTÍVEIS FAROL DA ILHA LTDA"
+		},
+		{
+			"id": "POSTO MIME LTDA",
+			"name": "POSTO MIME LTDA",
+			"val": 4.0614000635969925,
+			"desc": 142.01,
+			"group": "POSTO MIME LTDA"
+		},
+		{
+			"id": 41048,
+			"name": 142.01,
+			"val": 2.1523189274246453,
+			"group": "POSTO MIME LTDA"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 1.9669201805371548,
+			"desc": 78.19,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 41059,
+			"name": 78.19,
+			"val": 1.8931512131298658,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "HOTELARIA ACCOR BRASIL S/A",
+			"name": "HOTELARIA ACCOR BRASIL S/A",
+			"val": 12.389339113881851,
+			"desc": 364.05,
+			"group": "HOTELARIA ACCOR BRASIL S/A"
+		},
+		{
+			"id": 41003,
+			"name": 364.05,
+			"val": 2.561161035387616,
+			"group": "HOTELARIA ACCOR BRASIL S/A"
+		},
+		{
+			"id": "DISTRIOESTE DISTRIBUIDORA LTDA EPP",
+			"name": "DISTRIOESTE DISTRIBUIDORA LTDA EPP",
+			"val": 14.128315379416117,
+			"desc": 407.38,
+			"group": "DISTRIOESTE DISTRIBUIDORA LTDA EPP"
+		},
+		{
+			"id": 40979,
+			"name": 407.38,
+			"val": 2.6099997038422305,
+			"group": "DISTRIOESTE DISTRIBUIDORA LTDA EPP"
+		},
+		{
+			"id": "FORNICELLOS RESTAURANTE E PIZZARIA LTDA",
+			"name": "FORNICELLOS RESTAURANTE E PIZZARIA LTDA",
+			"val": 0.652907815693699,
+			"desc": 32.5,
+			"group": "FORNICELLOS RESTAURANTE E PIZZARIA LTDA"
+		},
+		{
+			"id": 41074,
+			"name": 32.5,
+			"val": 1.5118833609788744,
+			"group": "FORNICELLOS RESTAURANTE E PIZZARIA LTDA"
+		},
+		{
+			"id": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"name": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"val": 5.754532294731712,
+			"desc": 190.04,
+			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
+		},
+		{
+			"id": 40982,
+			"name": 190.04,
+			"val": 2.2788450217471676,
+			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
+		},
+		{
+			"id": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 5.946389491754537,
+			"desc": 195.35,
+			"group": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 41027,
+			"name": 195.35,
+			"val": 2.290813415560803,
+			"group": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "IMOBILIARIA MARKIZE LTDA",
+			"name": "IMOBILIARIA MARKIZE LTDA",
+			"val": 348.605781675446,
+			"desc": 6840.8,
+			"group": "IMOBILIARIA MARKIZE LTDA"
+		},
+		{
+			"id": 41014,
+			"name": 3420.4,
+			"val": 3.534076897762164,
+			"group": "IMOBILIARIA MARKIZE LTDA"
+		},
+		{
+			"id": 40980,
+			"name": 3420.4,
+			"val": 3.534076897762164,
+			"group": "IMOBILIARIA MARKIZE LTDA"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 11.37728445249038,
+			"desc": 338.49,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 41056,
+			"name": 338.49,
+			"val": 2.529545842861724,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "PADOKA'S LOUNGE BAR E PETISCARIA LTDA",
+			"name": "PADOKA'S LOUNGE BAR E PETISCARIA LTDA",
+			"val": 0.46438561897747244,
+			"desc": 25,
+			"group": "PADOKA'S LOUNGE BAR E PETISCARIA LTDA"
+		},
+		{
+			"id": 40997,
+			"name": 25,
+			"val": 1.3979400086720377,
+			"group": "PADOKA'S LOUNGE BAR E PETISCARIA LTDA"
+		},
+		{
+			"id": "COMÉRCIO DE COMBUSTÍVEIS ESTÁDIO EIRELLI",
+			"name": "COMÉRCIO DE COMBUSTÍVEIS ESTÁDIO EIRELLI",
+			"val": 4.535618933574574,
+			"desc": 155.7,
+			"group": "COMÉRCIO DE COMBUSTÍVEIS ESTÁDIO EIRELLI"
+		},
+		{
+			"id": 40981,
+			"name": 155.7,
+			"val": 2.1922886125681202,
+			"group": "COMÉRCIO DE COMBUSTÍVEIS ESTÁDIO EIRELLI"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 7.777905180222519,
+			"desc": 245,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 41019,
+			"name": 61.01,
+			"val": 1.7854010249923875,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 40983,
+			"name": 183.99,
+			"val": 2.2647942194071553,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Movida Locação de Veículos LTDA",
+			"name": "Movida Locação de Veículos LTDA",
+			"val": 102.74024694165198,
+			"desc": 2300,
+			"group": "Movida Locação de Veículos LTDA"
+		},
+		{
+			"id": 41004,
+			"name": 2300,
+			"val": 3.361727836017593,
+			"group": "Movida Locação de Veículos LTDA"
+		},
+		{
+			"id": "MENEGATTI E ZAPAROLLI",
+			"name": "MENEGATTI E ZAPAROLLI",
+			"val": 4.906550602096103,
+			"desc": 166.27,
+			"group": "MENEGATTI E ZAPAROLLI"
+		},
+		{
+			"id": 41028,
+			"name": 166.27,
+			"val": 2.220813896785491,
+			"group": "MENEGATTI E ZAPAROLLI"
+		},
+		{
+			"id": "CHURRASCARIA NADIN EIRELI",
+			"name": "CHURRASCARIA NADIN EIRELI",
+			"val": 0.5862880000855648,
+			"desc": 29.9,
+			"group": "CHURRASCARIA NADIN EIRELI"
+		},
+		{
+			"id": 41071,
+			"name": 29.9,
+			"val": 1.4756711883244296,
+			"group": "CHURRASCARIA NADIN EIRELI"
+		},
+		{
+			"id": "POSTO AGRICOPEL LTDA",
+			"name": "POSTO AGRICOPEL LTDA",
+			"val": 2.658512888023484,
+			"desc": 100.03,
+			"group": "POSTO AGRICOPEL LTDA"
+		},
+		{
+			"id": 40984,
+			"name": 100.03,
+			"val": 2.000130268805227,
+			"group": "POSTO AGRICOPEL LTDA"
+		},
+		{
+			"id": "PIZZARIA PIZZA MAIS LTDA",
+			"name": "PIZZARIA PIZZA MAIS LTDA",
+			"val": 1.4470999103653444,
+			"desc": 61,
+			"group": "PIZZARIA PIZZA MAIS LTDA"
+		},
+		{
+			"id": 40998,
+			"name": 61,
+			"val": 1.7853298350107671,
+			"group": "PIZZARIA PIZZA MAIS LTDA"
+		},
+		{
+			"id": "V.V GRAFICA EIRELI - ME",
+			"name": "V.V GRAFICA EIRELI - ME",
+			"val": 3.4828921423310435,
+			"desc": 125,
+			"group": "V.V GRAFICA EIRELI - ME"
+		},
+		{
+			"id": 41055,
+			"name": 125,
+			"val": 2.0969100130080562,
+			"group": "V.V GRAFICA EIRELI - ME"
+		},
+		{
+			"id": "ATRIO HOTEIS S/A",
+			"name": "ATRIO HOTEIS S/A",
+			"val": 0.5384237512704516,
+			"desc": 28,
+			"group": "ATRIO HOTEIS S/A"
+		},
+		{
+			"id": 41069,
+			"name": 28,
+			"val": 1.4471580313422192,
+			"group": "ATRIO HOTEIS S/A"
+		},
+		{
+			"id": "NET CLARO",
+			"name": "NET CLARO",
+			"val": 1.9669201805371548,
+			"desc": 78.19,
+			"group": "NET CLARO"
+		},
+		{
+			"id": 40992,
+			"name": 78.19,
+			"val": 1.8931512131298658,
+			"group": "NET CLARO"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 5.467464635631719,
+			"desc": 182.05,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 41015,
+			"name": 182.05,
+			"val": 2.2601906832699625,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "FLEX HOTELARIA LTDA",
+			"name": "FLEX HOTELARIA LTDA",
+			"val": 1.0442627041153958,
+			"desc": 47,
+			"group": "FLEX HOTELARIA LTDA"
+		},
+		{
+			"id": 41073,
+			"name": 47,
+			"val": 1.6720978579357175,
+			"group": "FLEX HOTELARIA LTDA"
+		},
+		{
+			"id": "NS COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "NS COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 4.756222801869237,
+			"desc": 162,
+			"group": "NS COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 41029,
+			"name": 162,
+			"val": 2.2095150145426308,
+			"group": "NS COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "GALPAO MISSIONEIRO RESTAURANTE",
+			"name": "GALPAO MISSIONEIRO RESTAURANTE",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "GALPAO MISSIONEIRO RESTAURANTE"
+		},
+		{
+			"id": 41075,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "GALPAO MISSIONEIRO RESTAURANTE"
+		},
+		{
+			"id": "GREEN'S ALIMENTOS EIRELI",
+			"name": "GREEN'S ALIMENTOS EIRELI",
+			"val": 1.2950495260214152,
+			"desc": 55.8,
+			"group": "GREEN'S ALIMENTOS EIRELI"
+		},
+		{
+			"id": 41077,
+			"name": 55.8,
+			"val": 1.7466341989375787,
+			"group": "GREEN'S ALIMENTOS EIRELI"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RODOPOSTO CRUZEIRO LTDA",
+			"value": 100
+		},
+		{
+			"source": "RODOPOSTO CRUZEIRO LTDA",
+			"target": 41050,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA DE PRODUCAO E CONSUMO CONCORDIA",
+			"value": 100
+		},
+		{
+			"source": "COOPERATIVA DE PRODUCAO E CONSUMO CONCORDIA",
+			"target": 41017,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA",
+			"value": 482.72
+		},
+		{
+			"source": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA",
+			"target": 40988,
+			"value": 87.69
+		},
+		{
+			"source": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA",
+			"target": 40987,
+			"value": 133
+		},
+		{
+			"source": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA",
+			"target": 41051,
+			"value": 100
+		},
+		{
+			"source": "S B A ABASTECEDORA E FRETES RODOVIARIOS LTDA",
+			"target": 40986,
+			"value": 162.03
+		},
+		{
+			"source": -100,
+			"target": "POSTO MILAO LTDA",
+			"value": 5303.23
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41038,
+			"value": 146
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41037,
+			"value": 195
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41039,
+			"value": 69.81
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41045,
+			"value": 793.51
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41043,
+			"value": 156.01
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41034,
+			"value": 45.01
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41042,
+			"value": 100.06
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41041,
+			"value": 170.03
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41044,
+			"value": 196.63
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41033,
+			"value": 153.1
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41040,
+			"value": 72.84
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41047,
+			"value": 82.02
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41046,
+			"value": 186.01
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41036,
+			"value": 70.04
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 41035,
+			"value": 167.03
+		},
+		{
+			"source": "POSTO MILAO LTDA",
+			"target": 40985,
+			"value": 2700.13
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 1267.33
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41008,
+			"value": 413.47
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41007,
+			"value": 314.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 41009,
+			"value": 539.47
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 708.4200000000001
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40991,
+			"value": 71.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 41058,
+			"value": 345.6
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40990,
+			"value": 291.66
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE E CHURRASCARIA DI FIORI LTDA",
+			"value": 27.79
+		},
+		{
+			"source": "RESTAURANTE E CHURRASCARIA DI FIORI LTDA",
+			"target": 40999,
+			"value": 27.79
+		},
+		{
+			"source": -100,
+			"target": "TRIZOTO & CIA LTDA",
+			"value": 45
+		},
+		{
+			"source": "TRIZOTO & CIA LTDA",
+			"target": 41001,
+			"value": 45
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 75.72
+		},
+		{
+			"source": "RAMAL",
+			"target": 40993,
+			"value": 29.56
+		},
+		{
+			"source": "RAMAL",
+			"target": 41060,
+			"value": 46.16
+		},
+		{
+			"source": -100,
+			"target": "CONQUILHA RESTAURANTE EIRELI",
+			"value": 39.47
+		},
+		{
+			"source": "CONQUILHA RESTAURANTE EIRELI",
+			"target": 41072,
+			"value": 39.47
+		},
+		{
+			"source": -100,
+			"target": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"value": 204.45
+		},
+		{
+			"source": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"target": 41053,
+			"value": 204.45
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AÉREAS INTELIGENTES",
+			"value": 1384.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 41057,
+			"value": 1384.39
+		},
+		{
+			"source": -100,
+			"target": "OSMAR HENRIQUE SCHOLZE",
+			"value": 50
+		},
+		{
+			"source": "OSMAR HENRIQUE SCHOLZE",
+			"target": 41030,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "ARTEMIO JOSÉ MEIRELES",
+			"value": 68
+		},
+		{
+			"source": "ARTEMIO JOSÉ MEIRELES",
+			"target": 41068,
+			"value": 68
+		},
+		{
+			"source": -100,
+			"target": "POSTO SANTA M&Ocirc;NICA",
+			"value": 100
+		},
+		{
+			"source": "POSTO SANTA M&Ocirc;NICA",
+			"target": 41049,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A",
+			"value": 2057.6400000000003
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A",
+			"target": 40995,
+			"value": 500.91
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A",
+			"target": 41061,
+			"value": 499.99
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A",
+			"target": 40994,
+			"value": 499.99
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A",
+			"target": 41062,
+			"value": 556.75
+		},
+		{
+			"source": -100,
+			"target": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
+			"value": 44.8
+		},
+		{
+			"source": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
+			"target": 41070,
+			"value": 44.8
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 2997.1500000000005
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 41010,
+			"value": 1486.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 41011,
+			"value": 1428.47
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 41012,
+			"value": 82.51
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 714.5699999999999
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 41005,
+			"value": 458.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 41006,
+			"value": 256.08
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A",
+			"value": 628.49
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 41013,
+			"value": 336.2
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 40978,
+			"value": 292.29
+		},
+		{
+			"source": -100,
+			"target": "HERMINIO NICOLLI & FILHOS LTDA",
+			"value": 402.39
+		},
+		{
+			"source": "HERMINIO NICOLLI & FILHOS LTDA",
+			"target": 41024,
+			"value": 100
+		},
+		{
+			"source": "HERMINIO NICOLLI & FILHOS LTDA",
+			"target": 41022,
+			"value": 100.17
+		},
+		{
+			"source": "HERMINIO NICOLLI & FILHOS LTDA",
+			"target": 41021,
+			"value": 100
+		},
+		{
+			"source": "HERMINIO NICOLLI & FILHOS LTDA",
+			"target": 41023,
+			"value": 102.22
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE E PIZZARIA FRANCESCON LTDA",
+			"value": 18.8
+		},
+		{
+			"source": "RESTAURANTE E PIZZARIA FRANCESCON LTDA",
+			"target": 41000,
+			"value": 18.8
+		},
+		{
+			"source": -100,
+			"target": "HOTEL SOLARIS LTDA EPP",
+			"value": 222
+		},
+		{
+			"source": "HOTEL SOLARIS LTDA EPP",
+			"target": 40996,
+			"value": 78
+		},
+		{
+			"source": "HOTEL SOLARIS LTDA EPP",
+			"target": 41002,
+			"value": 144
+		},
+		{
+			"source": -100,
+			"target": "HELIO BRUGGEMANN COMBUSTIVEIS EIRELI",
+			"value": 78.7
+		},
+		{
+			"source": "HELIO BRUGGEMANN COMBUSTIVEIS EIRELI",
+			"target": 41020,
+			"value": 78.7
+		},
+		{
+			"source": -100,
+			"target": "DIRCEU FAGUNDES & CIA LTDA",
+			"value": 100.02
+		},
+		{
+			"source": "DIRCEU FAGUNDES & CIA LTDA",
+			"target": 41018,
+			"value": 100.02
+		},
+		{
+			"source": -100,
+			"target": "MARIZA MARIA WLADYKA MARINHO EIRELI",
+			"value": 116.85
+		},
+		{
+			"source": "MARIZA MARIA WLADYKA MARINHO EIRELI",
+			"target": 41026,
+			"value": 116.85
+		},
+		{
+			"source": -100,
+			"target": "VILA RICA COM DE COMBUSTIVEL LTDA",
+			"value": 200
+		},
+		{
+			"source": "VILA RICA COM DE COMBUSTIVEL LTDA",
+			"target": 41054,
+			"value": 100
+		},
+		{
+			"source": "VILA RICA COM DE COMBUSTIVEL LTDA",
+			"target": 40989,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO MAIOCHI CAMBORIU",
+			"value": 177
+		},
+		{
+			"source": "POSTO MAIOCHI CAMBORIU",
+			"target": 41032,
+			"value": 177
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 195.28
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 41016,
+			"value": 195.28
+		},
+		{
+			"source": -100,
+			"target": "STANG & STANG LTDA",
+			"value": 130.68
+		},
+		{
+			"source": "STANG & STANG LTDA",
+			"target": 41052,
+			"value": 130.68
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 254.54999999999998
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 41064,
+			"value": 58.91
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 41063,
+			"value": 58.91
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 41066,
+			"value": 18.91
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 41067,
+			"value": 58.91
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 41065,
+			"value": 58.91
+		},
+		{
+			"source": -100,
+			"target": "GARDEN PIZZAS E MASSAS EIRELI - ME",
+			"value": 21.9
+		},
+		{
+			"source": "GARDEN PIZZAS E MASSAS EIRELI - ME",
+			"target": 41076,
+			"value": 21.9
+		},
+		{
+			"source": -100,
+			"target": "IDEAL GUAPO LTDA",
+			"value": 30.06
+		},
+		{
+			"source": "IDEAL GUAPO LTDA",
+			"target": 41025,
+			"value": 30.06
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTÍVEIS FAROL DA ILHA LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO DE COMBUSTÍVEIS FAROL DA ILHA LTDA",
+			"target": 41031,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO MIME LTDA",
+			"value": 142.01
+		},
+		{
+			"source": "POSTO MIME LTDA",
+			"target": 41048,
+			"value": 142.01
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 78.19
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 41059,
+			"value": 78.19
+		},
+		{
+			"source": -100,
+			"target": "HOTELARIA ACCOR BRASIL S/A",
+			"value": 364.05
+		},
+		{
+			"source": "HOTELARIA ACCOR BRASIL S/A",
+			"target": 41003,
+			"value": 364.05
+		},
+		{
+			"source": -100,
+			"target": "DISTRIOESTE DISTRIBUIDORA LTDA EPP",
+			"value": 407.38
+		},
+		{
+			"source": "DISTRIOESTE DISTRIBUIDORA LTDA EPP",
+			"target": 40979,
+			"value": 407.38
+		},
+		{
+			"source": -100,
+			"target": "FORNICELLOS RESTAURANTE E PIZZARIA LTDA",
+			"value": 32.5
+		},
+		{
+			"source": "FORNICELLOS RESTAURANTE E PIZZARIA LTDA",
+			"target": 41074,
+			"value": 32.5
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"value": 190.04
+		},
+		{
+			"source": "COOPERATIVA AGROINDUSTRIAL ALFA",
+			"target": 40982,
+			"value": 190.04
+		},
+		{
+			"source": -100,
+			"target": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 195.35
+		},
+		{
+			"source": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 41027,
+			"value": 195.35
+		},
+		{
+			"source": -100,
+			"target": "IMOBILIARIA MARKIZE LTDA",
+			"value": 6840.8
+		},
+		{
+			"source": "IMOBILIARIA MARKIZE LTDA",
+			"target": 41014,
+			"value": 3420.4
+		},
+		{
+			"source": "IMOBILIARIA MARKIZE LTDA",
+			"target": 40980,
+			"value": 3420.4
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 338.49
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 41056,
+			"value": 338.49
+		},
+		{
+			"source": -100,
+			"target": "PADOKA'S LOUNGE BAR E PETISCARIA LTDA",
+			"value": 25
+		},
+		{
+			"source": "PADOKA'S LOUNGE BAR E PETISCARIA LTDA",
+			"target": 40997,
+			"value": 25
+		},
+		{
+			"source": -100,
+			"target": "COMÉRCIO DE COMBUSTÍVEIS ESTÁDIO EIRELLI",
+			"value": 155.7
+		},
+		{
+			"source": "COMÉRCIO DE COMBUSTÍVEIS ESTÁDIO EIRELLI",
+			"target": 40981,
+			"value": 155.7
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 245
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 41019,
+			"value": 61.01
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 40983,
+			"value": 183.99
+		},
+		{
+			"source": -100,
+			"target": "Movida Locação de Veículos LTDA",
+			"value": 2300
+		},
+		{
+			"source": "Movida Locação de Veículos LTDA",
+			"target": 41004,
+			"value": 2300
+		},
+		{
+			"source": -100,
+			"target": "MENEGATTI E ZAPAROLLI",
+			"value": 166.27
+		},
+		{
+			"source": "MENEGATTI E ZAPAROLLI",
+			"target": 41028,
+			"value": 166.27
+		},
+		{
+			"source": -100,
+			"target": "CHURRASCARIA NADIN EIRELI",
+			"value": 29.9
+		},
+		{
+			"source": "CHURRASCARIA NADIN EIRELI",
+			"target": 41071,
+			"value": 29.9
+		},
+		{
+			"source": -100,
+			"target": "POSTO AGRICOPEL LTDA",
+			"value": 100.03
+		},
+		{
+			"source": "POSTO AGRICOPEL LTDA",
+			"target": 40984,
+			"value": 100.03
+		},
+		{
+			"source": -100,
+			"target": "PIZZARIA PIZZA MAIS LTDA",
+			"value": 61
+		},
+		{
+			"source": "PIZZARIA PIZZA MAIS LTDA",
+			"target": 40998,
+			"value": 61
+		},
+		{
+			"source": -100,
+			"target": "V.V GRAFICA EIRELI - ME",
+			"value": 125
+		},
+		{
+			"source": "V.V GRAFICA EIRELI - ME",
+			"target": 41055,
+			"value": 125
+		},
+		{
+			"source": -100,
+			"target": "ATRIO HOTEIS S/A",
+			"value": 28
+		},
+		{
+			"source": "ATRIO HOTEIS S/A",
+			"target": 41069,
+			"value": 28
+		},
+		{
+			"source": -100,
+			"target": "NET CLARO",
+			"value": 78.19
+		},
+		{
+			"source": "NET CLARO",
+			"target": 40992,
+			"value": 78.19
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 182.05
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 41015,
+			"value": 182.05
+		},
+		{
+			"source": -100,
+			"target": "FLEX HOTELARIA LTDA",
+			"value": 47
+		},
+		{
+			"source": "FLEX HOTELARIA LTDA",
+			"target": 41073,
+			"value": 47
+		},
+		{
+			"source": -100,
+			"target": "NS COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 162
+		},
+		{
+			"source": "NS COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 41029,
+			"value": 162
+		},
+		{
+			"source": -100,
+			"target": "GALPAO MISSIONEIRO RESTAURANTE",
+			"value": 50
+		},
+		{
+			"source": "GALPAO MISSIONEIRO RESTAURANTE",
+			"target": 41075,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "GREEN'S ALIMENTOS EIRELI",
+			"value": 55.8
+		},
+		{
+			"source": "GREEN'S ALIMENTOS EIRELI",
+			"target": 41077,
+			"value": 55.8
+		}
+	]
+}

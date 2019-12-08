@@ -1,0 +1,1155 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "FABIANO TOLENTINO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 175.37686183097674,
+			"desc": 3699.02,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17687,
+			"name": 254.69,
+			"val": 2.4060118934124675,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17688,
+			"name": 447.57,
+			"val": 2.65086096867155,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17686,
+			"name": 286.57,
+			"val": 2.4572307236872692,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17664,
+			"name": 377.59,
+			"val": 2.577020484030885,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17680,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17685,
+			"name": 249.59,
+			"val": 2.397227181043161,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17682,
+			"name": 377.59,
+			"val": 2.577020484030885,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17683,
+			"name": 377.59,
+			"val": 2.577020484030885,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17690,
+			"name": 506.57,
+			"val": 2.7046394665041835,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17689,
+			"name": 254.69,
+			"val": 2.4060118934124675,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17681,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 17684,
+			"name": 506.57,
+			"val": 2.7046394665041835,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.851203415499928,
+			"desc": 164.7,
+			"group": "RAMAL"
+		},
+		{
+			"id": 17710,
+			"name": 27.11,
+			"val": 1.4331295175804855,
+			"group": "RAMAL"
+		},
+		{
+			"id": 17662,
+			"name": 16.93,
+			"val": 1.2286569581089353,
+			"group": "RAMAL"
+		},
+		{
+			"id": 17678,
+			"name": 120.66,
+			"val": 2.0815633209803854,
+			"group": "RAMAL"
+		},
+		{
+			"id": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 6.480332513835858,
+			"desc": 210.01,
+			"group": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 17661,
+			"name": 210.01,
+			"val": 2.322239974931152,
+			"group": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"name": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"val": 113.25400699445703,
+			"desc": 2507.3999999999996,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17670,
+			"name": 200.74,
+			"val": 2.302633919813779,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17671,
+			"name": 239.88,
+			"val": 2.379994040165742,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17699,
+			"name": 256.81,
+			"val": 2.4096119308464354,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17672,
+			"name": 219.77,
+			"val": 2.341968408179938,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17718,
+			"name": 123.95,
+			"val": 2.09324653110384,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17717,
+			"name": 244.69,
+			"val": 2.3886162209514556,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17719,
+			"name": 220.95,
+			"val": 2.344294005898312,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17674,
+			"name": 200.88,
+			"val": 2.302936699704866,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17698,
+			"name": 163.83,
+			"val": 2.214393431255206,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17673,
+			"name": 249.83,
+			"val": 2.3976445879699173,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17716,
+			"name": 184.99,
+			"val": 2.267148252391121,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": 17700,
+			"name": 201.08,
+			"val": 2.303368876556038,
+			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
+		},
+		{
+			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
+			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
+			"val": 3.0055211818632475,
+			"desc": 110.66,
+			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": 17709,
+			"name": 110.66,
+			"val": 2.0439906658781335,
+			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": "SULAMITA NAVES DE AGUIAR",
+			"name": "SULAMITA NAVES DE AGUIAR",
+			"val": 7.176998036383117,
+			"desc": 228.9,
+			"group": "SULAMITA NAVES DE AGUIAR"
+		},
+		{
+			"id": 17676,
+			"name": 228.9,
+			"val": 2.359645792674543,
+			"group": "SULAMITA NAVES DE AGUIAR"
+		},
+		{
+			"id": "POSTO ALTO DA RAJA LTDA",
+			"name": "POSTO ALTO DA RAJA LTDA",
+			"val": 4.602697428792559,
+			"desc": 157.62,
+			"group": "POSTO ALTO DA RAJA LTDA"
+		},
+		{
+			"id": 17715,
+			"name": 157.62,
+			"val": 2.197611323169714,
+			"group": "POSTO ALTO DA RAJA LTDA"
+		},
+		{
+			"id": "POSTO MG 10 LTDA",
+			"name": "POSTO MG 10 LTDA",
+			"val": 7.007971566427777,
+			"desc": 224.34,
+			"group": "POSTO MG 10 LTDA"
+		},
+		{
+			"id": 17702,
+			"name": 224.34,
+			"val": 2.3509067155378633,
+			"group": "POSTO MG 10 LTDA"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 12.6667477784997,
+			"desc": 371.01,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 17693,
+			"name": 184.55,
+			"val": 2.266114049531676,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 17713,
+			"name": 186.46,
+			"val": 2.2705856798848245,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"val": 93.00340060992063,
+			"desc": 2106,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 17677,
+			"name": 99.75,
+			"val": 1.9989129043587859,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 17708,
+			"name": 1343.86,
+			"val": 3.1283540273529127,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 17727,
+			"name": 662.39,
+			"val": 2.8211137673492854,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": "MOURAO & CIA LTDA",
+			"name": "MOURAO & CIA LTDA",
+			"val": 7.048696951364922,
+			"desc": 225.44,
+			"group": "MOURAO & CIA LTDA"
+		},
+		{
+			"id": 17696,
+			"name": 225.44,
+			"val": 2.3530309757652814,
+			"group": "MOURAO & CIA LTDA"
+		},
+		{
+			"id": "AMANDA CRISTINA VIEIRA QUINTILIANO",
+			"name": "AMANDA CRISTINA VIEIRA QUINTILIANO",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "AMANDA CRISTINA VIEIRA QUINTILIANO"
+		},
+		{
+			"id": 17726,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "AMANDA CRISTINA VIEIRA QUINTILIANO"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 96.29028348099449,
+			"desc": 2171.71,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 17679,
+			"name": 759.57,
+			"val": 2.880567803495539,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 17712,
+			"name": 1010.57,
+			"val": 3.0045664015334768,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 17663,
+			"name": 401.57,
+			"val": 2.6037612606082874,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "POSTO DELTA ITAUNA LTDA",
+			"name": "POSTO DELTA ITAUNA LTDA",
+			"val": 7.544259544678647,
+			"desc": 238.76,
+			"group": "POSTO DELTA ITAUNA LTDA"
+		},
+		{
+			"id": 17720,
+			"name": 238.76,
+			"val": 2.377961570219637,
+			"group": "POSTO DELTA ITAUNA LTDA"
+		},
+		{
+			"id": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"name": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"val": 64.35986893859315,
+			"desc": 1521.98,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17725,
+			"name": 168.69,
+			"val": 2.2270893382290655,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17707,
+			"name": 164.64,
+			"val": 2.2165353574183575,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17706,
+			"name": 168.28,
+			"val": 2.2260325033449586,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17704,
+			"name": 207.04,
+			"val": 2.3160542589886064,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17723,
+			"name": 227.03,
+			"val": 2.3560832491472934,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17722,
+			"name": 214.04,
+			"val": 2.330494942302217,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17705,
+			"name": 180.01,
+			"val": 2.25529663190434,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": 17724,
+			"name": 192.25,
+			"val": 2.2838663484734685,
+			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
+		},
+		{
+			"id": "POSTO BR 494 LTDA",
+			"name": "POSTO BR 494 LTDA",
+			"val": 7.28923022675298,
+			"desc": 231.92,
+			"group": "POSTO BR 494 LTDA"
+		},
+		{
+			"id": 17697,
+			"name": 231.92,
+			"val": 2.365338202346941,
+			"group": "POSTO BR 494 LTDA"
+		},
+		{
+			"id": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
+			"name": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
+			"val": 6.761331466115121,
+			"desc": 217.66,
+			"group": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA"
+		},
+		{
+			"id": 17721,
+			"name": 217.66,
+			"val": 2.3377786248361834,
+			"group": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA"
+		},
+		{
+			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"val": 5.883066574264673,
+			"desc": 193.6,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": 17665,
+			"name": 193.6,
+			"val": 2.286905352972375,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 35.603938686144375,
+			"desc": 906.0899999999999,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 17694,
+			"name": 186.59,
+			"val": 2.2708883646988327,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 17714,
+			"name": 169.89,
+			"val": 2.2301678163461913,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 17695,
+			"name": 198.64,
+			"val": 2.298066706546508,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 17667,
+			"name": 181.94,
+			"val": 2.259928190374753,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 17666,
+			"name": 169.03,
+			"val": 2.22796379146686,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "M&M RENT A CAR LTDA",
+			"name": "M&M RENT A CAR LTDA",
+			"val": 187.98011617071398,
+			"desc": 3935.2,
+			"group": "M&M RENT A CAR LTDA"
+		},
+		{
+			"id": 17711,
+			"name": 3935.2,
+			"val": 3.594966809551275,
+			"group": "M&M RENT A CAR LTDA"
+		},
+		{
+			"id": "Condomínio Do Edifício Fagundes",
+			"name": "Condomínio Do Edifício Fagundes",
+			"val": 13.328587906770508,
+			"desc": 387.54,
+			"group": "Condomínio Do Edifício Fagundes"
+		},
+		{
+			"id": 17692,
+			"name": 387.54,
+			"val": 2.5883165349267934,
+			"group": "Condomínio Do Edifício Fagundes"
+		},
+		{
+			"id": "COMERCIAL MARCESOP LTDA",
+			"name": "COMERCIAL MARCESOP LTDA",
+			"val": 6.32089727740287,
+			"desc": 205.65,
+			"group": "COMERCIAL MARCESOP LTDA"
+		},
+		{
+			"id": 17668,
+			"name": 205.65,
+			"val": 2.313128713845194,
+			"group": "COMERCIAL MARCESOP LTDA"
+		},
+		{
+			"id": "CERBRAN LTDA",
+			"name": "CERBRAN LTDA",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "CERBRAN LTDA"
+		},
+		{
+			"id": 17691,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "CERBRAN LTDA"
+		},
+		{
+			"id": "Posto Mario Werneck",
+			"name": "Posto Mario Werneck",
+			"val": 6.65425580185794,
+			"desc": 214.75,
+			"group": "Posto Mario Werneck"
+		},
+		{
+			"id": 17675,
+			"name": 214.75,
+			"val": 2.33193317250328,
+			"group": "Posto Mario Werneck"
+		},
+		{
+			"id": "JOSE GERALDO PASSOS",
+			"name": "JOSE GERALDO PASSOS",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "JOSE GERALDO PASSOS"
+		},
+		{
+			"id": 17729,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "JOSE GERALDO PASSOS"
+		},
+		{
+			"id": "POSTO PONTO ALTO LTDA",
+			"name": "POSTO PONTO ALTO LTDA",
+			"val": 7.610439467959008,
+			"desc": 240.53,
+			"group": "POSTO PONTO ALTO LTDA"
+		},
+		{
+			"id": 17703,
+			"name": 240.53,
+			"val": 2.381169251279146,
+			"group": "POSTO PONTO ALTO LTDA"
+		},
+		{
+			"id": "FERNANDO MARCOS RODRIGUES",
+			"name": "FERNANDO MARCOS RODRIGUES",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "FERNANDO MARCOS RODRIGUES"
+		},
+		{
+			"id": 17728,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "FERNANDO MARCOS RODRIGUES"
+		},
+		{
+			"id": "Posto Matuca",
+			"name": "Posto Matuca",
+			"val": 8.227892400723107,
+			"desc": 256.95,
+			"group": "Posto Matuca"
+		},
+		{
+			"id": 17701,
+			"name": 256.95,
+			"val": 2.4098486220211917,
+			"group": "Posto Matuca"
+		},
+		{
+			"id": "Liberio joao de santana & cia ltda",
+			"name": "Liberio joao de santana & cia ltda",
+			"val": 7.484127736801087,
+			"desc": 237.15,
+			"group": "Liberio joao de santana & cia ltda"
+		},
+		{
+			"id": 17669,
+			"name": 237.15,
+			"val": 2.3750231289878903,
+			"group": "Liberio joao de santana & cia ltda"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 2.278778129700374,
+			"desc": 88.16,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 17730,
+			"name": 88.16,
+			"val": 1.9452715815077097,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 3699.02
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17687,
+			"value": 254.69
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17688,
+			"value": 447.57
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17686,
+			"value": 286.57
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17664,
+			"value": 377.59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17680,
+			"value": 30
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17685,
+			"value": 249.59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17682,
+			"value": 377.59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17683,
+			"value": 377.59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17690,
+			"value": 506.57
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17689,
+			"value": 254.69
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17681,
+			"value": 30
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 17684,
+			"value": 506.57
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 164.7
+		},
+		{
+			"source": "RAMAL",
+			"target": 17710,
+			"value": 27.11
+		},
+		{
+			"source": "RAMAL",
+			"target": 17662,
+			"value": 16.93
+		},
+		{
+			"source": "RAMAL",
+			"target": 17678,
+			"value": 120.66
+		},
+		{
+			"source": -100,
+			"target": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 210.01
+		},
+		{
+			"source": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 17661,
+			"value": 210.01
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"value": 2507.3999999999996
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17670,
+			"value": 200.74
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17671,
+			"value": 239.88
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17699,
+			"value": 256.81
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17672,
+			"value": 219.77
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17718,
+			"value": 123.95
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17717,
+			"value": 244.69
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17719,
+			"value": 220.95
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17674,
+			"value": 200.88
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17698,
+			"value": 163.83
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17673,
+			"value": 249.83
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17716,
+			"value": 184.99
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
+			"target": 17700,
+			"value": 201.08
+		},
+		{
+			"source": -100,
+			"target": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
+			"value": 110.66
+		},
+		{
+			"source": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
+			"target": 17709,
+			"value": 110.66
+		},
+		{
+			"source": -100,
+			"target": "SULAMITA NAVES DE AGUIAR",
+			"value": 228.9
+		},
+		{
+			"source": "SULAMITA NAVES DE AGUIAR",
+			"target": 17676,
+			"value": 228.9
+		},
+		{
+			"source": -100,
+			"target": "POSTO ALTO DA RAJA LTDA",
+			"value": 157.62
+		},
+		{
+			"source": "POSTO ALTO DA RAJA LTDA",
+			"target": 17715,
+			"value": 157.62
+		},
+		{
+			"source": -100,
+			"target": "POSTO MG 10 LTDA",
+			"value": 224.34
+		},
+		{
+			"source": "POSTO MG 10 LTDA",
+			"target": 17702,
+			"value": 224.34
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 371.01
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 17693,
+			"value": 184.55
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 17713,
+			"value": 186.46
+		},
+		{
+			"source": -100,
+			"target": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"value": 2106
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 17677,
+			"value": 99.75
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 17708,
+			"value": 1343.86
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 17727,
+			"value": 662.39
+		},
+		{
+			"source": -100,
+			"target": "MOURAO & CIA LTDA",
+			"value": 225.44
+		},
+		{
+			"source": "MOURAO & CIA LTDA",
+			"target": 17696,
+			"value": 225.44
+		},
+		{
+			"source": -100,
+			"target": "AMANDA CRISTINA VIEIRA QUINTILIANO",
+			"value": 500
+		},
+		{
+			"source": "AMANDA CRISTINA VIEIRA QUINTILIANO",
+			"target": 17726,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 2171.71
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 17679,
+			"value": 759.57
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 17712,
+			"value": 1010.57
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 17663,
+			"value": 401.57
+		},
+		{
+			"source": -100,
+			"target": "POSTO DELTA ITAUNA LTDA",
+			"value": 238.76
+		},
+		{
+			"source": "POSTO DELTA ITAUNA LTDA",
+			"target": 17720,
+			"value": 238.76
+		},
+		{
+			"source": -100,
+			"target": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"value": 1521.98
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17725,
+			"value": 168.69
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17707,
+			"value": 164.64
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17706,
+			"value": 168.28
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17704,
+			"value": 207.04
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17723,
+			"value": 227.03
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17722,
+			"value": 214.04
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17705,
+			"value": 180.01
+		},
+		{
+			"source": "SOCIEDADE COMERCIAL CANAA -LTDA",
+			"target": 17724,
+			"value": 192.25
+		},
+		{
+			"source": -100,
+			"target": "POSTO BR 494 LTDA",
+			"value": 231.92
+		},
+		{
+			"source": "POSTO BR 494 LTDA",
+			"target": 17697,
+			"value": 231.92
+		},
+		{
+			"source": -100,
+			"target": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
+			"value": 217.66
+		},
+		{
+			"source": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
+			"target": 17721,
+			"value": 217.66
+		},
+		{
+			"source": -100,
+			"target": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"value": 193.6
+		},
+		{
+			"source": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"target": 17665,
+			"value": 193.6
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 906.0899999999999
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 17694,
+			"value": 186.59
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 17714,
+			"value": 169.89
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 17695,
+			"value": 198.64
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 17667,
+			"value": 181.94
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 17666,
+			"value": 169.03
+		},
+		{
+			"source": -100,
+			"target": "M&M RENT A CAR LTDA",
+			"value": 3935.2
+		},
+		{
+			"source": "M&M RENT A CAR LTDA",
+			"target": 17711,
+			"value": 3935.2
+		},
+		{
+			"source": -100,
+			"target": "Condomínio Do Edifício Fagundes",
+			"value": 387.54
+		},
+		{
+			"source": "Condomínio Do Edifício Fagundes",
+			"target": 17692,
+			"value": 387.54
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL MARCESOP LTDA",
+			"value": 205.65
+		},
+		{
+			"source": "COMERCIAL MARCESOP LTDA",
+			"target": 17668,
+			"value": 205.65
+		},
+		{
+			"source": -100,
+			"target": "CERBRAN LTDA",
+			"value": 500
+		},
+		{
+			"source": "CERBRAN LTDA",
+			"target": 17691,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "Posto Mario Werneck",
+			"value": 214.75
+		},
+		{
+			"source": "Posto Mario Werneck",
+			"target": 17675,
+			"value": 214.75
+		},
+		{
+			"source": -100,
+			"target": "JOSE GERALDO PASSOS",
+			"value": 500
+		},
+		{
+			"source": "JOSE GERALDO PASSOS",
+			"target": 17729,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "POSTO PONTO ALTO LTDA",
+			"value": 240.53
+		},
+		{
+			"source": "POSTO PONTO ALTO LTDA",
+			"target": 17703,
+			"value": 240.53
+		},
+		{
+			"source": -100,
+			"target": "FERNANDO MARCOS RODRIGUES",
+			"value": 500
+		},
+		{
+			"source": "FERNANDO MARCOS RODRIGUES",
+			"target": 17728,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "Posto Matuca",
+			"value": 256.95
+		},
+		{
+			"source": "Posto Matuca",
+			"target": 17701,
+			"value": 256.95
+		},
+		{
+			"source": -100,
+			"target": "Liberio joao de santana & cia ltda",
+			"value": 237.15
+		},
+		{
+			"source": "Liberio joao de santana & cia ltda",
+			"target": 17669,
+			"value": 237.15
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 88.16
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 17730,
+			"value": 88.16
+		}
+	]
+}

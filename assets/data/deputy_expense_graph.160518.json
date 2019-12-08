@@ -1,0 +1,1545 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "WELITON PRADO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 2307.498356933473,
+			"desc": 37925.16,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50611,
+			"name": 930.05,
+			"val": 2.9685062970919858,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50609,
+			"name": 925.79,
+			"val": 2.9665124854030736,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50671,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50594,
+			"name": 1370.05,
+			"val": 3.1367364170307503,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50592,
+			"name": 975.79,
+			"val": 2.9893563631028797,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50580,
+			"name": 925.05,
+			"val": 2.966165207481986,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50595,
+			"name": 980.05,
+			"val": 2.991248233008992,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50577,
+			"name": 1034.47,
+			"val": 3.0147179004890656,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50614,
+			"name": 1469.39,
+			"val": 3.1671370799077065,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50668,
+			"name": 1611.79,
+			"val": 3.2073084569589714,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50612,
+			"name": 1469.39,
+			"val": 3.1671370799077065,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50597,
+			"name": 980.05,
+			"val": 2.991248233008992,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50630,
+			"name": 1237.79,
+			"val": 3.0926469697428334,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50652,
+			"name": 1664.39,
+			"val": 3.2212550977975103,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50596,
+			"name": 875.39,
+			"val": 2.9422015811511817,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50634,
+			"name": 1274.39,
+			"val": 3.105302354944787,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50649,
+			"name": 1149.39,
+			"val": 3.0604674143361237,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50632,
+			"name": 1028.05,
+			"val": 3.0120142374180414,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50598,
+			"name": 1024.47,
+			"val": 3.010499245289464,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50650,
+			"name": 1202.05,
+			"val": 3.0799225327852486,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50654,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50669,
+			"name": 1006.39,
+			"val": 3.002766312753026,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50629,
+			"name": 975.05,
+			"val": 2.9890268866393845,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50593,
+			"name": 858.39,
+			"val": 2.933684649579847,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50628,
+			"name": 1525.05,
+			"val": 3.183284082612722,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50653,
+			"name": 1125.79,
+			"val": 3.051457386654875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50610,
+			"name": 925.79,
+			"val": 2.9665124854030736,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50615,
+			"name": 975.05,
+			"val": 2.9890268866393845,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50631,
+			"name": 1073.79,
+			"val": 3.0309193551449676,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50651,
+			"name": 1705.34,
+			"val": 3.231810978872853,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50613,
+			"name": 930.05,
+			"val": 2.9685062970919858,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50578,
+			"name": 634.05,
+			"val": 2.8021235068847,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50579,
+			"name": 1216.05,
+			"val": 3.0849514320729576,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50670,
+			"name": 1005.79,
+			"val": 3.00250731336245,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 50633,
+			"name": 1180.79,
+			"val": 3.0721726664952187,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 378.12550515842116,
+			"desc": 7359.200000000002,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50658,
+			"name": 1016.05,
+			"val": 3.0069150801819493,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50581,
+			"name": 719.39,
+			"val": 2.856964396541981,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50599,
+			"name": 638.05,
+			"val": 2.804854713005252,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50617,
+			"name": 567.05,
+			"val": 2.7536213547777604,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50657,
+			"name": 861.05,
+			"val": 2.9350283710745733,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50619,
+			"name": 862.39,
+			"val": 2.935703711931255,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50616,
+			"name": 778.39,
+			"val": 2.891197247901719,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50618,
+			"name": 530.05,
+			"val": 2.724316838845846,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50637,
+			"name": 693.39,
+			"val": 2.840977574014731,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 50636,
+			"name": 693.39,
+			"val": 2.840977574014731,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "POSTO PATÃO LTDA.",
+			"name": "POSTO PATÃO LTDA.",
+			"val": 6.115811881688821,
+			"desc": 200.02,
+			"group": "POSTO PATÃO LTDA."
+		},
+		{
+			"id": 50603,
+			"name": 200.02,
+			"val": 2.301073422940844,
+			"group": "POSTO PATÃO LTDA."
+		},
+		{
+			"id": "AUTO POSTO MONTREAL LTDA",
+			"name": "AUTO POSTO MONTREAL LTDA",
+			"val": 10.630588519716458,
+			"desc": 319.45000000000005,
+			"group": "AUTO POSTO MONTREAL LTDA"
+		},
+		{
+			"id": 50583,
+			"name": 217.02,
+			"val": 2.3364997591452634,
+			"group": "AUTO POSTO MONTREAL LTDA"
+		},
+		{
+			"id": 50572,
+			"name": 102.43,
+			"val": 2.010427172717049,
+			"group": "AUTO POSTO MONTREAL LTDA"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 71.5738827075933,
+			"desc": 1671.24,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 50662,
+			"name": 1671.24,
+			"val": 3.2230388216415817,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "CLARO S/A.",
+			"name": "CLARO S/A.",
+			"val": 3.7612295419515656,
+			"desc": 133.23,
+			"group": "CLARO S/A."
+		},
+		{
+			"id": 50645,
+			"name": 133.23,
+			"val": 2.124602027893338,
+			"group": "CLARO S/A."
+		},
+		{
+			"id": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"name": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"val": 1.6311196217643507,
+			"desc": 67.18,
+			"group": "POSTO SANTA EDWIGES PETROLEO LTDA"
+		},
+		{
+			"id": 50586,
+			"name": 67.18,
+			"val": 1.8272399995056454,
+			"group": "POSTO SANTA EDWIGES PETROLEO LTDA"
+		},
+		{
+			"id": "POSTO FUMAÇA",
+			"name": "POSTO FUMAÇA",
+			"val": 6.210774825981295,
+			"desc": 202.63,
+			"group": "POSTO FUMAÇA"
+		},
+		{
+			"id": 50641,
+			"name": 202.63,
+			"val": 2.3067037444296408,
+			"group": "POSTO FUMAÇA"
+		},
+		{
+			"id": "SEMPRE EDITORA LTDA.",
+			"name": "SEMPRE EDITORA LTDA.",
+			"val": 146.42631502726047,
+			"desc": 3150,
+			"group": "SEMPRE EDITORA LTDA."
+		},
+		{
+			"id": 50643,
+			"name": 3150,
+			"val": 3.4983105537896004,
+			"group": "SEMPRE EDITORA LTDA."
+		},
+		{
+			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"val": 1329.8369455273366,
+			"desc": 22950.05,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 50661,
+			"name": 9694.07,
+			"val": 3.9865061513991162,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 50587,
+			"name": 499.93,
+			"val": 2.698909198852069,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 50620,
+			"name": 4827.93,
+			"val": 3.683760964649396,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": 50642,
+			"name": 7928.12,
+			"val": 3.8991702150069134,
+			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 245.86354391903922,
+			"desc": 5001.99,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 50635,
+			"name": 2030.05,
+			"val": 3.307506734689901,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 50656,
+			"name": 1957.05,
+			"val": 3.2916019214406798,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 50655,
+			"name": 1014.89,
+			"val": 3.006418973301598,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "DELTA FÊNIX AUTO POSTO LTDA.",
+			"name": "DELTA FÊNIX AUTO POSTO LTDA.",
+			"val": 6.557311780944117,
+			"desc": 212.11,
+			"group": "DELTA FÊNIX AUTO POSTO LTDA."
+		},
+		{
+			"id": 50640,
+			"name": 212.11,
+			"val": 2.3265611439641933,
+			"group": "DELTA FÊNIX AUTO POSTO LTDA."
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 13.81766327350765,
+			"desc": 399.68999999999994,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 50588,
+			"name": 133.23,
+			"val": 2.124602027893338,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 50605,
+			"name": 133.23,
+			"val": 2.124602027893338,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 50573,
+			"name": 133.23,
+			"val": 2.124602027893338,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 14.233537591992762,
+			"desc": 409.98,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 50607,
+			"name": 409.98,
+			"val": 2.612762671106331,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 35.79011063680844,
+			"desc": 910.2199999999999,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50659,
+			"name": 228.79,
+			"val": 2.35943703830399,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50600,
+			"name": 220.67,
+			"val": 2.3437432950100945,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50585,
+			"name": 233.36,
+			"val": 2.3680264161136764,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 50584,
+			"name": 227.4,
+			"val": 2.356790460351716,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "GRÁFICA REAL E GAZETA LTDA - EPP",
+			"name": "GRÁFICA REAL E GAZETA LTDA - EPP",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "GRÁFICA REAL E GAZETA LTDA - EPP"
+		},
+		{
+			"id": 50621,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "GRÁFICA REAL E GAZETA LTDA - EPP"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME",
+			"name": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME",
+			"val": 4.408825745915936,
+			"desc": 152.06,
+			"group": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME"
+		},
+		{
+			"id": 50601,
+			"name": 152.06,
+			"val": 2.1820149861507345,
+			"group": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 12.227871077590747,
+			"desc": 359.98999999999995,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50646,
+			"name": 66.57,
+			"val": 1.8232785569516707,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50625,
+			"name": 56.21,
+			"val": 1.7498135852929377,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50664,
+			"name": 46.42,
+			"val": 1.6667051361198988,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50589,
+			"name": 76.11,
+			"val": 1.881441721941393,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50606,
+			"name": 89.72,
+			"val": 1.9528892649109302,
+			"group": "RAMAL"
+		},
+		{
+			"id": 50574,
+			"name": 24.96,
+			"val": 1.3972445810103864,
+			"group": "RAMAL"
+		},
+		{
+			"id": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"name": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"val": 1.6047084831777296,
+			"desc": 66.3,
+			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 50666,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "TARGET RENT A CAR LTDA",
+			"name": "TARGET RENT A CAR LTDA",
+			"val": 1435.2988763992144,
+			"desc": 24600,
+			"group": "TARGET RENT A CAR LTDA"
+		},
+		{
+			"id": 50627,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "TARGET RENT A CAR LTDA"
+		},
+		{
+			"id": 50608,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "TARGET RENT A CAR LTDA"
+		},
+		{
+			"id": 50667,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "TARGET RENT A CAR LTDA"
+		},
+		{
+			"id": 50576,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "TARGET RENT A CAR LTDA"
+		},
+		{
+			"id": 50648,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "TARGET RENT A CAR LTDA"
+		},
+		{
+			"id": 50591,
+			"name": 4100,
+			"val": 3.6127838567197355,
+			"group": "TARGET RENT A CAR LTDA"
+		},
+		{
+			"id": "PASSAREDO TRANSPORTES AEREO",
+			"name": "PASSAREDO TRANSPORTES AEREO",
+			"val": 131.9655824472994,
+			"desc": 2871.87,
+			"group": "PASSAREDO TRANSPORTES AEREO"
+		},
+		{
+			"id": 50623,
+			"name": 1913.38,
+			"val": 3.281801230097475,
+			"group": "PASSAREDO TRANSPORTES AEREO"
+		},
+		{
+			"id": 50644,
+			"name": 958.49,
+			"val": 2.9815875862099355,
+			"group": "PASSAREDO TRANSPORTES AEREO"
+		},
+		{
+			"id": "CLARO S.A.",
+			"name": "CLARO S.A.",
+			"val": 3.7612295419515656,
+			"desc": 133.23,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 50663,
+			"name": 133.23,
+			"val": 2.124602027893338,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO",
+			"name": "TELEFONICA BRASIL SA VIVO",
+			"val": 14.233537591992762,
+			"desc": 409.98,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 50590,
+			"name": 409.98,
+			"val": 2.612762671106331,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S/A",
+			"name": "TELEFÔNICA BRASIL S/A",
+			"val": 14.804180400306382,
+			"desc": 424.04,
+			"group": "TELEFÔNICA BRASIL S/A"
+		},
+		{
+			"id": 50665,
+			"name": 424.04,
+			"val": 2.6274068258377894,
+			"group": "TELEFÔNICA BRASIL S/A"
+		},
+		{
+			"id": "Auto Posto Duma Ltda-epp",
+			"name": "Auto Posto Duma Ltda-epp",
+			"val": 6.1376251388698515,
+			"desc": 200.62,
+			"group": "Auto Posto Duma Ltda-epp"
+		},
+		{
+			"id": 50638,
+			"name": 200.62,
+			"val": 2.3023742260755826,
+			"group": "Auto Posto Duma Ltda-epp"
+		},
+		{
+			"id": "DATA HOME SERVICOS LTDA",
+			"name": "DATA HOME SERVICOS LTDA",
+			"val": 59.71745336245496,
+			"desc": 1425,
+			"group": "DATA HOME SERVICOS LTDA"
+		},
+		{
+			"id": 50604,
+			"name": 1425,
+			"val": 3.153814864344529,
+			"group": "DATA HOME SERVICOS LTDA"
+		},
+		{
+			"id": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA",
+			"name": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA",
+			"val": 6.033016494920099,
+			"desc": 197.74,
+			"group": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA"
+		},
+		{
+			"id": 50602,
+			"name": 197.74,
+			"val": 2.296094529820123,
+			"group": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA"
+		},
+		{
+			"id": "CLARO S.A",
+			"name": "CLARO S.A",
+			"val": 3.7523905179161305,
+			"desc": 132.97,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 50624,
+			"name": 132.97,
+			"val": 2.123753668755841,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": "TELEFONICA BRASIL S. A.",
+			"name": "TELEFONICA BRASIL S. A.",
+			"val": 14.233537591992762,
+			"desc": 409.98,
+			"group": "TELEFONICA BRASIL S. A."
+		},
+		{
+			"id": 50647,
+			"name": 409.98,
+			"val": 2.612762671106331,
+			"group": "TELEFONICA BRASIL S. A."
+		},
+		{
+			"id": "ALTO UMUARAMA COMBUSTÍVEIS LTDA.",
+			"name": "ALTO UMUARAMA COMBUSTÍVEIS LTDA.",
+			"val": 6.0406360692056165,
+			"desc": 197.95,
+			"group": "ALTO UMUARAMA COMBUSTÍVEIS LTDA."
+		},
+		{
+			"id": 50582,
+			"name": 197.95,
+			"val": 2.2965555060882235,
+			"group": "ALTO UMUARAMA COMBUSTÍVEIS LTDA."
+		},
+		{
+			"id": "CANTIONIL ALVES FILHO",
+			"name": "CANTIONIL ALVES FILHO",
+			"val": 7.223795606409615,
+			"desc": 230.16,
+			"group": "CANTIONIL ALVES FILHO"
+		},
+		{
+			"id": 50639,
+			"name": 230.16,
+			"val": 2.3620298488822695,
+			"group": "CANTIONIL ALVES FILHO"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 14.233537591992762,
+			"desc": 409.98,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 50626,
+			"name": 409.98,
+			"val": 2.612762671106331,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "JD Editora e Impressão Gráfica Ltda ME",
+			"name": "JD Editora e Impressão Gráfica Ltda ME",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "JD Editora e Impressão Gráfica Ltda ME"
+		},
+		{
+			"id": 50622,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "JD Editora e Impressão Gráfica Ltda ME"
+		},
+		{
+			"id": "POSTO TROPICO LTDA",
+			"name": "POSTO TROPICO LTDA",
+			"val": 5.364125475981068,
+			"desc": 179.16,
+			"group": "POSTO TROPICO LTDA"
+		},
+		{
+			"id": 50660,
+			"name": 179.16,
+			"val": 2.2532410537726504,
+			"group": "POSTO TROPICO LTDA"
+		},
+		{
+			"id": "Telefônia Brasil S/A",
+			"name": "Telefônia Brasil S/A",
+			"val": 13.587548490643801,
+			"desc": 393.98,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 50575,
+			"name": 393.98,
+			"val": 2.5954741758608546,
+			"group": "Telefônia Brasil S/A"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 37925.16
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50611,
+			"value": 930.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50609,
+			"value": 925.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50671,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50594,
+			"value": 1370.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50592,
+			"value": 975.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50580,
+			"value": 925.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50595,
+			"value": 980.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50577,
+			"value": 1034.47
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50614,
+			"value": 1469.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50668,
+			"value": 1611.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50612,
+			"value": 1469.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50597,
+			"value": 980.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50630,
+			"value": 1237.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50652,
+			"value": 1664.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50596,
+			"value": 875.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50634,
+			"value": 1274.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50649,
+			"value": 1149.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50632,
+			"value": 1028.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50598,
+			"value": 1024.47
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50650,
+			"value": 1202.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50654,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50669,
+			"value": 1006.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50629,
+			"value": 975.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50593,
+			"value": 858.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50628,
+			"value": 1525.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50653,
+			"value": 1125.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50610,
+			"value": 925.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50615,
+			"value": 975.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50631,
+			"value": 1073.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50651,
+			"value": 1705.34
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50613,
+			"value": 930.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50578,
+			"value": 634.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50579,
+			"value": 1216.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50670,
+			"value": 1005.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 50633,
+			"value": 1180.79
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 7359.200000000002
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50658,
+			"value": 1016.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50581,
+			"value": 719.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50599,
+			"value": 638.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50617,
+			"value": 567.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50657,
+			"value": 861.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50619,
+			"value": 862.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50616,
+			"value": 778.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50618,
+			"value": 530.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50637,
+			"value": 693.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 50636,
+			"value": 693.39
+		},
+		{
+			"source": -100,
+			"target": "POSTO PATÃO LTDA.",
+			"value": 200.02
+		},
+		{
+			"source": "POSTO PATÃO LTDA.",
+			"target": 50603,
+			"value": 200.02
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MONTREAL LTDA",
+			"value": 319.45000000000005
+		},
+		{
+			"source": "AUTO POSTO MONTREAL LTDA",
+			"target": 50583,
+			"value": 217.02
+		},
+		{
+			"source": "AUTO POSTO MONTREAL LTDA",
+			"target": 50572,
+			"value": 102.43
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 1671.24
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 50662,
+			"value": 1671.24
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A.",
+			"value": 133.23
+		},
+		{
+			"source": "CLARO S/A.",
+			"target": 50645,
+			"value": 133.23
+		},
+		{
+			"source": -100,
+			"target": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"value": 67.18
+		},
+		{
+			"source": "POSTO SANTA EDWIGES PETROLEO LTDA",
+			"target": 50586,
+			"value": 67.18
+		},
+		{
+			"source": -100,
+			"target": "POSTO FUMAÇA",
+			"value": 202.63
+		},
+		{
+			"source": "POSTO FUMAÇA",
+			"target": 50641,
+			"value": 202.63
+		},
+		{
+			"source": -100,
+			"target": "SEMPRE EDITORA LTDA.",
+			"value": 3150
+		},
+		{
+			"source": "SEMPRE EDITORA LTDA.",
+			"target": 50643,
+			"value": 3150
+		},
+		{
+			"source": -100,
+			"target": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"value": 22950.05
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 50661,
+			"value": 9694.07
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 50587,
+			"value": 499.93
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 50620,
+			"value": 4827.93
+		},
+		{
+			"source": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+			"target": 50642,
+			"value": 7928.12
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 5001.99
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 50635,
+			"value": 2030.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 50656,
+			"value": 1957.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 50655,
+			"value": 1014.89
+		},
+		{
+			"source": -100,
+			"target": "DELTA FÊNIX AUTO POSTO LTDA.",
+			"value": 212.11
+		},
+		{
+			"source": "DELTA FÊNIX AUTO POSTO LTDA.",
+			"target": 50640,
+			"value": 212.11
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 399.68999999999994
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 50588,
+			"value": 133.23
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 50605,
+			"value": 133.23
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 50573,
+			"value": 133.23
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 409.98
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 50607,
+			"value": 409.98
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 910.2199999999999
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50659,
+			"value": 228.79
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50600,
+			"value": 220.67
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50585,
+			"value": 233.36
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 50584,
+			"value": 227.4
+		},
+		{
+			"source": -100,
+			"target": "GRÁFICA REAL E GAZETA LTDA - EPP",
+			"value": 500
+		},
+		{
+			"source": "GRÁFICA REAL E GAZETA LTDA - EPP",
+			"target": 50621,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME",
+			"value": 152.06
+		},
+		{
+			"source": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME",
+			"target": 50601,
+			"value": 152.06
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 359.98999999999995
+		},
+		{
+			"source": "RAMAL",
+			"target": 50646,
+			"value": 66.57
+		},
+		{
+			"source": "RAMAL",
+			"target": 50625,
+			"value": 56.21
+		},
+		{
+			"source": "RAMAL",
+			"target": 50664,
+			"value": 46.42
+		},
+		{
+			"source": "RAMAL",
+			"target": 50589,
+			"value": 76.11
+		},
+		{
+			"source": "RAMAL",
+			"target": 50606,
+			"value": 89.72
+		},
+		{
+			"source": "RAMAL",
+			"target": 50574,
+			"value": 24.96
+		},
+		{
+			"source": -100,
+			"target": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"value": 66.3
+		},
+		{
+			"source": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"target": 50666,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "TARGET RENT A CAR LTDA",
+			"value": 24600
+		},
+		{
+			"source": "TARGET RENT A CAR LTDA",
+			"target": 50627,
+			"value": 4100
+		},
+		{
+			"source": "TARGET RENT A CAR LTDA",
+			"target": 50608,
+			"value": 4100
+		},
+		{
+			"source": "TARGET RENT A CAR LTDA",
+			"target": 50667,
+			"value": 4100
+		},
+		{
+			"source": "TARGET RENT A CAR LTDA",
+			"target": 50576,
+			"value": 4100
+		},
+		{
+			"source": "TARGET RENT A CAR LTDA",
+			"target": 50648,
+			"value": 4100
+		},
+		{
+			"source": "TARGET RENT A CAR LTDA",
+			"target": 50591,
+			"value": 4100
+		},
+		{
+			"source": -100,
+			"target": "PASSAREDO TRANSPORTES AEREO",
+			"value": 2871.87
+		},
+		{
+			"source": "PASSAREDO TRANSPORTES AEREO",
+			"target": 50623,
+			"value": 1913.38
+		},
+		{
+			"source": "PASSAREDO TRANSPORTES AEREO",
+			"target": 50644,
+			"value": 958.49
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A.",
+			"value": 133.23
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 50663,
+			"value": 133.23
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO",
+			"value": 409.98
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 50590,
+			"value": 409.98
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S/A",
+			"value": 424.04
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S/A",
+			"target": 50665,
+			"value": 424.04
+		},
+		{
+			"source": -100,
+			"target": "Auto Posto Duma Ltda-epp",
+			"value": 200.62
+		},
+		{
+			"source": "Auto Posto Duma Ltda-epp",
+			"target": 50638,
+			"value": 200.62
+		},
+		{
+			"source": -100,
+			"target": "DATA HOME SERVICOS LTDA",
+			"value": 1425
+		},
+		{
+			"source": "DATA HOME SERVICOS LTDA",
+			"target": 50604,
+			"value": 1425
+		},
+		{
+			"source": -100,
+			"target": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA",
+			"value": 197.74
+		},
+		{
+			"source": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA",
+			"target": 50602,
+			"value": 197.74
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A",
+			"value": 132.97
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 50624,
+			"value": 132.97
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S. A.",
+			"value": 409.98
+		},
+		{
+			"source": "TELEFONICA BRASIL S. A.",
+			"target": 50647,
+			"value": 409.98
+		},
+		{
+			"source": -100,
+			"target": "ALTO UMUARAMA COMBUSTÍVEIS LTDA.",
+			"value": 197.95
+		},
+		{
+			"source": "ALTO UMUARAMA COMBUSTÍVEIS LTDA.",
+			"target": 50582,
+			"value": 197.95
+		},
+		{
+			"source": -100,
+			"target": "CANTIONIL ALVES FILHO",
+			"value": 230.16
+		},
+		{
+			"source": "CANTIONIL ALVES FILHO",
+			"target": 50639,
+			"value": 230.16
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 409.98
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 50626,
+			"value": 409.98
+		},
+		{
+			"source": -100,
+			"target": "JD Editora e Impressão Gráfica Ltda ME",
+			"value": 400
+		},
+		{
+			"source": "JD Editora e Impressão Gráfica Ltda ME",
+			"target": 50622,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "POSTO TROPICO LTDA",
+			"value": 179.16
+		},
+		{
+			"source": "POSTO TROPICO LTDA",
+			"target": 50660,
+			"value": 179.16
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A",
+			"value": 393.98
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 50575,
+			"value": 393.98
+		}
+	]
+}

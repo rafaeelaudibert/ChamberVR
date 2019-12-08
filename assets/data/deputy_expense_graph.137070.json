@@ -1,0 +1,1389 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "VICENTINHO JÚNIOR"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 34.38145321009146,
+			"desc": 878.91,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49719,
+			"name": 154.04,
+			"val": 2.1876335099506936,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49698,
+			"name": 192.7,
+			"val": 2.284881714655453,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49682,
+			"name": 149.63,
+			"val": 2.1750186759366286,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49744,
+			"name": 171.79,
+			"val": 2.2349978796860306,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49764,
+			"name": 210.75,
+			"val": 2.32376758329678,
+			"group": "RAMAL"
+		},
+		{
+			"id": "PARLABRASIL EIRELI",
+			"name": "PARLABRASIL EIRELI",
+			"val": 20.02723317850645,
+			"desc": 550,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": 49694,
+			"name": 550,
+			"val": 2.7403626894942437,
+			"group": "PARLABRASIL EIRELI"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 7.877408517926028,
+			"desc": 247.64999999999998,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 49699,
+			"name": 109.2,
+			"val": 2.0382226383687185,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 49745,
+			"name": 136.5,
+			"val": 2.1351326513767748,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 49700,
+			"name": 1.95,
+			"val": 0.290034611362518,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1475.671450410931,
+			"desc": 25228.96,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49756,
+			"name": 531.39,
+			"val": 2.725413377349978,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49747,
+			"name": 259.5,
+			"val": 2.414137362184477,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49748,
+			"name": 573.79,
+			"val": 2.758752975100877,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49766,
+			"name": 847,
+			"val": 2.9278834103307068,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49727,
+			"name": 932.39,
+			"val": 2.969597607010585,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49754,
+			"name": 1195.39,
+			"val": 3.0775096184351027,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49707,
+			"name": 433.47,
+			"val": 2.63695904579077,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49724,
+			"name": 692.79,
+			"val": 2.840601610279263,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49705,
+			"name": 612.79,
+			"val": 2.787311669515777,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49733,
+			"name": -355.89,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49704,
+			"name": 616,
+			"val": 2.7895807121644256,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49732,
+			"name": -1130.46,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49751,
+			"name": 440.79,
+			"val": 2.6442317333163197,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49683,
+			"name": 1642.47,
+			"val": 3.215497445840072,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49721,
+			"name": 461.79,
+			"val": 2.66444452409471,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49726,
+			"name": 1562.85,
+			"val": 3.193917297086106,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49768,
+			"name": 560.39,
+			"val": 2.7484903768215028,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49770,
+			"name": 529.79,
+			"val": 2.7241037565550097,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49720,
+			"name": 1130.46,
+			"val": 3.05325519995284,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49701,
+			"name": 434.79,
+			"val": 2.638279546925845,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49702,
+			"name": 1056.39,
+			"val": 3.0238242814355165,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49769,
+			"name": 953,
+			"val": 2.979092900638326,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49752,
+			"name": 566,
+			"val": 2.7528164311882715,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49749,
+			"name": 573.79,
+			"val": 2.758752975100877,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49731,
+			"name": 230,
+			"val": 2.361727836017593,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49728,
+			"name": 429.39,
+			"val": 2.632851925998251,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49706,
+			"name": 545,
+			"val": 2.7363965022766426,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49755,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49725,
+			"name": 449,
+			"val": 2.6522463410033232,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49746,
+			"name": 885.39,
+			"val": 2.9471346125498266,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49767,
+			"name": 591.79,
+			"val": 2.7721676222279394,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49729,
+			"name": 612.79,
+			"val": 2.787311669515777,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49765,
+			"name": 894.39,
+			"val": 2.951526934807668,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49771,
+			"name": 529.79,
+			"val": 2.7241037565550097,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49723,
+			"name": 677.79,
+			"val": 2.8310951570406684,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49722,
+			"name": 432.39,
+			"val": 2.6358756413519506,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49703,
+			"name": 1158.39,
+			"val": 3.0638547997477845,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49750,
+			"name": 734.39,
+			"val": 2.8659267545570377,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49753,
+			"name": 526.79,
+			"val": 2.7216375222008327,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49730,
+			"name": 1399,
+			"val": 3.1458177144918276,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 213.83022974433752,
+			"desc": 4414.99,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49743,
+			"name": 0.14,
+			"val": -0.8538719643217619,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49763,
+			"name": 931.46,
+			"val": 2.969164209578722,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49695,
+			"name": 0.24,
+			"val": -0.619788758288394,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49681,
+			"name": 271.14,
+			"val": 2.4331935917148453,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49680,
+			"name": 385.69,
+			"val": 2.586238378816471,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49716,
+			"name": 242.3,
+			"val": 2.3843534141375065,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49762,
+			"name": 3.38,
+			"val": 0.5289167002776547,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49696,
+			"name": 587.81,
+			"val": 2.769236970147409,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49717,
+			"name": 941.71,
+			"val": 2.9739171822087673,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49742,
+			"name": 1051.12,
+			"val": 3.021652299627547,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "COMPANHIA DE SANEAMENTO DO TOCANTINS",
+			"name": "COMPANHIA DE SANEAMENTO DO TOCANTINS",
+			"val": 3.4563357842831803,
+			"desc": 124.21,
+			"group": "COMPANHIA DE SANEAMENTO DO TOCANTINS"
+		},
+		{
+			"id": 49684,
+			"name": 124.21,
+			"val": 2.0941565617825235,
+			"group": "COMPANHIA DE SANEAMENTO DO TOCANTINS"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 32.828701732599946,
+			"desc": 844.23,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49712,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49677,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49689,
+			"name": 159.99,
+			"val": 2.204092838402539,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49738,
+			"name": 222.89,
+			"val": 2.348090584217155,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 49690,
+			"name": 211.35,
+			"val": 2.3250022521650378,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "DMD Gestão Administrativa LTDA - ME",
+			"name": "DMD Gestão Administrativa LTDA - ME",
+			"val": 10316.761785094779,
+			"desc": 150000,
+			"group": "DMD Gestão Administrativa LTDA - ME"
+		},
+		{
+			"id": 49761,
+			"name": 30000,
+			"val": 4.477121254719663,
+			"group": "DMD Gestão Administrativa LTDA - ME"
+		},
+		{
+			"id": 49693,
+			"name": 20000,
+			"val": 4.301029995663981,
+			"group": "DMD Gestão Administrativa LTDA - ME"
+		},
+		{
+			"id": 49713,
+			"name": 35000,
+			"val": 4.544068044350276,
+			"group": "DMD Gestão Administrativa LTDA - ME"
+		},
+		{
+			"id": 49741,
+			"name": 35000,
+			"val": 4.544068044350276,
+			"group": "DMD Gestão Administrativa LTDA - ME"
+		},
+		{
+			"id": 49679,
+			"name": 30000,
+			"val": 4.477121254719663,
+			"group": "DMD Gestão Administrativa LTDA - ME"
+		},
+		{
+			"id": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"name": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"val": 1140.9665277657336,
+			"desc": 19967.41,
+			"group": "A.P JARDINS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49688,
+			"name": 2484.66,
+			"val": 3.3952669684310144,
+			"group": "A.P JARDINS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49737,
+			"name": 5870.91,
+			"val": 3.7687054227719807,
+			"group": "A.P JARDINS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49676,
+			"name": 2323.48,
+			"val": 3.3661389385204945,
+			"group": "A.P JARDINS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49736,
+			"name": 5192.76,
+			"val": 3.7153982507513637,
+			"group": "A.P JARDINS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49711,
+			"name": 4095.6,
+			"val": 3.6123175343262637,
+			"group": "A.P JARDINS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"name": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"val": 59.09417568310161,
+			"desc": 1411.9200000000003,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 49759,
+			"name": 305.68,
+			"val": 2.4852670246803523,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 49672,
+			"name": 220.75,
+			"val": 2.343900712249606,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 49734,
+			"name": 260.77,
+			"val": 2.4162576269990224,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 49760,
+			"name": 277.85,
+			"val": 2.443810401121398,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 49686,
+			"name": 184.46,
+			"val": 2.2659022043017565,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 49673,
+			"name": 54.49,
+			"val": 1.736316807904109,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": 49758,
+			"name": 107.92,
+			"val": 2.0331019366638476,
+			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
+		},
+		{
+			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 49678,
+			"name": 100,
+			"val": 2,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CT COMUNICACAO & MARKETING LTDA",
+			"name": "CT COMUNICACAO & MARKETING LTDA",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "CT COMUNICACAO & MARKETING LTDA"
+		},
+		{
+			"id": 49714,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "CT COMUNICACAO & MARKETING LTDA"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 49740,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER",
+			"name": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER",
+			"val": 30.260557183928277,
+			"desc": 786.46,
+			"group": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER"
+		},
+		{
+			"id": 49685,
+			"name": 426.27,
+			"val": 2.629684768976202,
+			"group": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER"
+		},
+		{
+			"id": 49709,
+			"name": 360.19,
+			"val": 2.556531651278891,
+			"group": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER"
+		},
+		{
+			"id": "Tropical Corretora de Imóveis e Construções LTDA",
+			"name": "Tropical Corretora de Imóveis e Construções LTDA",
+			"val": 99.21562571368439,
+			"desc": 2230,
+			"group": "Tropical Corretora de Imóveis e Construções LTDA"
+		},
+		{
+			"id": 49675,
+			"name": 1100,
+			"val": 3.041392685158225,
+			"group": "Tropical Corretora de Imóveis e Construções LTDA"
+		},
+		{
+			"id": 49687,
+			"name": 1130,
+			"val": 3.05307844348342,
+			"group": "Tropical Corretora de Imóveis e Construções LTDA"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 15.986298879190352,
+			"desc": 452.96000000000004,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49692,
+			"name": 217.8,
+			"val": 2.3380578754197563,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49739,
+			"name": 235.16,
+			"val": 2.3713634515170443,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Joedson Rodrigues Figueira",
+			"name": "Joedson Rodrigues Figueira",
+			"val": 92.70385834544928,
+			"desc": 2100,
+			"group": "Joedson Rodrigues Figueira"
+		},
+		{
+			"id": 49674,
+			"name": 700,
+			"val": 2.845098040014257,
+			"group": "Joedson Rodrigues Figueira"
+		},
+		{
+			"id": 49710,
+			"name": 700,
+			"val": 2.845098040014257,
+			"group": "Joedson Rodrigues Figueira"
+		},
+		{
+			"id": 49735,
+			"name": 700,
+			"val": 2.845098040014257,
+			"group": "Joedson Rodrigues Figueira"
+		},
+		{
+			"id": "OI S.A. - EM RECUPERACAO JUDICIAL",
+			"name": "OI S.A. - EM RECUPERACAO JUDICIAL",
+			"val": 13.27237349720001,
+			"desc": 386.14,
+			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": 49697,
+			"name": 195.88,
+			"val": 2.2919900953461805,
+			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": 49718,
+			"name": 190.26,
+			"val": 2.279347492410732,
+			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": "RAKA COMUNICACOES LTDA",
+			"name": "RAKA COMUNICACOES LTDA",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "RAKA COMUNICACOES LTDA"
+		},
+		{
+			"id": 49715,
+			"name": 1000,
+			"val": 3,
+			"group": "RAKA COMUNICACOES LTDA"
+		},
+		{
+			"id": "Cia Aérea - PASSAREDO",
+			"name": "Cia Aérea - PASSAREDO",
+			"val": 45.30929904517319,
+			"desc": 1118.49,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": 49757,
+			"name": 1118.49,
+			"val": 3.0486321055857704,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"val": 6.6072291074036436,
+			"desc": 213.47,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 49691,
+			"name": 213.47,
+			"val": 2.3293368500874236,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"val": 19.05981749165125,
+			"desc": 527,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		},
+		{
+			"id": 49708,
+			"name": 527,
+			"val": 2.7218106152125467,
+			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 878.91
+		},
+		{
+			"source": "RAMAL",
+			"target": 49719,
+			"value": 154.04
+		},
+		{
+			"source": "RAMAL",
+			"target": 49698,
+			"value": 192.7
+		},
+		{
+			"source": "RAMAL",
+			"target": 49682,
+			"value": 149.63
+		},
+		{
+			"source": "RAMAL",
+			"target": 49744,
+			"value": 171.79
+		},
+		{
+			"source": "RAMAL",
+			"target": 49764,
+			"value": 210.75
+		},
+		{
+			"source": -100,
+			"target": "PARLABRASIL EIRELI",
+			"value": 550
+		},
+		{
+			"source": "PARLABRASIL EIRELI",
+			"target": 49694,
+			"value": 550
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 247.64999999999998
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 49699,
+			"value": 109.2
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 49745,
+			"value": 136.5
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 49700,
+			"value": 1.95
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 25228.96
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49756,
+			"value": 531.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49747,
+			"value": 259.5
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49748,
+			"value": 573.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49766,
+			"value": 847
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49727,
+			"value": 932.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49754,
+			"value": 1195.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49707,
+			"value": 433.47
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49724,
+			"value": 692.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49705,
+			"value": 612.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49733,
+			"value": -355.89
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49704,
+			"value": 616
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49732,
+			"value": -1130.46
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49751,
+			"value": 440.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49683,
+			"value": 1642.47
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49721,
+			"value": 461.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49726,
+			"value": 1562.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49768,
+			"value": 560.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49770,
+			"value": 529.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49720,
+			"value": 1130.46
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49701,
+			"value": 434.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49702,
+			"value": 1056.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49769,
+			"value": 953
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49752,
+			"value": 566
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49749,
+			"value": 573.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49731,
+			"value": 230
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49728,
+			"value": 429.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49706,
+			"value": 545
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49755,
+			"value": 12
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49725,
+			"value": 449
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49746,
+			"value": 885.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49767,
+			"value": 591.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49729,
+			"value": 612.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49765,
+			"value": 894.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49771,
+			"value": 529.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49723,
+			"value": 677.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49722,
+			"value": 432.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49703,
+			"value": 1158.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49750,
+			"value": 734.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49753,
+			"value": 526.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49730,
+			"value": 1399
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 4414.99
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49743,
+			"value": 0.14
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49763,
+			"value": 931.46
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49695,
+			"value": 0.24
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49681,
+			"value": 271.14
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49680,
+			"value": 385.69
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49716,
+			"value": 242.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49762,
+			"value": 3.38
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49696,
+			"value": 587.81
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49717,
+			"value": 941.71
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49742,
+			"value": 1051.12
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA DE SANEAMENTO DO TOCANTINS",
+			"value": 124.21
+		},
+		{
+			"source": "COMPANHIA DE SANEAMENTO DO TOCANTINS",
+			"target": 49684,
+			"value": 124.21
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 844.23
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49712,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49677,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49689,
+			"value": 159.99
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49738,
+			"value": 222.89
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 49690,
+			"value": 211.35
+		},
+		{
+			"source": -100,
+			"target": "DMD Gestão Administrativa LTDA - ME",
+			"value": 150000
+		},
+		{
+			"source": "DMD Gestão Administrativa LTDA - ME",
+			"target": 49761,
+			"value": 30000
+		},
+		{
+			"source": "DMD Gestão Administrativa LTDA - ME",
+			"target": 49693,
+			"value": 20000
+		},
+		{
+			"source": "DMD Gestão Administrativa LTDA - ME",
+			"target": 49713,
+			"value": 35000
+		},
+		{
+			"source": "DMD Gestão Administrativa LTDA - ME",
+			"target": 49741,
+			"value": 35000
+		},
+		{
+			"source": "DMD Gestão Administrativa LTDA - ME",
+			"target": 49679,
+			"value": 30000
+		},
+		{
+			"source": -100,
+			"target": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"value": 19967.41
+		},
+		{
+			"source": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"target": 49688,
+			"value": 2484.66
+		},
+		{
+			"source": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"target": 49737,
+			"value": 5870.91
+		},
+		{
+			"source": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"target": 49676,
+			"value": 2323.48
+		},
+		{
+			"source": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"target": 49736,
+			"value": 5192.76
+		},
+		{
+			"source": "A.P JARDINS COMBUSTIVEIS LTDA",
+			"target": 49711,
+			"value": 4095.6
+		},
+		{
+			"source": -100,
+			"target": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"value": 1411.9200000000003
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 49759,
+			"value": 305.68
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 49672,
+			"value": 220.75
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 49734,
+			"value": 260.77
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 49760,
+			"value": 277.85
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 49686,
+			"value": 184.46
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 49673,
+			"value": 54.49
+		},
+		{
+			"source": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+			"target": 49758,
+			"value": 107.92
+		},
+		{
+			"source": -100,
+			"target": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"target": 49678,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CT COMUNICACAO & MARKETING LTDA",
+			"value": 500
+		},
+		{
+			"source": "CT COMUNICACAO & MARKETING LTDA",
+			"target": 49714,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 200
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 49740,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER",
+			"value": 786.46
+		},
+		{
+			"source": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER",
+			"target": 49685,
+			"value": 426.27
+		},
+		{
+			"source": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER",
+			"target": 49709,
+			"value": 360.19
+		},
+		{
+			"source": -100,
+			"target": "Tropical Corretora de Imóveis e Construções LTDA",
+			"value": 2230
+		},
+		{
+			"source": "Tropical Corretora de Imóveis e Construções LTDA",
+			"target": 49675,
+			"value": 1100
+		},
+		{
+			"source": "Tropical Corretora de Imóveis e Construções LTDA",
+			"target": 49687,
+			"value": 1130
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 452.96000000000004
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 49692,
+			"value": 217.8
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 49739,
+			"value": 235.16
+		},
+		{
+			"source": -100,
+			"target": "Joedson Rodrigues Figueira",
+			"value": 2100
+		},
+		{
+			"source": "Joedson Rodrigues Figueira",
+			"target": 49674,
+			"value": 700
+		},
+		{
+			"source": "Joedson Rodrigues Figueira",
+			"target": 49710,
+			"value": 700
+		},
+		{
+			"source": "Joedson Rodrigues Figueira",
+			"target": 49735,
+			"value": 700
+		},
+		{
+			"source": -100,
+			"target": "OI S.A. - EM RECUPERACAO JUDICIAL",
+			"value": 386.14
+		},
+		{
+			"source": "OI S.A. - EM RECUPERACAO JUDICIAL",
+			"target": 49697,
+			"value": 195.88
+		},
+		{
+			"source": "OI S.A. - EM RECUPERACAO JUDICIAL",
+			"target": 49718,
+			"value": 190.26
+		},
+		{
+			"source": -100,
+			"target": "RAKA COMUNICACOES LTDA",
+			"value": 1000
+		},
+		{
+			"source": "RAKA COMUNICACOES LTDA",
+			"target": 49715,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - PASSAREDO",
+			"value": 1118.49
+		},
+		{
+			"source": "Cia Aérea - PASSAREDO",
+			"target": 49757,
+			"value": 1118.49
+		},
+		{
+			"source": -100,
+			"target": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"value": 213.47
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 49691,
+			"value": 213.47
+		},
+		{
+			"source": -100,
+			"target": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"value": 527
+		},
+		{
+			"source": "CONDE & DELL ARINGA - DES DE SOFTWARES",
+			"target": 49708,
+			"value": 527
+		}
+	]
+}

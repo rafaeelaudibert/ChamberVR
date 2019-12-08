@@ -1,0 +1,1785 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ROSE MODESTO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 41.239306400408566,
+			"desc": 1030.1,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 45123,
+			"name": 530.4,
+			"val": 2.7246035153967165,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 45157,
+			"name": 138,
+			"val": 2.1398790864012365,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 45093,
+			"name": 361.7,
+			"val": 2.5583485087616196,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "LATAM AIRLINES GROUP S/A",
+			"name": "LATAM AIRLINES GROUP S/A",
+			"val": 411.0515826499457,
+			"desc": 7933.110000000001,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45146,
+			"name": 970.58,
+			"val": 2.9870313378971227,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45148,
+			"name": 924.78,
+			"val": 2.9660384287931914,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45149,
+			"name": 1483.28,
+			"val": 3.1712231408980465,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45145,
+			"name": 955.38,
+			"val": 2.9801761454876816,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45144,
+			"name": 749.48,
+			"val": 2.874760048117548,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45143,
+			"name": 775.39,
+			"val": 2.8895201957261,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45147,
+			"name": 1082.43,
+			"val": 3.034399820409509,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": 45142,
+			"name": 991.79,
+			"val": 2.996419725081615,
+			"group": "LATAM AIRLINES GROUP S/A"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 644.0747445619771,
+			"desc": 11893.890000000001,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45107,
+			"name": 753.19,
+			"val": 2.876904545314822,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45083,
+			"name": 687.71,
+			"val": 2.8374053394696124,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45081,
+			"name": 901.2,
+			"val": 2.954821183051793,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45140,
+			"name": 1740.79,
+			"val": 3.2407463832126555,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45108,
+			"name": 748.6,
+			"val": 2.874249822778403,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45109,
+			"name": 1262.05,
+			"val": 3.10107656116322,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45077,
+			"name": 727.47,
+			"val": 2.8618150882378757,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45082,
+			"name": 1260.79,
+			"val": 3.1006427555372613,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45079,
+			"name": 1155.89,
+			"val": 3.062916506518713,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45106,
+			"name": 566.44,
+			"val": 2.753153914113024,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45080,
+			"name": 1262.19,
+			"val": 3.1011247350512248,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 45078,
+			"name": 827.57,
+			"val": 2.9178047387957675,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "JEAN CRISTINA SOUZA BORGES - ME",
+			"name": "JEAN CRISTINA SOUZA BORGES - ME",
+			"val": 6.847596547901701,
+			"desc": 220,
+			"group": "JEAN CRISTINA SOUZA BORGES - ME"
+		},
+		{
+			"id": 45102,
+			"name": 220,
+			"val": 2.342422680822206,
+			"group": "JEAN CRISTINA SOUZA BORGES - ME"
+		},
+		{
+			"id": "TROKAR POSTOS DE SERVICOS",
+			"name": "TROKAR POSTOS DE SERVICOS",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "TROKAR POSTOS DE SERVICOS"
+		},
+		{
+			"id": 45171,
+			"name": 100,
+			"val": 2,
+			"group": "TROKAR POSTOS DE SERVICOS"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 3.9358797665820826,
+			"desc": 138.35,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 45116,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 45115,
+			"name": 72.05,
+			"val": 1.857633985150008,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "GOL LINHAS AEREAS S.A.",
+			"name": "GOL LINHAS AEREAS S.A.",
+			"val": 36.69590376930045,
+			"desc": 930.28,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 45141,
+			"name": 930.28,
+			"val": 2.968613684202172,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
+			"name": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
+			"val": 421.826335112116,
+			"desc": 8120,
+			"group": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO"
+		},
+		{
+			"id": 45072,
+			"name": 2030,
+			"val": 3.307496037913213,
+			"group": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO"
+		},
+		{
+			"id": 45155,
+			"name": 2030,
+			"val": 3.307496037913213,
+			"group": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO"
+		},
+		{
+			"id": 45119,
+			"name": 2030,
+			"val": 3.307496037913213,
+			"group": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO"
+		},
+		{
+			"id": 45090,
+			"name": 2030,
+			"val": 3.307496037913213,
+			"group": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 45075,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"val": 28.255911246130218,
+			"desc": 740.98,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 45110,
+			"name": 740.98,
+			"val": 2.8698064859727714,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": "ART MIX COMUNICACOES VISUAIS EIRELI",
+			"name": "ART MIX COMUNICACOES VISUAIS EIRELI",
+			"val": 50.03300731035721,
+			"desc": 1220,
+			"group": "ART MIX COMUNICACOES VISUAIS EIRELI"
+		},
+		{
+			"id": 45100,
+			"name": 1220,
+			"val": 3.0863598306747484,
+			"group": "ART MIX COMUNICACOES VISUAIS EIRELI"
+		},
+		{
+			"id": "TONY RICARDO FRANCISCO",
+			"name": "TONY RICARDO FRANCISCO",
+			"val": 30.86033980727912,
+			"desc": 800,
+			"group": "TONY RICARDO FRANCISCO"
+		},
+		{
+			"id": 45122,
+			"name": 800,
+			"val": 2.9030899869919438,
+			"group": "TONY RICARDO FRANCISCO"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 11.882365846554825,
+			"desc": 351.28,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 45095,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 45096,
+			"name": 201.28,
+			"val": 2.303800623765175,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 17.93115223072823,
+			"desc": 499.99,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 45151,
+			"name": 499.99,
+			"val": 2.6989613183595207,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"val": 267.812863745865,
+			"desc": 5400,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": 45154,
+			"name": 2700,
+			"val": 3.4313637641589874,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": 45117,
+			"name": 2700,
+			"val": 3.4313637641589874,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": "auto posto vivendas do bosque",
+			"name": "auto posto vivendas do bosque",
+			"val": 8.775909936258092,
+			"desc": 271.39,
+			"group": "auto posto vivendas do bosque"
+		},
+		{
+			"id": 45162,
+			"name": 171.39,
+			"val": 2.2339854787802116,
+			"group": "auto posto vivendas do bosque"
+		},
+		{
+			"id": 45126,
+			"name": 100,
+			"val": 2,
+			"group": "auto posto vivendas do bosque"
+		},
+		{
+			"id": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
+			"name": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
+			"val": 18.866183832401944,
+			"desc": 522.38,
+			"group": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA"
+		},
+		{
+			"id": 45170,
+			"name": 222.38,
+			"val": 2.3470957258946687,
+			"group": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA"
+		},
+		{
+			"id": 45167,
+			"name": 100,
+			"val": 2,
+			"group": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA"
+		},
+		{
+			"id": 45168,
+			"name": 100,
+			"val": 2,
+			"group": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA"
+		},
+		{
+			"id": 45169,
+			"name": 100,
+			"val": 2,
+			"group": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA"
+		},
+		{
+			"id": "POSTO KATIA LOCATELLI LTDA",
+			"name": "POSTO KATIA LOCATELLI LTDA",
+			"val": 17.607176948697383,
+			"desc": 492.2,
+			"group": "POSTO KATIA LOCATELLI LTDA"
+		},
+		{
+			"id": 45099,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "POSTO KATIA LOCATELLI LTDA"
+		},
+		{
+			"id": 45098,
+			"name": 242.2,
+			"val": 2.384174138807033,
+			"group": "POSTO KATIA LOCATELLI LTDA"
+		},
+		{
+			"id": "POSTAC AUTO POSTO LTDA",
+			"name": "POSTAC AUTO POSTO LTDA",
+			"val": 4.4592744285324315,
+			"desc": 153.51,
+			"group": "POSTAC AUTO POSTO LTDA"
+		},
+		{
+			"id": 45166,
+			"name": 153.51,
+			"val": 2.18613667169178,
+			"group": "POSTAC AUTO POSTO LTDA"
+		},
+		{
+			"id": "AUTO POSTO TIO SAM LTDA",
+			"name": "AUTO POSTO TIO SAM LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO TIO SAM LTDA"
+		},
+		{
+			"id": 45161,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO TIO SAM LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 1.3301899516935551,
+			"desc": 57.01,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 45153,
+			"name": 57.01,
+			"val": 1.755951041004132,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "POSTO IMPERIAL LTDA",
+			"name": "POSTO IMPERIAL LTDA",
+			"val": 14.350607766501357,
+			"desc": 412.87,
+			"group": "POSTO IMPERIAL LTDA"
+		},
+		{
+			"id": 45130,
+			"name": 262.87,
+			"val": 2.4197410251406506,
+			"group": "POSTO IMPERIAL LTDA"
+		},
+		{
+			"id": 45131,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO IMPERIAL LTDA"
+		},
+		{
+			"id": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
+			"name": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME"
+		},
+		{
+			"id": 45101,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME"
+		},
+		{
+			"id": 45136,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME"
+		},
+		{
+			"id": "aguas guarirobas",
+			"name": "aguas guarirobas",
+			"val": 4.733746791589351,
+			"desc": 161.36,
+			"group": "aguas guarirobas"
+		},
+		{
+			"id": 45118,
+			"name": 63.64,
+			"val": 1.803730170974544,
+			"group": "aguas guarirobas"
+		},
+		{
+			"id": 45089,
+			"name": 97.72,
+			"val": 1.989983458301399,
+			"group": "aguas guarirobas"
+		},
+		{
+			"id": "CLARO S.A.",
+			"name": "CLARO S.A.",
+			"val": 14.875803540106991,
+			"desc": 425.8,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 45073,
+			"name": 81.98,
+			"val": 1.913707913980483,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 45091,
+			"name": 343.82,
+			"val": 2.5363311359839718,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 3.7632697327556928,
+			"desc": 133.29,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 45113,
+			"name": 101.63,
+			"val": 2.0070219255786808,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 45114,
+			"name": 31.66,
+			"val": 1.5005109105263372,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"val": 0.024011272550536485,
+			"desc": 3.4,
+			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
+		},
+		{
+			"id": 45152,
+			"name": 3.4,
+			"val": 0.5314789170422551,
+			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
+		},
+		{
+			"id": "FÁBIO MARCELO DE PAULI",
+			"name": "FÁBIO MARCELO DE PAULI",
+			"val": 844.6204491556732,
+			"desc": 15200,
+			"group": "FÁBIO MARCELO DE PAULI"
+		},
+		{
+			"id": 45074,
+			"name": 3800,
+			"val": 3.57978359661681,
+			"group": "FÁBIO MARCELO DE PAULI"
+		},
+		{
+			"id": 45092,
+			"name": 3800,
+			"val": 3.57978359661681,
+			"group": "FÁBIO MARCELO DE PAULI"
+		},
+		{
+			"id": 45121,
+			"name": 3800,
+			"val": 3.57978359661681,
+			"group": "FÁBIO MARCELO DE PAULI"
+		},
+		{
+			"id": 45156,
+			"name": 3800,
+			"val": 3.57978359661681,
+			"group": "FÁBIO MARCELO DE PAULI"
+		},
+		{
+			"id": "POLIDIGITAL COMUNICACAO VISUAL LTDA",
+			"name": "POLIDIGITAL COMUNICACAO VISUAL LTDA",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "POLIDIGITAL COMUNICACAO VISUAL LTDA"
+		},
+		{
+			"id": 45139,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "POLIDIGITAL COMUNICACAO VISUAL LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 9.396375013330948,
+			"desc": 287.6,
+			"group": "RAMAL"
+		},
+		{
+			"id": 45112,
+			"name": 95.19,
+			"val": 1.9785913268200748,
+			"group": "RAMAL"
+		},
+		{
+			"id": 45150,
+			"name": 68.56,
+			"val": 1.8360708089151418,
+			"group": "RAMAL"
+		},
+		{
+			"id": 45086,
+			"name": 123.85,
+			"val": 2.092896010921856,
+			"group": "RAMAL"
+		},
+		{
+			"id": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE",
+			"name": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE"
+		},
+		{
+			"id": 45163,
+			"name": 100,
+			"val": 2,
+			"group": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE"
+		},
+		{
+			"id": "POSTO EMANUELE LTDA",
+			"name": "POSTO EMANUELE LTDA",
+			"val": 10.895358393815766,
+			"desc": 326.22,
+			"group": "POSTO EMANUELE LTDA"
+		},
+		{
+			"id": 45097,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO EMANUELE LTDA"
+		},
+		{
+			"id": 45129,
+			"name": 176.22,
+			"val": 2.2460551969064437,
+			"group": "POSTO EMANUELE LTDA"
+		},
+		{
+			"id": "ENERGISA   MS",
+			"name": "ENERGISA   MS",
+			"val": 15.841833649061666,
+			"desc": 449.44,
+			"group": "ENERGISA   MS"
+		},
+		{
+			"id": 45120,
+			"name": 449.44,
+			"val": 2.652671721857503,
+			"group": "ENERGISA   MS"
+		},
+		{
+			"id": "POSTO UNIVERSITÁRIO",
+			"name": "POSTO UNIVERSITÁRIO",
+			"val": 5.447419626543535,
+			"desc": 181.49,
+			"group": "POSTO UNIVERSITÁRIO"
+		},
+		{
+			"id": 45135,
+			"name": 181.49,
+			"val": 2.2588527006423034,
+			"group": "POSTO UNIVERSITÁRIO"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 45124,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA",
+			"name": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA",
+			"val": 6.711997074737974,
+			"desc": 216.32,
+			"group": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA"
+		},
+		{
+			"id": 45164,
+			"name": 216.32,
+			"val": 2.3350966742615418,
+			"group": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA"
+		},
+		{
+			"id": "MERCURY COMUNICAÇOES LTDA ME",
+			"name": "MERCURY COMUNICAÇOES LTDA ME",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "MERCURY COMUNICAÇOES LTDA ME"
+		},
+		{
+			"id": 45137,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "MERCURY COMUNICAÇOES LTDA ME"
+		},
+		{
+			"id": 45104,
+			"name": 1000,
+			"val": 3,
+			"group": "MERCURY COMUNICAÇOES LTDA ME"
+		},
+		{
+			"id": "CAFURE & GONÇALVES LTDA",
+			"name": "CAFURE & GONÇALVES LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CAFURE & GONÇALVES LTDA"
+		},
+		{
+			"id": 45128,
+			"name": 100,
+			"val": 2,
+			"group": "CAFURE & GONÇALVES LTDA"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 27.861969126495676,
+			"desc": 732,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 45084,
+			"name": 732,
+			"val": 2.864511081058392,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "AUTO POSTO BERLITZ LTDA",
+			"name": "AUTO POSTO BERLITZ LTDA",
+			"val": 4.68673515779195,
+			"desc": 160.02,
+			"group": "AUTO POSTO BERLITZ LTDA"
+		},
+		{
+			"id": 45159,
+			"name": 160.02,
+			"val": 2.2041742660735197,
+			"group": "AUTO POSTO BERLITZ LTDA"
+		},
+		{
+			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"val": 16.028601283814726,
+			"desc": 453.99,
+			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": 45111,
+			"name": 453.99,
+			"val": 2.6570462867939995,
+			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
+		},
+		{
+			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": 45125,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
+		},
+		{
+			"id": "posto talisma",
+			"name": "posto talisma",
+			"val": 7.032773332426993,
+			"desc": 225.01,
+			"group": "posto talisma"
+		},
+		{
+			"id": 45134,
+			"name": 225.01,
+			"val": 2.352201819659416,
+			"group": "posto talisma"
+		},
+		{
+			"id": "POSTO LOCATELLI MAE E FILHA LTDA",
+			"name": "POSTO LOCATELLI MAE E FILHA LTDA",
+			"val": 17.394630059414165,
+			"desc": 487.08000000000004,
+			"group": "POSTO LOCATELLI MAE E FILHA LTDA"
+		},
+		{
+			"id": 45132,
+			"name": 238.27,
+			"val": 2.377069364819653,
+			"group": "POSTO LOCATELLI MAE E FILHA LTDA"
+		},
+		{
+			"id": 45133,
+			"name": 248.81,
+			"val": 2.3958678312339883,
+			"group": "POSTO LOCATELLI MAE E FILHA LTDA"
+		},
+		{
+			"id": "AHRI SERVICOS PUBLICITARIOS EIRELI",
+			"name": "AHRI SERVICOS PUBLICITARIOS EIRELI",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "AHRI SERVICOS PUBLICITARIOS EIRELI"
+		},
+		{
+			"id": 45076,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "AHRI SERVICOS PUBLICITARIOS EIRELI"
+		},
+		{
+			"id": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
+			"name": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
+			"val": 26.46339111313052,
+			"desc": 700,
+			"group": "JORNAL O ESTADO DE MATO GROSSO DO SUL"
+		},
+		{
+			"id": 45103,
+			"name": 700,
+			"val": 2.845098040014257,
+			"group": "JORNAL O ESTADO DE MATO GROSSO DO SUL"
+		},
+		{
+			"id": "AUTO POSTO PILOTO",
+			"name": "AUTO POSTO PILOTO",
+			"val": 5.861738240349079,
+			"desc": 193.01,
+			"group": "AUTO POSTO PILOTO"
+		},
+		{
+			"id": 45160,
+			"name": 193.01,
+			"val": 2.2855798107295944,
+			"group": "AUTO POSTO PILOTO"
+		},
+		{
+			"id": "AUTO POSTO AMERICA",
+			"name": "AUTO POSTO AMERICA",
+			"val": 7.419584370505159,
+			"desc": 235.42,
+			"group": "AUTO POSTO AMERICA"
+		},
+		{
+			"id": 45158,
+			"name": 235.42,
+			"val": 2.3718433553666967,
+			"group": "AUTO POSTO AMERICA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 0.9804948855949343,
+			"desc": 44.71,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 45085,
+			"name": 44.71,
+			"val": 1.6504046698680317,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"val": 5.912726568512223,
+			"desc": 194.42,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 45127,
+			"name": 194.42,
+			"val": 2.288740938794287,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "cafure & gonçalves ltda",
+			"name": "cafure & gonçalves ltda",
+			"val": 6.115811881688821,
+			"desc": 200.02,
+			"group": "cafure & gonçalves ltda"
+		},
+		{
+			"id": 45094,
+			"name": 200.02,
+			"val": 2.301073422940844,
+			"group": "cafure & gonçalves ltda"
+		},
+		{
+			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"val": 38.26952661012001,
+			"desc": 965,
+			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
+		},
+		{
+			"id": 45088,
+			"name": 965,
+			"val": 2.9845273133437926,
+			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
+		},
+		{
+			"id": "divisa auto posto ltda filial",
+			"name": "divisa auto posto ltda filial",
+			"val": 3.787423806085366,
+			"desc": 134,
+			"group": "divisa auto posto ltda filial"
+		},
+		{
+			"id": 45165,
+			"name": 134,
+			"val": 2.1271047983648077,
+			"group": "divisa auto posto ltda filial"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 17.662855331341994,
+			"desc": 493.54,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 45087,
+			"name": 493.54,
+			"val": 2.693322356752952,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "MS MIDIA INDOOR E OUTDOOR LTDA ME",
+			"name": "MS MIDIA INDOOR E OUTDOOR LTDA ME",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "MS MIDIA INDOOR E OUTDOOR LTDA ME"
+		},
+		{
+			"id": 45105,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "MS MIDIA INDOOR E OUTDOOR LTDA ME"
+		},
+		{
+			"id": 45138,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "MS MIDIA INDOOR E OUTDOOR LTDA ME"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 1030.1
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 45123,
+			"value": 530.4
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 45157,
+			"value": 138
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 45093,
+			"value": 361.7
+		},
+		{
+			"source": -100,
+			"target": "LATAM AIRLINES GROUP S/A",
+			"value": 7933.110000000001
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45146,
+			"value": 970.58
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45148,
+			"value": 924.78
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45149,
+			"value": 1483.28
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45145,
+			"value": 955.38
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45144,
+			"value": 749.48
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45143,
+			"value": 775.39
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45147,
+			"value": 1082.43
+		},
+		{
+			"source": "LATAM AIRLINES GROUP S/A",
+			"target": 45142,
+			"value": 991.79
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 11893.890000000001
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45107,
+			"value": 753.19
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45083,
+			"value": 687.71
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45081,
+			"value": 901.2
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45140,
+			"value": 1740.79
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45108,
+			"value": 748.6
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45109,
+			"value": 1262.05
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45077,
+			"value": 727.47
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45082,
+			"value": 1260.79
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45079,
+			"value": 1155.89
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45106,
+			"value": 566.44
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45080,
+			"value": 1262.19
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 45078,
+			"value": 827.57
+		},
+		{
+			"source": -100,
+			"target": "JEAN CRISTINA SOUZA BORGES - ME",
+			"value": 220
+		},
+		{
+			"source": "JEAN CRISTINA SOUZA BORGES - ME",
+			"target": 45102,
+			"value": 220
+		},
+		{
+			"source": -100,
+			"target": "TROKAR POSTOS DE SERVICOS",
+			"value": 100
+		},
+		{
+			"source": "TROKAR POSTOS DE SERVICOS",
+			"target": 45171,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 138.35
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 45116,
+			"value": 66.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 45115,
+			"value": 72.05
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS S.A.",
+			"value": 930.28
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 45141,
+			"value": 930.28
+		},
+		{
+			"source": -100,
+			"target": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
+			"value": 8120
+		},
+		{
+			"source": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
+			"target": 45072,
+			"value": 2030
+		},
+		{
+			"source": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
+			"target": 45155,
+			"value": 2030
+		},
+		{
+			"source": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
+			"target": 45119,
+			"value": 2030
+		},
+		{
+			"source": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
+			"target": 45090,
+			"value": 2030
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 150
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 45075,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"value": 740.98
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 45110,
+			"value": 740.98
+		},
+		{
+			"source": -100,
+			"target": "ART MIX COMUNICACOES VISUAIS EIRELI",
+			"value": 1220
+		},
+		{
+			"source": "ART MIX COMUNICACOES VISUAIS EIRELI",
+			"target": 45100,
+			"value": 1220
+		},
+		{
+			"source": -100,
+			"target": "TONY RICARDO FRANCISCO",
+			"value": 800
+		},
+		{
+			"source": "TONY RICARDO FRANCISCO",
+			"target": 45122,
+			"value": 800
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 351.28
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 45095,
+			"value": 150
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 45096,
+			"value": 201.28
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 499.99
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 45151,
+			"value": 499.99
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"value": 5400
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"target": 45154,
+			"value": 2700
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"target": 45117,
+			"value": 2700
+		},
+		{
+			"source": -100,
+			"target": "auto posto vivendas do bosque",
+			"value": 271.39
+		},
+		{
+			"source": "auto posto vivendas do bosque",
+			"target": 45162,
+			"value": 171.39
+		},
+		{
+			"source": "auto posto vivendas do bosque",
+			"target": 45126,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
+			"value": 522.38
+		},
+		{
+			"source": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
+			"target": 45170,
+			"value": 222.38
+		},
+		{
+			"source": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
+			"target": 45167,
+			"value": 100
+		},
+		{
+			"source": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
+			"target": 45168,
+			"value": 100
+		},
+		{
+			"source": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
+			"target": 45169,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO KATIA LOCATELLI LTDA",
+			"value": 492.2
+		},
+		{
+			"source": "POSTO KATIA LOCATELLI LTDA",
+			"target": 45099,
+			"value": 250
+		},
+		{
+			"source": "POSTO KATIA LOCATELLI LTDA",
+			"target": 45098,
+			"value": 242.2
+		},
+		{
+			"source": -100,
+			"target": "POSTAC AUTO POSTO LTDA",
+			"value": 153.51
+		},
+		{
+			"source": "POSTAC AUTO POSTO LTDA",
+			"target": 45166,
+			"value": 153.51
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO TIO SAM LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO TIO SAM LTDA",
+			"target": 45161,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 57.01
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 45153,
+			"value": 57.01
+		},
+		{
+			"source": -100,
+			"target": "POSTO IMPERIAL LTDA",
+			"value": 412.87
+		},
+		{
+			"source": "POSTO IMPERIAL LTDA",
+			"target": 45130,
+			"value": 262.87
+		},
+		{
+			"source": "POSTO IMPERIAL LTDA",
+			"target": 45131,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
+			"value": 5000
+		},
+		{
+			"source": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
+			"target": 45101,
+			"value": 2500
+		},
+		{
+			"source": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
+			"target": 45136,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "aguas guarirobas",
+			"value": 161.36
+		},
+		{
+			"source": "aguas guarirobas",
+			"target": 45118,
+			"value": 63.64
+		},
+		{
+			"source": "aguas guarirobas",
+			"target": 45089,
+			"value": 97.72
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A.",
+			"value": 425.8
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 45073,
+			"value": 81.98
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 45091,
+			"value": 343.82
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 133.29
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 45113,
+			"value": 101.63
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 45114,
+			"value": 31.66
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"value": 3.4
+		},
+		{
+			"source": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
+			"target": 45152,
+			"value": 3.4
+		},
+		{
+			"source": -100,
+			"target": "FÁBIO MARCELO DE PAULI",
+			"value": 15200
+		},
+		{
+			"source": "FÁBIO MARCELO DE PAULI",
+			"target": 45074,
+			"value": 3800
+		},
+		{
+			"source": "FÁBIO MARCELO DE PAULI",
+			"target": 45092,
+			"value": 3800
+		},
+		{
+			"source": "FÁBIO MARCELO DE PAULI",
+			"target": 45121,
+			"value": 3800
+		},
+		{
+			"source": "FÁBIO MARCELO DE PAULI",
+			"target": 45156,
+			"value": 3800
+		},
+		{
+			"source": -100,
+			"target": "POLIDIGITAL COMUNICACAO VISUAL LTDA",
+			"value": 1500
+		},
+		{
+			"source": "POLIDIGITAL COMUNICACAO VISUAL LTDA",
+			"target": 45139,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 287.6
+		},
+		{
+			"source": "RAMAL",
+			"target": 45112,
+			"value": 95.19
+		},
+		{
+			"source": "RAMAL",
+			"target": 45150,
+			"value": 68.56
+		},
+		{
+			"source": "RAMAL",
+			"target": 45086,
+			"value": 123.85
+		},
+		{
+			"source": -100,
+			"target": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE",
+			"value": 100
+		},
+		{
+			"source": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE",
+			"target": 45163,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POSTO EMANUELE LTDA",
+			"value": 326.22
+		},
+		{
+			"source": "POSTO EMANUELE LTDA",
+			"target": 45097,
+			"value": 150
+		},
+		{
+			"source": "POSTO EMANUELE LTDA",
+			"target": 45129,
+			"value": 176.22
+		},
+		{
+			"source": -100,
+			"target": "ENERGISA   MS",
+			"value": 449.44
+		},
+		{
+			"source": "ENERGISA   MS",
+			"target": 45120,
+			"value": 449.44
+		},
+		{
+			"source": -100,
+			"target": "POSTO UNIVERSITÁRIO",
+			"value": 181.49
+		},
+		{
+			"source": "POSTO UNIVERSITÁRIO",
+			"target": 45135,
+			"value": 181.49
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 45124,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA",
+			"value": 216.32
+		},
+		{
+			"source": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA",
+			"target": 45164,
+			"value": 216.32
+		},
+		{
+			"source": -100,
+			"target": "MERCURY COMUNICAÇOES LTDA ME",
+			"value": 3000
+		},
+		{
+			"source": "MERCURY COMUNICAÇOES LTDA ME",
+			"target": 45137,
+			"value": 2000
+		},
+		{
+			"source": "MERCURY COMUNICAÇOES LTDA ME",
+			"target": 45104,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "CAFURE & GONÇALVES LTDA",
+			"value": 100
+		},
+		{
+			"source": "CAFURE & GONÇALVES LTDA",
+			"target": 45128,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 732
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 45084,
+			"value": 732
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BERLITZ LTDA",
+			"value": 160.02
+		},
+		{
+			"source": "AUTO POSTO BERLITZ LTDA",
+			"target": 45159,
+			"value": 160.02
+		},
+		{
+			"source": -100,
+			"target": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"value": 453.99
+		},
+		{
+			"source": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
+			"target": 45111,
+			"value": 453.99
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO GOLDEN GAS 202 LTDA",
+			"target": 45125,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "posto talisma",
+			"value": 225.01
+		},
+		{
+			"source": "posto talisma",
+			"target": 45134,
+			"value": 225.01
+		},
+		{
+			"source": -100,
+			"target": "POSTO LOCATELLI MAE E FILHA LTDA",
+			"value": 487.08000000000004
+		},
+		{
+			"source": "POSTO LOCATELLI MAE E FILHA LTDA",
+			"target": 45132,
+			"value": 238.27
+		},
+		{
+			"source": "POSTO LOCATELLI MAE E FILHA LTDA",
+			"target": 45133,
+			"value": 248.81
+		},
+		{
+			"source": -100,
+			"target": "AHRI SERVICOS PUBLICITARIOS EIRELI",
+			"value": 3000
+		},
+		{
+			"source": "AHRI SERVICOS PUBLICITARIOS EIRELI",
+			"target": 45076,
+			"value": 3000
+		},
+		{
+			"source": -100,
+			"target": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
+			"value": 700
+		},
+		{
+			"source": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
+			"target": 45103,
+			"value": 700
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO PILOTO",
+			"value": 193.01
+		},
+		{
+			"source": "AUTO POSTO PILOTO",
+			"target": 45160,
+			"value": 193.01
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AMERICA",
+			"value": 235.42
+		},
+		{
+			"source": "AUTO POSTO AMERICA",
+			"target": 45158,
+			"value": 235.42
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 44.71
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 45085,
+			"value": 44.71
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"value": 194.42
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 45127,
+			"value": 194.42
+		},
+		{
+			"source": -100,
+			"target": "cafure & gonçalves ltda",
+			"value": 200.02
+		},
+		{
+			"source": "cafure & gonçalves ltda",
+			"target": 45094,
+			"value": 200.02
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"value": 965
+		},
+		{
+			"source": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"target": 45088,
+			"value": 965
+		},
+		{
+			"source": -100,
+			"target": "divisa auto posto ltda filial",
+			"value": 134
+		},
+		{
+			"source": "divisa auto posto ltda filial",
+			"target": 45165,
+			"value": 134
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 493.54
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 45087,
+			"value": 493.54
+		},
+		{
+			"source": -100,
+			"target": "MS MIDIA INDOOR E OUTDOOR LTDA ME",
+			"value": 5000
+		},
+		{
+			"source": "MS MIDIA INDOOR E OUTDOOR LTDA ME",
+			"target": 45105,
+			"value": 2500
+		},
+		{
+			"source": "MS MIDIA INDOOR E OUTDOOR LTDA ME",
+			"target": 45138,
+			"value": 2500
+		}
+	]
+}

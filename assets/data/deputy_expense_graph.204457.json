@@ -1,0 +1,1509 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "JUNINHO DO PNEU"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 662.0425166994582,
+			"desc": 12193.380000000001,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28617,
+			"name": 1597.25,
+			"val": 3.2033728968041775,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28618,
+			"name": 1566.9,
+			"val": 3.195041280556656,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28621,
+			"name": 513.39,
+			"val": 2.71044740506952,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28619,
+			"name": 1646.39,
+			"val": 3.2165327195672835,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28622,
+			"name": 344.39,
+			"val": 2.537050532421945,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28620,
+			"name": 780.39,
+			"val": 2.8923116956627104,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28624,
+			"name": 780.39,
+			"val": 2.8923116956627104,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28666,
+			"name": 1134.25,
+			"val": 3.054708787938054,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28625,
+			"name": 344.39,
+			"val": 2.537050532421945,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28623,
+			"name": 383,
+			"val": 2.583198773968623,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28616,
+			"name": 2002.39,
+			"val": 3.3015486677249855,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 28615,
+			"name": 1100.25,
+			"val": 3.0414913772349825,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1270.475203948843,
+			"desc": 22016.639999999992,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28605,
+			"name": 1385.39,
+			"val": 3.141572048494632,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28653,
+			"name": 536.85,
+			"val": 2.7298529574456856,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28654,
+			"name": 569.39,
+			"val": 2.755409835513859,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28662,
+			"name": 536.85,
+			"val": 2.7298529574456856,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28614,
+			"name": -1757.1,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28651,
+			"name": 871.39,
+			"val": 2.940212571700563,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28612,
+			"name": 1975.39,
+			"val": 3.2956528509128877,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28661,
+			"name": 393.39,
+			"val": 2.5948233159289775,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28603,
+			"name": 1848.85,
+			"val": 3.26690167761951,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28657,
+			"name": 536.85,
+			"val": 2.7298529574456856,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28658,
+			"name": 871.39,
+			"val": 2.940212571700563,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28608,
+			"name": 1975.39,
+			"val": 3.2956528509128877,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28656,
+			"name": 463.39,
+			"val": 2.6659466574391115,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28649,
+			"name": 393.39,
+			"val": 2.5948233159289775,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28613,
+			"name": 478.85,
+			"val": 2.6801994917560195,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28655,
+			"name": 871.39,
+			"val": 2.940212571700563,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28664,
+			"name": 808.85,
+			"val": 2.907867989829385,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28665,
+			"name": -456.55,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28663,
+			"name": 697.85,
+			"val": 2.8437620828337336,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28609,
+			"name": 1260.25,
+			"val": 3.100456706110188,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28659,
+			"name": 430.85,
+			"val": 2.634326097281592,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28611,
+			"name": 1022.85,
+			"val": 3.0098119495003144,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28604,
+			"name": 1847.85,
+			"val": 3.266666714277883,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28650,
+			"name": 760.39,
+			"val": 2.88103639676077,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28652,
+			"name": 669.85,
+			"val": 2.8259775617073455,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28610,
+			"name": 536.85,
+			"val": 2.7298529574456856,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28606,
+			"name": 809.85,
+			"val": 2.908404586526924,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28607,
+			"name": 1006.85,
+			"val": 3.0029647744020616,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 28660,
+			"name": 669.85,
+			"val": 2.8259775617073455,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
+			"name": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
+			"val": 121.0535200433342,
+			"desc": 2660,
+			"group": "OMEGA LOCADORA DE VEÍCULOS LTDA ME"
+		},
+		{
+			"id": 28647,
+			"name": 2660,
+			"val": 3.424881636631067,
+			"group": "OMEGA LOCADORA DE VEÍCULOS LTDA ME"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 13.090681005262946,
+			"desc": 381.61,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28640,
+			"name": 33.65,
+			"val": 1.5269850685599957,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28686,
+			"name": 91.51,
+			"val": 1.9614685553507862,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28685,
+			"name": 0.13,
+			"val": -0.8860566476931632,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28687,
+			"name": 40.14,
+			"val": 1.6035773681514667,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28599,
+			"name": 45.02,
+			"val": 1.6534054906645013,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28688,
+			"name": 1.87,
+			"val": 0.27184160653649897,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28639,
+			"name": 34.43,
+			"val": 1.5369370227046735,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28642,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 28641,
+			"name": 94.7,
+			"val": 1.9763499790032735,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"name": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"val": 45.31392708364297,
+			"desc": 1118.59,
+			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 28596,
+			"name": 251.23,
+			"val": 2.4000714983474967,
+			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 28636,
+			"name": 121.05,
+			"val": 2.0829647937777516,
+			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 28595,
+			"name": 240,
+			"val": 2.380211241711606,
+			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 28594,
+			"name": 185,
+			"val": 2.2671717284030137,
+			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 28593,
+			"name": 101.3,
+			"val": 2.0056094453602804,
+			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 28679,
+			"name": 220.01,
+			"val": 2.3424424210318366,
+			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"val": 12.195291284661968,
+			"desc": 359.16999999999996,
+			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
+		},
+		{
+			"id": 28676,
+			"name": 173.04,
+			"val": 2.238146506431035,
+			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
+		},
+		{
+			"id": 28677,
+			"name": 186.13,
+			"val": 2.269816377345824,
+			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 0.9149390053656185,
+			"desc": 42.33,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 28601,
+			"name": 42.33,
+			"val": 1.6266482684740102,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "auto posto liderança de nova iguaçu",
+			"name": "auto posto liderança de nova iguaçu",
+			"val": 17.470978515429756,
+			"desc": 488.91999999999996,
+			"group": "auto posto liderança de nova iguaçu"
+		},
+		{
+			"id": 28592,
+			"name": 249.98,
+			"val": 2.397905263723669,
+			"group": "auto posto liderança de nova iguaçu"
+		},
+		{
+			"id": 28670,
+			"name": 238.94,
+			"val": 2.378288859356929,
+			"group": "auto posto liderança de nova iguaçu"
+		},
+		{
+			"id": "POSTO DE GASOLINA DO NETINHO LTDA",
+			"name": "POSTO DE GASOLINA DO NETINHO LTDA",
+			"val": 31.48322290156411,
+			"desc": 814.03,
+			"group": "POSTO DE GASOLINA DO NETINHO LTDA"
+		},
+		{
+			"id": 28598,
+			"name": 311.29,
+			"val": 2.4931651694631913,
+			"group": "POSTO DE GASOLINA DO NETINHO LTDA"
+		},
+		{
+			"id": 28637,
+			"name": 255.01,
+			"val": 2.406557211256173,
+			"group": "POSTO DE GASOLINA DO NETINHO LTDA"
+		},
+		{
+			"id": 28597,
+			"name": 247.73,
+			"val": 2.3939786026517718,
+			"group": "POSTO DE GASOLINA DO NETINHO LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 45.24543738511966,
+			"desc": 1117.11,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 28674,
+			"name": 95.13,
+			"val": 1.9783174967467512,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 28634,
+			"name": 218.52,
+			"val": 2.3394911918425447,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 28635,
+			"name": 210.03,
+			"val": 2.3222813323716083,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 28673,
+			"name": 237.24,
+			"val": 2.3751879153612974,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 28633,
+			"name": 212.18,
+			"val": 2.3267044450743257,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 28675,
+			"name": 144.01,
+			"val": 2.15839265038712,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 150.3453373406065,
+			"desc": 3224.9,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 28667,
+			"name": 1089.8,
+			"val": 3.03734680356809,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 28591,
+			"name": 1441,
+			"val": 3.1586639808139894,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 28627,
+			"name": 694.1,
+			"val": 2.8414220444023592,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "AUTO POSTO PADDOCK CLUB",
+			"name": "AUTO POSTO PADDOCK CLUB",
+			"val": 14.547742913658368,
+			"desc": 417.73,
+			"group": "AUTO POSTO PADDOCK CLUB"
+		},
+		{
+			"id": 28671,
+			"name": 267.73,
+			"val": 2.4276970379948093,
+			"group": "AUTO POSTO PADDOCK CLUB"
+		},
+		{
+			"id": 28632,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO PADDOCK CLUB"
+		},
+		{
+			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"val": 27.320354334905243,
+			"desc": 719.63,
+			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
+		},
+		{
+			"id": 28602,
+			"name": 719.63,
+			"val": 2.8571092599582273,
+			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
+		},
+		{
+			"id": "POSTO DE GAS NATURAL LAMACAES LTDA",
+			"name": "POSTO DE GAS NATURAL LAMACAES LTDA",
+			"val": 6.993170044548988,
+			"desc": 223.94,
+			"group": "POSTO DE GAS NATURAL LAMACAES LTDA"
+		},
+		{
+			"id": 28683,
+			"name": 223.94,
+			"val": 2.3501316738725384,
+			"group": "POSTO DE GAS NATURAL LAMACAES LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.2506632414356758,
+			"desc": 87.27000000000001,
+			"group": "RAMAL"
+		},
+		{
+			"id": 28643,
+			"name": 51.42,
+			"val": 1.7111320723068417,
+			"group": "RAMAL"
+		},
+		{
+			"id": 28600,
+			"name": 35.85,
+			"val": 1.5544891600038189,
+			"group": "RAMAL"
+		},
+		{
+			"id": "AUTO POSTO VIA IGUACU LTDA",
+			"name": "AUTO POSTO VIA IGUACU LTDA",
+			"val": 8.38113386041896,
+			"desc": 261,
+			"group": "AUTO POSTO VIA IGUACU LTDA"
+		},
+		{
+			"id": 28672,
+			"name": 261,
+			"val": 2.416640507338281,
+			"group": "AUTO POSTO VIA IGUACU LTDA"
+		},
+		{
+			"id": "TESSIER RESTAURANTE EIRELI EPP",
+			"name": "TESSIER RESTAURANTE EIRELI EPP",
+			"val": 3.253936361376744,
+			"desc": 118.16,
+			"group": "TESSIER RESTAURANTE EIRELI EPP"
+		},
+		{
+			"id": 28646,
+			"name": 118.16,
+			"val": 2.072470482303893,
+			"group": "TESSIER RESTAURANTE EIRELI EPP"
+		},
+		{
+			"id": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI",
+			"name": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI",
+			"val": 27.320354334905243,
+			"desc": 719.63,
+			"group": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI"
+		},
+		{
+			"id": 28645,
+			"name": 719.63,
+			"val": 2.8571092599582273,
+			"group": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI"
+		},
+		{
+			"id": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
+			"name": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
+			"val": 22.788387380758763,
+			"desc": 614.95,
+			"group": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA"
+		},
+		{
+			"id": 28630,
+			"name": 172.01,
+			"val": 2.2355536958527553,
+			"group": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA"
+		},
+		{
+			"id": 28628,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA"
+		},
+		{
+			"id": 28629,
+			"name": 242.94,
+			"val": 2.385499027152057,
+			"group": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA"
+		},
+		{
+			"id": "NOVO AUTO POSTO SANTA MONICA LTDA",
+			"name": "NOVO AUTO POSTO SANTA MONICA LTDA",
+			"val": 6.848334477528058,
+			"desc": 220.01999999999998,
+			"group": "NOVO AUTO POSTO SANTA MONICA LTDA"
+		},
+		{
+			"id": 28680,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "NOVO AUTO POSTO SANTA MONICA LTDA"
+		},
+		{
+			"id": 28681,
+			"name": 70.02,
+			"val": 1.8452221064290137,
+			"group": "NOVO AUTO POSTO SANTA MONICA LTDA"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 28682,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA",
+			"name": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA",
+			"val": 3.422090742296588,
+			"desc": 123.19,
+			"group": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA"
+		},
+		{
+			"id": 28684,
+			"name": 123.19,
+			"val": 2.0905754552222016,
+			"group": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA"
+		},
+		{
+			"id": "MANOEL PORTUGUES DA CUNHA",
+			"name": "MANOEL PORTUGUES DA CUNHA",
+			"val": 35.329612288381334,
+			"desc": 900,
+			"group": "MANOEL PORTUGUES DA CUNHA"
+		},
+		{
+			"id": 28626,
+			"name": 900,
+			"val": 2.9542425094393248,
+			"group": "MANOEL PORTUGUES DA CUNHA"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 12.99975070043388,
+			"desc": 379.34,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 28589,
+			"name": 379.34,
+			"val": 2.5790286398642697,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "AUTO POSTO DE SERVIÇOS VIA DUTRA",
+			"name": "AUTO POSTO DE SERVIÇOS VIA DUTRA",
+			"val": 7.965784284662087,
+			"desc": 250,
+			"group": "AUTO POSTO DE SERVIÇOS VIA DUTRA"
+		},
+		{
+			"id": 28669,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "AUTO POSTO DE SERVIÇOS VIA DUTRA"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 2.0208430726676503,
+			"desc": 79.93,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 28668,
+			"name": 79.93,
+			"val": 1.9027098129698772,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
+			"name": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
+			"val": 8.948372645953071,
+			"desc": 275.91,
+			"group": "POSTO DE GASOLINA LORD BARRA SUL LTDA"
+		},
+		{
+			"id": 28638,
+			"name": 275.91,
+			"val": 2.440767441204506,
+			"group": "POSTO DE GASOLINA LORD BARRA SUL LTDA"
+		},
+		{
+			"id": "RAIMUNDO E SANTOS COMERCIO DE PNEU",
+			"name": "RAIMUNDO E SANTOS COMERCIO DE PNEU",
+			"val": 329.3218240728827,
+			"desc": 6500,
+			"group": "RAIMUNDO E SANTOS COMERCIO DE PNEU"
+		},
+		{
+			"id": 28648,
+			"name": 6500,
+			"val": 3.8129133566428557,
+			"group": "RAIMUNDO E SANTOS COMERCIO DE PNEU"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 7.62877377166475,
+			"desc": 241.02,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 28678,
+			"name": 241.02,
+			"val": 2.382053082115315,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO DOM VITAL LTDA",
+			"name": "AUTO POSTO DOM VITAL LTDA",
+			"val": 7.292578391763512,
+			"desc": 232.01,
+			"group": "AUTO POSTO DOM VITAL LTDA"
+		},
+		{
+			"id": 28631,
+			"name": 232.01,
+			"val": 2.365506704077209,
+			"group": "AUTO POSTO DOM VITAL LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 18.58453824913424,
+			"desc": 515.65,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 28644,
+			"name": 515.65,
+			"val": 2.712355022085704,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "agencia de turismo julitur LTDA-ME",
+			"name": "agencia de turismo julitur LTDA-ME",
+			"val": 197.13986186327546,
+			"desc": 4105.89,
+			"group": "agencia de turismo julitur LTDA-ME"
+		},
+		{
+			"id": 28590,
+			"name": 4105.89,
+			"val": 3.6134073101020516,
+			"group": "agencia de turismo julitur LTDA-ME"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 12193.380000000001
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28617,
+			"value": 1597.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28618,
+			"value": 1566.9
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28621,
+			"value": 513.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28619,
+			"value": 1646.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28622,
+			"value": 344.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28620,
+			"value": 780.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28624,
+			"value": 780.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28666,
+			"value": 1134.25
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28625,
+			"value": 344.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28623,
+			"value": 383
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28616,
+			"value": 2002.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 28615,
+			"value": 1100.25
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 22016.639999999992
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28605,
+			"value": 1385.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28653,
+			"value": 536.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28654,
+			"value": 569.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28662,
+			"value": 536.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28614,
+			"value": -1757.1
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28651,
+			"value": 871.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28612,
+			"value": 1975.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28661,
+			"value": 393.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28603,
+			"value": 1848.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28657,
+			"value": 536.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28658,
+			"value": 871.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28608,
+			"value": 1975.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28656,
+			"value": 463.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28649,
+			"value": 393.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28613,
+			"value": 478.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28655,
+			"value": 871.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28664,
+			"value": 808.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28665,
+			"value": -456.55
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28663,
+			"value": 697.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28609,
+			"value": 1260.25
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28659,
+			"value": 430.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28611,
+			"value": 1022.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28604,
+			"value": 1847.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28650,
+			"value": 760.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28652,
+			"value": 669.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28610,
+			"value": 536.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28606,
+			"value": 809.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28607,
+			"value": 1006.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 28660,
+			"value": 669.85
+		},
+		{
+			"source": -100,
+			"target": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
+			"value": 2660
+		},
+		{
+			"source": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
+			"target": 28647,
+			"value": 2660
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 381.61
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28640,
+			"value": 33.65
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28686,
+			"value": 91.51
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28685,
+			"value": 0.13
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28687,
+			"value": 40.14
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28599,
+			"value": 45.02
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28688,
+			"value": 1.87
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28639,
+			"value": 34.43
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28642,
+			"value": 40.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 28641,
+			"value": 94.7
+		},
+		{
+			"source": -100,
+			"target": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"value": 1118.59
+		},
+		{
+			"source": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"target": 28596,
+			"value": 251.23
+		},
+		{
+			"source": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"target": 28636,
+			"value": 121.05
+		},
+		{
+			"source": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"target": 28595,
+			"value": 240
+		},
+		{
+			"source": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"target": 28594,
+			"value": 185
+		},
+		{
+			"source": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"target": 28593,
+			"value": 101.3
+		},
+		{
+			"source": "M RIBEIRO COMBUSTIVEIS LTDA",
+			"target": 28679,
+			"value": 220.01
+		},
+		{
+			"source": -100,
+			"target": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"value": 359.16999999999996
+		},
+		{
+			"source": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"target": 28676,
+			"value": 173.04
+		},
+		{
+			"source": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"target": 28677,
+			"value": 186.13
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 42.33
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 28601,
+			"value": 42.33
+		},
+		{
+			"source": -100,
+			"target": "auto posto liderança de nova iguaçu",
+			"value": 488.91999999999996
+		},
+		{
+			"source": "auto posto liderança de nova iguaçu",
+			"target": 28592,
+			"value": 249.98
+		},
+		{
+			"source": "auto posto liderança de nova iguaçu",
+			"target": 28670,
+			"value": 238.94
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA DO NETINHO LTDA",
+			"value": 814.03
+		},
+		{
+			"source": "POSTO DE GASOLINA DO NETINHO LTDA",
+			"target": 28598,
+			"value": 311.29
+		},
+		{
+			"source": "POSTO DE GASOLINA DO NETINHO LTDA",
+			"target": 28637,
+			"value": 255.01
+		},
+		{
+			"source": "POSTO DE GASOLINA DO NETINHO LTDA",
+			"target": 28597,
+			"value": 247.73
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1117.11
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 28674,
+			"value": 95.13
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 28634,
+			"value": 218.52
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 28635,
+			"value": 210.03
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 28673,
+			"value": 237.24
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 28633,
+			"value": 212.18
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 28675,
+			"value": 144.01
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 3224.9
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 28667,
+			"value": 1089.8
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 28591,
+			"value": 1441
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 28627,
+			"value": 694.1
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO PADDOCK CLUB",
+			"value": 417.73
+		},
+		{
+			"source": "AUTO POSTO PADDOCK CLUB",
+			"target": 28671,
+			"value": 267.73
+		},
+		{
+			"source": "AUTO POSTO PADDOCK CLUB",
+			"target": 28632,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"value": 719.63
+		},
+		{
+			"source": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"target": 28602,
+			"value": 719.63
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GAS NATURAL LAMACAES LTDA",
+			"value": 223.94
+		},
+		{
+			"source": "POSTO DE GAS NATURAL LAMACAES LTDA",
+			"target": 28683,
+			"value": 223.94
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 87.27000000000001
+		},
+		{
+			"source": "RAMAL",
+			"target": 28643,
+			"value": 51.42
+		},
+		{
+			"source": "RAMAL",
+			"target": 28600,
+			"value": 35.85
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO VIA IGUACU LTDA",
+			"value": 261
+		},
+		{
+			"source": "AUTO POSTO VIA IGUACU LTDA",
+			"target": 28672,
+			"value": 261
+		},
+		{
+			"source": -100,
+			"target": "TESSIER RESTAURANTE EIRELI EPP",
+			"value": 118.16
+		},
+		{
+			"source": "TESSIER RESTAURANTE EIRELI EPP",
+			"target": 28646,
+			"value": 118.16
+		},
+		{
+			"source": -100,
+			"target": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI",
+			"value": 719.63
+		},
+		{
+			"source": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI",
+			"target": 28645,
+			"value": 719.63
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
+			"value": 614.95
+		},
+		{
+			"source": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
+			"target": 28630,
+			"value": 172.01
+		},
+		{
+			"source": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
+			"target": 28628,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
+			"target": 28629,
+			"value": 242.94
+		},
+		{
+			"source": -100,
+			"target": "NOVO AUTO POSTO SANTA MONICA LTDA",
+			"value": 220.01999999999998
+		},
+		{
+			"source": "NOVO AUTO POSTO SANTA MONICA LTDA",
+			"target": 28680,
+			"value": 150
+		},
+		{
+			"source": "NOVO AUTO POSTO SANTA MONICA LTDA",
+			"target": 28681,
+			"value": 70.02
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 200
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 28682,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA",
+			"value": 123.19
+		},
+		{
+			"source": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA",
+			"target": 28684,
+			"value": 123.19
+		},
+		{
+			"source": -100,
+			"target": "MANOEL PORTUGUES DA CUNHA",
+			"value": 900
+		},
+		{
+			"source": "MANOEL PORTUGUES DA CUNHA",
+			"target": 28626,
+			"value": 900
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 379.34
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 28589,
+			"value": 379.34
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DE SERVIÇOS VIA DUTRA",
+			"value": 250
+		},
+		{
+			"source": "AUTO POSTO DE SERVIÇOS VIA DUTRA",
+			"target": 28669,
+			"value": 250
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 79.93
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 28668,
+			"value": 79.93
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
+			"value": 275.91
+		},
+		{
+			"source": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
+			"target": 28638,
+			"value": 275.91
+		},
+		{
+			"source": -100,
+			"target": "RAIMUNDO E SANTOS COMERCIO DE PNEU",
+			"value": 6500
+		},
+		{
+			"source": "RAIMUNDO E SANTOS COMERCIO DE PNEU",
+			"target": 28648,
+			"value": 6500
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 241.02
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 28678,
+			"value": 241.02
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DOM VITAL LTDA",
+			"value": 232.01
+		},
+		{
+			"source": "AUTO POSTO DOM VITAL LTDA",
+			"target": 28631,
+			"value": 232.01
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 515.65
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 28644,
+			"value": 515.65
+		},
+		{
+			"source": -100,
+			"target": "agencia de turismo julitur LTDA-ME",
+			"value": 4105.89
+		},
+		{
+			"source": "agencia de turismo julitur LTDA-ME",
+			"target": 28590,
+			"value": 4105.89
+		}
+	]
+}

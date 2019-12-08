@@ -1,0 +1,1581 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "BETO ROSADO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 34.240533947568615,
+			"desc": 875.77,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 6755,
+			"name": 387.65,
+			"val": 2.5884397883055263,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 6716,
+			"name": 488.12,
+			"val": 2.688526602599545,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 6680,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 6679,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "AUTO POSTO MACEDO",
+			"name": "AUTO POSTO MACEDO",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO MACEDO"
+		},
+		{
+			"id": 6703,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO MACEDO"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 38.545841099594064,
+			"desc": 971.08,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 6751,
+			"name": 971.08,
+			"val": 2.9872550096478427,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"name": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": 6748,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": "NET CLARO",
+			"name": "NET CLARO",
+			"val": 14.17808168202523,
+			"desc": 408.61,
+			"group": "NET CLARO"
+		},
+		{
+			"id": 6677,
+			"name": 408.61,
+			"val": 2.6113089910083125,
+			"group": "NET CLARO"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 322.6455377754242,
+			"desc": 6381.59,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 6736,
+			"name": 1637.39,
+			"val": 3.214152133703424,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 6738,
+			"name": 1186.11,
+			"val": 3.0741249674243076,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 6698,
+			"name": 1575.39,
+			"val": 3.197388084399387,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 6737,
+			"name": 978.49,
+			"val": 2.9905563916015714,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 6699,
+			"name": 851.39,
+			"val": 2.9301285448658723,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 6700,
+			"name": 152.82,
+			"val": 2.184180195347259,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 36.15871560981686,
+			"desc": 918.39,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 6722,
+			"name": 73.31,
+			"val": 1.8651632195060863,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 6719,
+			"name": 56.39,
+			"val": 1.751202094588353,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 6721,
+			"name": 73.31,
+			"val": 1.8651632195060863,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 6720,
+			"name": 715.38,
+			"val": 2.8545367943381765,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 277.4941744799536,
+			"desc": 5574.57,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6695,
+			"name": 668.98,
+			"val": 2.8254131341811646,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6734,
+			"name": 740.98,
+			"val": 2.8698064859727714,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6733,
+			"name": 1739.11,
+			"val": 3.240327052320227,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6697,
+			"name": -166.24,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6735,
+			"name": 740.98,
+			"val": 2.8698064859727714,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6696,
+			"name": -746.33,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6693,
+			"name": 1111.39,
+			"val": 3.045866484797428,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 6694,
+			"name": 1485.7,
+			"val": 3.171931123355967,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "HOTEL SABINO PALACE LTDA.",
+			"name": "HOTEL SABINO PALACE LTDA.",
+			"val": 15.52268968825872,
+			"desc": 441.65,
+			"group": "HOTEL SABINO PALACE LTDA."
+		},
+		{
+			"id": 6763,
+			"name": 121.65,
+			"val": 2.0851121132668373,
+			"group": "HOTEL SABINO PALACE LTDA."
+		},
+		{
+			"id": 6683,
+			"name": 320,
+			"val": 2.505149978319906,
+			"group": "HOTEL SABINO PALACE LTDA."
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 69.75828123226472,
+			"desc": 1633.83,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6714,
+			"name": 355.58,
+			"val": 2.550937325599899,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6713,
+			"name": 0.23,
+			"val": -0.638272163982407,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6676,
+			"name": 26,
+			"val": 1.414973347970818,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6715,
+			"name": 29.7,
+			"val": 1.4727564493172123,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6675,
+			"name": 565.12,
+			"val": 2.7521406775614556,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6754,
+			"name": 7.98,
+			"val": 0.9020028913507294,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6753,
+			"name": 446.47,
+			"val": 2.649792282323836,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6674,
+			"name": 0.05,
+			"val": -1.3010299956639813,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 6752,
+			"name": 202.7,
+			"val": 2.3068537486930087,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "ALTO POSTO PASSA E FICA EIRELI",
+			"name": "ALTO POSTO PASSA E FICA EIRELI",
+			"val": 12.971326015812181,
+			"desc": 378.63,
+			"group": "ALTO POSTO PASSA E FICA EIRELI"
+		},
+		{
+			"id": 6702,
+			"name": 100,
+			"val": 2,
+			"group": "ALTO POSTO PASSA E FICA EIRELI"
+		},
+		{
+			"id": 6701,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "ALTO POSTO PASSA E FICA EIRELI"
+		},
+		{
+			"id": 6739,
+			"name": 161.23,
+			"val": 2.2074458539842516,
+			"group": "ALTO POSTO PASSA E FICA EIRELI"
+		},
+		{
+			"id": 6740,
+			"name": 67.4,
+			"val": 1.8286598965353198,
+			"group": "ALTO POSTO PASSA E FICA EIRELI"
+		},
+		{
+			"id": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"name": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"val": 5.878727766436847,
+			"desc": 193.48,
+			"group": "AUTO POSTO GOLDEN GAS NB LTDA"
+		},
+		{
+			"id": 6667,
+			"name": 193.48,
+			"val": 2.2866360787164175,
+			"group": "AUTO POSTO GOLDEN GAS NB LTDA"
+		},
+		{
+			"id": "POSTO SR COMBUSTIVEIS LTDA",
+			"name": "POSTO SR COMBUSTIVEIS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO SR COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 6745,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO SR COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 6746,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO SR COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 435.34394600023495,
+			"desc": 8353.86,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6729,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6732,
+			"name": -1337.01,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6731,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6725,
+			"name": 1203.49,
+			"val": 3.0804424860004445,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6692,
+			"name": -1154.29,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6689,
+			"name": 1106.21,
+			"val": 3.043837580118673,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6686,
+			"name": 905.58,
+			"val": 2.9569268224290544,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6726,
+			"name": 1203.49,
+			"val": 3.0804424860004445,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6690,
+			"name": 25,
+			"val": 1.3979400086720377,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6728,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6727,
+			"name": 1213.49,
+			"val": 3.0840362017946834,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6688,
+			"name": 1213.49,
+			"val": 3.0840362017946834,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6730,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6724,
+			"name": 1406.21,
+			"val": 3.1480501820144804,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6685,
+			"name": 803.99,
+			"val": 2.905250647042198,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6691,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 6687,
+			"name": 1606.21,
+			"val": 3.205802325425202,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
+			"name": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
+			"val": 1301.1873642892585,
+			"desc": 22500,
+			"group": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA."
+		},
+		{
+			"id": 6764,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA."
+		},
+		{
+			"id": 6723,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA."
+		},
+		{
+			"id": 6684,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA."
+		},
+		{
+			"id": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 2.984785184126971,
+			"desc": 110.03,
+			"group": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 6708,
+			"name": 110.03,
+			"val": 2.0415111129593235,
+			"group": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 7.96616062498925,
+			"desc": 250.01,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 6669,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 6668,
+			"name": 170.01,
+			"val": 2.2304744673611583,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 7.992133676867226,
+			"desc": 250.7,
+			"group": "RAMAL"
+		},
+		{
+			"id": 6678,
+			"name": 102.01,
+			"val": 2.0086427475652853,
+			"group": "RAMAL"
+		},
+		{
+			"id": 6756,
+			"name": 68.2,
+			"val": 1.833784374656479,
+			"group": "RAMAL"
+		},
+		{
+			"id": 6717,
+			"name": 80.49,
+			"val": 1.9057419273916014,
+			"group": "RAMAL"
+		},
+		{
+			"id": "2HC SOLUCOES INTEGRADAS LTDA",
+			"name": "2HC SOLUCOES INTEGRADAS LTDA",
+			"val": 832.3604928162363,
+			"desc": 15000,
+			"group": "2HC SOLUCOES INTEGRADAS LTDA"
+		},
+		{
+			"id": 6749,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "2HC SOLUCOES INTEGRADAS LTDA"
+		},
+		{
+			"id": 6672,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "2HC SOLUCOES INTEGRADAS LTDA"
+		},
+		{
+			"id": 6711,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "2HC SOLUCOES INTEGRADAS LTDA"
+		},
+		{
+			"id": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO",
+			"name": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO",
+			"val": 2.6136052489844688,
+			"desc": 98.64,
+			"group": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO"
+		},
+		{
+			"id": 6741,
+			"name": 98.64,
+			"val": 1.9940530635876752,
+			"group": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO"
+		},
+		{
+			"id": "HSI DIST DE COMBUSTIVEIS LTDA",
+			"name": "HSI DIST DE COMBUSTIVEIS LTDA",
+			"val": 5.841504024938891,
+			"desc": 192.45,
+			"group": "HSI DIST DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 6705,
+			"name": 192.45,
+			"val": 2.2843179154306097,
+			"group": "HSI DIST DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "GP COBERTURA JORNALISTICA LTDA ME",
+			"name": "GP COBERTURA JORNALISTICA LTDA ME",
+			"val": 1301.1873642892585,
+			"desc": 22500,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 6673,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 6750,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 6712,
+			"name": 7500,
+			"val": 3.8750612633917,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": "POSTO SUMARE EIRELI",
+			"name": "POSTO SUMARE EIRELI",
+			"val": 276.17850105273436,
+			"desc": 5550.88,
+			"group": "POSTO SUMARE EIRELI"
+		},
+		{
+			"id": 6747,
+			"name": 3251.03,
+			"val": 3.5120209771166566,
+			"group": "POSTO SUMARE EIRELI"
+		},
+		{
+			"id": 6709,
+			"name": 2299.85,
+			"val": 3.361699511540791,
+			"group": "POSTO SUMARE EIRELI"
+		},
+		{
+			"id": "POSTO 30 DE SETEMBRO",
+			"name": "POSTO 30 DE SETEMBRO",
+			"val": 4.337638076770334,
+			"desc": 150.01,
+			"group": "POSTO 30 DE SETEMBRO"
+		},
+		{
+			"id": 6707,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO 30 DE SETEMBRO"
+		},
+		{
+			"id": 6743,
+			"name": 50.01,
+			"val": 1.6990568545476676,
+			"group": "POSTO 30 DE SETEMBRO"
+		},
+		{
+			"id": "FJR SERVICOS DE HOSPEDAGEM EIRELI",
+			"name": "FJR SERVICOS DE HOSPEDAGEM EIRELI",
+			"val": 6.224252764754364,
+			"desc": 203,
+			"group": "FJR SERVICOS DE HOSPEDAGEM EIRELI"
+		},
+		{
+			"id": 6762,
+			"name": 100,
+			"val": 2,
+			"group": "FJR SERVICOS DE HOSPEDAGEM EIRELI"
+		},
+		{
+			"id": 6761,
+			"name": 103,
+			"val": 2.012837224705172,
+			"group": "FJR SERVICOS DE HOSPEDAGEM EIRELI"
+		},
+		{
+			"id": "ESTRELA GAS LTDA ME",
+			"name": "ESTRELA GAS LTDA ME",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "ESTRELA GAS LTDA ME"
+		},
+		{
+			"id": 6704,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "ESTRELA GAS LTDA ME"
+		},
+		{
+			"id": "ALTO POSTO PASSA E FICA LTDA",
+			"name": "ALTO POSTO PASSA E FICA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "ALTO POSTO PASSA E FICA LTDA"
+		},
+		{
+			"id": 6666,
+			"name": 100,
+			"val": 2,
+			"group": "ALTO POSTO PASSA E FICA LTDA"
+		},
+		{
+			"id": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME",
+			"name": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME",
+			"val": 8.200687875497946,
+			"desc": 256.23,
+			"group": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME"
+		},
+		{
+			"id": 6742,
+			"name": 256.23,
+			"val": 2.40862997658628,
+			"group": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10 COM AR",
+			"name": "CORREIOS - SEDEX 10 COM AR",
+			"val": 2.681818319496771,
+			"desc": 100.75,
+			"group": "CORREIOS - SEDEX 10 COM AR"
+		},
+		{
+			"id": 6758,
+			"name": 100.75,
+			"val": 2.003245054813147,
+			"group": "CORREIOS - SEDEX 10 COM AR"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 8.988115058584109,
+			"desc": 276.95000000000005,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 6759,
+			"name": 70.86,
+			"val": 1.8504011479971585,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 6681,
+			"name": 67.56,
+			"val": 1.8296896408989711,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 6682,
+			"name": 67.56,
+			"val": 1.8296896408989711,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 6760,
+			"name": 70.97,
+			"val": 1.8510748052288868,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 2.023016990363956,
+			"desc": 80,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 6670,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 9.571880150235225,
+			"desc": 292.15999999999997,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 6757,
+			"name": 190.17,
+			"val": 2.279142006491638,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 6718,
+			"name": 101.99,
+			"val": 2.008557591784247,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "L. FERNANDES DE OLIVEIRA",
+			"name": "L. FERNANDES DE OLIVEIRA",
+			"val": 2.6588363702668834,
+			"desc": 100.04,
+			"group": "L. FERNANDES DE OLIVEIRA"
+		},
+		{
+			"id": 6706,
+			"name": 100.04,
+			"val": 2.000173683058465,
+			"group": "L. FERNANDES DE OLIVEIRA"
+		},
+		{
+			"id": "POSTOS EMAUS COMERCIO E SERVICO LTDA",
+			"name": "POSTOS EMAUS COMERCIO E SERVICO LTDA",
+			"val": 5.860292627977463,
+			"desc": 192.97,
+			"group": "POSTOS EMAUS COMERCIO E SERVICO LTDA"
+		},
+		{
+			"id": 6710,
+			"name": 192.97,
+			"val": 2.285489796846293,
+			"group": "POSTOS EMAUS COMERCIO E SERVICO LTDA"
+		},
+		{
+			"id": "POSTO FREI DAMIAO LTDA",
+			"name": "POSTO FREI DAMIAO LTDA",
+			"val": 7.966536967624633,
+			"desc": 250.02,
+			"group": "POSTO FREI DAMIAO LTDA"
+		},
+		{
+			"id": 6744,
+			"name": 250.02,
+			"val": 2.3979747508409215,
+			"group": "POSTO FREI DAMIAO LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS SERRANO LTDA",
+			"name": "POSTO DE COMBUSTIVEIS SERRANO LTDA",
+			"val": 6.045353592887137,
+			"desc": 198.08,
+			"group": "POSTO DE COMBUSTIVEIS SERRANO LTDA"
+		},
+		{
+			"id": 6671,
+			"name": 198.08,
+			"val": 2.296840627340024,
+			"group": "POSTO DE COMBUSTIVEIS SERRANO LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 13.927042262220278,
+			"desc": 402.4,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 6665,
+			"name": 402.4,
+			"val": 2.604657972047871,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 875.77
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 6755,
+			"value": 387.65
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 6716,
+			"value": 488.12
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 190
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 6680,
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 6679,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MACEDO",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO MACEDO",
+			"target": 6703,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 971.08
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 6751,
+			"value": 971.08
+		},
+		{
+			"source": -100,
+			"target": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"value": 50
+		},
+		{
+			"source": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"target": 6748,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "NET CLARO",
+			"value": 408.61
+		},
+		{
+			"source": "NET CLARO",
+			"target": 6677,
+			"value": 408.61
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 6381.59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 6736,
+			"value": 1637.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 6738,
+			"value": 1186.11
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 6698,
+			"value": 1575.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 6737,
+			"value": 978.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 6699,
+			"value": 851.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 6700,
+			"value": 152.82
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 918.39
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 6722,
+			"value": 73.31
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 6719,
+			"value": 56.39
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 6721,
+			"value": 73.31
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 6720,
+			"value": 715.38
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 5574.57
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6695,
+			"value": 668.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6734,
+			"value": 740.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6733,
+			"value": 1739.11
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6697,
+			"value": -166.24
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6735,
+			"value": 740.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6696,
+			"value": -746.33
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6693,
+			"value": 1111.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 6694,
+			"value": 1485.7
+		},
+		{
+			"source": -100,
+			"target": "HOTEL SABINO PALACE LTDA.",
+			"value": 441.65
+		},
+		{
+			"source": "HOTEL SABINO PALACE LTDA.",
+			"target": 6763,
+			"value": 121.65
+		},
+		{
+			"source": "HOTEL SABINO PALACE LTDA.",
+			"target": 6683,
+			"value": 320
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 1633.83
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6714,
+			"value": 355.58
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6713,
+			"value": 0.23
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6676,
+			"value": 26
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6715,
+			"value": 29.7
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6675,
+			"value": 565.12
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6754,
+			"value": 7.98
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6753,
+			"value": 446.47
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6674,
+			"value": 0.05
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 6752,
+			"value": 202.7
+		},
+		{
+			"source": -100,
+			"target": "ALTO POSTO PASSA E FICA EIRELI",
+			"value": 378.63
+		},
+		{
+			"source": "ALTO POSTO PASSA E FICA EIRELI",
+			"target": 6702,
+			"value": 100
+		},
+		{
+			"source": "ALTO POSTO PASSA E FICA EIRELI",
+			"target": 6701,
+			"value": 50
+		},
+		{
+			"source": "ALTO POSTO PASSA E FICA EIRELI",
+			"target": 6739,
+			"value": 161.23
+		},
+		{
+			"source": "ALTO POSTO PASSA E FICA EIRELI",
+			"target": 6740,
+			"value": 67.4
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"value": 193.48
+		},
+		{
+			"source": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"target": 6667,
+			"value": 193.48
+		},
+		{
+			"source": -100,
+			"target": "POSTO SR COMBUSTIVEIS LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO SR COMBUSTIVEIS LTDA",
+			"target": 6745,
+			"value": 50
+		},
+		{
+			"source": "POSTO SR COMBUSTIVEIS LTDA",
+			"target": 6746,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 8353.86
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6729,
+			"value": 40
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6732,
+			"value": -1337.01
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6731,
+			"value": 40
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6725,
+			"value": 1203.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6692,
+			"value": -1154.29
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6689,
+			"value": 1106.21
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6686,
+			"value": 905.58
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6726,
+			"value": 1203.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6690,
+			"value": 25
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6728,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6727,
+			"value": 1213.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6688,
+			"value": 1213.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6730,
+			"value": 40
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6724,
+			"value": 1406.21
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6685,
+			"value": 803.99
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6691,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 6687,
+			"value": 1606.21
+		},
+		{
+			"source": -100,
+			"target": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
+			"value": 22500
+		},
+		{
+			"source": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
+			"target": 6764,
+			"value": 7500
+		},
+		{
+			"source": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
+			"target": 6723,
+			"value": 7500
+		},
+		{
+			"source": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
+			"target": 6684,
+			"value": 7500
+		},
+		{
+			"source": -100,
+			"target": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 110.03
+		},
+		{
+			"source": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 6708,
+			"value": 110.03
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 250.01
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 6669,
+			"value": 80
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 6668,
+			"value": 170.01
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 250.7
+		},
+		{
+			"source": "RAMAL",
+			"target": 6678,
+			"value": 102.01
+		},
+		{
+			"source": "RAMAL",
+			"target": 6756,
+			"value": 68.2
+		},
+		{
+			"source": "RAMAL",
+			"target": 6717,
+			"value": 80.49
+		},
+		{
+			"source": -100,
+			"target": "2HC SOLUCOES INTEGRADAS LTDA",
+			"value": 15000
+		},
+		{
+			"source": "2HC SOLUCOES INTEGRADAS LTDA",
+			"target": 6749,
+			"value": 5000
+		},
+		{
+			"source": "2HC SOLUCOES INTEGRADAS LTDA",
+			"target": 6672,
+			"value": 5000
+		},
+		{
+			"source": "2HC SOLUCOES INTEGRADAS LTDA",
+			"target": 6711,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO",
+			"value": 98.64
+		},
+		{
+			"source": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO",
+			"target": 6741,
+			"value": 98.64
+		},
+		{
+			"source": -100,
+			"target": "HSI DIST DE COMBUSTIVEIS LTDA",
+			"value": 192.45
+		},
+		{
+			"source": "HSI DIST DE COMBUSTIVEIS LTDA",
+			"target": 6705,
+			"value": 192.45
+		},
+		{
+			"source": -100,
+			"target": "GP COBERTURA JORNALISTICA LTDA ME",
+			"value": 22500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 6673,
+			"value": 7500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 6750,
+			"value": 7500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 6712,
+			"value": 7500
+		},
+		{
+			"source": -100,
+			"target": "POSTO SUMARE EIRELI",
+			"value": 5550.88
+		},
+		{
+			"source": "POSTO SUMARE EIRELI",
+			"target": 6747,
+			"value": 3251.03
+		},
+		{
+			"source": "POSTO SUMARE EIRELI",
+			"target": 6709,
+			"value": 2299.85
+		},
+		{
+			"source": -100,
+			"target": "POSTO 30 DE SETEMBRO",
+			"value": 150.01
+		},
+		{
+			"source": "POSTO 30 DE SETEMBRO",
+			"target": 6707,
+			"value": 100
+		},
+		{
+			"source": "POSTO 30 DE SETEMBRO",
+			"target": 6743,
+			"value": 50.01
+		},
+		{
+			"source": -100,
+			"target": "FJR SERVICOS DE HOSPEDAGEM EIRELI",
+			"value": 203
+		},
+		{
+			"source": "FJR SERVICOS DE HOSPEDAGEM EIRELI",
+			"target": 6762,
+			"value": 100
+		},
+		{
+			"source": "FJR SERVICOS DE HOSPEDAGEM EIRELI",
+			"target": 6761,
+			"value": 103
+		},
+		{
+			"source": -100,
+			"target": "ESTRELA GAS LTDA ME",
+			"value": 50
+		},
+		{
+			"source": "ESTRELA GAS LTDA ME",
+			"target": 6704,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "ALTO POSTO PASSA E FICA LTDA",
+			"value": 100
+		},
+		{
+			"source": "ALTO POSTO PASSA E FICA LTDA",
+			"target": 6666,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME",
+			"value": 256.23
+		},
+		{
+			"source": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME",
+			"target": 6742,
+			"value": 256.23
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10 COM AR",
+			"value": 100.75
+		},
+		{
+			"source": "CORREIOS - SEDEX 10 COM AR",
+			"target": 6758,
+			"value": 100.75
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 276.95000000000005
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 6759,
+			"value": 70.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 6681,
+			"value": 67.56
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 6682,
+			"value": 67.56
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 6760,
+			"value": 70.97
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 80
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 6670,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 292.15999999999997
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 6757,
+			"value": 190.17
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 6718,
+			"value": 101.99
+		},
+		{
+			"source": -100,
+			"target": "L. FERNANDES DE OLIVEIRA",
+			"value": 100.04
+		},
+		{
+			"source": "L. FERNANDES DE OLIVEIRA",
+			"target": 6706,
+			"value": 100.04
+		},
+		{
+			"source": -100,
+			"target": "POSTOS EMAUS COMERCIO E SERVICO LTDA",
+			"value": 192.97
+		},
+		{
+			"source": "POSTOS EMAUS COMERCIO E SERVICO LTDA",
+			"target": 6710,
+			"value": 192.97
+		},
+		{
+			"source": -100,
+			"target": "POSTO FREI DAMIAO LTDA",
+			"value": 250.02
+		},
+		{
+			"source": "POSTO FREI DAMIAO LTDA",
+			"target": 6744,
+			"value": 250.02
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS SERRANO LTDA",
+			"value": 198.08
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS SERRANO LTDA",
+			"target": 6671,
+			"value": 198.08
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 402.4
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 6665,
+			"value": 402.4
+		}
+	]
+}

@@ -1,0 +1,1545 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "LUIS TIBÉ"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 20.6315270070366,
+			"desc": 564.3000000000001,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31602,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31643,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31677,
+			"name": 31.07,
+			"val": 1.4923412532549745,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31642,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31640,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31676,
+			"name": 32.14,
+			"val": 1.5070458724273257,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31644,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31638,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31637,
+			"name": 60.73,
+			"val": 1.7834032811225635,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31641,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31601,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31603,
+			"name": 30.87,
+			"val": 1.4895366294820955,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31604,
+			"name": 49.15,
+			"val": 1.6915235221681544,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31645,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31646,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31600,
+			"name": 29.86,
+			"val": 1.4750898033890065,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 31639,
+			"name": 31.88,
+			"val": 1.5035183127240748,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "telefonica brasil sa",
+			"name": "telefonica brasil sa",
+			"val": 30.075666021438618,
+			"desc": 782.28,
+			"group": "telefonica brasil sa"
+		},
+		{
+			"id": 31594,
+			"name": 275.05,
+			"val": 2.439411649285785,
+			"group": "telefonica brasil sa"
+		},
+		{
+			"id": 31593,
+			"name": 507.23,
+			"val": 2.7052049318791096,
+			"group": "telefonica brasil sa"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 50.545078502906826,
+			"desc": 1230.94,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 31674,
+			"name": 985.7,
+			"val": 2.993744756554462,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 31673,
+			"name": 245.24,
+			"val": 2.3895913074551967,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 20.7772096591223,
+			"desc": 567.74,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 31671,
+			"name": 255.36,
+			"val": 2.4071528696706355,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 31629,
+			"name": 15.9,
+			"val": 1.2013971243204515,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 31590,
+			"name": 49.43,
+			"val": 1.6939906104607767,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 31591,
+			"name": 6.09,
+			"val": 0.7846172926328754,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 31670,
+			"name": 240.96,
+			"val": 2.3819449545206064,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 20.137368920449166,
+			"desc": 552.61,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 31589,
+			"name": 100,
+			"val": 2,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 31587,
+			"name": 123.96,
+			"val": 2.0932815675672454,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 31626,
+			"name": 153.13,
+			"val": 2.1850602825213925,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 31588,
+			"name": 175.52,
+			"val": 2.244326610230636,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 5.214069038275871,
+			"desc": 174.95,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 31599,
+			"name": 38.21,
+			"val": 1.5821770376884088,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 31598,
+			"name": 50.31,
+			"val": 1.7016543173257481,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 31635,
+			"name": 24.11,
+			"val": 1.3821972103774536,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 31636,
+			"name": 38.21,
+			"val": 1.5821770376884088,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 31634,
+			"name": 24.11,
+			"val": 1.3821972103774536,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "MUNICÍPIO DE BELO HORIZONTE",
+			"name": "MUNICÍPIO DE BELO HORIZONTE",
+			"val": 23.54833041551065,
+			"desc": 632.66,
+			"group": "MUNICÍPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31657,
+			"name": 24.23,
+			"val": 1.3843534141375062,
+			"group": "MUNICÍPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31655,
+			"name": 123.9,
+			"val": 2.0930713063760633,
+			"group": "MUNICÍPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31656,
+			"name": 194.04,
+			"val": 2.287891265954026,
+			"group": "MUNICÍPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31654,
+			"name": 133.13,
+			"val": 2.1242759320063374,
+			"group": "MUNICÍPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31658,
+			"name": 24.23,
+			"val": 1.3843534141375062,
+			"group": "MUNICÍPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31653,
+			"name": 133.13,
+			"val": 2.1242759320063374,
+			"group": "MUNICÍPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 48.675551924689074,
+			"desc": 1190.94,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31583,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31624,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31623,
+			"name": 160.06,
+			"val": 2.2042828125579397,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31580,
+			"name": 148.79,
+			"val": 2.172573743771971,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31625,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31581,
+			"name": 203.96,
+			"val": 2.309545003295436,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31582,
+			"name": 128.13,
+			"val": 2.1076508261464864,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 31662,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"val": 6.47813488108044,
+			"desc": 209.95,
+			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
+		},
+		{
+			"id": 31586,
+			"name": 39.99,
+			"val": 1.6019514041335217,
+			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
+		},
+		{
+			"id": 31585,
+			"name": 69.96,
+			"val": 1.844849800806639,
+			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
+		},
+		{
+			"id": 31584,
+			"name": 100,
+			"val": 2,
+			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.5586517310999315,
+			"desc": 64.75999999999999,
+			"group": "RAMAL"
+		},
+		{
+			"id": 31672,
+			"name": 23.38,
+			"val": 1.3688445068258213,
+			"group": "RAMAL"
+		},
+		{
+			"id": 31630,
+			"name": 29.78,
+			"val": 1.4739246934161574,
+			"group": "RAMAL"
+		},
+		{
+			"id": 31592,
+			"name": 11.6,
+			"val": 1.0644579892269186,
+			"group": "RAMAL"
+		},
+		{
+			"id": "JORNAL VISÃO",
+			"name": "JORNAL VISÃO",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "JORNAL VISÃO"
+		},
+		{
+			"id": 31669,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "JORNAL VISÃO"
+		},
+		{
+			"id": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
+			"name": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
+			"val": 648.5277240959929,
+			"desc": 11968.18,
+			"group": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": 31612,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": 31652,
+			"name": 1968.18,
+			"val": 3.2940648143351474,
+			"group": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": 31651,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO SUDOESTE LTDA",
+			"name": "AUTO POSTO SUDOESTE LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "AUTO POSTO SUDOESTE LTDA"
+		},
+		{
+			"id": 31622,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO SUDOESTE LTDA"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 82.12015221414761,
+			"desc": 1886.67,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 31633,
+			"name": 313.44,
+			"val": 2.496154418650661,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 31675,
+			"name": 276.67,
+			"val": 2.441962070088528,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 31632,
+			"name": 994.59,
+			"val": 2.997644088350206,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 31595,
+			"name": 301.97,
+			"val": 2.4799637989782517,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
+			"name": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
+			"val": 346.2918776438817,
+			"desc": 6800,
+			"group": "TRANSMOURA LOCADORA DE VEICULOS LTDA."
+		},
+		{
+			"id": 31605,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "TRANSMOURA LOCADORA DE VEICULOS LTDA."
+		},
+		{
+			"id": 31647,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "TRANSMOURA LOCADORA DE VEICULOS LTDA."
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 137.61557535133662,
+			"desc": 2980.88,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 31649,
+			"name": 1253.39,
+			"val": 3.098086225418888,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 31606,
+			"name": 608.05,
+			"val": 2.7839392928110063,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 31648,
+			"name": 637.39,
+			"val": 2.804405245553015,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 31650,
+			"name": 482.05,
+			"val": 2.683092087197129,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": null,
+			"desc": -227.23000000000002,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31608,
+			"name": -29.49,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31607,
+			"name": 742.39,
+			"val": 2.870632113299614,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 31609,
+			"name": -940.13,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "AUTO POSTO RODOCHAVES LTDA",
+			"name": "AUTO POSTO RODOCHAVES LTDA",
+			"val": 5.190952930940959,
+			"desc": 174.3,
+			"group": "AUTO POSTO RODOCHAVES LTDA"
+		},
+		{
+			"id": 31621,
+			"name": 174.3,
+			"val": 2.2412973871099933,
+			"group": "AUTO POSTO RODOCHAVES LTDA"
+		},
+		{
+			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"val": 0.040510063045521565,
+			"desc": 4.6,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 31596,
+			"name": 4.6,
+			"val": 0.6627578316815741,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 11.633629596231085,
+			"desc": 344.99,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 31660,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 31661,
+			"name": 194.99,
+			"val": 2.2900123392795417,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "MUNICIPIO DE BELO HORIZONTE",
+			"name": "MUNICIPIO DE BELO HORIZONTE",
+			"val": 23.56595787185179,
+			"desc": 633.07,
+			"group": "MUNICIPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31613,
+			"name": 133.21,
+			"val": 2.1245368283012773,
+			"group": "MUNICIPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31617,
+			"name": 24.28,
+			"val": 1.38524868240322,
+			"group": "MUNICIPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31616,
+			"name": 194.1,
+			"val": 2.2880255353883627,
+			"group": "MUNICIPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31618,
+			"name": 24.28,
+			"val": 1.38524868240322,
+			"group": "MUNICIPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31615,
+			"name": 123.99,
+			"val": 2.0933866600013706,
+			"group": "MUNICIPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": 31614,
+			"name": 133.21,
+			"val": 2.1245368283012773,
+			"group": "MUNICIPIO DE BELO HORIZONTE"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 8.69707272153103,
+			"desc": 269.32,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 31631,
+			"name": 269.32,
+			"val": 2.430268605795908,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "PORTOPETRO COMBUSTIVEIS LTDA",
+			"name": "PORTOPETRO COMBUSTIVEIS LTDA",
+			"val": 1.3648941193392705,
+			"desc": 58.2,
+			"group": "PORTOPETRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 31663,
+			"name": 58.2,
+			"val": 1.7649229846498886,
+			"group": "PORTOPETRO COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CONDOMINIO DO EDIFICIO MARBLE ARCH",
+			"name": "CONDOMINIO DO EDIFICIO MARBLE ARCH",
+			"val": 85.9596602746665,
+			"desc": 1964.37,
+			"group": "CONDOMINIO DO EDIFICIO MARBLE ARCH"
+		},
+		{
+			"id": 31611,
+			"name": 1964.37,
+			"val": 3.293223292933632,
+			"group": "CONDOMINIO DO EDIFICIO MARBLE ARCH"
+		},
+		{
+			"id": "Segmento Digital",
+			"name": "Segmento Digital",
+			"val": 122.22120456156584,
+			"desc": 2682.76,
+			"group": "Segmento Digital"
+		},
+		{
+			"id": 31620,
+			"name": 620.17,
+			"val": 2.7925107539206895,
+			"group": "Segmento Digital"
+		},
+		{
+			"id": 31579,
+			"name": 2062.59,
+			"val": 3.314412907840435,
+			"group": "Segmento Digital"
+		},
+		{
+			"id": "POSTO PARADA OBRIGATORIA LTDA",
+			"name": "POSTO PARADA OBRIGATORIA LTDA",
+			"val": 0.345754247590989,
+			"desc": 20,
+			"group": "POSTO PARADA OBRIGATORIA LTDA"
+		},
+		{
+			"id": 31665,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "POSTO PARADA OBRIGATORIA LTDA"
+		},
+		{
+			"id": "S & S Soluções em Ti LTDA",
+			"name": "S & S Soluções em Ti LTDA",
+			"val": 82.77755614445915,
+			"desc": 1900,
+			"group": "S & S Soluções em Ti LTDA"
+		},
+		{
+			"id": 31659,
+			"name": 950,
+			"val": 2.9777236052888476,
+			"group": "S & S Soluções em Ti LTDA"
+		},
+		{
+			"id": 31619,
+			"name": 950,
+			"val": 2.9777236052888476,
+			"group": "S & S Soluções em Ti LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 34.33970921846908,
+			"desc": 877.98,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 31610,
+			"name": 877.98,
+			"val": 2.943484622980627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA",
+			"name": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA"
+		},
+		{
+			"id": 31668,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA"
+		},
+		{
+			"id": "POSTO RIEGERT LTDA",
+			"name": "POSTO RIEGERT LTDA",
+			"val": 3.9923984894891817,
+			"desc": 140,
+			"group": "POSTO RIEGERT LTDA"
+		},
+		{
+			"id": 31627,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO RIEGERT LTDA"
+		},
+		{
+			"id": 31666,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "POSTO RIEGERT LTDA"
+		},
+		{
+			"id": "POSTO SOBRADINHO LTDA",
+			"name": "POSTO SOBRADINHO LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": 31628,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO SOBRADINHO LTDA"
+		},
+		{
+			"id": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA",
+			"name": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": 31578,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": "POSTO URBANO FERRAZ LTDA",
+			"name": "POSTO URBANO FERRAZ LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO URBANO FERRAZ LTDA"
+		},
+		{
+			"id": 31667,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO URBANO FERRAZ LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 0.13958253691213526,
+			"desc": 10.35,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 31597,
+			"name": 10.35,
+			"val": 1.0149403497929366,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 31664,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 564.3000000000001
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31602,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31643,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31677,
+			"value": 31.07
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31642,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31640,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31676,
+			"value": 32.14
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31644,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31638,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31637,
+			"value": 60.73
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31641,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31601,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31603,
+			"value": 30.87
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31604,
+			"value": 49.15
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31645,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31646,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31600,
+			"value": 29.86
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 31639,
+			"value": 31.88
+		},
+		{
+			"source": -100,
+			"target": "telefonica brasil sa",
+			"value": 782.28
+		},
+		{
+			"source": "telefonica brasil sa",
+			"target": 31594,
+			"value": 275.05
+		},
+		{
+			"source": "telefonica brasil sa",
+			"target": 31593,
+			"value": 507.23
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 1230.94
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 31674,
+			"value": 985.7
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 31673,
+			"value": 245.24
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 567.74
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 31671,
+			"value": 255.36
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 31629,
+			"value": 15.9
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 31590,
+			"value": 49.43
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 31591,
+			"value": 6.09
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 31670,
+			"value": 240.96
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 552.61
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 31589,
+			"value": 100
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 31587,
+			"value": 123.96
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 31626,
+			"value": 153.13
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 31588,
+			"value": 175.52
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 174.95
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 31599,
+			"value": 38.21
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 31598,
+			"value": 50.31
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 31635,
+			"value": 24.11
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 31636,
+			"value": 38.21
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 31634,
+			"value": 24.11
+		},
+		{
+			"source": -100,
+			"target": "MUNICÍPIO DE BELO HORIZONTE",
+			"value": 632.66
+		},
+		{
+			"source": "MUNICÍPIO DE BELO HORIZONTE",
+			"target": 31657,
+			"value": 24.23
+		},
+		{
+			"source": "MUNICÍPIO DE BELO HORIZONTE",
+			"target": 31655,
+			"value": 123.9
+		},
+		{
+			"source": "MUNICÍPIO DE BELO HORIZONTE",
+			"target": 31656,
+			"value": 194.04
+		},
+		{
+			"source": "MUNICÍPIO DE BELO HORIZONTE",
+			"target": 31654,
+			"value": 133.13
+		},
+		{
+			"source": "MUNICÍPIO DE BELO HORIZONTE",
+			"target": 31658,
+			"value": 24.23
+		},
+		{
+			"source": "MUNICÍPIO DE BELO HORIZONTE",
+			"target": 31653,
+			"value": 133.13
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1190.94
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31583,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31624,
+			"value": 150
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31623,
+			"value": 160.06
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31580,
+			"value": 148.79
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31625,
+			"value": 150
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31581,
+			"value": 203.96
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31582,
+			"value": 128.13
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 31662,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"value": 209.95
+		},
+		{
+			"source": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"target": 31586,
+			"value": 39.99
+		},
+		{
+			"source": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"target": 31585,
+			"value": 69.96
+		},
+		{
+			"source": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
+			"target": 31584,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 64.75999999999999
+		},
+		{
+			"source": "RAMAL",
+			"target": 31672,
+			"value": 23.38
+		},
+		{
+			"source": "RAMAL",
+			"target": 31630,
+			"value": 29.78
+		},
+		{
+			"source": "RAMAL",
+			"target": 31592,
+			"value": 11.6
+		},
+		{
+			"source": -100,
+			"target": "JORNAL VISÃO",
+			"value": 400
+		},
+		{
+			"source": "JORNAL VISÃO",
+			"target": 31669,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
+			"value": 11968.18
+		},
+		{
+			"source": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
+			"target": 31612,
+			"value": 5000
+		},
+		{
+			"source": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
+			"target": 31652,
+			"value": 1968.18
+		},
+		{
+			"source": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
+			"target": 31651,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SUDOESTE LTDA",
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO SUDOESTE LTDA",
+			"target": 31622,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 1886.67
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 31633,
+			"value": 313.44
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 31675,
+			"value": 276.67
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 31632,
+			"value": 994.59
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 31595,
+			"value": 301.97
+		},
+		{
+			"source": -100,
+			"target": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
+			"value": 6800
+		},
+		{
+			"source": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
+			"target": 31605,
+			"value": 3400
+		},
+		{
+			"source": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
+			"target": 31647,
+			"value": 3400
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 2980.88
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 31649,
+			"value": 1253.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 31606,
+			"value": 608.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 31648,
+			"value": 637.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 31650,
+			"value": 482.05
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": -227.23000000000002
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31608,
+			"value": -29.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31607,
+			"value": 742.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 31609,
+			"value": -940.13
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO RODOCHAVES LTDA",
+			"value": 174.3
+		},
+		{
+			"source": "AUTO POSTO RODOCHAVES LTDA",
+			"target": 31621,
+			"value": 174.3
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"value": 4.6
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 31596,
+			"value": 4.6
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 344.99
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 31660,
+			"value": 150
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 31661,
+			"value": 194.99
+		},
+		{
+			"source": -100,
+			"target": "MUNICIPIO DE BELO HORIZONTE",
+			"value": 633.07
+		},
+		{
+			"source": "MUNICIPIO DE BELO HORIZONTE",
+			"target": 31613,
+			"value": 133.21
+		},
+		{
+			"source": "MUNICIPIO DE BELO HORIZONTE",
+			"target": 31617,
+			"value": 24.28
+		},
+		{
+			"source": "MUNICIPIO DE BELO HORIZONTE",
+			"target": 31616,
+			"value": 194.1
+		},
+		{
+			"source": "MUNICIPIO DE BELO HORIZONTE",
+			"target": 31618,
+			"value": 24.28
+		},
+		{
+			"source": "MUNICIPIO DE BELO HORIZONTE",
+			"target": 31615,
+			"value": 123.99
+		},
+		{
+			"source": "MUNICIPIO DE BELO HORIZONTE",
+			"target": 31614,
+			"value": 133.21
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 269.32
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 31631,
+			"value": 269.32
+		},
+		{
+			"source": -100,
+			"target": "PORTOPETRO COMBUSTIVEIS LTDA",
+			"value": 58.2
+		},
+		{
+			"source": "PORTOPETRO COMBUSTIVEIS LTDA",
+			"target": 31663,
+			"value": 58.2
+		},
+		{
+			"source": -100,
+			"target": "CONDOMINIO DO EDIFICIO MARBLE ARCH",
+			"value": 1964.37
+		},
+		{
+			"source": "CONDOMINIO DO EDIFICIO MARBLE ARCH",
+			"target": 31611,
+			"value": 1964.37
+		},
+		{
+			"source": -100,
+			"target": "Segmento Digital",
+			"value": 2682.76
+		},
+		{
+			"source": "Segmento Digital",
+			"target": 31620,
+			"value": 620.17
+		},
+		{
+			"source": "Segmento Digital",
+			"target": 31579,
+			"value": 2062.59
+		},
+		{
+			"source": -100,
+			"target": "POSTO PARADA OBRIGATORIA LTDA",
+			"value": 20
+		},
+		{
+			"source": "POSTO PARADA OBRIGATORIA LTDA",
+			"target": 31665,
+			"value": 20
+		},
+		{
+			"source": -100,
+			"target": "S & S Soluções em Ti LTDA",
+			"value": 1900
+		},
+		{
+			"source": "S & S Soluções em Ti LTDA",
+			"target": 31659,
+			"value": 950
+		},
+		{
+			"source": "S & S Soluções em Ti LTDA",
+			"target": 31619,
+			"value": 950
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 877.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 31610,
+			"value": 877.98
+		},
+		{
+			"source": -100,
+			"target": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA",
+			"value": 400
+		},
+		{
+			"source": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA",
+			"target": 31668,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "POSTO RIEGERT LTDA",
+			"value": 140
+		},
+		{
+			"source": "POSTO RIEGERT LTDA",
+			"target": 31627,
+			"value": 100
+		},
+		{
+			"source": "POSTO RIEGERT LTDA",
+			"target": 31666,
+			"value": 40
+		},
+		{
+			"source": -100,
+			"target": "POSTO SOBRADINHO LTDA",
+			"value": 50
+		},
+		{
+			"source": "POSTO SOBRADINHO LTDA",
+			"target": 31628,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA",
+			"value": 5000
+		},
+		{
+			"source": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA",
+			"target": 31578,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "POSTO URBANO FERRAZ LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO URBANO FERRAZ LTDA",
+			"target": 31667,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 10.35
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 31597,
+			"value": 10.35
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 100
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 31664,
+			"value": 100
+		}
+	]
+}

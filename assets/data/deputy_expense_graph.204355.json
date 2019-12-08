@@ -1,0 +1,1473 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "DA VITORIA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 79.84197658219215,
+			"desc": 1840.39,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 11547,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 11546,
+			"name": 1745.39,
+			"val": 3.2418924834003486,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "VIX VITORIA INFORMATICA LTDA",
+			"name": "VIX VITORIA INFORMATICA LTDA",
+			"val": 109.31831861735337,
+			"desc": 2430,
+			"group": "VIX VITORIA INFORMATICA LTDA"
+		},
+		{
+			"id": 11492,
+			"name": 810,
+			"val": 2.9084850188786495,
+			"group": "VIX VITORIA INFORMATICA LTDA"
+		},
+		{
+			"id": 11493,
+			"name": 810,
+			"val": 2.9084850188786495,
+			"group": "VIX VITORIA INFORMATICA LTDA"
+		},
+		{
+			"id": 11532,
+			"name": 810,
+			"val": 2.9084850188786495,
+			"group": "VIX VITORIA INFORMATICA LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 1169.8267978680885,
+			"desc": 20425.670000000002,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11481,
+			"name": 1480.39,
+			"val": 3.1703761427838635,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11548,
+			"name": 140,
+			"val": 2.146128035678238,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11509,
+			"name": 11,
+			"val": 1.041392685158225,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11551,
+			"name": 340.85,
+			"val": 2.532563298334475,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11507,
+			"name": 528.85,
+			"val": 2.723332508689301,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11508,
+			"name": 612.85,
+			"val": 2.787354190433722,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11484,
+			"name": 420.39,
+			"val": 2.6236523767271076,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11486,
+			"name": 485.39,
+			"val": 2.6860908247574415,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11554,
+			"name": 553.39,
+			"val": 2.7430313069840833,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11511,
+			"name": 357.85,
+			"val": 2.553701021549961,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11480,
+			"name": 811.85,
+			"val": 2.909475795016991,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11516,
+			"name": 819.39,
+			"val": 2.9134906594324517,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11513,
+			"name": 528.85,
+			"val": 2.723332508689301,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11519,
+			"name": 216,
+			"val": 2.3344537511509307,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11485,
+			"name": 342.85,
+			"val": 2.5351041538013934,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11558,
+			"name": 303.85,
+			"val": 2.4826592406833354,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11559,
+			"name": 303.85,
+			"val": 2.4826592406833354,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11477,
+			"name": 690.85,
+			"val": 2.8393837619270927,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11514,
+			"name": 357.85,
+			"val": 2.553701021549961,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11517,
+			"name": 354.39,
+			"val": 2.5494814586831507,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11553,
+			"name": 553.39,
+			"val": 2.7430313069840833,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11552,
+			"name": 340.85,
+			"val": 2.532563298334475,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11487,
+			"name": 1173.85,
+			"val": 3.069612604292924,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11483,
+			"name": 360.85,
+			"val": 2.5573267096337924,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11518,
+			"name": 354.39,
+			"val": 2.5494814586831507,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11557,
+			"name": 303.85,
+			"val": 2.4826592406833354,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11512,
+			"name": 357.85,
+			"val": 2.553701021549961,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11510,
+			"name": 357.85,
+			"val": 2.553701021549961,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11482,
+			"name": 183.85,
+			"val": 2.264463634204881,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11475,
+			"name": 834.17,
+			"val": 2.9212545668707115,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11550,
+			"name": 340.85,
+			"val": 2.532563298334475,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11478,
+			"name": 600.85,
+			"val": 2.778766065508379,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11556,
+			"name": 337.39,
+			"val": 2.5281322062638374,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11555,
+			"name": 421.09,
+			"val": 2.624374927964111,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11521,
+			"name": 808.49,
+			"val": 2.907674652601508,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11476,
+			"name": 1221.39,
+			"val": 3.086854359934779,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11515,
+			"name": 609.39,
+			"val": 2.7848953232367495,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11479,
+			"name": 597.39,
+			"val": 2.7762579484636767,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11506,
+			"name": 534.39,
+			"val": 2.7278583226234523,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11549,
+			"name": 340.85,
+			"val": 2.532563298334475,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11520,
+			"name": 132,
+			"val": 2.12057393120585,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"val": 2.7424858900686435,
+			"desc": 102.62,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 11496,
+			"name": 102.62,
+			"val": 2.011232010319366,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "Sisnetti Integradora De Soluções Ltda -",
+			"name": "Sisnetti Integradora De Soluções Ltda -",
+			"val": 132.38614766971784,
+			"desc": 2880,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 11491,
+			"name": 720,
+			"val": 2.8573324964312685,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 11528,
+			"name": 720,
+			"val": 2.8573324964312685,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 11461,
+			"name": 720,
+			"val": 2.8573324964312685,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 11529,
+			"name": 720,
+			"val": 2.8573324964312685,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": "PANTANAL VEÍCULOS LTDA",
+			"name": "PANTANAL VEÍCULOS LTDA",
+			"val": 76.55284955788453,
+			"desc": 1773.33,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 11545,
+			"name": 1773.33,
+			"val": 3.2487895612316073,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 39.7600192340785,
+			"desc": 997.74,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11533,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11495,
+			"name": 181.6,
+			"val": 2.2591158441850663,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11464,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11534,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11494,
+			"name": 166.14,
+			"val": 2.220474206129218,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11535,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"val": 274.4643923407749,
+			"desc": 5520,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": 11505,
+			"name": 3600,
+			"val": 3.5563025007672873,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": 11544,
+			"name": 1920,
+			"val": 3.2833012287035497,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": "POSTO ARNALDO LTDA",
+			"name": "POSTO ARNALDO LTDA",
+			"val": 374.15761702577976,
+			"desc": 7289.74,
+			"group": "POSTO ARNALDO LTDA"
+		},
+		{
+			"id": 11536,
+			"name": 2133.33,
+			"val": 3.3290580406785666,
+			"group": "POSTO ARNALDO LTDA"
+		},
+		{
+			"id": 11497,
+			"name": 2516.8,
+			"val": 3.400848705279212,
+			"group": "POSTO ARNALDO LTDA"
+		},
+		{
+			"id": 11465,
+			"name": 2639.61,
+			"val": 3.421539764991113,
+			"group": "POSTO ARNALDO LTDA"
+		},
+		{
+			"id": "CONDOMINIO DO EDIFICIO PETRO TOWER",
+			"name": "CONDOMINIO DO EDIFICIO PETRO TOWER",
+			"val": 36.15555564092617,
+			"desc": 918.32,
+			"group": "CONDOMINIO DO EDIFICIO PETRO TOWER"
+		},
+		{
+			"id": 11523,
+			"name": 454.35,
+			"val": 2.657390532388537,
+			"group": "CONDOMINIO DO EDIFICIO PETRO TOWER"
+		},
+		{
+			"id": 11524,
+			"name": 463.97,
+			"val": 2.6664899002624973,
+			"group": "CONDOMINIO DO EDIFICIO PETRO TOWER"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 2.9305755797567405,
+			"desc": 108.38,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 11542,
+			"name": 59.58,
+			"val": 1.7751004988790249,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 11471,
+			"name": 48.8,
+			"val": 1.6884198220027105,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.296734930836179,
+			"desc": 148.82999999999998,
+			"group": "RAMAL"
+		},
+		{
+			"id": 11470,
+			"name": 50.66,
+			"val": 1.7046651854545292,
+			"group": "RAMAL"
+		},
+		{
+			"id": 11541,
+			"name": 52.32,
+			"val": 1.7186677353162108,
+			"group": "RAMAL"
+		},
+		{
+			"id": 11502,
+			"name": 45.85,
+			"val": 1.6613393400060399,
+			"group": "RAMAL"
+		},
+		{
+			"id": "AUTO EIXO 208 NORTE LTDA",
+			"name": "AUTO EIXO 208 NORTE LTDA",
+			"val": 4.633136905566017,
+			"desc": 158.49,
+			"group": "AUTO EIXO 208 NORTE LTDA"
+		},
+		{
+			"id": 11463,
+			"name": 158.49,
+			"val": 2.200001865406602,
+			"group": "AUTO EIXO 208 NORTE LTDA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 15.49364133194599,
+			"desc": 440.93999999999994,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 11500,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 11501,
+			"name": 150.73,
+			"val": 2.1781996991480597,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 11469,
+			"name": 110.76,
+			"val": 2.044382947073537,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 11540,
+			"name": 139.29,
+			"val": 2.1439199383858365,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
+			"name": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
+			"val": 22.149164857190115,
+			"desc": 600,
+			"group": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME"
+		},
+		{
+			"id": 11531,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME"
+		},
+		{
+			"id": 11530,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME"
+		},
+		{
+			"id": 11462,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME"
+		},
+		{
+			"id": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
+			"name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
+			"val": 60.30801353322454,
+			"desc": 1437.38,
+			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
+		},
+		{
+			"id": 11525,
+			"name": 771.07,
+			"val": 2.8870938063697156,
+			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
+		},
+		{
+			"id": 11489,
+			"name": 666.31,
+			"val": 2.8236763312213546,
+			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
+		},
+		{
+			"id": "DANILO OLANDIM CARVALHO",
+			"name": "DANILO OLANDIM CARVALHO",
+			"val": 114.15088349251783,
+			"desc": 2525,
+			"group": "DANILO OLANDIM CARVALHO"
+		},
+		{
+			"id": 11539,
+			"name": 2525,
+			"val": 3.40226138245468,
+			"group": "DANILO OLANDIM CARVALHO"
+		},
+		{
+			"id": "POSTO IATE LTDA",
+			"name": "POSTO IATE LTDA",
+			"val": 244.71314120386532,
+			"desc": 4981.04,
+			"group": "POSTO IATE LTDA"
+		},
+		{
+			"id": 11498,
+			"name": 1799.74,
+			"val": 3.255209769147103,
+			"group": "POSTO IATE LTDA"
+		},
+		{
+			"id": 11538,
+			"name": 2638.96,
+			"val": 3.4214328074572866,
+			"group": "POSTO IATE LTDA"
+		},
+		{
+			"id": 11466,
+			"name": 542.34,
+			"val": 2.734271636776663,
+			"group": "POSTO IATE LTDA"
+		},
+		{
+			"id": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
+			"name": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
+			"val": 650.4358456983957,
+			"desc": 12000,
+			"group": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA"
+		},
+		{
+			"id": 11488,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA"
+		},
+		{
+			"id": 11460,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA"
+		},
+		{
+			"id": 11522,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA"
+		},
+		{
+			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"val": 61.0970206148034,
+			"desc": 1453.9,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": 11527,
+			"name": 536.2,
+			"val": 2.7293268096468606,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": 11490,
+			"name": 917.7,
+			"val": 2.962700731704341,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": "LINK DISTRIBUIDOR AUTORIZADO SINUS.",
+			"name": "LINK DISTRIBUIDOR AUTORIZADO SINUS.",
+			"val": 11.758508915872067,
+			"desc": 348.15,
+			"group": "LINK DISTRIBUIDOR AUTORIZADO SINUS."
+		},
+		{
+			"id": 11526,
+			"name": 348.15,
+			"val": 2.541766399511599,
+			"group": "LINK DISTRIBUIDOR AUTORIZADO SINUS."
+		},
+		{
+			"id": "DELTA AUTOMOTORES LTDA - ME",
+			"name": "DELTA AUTOMOTORES LTDA - ME",
+			"val": 267.812863745865,
+			"desc": 5400,
+			"group": "DELTA AUTOMOTORES LTDA - ME"
+		},
+		{
+			"id": 11472,
+			"name": 2700,
+			"val": 3.4313637641589874,
+			"group": "DELTA AUTOMOTORES LTDA - ME"
+		},
+		{
+			"id": 11543,
+			"name": 2700,
+			"val": 3.4313637641589874,
+			"group": "DELTA AUTOMOTORES LTDA - ME"
+		},
+		{
+			"id": "VIVO - Telefônica Brasil S.A.",
+			"name": "VIVO - Telefônica Brasil S.A.",
+			"val": 3.5809608124191805,
+			"desc": 127.91,
+			"group": "VIVO - Telefônica Brasil S.A."
+		},
+		{
+			"id": 11504,
+			"name": 127.91,
+			"val": 2.1069044989356436,
+			"group": "VIVO - Telefônica Brasil S.A."
+		},
+		{
+			"id": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"name": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"val": 60.43307383485892,
+			"desc": 1440,
+			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
+		},
+		{
+			"id": 11474,
+			"name": 1440,
+			"val": 3.1583624920952498,
+			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
+		},
+		{
+			"id": "GP COBERTURA JORNALISTICA LTDA ME",
+			"name": "GP COBERTURA JORNALISTICA LTDA ME",
+			"val": 301.21792284919786,
+			"desc": 6000,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 11499,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 11467,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 40.086812498767,
+			"desc": 1004.9,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 11468,
+			"name": 1004.9,
+			"val": 3.002122846225162,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 2.5116154246403903,
+			"desc": 95.47,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 11537,
+			"name": 95.47,
+			"val": 1.9798669225649028,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"val": 97.00661528351515,
+			"desc": 2186,
+			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
+		},
+		{
+			"id": 11473,
+			"name": 2186,
+			"val": 3.339650157613684,
+			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 13.959755351776723,
+			"desc": 403.21,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 11503,
+			"name": 403.21,
+			"val": 2.6055312944964073,
+			"group": "TELEFONICA BRASIL S.A."
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 1840.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 11547,
+			"value": 95
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 11546,
+			"value": 1745.39
+		},
+		{
+			"source": -100,
+			"target": "VIX VITORIA INFORMATICA LTDA",
+			"value": 2430
+		},
+		{
+			"source": "VIX VITORIA INFORMATICA LTDA",
+			"target": 11492,
+			"value": 810
+		},
+		{
+			"source": "VIX VITORIA INFORMATICA LTDA",
+			"target": 11493,
+			"value": 810
+		},
+		{
+			"source": "VIX VITORIA INFORMATICA LTDA",
+			"target": 11532,
+			"value": 810
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 20425.670000000002
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11481,
+			"value": 1480.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11548,
+			"value": 140
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11509,
+			"value": 11
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11551,
+			"value": 340.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11507,
+			"value": 528.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11508,
+			"value": 612.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11484,
+			"value": 420.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11486,
+			"value": 485.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11554,
+			"value": 553.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11511,
+			"value": 357.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11480,
+			"value": 811.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11516,
+			"value": 819.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11513,
+			"value": 528.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11519,
+			"value": 216
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11485,
+			"value": 342.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11558,
+			"value": 303.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11559,
+			"value": 303.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11477,
+			"value": 690.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11514,
+			"value": 357.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11517,
+			"value": 354.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11553,
+			"value": 553.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11552,
+			"value": 340.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11487,
+			"value": 1173.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11483,
+			"value": 360.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11518,
+			"value": 354.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11557,
+			"value": 303.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11512,
+			"value": 357.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11510,
+			"value": 357.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11482,
+			"value": 183.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11475,
+			"value": 834.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11550,
+			"value": 340.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11478,
+			"value": 600.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11556,
+			"value": 337.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11555,
+			"value": 421.09
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11521,
+			"value": 808.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11476,
+			"value": 1221.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11515,
+			"value": 609.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11479,
+			"value": 597.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11506,
+			"value": 534.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11549,
+			"value": 340.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11520,
+			"value": 132
+		},
+		{
+			"source": -100,
+			"target": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"value": 102.62
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 11496,
+			"value": 102.62
+		},
+		{
+			"source": -100,
+			"target": "Sisnetti Integradora De Soluções Ltda -",
+			"value": 2880
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 11491,
+			"value": 720
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 11528,
+			"value": 720
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 11461,
+			"value": 720
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 11529,
+			"value": 720
+		},
+		{
+			"source": -100,
+			"target": "PANTANAL VEÍCULOS LTDA",
+			"value": 1773.33
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 11545,
+			"value": 1773.33
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 997.74
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11533,
+			"value": 150
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11495,
+			"value": 181.6
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11464,
+			"value": 150
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11534,
+			"value": 150
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11494,
+			"value": 166.14
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11535,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"value": 5520
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"target": 11505,
+			"value": 3600
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"target": 11544,
+			"value": 1920
+		},
+		{
+			"source": -100,
+			"target": "POSTO ARNALDO LTDA",
+			"value": 7289.74
+		},
+		{
+			"source": "POSTO ARNALDO LTDA",
+			"target": 11536,
+			"value": 2133.33
+		},
+		{
+			"source": "POSTO ARNALDO LTDA",
+			"target": 11497,
+			"value": 2516.8
+		},
+		{
+			"source": "POSTO ARNALDO LTDA",
+			"target": 11465,
+			"value": 2639.61
+		},
+		{
+			"source": -100,
+			"target": "CONDOMINIO DO EDIFICIO PETRO TOWER",
+			"value": 918.32
+		},
+		{
+			"source": "CONDOMINIO DO EDIFICIO PETRO TOWER",
+			"target": 11523,
+			"value": 454.35
+		},
+		{
+			"source": "CONDOMINIO DO EDIFICIO PETRO TOWER",
+			"target": 11524,
+			"value": 463.97
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 108.38
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 11542,
+			"value": 59.58
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 11471,
+			"value": 48.8
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 148.82999999999998
+		},
+		{
+			"source": "RAMAL",
+			"target": 11470,
+			"value": 50.66
+		},
+		{
+			"source": "RAMAL",
+			"target": 11541,
+			"value": 52.32
+		},
+		{
+			"source": "RAMAL",
+			"target": 11502,
+			"value": 45.85
+		},
+		{
+			"source": -100,
+			"target": "AUTO EIXO 208 NORTE LTDA",
+			"value": 158.49
+		},
+		{
+			"source": "AUTO EIXO 208 NORTE LTDA",
+			"target": 11463,
+			"value": 158.49
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 440.93999999999994
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 11500,
+			"value": 40.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 11501,
+			"value": 150.73
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 11469,
+			"value": 110.76
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 11540,
+			"value": 139.29
+		},
+		{
+			"source": -100,
+			"target": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
+			"value": 600
+		},
+		{
+			"source": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
+			"target": 11531,
+			"value": 200
+		},
+		{
+			"source": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
+			"target": 11530,
+			"value": 200
+		},
+		{
+			"source": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
+			"target": 11462,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
+			"value": 1437.38
+		},
+		{
+			"source": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
+			"target": 11525,
+			"value": 771.07
+		},
+		{
+			"source": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
+			"target": 11489,
+			"value": 666.31
+		},
+		{
+			"source": -100,
+			"target": "DANILO OLANDIM CARVALHO",
+			"value": 2525
+		},
+		{
+			"source": "DANILO OLANDIM CARVALHO",
+			"target": 11539,
+			"value": 2525
+		},
+		{
+			"source": -100,
+			"target": "POSTO IATE LTDA",
+			"value": 4981.04
+		},
+		{
+			"source": "POSTO IATE LTDA",
+			"target": 11498,
+			"value": 1799.74
+		},
+		{
+			"source": "POSTO IATE LTDA",
+			"target": 11538,
+			"value": 2638.96
+		},
+		{
+			"source": "POSTO IATE LTDA",
+			"target": 11466,
+			"value": 542.34
+		},
+		{
+			"source": -100,
+			"target": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
+			"value": 12000
+		},
+		{
+			"source": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
+			"target": 11488,
+			"value": 4000
+		},
+		{
+			"source": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
+			"target": 11460,
+			"value": 4000
+		},
+		{
+			"source": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
+			"target": 11522,
+			"value": 4000
+		},
+		{
+			"source": -100,
+			"target": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"value": 1453.9
+		},
+		{
+			"source": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"target": 11527,
+			"value": 536.2
+		},
+		{
+			"source": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"target": 11490,
+			"value": 917.7
+		},
+		{
+			"source": -100,
+			"target": "LINK DISTRIBUIDOR AUTORIZADO SINUS.",
+			"value": 348.15
+		},
+		{
+			"source": "LINK DISTRIBUIDOR AUTORIZADO SINUS.",
+			"target": 11526,
+			"value": 348.15
+		},
+		{
+			"source": -100,
+			"target": "DELTA AUTOMOTORES LTDA - ME",
+			"value": 5400
+		},
+		{
+			"source": "DELTA AUTOMOTORES LTDA - ME",
+			"target": 11472,
+			"value": 2700
+		},
+		{
+			"source": "DELTA AUTOMOTORES LTDA - ME",
+			"target": 11543,
+			"value": 2700
+		},
+		{
+			"source": -100,
+			"target": "VIVO - Telefônica Brasil S.A.",
+			"value": 127.91
+		},
+		{
+			"source": "VIVO - Telefônica Brasil S.A.",
+			"target": 11504,
+			"value": 127.91
+		},
+		{
+			"source": -100,
+			"target": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"value": 1440
+		},
+		{
+			"source": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
+			"target": 11474,
+			"value": 1440
+		},
+		{
+			"source": -100,
+			"target": "GP COBERTURA JORNALISTICA LTDA ME",
+			"value": 6000
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 11499,
+			"value": 3000
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 11467,
+			"value": 3000
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 1004.9
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 11468,
+			"value": 1004.9
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 95.47
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 11537,
+			"value": 95.47
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"value": 2186
+		},
+		{
+			"source": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"target": 11473,
+			"value": 2186
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 403.21
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 11503,
+			"value": 403.21
+		}
+	]
+}

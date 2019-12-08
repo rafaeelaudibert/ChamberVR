@@ -1,0 +1,1821 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "SCHIAVINATO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 1.5556682864321558,
+			"desc": 64.66,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 46100,
+			"name": 64.66,
+			"val": 1.8106357002755373,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 203.1784175038792,
+			"desc": 4218,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 46129,
+			"name": 256.35,
+			"val": 2.408833321776418,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 46128,
+			"name": 671.39,
+			"val": 2.826974868372879,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 46132,
+			"name": 880.39,
+			"val": 2.944675100930965,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 46127,
+			"name": 445.39,
+			"val": 2.6487404619266384,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 46130,
+			"name": 326.35,
+			"val": 2.5136836170319956,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 46133,
+			"name": 555.39,
+			"val": 2.7445980558537113,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 46131,
+			"name": 1082.74,
+			"val": 3.0345241813514305,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "NET CLARO",
+			"name": "NET CLARO",
+			"val": 2.2216557237703953,
+			"desc": 86.35,
+			"group": "NET CLARO"
+		},
+		{
+			"id": 46093,
+			"name": 86.35,
+			"val": 1.9362623419034775,
+			"group": "NET CLARO"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 192.40316773742668,
+			"desc": 4017.72,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46135,
+			"name": 807.85,
+			"val": 2.9073307293143977,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46137,
+			"name": 1339.85,
+			"val": 3.127056180589668,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46136,
+			"name": 233.85,
+			"val": 2.3689373742445228,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 46134,
+			"name": 1636.17,
+			"val": 3.2138284253904845,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"name": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"val": 1.7101433126651833,
+			"desc": 69.8,
+			"group": "AEROTRIO ALIMENTOS LIMITADA ME"
+		},
+		{
+			"id": 46104,
+			"name": 69.8,
+			"val": 1.8438554226231612,
+			"group": "AEROTRIO ALIMENTOS LIMITADA ME"
+		},
+		{
+			"id": "YUTAKA RESTAURANTE LTDA",
+			"name": "YUTAKA RESTAURANTE LTDA",
+			"val": 0.7178367514947388,
+			"desc": 34.99,
+			"group": "YUTAKA RESTAURANTE LTDA"
+		},
+		{
+			"id": 46121,
+			"name": 34.99,
+			"val": 1.5439439424829065,
+			"group": "YUTAKA RESTAURANTE LTDA"
+		},
+		{
+			"id": "Copel Distribuição S.A.",
+			"name": "Copel Distribuição S.A.",
+			"val": 35.01278922755792,
+			"desc": 892.96,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 46074,
+			"name": 82.42,
+			"val": 1.9160326101885694,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 46145,
+			"name": 83.44,
+			"val": 1.9213742954184745,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 46146,
+			"name": 317.1,
+			"val": 2.501196242027089,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 46075,
+			"name": 410,
+			"val": 2.6127838567197355,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": "REGINA MAURA GASPARETTO ARNT",
+			"name": "REGINA MAURA GASPARETTO ARNT",
+			"val": 82.52498586546598,
+			"desc": 1894.88,
+			"group": "REGINA MAURA GASPARETTO ARNT"
+		},
+		{
+			"id": 46150,
+			"name": 920.45,
+			"val": 2.9640002020590774,
+			"group": "REGINA MAURA GASPARETTO ARNT"
+		},
+		{
+			"id": 46081,
+			"name": 974.43,
+			"val": 2.9887506462184943,
+			"group": "REGINA MAURA GASPARETTO ARNT"
+		},
+		{
+			"id": "IMPRIMA CARTUCHOS E INFORMATICA LTDA",
+			"name": "IMPRIMA CARTUCHOS E INFORMATICA LTDA",
+			"val": 8.7229608448149,
+			"desc": 270,
+			"group": "IMPRIMA CARTUCHOS E INFORMATICA LTDA"
+		},
+		{
+			"id": 46077,
+			"name": 180,
+			"val": 2.255272505103306,
+			"group": "IMPRIMA CARTUCHOS E INFORMATICA LTDA"
+		},
+		{
+			"id": 46076,
+			"name": 90,
+			"val": 1.9542425094393248,
+			"group": "IMPRIMA CARTUCHOS E INFORMATICA LTDA"
+		},
+		{
+			"id": "Zabini & Cia Ltda",
+			"name": "Zabini & Cia Ltda",
+			"val": 5.645077055995952,
+			"desc": 187,
+			"group": "Zabini & Cia Ltda"
+		},
+		{
+			"id": 46169,
+			"name": 187,
+			"val": 2.271841606536499,
+			"group": "Zabini & Cia Ltda"
+		},
+		{
+			"id": "AUTO POSTO TS LTDA",
+			"name": "AUTO POSTO TS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO TS LTDA"
+		},
+		{
+			"id": 46159,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO TS LTDA"
+		},
+		{
+			"id": 46158,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO TS LTDA"
+		},
+		{
+			"id": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
+			"name": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
+			"val": 0.9802178832217169,
+			"desc": 44.7,
+			"group": "COPAGIFT COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 46106,
+			"name": 44.7,
+			"val": 1.6503075231319364,
+			"group": "COPAGIFT COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "COPEL TELECOMUNICACOES S.A.",
+			"name": "COPEL TELECOMUNICACOES S.A.",
+			"val": 4.3338228012070745,
+			"desc": 149.9,
+			"group": "COPEL TELECOMUNICACOES S.A."
+		},
+		{
+			"id": 46147,
+			"name": 149.9,
+			"val": 2.1758016328482794,
+			"group": "COPEL TELECOMUNICACOES S.A."
+		},
+		{
+			"id": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"name": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"val": 1.4117760001711297,
+			"desc": 59.8,
+			"group": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 46101,
+			"name": 59.8,
+			"val": 1.7767011839884108,
+			"group": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "Brixner Brixner Ltda Epp",
+			"name": "Brixner Brixner Ltda Epp",
+			"val": 6.592909452610287,
+			"desc": 213.08,
+			"group": "Brixner Brixner Ltda Epp"
+		},
+		{
+			"id": 46160,
+			"name": 213.08,
+			"val": 2.328542688112792,
+			"group": "Brixner Brixner Ltda Epp"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 11.189231038259852,
+			"desc": 333.71,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 46171,
+			"name": 170.87,
+			"val": 2.2326658194314453,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 46170,
+			"name": 80.89,
+			"val": 1.907894835416283,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 46091,
+			"name": 81.95,
+			"val": 1.913548957906518,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "Francisco Pátio Comércio de Alimentos Ltda EPP",
+			"name": "Francisco Pátio Comércio de Alimentos Ltda EPP",
+			"val": 2.1974211512239092,
+			"desc": 85.58,
+			"group": "Francisco Pátio Comércio de Alimentos Ltda EPP"
+		},
+		{
+			"id": 46108,
+			"name": 85.58,
+			"val": 1.932372282147914,
+			"group": "Francisco Pátio Comércio de Alimentos Ltda EPP"
+		},
+		{
+			"id": "OI S.A",
+			"name": "OI S.A",
+			"val": 2.584910695747175,
+			"desc": 97.75,
+			"group": "OI S.A"
+		},
+		{
+			"id": 46094,
+			"name": 97.75,
+			"val": 1.9901167660679044,
+			"group": "OI S.A"
+		},
+		{
+			"id": "RAFAEL PERIN TAVARES",
+			"name": "RAFAEL PERIN TAVARES",
+			"val": 49.09832971438023,
+			"desc": 1200,
+			"group": "RAFAEL PERIN TAVARES"
+		},
+		{
+			"id": 46080,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "RAFAEL PERIN TAVARES"
+		},
+		{
+			"id": 46149,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "RAFAEL PERIN TAVARES"
+		},
+		{
+			"id": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A",
+			"name": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A",
+			"val": 2.819004309287015,
+			"desc": 104.97,
+			"group": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A"
+		},
+		{
+			"id": 46125,
+			"name": 50.6,
+			"val": 1.7041505168397992,
+			"group": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A"
+		},
+		{
+			"id": 46126,
+			"name": 54.37,
+			"val": 1.7353593330017107,
+			"group": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A"
+		},
+		{
+			"id": "POSTO BOLINHA LTDA",
+			"name": "POSTO BOLINHA LTDA",
+			"val": 11.979823297433253,
+			"desc": 353.74,
+			"group": "POSTO BOLINHA LTDA"
+		},
+		{
+			"id": 46090,
+			"name": 120.84,
+			"val": 2.0822107166012427,
+			"group": "POSTO BOLINHA LTDA"
+		},
+		{
+			"id": 46167,
+			"name": 128.89,
+			"val": 2.1102192236894037,
+			"group": "POSTO BOLINHA LTDA"
+		},
+		{
+			"id": 46089,
+			"name": 104.01,
+			"val": 2.0170750963760593,
+			"group": "POSTO BOLINHA LTDA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 15.019175590669516,
+			"desc": 429.31999999999994,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 46119,
+			"name": 69.21,
+			"val": 1.840168849240756,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 46115,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 46118,
+			"name": 68.5,
+			"val": 1.8356905714924256,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 46114,
+			"name": 28.49,
+			"val": 1.4546924492394768,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 46117,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 46120,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 46116,
+			"name": 65.78,
+			"val": 1.818093869146636,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "MERCEARIA JABOTI CURITIBA LTDA",
+			"name": "MERCEARIA JABOTI CURITIBA LTDA",
+			"val": 0.1720782000346155,
+			"desc": 12,
+			"group": "MERCEARIA JABOTI CURITIBA LTDA"
+		},
+		{
+			"id": 46148,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "MERCEARIA JABOTI CURITIBA LTDA"
+		},
+		{
+			"id": "LIVRARIA BARAO LTDA",
+			"name": "LIVRARIA BARAO LTDA",
+			"val": 4.465890818533135,
+			"desc": 153.7,
+			"group": "LIVRARIA BARAO LTDA"
+		},
+		{
+			"id": 46078,
+			"name": 153.7,
+			"val": 2.1866738674997452,
+			"group": "LIVRARIA BARAO LTDA"
+		},
+		{
+			"id": "MFT EMPREENDIMENTOS",
+			"name": "MFT EMPREENDIMENTOS",
+			"val": 1.0414644049070154,
+			"desc": 46.9,
+			"group": "MFT EMPREENDIMENTOS"
+		},
+		{
+			"id": 46110,
+			"name": 46.9,
+			"val": 1.6711728427150832,
+			"group": "MFT EMPREENDIMENTOS"
+		},
+		{
+			"id": "ADALBERTO JOSE BORDIGNON",
+			"name": "ADALBERTO JOSE BORDIGNON",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "ADALBERTO JOSE BORDIGNON"
+		},
+		{
+			"id": 46144,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "ADALBERTO JOSE BORDIGNON"
+		},
+		{
+			"id": 46073,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "ADALBERTO JOSE BORDIGNON"
+		},
+		{
+			"id": "AUTO POSTO CRIANCA LTDA",
+			"name": "AUTO POSTO CRIANCA LTDA",
+			"val": 11.239943162362483,
+			"desc": 335,
+			"group": "AUTO POSTO CRIANCA LTDA"
+		},
+		{
+			"id": 46083,
+			"name": 135,
+			"val": 2.130333768495006,
+			"group": "AUTO POSTO CRIANCA LTDA"
+		},
+		{
+			"id": 46153,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO CRIANCA LTDA"
+		},
+		{
+			"id": 46152,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO CRIANCA LTDA"
+		},
+		{
+			"id": "DOM FRANCISCO RESTAURANTE",
+			"name": "DOM FRANCISCO RESTAURANTE",
+			"val": 3.9913698706725027,
+			"desc": 139.97,
+			"group": "DOM FRANCISCO RESTAURANTE"
+		},
+		{
+			"id": 46107,
+			"name": 139.97,
+			"val": 2.1460349626025015,
+			"group": "DOM FRANCISCO RESTAURANTE"
+		},
+		{
+			"id": "ECT - Emp. Bras. de Correios e Telegrafos",
+			"name": "ECT - Emp. Bras. de Correios e Telegrafos",
+			"val": 1.7787655734549914,
+			"desc": 72.06,
+			"group": "ECT - Emp. Bras. de Correios e Telegrafos"
+		},
+		{
+			"id": 46102,
+			"name": 72.06,
+			"val": 1.8576942577865496,
+			"group": "ECT - Emp. Bras. de Correios e Telegrafos"
+		},
+		{
+			"id": "COMERCIO DER DE PETROLEO SABINO LTDA",
+			"name": "COMERCIO DER DE PETROLEO SABINO LTDA",
+			"val": 8.041098162887916,
+			"desc": 252,
+			"group": "COMERCIO DER DE PETROLEO SABINO LTDA"
+		},
+		{
+			"id": 46162,
+			"name": 252,
+			"val": 2.401400540781544,
+			"group": "COMERCIO DER DE PETROLEO SABINO LTDA"
+		},
+		{
+			"id": "KAWY COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "KAWY COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 13.044605223916363,
+			"desc": 380.46,
+			"group": "KAWY COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 46164,
+			"name": 100,
+			"val": 2,
+			"group": "KAWY COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 46165,
+			"name": 280.46,
+			"val": 2.4478709296990484,
+			"group": "KAWY COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "HOTEL SAN JUAN LTDA.",
+			"name": "HOTEL SAN JUAN LTDA.",
+			"val": 12.175033690273427,
+			"desc": 358.66,
+			"group": "HOTEL SAN JUAN LTDA."
+		},
+		{
+			"id": 46109,
+			"name": 63.5,
+			"val": 1.8027737252919755,
+			"group": "HOTEL SAN JUAN LTDA."
+		},
+		{
+			"id": 46122,
+			"name": 295.16,
+			"val": 2.4700575016729136,
+			"group": "HOTEL SAN JUAN LTDA."
+		},
+		{
+			"id": "DFM DERIVADOS DE PETROLEO LTDA",
+			"name": "DFM DERIVADOS DE PETROLEO LTDA",
+			"val": 4.518172931123694,
+			"desc": 155.2,
+			"group": "DFM DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 46163,
+			"name": 155.2,
+			"val": 2.1908917169221698,
+			"group": "DFM DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "YAMAGUCHI EMPREENDIMENTOS LTDA",
+			"name": "YAMAGUCHI EMPREENDIMENTOS LTDA",
+			"val": 153.75975379107345,
+			"desc": 3290,
+			"group": "YAMAGUCHI EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": 46124,
+			"name": 3290,
+			"val": 3.5171958979499744,
+			"group": "YAMAGUCHI EMPREENDIMENTOS LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 27.701153070191914,
+			"desc": 728.33,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46087,
+			"name": 173.31,
+			"val": 2.238823622261075,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46088,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46161,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46086,
+			"name": 195.02,
+			"val": 2.2900791521022015,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 46085,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
+		},
+		{
+			"id": 46168,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
+		},
+		{
+			"id": "SERAVAT ASSESSORIA",
+			"name": "SERAVAT ASSESSORIA",
+			"val": 26.46339111313052,
+			"desc": 700,
+			"group": "SERAVAT ASSESSORIA"
+		},
+		{
+			"id": 46082,
+			"name": 700,
+			"val": 2.845098040014257,
+			"group": "SERAVAT ASSESSORIA"
+		},
+		{
+			"id": "PH RESTAURANTE LTDA",
+			"name": "PH RESTAURANTE LTDA",
+			"val": 2.144684992703406,
+			"desc": 83.9,
+			"group": "PH RESTAURANTE LTDA"
+		},
+		{
+			"id": 46111,
+			"name": 83.9,
+			"val": 1.9237619608287002,
+			"group": "PH RESTAURANTE LTDA"
+		},
+		{
+			"id": "Victoria Villa Hotelaria LTDA",
+			"name": "Victoria Villa Hotelaria LTDA",
+			"val": 9.097139808828855,
+			"desc": 279.8,
+			"group": "Victoria Villa Hotelaria LTDA"
+		},
+		{
+			"id": 46123,
+			"name": 279.8,
+			"val": 2.446847710155809,
+			"group": "Victoria Villa Hotelaria LTDA"
+		},
+		{
+			"id": "AUTO POSTO SAO MARCOS LTDA",
+			"name": "AUTO POSTO SAO MARCOS LTDA",
+			"val": 5.302393458210368,
+			"desc": 177.43,
+			"group": "AUTO POSTO SAO MARCOS LTDA"
+		},
+		{
+			"id": 46155,
+			"name": 177.43,
+			"val": 2.2490270525471865,
+			"group": "AUTO POSTO SAO MARCOS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 4.824794109609436,
+			"desc": 163.95,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 46098,
+			"name": 58.91,
+			"val": 1.7701890227359933,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 46099,
+			"name": 105.04,
+			"val": 2.021354713081423,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 74.88639622691937,
+			"desc": 1739.24,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46141,
+			"name": 663.57,
+			"val": 2.8218867433424233,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46142,
+			"name": 721.39,
+			"val": 2.8581701177786845,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46140,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46139,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46143,
+			"name": 294.28,
+			"val": 2.4687607473704616,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 46138,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "AUTO POSTO TRANSYARA EIRELI",
+			"name": "AUTO POSTO TRANSYARA EIRELI",
+			"val": 8.734385219021094,
+			"desc": 270.3,
+			"group": "AUTO POSTO TRANSYARA EIRELI"
+		},
+		{
+			"id": 46157,
+			"name": 270.3,
+			"val": 2.4318460456987254,
+			"group": "AUTO POSTO TRANSYARA EIRELI"
+		},
+		{
+			"id": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"name": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"val": 8.6035015679461,
+			"desc": 266.86,
+			"group": "LAR COOPERATIVA AGROINDUSTRIAL"
+		},
+		{
+			"id": 46166,
+			"name": 266.86,
+			"val": 2.4262834816887793,
+			"group": "LAR COOPERATIVA AGROINDUSTRIAL"
+		},
+		{
+			"id": "AUTO POSTO COLOSSAL MERCES LTDA",
+			"name": "AUTO POSTO COLOSSAL MERCES LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO COLOSSAL MERCES LTDA"
+		},
+		{
+			"id": 46151,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO COLOSSAL MERCES LTDA"
+		},
+		{
+			"id": "AUTO POSTO JK LTDA",
+			"name": "AUTO POSTO JK LTDA",
+			"val": 4.841693790209678,
+			"desc": 164.43,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": 46084,
+			"name": 164.43,
+			"val": 2.2159810567918625,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": "RESTAURANTE BENDITO MANGIARE",
+			"name": "RESTAURANTE BENDITO MANGIARE",
+			"val": 3.787423806085366,
+			"desc": 134,
+			"group": "RESTAURANTE BENDITO MANGIARE"
+		},
+		{
+			"id": 46113,
+			"name": 134,
+			"val": 2.1271047983648077,
+			"group": "RESTAURANTE BENDITO MANGIARE"
+		},
+		{
+			"id": "AUTO POSTO HORIZONTE AZUL LTDA",
+			"name": "AUTO POSTO HORIZONTE AZUL LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO HORIZONTE AZUL LTDA"
+		},
+		{
+			"id": 46154,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO HORIZONTE AZUL LTDA"
+		},
+		{
+			"id": "CLARO S/A - NET",
+			"name": "CLARO S/A - NET",
+			"val": 0.7702009105084432,
+			"desc": 36.97,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 46092,
+			"name": 36.97,
+			"val": 1.5678494505731069,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": "PIER 69 EIRELE ME",
+			"name": "PIER 69 EIRELE ME",
+			"val": 1.1157442322815398,
+			"desc": 49.54,
+			"group": "PIER 69 EIRELE ME"
+		},
+		{
+			"id": 46112,
+			"name": 49.54,
+			"val": 1.6949560022498182,
+			"group": "PIER 69 EIRELE ME"
+		},
+		{
+			"id": "AUTO POSTO TOLECEMA LTDA",
+			"name": "AUTO POSTO TOLECEMA LTDA",
+			"val": 3.8832313895107866,
+			"desc": 136.81,
+			"group": "AUTO POSTO TOLECEMA LTDA"
+		},
+		{
+			"id": 46156,
+			"name": 136.81,
+			"val": 2.136117842896476,
+			"group": "AUTO POSTO TOLECEMA LTDA"
+		},
+		{
+			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"val": 4.403263869021905,
+			"desc": 151.9,
+			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": 46105,
+			"name": 151.9,
+			"val": 2.1815577738627865,
+			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 0.03063019633400822,
+			"desc": 3.9,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 46097,
+			"name": 3.9,
+			"val": 0.5910646070264992,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA",
+			"name": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA",
+			"val": 1.9178410900283187,
+			"desc": 76.6,
+			"group": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA"
+		},
+		{
+			"id": 46103,
+			"name": 76.6,
+			"val": 1.8842287696326039,
+			"group": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA"
+		},
+		{
+			"id": "GOL LINHAS AÉREAS S.A",
+			"name": "GOL LINHAS AÉREAS S.A",
+			"val": 10.502606733070474,
+			"desc": 316.17,
+			"group": "GOL LINHAS AÉREAS S.A"
+		},
+		{
+			"id": 46072,
+			"name": 316.17,
+			"val": 2.4999206592313503,
+			"group": "GOL LINHAS AÉREAS S.A"
+		},
+		{
+			"id": "MAURO LANG GODINHO",
+			"name": "MAURO LANG GODINHO",
+			"val": 5.75309026233152,
+			"desc": 190,
+			"group": "MAURO LANG GODINHO"
+		},
+		{
+			"id": 46079,
+			"name": 190,
+			"val": 2.278753600952829,
+			"group": "MAURO LANG GODINHO"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.4565427390333205,
+			"desc": 61.32,
+			"group": "RAMAL"
+		},
+		{
+			"id": 46095,
+			"name": 61.32,
+			"val": 1.7876021461823375,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 5.904767046565125,
+			"desc": 194.2,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 46096,
+			"name": 194.2,
+			"val": 2.288249225571986,
+			"group": "Telefônica Brasil S/A."
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 64.66
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 46100,
+			"value": 64.66
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 4218
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 46129,
+			"value": 256.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 46128,
+			"value": 671.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 46132,
+			"value": 880.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 46127,
+			"value": 445.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 46130,
+			"value": 326.35
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 46133,
+			"value": 555.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 46131,
+			"value": 1082.74
+		},
+		{
+			"source": -100,
+			"target": "NET CLARO",
+			"value": 86.35
+		},
+		{
+			"source": "NET CLARO",
+			"target": 46093,
+			"value": 86.35
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 4017.72
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46135,
+			"value": 807.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46137,
+			"value": 1339.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46136,
+			"value": 233.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 46134,
+			"value": 1636.17
+		},
+		{
+			"source": -100,
+			"target": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"value": 69.8
+		},
+		{
+			"source": "AEROTRIO ALIMENTOS LIMITADA ME",
+			"target": 46104,
+			"value": 69.8
+		},
+		{
+			"source": -100,
+			"target": "YUTAKA RESTAURANTE LTDA",
+			"value": 34.99
+		},
+		{
+			"source": "YUTAKA RESTAURANTE LTDA",
+			"target": 46121,
+			"value": 34.99
+		},
+		{
+			"source": -100,
+			"target": "Copel Distribuição S.A.",
+			"value": 892.96
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 46074,
+			"value": 82.42
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 46145,
+			"value": 83.44
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 46146,
+			"value": 317.1
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 46075,
+			"value": 410
+		},
+		{
+			"source": -100,
+			"target": "REGINA MAURA GASPARETTO ARNT",
+			"value": 1894.88
+		},
+		{
+			"source": "REGINA MAURA GASPARETTO ARNT",
+			"target": 46150,
+			"value": 920.45
+		},
+		{
+			"source": "REGINA MAURA GASPARETTO ARNT",
+			"target": 46081,
+			"value": 974.43
+		},
+		{
+			"source": -100,
+			"target": "IMPRIMA CARTUCHOS E INFORMATICA LTDA",
+			"value": 270
+		},
+		{
+			"source": "IMPRIMA CARTUCHOS E INFORMATICA LTDA",
+			"target": 46077,
+			"value": 180
+		},
+		{
+			"source": "IMPRIMA CARTUCHOS E INFORMATICA LTDA",
+			"target": 46076,
+			"value": 90
+		},
+		{
+			"source": -100,
+			"target": "Zabini & Cia Ltda",
+			"value": 187
+		},
+		{
+			"source": "Zabini & Cia Ltda",
+			"target": 46169,
+			"value": 187
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO TS LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO TS LTDA",
+			"target": 46159,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO TS LTDA",
+			"target": 46158,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
+			"value": 44.7
+		},
+		{
+			"source": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
+			"target": 46106,
+			"value": 44.7
+		},
+		{
+			"source": -100,
+			"target": "COPEL TELECOMUNICACOES S.A.",
+			"value": 149.9
+		},
+		{
+			"source": "COPEL TELECOMUNICACOES S.A.",
+			"target": 46147,
+			"value": 149.9
+		},
+		{
+			"source": -100,
+			"target": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"value": 59.8
+		},
+		{
+			"source": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+			"target": 46101,
+			"value": 59.8
+		},
+		{
+			"source": -100,
+			"target": "Brixner Brixner Ltda Epp",
+			"value": 213.08
+		},
+		{
+			"source": "Brixner Brixner Ltda Epp",
+			"target": 46160,
+			"value": 213.08
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 333.71
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 46171,
+			"value": 170.87
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 46170,
+			"value": 80.89
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 46091,
+			"value": 81.95
+		},
+		{
+			"source": -100,
+			"target": "Francisco Pátio Comércio de Alimentos Ltda EPP",
+			"value": 85.58
+		},
+		{
+			"source": "Francisco Pátio Comércio de Alimentos Ltda EPP",
+			"target": 46108,
+			"value": 85.58
+		},
+		{
+			"source": -100,
+			"target": "OI S.A",
+			"value": 97.75
+		},
+		{
+			"source": "OI S.A",
+			"target": 46094,
+			"value": 97.75
+		},
+		{
+			"source": -100,
+			"target": "RAFAEL PERIN TAVARES",
+			"value": 1200
+		},
+		{
+			"source": "RAFAEL PERIN TAVARES",
+			"target": 46080,
+			"value": 600
+		},
+		{
+			"source": "RAFAEL PERIN TAVARES",
+			"target": 46149,
+			"value": 600
+		},
+		{
+			"source": -100,
+			"target": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A",
+			"value": 104.97
+		},
+		{
+			"source": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A",
+			"target": 46125,
+			"value": 50.6
+		},
+		{
+			"source": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A",
+			"target": 46126,
+			"value": 54.37
+		},
+		{
+			"source": -100,
+			"target": "POSTO BOLINHA LTDA",
+			"value": 353.74
+		},
+		{
+			"source": "POSTO BOLINHA LTDA",
+			"target": 46090,
+			"value": 120.84
+		},
+		{
+			"source": "POSTO BOLINHA LTDA",
+			"target": 46167,
+			"value": 128.89
+		},
+		{
+			"source": "POSTO BOLINHA LTDA",
+			"target": 46089,
+			"value": 104.01
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 429.31999999999994
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 46119,
+			"value": 69.21
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 46115,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 46118,
+			"value": 68.5
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 46114,
+			"value": 28.49
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 46117,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 46120,
+			"value": 65.78
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 46116,
+			"value": 65.78
+		},
+		{
+			"source": -100,
+			"target": "MERCEARIA JABOTI CURITIBA LTDA",
+			"value": 12
+		},
+		{
+			"source": "MERCEARIA JABOTI CURITIBA LTDA",
+			"target": 46148,
+			"value": 12
+		},
+		{
+			"source": -100,
+			"target": "LIVRARIA BARAO LTDA",
+			"value": 153.7
+		},
+		{
+			"source": "LIVRARIA BARAO LTDA",
+			"target": 46078,
+			"value": 153.7
+		},
+		{
+			"source": -100,
+			"target": "MFT EMPREENDIMENTOS",
+			"value": 46.9
+		},
+		{
+			"source": "MFT EMPREENDIMENTOS",
+			"target": 46110,
+			"value": 46.9
+		},
+		{
+			"source": -100,
+			"target": "ADALBERTO JOSE BORDIGNON",
+			"value": 4000
+		},
+		{
+			"source": "ADALBERTO JOSE BORDIGNON",
+			"target": 46144,
+			"value": 2000
+		},
+		{
+			"source": "ADALBERTO JOSE BORDIGNON",
+			"target": 46073,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CRIANCA LTDA",
+			"value": 335
+		},
+		{
+			"source": "AUTO POSTO CRIANCA LTDA",
+			"target": 46083,
+			"value": 135
+		},
+		{
+			"source": "AUTO POSTO CRIANCA LTDA",
+			"target": 46153,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO CRIANCA LTDA",
+			"target": 46152,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "DOM FRANCISCO RESTAURANTE",
+			"value": 139.97
+		},
+		{
+			"source": "DOM FRANCISCO RESTAURANTE",
+			"target": 46107,
+			"value": 139.97
+		},
+		{
+			"source": -100,
+			"target": "ECT - Emp. Bras. de Correios e Telegrafos",
+			"value": 72.06
+		},
+		{
+			"source": "ECT - Emp. Bras. de Correios e Telegrafos",
+			"target": 46102,
+			"value": 72.06
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DER DE PETROLEO SABINO LTDA",
+			"value": 252
+		},
+		{
+			"source": "COMERCIO DER DE PETROLEO SABINO LTDA",
+			"target": 46162,
+			"value": 252
+		},
+		{
+			"source": -100,
+			"target": "KAWY COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 380.46
+		},
+		{
+			"source": "KAWY COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 46164,
+			"value": 100
+		},
+		{
+			"source": "KAWY COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 46165,
+			"value": 280.46
+		},
+		{
+			"source": -100,
+			"target": "HOTEL SAN JUAN LTDA.",
+			"value": 358.66
+		},
+		{
+			"source": "HOTEL SAN JUAN LTDA.",
+			"target": 46109,
+			"value": 63.5
+		},
+		{
+			"source": "HOTEL SAN JUAN LTDA.",
+			"target": 46122,
+			"value": 295.16
+		},
+		{
+			"source": -100,
+			"target": "DFM DERIVADOS DE PETROLEO LTDA",
+			"value": 155.2
+		},
+		{
+			"source": "DFM DERIVADOS DE PETROLEO LTDA",
+			"target": 46163,
+			"value": 155.2
+		},
+		{
+			"source": -100,
+			"target": "YAMAGUCHI EMPREENDIMENTOS LTDA",
+			"value": 3290
+		},
+		{
+			"source": "YAMAGUCHI EMPREENDIMENTOS LTDA",
+			"target": 46124,
+			"value": 3290
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 728.33
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46087,
+			"value": 173.31
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46088,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46161,
+			"value": 210
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46086,
+			"value": 195.02
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 46085,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"target": 46168,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "SERAVAT ASSESSORIA",
+			"value": 700
+		},
+		{
+			"source": "SERAVAT ASSESSORIA",
+			"target": 46082,
+			"value": 700
+		},
+		{
+			"source": -100,
+			"target": "PH RESTAURANTE LTDA",
+			"value": 83.9
+		},
+		{
+			"source": "PH RESTAURANTE LTDA",
+			"target": 46111,
+			"value": 83.9
+		},
+		{
+			"source": -100,
+			"target": "Victoria Villa Hotelaria LTDA",
+			"value": 279.8
+		},
+		{
+			"source": "Victoria Villa Hotelaria LTDA",
+			"target": 46123,
+			"value": 279.8
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SAO MARCOS LTDA",
+			"value": 177.43
+		},
+		{
+			"source": "AUTO POSTO SAO MARCOS LTDA",
+			"target": 46155,
+			"value": 177.43
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 163.95
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 46098,
+			"value": 58.91
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 46099,
+			"value": 105.04
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 1739.24
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46141,
+			"value": 663.57
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46142,
+			"value": 721.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46140,
+			"value": 20
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46139,
+			"value": 20
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46143,
+			"value": 294.28
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 46138,
+			"value": 20
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO TRANSYARA EIRELI",
+			"value": 270.3
+		},
+		{
+			"source": "AUTO POSTO TRANSYARA EIRELI",
+			"target": 46157,
+			"value": 270.3
+		},
+		{
+			"source": -100,
+			"target": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"value": 266.86
+		},
+		{
+			"source": "LAR COOPERATIVA AGROINDUSTRIAL",
+			"target": 46166,
+			"value": 266.86
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO COLOSSAL MERCES LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO COLOSSAL MERCES LTDA",
+			"target": 46151,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO JK LTDA",
+			"value": 164.43
+		},
+		{
+			"source": "AUTO POSTO JK LTDA",
+			"target": 46084,
+			"value": 164.43
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE BENDITO MANGIARE",
+			"value": 134
+		},
+		{
+			"source": "RESTAURANTE BENDITO MANGIARE",
+			"target": 46113,
+			"value": 134
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO HORIZONTE AZUL LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO HORIZONTE AZUL LTDA",
+			"target": 46154,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A - NET",
+			"value": 36.97
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 46092,
+			"value": 36.97
+		},
+		{
+			"source": -100,
+			"target": "PIER 69 EIRELE ME",
+			"value": 49.54
+		},
+		{
+			"source": "PIER 69 EIRELE ME",
+			"target": 46112,
+			"value": 49.54
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO TOLECEMA LTDA",
+			"value": 136.81
+		},
+		{
+			"source": "AUTO POSTO TOLECEMA LTDA",
+			"target": 46156,
+			"value": 136.81
+		},
+		{
+			"source": -100,
+			"target": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"value": 151.9
+		},
+		{
+			"source": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+			"target": 46105,
+			"value": 151.9
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 3.9
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 46097,
+			"value": 3.9
+		},
+		{
+			"source": -100,
+			"target": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA",
+			"value": 76.6
+		},
+		{
+			"source": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA",
+			"target": 46103,
+			"value": 76.6
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AÉREAS S.A",
+			"value": 316.17
+		},
+		{
+			"source": "GOL LINHAS AÉREAS S.A",
+			"target": 46072,
+			"value": 316.17
+		},
+		{
+			"source": -100,
+			"target": "MAURO LANG GODINHO",
+			"value": 190
+		},
+		{
+			"source": "MAURO LANG GODINHO",
+			"target": 46079,
+			"value": 190
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 61.32
+		},
+		{
+			"source": "RAMAL",
+			"target": 46095,
+			"value": 61.32
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 194.2
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 46096,
+			"value": 194.2
+		}
+	]
+}

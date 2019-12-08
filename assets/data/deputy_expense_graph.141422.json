@@ -1,0 +1,1581 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "EFRAIM FILHO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 21.51294300662835,
+			"desc": 585.0699999999999,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 16160,
+			"name": 81.24,
+			"val": 1.9097699147327691,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 16117,
+			"name": 60.61,
+			"val": 1.78254428401001,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 16086,
+			"name": 209.92,
+			"val": 2.3220538176955663,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 16085,
+			"name": 24.48,
+			"val": 1.3888114134735237,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 16087,
+			"name": 208.82,
+			"val": 2.3197720914263633,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "BEZERRA E LUCENA LTDA",
+			"name": "BEZERRA E LUCENA LTDA",
+			"val": 944.6129056816399,
+			"desc": 16822.32,
+			"group": "BEZERRA E LUCENA LTDA"
+		},
+		{
+			"id": 16061,
+			"name": 5333.47,
+			"val": 3.727009856589776,
+			"group": "BEZERRA E LUCENA LTDA"
+		},
+		{
+			"id": 16107,
+			"name": 3824.41,
+			"val": 3.5825644451084147,
+			"group": "BEZERRA E LUCENA LTDA"
+		},
+		{
+			"id": 16075,
+			"name": 4362.6,
+			"val": 3.639745395027509,
+			"group": "BEZERRA E LUCENA LTDA"
+		},
+		{
+			"id": 16133,
+			"name": 3301.84,
+			"val": 3.518756024468666,
+			"group": "BEZERRA E LUCENA LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 17.599699365617134,
+			"desc": 492.02,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16119,
+			"name": 53.19,
+			"val": 1.7258299903205803,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16088,
+			"name": 36.58,
+			"val": 1.5632437011403981,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16089,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16118,
+			"name": 38.43,
+			"val": 1.5846703844643488,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16091,
+			"name": 12.42,
+			"val": 1.0941215958405615,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16093,
+			"name": 66.18,
+			"val": 1.8207267628238342,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16095,
+			"name": 71.8,
+			"val": 1.8561244442423004,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16092,
+			"name": 54.88,
+			"val": 1.7394141026986953,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16090,
+			"name": 76.93,
+			"val": 1.8860957324377474,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 16094,
+			"name": 38.21,
+			"val": 1.5821770376884088,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 25.335414360732923,
+			"desc": 674.05,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 16081,
+			"name": 21.45,
+			"val": 1.331427296520743,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 16083,
+			"name": 23.4,
+			"val": 1.3692158574101427,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 16116,
+			"name": 109.2,
+			"val": 2.0382226383687185,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 16082,
+			"name": 128.7,
+			"val": 2.1095785469043866,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 16080,
+			"name": 183.3,
+			"val": 2.2631624649622166,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 16115,
+			"name": 208,
+			"val": 2.3180633349627615,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 466.405040830403,
+			"desc": 8888.800000000001,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16128,
+			"name": 549.79,
+			"val": 2.740196836299892,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16102,
+			"name": 1313.79,
+			"val": 3.1185259518829747,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16103,
+			"name": 1536.79,
+			"val": 3.186614525878267,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16101,
+			"name": 1418.39,
+			"val": 3.1517956607202384,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16105,
+			"name": 886.39,
+			"val": 2.9476248478251073,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16104,
+			"name": 744.39,
+			"val": 2.871800530264761,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16129,
+			"name": 684.79,
+			"val": 2.8355574097057077,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 16100,
+			"name": 1754.47,
+			"val": 3.244145946534983,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "TIM S/A",
+			"name": "TIM S/A",
+			"val": 47.55754123253022,
+			"desc": 1166.94,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 16067,
+			"name": 142.51,
+			"val": 2.153845340080965,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 16155,
+			"name": 373.28,
+			"val": 2.5720347214496773,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 16069,
+			"name": 59.99,
+			"val": 1.778078861937455,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 16154,
+			"name": 150.01,
+			"val": 2.1761202110560856,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 16156,
+			"name": 64.99,
+			"val": 1.8128465369670712,
+			"group": "TIM S/A"
+		},
+		{
+			"id": 16068,
+			"name": 376.16,
+			"val": 2.575372611780864,
+			"group": "TIM S/A"
+		},
+		{
+			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 16106,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 7.426669371811451,
+			"desc": 235.61,
+			"group": "RAMAL"
+		},
+		{
+			"id": 16114,
+			"name": 61.92,
+			"val": 1.7918309476748362,
+			"group": "RAMAL"
+		},
+		{
+			"id": 16079,
+			"name": 44.22,
+			"val": 1.645618738242695,
+			"group": "RAMAL"
+		},
+		{
+			"id": 16066,
+			"name": 42.84,
+			"val": 1.631849462159818,
+			"group": "RAMAL"
+		},
+		{
+			"id": 16153,
+			"name": 86.63,
+			"val": 1.937668314399005,
+			"group": "RAMAL"
+		},
+		{
+			"id": "ESMAILDO PEREIRA",
+			"name": "ESMAILDO PEREIRA",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "ESMAILDO PEREIRA"
+		},
+		{
+			"id": 16145,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "ESMAILDO PEREIRA"
+		},
+		{
+			"id": "FRANCISCO DE ASSIS SOARES DO REGO-ME",
+			"name": "FRANCISCO DE ASSIS SOARES DO REGO-ME",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "FRANCISCO DE ASSIS SOARES DO REGO-ME"
+		},
+		{
+			"id": 16064,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "FRANCISCO DE ASSIS SOARES DO REGO-ME"
+		},
+		{
+			"id": 16147,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "FRANCISCO DE ASSIS SOARES DO REGO-ME"
+		},
+		{
+			"id": 16111,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "FRANCISCO DE ASSIS SOARES DO REGO-ME"
+		},
+		{
+			"id": "RODRIGUES TEIXEIRA ADVOCACIA",
+			"name": "RODRIGUES TEIXEIRA ADVOCACIA",
+			"val": 1460.9640474436812,
+			"desc": 25000,
+			"group": "RODRIGUES TEIXEIRA ADVOCACIA"
+		},
+		{
+			"id": 16063,
+			"name": 25000,
+			"val": 4.3979400086720375,
+			"group": "RODRIGUES TEIXEIRA ADVOCACIA"
+		},
+		{
+			"id": "RAINHA PUBLICIDADE E PROPAGANDA LTDA",
+			"name": "RAINHA PUBLICIDADE E PROPAGANDA LTDA",
+			"val": 49.09832971438023,
+			"desc": 1200,
+			"group": "RAINHA PUBLICIDADE E PROPAGANDA LTDA"
+		},
+		{
+			"id": 16142,
+			"name": 1200,
+			"val": 3.0791812460476247,
+			"group": "RAINHA PUBLICIDADE E PROPAGANDA LTDA"
+		},
+		{
+			"id": "WSCOM COMUNICAÇÕES LTDA",
+			"name": "WSCOM COMUNICAÇÕES LTDA",
+			"val": 51.43856189774724,
+			"desc": 1250,
+			"group": "WSCOM COMUNICAÇÕES LTDA"
+		},
+		{
+			"id": 16152,
+			"name": 1250,
+			"val": 3.0969100130080562,
+			"group": "WSCOM COMUNICAÇÕES LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 16138,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 16136,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 16137,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 16135,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 16108,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 86.67419021454047,
+			"desc": 1978.7899999999995,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16125,
+			"name": -1567.44,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16099,
+			"name": 1566.79,
+			"val": 3.1950107910104477,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16123,
+			"name": 1648.39,
+			"val": 3.217059971201985,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16072,
+			"name": 182.98,
+			"val": 2.2624036232587823,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16126,
+			"name": -1194.59,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16098,
+			"name": 823.39,
+			"val": 2.9156055882247522,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16124,
+			"name": 1255.84,
+			"val": 3.0989343117392254,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16127,
+			"name": -1489.74,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 16073,
+			"name": 753.17,
+			"val": 2.8768930130255437,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "GP COBERTURA JORNALISTICA LTDA ME",
+			"name": "GP COBERTURA JORNALISTICA LTDA ME",
+			"val": 218.4427671498792,
+			"desc": 4500,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 16112,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 16148,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": 16076,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "GP COBERTURA JORNALISTICA LTDA ME"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA",
+			"name": "CORREIOS - CARTA REGISTRADA",
+			"val": 0.4729208635905601,
+			"desc": 25.349999999999998,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 16159,
+			"name": 8.45,
+			"val": 0.9268567089496923,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 16084,
+			"name": 8.45,
+			"val": 0.9268567089496923,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": 16158,
+			"name": 8.45,
+			"val": 0.9268567089496923,
+			"group": "CORREIOS - CARTA REGISTRADA"
+		},
+		{
+			"id": "Nelsivania de Almeida Medeiros - ME",
+			"name": "Nelsivania de Almeida Medeiros - ME",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "Nelsivania de Almeida Medeiros - ME"
+		},
+		{
+			"id": 16077,
+			"name": 1000,
+			"val": 3,
+			"group": "Nelsivania de Almeida Medeiros - ME"
+		},
+		{
+			"id": "LINDERLANDIO BARBOSA ME",
+			"name": "LINDERLANDIO BARBOSA ME",
+			"val": 1589.83255297716,
+			"desc": 27000,
+			"group": "LINDERLANDIO BARBOSA ME"
+		},
+		{
+			"id": 16065,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "LINDERLANDIO BARBOSA ME"
+		},
+		{
+			"id": 16149,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "LINDERLANDIO BARBOSA ME"
+		},
+		{
+			"id": 16113,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "LINDERLANDIO BARBOSA ME"
+		},
+		{
+			"id": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
+			"name": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
+			"val": 51.43856189774724,
+			"desc": 1250,
+			"group": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA"
+		},
+		{
+			"id": 16144,
+			"name": 1250,
+			"val": 3.0969100130080562,
+			"group": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA"
+		},
+		{
+			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
+		},
+		{
+			"id": 16132,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
+		},
+		{
+			"id": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"name": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
+		},
+		{
+			"id": 16139,
+			"name": 100,
+			"val": 2,
+			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
+		},
+		{
+			"id": "POLLYANA SANTOS DE ANDRADE FRADE - ME",
+			"name": "POLLYANA SANTOS DE ANDRADE FRADE - ME",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "POLLYANA SANTOS DE ANDRADE FRADE - ME"
+		},
+		{
+			"id": 16151,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "POLLYANA SANTOS DE ANDRADE FRADE - ME"
+		},
+		{
+			"id": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"name": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"val": 1111.5925472748982,
+			"desc": 19500,
+			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
+		},
+		{
+			"id": 16109,
+			"name": 6500,
+			"val": 3.8129133566428557,
+			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
+		},
+		{
+			"id": 16143,
+			"name": 6500,
+			"val": 3.8129133566428557,
+			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
+		},
+		{
+			"id": 16078,
+			"name": 6500,
+			"val": 3.8129133566428557,
+			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
+		},
+		{
+			"id": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA",
+			"name": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA",
+			"val": 51.43856189774724,
+			"desc": 1250,
+			"group": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA"
+		},
+		{
+			"id": 16150,
+			"name": 1250,
+			"val": 3.0969100130080562,
+			"group": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA"
+		},
+		{
+			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"val": 1.93942500059439,
+			"desc": 77.3,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 16157,
+			"name": 77.3,
+			"val": 1.888179493918325,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": "AUTO POSTO PETER PAN 01 LTDA",
+			"name": "AUTO POSTO PETER PAN 01 LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO PETER PAN 01 LTDA"
+		},
+		{
+			"id": 16130,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO PETER PAN 01 LTDA"
+		},
+		{
+			"id": 16131,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO PETER PAN 01 LTDA"
+		},
+		{
+			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"val": 164.82394889407567,
+			"desc": 3500,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": 16096,
+			"name": 1750,
+			"val": 3.2430380486862944,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": 16121,
+			"name": 1750,
+			"val": 3.2430380486862944,
+			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
+		},
+		{
+			"id": "FEEDBACK SERVIÇOS DE COMUNICAÇÃO",
+			"name": "FEEDBACK SERVIÇOS DE COMUNICAÇÃO",
+			"val": 49.09832971438023,
+			"desc": 1200,
+			"group": "FEEDBACK SERVIÇOS DE COMUNICAÇÃO"
+		},
+		{
+			"id": 16146,
+			"name": 1200,
+			"val": 3.0791812460476247,
+			"group": "FEEDBACK SERVIÇOS DE COMUNICAÇÃO"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 137.90593268561594,
+			"desc": 2986.4700000000003,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 16122,
+			"name": 1428.49,
+			"val": 3.1548772044947366,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 16097,
+			"name": 1003.49,
+			"val": 3.001513049004413,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 16071,
+			"name": 554.49,
+			"val": 2.7438937182327345,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "EMMANUEL DA NOBREGA FALCAO",
+			"name": "EMMANUEL DA NOBREGA FALCAO",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "EMMANUEL DA NOBREGA FALCAO"
+		},
+		{
+			"id": 16062,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "EMMANUEL DA NOBREGA FALCAO"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 16140,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "EMIDIO SOUTO PEREIRA - EPP",
+			"name": "EMIDIO SOUTO PEREIRA - EPP",
+			"val": 58.78851042517429,
+			"desc": 1405.5,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": 16074,
+			"name": 1405.5,
+			"val": 3.1478308499434595,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 16134,
+			"name": 100,
+			"val": 2,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "EMPRESA DE TELEVISAO JOAO PESSOA LTDA",
+			"name": "EMPRESA DE TELEVISAO JOAO PESSOA LTDA",
+			"val": 87.7262742772967,
+			"desc": 2000,
+			"group": "EMPRESA DE TELEVISAO JOAO PESSOA LTDA"
+		},
+		{
+			"id": 16110,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "EMPRESA DE TELEVISAO JOAO PESSOA LTDA"
+		},
+		{
+			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"val": 75.41197444703784,
+			"desc": 1750,
+			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
+		},
+		{
+			"id": 16070,
+			"name": 1750,
+			"val": 3.2430380486862944,
+			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 1.3865458546251452,
+			"desc": 58.94,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 16120,
+			"name": 58.94,
+			"val": 1.7704101315139062,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
+			"name": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
+		},
+		{
+			"id": 16141,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 585.0699999999999
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 16160,
+			"value": 81.24
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 16117,
+			"value": 60.61
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 16086,
+			"value": 209.92
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 16085,
+			"value": 24.48
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 16087,
+			"value": 208.82
+		},
+		{
+			"source": -100,
+			"target": "BEZERRA E LUCENA LTDA",
+			"value": 16822.32
+		},
+		{
+			"source": "BEZERRA E LUCENA LTDA",
+			"target": 16061,
+			"value": 5333.47
+		},
+		{
+			"source": "BEZERRA E LUCENA LTDA",
+			"target": 16107,
+			"value": 3824.41
+		},
+		{
+			"source": "BEZERRA E LUCENA LTDA",
+			"target": 16075,
+			"value": 4362.6
+		},
+		{
+			"source": "BEZERRA E LUCENA LTDA",
+			"target": 16133,
+			"value": 3301.84
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 492.02
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16119,
+			"value": 53.19
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16088,
+			"value": 36.58
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16089,
+			"value": 43.4
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16118,
+			"value": 38.43
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16091,
+			"value": 12.42
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16093,
+			"value": 66.18
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16095,
+			"value": 71.8
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16092,
+			"value": 54.88
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16090,
+			"value": 76.93
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 16094,
+			"value": 38.21
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 674.05
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 16081,
+			"value": 21.45
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 16083,
+			"value": 23.4
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 16116,
+			"value": 109.2
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 16082,
+			"value": 128.7
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 16080,
+			"value": 183.3
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 16115,
+			"value": 208
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 8888.800000000001
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16128,
+			"value": 549.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16102,
+			"value": 1313.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16103,
+			"value": 1536.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16101,
+			"value": 1418.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16105,
+			"value": 886.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16104,
+			"value": 744.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16129,
+			"value": 684.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 16100,
+			"value": 1754.47
+		},
+		{
+			"source": -100,
+			"target": "TIM S/A",
+			"value": 1166.94
+		},
+		{
+			"source": "TIM S/A",
+			"target": 16067,
+			"value": 142.51
+		},
+		{
+			"source": "TIM S/A",
+			"target": 16155,
+			"value": 373.28
+		},
+		{
+			"source": "TIM S/A",
+			"target": 16069,
+			"value": 59.99
+		},
+		{
+			"source": "TIM S/A",
+			"target": 16154,
+			"value": 150.01
+		},
+		{
+			"source": "TIM S/A",
+			"target": 16156,
+			"value": 64.99
+		},
+		{
+			"source": "TIM S/A",
+			"target": 16068,
+			"value": 376.16
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 16106,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 235.61
+		},
+		{
+			"source": "RAMAL",
+			"target": 16114,
+			"value": 61.92
+		},
+		{
+			"source": "RAMAL",
+			"target": 16079,
+			"value": 44.22
+		},
+		{
+			"source": "RAMAL",
+			"target": 16066,
+			"value": 42.84
+		},
+		{
+			"source": "RAMAL",
+			"target": 16153,
+			"value": 86.63
+		},
+		{
+			"source": -100,
+			"target": "ESMAILDO PEREIRA",
+			"value": 1500
+		},
+		{
+			"source": "ESMAILDO PEREIRA",
+			"target": 16145,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "FRANCISCO DE ASSIS SOARES DO REGO-ME",
+			"value": 1500
+		},
+		{
+			"source": "FRANCISCO DE ASSIS SOARES DO REGO-ME",
+			"target": 16064,
+			"value": 500
+		},
+		{
+			"source": "FRANCISCO DE ASSIS SOARES DO REGO-ME",
+			"target": 16147,
+			"value": 500
+		},
+		{
+			"source": "FRANCISCO DE ASSIS SOARES DO REGO-ME",
+			"target": 16111,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "RODRIGUES TEIXEIRA ADVOCACIA",
+			"value": 25000
+		},
+		{
+			"source": "RODRIGUES TEIXEIRA ADVOCACIA",
+			"target": 16063,
+			"value": 25000
+		},
+		{
+			"source": -100,
+			"target": "RAINHA PUBLICIDADE E PROPAGANDA LTDA",
+			"value": 1200
+		},
+		{
+			"source": "RAINHA PUBLICIDADE E PROPAGANDA LTDA",
+			"target": 16142,
+			"value": 1200
+		},
+		{
+			"source": -100,
+			"target": "WSCOM COMUNICAÇÕES LTDA",
+			"value": 1250
+		},
+		{
+			"source": "WSCOM COMUNICAÇÕES LTDA",
+			"target": 16152,
+			"value": 1250
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 500
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 16138,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 16136,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 16137,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 16135,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 16108,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 1978.7899999999995
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16125,
+			"value": -1567.44
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16099,
+			"value": 1566.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16123,
+			"value": 1648.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16072,
+			"value": 182.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16126,
+			"value": -1194.59
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16098,
+			"value": 823.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16124,
+			"value": 1255.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16127,
+			"value": -1489.74
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 16073,
+			"value": 753.17
+		},
+		{
+			"source": -100,
+			"target": "GP COBERTURA JORNALISTICA LTDA ME",
+			"value": 4500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 16112,
+			"value": 1500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 16148,
+			"value": 1500
+		},
+		{
+			"source": "GP COBERTURA JORNALISTICA LTDA ME",
+			"target": 16076,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA",
+			"value": 25.349999999999998
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 16159,
+			"value": 8.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 16084,
+			"value": 8.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA",
+			"target": 16158,
+			"value": 8.45
+		},
+		{
+			"source": -100,
+			"target": "Nelsivania de Almeida Medeiros - ME",
+			"value": 1000
+		},
+		{
+			"source": "Nelsivania de Almeida Medeiros - ME",
+			"target": 16077,
+			"value": 1000
+		},
+		{
+			"source": -100,
+			"target": "LINDERLANDIO BARBOSA ME",
+			"value": 27000
+		},
+		{
+			"source": "LINDERLANDIO BARBOSA ME",
+			"target": 16065,
+			"value": 9000
+		},
+		{
+			"source": "LINDERLANDIO BARBOSA ME",
+			"target": 16149,
+			"value": 9000
+		},
+		{
+			"source": "LINDERLANDIO BARBOSA ME",
+			"target": 16113,
+			"value": 9000
+		},
+		{
+			"source": -100,
+			"target": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
+			"value": 1250
+		},
+		{
+			"source": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
+			"target": 16144,
+			"value": 1250
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"target": 16132,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"value": 100
+		},
+		{
+			"source": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"target": 16139,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "POLLYANA SANTOS DE ANDRADE FRADE - ME",
+			"value": 1500
+		},
+		{
+			"source": "POLLYANA SANTOS DE ANDRADE FRADE - ME",
+			"target": 16151,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"value": 19500
+		},
+		{
+			"source": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"target": 16109,
+			"value": 6500
+		},
+		{
+			"source": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"target": 16143,
+			"value": 6500
+		},
+		{
+			"source": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"target": 16078,
+			"value": 6500
+		},
+		{
+			"source": -100,
+			"target": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA",
+			"value": 1250
+		},
+		{
+			"source": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA",
+			"target": 16150,
+			"value": 1250
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"value": 77.3
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 16157,
+			"value": 77.3
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO PETER PAN 01 LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO PETER PAN 01 LTDA",
+			"target": 16130,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO PETER PAN 01 LTDA",
+			"target": 16131,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"value": 3500
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"target": 16096,
+			"value": 1750
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
+			"target": 16121,
+			"value": 1750
+		},
+		{
+			"source": -100,
+			"target": "FEEDBACK SERVIÇOS DE COMUNICAÇÃO",
+			"value": 1200
+		},
+		{
+			"source": "FEEDBACK SERVIÇOS DE COMUNICAÇÃO",
+			"target": 16146,
+			"value": 1200
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 2986.4700000000003
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 16122,
+			"value": 1428.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 16097,
+			"value": 1003.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 16071,
+			"value": 554.49
+		},
+		{
+			"source": -100,
+			"target": "EMMANUEL DA NOBREGA FALCAO",
+			"value": 3000
+		},
+		{
+			"source": "EMMANUEL DA NOBREGA FALCAO",
+			"target": 16062,
+			"value": 3000
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 100
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 16140,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "EMIDIO SOUTO PEREIRA - EPP",
+			"value": 1405.5
+		},
+		{
+			"source": "EMIDIO SOUTO PEREIRA - EPP",
+			"target": 16074,
+			"value": 1405.5
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 100
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 16134,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA DE TELEVISAO JOAO PESSOA LTDA",
+			"value": 2000
+		},
+		{
+			"source": "EMPRESA DE TELEVISAO JOAO PESSOA LTDA",
+			"target": 16110,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"value": 1750
+		},
+		{
+			"source": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"target": 16070,
+			"value": 1750
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 58.94
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 16120,
+			"value": 58.94
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
+			"target": 16141,
+			"value": 100
+		}
+	]
+}

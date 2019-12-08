@@ -1,0 +1,1329 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "GENECIAS NORONHA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.7067750362240766,
+			"desc": 101.52000000000001,
+			"group": "RAMAL"
+		},
+		{
+			"id": 20701,
+			"name": 9.56,
+			"val": 0.9804578922761,
+			"group": "RAMAL"
+		},
+		{
+			"id": 20652,
+			"name": 12.54,
+			"val": 1.0982975364946976,
+			"group": "RAMAL"
+		},
+		{
+			"id": 20723,
+			"name": 41.78,
+			"val": 1.6209684356442897,
+			"group": "RAMAL"
+		},
+		{
+			"id": 20673,
+			"name": 37.64,
+			"val": 1.5756496147552193,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1269.8328401826325,
+			"desc": 22006.519999999997,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20658,
+			"name": 1093.98,
+			"val": 3.0390093823547843,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20705,
+			"name": 705.85,
+			"val": 2.848712419049423,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20678,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20707,
+			"name": 877.98,
+			"val": 2.943484622980627,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20730,
+			"name": 2029.39,
+			"val": 3.307365516019059,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20726,
+			"name": 770.39,
+			"val": 2.8867106368202613,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20657,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20655,
+			"name": 1371.08,
+			"val": 3.1370627958142547,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20728,
+			"name": 970.95,
+			"val": 2.987196866073612,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20706,
+			"name": 794.85,
+			"val": 2.900285178570011,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20703,
+			"name": 1818.39,
+			"val": 3.2596870343772966,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20654,
+			"name": 280.08,
+			"val": 2.4472820977569762,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20677,
+			"name": 1155.08,
+			"val": 3.0626120641895205,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20704,
+			"name": 1167.98,
+			"val": 3.067435406163363,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20679,
+			"name": 1818.39,
+			"val": 3.2596870343772966,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20659,
+			"name": 1192.98,
+			"val": 3.0766331628971266,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20729,
+			"name": 2030.98,
+			"val": 3.3077056467271087,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20709,
+			"name": -625.05,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20727,
+			"name": 1988.39,
+			"val": 3.2985015703210454,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20680,
+			"name": 1139.98,
+			"val": 3.0568972320682,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20710,
+			"name": -756.75,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20708,
+			"name": 1413.39,
+			"val": 3.150262014274457,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20656,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20681,
+			"name": -382.64,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 20731,
+			"name": 1063.85,
+			"val": 3.0268803979170684,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "ADVOCACIA ASSOCIADA FERNADES NETO",
+			"name": "ADVOCACIA ASSOCIADA FERNADES NETO",
+			"val": 832.3604928162363,
+			"desc": 15000,
+			"group": "ADVOCACIA ASSOCIADA FERNADES NETO"
+		},
+		{
+			"id": 20715,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "ADVOCACIA ASSOCIADA FERNADES NETO"
+		},
+		{
+			"id": 20740,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "ADVOCACIA ASSOCIADA FERNADES NETO"
+		},
+		{
+			"id": 20741,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "ADVOCACIA ASSOCIADA FERNADES NETO"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 1296.2558532926118,
+			"desc": 22422.449999999997,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20686,
+			"name": 1257.08,
+			"val": 3.0993629168689303,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20689,
+			"name": 499.39,
+			"val": 2.6984398416030317,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20691,
+			"name": 877.98,
+			"val": 2.943484622980627,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20693,
+			"name": 1371.85,
+			"val": 3.1373066275998633,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20714,
+			"name": 964.98,
+			"val": 2.9845183123286128,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20734,
+			"name": 801.08,
+			"val": 2.903675889147482,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20687,
+			"name": 947.39,
+			"val": 2.976528796301016,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20733,
+			"name": 1078.98,
+			"val": 3.0330133946642466,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20692,
+			"name": 701.39,
+			"val": 2.8459595696781066,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20738,
+			"name": 1625.94,
+			"val": 3.2111045153357276,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20737,
+			"name": 1864.39,
+			"val": 3.2705367648481545,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20685,
+			"name": 1257.08,
+			"val": 3.0993629168689303,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20682,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20690,
+			"name": 531.08,
+			"val": 2.7251599465835366,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20732,
+			"name": 923.39,
+			"val": 2.965385166978892,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20662,
+			"name": 758.98,
+			"val": 2.8802303318848366,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20663,
+			"name": -758.98,
+			"val": null,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20713,
+			"name": 704.85,
+			"val": 2.848096704078633,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20735,
+			"name": 1753.39,
+			"val": 3.2438785253407074,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20660,
+			"name": 1006.98,
+			"val": 3.0030208449569007,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20684,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20683,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20712,
+			"name": 1086.98,
+			"val": 3.036221553313943,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20711,
+			"name": 61,
+			"val": 1.7853298350107671,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20661,
+			"name": 603.47,
+			"val": 2.780655685107271,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20688,
+			"name": 809.39,
+			"val": 2.908157834387587,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 20736,
+			"name": 1559.39,
+			"val": 3.192954744865582,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "TERRAL TAXI AEREO LTDA EPP",
+			"name": "TERRAL TAXI AEREO LTDA EPP",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "TERRAL TAXI AEREO LTDA EPP"
+		},
+		{
+			"id": 20725,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "TERRAL TAXI AEREO LTDA EPP"
+		},
+		{
+			"id": "RÁDIO VALE DO RIO POTY LTDA",
+			"name": "RÁDIO VALE DO RIO POTY LTDA",
+			"val": 531.508495181978,
+			"desc": 10000,
+			"group": "RÁDIO VALE DO RIO POTY LTDA"
+		},
+		{
+			"id": 20669,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "RÁDIO VALE DO RIO POTY LTDA"
+		},
+		{
+			"id": 20697,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "RÁDIO VALE DO RIO POTY LTDA"
+		},
+		{
+			"id": 20718,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "RÁDIO VALE DO RIO POTY LTDA"
+		},
+		{
+			"id": 20744,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "RÁDIO VALE DO RIO POTY LTDA"
+		},
+		{
+			"id": 20648,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "RÁDIO VALE DO RIO POTY LTDA"
+		},
+		{
+			"id": "CICERO GEORGE DOS SANTOS NORONHA",
+			"name": "CICERO GEORGE DOS SANTOS NORONHA",
+			"val": 507.9866377150418,
+			"desc": 9600,
+			"group": "CICERO GEORGE DOS SANTOS NORONHA"
+		},
+		{
+			"id": 20694,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "CICERO GEORGE DOS SANTOS NORONHA"
+		},
+		{
+			"id": 20647,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "CICERO GEORGE DOS SANTOS NORONHA"
+		},
+		{
+			"id": 20664,
+			"name": 3200,
+			"val": 3.505149978319906,
+			"group": "CICERO GEORGE DOS SANTOS NORONHA"
+		},
+		{
+			"id": "TAYNARA APARECIDA FERREIRA DA SILVA",
+			"name": "TAYNARA APARECIDA FERREIRA DA SILVA",
+			"val": 301.21792284919786,
+			"desc": 6000,
+			"group": "TAYNARA APARECIDA FERREIRA DA SILVA"
+		},
+		{
+			"id": 20719,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "TAYNARA APARECIDA FERREIRA DA SILVA"
+		},
+		{
+			"id": 20698,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "TAYNARA APARECIDA FERREIRA DA SILVA"
+		},
+		{
+			"id": 20670,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "TAYNARA APARECIDA FERREIRA DA SILVA"
+		},
+		{
+			"id": 20745,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "TAYNARA APARECIDA FERREIRA DA SILVA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 6.536038797084434,
+			"desc": 211.53,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 20675,
+			"name": 50.64,
+			"val": 1.7044936970092988,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 20724,
+			"name": 53.19,
+			"val": 1.7258299903205803,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 20702,
+			"name": 40.14,
+			"val": 1.6035773681514667,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 20676,
+			"name": 67.56,
+			"val": 1.8296896408989711,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 17.78176143649049,
+			"desc": 496.40000000000003,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20650,
+			"name": 61.8,
+			"val": 1.7909884750888159,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20651,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20671,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20722,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20699,
+			"name": 61.8,
+			"val": 1.7909884750888159,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20721,
+			"name": 61.8,
+			"val": 1.7909884750888159,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20672,
+			"name": 61.8,
+			"val": 1.7909884750888159,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 20700,
+			"name": 62.3,
+			"val": 1.7944880466591697,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "BRAGA LINCOLN ADVOGADOS",
+			"name": "BRAGA LINCOLN ADVOGADOS",
+			"val": 1143.016990363956,
+			"desc": 20000,
+			"group": "BRAGA LINCOLN ADVOGADOS"
+		},
+		{
+			"id": 20695,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "BRAGA LINCOLN ADVOGADOS"
+		},
+		{
+			"id": 20716,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "BRAGA LINCOLN ADVOGADOS"
+		},
+		{
+			"id": 20742,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "BRAGA LINCOLN ADVOGADOS"
+		},
+		{
+			"id": 20666,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "BRAGA LINCOLN ADVOGADOS"
+		},
+		{
+			"id": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL",
+			"name": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL"
+		},
+		{
+			"id": 20696,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL"
+		},
+		{
+			"id": 20668,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL"
+		},
+		{
+			"id": "TRIBOS PUBLICIDADE E TURISMO LTDA.",
+			"name": "TRIBOS PUBLICIDADE E TURISMO LTDA.",
+			"val": 120.54083242998199,
+			"desc": 2650,
+			"group": "TRIBOS PUBLICIDADE E TURISMO LTDA."
+		},
+		{
+			"id": 20649,
+			"name": 2650,
+			"val": 3.423245873936808,
+			"group": "TRIBOS PUBLICIDADE E TURISMO LTDA."
+		},
+		{
+			"id": "CORREIOS - SEDEX 12",
+			"name": "CORREIOS - SEDEX 12",
+			"val": 6.308121557902082,
+			"desc": 205.29999999999998,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 20653,
+			"name": 132.2,
+			"val": 2.1212314551496214,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 20674,
+			"name": 73.1,
+			"val": 1.8639173769578603,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": "PLENA INFORMATICA LTDA EPP",
+			"name": "PLENA INFORMATICA LTDA EPP",
+			"val": 17.973208253563197,
+			"desc": 501,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": 20739,
+			"name": 274.5,
+			"val": 2.4385423487861106,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": 20665,
+			"name": 226.5,
+			"val": 2.3550682063488506,
+			"group": "PLENA INFORMATICA LTDA EPP"
+		},
+		{
+			"id": "JM CASTRO LIMA GRÁFICA ME",
+			"name": "JM CASTRO LIMA GRÁFICA ME",
+			"val": 301.21792284919786,
+			"desc": 6000,
+			"group": "JM CASTRO LIMA GRÁFICA ME"
+		},
+		{
+			"id": 20667,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "JM CASTRO LIMA GRÁFICA ME"
+		},
+		{
+			"id": 20743,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "JM CASTRO LIMA GRÁFICA ME"
+		},
+		{
+			"id": 20717,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "JM CASTRO LIMA GRÁFICA ME"
+		},
+		{
+			"id": "WHM PUBLICIDADE E PROPAGANDA EIRELI",
+			"name": "WHM PUBLICIDADE E PROPAGANDA EIRELI",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "WHM PUBLICIDADE E PROPAGANDA EIRELI"
+		},
+		{
+			"id": 20720,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "WHM PUBLICIDADE E PROPAGANDA EIRELI"
+		},
+		{
+			"id": 20746,
+			"name": 1000,
+			"val": 3,
+			"group": "WHM PUBLICIDADE E PROPAGANDA EIRELI"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 101.52000000000001
+		},
+		{
+			"source": "RAMAL",
+			"target": 20701,
+			"value": 9.56
+		},
+		{
+			"source": "RAMAL",
+			"target": 20652,
+			"value": 12.54
+		},
+		{
+			"source": "RAMAL",
+			"target": 20723,
+			"value": 41.78
+		},
+		{
+			"source": "RAMAL",
+			"target": 20673,
+			"value": 37.64
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 22006.519999999997
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20658,
+			"value": 1093.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20705,
+			"value": 705.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20678,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20707,
+			"value": 877.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20730,
+			"value": 2029.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20726,
+			"value": 770.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20657,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20655,
+			"value": 1371.08
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20728,
+			"value": 970.95
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20706,
+			"value": 794.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20703,
+			"value": 1818.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20654,
+			"value": 280.08
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20677,
+			"value": 1155.08
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20704,
+			"value": 1167.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20679,
+			"value": 1818.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20659,
+			"value": 1192.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20729,
+			"value": 2030.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20709,
+			"value": -625.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20727,
+			"value": 1988.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20680,
+			"value": 1139.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20710,
+			"value": -756.75
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20708,
+			"value": 1413.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20656,
+			"value": 19
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20681,
+			"value": -382.64
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 20731,
+			"value": 1063.85
+		},
+		{
+			"source": -100,
+			"target": "ADVOCACIA ASSOCIADA FERNADES NETO",
+			"value": 15000
+		},
+		{
+			"source": "ADVOCACIA ASSOCIADA FERNADES NETO",
+			"target": 20715,
+			"value": 5000
+		},
+		{
+			"source": "ADVOCACIA ASSOCIADA FERNADES NETO",
+			"target": 20740,
+			"value": 5000
+		},
+		{
+			"source": "ADVOCACIA ASSOCIADA FERNADES NETO",
+			"target": 20741,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 22422.449999999997
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20686,
+			"value": 1257.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20689,
+			"value": 499.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20691,
+			"value": 877.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20693,
+			"value": 1371.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20714,
+			"value": 964.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20734,
+			"value": 801.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20687,
+			"value": 947.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20733,
+			"value": 1078.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20692,
+			"value": 701.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20738,
+			"value": 1625.94
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20737,
+			"value": 1864.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20685,
+			"value": 1257.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20682,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20690,
+			"value": 531.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20732,
+			"value": 923.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20662,
+			"value": 758.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20663,
+			"value": -758.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20713,
+			"value": 704.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20735,
+			"value": 1753.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20660,
+			"value": 1006.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20684,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20683,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20712,
+			"value": 1086.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20711,
+			"value": 61
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20661,
+			"value": 603.47
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20688,
+			"value": 809.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 20736,
+			"value": 1559.39
+		},
+		{
+			"source": -100,
+			"target": "TERRAL TAXI AEREO LTDA EPP",
+			"value": 5000
+		},
+		{
+			"source": "TERRAL TAXI AEREO LTDA EPP",
+			"target": 20725,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "RÁDIO VALE DO RIO POTY LTDA",
+			"value": 10000
+		},
+		{
+			"source": "RÁDIO VALE DO RIO POTY LTDA",
+			"target": 20669,
+			"value": 2000
+		},
+		{
+			"source": "RÁDIO VALE DO RIO POTY LTDA",
+			"target": 20697,
+			"value": 2000
+		},
+		{
+			"source": "RÁDIO VALE DO RIO POTY LTDA",
+			"target": 20718,
+			"value": 2000
+		},
+		{
+			"source": "RÁDIO VALE DO RIO POTY LTDA",
+			"target": 20744,
+			"value": 2000
+		},
+		{
+			"source": "RÁDIO VALE DO RIO POTY LTDA",
+			"target": 20648,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "CICERO GEORGE DOS SANTOS NORONHA",
+			"value": 9600
+		},
+		{
+			"source": "CICERO GEORGE DOS SANTOS NORONHA",
+			"target": 20694,
+			"value": 3200
+		},
+		{
+			"source": "CICERO GEORGE DOS SANTOS NORONHA",
+			"target": 20647,
+			"value": 3200
+		},
+		{
+			"source": "CICERO GEORGE DOS SANTOS NORONHA",
+			"target": 20664,
+			"value": 3200
+		},
+		{
+			"source": -100,
+			"target": "TAYNARA APARECIDA FERREIRA DA SILVA",
+			"value": 6000
+		},
+		{
+			"source": "TAYNARA APARECIDA FERREIRA DA SILVA",
+			"target": 20719,
+			"value": 1500
+		},
+		{
+			"source": "TAYNARA APARECIDA FERREIRA DA SILVA",
+			"target": 20698,
+			"value": 1500
+		},
+		{
+			"source": "TAYNARA APARECIDA FERREIRA DA SILVA",
+			"target": 20670,
+			"value": 1500
+		},
+		{
+			"source": "TAYNARA APARECIDA FERREIRA DA SILVA",
+			"target": 20745,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 211.53
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 20675,
+			"value": 50.64
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 20724,
+			"value": 53.19
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 20702,
+			"value": 40.14
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 20676,
+			"value": 67.56
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 496.40000000000003
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20650,
+			"value": 61.8
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20651,
+			"value": 62.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20671,
+			"value": 62.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20722,
+			"value": 62.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20699,
+			"value": 61.8
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20721,
+			"value": 61.8
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20672,
+			"value": 61.8
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 20700,
+			"value": 62.3
+		},
+		{
+			"source": -100,
+			"target": "BRAGA LINCOLN ADVOGADOS",
+			"value": 20000
+		},
+		{
+			"source": "BRAGA LINCOLN ADVOGADOS",
+			"target": 20695,
+			"value": 5000
+		},
+		{
+			"source": "BRAGA LINCOLN ADVOGADOS",
+			"target": 20716,
+			"value": 5000
+		},
+		{
+			"source": "BRAGA LINCOLN ADVOGADOS",
+			"target": 20742,
+			"value": 5000
+		},
+		{
+			"source": "BRAGA LINCOLN ADVOGADOS",
+			"target": 20666,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL",
+			"value": 4000
+		},
+		{
+			"source": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL",
+			"target": 20696,
+			"value": 2000
+		},
+		{
+			"source": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL",
+			"target": 20668,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "TRIBOS PUBLICIDADE E TURISMO LTDA.",
+			"value": 2650
+		},
+		{
+			"source": "TRIBOS PUBLICIDADE E TURISMO LTDA.",
+			"target": 20649,
+			"value": 2650
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 12",
+			"value": 205.29999999999998
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 20653,
+			"value": 132.2
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 20674,
+			"value": 73.1
+		},
+		{
+			"source": -100,
+			"target": "PLENA INFORMATICA LTDA EPP",
+			"value": 501
+		},
+		{
+			"source": "PLENA INFORMATICA LTDA EPP",
+			"target": 20739,
+			"value": 274.5
+		},
+		{
+			"source": "PLENA INFORMATICA LTDA EPP",
+			"target": 20665,
+			"value": 226.5
+		},
+		{
+			"source": -100,
+			"target": "JM CASTRO LIMA GRÁFICA ME",
+			"value": 6000
+		},
+		{
+			"source": "JM CASTRO LIMA GRÁFICA ME",
+			"target": 20667,
+			"value": 2000
+		},
+		{
+			"source": "JM CASTRO LIMA GRÁFICA ME",
+			"target": 20743,
+			"value": 2000
+		},
+		{
+			"source": "JM CASTRO LIMA GRÁFICA ME",
+			"target": 20717,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "WHM PUBLICIDADE E PROPAGANDA EIRELI",
+			"value": 3000
+		},
+		{
+			"source": "WHM PUBLICIDADE E PROPAGANDA EIRELI",
+			"target": 20720,
+			"value": 2000
+		},
+		{
+			"source": "WHM PUBLICIDADE E PROPAGANDA EIRELI",
+			"target": 20746,
+			"value": 1000
+		}
+	]
+}

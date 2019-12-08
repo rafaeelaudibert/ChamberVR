@@ -1,0 +1,1425 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "JUSCELINO FILHO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1695.8561478476008,
+			"desc": 28635.539999999994,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29267,
+			"name": 1250.85,
+			"val": 3.097205232892362,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29222,
+			"name": 1797.85,
+			"val": 3.254753454421795,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29287,
+			"name": 1456.39,
+			"val": 3.1632776882791207,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29263,
+			"name": 2001.39,
+			"val": 3.3013317254899306,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29213,
+			"name": 1352.85,
+			"val": 3.131249645981475,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29214,
+			"name": 1406.85,
+			"val": 3.148247794915175,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29264,
+			"name": 1579.85,
+			"val": 3.198615854508367,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29221,
+			"name": 1290.85,
+			"val": 3.1108757790928365,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29265,
+			"name": 1444.39,
+			"val": 3.15968447299776,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29268,
+			"name": 1132.39,
+			"val": 3.053996025507623,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29223,
+			"name": -1286.85,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29260,
+			"name": 832.85,
+			"val": 2.9205667900762817,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29224,
+			"name": -1931.17,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29198,
+			"name": -1577.77,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29241,
+			"name": 1103.85,
+			"val": 3.0429100619817295,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29217,
+			"name": 773.39,
+			"val": 2.8883985523079074,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29219,
+			"name": 1794.39,
+			"val": 3.2539168402912955,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29272,
+			"name": -1499.04,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29220,
+			"name": 2031.17,
+			"val": 3.30774627346498,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29238,
+			"name": 2029.39,
+			"val": 3.307365516019059,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29262,
+			"name": 1146.85,
+			"val": 3.059506618919313,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29269,
+			"name": -1091.15,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29215,
+			"name": 839.85,
+			"val": 2.924201726550665,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29216,
+			"name": 1185.17,
+			"val": 3.073780649727222,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29225,
+			"name": -1709.6,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29218,
+			"name": 1420.39,
+			"val": 3.152407606068252,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29261,
+			"name": 1444.39,
+			"val": 3.15968447299776,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29270,
+			"name": -2001.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29240,
+			"name": 1797.85,
+			"val": 3.254753454421795,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29242,
+			"name": 762.85,
+			"val": 2.882439150567529,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29196,
+			"name": 1649.17,
+			"val": 3.2172654259638103,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29266,
+			"name": 1576.39,
+			"val": 3.197663671208413,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29288,
+			"name": 979.84,
+			"val": 2.9911551646821484,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29271,
+			"name": -726.35,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29237,
+			"name": 1287.39,
+			"val": 3.109710131356811,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29197,
+			"name": 2031.17,
+			"val": 3.30774627346498,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 29239,
+			"name": 1058.85,
+			"val": 3.024834440951365,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 735.1627979726112,
+			"desc": 13405.109999999999,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29227,
+			"name": 430.9,
+			"val": 2.6343764940883676,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29247,
+			"name": 1080.39,
+			"val": 3.033580555740406,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29200,
+			"name": 1389.49,
+			"val": 3.142855425557114,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29276,
+			"name": 1011.85,
+			"val": 3.0051161360209333,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29244,
+			"name": 318,
+			"val": 2.5024271199844326,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29226,
+			"name": 1328.49,
+			"val": 3.1233582896750396,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29243,
+			"name": 1441.39,
+			"val": 3.15878150470838,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29273,
+			"name": 1033.49,
+			"val": 3.014306278770922,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29275,
+			"name": 882.39,
+			"val": 2.9456605776626104,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29245,
+			"name": 779.49,
+			"val": 2.891810548039708,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29199,
+			"name": 1617.39,
+			"val": 3.208814753626678,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29274,
+			"name": 1326.95,
+			"val": 3.1228545587851593,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 29246,
+			"name": 764.89,
+			"val": 2.883598983090931,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"name": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"val": 531.508495181978,
+			"desc": 10000,
+			"group": "H.L.R.GUTERRES LOCADORA E TRANSPORTE"
+		},
+		{
+			"id": 29195,
+			"name": 10000,
+			"val": 4,
+			"group": "H.L.R.GUTERRES LOCADORA E TRANSPORTE"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 0.015475961598581948,
+			"desc": 2.7,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 29209,
+			"name": 2.7,
+			"val": 0.43136376415898736,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "CLARO S/A.",
+			"name": "CLARO S/A.",
+			"val": 81.31159679231773,
+			"desc": 1870.26,
+			"group": "CLARO S/A."
+		},
+		{
+			"id": 29282,
+			"name": 925.2,
+			"val": 2.966235624098582,
+			"group": "CLARO S/A."
+		},
+		{
+			"id": 29254,
+			"name": 945.06,
+			"val": 2.975459381886746,
+			"group": "CLARO S/A."
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.3674826136937375,
+			"desc": 150.87,
+			"group": "RAMAL"
+		},
+		{
+			"id": 29255,
+			"name": 31.99,
+			"val": 1.5050142400841071,
+			"group": "RAMAL"
+		},
+		{
+			"id": 29207,
+			"name": 55.27,
+			"val": 1.7424894645817752,
+			"group": "RAMAL"
+		},
+		{
+			"id": 29193,
+			"name": 14.05,
+			"val": 1.1476763242410988,
+			"group": "RAMAL"
+		},
+		{
+			"id": 29283,
+			"name": 14.83,
+			"val": 1.171141151028382,
+			"group": "RAMAL"
+		},
+		{
+			"id": 29233,
+			"name": 34.73,
+			"val": 1.5407047833107623,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 4.8839783167431055,
+			"desc": 165.63,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 29258,
+			"name": 112.44,
+			"val": 2.0509208369354033,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 29257,
+			"name": 53.19,
+			"val": 1.7258299903205803,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CLARO S.A.",
+			"name": "CLARO S.A.",
+			"val": 18.34681109248807,
+			"desc": 509.96,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 29231,
+			"name": 509.96,
+			"val": 2.7075361124497834,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": "D V JANSEN",
+			"name": "D V JANSEN",
+			"val": 1017.7710685995168,
+			"desc": 18000,
+			"group": "D V JANSEN"
+		},
+		{
+			"id": 29236,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "D V JANSEN"
+		},
+		{
+			"id": 29259,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "D V JANSEN"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 15.68195857618053,
+			"desc": 445.53999999999996,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 29285,
+			"name": 183.96,
+			"val": 2.264723400902,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 29235,
+			"name": 37.13,
+			"val": 1.569724949226159,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 29211,
+			"name": 62.15,
+			"val": 1.7934411329776636,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 29286,
+			"name": 42.41,
+			"val": 1.6274682724597096,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 29210,
+			"name": 119.89,
+			"val": 2.078782960196963,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 78.84676319546227,
+			"desc": 1820.1299999999999,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 29232,
+			"name": 469.59,
+			"val": 2.6717188399621716,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 29205,
+			"name": 1159.56,
+			"val": 3.0642932255869786,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 29206,
+			"name": 190.98,
+			"val": 2.280987889004647,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"name": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"val": 1050.9293521578752,
+			"desc": 18531.4,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 29228,
+			"name": 1792.8,
+			"val": 3.253531843527005,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 29278,
+			"name": 2049.6,
+			"val": 3.3116691124006112,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 29190,
+			"name": 2570.4,
+			"val": 3.4100007125434617,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 29251,
+			"name": 3987.2,
+			"val": 3.600668020643057,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 29250,
+			"name": 3617.6,
+			"val": 3.5584205450012845,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 29229,
+			"name": 2788.8,
+			"val": 3.445417369765918,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 29279,
+			"name": 1725,
+			"val": 3.236789099409293,
+			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": "TAP TRANSPORTES AÉREOS PORTUGAL",
+			"name": "TAP TRANSPORTES AÉREOS PORTUGAL",
+			"val": 174.8020503588199,
+			"desc": 3688.21,
+			"group": "TAP TRANSPORTES AÉREOS PORTUGAL"
+		},
+		{
+			"id": 29204,
+			"name": 3688.21,
+			"val": 3.566815641027122,
+			"group": "TAP TRANSPORTES AÉREOS PORTUGAL"
+		},
+		{
+			"id": "CORREIOS - TELEGRAMA",
+			"name": "CORREIOS - TELEGRAMA",
+			"val": 0.1690670383001165,
+			"desc": 11.85,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": 29212,
+			"name": 11.85,
+			"val": 1.0737183503461227,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 54.87023928756747,
+			"desc": 1322.88,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 29234,
+			"name": 1322.88,
+			"val": 3.1215204506111753,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": "Telefônica Brasil S.A. - VIVO",
+			"name": "Telefônica Brasil S.A. - VIVO",
+			"val": 54.98742933641598,
+			"desc": 1325.36,
+			"group": "Telefônica Brasil S.A. - VIVO"
+		},
+		{
+			"id": 29284,
+			"name": 1325.36,
+			"val": 3.1223338592372594,
+			"group": "Telefônica Brasil S.A. - VIVO"
+		},
+		{
+			"id": "R N BRITO LIMA",
+			"name": "R N BRITO LIMA",
+			"val": 1784.7209856324725,
+			"desc": 30000,
+			"group": "R N BRITO LIMA"
+		},
+		{
+			"id": 29253,
+			"name": 15000,
+			"val": 4.176091259055681,
+			"group": "R N BRITO LIMA"
+		},
+		{
+			"id": 29281,
+			"name": 15000,
+			"val": 4.176091259055681,
+			"group": "R N BRITO LIMA"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 428.2838340804588,
+			"desc": 8231.8,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 29249,
+			"name": 1657.92,
+			"val": 3.2195635706070274,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 29189,
+			"name": 1595.24,
+			"val": 3.202826030863192,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 29202,
+			"name": 2270.79,
+			"val": 3.356176973031629,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 29277,
+			"name": 2707.85,
+			"val": 3.4326246031532226,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 58.74043828623955,
+			"desc": 1404.49,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 29208,
+			"name": 1404.49,
+			"val": 3.147518651362246,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "NET CLARO",
+			"name": "NET CLARO",
+			"val": 48.432611296694034,
+			"desc": 1185.73,
+			"group": "NET CLARO"
+		},
+		{
+			"id": 29192,
+			"name": 1185.73,
+			"val": 3.073985808033678,
+			"group": "NET CLARO"
+		},
+		{
+			"id": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
+			"name": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
+			"val": 2647.4324347706397,
+			"desc": 43000,
+			"group": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA"
+		},
+		{
+			"id": 29230,
+			"name": 10000,
+			"val": 4,
+			"group": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA"
+		},
+		{
+			"id": 29203,
+			"name": 10000,
+			"val": 4,
+			"group": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA"
+		},
+		{
+			"id": 29252,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA"
+		},
+		{
+			"id": 29280,
+			"name": 10000,
+			"val": 4,
+			"group": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA"
+		},
+		{
+			"id": "Telefônica Brasil S. A. VIVO",
+			"name": "Telefônica Brasil S. A. VIVO",
+			"val": 55.65469214425334,
+			"desc": 1339.47,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 29194,
+			"name": 1339.47,
+			"val": 3.126932991195173,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA",
+			"name": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA",
+			"val": 710.6436481457654,
+			"desc": 13000,
+			"group": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA"
+		},
+		{
+			"id": 29191,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 38.033380338860454,
+			"desc": 959.8,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 29201,
+			"name": 404.2,
+			"val": 2.606596309179285,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 29248,
+			"name": 555.6,
+			"val": 2.744762237065578,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 55.35713114158006,
+			"desc": 1333.18,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 29256,
+			"name": 1333.18,
+			"val": 3.1248887898708886,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 28635.539999999994
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29267,
+			"value": 1250.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29222,
+			"value": 1797.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29287,
+			"value": 1456.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29263,
+			"value": 2001.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29213,
+			"value": 1352.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29214,
+			"value": 1406.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29264,
+			"value": 1579.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29221,
+			"value": 1290.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29265,
+			"value": 1444.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29268,
+			"value": 1132.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29223,
+			"value": -1286.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29260,
+			"value": 832.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29224,
+			"value": -1931.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29198,
+			"value": -1577.77
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29241,
+			"value": 1103.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29217,
+			"value": 773.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29219,
+			"value": 1794.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29272,
+			"value": -1499.04
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29220,
+			"value": 2031.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29238,
+			"value": 2029.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29262,
+			"value": 1146.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29269,
+			"value": -1091.15
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29215,
+			"value": 839.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29216,
+			"value": 1185.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29225,
+			"value": -1709.6
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29218,
+			"value": 1420.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29261,
+			"value": 1444.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29270,
+			"value": -2001.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29240,
+			"value": 1797.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29242,
+			"value": 762.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29196,
+			"value": 1649.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29266,
+			"value": 1576.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29288,
+			"value": 979.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29271,
+			"value": -726.35
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29237,
+			"value": 1287.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29197,
+			"value": 2031.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 29239,
+			"value": 1058.85
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 13405.109999999999
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29227,
+			"value": 430.9
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29247,
+			"value": 1080.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29200,
+			"value": 1389.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29276,
+			"value": 1011.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29244,
+			"value": 318
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29226,
+			"value": 1328.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29243,
+			"value": 1441.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29273,
+			"value": 1033.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29275,
+			"value": 882.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29245,
+			"value": 779.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29199,
+			"value": 1617.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29274,
+			"value": 1326.95
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 29246,
+			"value": 764.89
+		},
+		{
+			"source": -100,
+			"target": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"value": 10000
+		},
+		{
+			"source": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"target": 29195,
+			"value": 10000
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 2.7
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 29209,
+			"value": 2.7
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A.",
+			"value": 1870.26
+		},
+		{
+			"source": "CLARO S/A.",
+			"target": 29282,
+			"value": 925.2
+		},
+		{
+			"source": "CLARO S/A.",
+			"target": 29254,
+			"value": 945.06
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 150.87
+		},
+		{
+			"source": "RAMAL",
+			"target": 29255,
+			"value": 31.99
+		},
+		{
+			"source": "RAMAL",
+			"target": 29207,
+			"value": 55.27
+		},
+		{
+			"source": "RAMAL",
+			"target": 29193,
+			"value": 14.05
+		},
+		{
+			"source": "RAMAL",
+			"target": 29283,
+			"value": 14.83
+		},
+		{
+			"source": "RAMAL",
+			"target": 29233,
+			"value": 34.73
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 165.63
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 29258,
+			"value": 112.44
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 29257,
+			"value": 53.19
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A.",
+			"value": 509.96
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 29231,
+			"value": 509.96
+		},
+		{
+			"source": -100,
+			"target": "D V JANSEN",
+			"value": 18000
+		},
+		{
+			"source": "D V JANSEN",
+			"target": 29236,
+			"value": 9000
+		},
+		{
+			"source": "D V JANSEN",
+			"target": 29259,
+			"value": 9000
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 445.53999999999996
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 29285,
+			"value": 183.96
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 29235,
+			"value": 37.13
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 29211,
+			"value": 62.15
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 29286,
+			"value": 42.41
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 29210,
+			"value": 119.89
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 1820.1299999999999
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 29232,
+			"value": 469.59
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 29205,
+			"value": 1159.56
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 29206,
+			"value": 190.98
+		},
+		{
+			"source": -100,
+			"target": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"value": 18531.4
+		},
+		{
+			"source": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 29228,
+			"value": 1792.8
+		},
+		{
+			"source": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 29278,
+			"value": 2049.6
+		},
+		{
+			"source": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 29190,
+			"value": 2570.4
+		},
+		{
+			"source": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 29251,
+			"value": 3987.2
+		},
+		{
+			"source": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 29250,
+			"value": 3617.6
+		},
+		{
+			"source": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 29229,
+			"value": 2788.8
+		},
+		{
+			"source": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 29279,
+			"value": 1725
+		},
+		{
+			"source": -100,
+			"target": "TAP TRANSPORTES AÉREOS PORTUGAL",
+			"value": 3688.21
+		},
+		{
+			"source": "TAP TRANSPORTES AÉREOS PORTUGAL",
+			"target": 29204,
+			"value": 3688.21
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - TELEGRAMA",
+			"value": 11.85
+		},
+		{
+			"source": "CORREIOS - TELEGRAMA",
+			"target": 29212,
+			"value": 11.85
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 1322.88
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 29234,
+			"value": 1322.88
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S.A. - VIVO",
+			"value": 1325.36
+		},
+		{
+			"source": "Telefônica Brasil S.A. - VIVO",
+			"target": 29284,
+			"value": 1325.36
+		},
+		{
+			"source": -100,
+			"target": "R N BRITO LIMA",
+			"value": 30000
+		},
+		{
+			"source": "R N BRITO LIMA",
+			"target": 29253,
+			"value": 15000
+		},
+		{
+			"source": "R N BRITO LIMA",
+			"target": 29281,
+			"value": 15000
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 8231.8
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 29249,
+			"value": 1657.92
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 29189,
+			"value": 1595.24
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 29202,
+			"value": 2270.79
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 29277,
+			"value": 2707.85
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 1404.49
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 29208,
+			"value": 1404.49
+		},
+		{
+			"source": -100,
+			"target": "NET CLARO",
+			"value": 1185.73
+		},
+		{
+			"source": "NET CLARO",
+			"target": 29192,
+			"value": 1185.73
+		},
+		{
+			"source": -100,
+			"target": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
+			"value": 43000
+		},
+		{
+			"source": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
+			"target": 29230,
+			"value": 10000
+		},
+		{
+			"source": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
+			"target": 29203,
+			"value": 10000
+		},
+		{
+			"source": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
+			"target": 29252,
+			"value": 13000
+		},
+		{
+			"source": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
+			"target": 29280,
+			"value": 10000
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S. A. VIVO",
+			"value": 1339.47
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 29194,
+			"value": 1339.47
+		},
+		{
+			"source": -100,
+			"target": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA",
+			"value": 13000
+		},
+		{
+			"source": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA",
+			"target": 29191,
+			"value": 13000
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 959.8
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 29201,
+			"value": 404.2
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 29248,
+			"value": 555.6
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 1333.18
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 29256,
+			"value": 1333.18
+		}
+	]
+}

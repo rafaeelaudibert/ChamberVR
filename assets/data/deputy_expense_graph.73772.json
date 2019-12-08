@@ -1,0 +1,1773 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "HERMES PARCIANELLO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 17.360203385554065,
+			"desc": 486.25,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 23950,
+			"name": 198.24,
+			"val": 2.2971912890319883,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 23999,
+			"name": 112.74,
+			"val": 2.0520780304841693,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 23962,
+			"name": 175.27,
+			"val": 2.2437075866617904,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "SANEPAR",
+			"name": "SANEPAR",
+			"val": 8.2105103867355,
+			"desc": 256.49,
+			"group": "SANEPAR"
+		},
+		{
+			"id": 23969,
+			"name": 65.44,
+			"val": 1.8158432906632667,
+			"group": "SANEPAR"
+		},
+		{
+			"id": 24011,
+			"name": 66.57,
+			"val": 1.8232785569516707,
+			"group": "SANEPAR"
+		},
+		{
+			"id": 23970,
+			"name": 62.24,
+			"val": 1.7940695839816325,
+			"group": "SANEPAR"
+		},
+		{
+			"id": 24032,
+			"name": 62.24,
+			"val": 1.7940695839816325,
+			"group": "SANEPAR"
+		},
+		{
+			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"val": 39.953047146298,
+			"desc": 1001.97,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 24017,
+			"name": 219.43,
+			"val": 2.341296003110066,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 23982,
+			"name": 148.13,
+			"val": 2.17064302283611,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 24016,
+			"name": 218.8,
+			"val": 2.3400473176613934,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 23983,
+			"name": 178.42,
+			"val": 2.251443535033362,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": 24037,
+			"name": 237.19,
+			"val": 2.3750963750953966,
+			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO POSTO AMIGOS DE SANTO INACIO EIRELI",
+			"name": "AUTO POSTO AMIGOS DE SANTO INACIO EIRELI",
+			"val": 4.340413115020739,
+			"desc": 150.09,
+			"group": "AUTO POSTO AMIGOS DE SANTO INACIO EIRELI"
+		},
+		{
+			"id": 23973,
+			"name": 150.09,
+			"val": 2.1763517576030718,
+			"group": "AUTO POSTO AMIGOS DE SANTO INACIO EIRELI"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.905654937875228,
+			"desc": 107.62,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23997,
+			"name": 32.64,
+			"val": 1.5137501500818236,
+			"group": "RAMAL"
+		},
+		{
+			"id": 24024,
+			"name": 60.28,
+			"val": 1.780173243642594,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23961,
+			"name": 14.7,
+			"val": 1.167317334748176,
+			"group": "RAMAL"
+		},
+		{
+			"id": "AUTO POSTO LAGO NORTE LTDA",
+			"name": "AUTO POSTO LAGO NORTE LTDA",
+			"val": 15.503050640949876,
+			"desc": 441.16999999999996,
+			"group": "AUTO POSTO LAGO NORTE LTDA"
+		},
+		{
+			"id": 23954,
+			"name": 199.76,
+			"val": 2.300508529343291,
+			"group": "AUTO POSTO LAGO NORTE LTDA"
+		},
+		{
+			"id": 23975,
+			"name": 241.41,
+			"val": 2.382755256046617,
+			"group": "AUTO POSTO LAGO NORTE LTDA"
+		},
+		{
+			"id": "GOL LINHAS AÉREAS INTELIGENTES",
+			"name": "GOL LINHAS AÉREAS INTELIGENTES",
+			"val": 99.49562567656073,
+			"desc": 2235.57,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 23995,
+			"name": 888.39,
+			"val": 2.9486036613473257,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 23994,
+			"name": 1347.18,
+			"val": 3.12942562674308,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 38.67361996799804,
+			"desc": 973.89,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 24023,
+			"name": 973.89,
+			"val": 2.9885099064773506,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "AUTO POSTO SUDOESTE LTDA",
+			"name": "AUTO POSTO SUDOESTE LTDA",
+			"val": 34.68280628331343,
+			"desc": 885.6199999999999,
+			"group": "AUTO POSTO SUDOESTE LTDA"
+		},
+		{
+			"id": 23956,
+			"name": 170.18,
+			"val": 2.2309085193207645,
+			"group": "AUTO POSTO SUDOESTE LTDA"
+		},
+		{
+			"id": 24036,
+			"name": 259.77,
+			"val": 2.41458899436304,
+			"group": "AUTO POSTO SUDOESTE LTDA"
+		},
+		{
+			"id": 23981,
+			"name": 225.64,
+			"val": 2.353416091053356,
+			"group": "AUTO POSTO SUDOESTE LTDA"
+		},
+		{
+			"id": 23980,
+			"name": 230.03,
+			"val": 2.361784479429873,
+			"group": "AUTO POSTO SUDOESTE LTDA"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO",
+			"name": "TELEFONICA BRASIL SA VIVO",
+			"val": 11.857423193486172,
+			"desc": 350.65,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 23963,
+			"name": 34.15,
+			"val": 1.5333907080175513,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 23964,
+			"name": 114.99,
+			"val": 2.0606600739740144,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 23971,
+			"name": 201.51,
+			"val": 2.304296603018355,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": "POSTO CACIQUE LTDA",
+			"name": "POSTO CACIQUE LTDA",
+			"val": 8.146691319542423,
+			"desc": 254.8,
+			"group": "POSTO CACIQUE LTDA"
+		},
+		{
+			"id": 23991,
+			"name": 254.8,
+			"val": 2.406199423663313,
+			"group": "POSTO CACIQUE LTDA"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"val": 11.41903963765168,
+			"desc": 339.55,
+			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": 23984,
+			"name": 189.52,
+			"val": 2.277655047714709,
+			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": 23957,
+			"name": 150.03,
+			"val": 2.17617810926733,
+			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO POSTO CRIOLO LTDA",
+			"name": "AUTO POSTO CRIOLO LTDA",
+			"val": 12.910899081370635,
+			"desc": 377.12,
+			"group": "AUTO POSTO CRIOLO LTDA"
+		},
+		{
+			"id": 23952,
+			"name": 176.47,
+			"val": 2.246670885690703,
+			"group": "AUTO POSTO CRIOLO LTDA"
+		},
+		{
+			"id": 23951,
+			"name": 200.65,
+			"val": 2.3024391640698574,
+			"group": "AUTO POSTO CRIOLO LTDA"
+		},
+		{
+			"id": "PRESSING DISTRIBUIÇÃO LTDA",
+			"name": "PRESSING DISTRIBUIÇÃO LTDA",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "PRESSING DISTRIBUIÇÃO LTDA"
+		},
+		{
+			"id": 24000,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "PRESSING DISTRIBUIÇÃO LTDA"
+		},
+		{
+			"id": "Auto Posto Sof Norte Ltda",
+			"name": "Auto Posto Sof Norte Ltda",
+			"val": 49.436462537013206,
+			"desc": 1207.24,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 23955,
+			"name": 194.88,
+			"val": 2.2897672709527814,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 24015,
+			"name": 130.72,
+			"val": 2.11634203918834,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 23979,
+			"name": 214.46,
+			"val": 2.3313463016525664,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 24035,
+			"name": 242.5,
+			"val": 2.3847117429382827,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 24034,
+			"name": 224.29,
+			"val": 2.350809910936365,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": 23978,
+			"name": 200.39,
+			"val": 2.3018760452731546,
+			"group": "Auto Posto Sof Norte Ltda"
+		},
+		{
+			"id": "A.J. ZORNITTA COMERCIO DE FILTROS- EIRELI- ME",
+			"name": "A.J. ZORNITTA COMERCIO DE FILTROS- EIRELI- ME",
+			"val": 8.305413386043272,
+			"desc": 259,
+			"group": "A.J. ZORNITTA COMERCIO DE FILTROS- EIRELI- ME"
+		},
+		{
+			"id": 23972,
+			"name": 259,
+			"val": 2.413299764081252,
+			"group": "A.J. ZORNITTA COMERCIO DE FILTROS- EIRELI- ME"
+		},
+		{
+			"id": "SMAFF COMBUSTIVEIS LTDA",
+			"name": "SMAFF COMBUSTIVEIS LTDA",
+			"val": 6.890413779120805,
+			"desc": 221.16,
+			"group": "SMAFF COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 24046,
+			"name": 221.16,
+			"val": 2.3447065812666987,
+			"group": "SMAFF COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"val": 2.3888850388268903,
+			"desc": 91.63,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 24018,
+			"name": 91.63,
+			"val": 1.9620376865650127,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "ARTGRAFICA PREMIO LTDA - ME",
+			"name": "ARTGRAFICA PREMIO LTDA - ME",
+			"val": 1737.782983533035,
+			"desc": 29280,
+			"group": "ARTGRAFICA PREMIO LTDA - ME"
+		},
+		{
+			"id": 23959,
+			"name": 29280,
+			"val": 4.466571072386354,
+			"group": "ARTGRAFICA PREMIO LTDA - ME"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 15.372200836498216,
+			"desc": 437.96999999999997,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 23998,
+			"name": 52.98,
+			"val": 1.7241119539612122,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 24025,
+			"name": 120.56,
+			"val": 2.0812032393065754,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 24026,
+			"name": 53.92,
+			"val": 1.7317498835272633,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 24012,
+			"name": 210.51,
+			"val": 2.323272731248478,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "BMC COMERCIO DE PECAS EIRELI EPP",
+			"name": "BMC COMERCIO DE PECAS EIRELI EPP",
+			"val": 10.76932433826455,
+			"desc": 323,
+			"group": "BMC COMERCIO DE PECAS EIRELI EPP"
+		},
+		{
+			"id": 24019,
+			"name": 323,
+			"val": 2.509202522331103,
+			"group": "BMC COMERCIO DE PECAS EIRELI EPP"
+		},
+		{
+			"id": "BRASILIA COM. DE COMBUSTIVEIS LTDA",
+			"name": "BRASILIA COM. DE COMBUSTIVEIS LTDA",
+			"val": 8.343262525549592,
+			"desc": 260,
+			"group": "BRASILIA COM. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 23985,
+			"name": 260,
+			"val": 2.4149733479708178,
+			"group": "BRASILIA COM. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO GOIANAO LTDA - ME",
+			"name": "AUTO POSTO GOIANAO LTDA - ME",
+			"val": 6.685141013448877,
+			"desc": 215.59,
+			"group": "AUTO POSTO GOIANAO LTDA - ME"
+		},
+		{
+			"id": 23974,
+			"name": 215.59,
+			"val": 2.333628612518691,
+			"group": "AUTO POSTO GOIANAO LTDA - ME"
+		},
+		{
+			"id": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"name": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"val": 2.7938985396086298,
+			"desc": 104.2,
+			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
+		},
+		{
+			"id": 23988,
+			"name": 104.2,
+			"val": 2.0178677189635055,
+			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
+		},
+		{
+			"id": "G10 AUTO POSTO LTDA",
+			"name": "G10 AUTO POSTO LTDA",
+			"val": 2.840876118219559,
+			"desc": 105.64,
+			"group": "G10 AUTO POSTO LTDA"
+		},
+		{
+			"id": 23989,
+			"name": 105.64,
+			"val": 2.0238283925348863,
+			"group": "G10 AUTO POSTO LTDA"
+		},
+		{
+			"id": "AUTO POSTO MACEDAO LTDA",
+			"name": "AUTO POSTO MACEDAO LTDA",
+			"val": 4.757276723303445,
+			"desc": 162.03,
+			"group": "AUTO POSTO MACEDAO LTDA"
+		},
+		{
+			"id": 23976,
+			"name": 162.03,
+			"val": 2.2095954320008557,
+			"group": "AUTO POSTO MACEDAO LTDA"
+		},
+		{
+			"id": "AUTO POSTO 314 NORTE",
+			"name": "AUTO POSTO 314 NORTE",
+			"val": 5.98080272789688,
+			"desc": 196.3,
+			"group": "AUTO POSTO 314 NORTE"
+		},
+		{
+			"id": 24014,
+			"name": 196.3,
+			"val": 2.292920299600006,
+			"group": "AUTO POSTO 314 NORTE"
+		},
+		{
+			"id": "AMERICANO III AUTO POSTO LTDA",
+			"name": "AMERICANO III AUTO POSTO LTDA",
+			"val": 2.1795070051203433,
+			"desc": 85.01,
+			"group": "AMERICANO III AUTO POSTO LTDA"
+		},
+		{
+			"id": 24013,
+			"name": 85.01,
+			"val": 1.9294700161774896,
+			"group": "AMERICANO III AUTO POSTO LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 78.29322918065611,
+			"desc": 1808.85,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 24029,
+			"name": 1808.85,
+			"val": 3.2574025542156617,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 59.694091743833745,
+			"desc": 1424.51,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 24040,
+			"name": 256.95,
+			"val": 2.4098486220211917,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 23986,
+			"name": 157.33,
+			"val": 2.1968115426626764,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 24042,
+			"name": 157.74,
+			"val": 2.1979418364900063,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 24039,
+			"name": 231.47,
+			"val": 2.364494711644551,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 24041,
+			"name": 233.09,
+			"val": 2.3675236418690195,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 23958,
+			"name": 170.15,
+			"val": 2.2308319534318284,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 24043,
+			"name": 217.78,
+			"val": 2.338017993470887,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA",
+			"name": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA",
+			"val": 462.8092638530054,
+			"desc": 8827.04,
+			"group": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA"
+		},
+		{
+			"id": 24007,
+			"name": 2206.76,
+			"val": 3.3437551032824775,
+			"group": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA"
+		},
+		{
+			"id": 24031,
+			"name": 2206.76,
+			"val": 3.3437551032824775,
+			"group": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA"
+		},
+		{
+			"id": 23968,
+			"name": 2206.76,
+			"val": 3.3437551032824775,
+			"group": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA"
+		},
+		{
+			"id": 23948,
+			"name": 2206.76,
+			"val": 3.3437551032824775,
+			"group": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA"
+		},
+		{
+			"id": "SIG COMERCIAL DE PAPEIS LTDA EPPI",
+			"name": "SIG COMERCIAL DE PAPEIS LTDA EPPI",
+			"val": 7.960139456803816,
+			"desc": 249.85,
+			"group": "SIG COMERCIAL DE PAPEIS LTDA EPPI"
+		},
+		{
+			"id": 23949,
+			"name": 249.85,
+			"val": 2.3976793537786056,
+			"group": "SIG COMERCIAL DE PAPEIS LTDA EPPI"
+		},
+		{
+			"id": "POSTO PRATAO LTDA",
+			"name": "POSTO PRATAO LTDA",
+			"val": 16.831156261302848,
+			"desc": 473.47,
+			"group": "POSTO PRATAO LTDA"
+		},
+		{
+			"id": 23993,
+			"name": 217.48,
+			"val": 2.337419324329673,
+			"group": "POSTO PRATAO LTDA"
+		},
+		{
+			"id": 23992,
+			"name": 255.99,
+			"val": 2.4082230003523013,
+			"group": "POSTO PRATAO LTDA"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 52.477120958251824,
+			"desc": 1272.1100000000001,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 23996,
+			"name": 639.2,
+			"val": 2.805636766305935,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 23960,
+			"name": 632.91,
+			"val": 2.8013419575966663,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"val": 234.5598203664547,
+			"desc": 4795.7300000000005,
+			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
+		},
+		{
+			"id": 24003,
+			"name": 1595.76,
+			"val": 3.202967574662997,
+			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
+		},
+		{
+			"id": 24028,
+			"name": 1587.58,
+			"val": 3.2007356191187557,
+			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
+		},
+		{
+			"id": 23966,
+			"name": 1612.39,
+			"val": 3.207470096006512,
+			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
+		},
+		{
+			"id": "AUTO POSTO EIXINHO LTDA",
+			"name": "AUTO POSTO EIXINHO LTDA",
+			"val": 5.887767433779095,
+			"desc": 193.73,
+			"group": "AUTO POSTO EIXINHO LTDA"
+		},
+		{
+			"id": 23953,
+			"name": 193.73,
+			"val": 2.2871968784662298,
+			"group": "AUTO POSTO EIXINHO LTDA"
+		},
+		{
+			"id": "CANTELLE VIAGENS E TURISMO LTDA",
+			"name": "CANTELLE VIAGENS E TURISMO LTDA",
+			"val": 30.859896345590567,
+			"desc": 799.99,
+			"group": "CANTELLE VIAGENS E TURISMO LTDA"
+		},
+		{
+			"id": 23965,
+			"name": 799.99,
+			"val": 2.90308455827699,
+			"group": "CANTELLE VIAGENS E TURISMO LTDA"
+		},
+		{
+			"id": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO",
+			"name": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO",
+			"val": 50.85146613708355,
+			"desc": 1237.48,
+			"group": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO"
+		},
+		{
+			"id": 24008,
+			"name": 63.14,
+			"val": 1.8003045775561985,
+			"group": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO"
+		},
+		{
+			"id": 24010,
+			"name": 300.37,
+			"val": 2.477656554546929,
+			"group": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO"
+		},
+		{
+			"id": 24009,
+			"name": 873.97,
+			"val": 2.941496525245308,
+			"group": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO"
+		},
+		{
+			"id": "PLANALTO TRANSPORTES",
+			"name": "PLANALTO TRANSPORTES",
+			"val": 8.229782036571308,
+			"desc": 257,
+			"group": "PLANALTO TRANSPORTES"
+		},
+		{
+			"id": 24004,
+			"name": 257,
+			"val": 2.4099331233312946,
+			"group": "PLANALTO TRANSPORTES"
+		},
+		{
+			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"val": 7.965784284662087,
+			"desc": 250,
+			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
+		},
+		{
+			"id": 24038,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
+		},
+		{
+			"id": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"name": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA"
+		},
+		{
+			"id": 24021,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEIS DAL-PRA LTDA",
+			"name": "COMERCIAL DE COMBUSTIVEIS DAL-PRA LTDA",
+			"val": 7.740399641461377,
+			"desc": 244,
+			"group": "COMERCIAL DE COMBUSTIVEIS DAL-PRA LTDA"
+		},
+		{
+			"id": 23987,
+			"name": 244,
+			"val": 2.3873898263387296,
+			"group": "COMERCIAL DE COMBUSTIVEIS DAL-PRA LTDA"
+		},
+		{
+			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"val": 4.931961413127145,
+			"desc": 166.99,
+			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
+		},
+		{
+			"id": 24045,
+			"name": 166.99,
+			"val": 2.2226904647113406,
+			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
+		},
+		{
+			"id": "Copel Distribuição S.A.",
+			"name": "Copel Distribuição S.A.",
+			"val": 3.4482737639337735,
+			"desc": 123.97,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 24030,
+			"name": 27.13,
+			"val": 1.4334497937615962,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 23947,
+			"name": 42.33,
+			"val": 1.6266482684740102,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 23967,
+			"name": 27.35,
+			"val": 1.4369573306694496,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": 24006,
+			"name": 27.16,
+			"val": 1.4339297656084642,
+			"group": "Copel Distribuição S.A."
+		},
+		{
+			"id": "PRATA PALACE HOTEL LTDA",
+			"name": "PRATA PALACE HOTEL LTDA",
+			"val": 3.9923984894891817,
+			"desc": 140,
+			"group": "PRATA PALACE HOTEL LTDA"
+		},
+		{
+			"id": 24002,
+			"name": 140,
+			"val": 2.146128035678238,
+			"group": "PRATA PALACE HOTEL LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 6.4711763636262765,
+			"desc": 209.76,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 24033,
+			"name": 209.76,
+			"val": 2.321722674346009,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "VIACAO GARCIA LTDA",
+			"name": "VIACAO GARCIA LTDA",
+			"val": 3.185091626539897,
+			"desc": 116.09,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": 24005,
+			"name": 116.09,
+			"val": 2.0647948111953833,
+			"group": "VIACAO GARCIA LTDA"
+		},
+		{
+			"id": "BORIM & BERBERT LTDA",
+			"name": "BORIM & BERBERT LTDA",
+			"val": 1.3590515908695968,
+			"desc": 58,
+			"group": "BORIM & BERBERT LTDA"
+		},
+		{
+			"id": 24027,
+			"name": 58,
+			"val": 1.7634279935629373,
+			"group": "BORIM & BERBERT LTDA"
+		},
+		{
+			"id": "Hotelaria Arccorinvest Brasil S/A",
+			"name": "Hotelaria Arccorinvest Brasil S/A",
+			"val": 4.569141206894391,
+			"desc": 156.66,
+			"group": "Hotelaria Arccorinvest Brasil S/A"
+		},
+		{
+			"id": 24001,
+			"name": 156.66,
+			"val": 2.194958122206588,
+			"group": "Hotelaria Arccorinvest Brasil S/A"
+		},
+		{
+			"id": "AUTO POSTO MONTE CARLO ONDA VERDE LTDA",
+			"name": "AUTO POSTO MONTE CARLO ONDA VERDE LTDA",
+			"val": 5.421662128251023,
+			"desc": 180.77,
+			"group": "AUTO POSTO MONTE CARLO ONDA VERDE LTDA"
+		},
+		{
+			"id": 23977,
+			"name": 180.77,
+			"val": 2.2571263580225924,
+			"group": "AUTO POSTO MONTE CARLO ONDA VERDE LTDA"
+		},
+		{
+			"id": "MACUCO AUTO POSTO LTDA",
+			"name": "MACUCO AUTO POSTO LTDA",
+			"val": 7.78315783747851,
+			"desc": 245.14,
+			"group": "MACUCO AUTO POSTO LTDA"
+		},
+		{
+			"id": 23990,
+			"name": 245.14,
+			"val": 2.3894141817616843,
+			"group": "MACUCO AUTO POSTO LTDA"
+		},
+		{
+			"id": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"name": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"val": 12.216347722498046,
+			"desc": 359.7,
+			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
+		},
+		{
+			"id": 24044,
+			"name": 359.7,
+			"val": 2.555940437818511,
+			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 5.960513812311401,
+			"desc": 195.74,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 24020,
+			"name": 195.74,
+			"val": 2.2916795839828357,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "POSTO 212 SUL LTDA",
+			"name": "POSTO 212 SUL LTDA",
+			"val": 7.126160390475659,
+			"desc": 227.53,
+			"group": "POSTO 212 SUL LTDA"
+		},
+		{
+			"id": 24022,
+			"name": 227.53,
+			"val": 2.3570386668194545,
+			"group": "POSTO 212 SUL LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 486.25
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 23950,
+			"value": 198.24
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 23999,
+			"value": 112.74
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 23962,
+			"value": 175.27
+		},
+		{
+			"source": -100,
+			"target": "SANEPAR",
+			"value": 256.49
+		},
+		{
+			"source": "SANEPAR",
+			"target": 23969,
+			"value": 65.44
+		},
+		{
+			"source": "SANEPAR",
+			"target": 24011,
+			"value": 66.57
+		},
+		{
+			"source": "SANEPAR",
+			"target": 23970,
+			"value": 62.24
+		},
+		{
+			"source": "SANEPAR",
+			"target": 24032,
+			"value": 62.24
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"value": 1001.97
+		},
+		{
+			"source": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"target": 24017,
+			"value": 219.43
+		},
+		{
+			"source": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"target": 23982,
+			"value": 148.13
+		},
+		{
+			"source": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"target": 24016,
+			"value": 218.8
+		},
+		{
+			"source": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"target": 23983,
+			"value": 178.42
+		},
+		{
+			"source": "AUTO SHOPPING DER DE PETROLEO LTDA",
+			"target": 24037,
+			"value": 237.19
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AMIGOS DE SANTO INACIO EIRELI",
+			"value": 150.09
+		},
+		{
+			"source": "AUTO POSTO AMIGOS DE SANTO INACIO EIRELI",
+			"target": 23973,
+			"value": 150.09
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 107.62
+		},
+		{
+			"source": "RAMAL",
+			"target": 23997,
+			"value": 32.64
+		},
+		{
+			"source": "RAMAL",
+			"target": 24024,
+			"value": 60.28
+		},
+		{
+			"source": "RAMAL",
+			"target": 23961,
+			"value": 14.7
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO LAGO NORTE LTDA",
+			"value": 441.16999999999996
+		},
+		{
+			"source": "AUTO POSTO LAGO NORTE LTDA",
+			"target": 23954,
+			"value": 199.76
+		},
+		{
+			"source": "AUTO POSTO LAGO NORTE LTDA",
+			"target": 23975,
+			"value": 241.41
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AÉREAS INTELIGENTES",
+			"value": 2235.57
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 23995,
+			"value": 888.39
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 23994,
+			"value": 1347.18
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 973.89
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 24023,
+			"value": 973.89
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SUDOESTE LTDA",
+			"value": 885.6199999999999
+		},
+		{
+			"source": "AUTO POSTO SUDOESTE LTDA",
+			"target": 23956,
+			"value": 170.18
+		},
+		{
+			"source": "AUTO POSTO SUDOESTE LTDA",
+			"target": 24036,
+			"value": 259.77
+		},
+		{
+			"source": "AUTO POSTO SUDOESTE LTDA",
+			"target": 23981,
+			"value": 225.64
+		},
+		{
+			"source": "AUTO POSTO SUDOESTE LTDA",
+			"target": 23980,
+			"value": 230.03
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO",
+			"value": 350.65
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 23963,
+			"value": 34.15
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 23964,
+			"value": 114.99
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 23971,
+			"value": 201.51
+		},
+		{
+			"source": -100,
+			"target": "POSTO CACIQUE LTDA",
+			"value": 254.8
+		},
+		{
+			"source": "POSTO CACIQUE LTDA",
+			"target": 23991,
+			"value": 254.8
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"value": 339.55
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"target": 23984,
+			"value": 189.52
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"target": 23957,
+			"value": 150.03
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CRIOLO LTDA",
+			"value": 377.12
+		},
+		{
+			"source": "AUTO POSTO CRIOLO LTDA",
+			"target": 23952,
+			"value": 176.47
+		},
+		{
+			"source": "AUTO POSTO CRIOLO LTDA",
+			"target": 23951,
+			"value": 200.65
+		},
+		{
+			"source": -100,
+			"target": "PRESSING DISTRIBUIÇÃO LTDA",
+			"value": 400
+		},
+		{
+			"source": "PRESSING DISTRIBUIÇÃO LTDA",
+			"target": 24000,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "Auto Posto Sof Norte Ltda",
+			"value": 1207.24
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 23955,
+			"value": 194.88
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 24015,
+			"value": 130.72
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 23979,
+			"value": 214.46
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 24035,
+			"value": 242.5
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 24034,
+			"value": 224.29
+		},
+		{
+			"source": "Auto Posto Sof Norte Ltda",
+			"target": 23978,
+			"value": 200.39
+		},
+		{
+			"source": -100,
+			"target": "A.J. ZORNITTA COMERCIO DE FILTROS- EIRELI- ME",
+			"value": 259
+		},
+		{
+			"source": "A.J. ZORNITTA COMERCIO DE FILTROS- EIRELI- ME",
+			"target": 23972,
+			"value": 259
+		},
+		{
+			"source": -100,
+			"target": "SMAFF COMBUSTIVEIS LTDA",
+			"value": 221.16
+		},
+		{
+			"source": "SMAFF COMBUSTIVEIS LTDA",
+			"target": 24046,
+			"value": 221.16
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"value": 91.63
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 24018,
+			"value": 91.63
+		},
+		{
+			"source": -100,
+			"target": "ARTGRAFICA PREMIO LTDA - ME",
+			"value": 29280
+		},
+		{
+			"source": "ARTGRAFICA PREMIO LTDA - ME",
+			"target": 23959,
+			"value": 29280
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 437.96999999999997
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 23998,
+			"value": 52.98
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 24025,
+			"value": 120.56
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 24026,
+			"value": 53.92
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 24012,
+			"value": 210.51
+		},
+		{
+			"source": -100,
+			"target": "BMC COMERCIO DE PECAS EIRELI EPP",
+			"value": 323
+		},
+		{
+			"source": "BMC COMERCIO DE PECAS EIRELI EPP",
+			"target": 24019,
+			"value": 323
+		},
+		{
+			"source": -100,
+			"target": "BRASILIA COM. DE COMBUSTIVEIS LTDA",
+			"value": 260
+		},
+		{
+			"source": "BRASILIA COM. DE COMBUSTIVEIS LTDA",
+			"target": 23985,
+			"value": 260
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GOIANAO LTDA - ME",
+			"value": 215.59
+		},
+		{
+			"source": "AUTO POSTO GOIANAO LTDA - ME",
+			"target": 23974,
+			"value": 215.59
+		},
+		{
+			"source": -100,
+			"target": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"value": 104.2
+		},
+		{
+			"source": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+			"target": 23988,
+			"value": 104.2
+		},
+		{
+			"source": -100,
+			"target": "G10 AUTO POSTO LTDA",
+			"value": 105.64
+		},
+		{
+			"source": "G10 AUTO POSTO LTDA",
+			"target": 23989,
+			"value": 105.64
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MACEDAO LTDA",
+			"value": 162.03
+		},
+		{
+			"source": "AUTO POSTO MACEDAO LTDA",
+			"target": 23976,
+			"value": 162.03
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO 314 NORTE",
+			"value": 196.3
+		},
+		{
+			"source": "AUTO POSTO 314 NORTE",
+			"target": 24014,
+			"value": 196.3
+		},
+		{
+			"source": -100,
+			"target": "AMERICANO III AUTO POSTO LTDA",
+			"value": 85.01
+		},
+		{
+			"source": "AMERICANO III AUTO POSTO LTDA",
+			"target": 24013,
+			"value": 85.01
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 1808.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 24029,
+			"value": 1808.85
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1424.51
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 24040,
+			"value": 256.95
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 23986,
+			"value": 157.33
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 24042,
+			"value": 157.74
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 24039,
+			"value": 231.47
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 24041,
+			"value": 233.09
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 23958,
+			"value": 170.15
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 24043,
+			"value": 217.78
+		},
+		{
+			"source": -100,
+			"target": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA",
+			"value": 8827.04
+		},
+		{
+			"source": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA",
+			"target": 24007,
+			"value": 2206.76
+		},
+		{
+			"source": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA",
+			"target": 24031,
+			"value": 2206.76
+		},
+		{
+			"source": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA",
+			"target": 23968,
+			"value": 2206.76
+		},
+		{
+			"source": "ELSO THOMANN LOCACAO DE IMOVEIS LTDA",
+			"target": 23948,
+			"value": 2206.76
+		},
+		{
+			"source": -100,
+			"target": "SIG COMERCIAL DE PAPEIS LTDA EPPI",
+			"value": 249.85
+		},
+		{
+			"source": "SIG COMERCIAL DE PAPEIS LTDA EPPI",
+			"target": 23949,
+			"value": 249.85
+		},
+		{
+			"source": -100,
+			"target": "POSTO PRATAO LTDA",
+			"value": 473.47
+		},
+		{
+			"source": "POSTO PRATAO LTDA",
+			"target": 23993,
+			"value": 217.48
+		},
+		{
+			"source": "POSTO PRATAO LTDA",
+			"target": 23992,
+			"value": 255.99
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 1272.1100000000001
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 23996,
+			"value": 639.2
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 23960,
+			"value": 632.91
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"value": 4795.7300000000005
+		},
+		{
+			"source": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"target": 24003,
+			"value": 1595.76
+		},
+		{
+			"source": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"target": 24028,
+			"value": 1587.58
+		},
+		{
+			"source": "MOVIDA LOCACAO DE VEICULOS S.A.",
+			"target": 23966,
+			"value": 1612.39
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO EIXINHO LTDA",
+			"value": 193.73
+		},
+		{
+			"source": "AUTO POSTO EIXINHO LTDA",
+			"target": 23953,
+			"value": 193.73
+		},
+		{
+			"source": -100,
+			"target": "CANTELLE VIAGENS E TURISMO LTDA",
+			"value": 799.99
+		},
+		{
+			"source": "CANTELLE VIAGENS E TURISMO LTDA",
+			"target": 23965,
+			"value": 799.99
+		},
+		{
+			"source": -100,
+			"target": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO",
+			"value": 1237.48
+		},
+		{
+			"source": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO",
+			"target": 24008,
+			"value": 63.14
+		},
+		{
+			"source": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO",
+			"target": 24010,
+			"value": 300.37
+		},
+		{
+			"source": "PREFEITURA MUNICIPAL DE CASCAVEL PR IPTU/LIXO",
+			"target": 24009,
+			"value": 873.97
+		},
+		{
+			"source": -100,
+			"target": "PLANALTO TRANSPORTES",
+			"value": 257
+		},
+		{
+			"source": "PLANALTO TRANSPORTES",
+			"target": 24004,
+			"value": 257
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"value": 250
+		},
+		{
+			"source": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
+			"target": 24038,
+			"value": 250
+		},
+		{
+			"source": -100,
+			"target": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"value": 200
+		},
+		{
+			"source": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
+			"target": 24021,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEIS DAL-PRA LTDA",
+			"value": 244
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS DAL-PRA LTDA",
+			"target": 23987,
+			"value": 244
+		},
+		{
+			"source": -100,
+			"target": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"value": 166.99
+		},
+		{
+			"source": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"target": 24045,
+			"value": 166.99
+		},
+		{
+			"source": -100,
+			"target": "Copel Distribuição S.A.",
+			"value": 123.97
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 24030,
+			"value": 27.13
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 23947,
+			"value": 42.33
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 23967,
+			"value": 27.35
+		},
+		{
+			"source": "Copel Distribuição S.A.",
+			"target": 24006,
+			"value": 27.16
+		},
+		{
+			"source": -100,
+			"target": "PRATA PALACE HOTEL LTDA",
+			"value": 140
+		},
+		{
+			"source": "PRATA PALACE HOTEL LTDA",
+			"target": 24002,
+			"value": 140
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 209.76
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 24033,
+			"value": 209.76
+		},
+		{
+			"source": -100,
+			"target": "VIACAO GARCIA LTDA",
+			"value": 116.09
+		},
+		{
+			"source": "VIACAO GARCIA LTDA",
+			"target": 24005,
+			"value": 116.09
+		},
+		{
+			"source": -100,
+			"target": "BORIM & BERBERT LTDA",
+			"value": 58
+		},
+		{
+			"source": "BORIM & BERBERT LTDA",
+			"target": 24027,
+			"value": 58
+		},
+		{
+			"source": -100,
+			"target": "Hotelaria Arccorinvest Brasil S/A",
+			"value": 156.66
+		},
+		{
+			"source": "Hotelaria Arccorinvest Brasil S/A",
+			"target": 24001,
+			"value": 156.66
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MONTE CARLO ONDA VERDE LTDA",
+			"value": 180.77
+		},
+		{
+			"source": "AUTO POSTO MONTE CARLO ONDA VERDE LTDA",
+			"target": 23977,
+			"value": 180.77
+		},
+		{
+			"source": -100,
+			"target": "MACUCO AUTO POSTO LTDA",
+			"value": 245.14
+		},
+		{
+			"source": "MACUCO AUTO POSTO LTDA",
+			"target": 23990,
+			"value": 245.14
+		},
+		{
+			"source": -100,
+			"target": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"value": 359.7
+		},
+		{
+			"source": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"target": 24044,
+			"value": 359.7
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 195.74
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 24020,
+			"value": 195.74
+		},
+		{
+			"source": -100,
+			"target": "POSTO 212 SUL LTDA",
+			"value": 227.53
+		},
+		{
+			"source": "POSTO 212 SUL LTDA",
+			"target": 24022,
+			"value": 227.53
+		}
+	]
+}

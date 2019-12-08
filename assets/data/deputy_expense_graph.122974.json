@@ -1,0 +1,1641 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PEDRO LUCAS FERNANDES"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "REV DE PETROLEO SAO MARCOS LTDA-ME",
+			"name": "REV DE PETROLEO SAO MARCOS LTDA-ME",
+			"val": 7.382309491767677,
+			"desc": 234.42,
+			"group": "REV DE PETROLEO SAO MARCOS LTDA-ME"
+		},
+		{
+			"id": 40714,
+			"name": 234.42,
+			"val": 2.369994661608428,
+			"group": "REV DE PETROLEO SAO MARCOS LTDA-ME"
+		},
+		{
+			"id": "Telemar Norte Leste S/A",
+			"name": "Telemar Norte Leste S/A",
+			"val": 57.75327451106013,
+			"desc": 1383.73,
+			"group": "Telemar Norte Leste S/A"
+		},
+		{
+			"id": 40756,
+			"name": 1383.73,
+			"val": 3.1410513567757334,
+			"group": "Telemar Norte Leste S/A"
+		},
+		{
+			"id": "ROMA TRUCK CENTER LTDA",
+			"name": "ROMA TRUCK CENTER LTDA",
+			"val": 4.706724761153209,
+			"desc": 160.59,
+			"group": "ROMA TRUCK CENTER LTDA"
+		},
+		{
+			"id": 40682,
+			"name": 160.59,
+			"val": 2.205718498103094,
+			"group": "ROMA TRUCK CENTER LTDA"
+		},
+		{
+			"id": "L M GOMES & CIA LTDA - ME",
+			"name": "L M GOMES & CIA LTDA - ME",
+			"val": 18.515564073142617,
+			"desc": 514,
+			"group": "L M GOMES & CIA LTDA - ME"
+		},
+		{
+			"id": 40758,
+			"name": 514,
+			"val": 2.710963118995276,
+			"group": "L M GOMES & CIA LTDA - ME"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 508.09344733052325,
+			"desc": 9601.82,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40701,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40774,
+			"name": 521.9,
+			"val": 2.71758729685546,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40769,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40735,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40704,
+			"name": 1674.39,
+			"val": 3.22385662159091,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40773,
+			"name": 1266.95,
+			"val": 3.1027594758522072,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40772,
+			"name": 914.49,
+			"val": 2.9611789608036174,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40705,
+			"name": 1112.39,
+			"val": 3.0462570760530174,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40706,
+			"name": 1602.85,
+			"val": 3.2048928815429196,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40702,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40770,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40737,
+			"name": 957,
+			"val": 2.9809119377768436,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40771,
+			"name": 166,
+			"val": 2.220108088040055,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40703,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 40736,
+			"name": 1115.85,
+			"val": 3.047605817764063,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1088.3690693245833,
+			"desc": 19129.73,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40728,
+			"name": 1298.89,
+			"val": 3.113572373231751,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40700,
+			"name": 1274.49,
+			"val": 3.1053364322243864,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40763,
+			"name": 981.95,
+			"val": 2.9920893744703174,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40699,
+			"name": 2029.39,
+			"val": 3.307365516019059,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40764,
+			"name": 737.85,
+			"val": 2.8679680816150124,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40767,
+			"name": -355.45,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40698,
+			"name": 1159.39,
+			"val": 3.0642295501631396,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40727,
+			"name": 1144.39,
+			"val": 3.058574054163115,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40729,
+			"name": 904,
+			"val": 2.9561684304753633,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40768,
+			"name": -194.91,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40694,
+			"name": 1072.85,
+			"val": 3.030539005538995,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40734,
+			"name": 1298.89,
+			"val": 3.113572373231751,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40733,
+			"name": 984.39,
+			"val": 2.99316719323995,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40697,
+			"name": 181,
+			"val": 2.2576785748691846,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40731,
+			"name": 1147.85,
+			"val": 3.059885138559698,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40693,
+			"name": 1292.17,
+			"val": 3.1113196539106975,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40765,
+			"name": 684.39,
+			"val": 2.8353036551990636,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40766,
+			"name": 574,
+			"val": 2.7589118923979736,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40696,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40695,
+			"name": 1022.85,
+			"val": 3.0098119495003144,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40732,
+			"name": 17.5,
+			"val": 1.2430380486862944,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 40730,
+			"name": 1838.85,
+			"val": 3.2645463040998464,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 7.489727421159012,
+			"desc": 237.3,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 40740,
+			"name": 237.3,
+			"val": 2.375297738217339,
+			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CORREIOS - TELEGRAMA",
+			"name": "CORREIOS - TELEGRAMA",
+			"val": 0.7325827825028979,
+			"desc": 35.55,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": 40726,
+			"name": 11.85,
+			"val": 1.0737183503461227,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": 40689,
+			"name": 23.7,
+			"val": 1.374748346010104,
+			"group": "CORREIOS - TELEGRAMA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 18.577430409359316,
+			"desc": 515.48,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40720,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40719,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40753,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40721,
+			"name": 109.35,
+			"val": 2.0388187873736556,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40685,
+			"name": 109.31,
+			"val": 2.038659894302496,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40754,
+			"name": 136.21,
+			"val": 2.1342089929320838,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 40718,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "DRUMOND & LAMI LTDA",
+			"name": "DRUMOND & LAMI LTDA",
+			"val": 1525.2872962915308,
+			"desc": 26000,
+			"group": "DRUMOND & LAMI LTDA"
+		},
+		{
+			"id": 40717,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "DRUMOND & LAMI LTDA"
+		},
+		{
+			"id": 40752,
+			"name": 14000,
+			"val": 4.146128035678238,
+			"group": "DRUMOND & LAMI LTDA"
+		},
+		{
+			"id": "LOCALIZA RENT A CAR SA",
+			"name": "LOCALIZA RENT A CAR SA",
+			"val": 36.841986564811855,
+			"desc": 933.51,
+			"group": "LOCALIZA RENT A CAR SA"
+		},
+		{
+			"id": 40761,
+			"name": 933.51,
+			"val": 2.9701189745845697,
+			"group": "LOCALIZA RENT A CAR SA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 122.26534811573175,
+			"desc": 2683.62,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 40723,
+			"name": 1362.56,
+			"val": 3.1343556354222097,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 40687,
+			"name": 1321.06,
+			"val": 3.1209225428811136,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "V F DO NASCIMENTO ARTIGOS DOMESTICOS",
+			"name": "V F DO NASCIMENTO ARTIGOS DOMESTICOS",
+			"val": 1.171419108599743,
+			"desc": 51.5,
+			"group": "V F DO NASCIMENTO ARTIGOS DOMESTICOS"
+		},
+		{
+			"id": 40690,
+			"name": 51.5,
+			"val": 1.711807229041191,
+			"group": "V F DO NASCIMENTO ARTIGOS DOMESTICOS"
+		},
+		{
+			"id": "AUTO POSTO ECONOMICO LTDA - ME",
+			"name": "AUTO POSTO ECONOMICO LTDA - ME",
+			"val": 19.061914376177125,
+			"desc": 527.05,
+			"group": "AUTO POSTO ECONOMICO LTDA - ME"
+		},
+		{
+			"id": 40776,
+			"name": 177.04,
+			"val": 2.2480714009192013,
+			"group": "AUTO POSTO ECONOMICO LTDA - ME"
+		},
+		{
+			"id": 40739,
+			"name": 350.01,
+			"val": 2.5440804525867846,
+			"group": "AUTO POSTO ECONOMICO LTDA - ME"
+		},
+		{
+			"id": "TAKEO MARUTA CONVENIENCIA ME",
+			"name": "TAKEO MARUTA CONVENIENCIA ME",
+			"val": 0.39242998244008215,
+			"desc": 22,
+			"group": "TAKEO MARUTA CONVENIENCIA ME"
+		},
+		{
+			"id": 40775,
+			"name": 22,
+			"val": 1.3424226808222062,
+			"group": "TAKEO MARUTA CONVENIENCIA ME"
+		},
+		{
+			"id": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"name": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"val": 16.013814442800914,
+			"desc": 453.63,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": 40710,
+			"name": 221.13,
+			"val": 2.344647665919406,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": 40744,
+			"name": 232.5,
+			"val": 2.3664229572259727,
+			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
+		},
+		{
+			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
+			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
+			"val": 12.299027794339477,
+			"desc": 361.78,
+			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
+		},
+		{
+			"id": 40748,
+			"name": 157.39,
+			"val": 2.1969771353751186,
+			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
+		},
+		{
+			"id": 40715,
+			"name": 204.39,
+			"val": 2.31045964365906,
+			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 7.043511997217276,
+			"desc": 225.3,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40755,
+			"name": 60.42,
+			"val": 1.7811807209372617,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40686,
+			"name": 60.68,
+			"val": 1.783045572114693,
+			"group": "RAMAL"
+		},
+		{
+			"id": 40722,
+			"name": 104.2,
+			"val": 2.0178677189635055,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 22.227723462929916,
+			"desc": 601.84,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 40741,
+			"name": 173.08,
+			"val": 2.238246886526687,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 40777,
+			"name": 182.52,
+			"val": 2.2613104601006233,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 40743,
+			"name": 146.21,
+			"val": 2.164977077110886,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 40742,
+			"name": 100.03,
+			"val": 2.000130268805227,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "POSTO AMERICANO LTDA",
+			"name": "POSTO AMERICANO LTDA",
+			"val": 19.06065624217667,
+			"desc": 527.02,
+			"group": "POSTO AMERICANO LTDA"
+		},
+		{
+			"id": 40745,
+			"name": 527.02,
+			"val": 2.7218270966638265,
+			"group": "POSTO AMERICANO LTDA"
+		},
+		{
+			"id": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"name": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"val": 357.64789778815134,
+			"desc": 7000,
+			"group": "H.L.R.GUTERRES LOCADORA E TRANSPORTE"
+		},
+		{
+			"id": 40759,
+			"name": 2200,
+			"val": 3.342422680822206,
+			"group": "H.L.R.GUTERRES LOCADORA E TRANSPORTE"
+		},
+		{
+			"id": 40760,
+			"name": 4800,
+			"val": 3.681241237375587,
+			"group": "H.L.R.GUTERRES LOCADORA E TRANSPORTE"
+		},
+		{
+			"id": "SEBITE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "SEBITE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 7.080558379368351,
+			"desc": 226.3,
+			"group": "SEBITE COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 40683,
+			"name": 226.3,
+			"val": 2.3546845539547285,
+			"group": "SEBITE COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "NICOLAU DERIVADOS DE PETROLEO(03)",
+			"name": "NICOLAU DERIVADOS DE PETROLEO(03)",
+			"val": 15.872601297566902,
+			"desc": 450.19000000000005,
+			"group": "NICOLAU DERIVADOS DE PETROLEO(03)"
+		},
+		{
+			"id": 40713,
+			"name": 209.61,
+			"val": 2.3214119979740055,
+			"group": "NICOLAU DERIVADOS DE PETROLEO(03)"
+		},
+		{
+			"id": 40712,
+			"name": 240.58,
+			"val": 2.3812595205488485,
+			"group": "NICOLAU DERIVADOS DE PETROLEO(03)"
+		},
+		{
+			"id": "POSTO MACIEL LTDA ME",
+			"name": "POSTO MACIEL LTDA ME",
+			"val": 5.547026299834915,
+			"desc": 184.27,
+			"group": "POSTO MACIEL LTDA ME"
+		},
+		{
+			"id": 40681,
+			"name": 184.27,
+			"val": 2.265454635843184,
+			"group": "POSTO MACIEL LTDA ME"
+		},
+		{
+			"id": "OLIVEIRA & FILHOS LTDA",
+			"name": "OLIVEIRA & FILHOS LTDA",
+			"val": 14.871732917004088,
+			"desc": 425.7,
+			"group": "OLIVEIRA & FILHOS LTDA"
+		},
+		{
+			"id": 40692,
+			"name": 425.7,
+			"val": 2.6291036501771363,
+			"group": "OLIVEIRA & FILHOS LTDA"
+		},
+		{
+			"id": "LIDER POSTO DE SERVICOS LTDA",
+			"name": "LIDER POSTO DE SERVICOS LTDA",
+			"val": 5.656225628970978,
+			"desc": 187.31,
+			"group": "LIDER POSTO DE SERVICOS LTDA"
+		},
+		{
+			"id": 40679,
+			"name": 187.31,
+			"val": 2.2725609638615567,
+			"group": "LIDER POSTO DE SERVICOS LTDA"
+		},
+		{
+			"id": "MACIEL COM. DE COMBUSTIVEIS LTDA",
+			"name": "MACIEL COM. DE COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "MACIEL COM. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 40680,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "MACIEL COM. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC COM AR",
+			"name": "CORREIOS - ENCOMENDA PAC COM AR",
+			"val": 0.6307342490409874,
+			"desc": 31.64,
+			"group": "CORREIOS - ENCOMENDA PAC COM AR"
+		},
+		{
+			"id": 40725,
+			"name": 31.64,
+			"val": 1.500236474825639,
+			"group": "CORREIOS - ENCOMENDA PAC COM AR"
+		},
+		{
+			"id": "POSTO MAGNOLIA LTDA",
+			"name": "POSTO MAGNOLIA LTDA",
+			"val": 6.240285649035461,
+			"desc": 203.44,
+			"group": "POSTO MAGNOLIA LTDA"
+		},
+		{
+			"id": 40746,
+			"name": 203.44,
+			"val": 2.3084363471676523,
+			"group": "POSTO MAGNOLIA LTDA"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 15.070129104868546,
+			"desc": 430.57,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 40707,
+			"name": 185.69,
+			"val": 2.268788516223584,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 40678,
+			"name": 174.38,
+			"val": 2.24149667332751,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 40738,
+			"name": 70.5,
+			"val": 1.8481891169913987,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "LIMA COMERCIAL - POSTO CONFIANCA",
+			"name": "LIMA COMERCIAL - POSTO CONFIANCA",
+			"val": 6.151081811274118,
+			"desc": 200.99,
+			"group": "LIMA COMERCIAL - POSTO CONFIANCA"
+		},
+		{
+			"id": 40711,
+			"name": 200.99,
+			"val": 2.3031744501923495,
+			"group": "LIMA COMERCIAL - POSTO CONFIANCA"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 40708,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"name": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"val": 3121.9280948873625,
+			"desc": 50000,
+			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
+		},
+		{
+			"id": 40716,
+			"name": 25000,
+			"val": 4.3979400086720375,
+			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
+		},
+		{
+			"id": 40751,
+			"name": 25000,
+			"val": 4.3979400086720375,
+			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
+		},
+		{
+			"id": "J M MOREIRA COMBUSTIVEIS",
+			"name": "J M MOREIRA COMBUSTIVEIS",
+			"val": 6.398354895618096,
+			"desc": 207.77,
+			"group": "J M MOREIRA COMBUSTIVEIS"
+		},
+		{
+			"id": 40709,
+			"name": 207.77,
+			"val": 2.3175828397801994,
+			"group": "J M MOREIRA COMBUSTIVEIS"
+		},
+		{
+			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"val": 18.642249143495455,
+			"desc": 517.03,
+			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
+		},
+		{
+			"id": 40762,
+			"name": 517.03,
+			"val": 2.7135157432031476,
+			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
+		},
+		{
+			"id": "SMAFF COMBUSTIVEIS LTDA",
+			"name": "SMAFF COMBUSTIVEIS LTDA",
+			"val": 6.0380960681947435,
+			"desc": 197.88,
+			"group": "SMAFF COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 40749,
+			"name": 197.88,
+			"val": 2.2964019016921435,
+			"group": "SMAFF COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "HOTEL PIRITORO LTDA",
+			"name": "HOTEL PIRITORO LTDA",
+			"val": 14.11294475438545,
+			"desc": 407,
+			"group": "HOTEL PIRITORO LTDA"
+		},
+		{
+			"id": 40757,
+			"name": 407,
+			"val": 2.60959440922522,
+			"group": "HOTEL PIRITORO LTDA"
+		},
+		{
+			"id": "METROPOLITAN HOTEL LTDA",
+			"name": "METROPOLITAN HOTEL LTDA",
+			"val": 13.789830918210864,
+			"desc": 399,
+			"group": "METROPOLITAN HOTEL LTDA"
+		},
+		{
+			"id": 40691,
+			"name": 399,
+			"val": 2.6009728956867484,
+			"group": "METROPOLITAN HOTEL LTDA"
+		},
+		{
+			"id": "AMANDA HELLEN SOUSA DO NORTE",
+			"name": "AMANDA HELLEN SOUSA DO NORTE",
+			"val": 301.21792284919786,
+			"desc": 6000,
+			"group": "AMANDA HELLEN SOUSA DO NORTE"
+		},
+		{
+			"id": 40684,
+			"name": 6000,
+			"val": 3.778151250383644,
+			"group": "AMANDA HELLEN SOUSA DO NORTE"
+		},
+		{
+			"id": "REVENDEDORA SOPETRO LTDA",
+			"name": "REVENDEDORA SOPETRO LTDA",
+			"val": 124.39124160861299,
+			"desc": 2725,
+			"group": "REVENDEDORA SOPETRO LTDA"
+		},
+		{
+			"id": 40747,
+			"name": 2725,
+			"val": 3.4353665066126613,
+			"group": "REVENDEDORA SOPETRO LTDA"
+		},
+		{
+			"id": "VIANA E VIEIRA LTDA",
+			"name": "VIANA E VIEIRA LTDA",
+			"val": 7.590988956411867,
+			"desc": 240.01,
+			"group": "VIANA E VIEIRA LTDA"
+		},
+		{
+			"id": 40750,
+			"name": 240.01,
+			"val": 2.3802293369380374,
+			"group": "VIANA E VIEIRA LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 0.20172494360060628,
+			"desc": 13.45,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 40724,
+			"name": 13.45,
+			"val": 1.1287222843384268,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 1.4810798660606495,
+			"desc": 62.15,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 40688,
+			"name": 62.15,
+			"val": 1.7934411329776636,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "REV DE PETROLEO SAO MARCOS LTDA-ME",
+			"value": 234.42
+		},
+		{
+			"source": "REV DE PETROLEO SAO MARCOS LTDA-ME",
+			"target": 40714,
+			"value": 234.42
+		},
+		{
+			"source": -100,
+			"target": "Telemar Norte Leste S/A",
+			"value": 1383.73
+		},
+		{
+			"source": "Telemar Norte Leste S/A",
+			"target": 40756,
+			"value": 1383.73
+		},
+		{
+			"source": -100,
+			"target": "ROMA TRUCK CENTER LTDA",
+			"value": 160.59
+		},
+		{
+			"source": "ROMA TRUCK CENTER LTDA",
+			"target": 40682,
+			"value": 160.59
+		},
+		{
+			"source": -100,
+			"target": "L M GOMES & CIA LTDA - ME",
+			"value": 514
+		},
+		{
+			"source": "L M GOMES & CIA LTDA - ME",
+			"target": 40758,
+			"value": 514
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 9601.82
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40701,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40774,
+			"value": 521.9
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40769,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40735,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40704,
+			"value": 1674.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40773,
+			"value": 1266.95
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40772,
+			"value": 914.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40705,
+			"value": 1112.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40706,
+			"value": 1602.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40702,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40770,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40737,
+			"value": 957
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40771,
+			"value": 166
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40703,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 40736,
+			"value": 1115.85
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 19129.73
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40728,
+			"value": 1298.89
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40700,
+			"value": 1274.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40763,
+			"value": 981.95
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40699,
+			"value": 2029.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40764,
+			"value": 737.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40767,
+			"value": -355.45
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40698,
+			"value": 1159.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40727,
+			"value": 1144.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40729,
+			"value": 904
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40768,
+			"value": -194.91
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40694,
+			"value": 1072.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40734,
+			"value": 1298.89
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40733,
+			"value": 984.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40697,
+			"value": 181
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40731,
+			"value": 1147.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40693,
+			"value": 1292.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40765,
+			"value": 684.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40766,
+			"value": 574
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40696,
+			"value": 35
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40695,
+			"value": 1022.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40732,
+			"value": 17.5
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 40730,
+			"value": 1838.85
+		},
+		{
+			"source": -100,
+			"target": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 237.3
+		},
+		{
+			"source": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 40740,
+			"value": 237.3
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - TELEGRAMA",
+			"value": 35.55
+		},
+		{
+			"source": "CORREIOS - TELEGRAMA",
+			"target": 40726,
+			"value": 11.85
+		},
+		{
+			"source": "CORREIOS - TELEGRAMA",
+			"target": 40689,
+			"value": 23.7
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 515.48
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40720,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40719,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40753,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40721,
+			"value": 109.35
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40685,
+			"value": 109.31
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40754,
+			"value": 136.21
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 40718,
+			"value": 40.16
+		},
+		{
+			"source": -100,
+			"target": "DRUMOND & LAMI LTDA",
+			"value": 26000
+		},
+		{
+			"source": "DRUMOND & LAMI LTDA",
+			"target": 40717,
+			"value": 12000
+		},
+		{
+			"source": "DRUMOND & LAMI LTDA",
+			"target": 40752,
+			"value": 14000
+		},
+		{
+			"source": -100,
+			"target": "LOCALIZA RENT A CAR SA",
+			"value": 933.51
+		},
+		{
+			"source": "LOCALIZA RENT A CAR SA",
+			"target": 40761,
+			"value": 933.51
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 2683.62
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 40723,
+			"value": 1362.56
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 40687,
+			"value": 1321.06
+		},
+		{
+			"source": -100,
+			"target": "V F DO NASCIMENTO ARTIGOS DOMESTICOS",
+			"value": 51.5
+		},
+		{
+			"source": "V F DO NASCIMENTO ARTIGOS DOMESTICOS",
+			"target": 40690,
+			"value": 51.5
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ECONOMICO LTDA - ME",
+			"value": 527.05
+		},
+		{
+			"source": "AUTO POSTO ECONOMICO LTDA - ME",
+			"target": 40776,
+			"value": 177.04
+		},
+		{
+			"source": "AUTO POSTO ECONOMICO LTDA - ME",
+			"target": 40739,
+			"value": 350.01
+		},
+		{
+			"source": -100,
+			"target": "TAKEO MARUTA CONVENIENCIA ME",
+			"value": 22
+		},
+		{
+			"source": "TAKEO MARUTA CONVENIENCIA ME",
+			"target": 40775,
+			"value": 22
+		},
+		{
+			"source": -100,
+			"target": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"value": 453.63
+		},
+		{
+			"source": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"target": 40710,
+			"value": 221.13
+		},
+		{
+			"source": "L S COMERCIO E SERVICOS LTDA VINHAIS",
+			"target": 40744,
+			"value": 232.5
+		},
+		{
+			"source": -100,
+			"target": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
+			"value": 361.78
+		},
+		{
+			"source": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
+			"target": 40748,
+			"value": 157.39
+		},
+		{
+			"source": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
+			"target": 40715,
+			"value": 204.39
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 225.3
+		},
+		{
+			"source": "RAMAL",
+			"target": 40755,
+			"value": 60.42
+		},
+		{
+			"source": "RAMAL",
+			"target": 40686,
+			"value": 60.68
+		},
+		{
+			"source": "RAMAL",
+			"target": 40722,
+			"value": 104.2
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 601.84
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 40741,
+			"value": 173.08
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 40777,
+			"value": 182.52
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 40743,
+			"value": 146.21
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 40742,
+			"value": 100.03
+		},
+		{
+			"source": -100,
+			"target": "POSTO AMERICANO LTDA",
+			"value": 527.02
+		},
+		{
+			"source": "POSTO AMERICANO LTDA",
+			"target": 40745,
+			"value": 527.02
+		},
+		{
+			"source": -100,
+			"target": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"value": 7000
+		},
+		{
+			"source": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"target": 40759,
+			"value": 2200
+		},
+		{
+			"source": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
+			"target": 40760,
+			"value": 4800
+		},
+		{
+			"source": -100,
+			"target": "SEBITE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 226.3
+		},
+		{
+			"source": "SEBITE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 40683,
+			"value": 226.3
+		},
+		{
+			"source": -100,
+			"target": "NICOLAU DERIVADOS DE PETROLEO(03)",
+			"value": 450.19000000000005
+		},
+		{
+			"source": "NICOLAU DERIVADOS DE PETROLEO(03)",
+			"target": 40713,
+			"value": 209.61
+		},
+		{
+			"source": "NICOLAU DERIVADOS DE PETROLEO(03)",
+			"target": 40712,
+			"value": 240.58
+		},
+		{
+			"source": -100,
+			"target": "POSTO MACIEL LTDA ME",
+			"value": 184.27
+		},
+		{
+			"source": "POSTO MACIEL LTDA ME",
+			"target": 40681,
+			"value": 184.27
+		},
+		{
+			"source": -100,
+			"target": "OLIVEIRA & FILHOS LTDA",
+			"value": 425.7
+		},
+		{
+			"source": "OLIVEIRA & FILHOS LTDA",
+			"target": 40692,
+			"value": 425.7
+		},
+		{
+			"source": -100,
+			"target": "LIDER POSTO DE SERVICOS LTDA",
+			"value": 187.31
+		},
+		{
+			"source": "LIDER POSTO DE SERVICOS LTDA",
+			"target": 40679,
+			"value": 187.31
+		},
+		{
+			"source": -100,
+			"target": "MACIEL COM. DE COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "MACIEL COM. DE COMBUSTIVEIS LTDA",
+			"target": 40680,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC COM AR",
+			"value": 31.64
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC COM AR",
+			"target": 40725,
+			"value": 31.64
+		},
+		{
+			"source": -100,
+			"target": "POSTO MAGNOLIA LTDA",
+			"value": 203.44
+		},
+		{
+			"source": "POSTO MAGNOLIA LTDA",
+			"target": 40746,
+			"value": 203.44
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 430.57
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 40707,
+			"value": 185.69
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 40678,
+			"value": 174.38
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 40738,
+			"value": 70.5
+		},
+		{
+			"source": -100,
+			"target": "LIMA COMERCIAL - POSTO CONFIANCA",
+			"value": 200.99
+		},
+		{
+			"source": "LIMA COMERCIAL - POSTO CONFIANCA",
+			"target": 40711,
+			"value": 200.99
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 50
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 40708,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"value": 50000
+		},
+		{
+			"source": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"target": 40716,
+			"value": 25000
+		},
+		{
+			"source": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+			"target": 40751,
+			"value": 25000
+		},
+		{
+			"source": -100,
+			"target": "J M MOREIRA COMBUSTIVEIS",
+			"value": 207.77
+		},
+		{
+			"source": "J M MOREIRA COMBUSTIVEIS",
+			"target": 40709,
+			"value": 207.77
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"value": 517.03
+		},
+		{
+			"source": "MOVIDA LOCAÇÃO DE VEICULOS",
+			"target": 40762,
+			"value": 517.03
+		},
+		{
+			"source": -100,
+			"target": "SMAFF COMBUSTIVEIS LTDA",
+			"value": 197.88
+		},
+		{
+			"source": "SMAFF COMBUSTIVEIS LTDA",
+			"target": 40749,
+			"value": 197.88
+		},
+		{
+			"source": -100,
+			"target": "HOTEL PIRITORO LTDA",
+			"value": 407
+		},
+		{
+			"source": "HOTEL PIRITORO LTDA",
+			"target": 40757,
+			"value": 407
+		},
+		{
+			"source": -100,
+			"target": "METROPOLITAN HOTEL LTDA",
+			"value": 399
+		},
+		{
+			"source": "METROPOLITAN HOTEL LTDA",
+			"target": 40691,
+			"value": 399
+		},
+		{
+			"source": -100,
+			"target": "AMANDA HELLEN SOUSA DO NORTE",
+			"value": 6000
+		},
+		{
+			"source": "AMANDA HELLEN SOUSA DO NORTE",
+			"target": 40684,
+			"value": 6000
+		},
+		{
+			"source": -100,
+			"target": "REVENDEDORA SOPETRO LTDA",
+			"value": 2725
+		},
+		{
+			"source": "REVENDEDORA SOPETRO LTDA",
+			"target": 40747,
+			"value": 2725
+		},
+		{
+			"source": -100,
+			"target": "VIANA E VIEIRA LTDA",
+			"value": 240.01
+		},
+		{
+			"source": "VIANA E VIEIRA LTDA",
+			"target": 40750,
+			"value": 240.01
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 13.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 40724,
+			"value": 13.45
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 62.15
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 40688,
+			"value": 62.15
+		}
+	]
+}

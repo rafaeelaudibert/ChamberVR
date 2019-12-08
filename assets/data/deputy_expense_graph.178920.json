@@ -1,0 +1,1485 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "RICARDO TEOBALDO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Telefonica Brasil S.A",
+			"name": "Telefonica Brasil S.A",
+			"val": 98.84074259416165,
+			"desc": 2222.54,
+			"group": "Telefonica Brasil S.A"
+		},
+		{
+			"id": 43558,
+			"name": 220.75,
+			"val": 2.343900712249606,
+			"group": "Telefonica Brasil S.A"
+		},
+		{
+			"id": 43557,
+			"name": 986.2,
+			"val": 2.993964998195119,
+			"group": "Telefonica Brasil S.A"
+		},
+		{
+			"id": 43529,
+			"name": 1015.59,
+			"val": 3.006718415945087,
+			"group": "Telefonica Brasil S.A"
+		},
+		{
+			"id": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
+			"name": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO ARCO IRIS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43549,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO ARCO IRIS COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Companhia Energética de Pernambuco",
+			"name": "Companhia Energética de Pernambuco",
+			"val": 68.27347161798994,
+			"desc": 1603.16,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 43541,
+			"name": 93.38,
+			"val": 1.9702538695947869,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 43513,
+			"name": 425.55,
+			"val": 2.6289505948515335,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 43540,
+			"name": 454.42,
+			"val": 2.657457437356336,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 43479,
+			"name": 90.06,
+			"val": 1.954531942626914,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 43514,
+			"name": 91.54,
+			"val": 1.9616109080912807,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": 43480,
+			"name": 448.21,
+			"val": 2.6514815418384243,
+			"group": "Companhia Energética de Pernambuco"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 1058.605050468748,
+			"desc": 18654.21,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43507,
+			"name": 623.17,
+			"val": 2.794606537815884,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43573,
+			"name": 463.85,
+			"val": 2.6663775609334914,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43511,
+			"name": 476.39,
+			"val": 2.6779626365420572,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43570,
+			"name": 581.85,
+			"val": 2.7648110386557376,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43504,
+			"name": 288.49,
+			"val": 2.4601307636959495,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43569,
+			"name": 581.85,
+			"val": 2.7648110386557376,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43576,
+			"name": 448.39,
+			"val": 2.6516559183893786,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43501,
+			"name": 848.17,
+			"val": 2.928482907283239,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43502,
+			"name": 846.39,
+			"val": 2.9275705235823266,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43568,
+			"name": 581.85,
+			"val": 2.7648110386557376,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43572,
+			"name": 463.85,
+			"val": 2.6663775609334914,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43537,
+			"name": 314,
+			"val": 2.496929648073215,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43500,
+			"name": 966.17,
+			"val": 2.985053548326727,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43567,
+			"name": 1440.85,
+			"val": 3.158618770846542,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43538,
+			"name": 183,
+			"val": 2.2624510897304293,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43566,
+			"name": 822.85,
+			"val": 2.915320673475215,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43510,
+			"name": 476.39,
+			"val": 2.6779626365420572,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43508,
+			"name": 478.17,
+			"val": 2.6795823253490623,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43499,
+			"name": 848.17,
+			"val": 2.928482907283239,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43505,
+			"name": 1072.39,
+			"val": 3.030352755548563,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43509,
+			"name": 621.39,
+			"val": 2.7933642598945525,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43503,
+			"name": 846.39,
+			"val": 2.9275705235823266,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43574,
+			"name": 959.39,
+			"val": 2.9819951873762274,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43577,
+			"name": 718.39,
+			"val": 2.8563602783153645,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43571,
+			"name": 463.85,
+			"val": 2.6663775609334914,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43575,
+			"name": 959.39,
+			"val": 2.9819951873762274,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43565,
+			"name": 205,
+			"val": 2.311753861055754,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 43506,
+			"name": 1074.17,
+			"val": 3.0310730189979678,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "RC LINS E MELLO E CIA",
+			"name": "RC LINS E MELLO E CIA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "RC LINS E MELLO E CIA"
+		},
+		{
+			"id": 43486,
+			"name": 100,
+			"val": 2,
+			"group": "RC LINS E MELLO E CIA"
+		},
+		{
+			"id": "TELEMAR NORTE LESTE S/A",
+			"name": "TELEMAR NORTE LESTE S/A",
+			"val": 21.81139428849144,
+			"desc": 592.0799999999999,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 43559,
+			"name": 126.45,
+			"val": 2.1019188336804238,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 43495,
+			"name": 118.08,
+			"val": 2.0721763444789665,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 43531,
+			"name": 216.13,
+			"val": 2.334715053464358,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": 43530,
+			"name": 131.42,
+			"val": 2.1186614628544964,
+			"group": "TELEMAR NORTE LESTE S/A"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 23.81634655422972,
+			"desc": 638.89,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43525,
+			"name": 130.02,
+			"val": 2.1140101617034617,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43555,
+			"name": 130.02,
+			"val": 2.1140101617034617,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43554,
+			"name": 97.99,
+			"val": 1.9911817576678732,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43524,
+			"name": 0.12,
+			"val": -0.9208187539523752,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43526,
+			"name": 38.33,
+			"val": 1.583538819254352,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43527,
+			"name": 1.53,
+			"val": 0.1846914308175988,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43488,
+			"name": 69.96,
+			"val": 1.844849800806639,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43490,
+			"name": 0.08,
+			"val": -1.0969100130080565,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43553,
+			"name": 40.71,
+			"val": 1.6097011023793995,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43491,
+			"name": 0.11,
+			"val": -0.958607314841775,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 43489,
+			"name": 130.02,
+			"val": 2.1140101617034617,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "Telefônica Brasil S. A. VIVO",
+			"name": "Telefônica Brasil S. A. VIVO",
+			"val": 40.66946940082877,
+			"desc": 1017.65,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 43494,
+			"name": 1017.65,
+			"val": 3.0075984369350715,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": "POSTO RECH LTDA",
+			"name": "POSTO RECH LTDA",
+			"val": 27.33653691742946,
+			"desc": 720,
+			"group": "POSTO RECH LTDA"
+		},
+		{
+			"id": 43523,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO RECH LTDA"
+		},
+		{
+			"id": 43550,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO RECH LTDA"
+		},
+		{
+			"id": 43552,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO RECH LTDA"
+		},
+		{
+			"id": 43485,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO RECH LTDA"
+		},
+		{
+			"id": 43551,
+			"name": 170,
+			"val": 2.230448921378274,
+			"group": "POSTO RECH LTDA"
+		},
+		{
+			"id": "RG DE BARROS VASCONCELOS BEZER",
+			"name": "RG DE BARROS VASCONCELOS BEZER",
+			"val": 6.116175350951067,
+			"desc": 200.03,
+			"group": "RG DE BARROS VASCONCELOS BEZER"
+		},
+		{
+			"id": 43487,
+			"name": 200.03,
+			"val": 2.301095134950942,
+			"group": "RG DE BARROS VASCONCELOS BEZER"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 28.16241353055512,
+			"desc": 738.85,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 43563,
+			"name": 738.85,
+			"val": 2.868556277657932,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"name": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"val": 37.197285907025474,
+			"desc": 941.36,
+			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
+		},
+		{
+			"id": 43544,
+			"name": 83.53,
+			"val": 1.921842481405858,
+			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
+		},
+		{
+			"id": 43517,
+			"name": 154.01,
+			"val": 2.1875489208612713,
+			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
+		},
+		{
+			"id": 43516,
+			"name": 159.18,
+			"val": 2.201888500365973,
+			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
+		},
+		{
+			"id": 43543,
+			"name": 148.26,
+			"val": 2.171023995785723,
+			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
+		},
+		{
+			"id": 43515,
+			"name": 195,
+			"val": 2.290034611362518,
+			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
+		},
+		{
+			"id": 43545,
+			"name": 201.38,
+			"val": 2.304016336520766,
+			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
+		},
+		{
+			"id": "A DA S PEREIRA EIRELI PP",
+			"name": "A DA S PEREIRA EIRELI PP",
+			"val": 2179.5421371990333,
+			"desc": 36000,
+			"group": "A DA S PEREIRA EIRELI PP"
+		},
+		{
+			"id": 43496,
+			"name": 8000,
+			"val": 3.9030899869919438,
+			"group": "A DA S PEREIRA EIRELI PP"
+		},
+		{
+			"id": 43536,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "A DA S PEREIRA EIRELI PP"
+		},
+		{
+			"id": 43562,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "A DA S PEREIRA EIRELI PP"
+		},
+		{
+			"id": 43561,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "A DA S PEREIRA EIRELI PP"
+		},
+		{
+			"id": 43535,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "A DA S PEREIRA EIRELI PP"
+		},
+		{
+			"id": "POSTO ILHEUS LTDA",
+			"name": "POSTO ILHEUS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTO ILHEUS LTDA"
+		},
+		{
+			"id": 43484,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO ILHEUS LTDA"
+		},
+		{
+			"id": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
+			"name": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
+			"val": 1589.83255297716,
+			"desc": 27000,
+			"group": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA"
+		},
+		{
+			"id": 43512,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA"
+		},
+		{
+			"id": 43539,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA"
+		},
+		{
+			"id": 43478,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 35.01009040396302,
+			"desc": 892.9000000000001,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43548,
+			"name": 233.19,
+			"val": 2.3677099224251497,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43520,
+			"name": 230.01,
+			"val": 2.361746717975897,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43521,
+			"name": 205,
+			"val": 2.311753861055754,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43547,
+			"name": 224.7,
+			"val": 2.351603072419129,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "T&D SERVIÇOS E LOCAÇÕES LTDA",
+			"name": "T&D SERVIÇOS E LOCAÇÕES LTDA",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "T&D SERVIÇOS E LOCAÇÕES LTDA"
+		},
+		{
+			"id": 43497,
+			"name": 4000,
+			"val": 3.6020599913279625,
+			"group": "T&D SERVIÇOS E LOCAÇÕES LTDA"
+		},
+		{
+			"id": "DELTTA COMBUSTIVEIS LTDA",
+			"name": "DELTTA COMBUSTIVEIS LTDA",
+			"val": 6.59033969397348,
+			"desc": 213.01,
+			"group": "DELTTA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 43482,
+			"name": 213.01,
+			"val": 2.328399992372424,
+			"group": "DELTTA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX 12",
+			"name": "CORREIOS - SEDEX 12",
+			"val": 1.6047084831777296,
+			"desc": 66.3,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 43533,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": "GRAPEL GRAVATA PETROLEO LTDA",
+			"name": "GRAPEL GRAVATA PETROLEO LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "GRAPEL GRAVATA PETROLEO LTDA"
+		},
+		{
+			"id": 43483,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "GRAPEL GRAVATA PETROLEO LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.9169168878308447,
+			"desc": 76.57,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43492,
+			"name": 19.99,
+			"val": 1.300812794118117,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43556,
+			"name": 30.04,
+			"val": 1.4776999283321308,
+			"group": "RAMAL"
+		},
+		{
+			"id": 43528,
+			"name": 26.54,
+			"val": 1.4239009185284166,
+			"group": "RAMAL"
+		},
+		{
+			"id": "BIONE REVENDEDORA DE PETROLEO",
+			"name": "BIONE REVENDEDORA DE PETROLEO",
+			"val": 601.1286020944946,
+			"desc": 11175.060000000001,
+			"group": "BIONE REVENDEDORA DE PETROLEO"
+		},
+		{
+			"id": 43481,
+			"name": 5035.03,
+			"val": 3.702002062535246,
+			"group": "BIONE REVENDEDORA DE PETROLEO"
+		},
+		{
+			"id": 43519,
+			"name": 3322.01,
+			"val": 3.52140093544177,
+			"group": "BIONE REVENDEDORA DE PETROLEO"
+		},
+		{
+			"id": 43546,
+			"name": 2818.02,
+			"val": 3.449944071051129,
+			"group": "BIONE REVENDEDORA DE PETROLEO"
+		},
+		{
+			"id": "EMIDIO SOUTO PEREIRA - EPP",
+			"name": "EMIDIO SOUTO PEREIRA - EPP",
+			"val": 9.766337115358185,
+			"desc": 297.2,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": 43542,
+			"name": 297.2,
+			"val": 2.4730488050885375,
+			"group": "EMIDIO SOUTO PEREIRA - EPP"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 74.12996593595956,
+			"desc": 1723.74,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43564,
+			"name": 972.35,
+			"val": 2.9878226185357666,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 43498,
+			"name": 751.39,
+			"val": 2.875865410884781,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "telefonia Brasil S/A",
+			"name": "telefonia Brasil S/A",
+			"val": 6.705005770501404,
+			"desc": 216.13,
+			"group": "telefonia Brasil S/A"
+		},
+		{
+			"id": 43493,
+			"name": 216.13,
+			"val": 2.334715053464358,
+			"group": "telefonia Brasil S/A"
+		},
+		{
+			"id": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA",
+			"name": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA",
+			"val": 4.697605245786992,
+			"desc": 160.33,
+			"group": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 43522,
+			"name": 160.33,
+			"val": 2.205014792569004,
+			"group": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 0.7694028633880517,
+			"desc": 36.94,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 43560,
+			"name": 36.94,
+			"val": 1.5674968911042226,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "AUTO POSTO MADAGASCAR LTDA",
+			"name": "AUTO POSTO MADAGASCAR LTDA",
+			"val": 6.482530245514228,
+			"desc": 210.07,
+			"group": "AUTO POSTO MADAGASCAR LTDA"
+		},
+		{
+			"id": 43518,
+			"name": 210.07,
+			"val": 2.3223640354391093,
+			"group": "AUTO POSTO MADAGASCAR LTDA"
+		},
+		{
+			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"val": 1.6089057694975502,
+			"desc": 66.44,
+			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+		},
+		{
+			"id": 43534,
+			"name": 66.44,
+			"val": 1.822429623779357,
+			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 0.3475998490906201,
+			"desc": 20.08,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 43532,
+			"name": 20.08,
+			"val": 1.3027637084729817,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Telefonica Brasil S.A",
+			"value": 2222.54
+		},
+		{
+			"source": "Telefonica Brasil S.A",
+			"target": 43558,
+			"value": 220.75
+		},
+		{
+			"source": "Telefonica Brasil S.A",
+			"target": 43557,
+			"value": 986.2
+		},
+		{
+			"source": "Telefonica Brasil S.A",
+			"target": 43529,
+			"value": 1015.59
+		},
+		{
+			"source": -100,
+			"target": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
+			"target": 43549,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "Companhia Energética de Pernambuco",
+			"value": 1603.16
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 43541,
+			"value": 93.38
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 43513,
+			"value": 425.55
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 43540,
+			"value": 454.42
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 43479,
+			"value": 90.06
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 43514,
+			"value": 91.54
+		},
+		{
+			"source": "Companhia Energética de Pernambuco",
+			"target": 43480,
+			"value": 448.21
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 18654.21
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43507,
+			"value": 623.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43573,
+			"value": 463.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43511,
+			"value": 476.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43570,
+			"value": 581.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43504,
+			"value": 288.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43569,
+			"value": 581.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43576,
+			"value": 448.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43501,
+			"value": 848.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43502,
+			"value": 846.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43568,
+			"value": 581.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43572,
+			"value": 463.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43537,
+			"value": 314
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43500,
+			"value": 966.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43567,
+			"value": 1440.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43538,
+			"value": 183
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43566,
+			"value": 822.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43510,
+			"value": 476.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43508,
+			"value": 478.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43499,
+			"value": 848.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43505,
+			"value": 1072.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43509,
+			"value": 621.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43503,
+			"value": 846.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43574,
+			"value": 959.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43577,
+			"value": 718.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43571,
+			"value": 463.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43575,
+			"value": 959.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43565,
+			"value": 205
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 43506,
+			"value": 1074.17
+		},
+		{
+			"source": -100,
+			"target": "RC LINS E MELLO E CIA",
+			"value": 100
+		},
+		{
+			"source": "RC LINS E MELLO E CIA",
+			"target": 43486,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "TELEMAR NORTE LESTE S/A",
+			"value": 592.0799999999999
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 43559,
+			"value": 126.45
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 43495,
+			"value": 118.08
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 43531,
+			"value": 216.13
+		},
+		{
+			"source": "TELEMAR NORTE LESTE S/A",
+			"target": 43530,
+			"value": 131.42
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 638.89
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43525,
+			"value": 130.02
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43555,
+			"value": 130.02
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43554,
+			"value": 97.99
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43524,
+			"value": 0.12
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43526,
+			"value": 38.33
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43527,
+			"value": 1.53
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43488,
+			"value": 69.96
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43490,
+			"value": 0.08
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43553,
+			"value": 40.71
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43491,
+			"value": 0.11
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 43489,
+			"value": 130.02
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S. A. VIVO",
+			"value": 1017.65
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 43494,
+			"value": 1017.65
+		},
+		{
+			"source": -100,
+			"target": "POSTO RECH LTDA",
+			"value": 720
+		},
+		{
+			"source": "POSTO RECH LTDA",
+			"target": 43523,
+			"value": 100
+		},
+		{
+			"source": "POSTO RECH LTDA",
+			"target": 43550,
+			"value": 100
+		},
+		{
+			"source": "POSTO RECH LTDA",
+			"target": 43552,
+			"value": 150
+		},
+		{
+			"source": "POSTO RECH LTDA",
+			"target": 43485,
+			"value": 200
+		},
+		{
+			"source": "POSTO RECH LTDA",
+			"target": 43551,
+			"value": 170
+		},
+		{
+			"source": -100,
+			"target": "RG DE BARROS VASCONCELOS BEZER",
+			"value": 200.03
+		},
+		{
+			"source": "RG DE BARROS VASCONCELOS BEZER",
+			"target": 43487,
+			"value": 200.03
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 738.85
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 43563,
+			"value": 738.85
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"value": 941.36
+		},
+		{
+			"source": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"target": 43544,
+			"value": 83.53
+		},
+		{
+			"source": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"target": 43517,
+			"value": 154.01
+		},
+		{
+			"source": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"target": 43516,
+			"value": 159.18
+		},
+		{
+			"source": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"target": 43543,
+			"value": 148.26
+		},
+		{
+			"source": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"target": 43515,
+			"value": 195
+		},
+		{
+			"source": "AUTO POSTO BOA VIAGEM EIRELLI",
+			"target": 43545,
+			"value": 201.38
+		},
+		{
+			"source": -100,
+			"target": "A DA S PEREIRA EIRELI PP",
+			"value": 36000
+		},
+		{
+			"source": "A DA S PEREIRA EIRELI PP",
+			"target": 43496,
+			"value": 8000
+		},
+		{
+			"source": "A DA S PEREIRA EIRELI PP",
+			"target": 43536,
+			"value": 9000
+		},
+		{
+			"source": "A DA S PEREIRA EIRELI PP",
+			"target": 43562,
+			"value": 5000
+		},
+		{
+			"source": "A DA S PEREIRA EIRELI PP",
+			"target": 43561,
+			"value": 9000
+		},
+		{
+			"source": "A DA S PEREIRA EIRELI PP",
+			"target": 43535,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "POSTO ILHEUS LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTO ILHEUS LTDA",
+			"target": 43484,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
+			"value": 27000
+		},
+		{
+			"source": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
+			"target": 43512,
+			"value": 9000
+		},
+		{
+			"source": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
+			"target": 43539,
+			"value": 9000
+		},
+		{
+			"source": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
+			"target": 43478,
+			"value": 9000
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 892.9000000000001
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 43548,
+			"value": 233.19
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 43520,
+			"value": 230.01
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 43521,
+			"value": 205
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 43547,
+			"value": 224.7
+		},
+		{
+			"source": -100,
+			"target": "T&D SERVIÇOS E LOCAÇÕES LTDA",
+			"value": 4000
+		},
+		{
+			"source": "T&D SERVIÇOS E LOCAÇÕES LTDA",
+			"target": 43497,
+			"value": 4000
+		},
+		{
+			"source": -100,
+			"target": "DELTTA COMBUSTIVEIS LTDA",
+			"value": 213.01
+		},
+		{
+			"source": "DELTTA COMBUSTIVEIS LTDA",
+			"target": 43482,
+			"value": 213.01
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 12",
+			"value": 66.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 43533,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "GRAPEL GRAVATA PETROLEO LTDA",
+			"value": 200
+		},
+		{
+			"source": "GRAPEL GRAVATA PETROLEO LTDA",
+			"target": 43483,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 76.57
+		},
+		{
+			"source": "RAMAL",
+			"target": 43492,
+			"value": 19.99
+		},
+		{
+			"source": "RAMAL",
+			"target": 43556,
+			"value": 30.04
+		},
+		{
+			"source": "RAMAL",
+			"target": 43528,
+			"value": 26.54
+		},
+		{
+			"source": -100,
+			"target": "BIONE REVENDEDORA DE PETROLEO",
+			"value": 11175.060000000001
+		},
+		{
+			"source": "BIONE REVENDEDORA DE PETROLEO",
+			"target": 43481,
+			"value": 5035.03
+		},
+		{
+			"source": "BIONE REVENDEDORA DE PETROLEO",
+			"target": 43519,
+			"value": 3322.01
+		},
+		{
+			"source": "BIONE REVENDEDORA DE PETROLEO",
+			"target": 43546,
+			"value": 2818.02
+		},
+		{
+			"source": -100,
+			"target": "EMIDIO SOUTO PEREIRA - EPP",
+			"value": 297.2
+		},
+		{
+			"source": "EMIDIO SOUTO PEREIRA - EPP",
+			"target": 43542,
+			"value": 297.2
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 1723.74
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43564,
+			"value": 972.35
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 43498,
+			"value": 751.39
+		},
+		{
+			"source": -100,
+			"target": "telefonia Brasil S/A",
+			"value": 216.13
+		},
+		{
+			"source": "telefonia Brasil S/A",
+			"target": 43493,
+			"value": 216.13
+		},
+		{
+			"source": -100,
+			"target": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA",
+			"value": 160.33
+		},
+		{
+			"source": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA",
+			"target": 43522,
+			"value": 160.33
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 36.94
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 43560,
+			"value": 36.94
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO MADAGASCAR LTDA",
+			"value": 210.07
+		},
+		{
+			"source": "AUTO POSTO MADAGASCAR LTDA",
+			"target": 43518,
+			"value": 210.07
+		},
+		{
+			"source": -100,
+			"target": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"value": 66.44
+		},
+		{
+			"source": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+			"target": 43534,
+			"value": 66.44
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 20.08
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 43532,
+			"value": 20.08
+		}
+	]
+}

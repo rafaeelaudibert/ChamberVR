@@ -1,0 +1,1341 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ALTINEU CÔRTES"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 11.525877780006006,
+			"desc": 342.26,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3872,
+			"name": 37.52,
+			"val": 1.574262829707027,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3918,
+			"name": 40.25,
+			"val": 1.6047658847038873,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3943,
+			"name": 45.33,
+			"val": 1.6563857190586877,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3958,
+			"name": 36.95,
+			"val": 1.5676144427308445,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3897,
+			"name": 59.01,
+			"val": 1.7709256146389991,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3909,
+			"name": 29.02,
+			"val": 1.462697408101717,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3886,
+			"name": 45.41,
+			"val": 1.6571515019009666,
+			"group": "RAMAL"
+		},
+		{
+			"id": 3931,
+			"name": 48.77,
+			"val": 1.6881527555915663,
+			"group": "RAMAL"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 149.85294168617284,
+			"desc": 3215.5,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 3891,
+			"name": 1607.75,
+			"val": 3.2062185182548055,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 3892,
+			"name": 1607.75,
+			"val": 3.2062185182548055,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 6388.444085487058,
+			"desc": 96457.82,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3904,
+			"name": 1614.97,
+			"val": 3.2081644592024348,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3879,
+			"name": 1552.88,
+			"val": 3.191137896584062,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3940,
+			"name": 2933.24,
+			"val": 3.4673475987498747,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3883,
+			"name": 2217.44,
+			"val": 3.345851877423066,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3907,
+			"name": 2107.39,
+			"val": 3.323744914903052,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3903,
+			"name": 1634.55,
+			"val": 3.2133982099527727,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3941,
+			"name": 2074.44,
+			"val": 3.3169008780438785,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3908,
+			"name": 3126.16,
+			"val": 3.495011201878582,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3877,
+			"name": 2471.49,
+			"val": 3.3929588575831175,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3952,
+			"name": 2112.94,
+			"val": 3.3248871648048532,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3871,
+			"name": 2117.94,
+			"val": 3.325913652637373,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3930,
+			"name": 2070.98,
+			"val": 3.3161759048173645,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3906,
+			"name": 2118.44,
+			"val": 3.326016168106693,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3924,
+			"name": 1965.54,
+			"val": 3.2934818864173705,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3951,
+			"name": 2218.38,
+			"val": 3.3460359411673566,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3870,
+			"name": 1498.49,
+			"val": 3.1756538490772526,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3880,
+			"name": 2110.27,
+			"val": 3.324338024969905,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3925,
+			"name": 2112.94,
+			"val": 3.3248871648048532,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3955,
+			"name": 2112.94,
+			"val": 3.3248871648048532,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3926,
+			"name": 3876.62,
+			"val": 3.5884532320127907,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3885,
+			"name": 1755.28,
+			"val": 3.2443464044232013,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3928,
+			"name": 2180.98,
+			"val": 3.338651683034242,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3915,
+			"name": 2118.44,
+			"val": 3.326016168106693,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3957,
+			"name": 1684.96,
+			"val": 3.226589595423694,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3953,
+			"name": 1891.84,
+			"val": 3.276884403706675,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3954,
+			"name": 2109.48,
+			"val": 3.324175412187294,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3881,
+			"name": 1422.22,
+			"val": 3.1529667816228852,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3916,
+			"name": 3338.68,
+			"val": 3.5235747955461116,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3950,
+			"name": 2041.69,
+			"val": 3.309989801654053,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3878,
+			"name": 1455.77,
+			"val": 3.1630927653471055,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3895,
+			"name": 1634.77,
+			"val": 3.213456659285455,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3884,
+			"name": 2217.44,
+			"val": 3.345851877423066,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3882,
+			"name": 1442.22,
+			"val": 3.1590315138496536,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3927,
+			"name": 3546.62,
+			"val": 3.549814658800694,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3869,
+			"name": 2173.89,
+			"val": 3.337237564772519,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3949,
+			"name": 2112.94,
+			"val": 3.3248871648048532,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3929,
+			"name": 3052.36,
+			"val": 3.484635753658098,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3914,
+			"name": 3131.44,
+			"val": 3.4957440948115397,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3905,
+			"name": 1556.45,
+			"val": 3.19213517379921,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3896,
+			"name": 1366.21,
+			"val": 3.135517459837115,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3902,
+			"name": 3994.94,
+			"val": 3.6015102610305876,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3942,
+			"name": 2070.98,
+			"val": 3.3161759048173645,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3917,
+			"name": 2114.98,
+			"val": 3.3253062648880323,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 3956,
+			"name": 1995.2,
+			"val": 3.2999864361344673,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "Telefonica Brasil S/A",
+			"name": "Telefonica Brasil S/A",
+			"val": 60.017426497343855,
+			"desc": 1431.29,
+			"group": "Telefonica Brasil S/A"
+		},
+		{
+			"id": 3959,
+			"name": 1431.29,
+			"val": 3.1557276370020633,
+			"group": "Telefonica Brasil S/A"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 59.618292375810164,
+			"desc": 1422.92,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 3898,
+			"name": 1422.92,
+			"val": 3.1531804836856776,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 138.07269469732634,
+			"desc": 2989.6800000000003,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 3910,
+			"name": 1560.74,
+			"val": 3.193330560993215,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 3873,
+			"name": 1428.94,
+			"val": 3.1550139935103707,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 1.3301899516935551,
+			"desc": 57.01,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 3960,
+			"name": 57.01,
+			"val": 1.755951041004132,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"val": 1917.670223587943,
+			"desc": 32031.23,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3893,
+			"name": 2139.48,
+			"val": 3.3303082310254966,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3936,
+			"name": 2084.34,
+			"val": 3.3189685630343706,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3876,
+			"name": 3162.14,
+			"val": 3.4999810938952085,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3939,
+			"name": 3362.22,
+			"val": 3.5266261272057906,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3923,
+			"name": 2239.45,
+			"val": 3.3501413704348684,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3948,
+			"name": 823.57,
+			"val": 2.915700518286264,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3868,
+			"name": 3961.47,
+			"val": 3.5978563713862224,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3938,
+			"name": 2012.84,
+			"val": 3.303809254332874,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3866,
+			"name": 2221.26,
+			"val": 3.346599395989517,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3937,
+			"name": 2009.38,
+			"val": 3.303062075273533,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3867,
+			"name": 4459.24,
+			"val": 3.6492608470683146,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": 3913,
+			"name": 3555.84,
+			"val": 3.550942211049465,
+			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
+		},
+		{
+			"id": "VIVO - Telefônica Brasil S.A.",
+			"name": "VIVO - Telefônica Brasil S.A.",
+			"val": 59.94921507177276,
+			"desc": 1429.86,
+			"group": "VIVO - Telefônica Brasil S.A."
+		},
+		{
+			"id": 3919,
+			"name": 1429.86,
+			"val": 3.1552935170427228,
+			"group": "VIVO - Telefônica Brasil S.A."
+		},
+		{
+			"id": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"name": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"val": 3095.99644951174,
+			"desc": 49619.700000000004,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3911,
+			"name": 6350.14,
+			"val": 3.8027833001828775,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3900,
+			"name": 5865.97,
+			"val": 3.7683398375624035,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3920,
+			"name": 5939.57,
+			"val": 3.7737550050170703,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3946,
+			"name": 3901.56,
+			"val": 3.591238290084964,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3933,
+			"name": 5935.82,
+			"val": 3.7734807227642313,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3962,
+			"name": 3918.69,
+			"val": 3.5931409086389956,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3874,
+			"name": 5954.29,
+			"val": 3.7748299828690963,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3889,
+			"name": 5865.97,
+			"val": 3.7683398375624035,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": 3864,
+			"name": 5887.69,
+			"val": 3.769944935359054,
+			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
+		},
+		{
+			"id": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
+			"name": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
+			"val": 3040.1606565363013,
+			"desc": 48800,
+			"group": "STANDARD PUBLICIDADE E COMUNICACOES LTDA"
+		},
+		{
+			"id": 3963,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "STANDARD PUBLICIDADE E COMUNICACOES LTDA"
+		},
+		{
+			"id": 3922,
+			"name": 9800,
+			"val": 3.9912260756924947,
+			"group": "STANDARD PUBLICIDADE E COMUNICACOES LTDA"
+		},
+		{
+			"id": 3947,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "STANDARD PUBLICIDADE E COMUNICACOES LTDA"
+		},
+		{
+			"id": 3935,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "STANDARD PUBLICIDADE E COMUNICACOES LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. VIVO",
+			"val": 131.22254686085404,
+			"desc": 2857.5,
+			"group": "TELEFÔNICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 3932,
+			"name": 1425.63,
+			"val": 3.1540068257902822,
+			"group": "TELEFÔNICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": 3944,
+			"name": 1431.87,
+			"val": 3.1559035900070995,
+			"group": "TELEFÔNICA BRASIL S.A. VIVO"
+		},
+		{
+			"id": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"name": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"val": 1396.8716913967914,
+			"desc": 24000,
+			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
+		},
+		{
+			"id": 3921,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
+		},
+		{
+			"id": 3875,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
+		},
+		{
+			"id": 3890,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
+		},
+		{
+			"id": 3912,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
+		},
+		{
+			"id": 3901,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
+		},
+		{
+			"id": 3865,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
+		},
+		{
+			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"val": 91.28238842985772,
+			"desc": 2071.5,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": 3899,
+			"name": 1358,
+			"val": 3.132899769944483,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": 3961,
+			"name": 713.5,
+			"val": 2.853393977450666,
+			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
+		},
+		{
+			"id": "GREGORI HENRIQUE SOBRAL MACIEL",
+			"name": "GREGORI HENRIQUE SOBRAL MACIEL",
+			"val": 52.84827184582329,
+			"desc": 1280,
+			"group": "GREGORI HENRIQUE SOBRAL MACIEL"
+		},
+		{
+			"id": 3934,
+			"name": 1280,
+			"val": 3.1072099696478683,
+			"group": "GREGORI HENRIQUE SOBRAL MACIEL"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 64.11818665133192,
+			"desc": 1516.95,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 3887,
+			"name": 1516.95,
+			"val": 3.1809712662963157,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 8.185201624838362,
+			"desc": 255.82,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 3888,
+			"name": 132.86,
+			"val": 2.1233942481055306,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 3945,
+			"name": 122.96,
+			"val": 2.0897638544916886,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "GOL LINHAS AEREAS S.A.",
+			"name": "GOL LINHAS AEREAS S.A.",
+			"val": 73.2491305555092,
+			"desc": 1705.67,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 3894,
+			"name": 1705.67,
+			"val": 3.2318950109803377,
+			"group": "GOL LINHAS AEREAS S.A."
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 342.26
+		},
+		{
+			"source": "RAMAL",
+			"target": 3872,
+			"value": 37.52
+		},
+		{
+			"source": "RAMAL",
+			"target": 3918,
+			"value": 40.25
+		},
+		{
+			"source": "RAMAL",
+			"target": 3943,
+			"value": 45.33
+		},
+		{
+			"source": "RAMAL",
+			"target": 3958,
+			"value": 36.95
+		},
+		{
+			"source": "RAMAL",
+			"target": 3897,
+			"value": 59.01
+		},
+		{
+			"source": "RAMAL",
+			"target": 3909,
+			"value": 29.02
+		},
+		{
+			"source": "RAMAL",
+			"target": 3886,
+			"value": 45.41
+		},
+		{
+			"source": "RAMAL",
+			"target": 3931,
+			"value": 48.77
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 3215.5
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 3891,
+			"value": 1607.75
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 3892,
+			"value": 1607.75
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 96457.82
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3904,
+			"value": 1614.97
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3879,
+			"value": 1552.88
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3940,
+			"value": 2933.24
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3883,
+			"value": 2217.44
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3907,
+			"value": 2107.39
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3903,
+			"value": 1634.55
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3941,
+			"value": 2074.44
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3908,
+			"value": 3126.16
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3877,
+			"value": 2471.49
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3952,
+			"value": 2112.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3871,
+			"value": 2117.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3930,
+			"value": 2070.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3906,
+			"value": 2118.44
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3924,
+			"value": 1965.54
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3951,
+			"value": 2218.38
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3870,
+			"value": 1498.49
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3880,
+			"value": 2110.27
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3925,
+			"value": 2112.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3955,
+			"value": 2112.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3926,
+			"value": 3876.62
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3885,
+			"value": 1755.28
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3928,
+			"value": 2180.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3915,
+			"value": 2118.44
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3957,
+			"value": 1684.96
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3953,
+			"value": 1891.84
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3954,
+			"value": 2109.48
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3881,
+			"value": 1422.22
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3916,
+			"value": 3338.68
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3950,
+			"value": 2041.69
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3878,
+			"value": 1455.77
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3895,
+			"value": 1634.77
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3884,
+			"value": 2217.44
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3882,
+			"value": 1442.22
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3927,
+			"value": 3546.62
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3869,
+			"value": 2173.89
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3949,
+			"value": 2112.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3929,
+			"value": 3052.36
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3914,
+			"value": 3131.44
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3905,
+			"value": 1556.45
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3896,
+			"value": 1366.21
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3902,
+			"value": 3994.94
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3942,
+			"value": 2070.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3917,
+			"value": 2114.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 3956,
+			"value": 1995.2
+		},
+		{
+			"source": -100,
+			"target": "Telefonica Brasil S/A",
+			"value": 1431.29
+		},
+		{
+			"source": "Telefonica Brasil S/A",
+			"target": 3959,
+			"value": 1431.29
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 1422.92
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 3898,
+			"value": 1422.92
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 2989.6800000000003
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 3910,
+			"value": 1560.74
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 3873,
+			"value": 1428.94
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 57.01
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 3960,
+			"value": 57.01
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"value": 32031.23
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3893,
+			"value": 2139.48
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3936,
+			"value": 2084.34
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3876,
+			"value": 3162.14
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3939,
+			"value": 3362.22
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3923,
+			"value": 2239.45
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3948,
+			"value": 823.57
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3868,
+			"value": 3961.47
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3938,
+			"value": 2012.84
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3866,
+			"value": 2221.26
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3937,
+			"value": 2009.38
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3867,
+			"value": 4459.24
+		},
+		{
+			"source": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+			"target": 3913,
+			"value": 3555.84
+		},
+		{
+			"source": -100,
+			"target": "VIVO - Telefônica Brasil S.A.",
+			"value": 1429.86
+		},
+		{
+			"source": "VIVO - Telefônica Brasil S.A.",
+			"target": 3919,
+			"value": 1429.86
+		},
+		{
+			"source": -100,
+			"target": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"value": 49619.700000000004
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3911,
+			"value": 6350.14
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3900,
+			"value": 5865.97
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3920,
+			"value": 5939.57
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3946,
+			"value": 3901.56
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3933,
+			"value": 5935.82
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3962,
+			"value": 3918.69
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3874,
+			"value": 5954.29
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3889,
+			"value": 5865.97
+		},
+		{
+			"source": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
+			"target": 3864,
+			"value": 5887.69
+		},
+		{
+			"source": -100,
+			"target": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
+			"value": 48800
+		},
+		{
+			"source": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
+			"target": 3963,
+			"value": 13000
+		},
+		{
+			"source": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
+			"target": 3922,
+			"value": 9800
+		},
+		{
+			"source": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
+			"target": 3947,
+			"value": 13000
+		},
+		{
+			"source": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
+			"target": 3935,
+			"value": 13000
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. VIVO",
+			"value": 2857.5
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. VIVO",
+			"target": 3932,
+			"value": 1425.63
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. VIVO",
+			"target": 3944,
+			"value": 1431.87
+		},
+		{
+			"source": -100,
+			"target": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"value": 24000
+		},
+		{
+			"source": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"target": 3921,
+			"value": 3000
+		},
+		{
+			"source": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"target": 3875,
+			"value": 3000
+		},
+		{
+			"source": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"target": 3890,
+			"value": 3000
+		},
+		{
+			"source": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"target": 3912,
+			"value": 3000
+		},
+		{
+			"source": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"target": 3901,
+			"value": 3000
+		},
+		{
+			"source": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+			"target": 3865,
+			"value": 9000
+		},
+		{
+			"source": -100,
+			"target": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"value": 2071.5
+		},
+		{
+			"source": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"target": 3899,
+			"value": 1358
+		},
+		{
+			"source": "LUCIENE ALBUQUERQUE DA PONTE ME",
+			"target": 3961,
+			"value": 713.5
+		},
+		{
+			"source": -100,
+			"target": "GREGORI HENRIQUE SOBRAL MACIEL",
+			"value": 1280
+		},
+		{
+			"source": "GREGORI HENRIQUE SOBRAL MACIEL",
+			"target": 3934,
+			"value": 1280
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 1516.95
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 3887,
+			"value": 1516.95
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 255.82
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 3888,
+			"value": 132.86
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 3945,
+			"value": 122.96
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS S.A.",
+			"value": 1705.67
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 3894,
+			"value": 1705.67
+		}
+	]
+}

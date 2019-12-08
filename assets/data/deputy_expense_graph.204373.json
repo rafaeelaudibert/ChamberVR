@@ -1,0 +1,1521 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "HÉLIO COSTA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 7.900712230420593,
+			"desc": 248.27,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23504,
+			"name": 138.49,
+			"val": 2.1414184152660876,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23463,
+			"name": 56.6,
+			"val": 1.7528164311882715,
+			"group": "RAMAL"
+		},
+		{
+			"id": 23537,
+			"name": 53.18,
+			"val": 1.7257483329955483,
+			"group": "RAMAL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 921.8937016708184,
+			"desc": 16455.049999999996,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23485,
+			"name": 433,
+			"val": 2.6364878963533656,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23486,
+			"name": 1293.39,
+			"val": 3.1117294988241735,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23482,
+			"name": 641.39,
+			"val": 2.8071221845000074,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23524,
+			"name": 513.98,
+			"val": 2.7109462200485273,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23488,
+			"name": 541.98,
+			"val": 2.7339832606160654,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23517,
+			"name": 394.39,
+			"val": 2.595925894606198,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23522,
+			"name": 1403.39,
+			"val": 3.1471783775937574,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23489,
+			"name": 394.39,
+			"val": 2.595925894606198,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23484,
+			"name": 971.39,
+			"val": 2.9873936283040203,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23523,
+			"name": 513.98,
+			"val": 2.7109462200485273,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23487,
+			"name": 715.98,
+			"val": 2.854900891007644,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23515,
+			"name": 529.39,
+			"val": 2.723775733365335,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23514,
+			"name": 763.98,
+			"val": 2.883081989461384,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23526,
+			"name": 474.39,
+			"val": 2.6761355256542823,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23516,
+			"name": 652.98,
+			"val": 2.814899879555846,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23483,
+			"name": 388.98,
+			"val": 2.5899272719865474,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23520,
+			"name": 763.98,
+			"val": 2.883081989461384,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23519,
+			"name": 604.39,
+			"val": 2.7813172700601925,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23525,
+			"name": 652.39,
+			"val": 2.81450729544288,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23481,
+			"name": 642.98,
+			"val": 2.8081974643321153,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23480,
+			"name": 1476.39,
+			"val": 3.1692010949362945,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23518,
+			"name": 605.98,
+			"val": 2.7824582907785422,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23513,
+			"name": 428.98,
+			"val": 2.6324370448837624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 23521,
+			"name": 652.98,
+			"val": 2.814899879555846,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CELESC DISTRIBUICAO S.A",
+			"name": "CELESC DISTRIBUICAO S.A",
+			"val": 35.75043295430104,
+			"desc": 909.3399999999999,
+			"group": "CELESC DISTRIBUICAO S.A"
+		},
+		{
+			"id": 23448,
+			"name": 62.24,
+			"val": 1.7940695839816325,
+			"group": "CELESC DISTRIBUICAO S.A"
+		},
+		{
+			"id": 23491,
+			"name": 451.41,
+			"val": 2.6545711756914874,
+			"group": "CELESC DISTRIBUICAO S.A"
+		},
+		{
+			"id": 23528,
+			"name": 395.69,
+			"val": 2.5973550747803147,
+			"group": "CELESC DISTRIBUICAO S.A"
+		},
+		{
+			"id": "CLARO S.A",
+			"name": "CLARO S.A",
+			"val": 33.96068364324986,
+			"desc": 869.53,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 23449,
+			"name": 174.22,
+			"val": 2.2410980094033337,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 23529,
+			"name": 235.62,
+			"val": 2.372212151654062,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 23530,
+			"name": 235.62,
+			"val": 2.372212151654062,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 23492,
+			"name": 224.07,
+			"val": 2.350383714158389,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 23453,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 23497,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "LUCAS VINICIUS REZENDE 05523337196",
+			"name": "LUCAS VINICIUS REZENDE 05523337196",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "LUCAS VINICIUS REZENDE 05523337196"
+		},
+		{
+			"id": 23458,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "LUCAS VINICIUS REZENDE 05523337196"
+		},
+		{
+			"id": "WELL FOODS RESTAURANTES LTDA",
+			"name": "WELL FOODS RESTAURANTES LTDA",
+			"val": 4.6877869504345915,
+			"desc": 160.05,
+			"group": "WELL FOODS RESTAURANTES LTDA"
+		},
+		{
+			"id": 23510,
+			"name": 42.35,
+			"val": 1.6268534146667257,
+			"group": "WELL FOODS RESTAURANTES LTDA"
+		},
+		{
+			"id": 23507,
+			"name": 42.35,
+			"val": 1.6268534146667257,
+			"group": "WELL FOODS RESTAURANTES LTDA"
+		},
+		{
+			"id": 23508,
+			"name": 42.35,
+			"val": 1.6268534146667257,
+			"group": "WELL FOODS RESTAURANTES LTDA"
+		},
+		{
+			"id": 23509,
+			"name": 16.5,
+			"val": 1.2174839442139063,
+			"group": "WELL FOODS RESTAURANTES LTDA"
+		},
+		{
+			"id": 23511,
+			"name": 16.5,
+			"val": 1.2174839442139063,
+			"group": "WELL FOODS RESTAURANTES LTDA"
+		},
+		{
+			"id": "ANDRADE E SOUZA IMOVEIS",
+			"name": "ANDRADE E SOUZA IMOVEIS",
+			"val": 235.89439238854416,
+			"desc": 4820.13,
+			"group": "ANDRADE E SOUZA IMOVEIS"
+		},
+		{
+			"id": 23490,
+			"name": 1712.63,
+			"val": 3.2336635472534057,
+			"group": "ANDRADE E SOUZA IMOVEIS"
+		},
+		{
+			"id": 23447,
+			"name": 1553.75,
+			"val": 3.191381141649701,
+			"group": "ANDRADE E SOUZA IMOVEIS"
+		},
+		{
+			"id": 23527,
+			"name": 1553.75,
+			"val": 3.191381141649701,
+			"group": "ANDRADE E SOUZA IMOVEIS"
+		},
+		{
+			"id": "UNICRED Florianópolis",
+			"name": "UNICRED Florianópolis",
+			"val": 16.85057767663683,
+			"desc": 473.94,
+			"group": "UNICRED Florianópolis"
+		},
+		{
+			"id": 23451,
+			"name": 473.94,
+			"val": 2.6757233642093743,
+			"group": "UNICRED Florianópolis"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 2.6808466655461967,
+			"desc": 100.72,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 23505,
+			"name": 68.28,
+			"val": 1.834293512442696,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 23506,
+			"name": 32.44,
+			"val": 1.5110808455391185,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 32.72243804711748,
+			"desc": 841.8499999999999,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 23456,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 23454,
+			"name": 200.03,
+			"val": 2.301095134950942,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 23457,
+			"name": 231.81,
+			"val": 2.365132166964691,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 23455,
+			"name": 210.01,
+			"val": 2.322239974931152,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "WRC RESTAURANTES LTDA",
+			"name": "WRC RESTAURANTES LTDA",
+			"val": 15.905838456352706,
+			"desc": 451,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23476,
+			"name": 42.35,
+			"val": 1.6268534146667257,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23475,
+			"name": 48.95,
+			"val": 1.6897526961391567,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23470,
+			"name": 91.85,
+			"val": 1.963079160641827,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23474,
+			"name": 49.5,
+			"val": 1.6946051989335686,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23473,
+			"name": 16.5,
+			"val": 1.2174839442139063,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23469,
+			"name": 42.35,
+			"val": 1.6268534146667257,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23472,
+			"name": 56.65,
+			"val": 1.753199914199416,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23471,
+			"name": 53.35,
+			"val": 1.7271344237604886,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": 23468,
+			"name": 49.5,
+			"val": 1.6946051989335686,
+			"group": "WRC RESTAURANTES LTDA"
+		},
+		{
+			"id": "DISK CAR LOCACAO DE VEICULOS SA",
+			"name": "DISK CAR LOCACAO DE VEICULOS SA",
+			"val": 159.54593882194087,
+			"desc": 3400,
+			"group": "DISK CAR LOCACAO DE VEICULOS SA"
+		},
+		{
+			"id": 23477,
+			"name": 1700,
+			"val": 3.230448921378274,
+			"group": "DISK CAR LOCACAO DE VEICULOS SA"
+		},
+		{
+			"id": 23512,
+			"name": 1700,
+			"val": 3.230448921378274,
+			"group": "DISK CAR LOCACAO DE VEICULOS SA"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 23495,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 23496,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "Cristiano de Souza Bernardo",
+			"name": "Cristiano de Souza Bernardo",
+			"val": 15.700805421457824,
+			"desc": 446,
+			"group": "Cristiano de Souza Bernardo"
+		},
+		{
+			"id": 23493,
+			"name": 322,
+			"val": 2.507855871695831,
+			"group": "Cristiano de Souza Bernardo"
+		},
+		{
+			"id": 23450,
+			"name": 124,
+			"val": 2.093421685162235,
+			"group": "Cristiano de Souza Bernardo"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 12.469374606398171,
+			"desc": 366.05999999999995,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 23544,
+			"name": 57.65,
+			"val": 1.7607993116307177,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 23545,
+			"name": 148.41,
+			"val": 2.1714631650838436,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 23543,
+			"name": 65.96,
+			"val": 1.8192806469724812,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 23465,
+			"name": 50.64,
+			"val": 1.7044936970092988,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 23464,
+			"name": 43.4,
+			"val": 1.6374897295125106,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 9.97794255826008,
+			"desc": 302.6700000000001,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23460,
+			"name": 46.45,
+			"val": 1.6669857183296606,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23534,
+			"name": 116.4,
+			"val": 2.06595298031387,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23501,
+			"name": 99.49,
+			"val": 1.9977794308656038,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23535,
+			"name": 0.17,
+			"val": -0.769551078621726,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 23500,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "DIFF IT Soluções em Tecnologia Ltda",
+			"name": "DIFF IT Soluções em Tecnologia Ltda",
+			"val": 53.413297353058205,
+			"desc": 1292,
+			"group": "DIFF IT Soluções em Tecnologia Ltda"
+		},
+		{
+			"id": 23494,
+			"name": 646,
+			"val": 2.8102325179950842,
+			"group": "DIFF IT Soluções em Tecnologia Ltda"
+		},
+		{
+			"id": 23531,
+			"name": 646,
+			"val": 2.8102325179950842,
+			"group": "DIFF IT Soluções em Tecnologia Ltda"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 0.015475961598581948,
+			"desc": 2.7,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 23538,
+			"name": 2.7,
+			"val": 0.43136376415898736,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "COLONIAL PRODUTOS SERVIÇOS LTDA",
+			"name": "COLONIAL PRODUTOS SERVIÇOS LTDA",
+			"val": 38.35903199804748,
+			"desc": 966.97,
+			"group": "COLONIAL PRODUTOS SERVIÇOS LTDA"
+		},
+		{
+			"id": 23532,
+			"name": 966.97,
+			"val": 2.985413000415408,
+			"group": "COLONIAL PRODUTOS SERVIÇOS LTDA"
+		},
+		{
+			"id": "INTELIG",
+			"name": "INTELIG",
+			"val": 20.82212452004637,
+			"desc": 568.8000000000001,
+			"group": "INTELIG"
+		},
+		{
+			"id": 23503,
+			"name": 144.39,
+			"val": 2.1595371163970207,
+			"group": "INTELIG"
+		},
+		{
+			"id": 23502,
+			"name": 160.99,
+			"val": 2.2067989003815476,
+			"group": "INTELIG"
+		},
+		{
+			"id": 23536,
+			"name": 156.1,
+			"val": 2.1934029030624176,
+			"group": "INTELIG"
+		},
+		{
+			"id": 23461,
+			"name": 71.98,
+			"val": 1.8572118423168924,
+			"group": "INTELIG"
+		},
+		{
+			"id": 23462,
+			"name": 35.34,
+			"val": 1.5482665451707454,
+			"group": "INTELIG"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 4.916077551939987,
+			"desc": 166.54,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 23539,
+			"name": 86.85,
+			"val": 1.9387698227831174,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 23541,
+			"name": 35.34,
+			"val": 1.5482665451707454,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 23540,
+			"name": 44.35,
+			"val": 1.6468936241677452,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "MIRANTES RESTAURANTE",
+			"name": "MIRANTES RESTAURANTE",
+			"val": 0.9558925612848923,
+			"desc": 43.82,
+			"group": "MIRANTES RESTAURANTE"
+		},
+		{
+			"id": 23546,
+			"name": 43.82,
+			"val": 1.6416723732246865,
+			"group": "MIRANTES RESTAURANTE"
+		},
+		{
+			"id": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA",
+			"name": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA",
+			"val": 27.27312496963525,
+			"desc": 718.55,
+			"group": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA"
+		},
+		{
+			"id": 23498,
+			"name": 718.55,
+			"val": 2.8564569937208675,
+			"group": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 52.3539367738885,
+			"desc": 1269.49,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 23479,
+			"name": 1269.49,
+			"val": 3.1036292842078317,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"val": 180.7551122889183,
+			"desc": 3800,
+			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
+		},
+		{
+			"id": 23478,
+			"name": 3800,
+			"val": 3.57978359661681,
+			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
+		},
+		{
+			"id": "CORREIOS - SEDEX 12 COM AR",
+			"name": "CORREIOS - SEDEX 12 COM AR",
+			"val": 1.7784610245878243,
+			"desc": 72.05,
+			"group": "CORREIOS - SEDEX 12 COM AR"
+		},
+		{
+			"id": 23542,
+			"name": 72.05,
+			"val": 1.857633985150008,
+			"group": "CORREIOS - SEDEX 12 COM AR"
+		},
+		{
+			"id": "Lucas Vinicius Rezende",
+			"name": "Lucas Vinicius Rezende",
+			"val": 245.75424759098897,
+			"desc": 5000,
+			"group": "Lucas Vinicius Rezende"
+		},
+		{
+			"id": 23499,
+			"name": 5000,
+			"val": 3.6989700043360187,
+			"group": "Lucas Vinicius Rezende"
+		},
+		{
+			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"val": 7.966536967624633,
+			"desc": 250.02,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 23533,
+			"name": 250.02,
+			"val": 2.3979747508409215,
+			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
+			"name": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
+			"val": 0.4018942437144537,
+			"desc": 22.4,
+			"group": "LAGO PRODUTOS ALIMENTICIOS LTDA ME"
+		},
+		{
+			"id": 23467,
+			"name": 22.4,
+			"val": 1.3502480183341627,
+			"group": "LAGO PRODUTOS ALIMENTICIOS LTDA ME"
+		},
+		{
+			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"val": 181.02342120408562,
+			"desc": 3805.03,
+			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
+		},
+		{
+			"id": 23466,
+			"name": 3805.03,
+			"val": 3.5803580852282986,
+			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 23.222714708793298,
+			"desc": 625.08,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 23459,
+			"name": 625.08,
+			"val": 2.795935603480322,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 10.309057981723022,
+			"desc": 311.2,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 23452,
+			"name": 311.2,
+			"val": 2.4930395883176515,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 248.27
+		},
+		{
+			"source": "RAMAL",
+			"target": 23504,
+			"value": 138.49
+		},
+		{
+			"source": "RAMAL",
+			"target": 23463,
+			"value": 56.6
+		},
+		{
+			"source": "RAMAL",
+			"target": 23537,
+			"value": 53.18
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 16455.049999999996
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23485,
+			"value": 433
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23486,
+			"value": 1293.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23482,
+			"value": 641.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23524,
+			"value": 513.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23488,
+			"value": 541.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23517,
+			"value": 394.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23522,
+			"value": 1403.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23489,
+			"value": 394.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23484,
+			"value": 971.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23523,
+			"value": 513.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23487,
+			"value": 715.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23515,
+			"value": 529.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23514,
+			"value": 763.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23526,
+			"value": 474.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23516,
+			"value": 652.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23483,
+			"value": 388.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23520,
+			"value": 763.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23519,
+			"value": 604.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23525,
+			"value": 652.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23481,
+			"value": 642.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23480,
+			"value": 1476.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23518,
+			"value": 605.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23513,
+			"value": 428.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 23521,
+			"value": 652.98
+		},
+		{
+			"source": -100,
+			"target": "CELESC DISTRIBUICAO S.A",
+			"value": 909.3399999999999
+		},
+		{
+			"source": "CELESC DISTRIBUICAO S.A",
+			"target": 23448,
+			"value": 62.24
+		},
+		{
+			"source": "CELESC DISTRIBUICAO S.A",
+			"target": 23491,
+			"value": 451.41
+		},
+		{
+			"source": "CELESC DISTRIBUICAO S.A",
+			"target": 23528,
+			"value": 395.69
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A",
+			"value": 869.53
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 23449,
+			"value": 174.22
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 23529,
+			"value": 235.62
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 23530,
+			"value": 235.62
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 23492,
+			"value": 224.07
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 23453,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 23497,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "LUCAS VINICIUS REZENDE 05523337196",
+			"value": 5000
+		},
+		{
+			"source": "LUCAS VINICIUS REZENDE 05523337196",
+			"target": 23458,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "WELL FOODS RESTAURANTES LTDA",
+			"value": 160.05
+		},
+		{
+			"source": "WELL FOODS RESTAURANTES LTDA",
+			"target": 23510,
+			"value": 42.35
+		},
+		{
+			"source": "WELL FOODS RESTAURANTES LTDA",
+			"target": 23507,
+			"value": 42.35
+		},
+		{
+			"source": "WELL FOODS RESTAURANTES LTDA",
+			"target": 23508,
+			"value": 42.35
+		},
+		{
+			"source": "WELL FOODS RESTAURANTES LTDA",
+			"target": 23509,
+			"value": 16.5
+		},
+		{
+			"source": "WELL FOODS RESTAURANTES LTDA",
+			"target": 23511,
+			"value": 16.5
+		},
+		{
+			"source": -100,
+			"target": "ANDRADE E SOUZA IMOVEIS",
+			"value": 4820.13
+		},
+		{
+			"source": "ANDRADE E SOUZA IMOVEIS",
+			"target": 23490,
+			"value": 1712.63
+		},
+		{
+			"source": "ANDRADE E SOUZA IMOVEIS",
+			"target": 23447,
+			"value": 1553.75
+		},
+		{
+			"source": "ANDRADE E SOUZA IMOVEIS",
+			"target": 23527,
+			"value": 1553.75
+		},
+		{
+			"source": -100,
+			"target": "UNICRED Florianópolis",
+			"value": 473.94
+		},
+		{
+			"source": "UNICRED Florianópolis",
+			"target": 23451,
+			"value": 473.94
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 100.72
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 23505,
+			"value": 68.28
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 23506,
+			"value": 32.44
+		},
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 841.8499999999999
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 23456,
+			"value": 200
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 23454,
+			"value": 200.03
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 23457,
+			"value": 231.81
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 23455,
+			"value": 210.01
+		},
+		{
+			"source": -100,
+			"target": "WRC RESTAURANTES LTDA",
+			"value": 451
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23476,
+			"value": 42.35
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23475,
+			"value": 48.95
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23470,
+			"value": 91.85
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23474,
+			"value": 49.5
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23473,
+			"value": 16.5
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23469,
+			"value": 42.35
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23472,
+			"value": 56.65
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23471,
+			"value": 53.35
+		},
+		{
+			"source": "WRC RESTAURANTES LTDA",
+			"target": 23468,
+			"value": 49.5
+		},
+		{
+			"source": -100,
+			"target": "DISK CAR LOCACAO DE VEICULOS SA",
+			"value": 3400
+		},
+		{
+			"source": "DISK CAR LOCACAO DE VEICULOS SA",
+			"target": 23477,
+			"value": 1700
+		},
+		{
+			"source": "DISK CAR LOCACAO DE VEICULOS SA",
+			"target": 23512,
+			"value": 1700
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 500
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 23495,
+			"value": 250
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 23496,
+			"value": 250
+		},
+		{
+			"source": -100,
+			"target": "Cristiano de Souza Bernardo",
+			"value": 446
+		},
+		{
+			"source": "Cristiano de Souza Bernardo",
+			"target": 23493,
+			"value": 322
+		},
+		{
+			"source": "Cristiano de Souza Bernardo",
+			"target": 23450,
+			"value": 124
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 366.05999999999995
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 23544,
+			"value": 57.65
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 23545,
+			"value": 148.41
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 23543,
+			"value": 65.96
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 23465,
+			"value": 50.64
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 23464,
+			"value": 43.4
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 302.6700000000001
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23460,
+			"value": 46.45
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23534,
+			"value": 116.4
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23501,
+			"value": 99.49
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23535,
+			"value": 0.17
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 23500,
+			"value": 40.16
+		},
+		{
+			"source": -100,
+			"target": "DIFF IT Soluções em Tecnologia Ltda",
+			"value": 1292
+		},
+		{
+			"source": "DIFF IT Soluções em Tecnologia Ltda",
+			"target": 23494,
+			"value": 646
+		},
+		{
+			"source": "DIFF IT Soluções em Tecnologia Ltda",
+			"target": 23531,
+			"value": 646
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 2.7
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 23538,
+			"value": 2.7
+		},
+		{
+			"source": -100,
+			"target": "COLONIAL PRODUTOS SERVIÇOS LTDA",
+			"value": 966.97
+		},
+		{
+			"source": "COLONIAL PRODUTOS SERVIÇOS LTDA",
+			"target": 23532,
+			"value": 966.97
+		},
+		{
+			"source": -100,
+			"target": "INTELIG",
+			"value": 568.8000000000001
+		},
+		{
+			"source": "INTELIG",
+			"target": 23503,
+			"value": 144.39
+		},
+		{
+			"source": "INTELIG",
+			"target": 23502,
+			"value": 160.99
+		},
+		{
+			"source": "INTELIG",
+			"target": 23536,
+			"value": 156.1
+		},
+		{
+			"source": "INTELIG",
+			"target": 23461,
+			"value": 71.98
+		},
+		{
+			"source": "INTELIG",
+			"target": 23462,
+			"value": 35.34
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 166.54
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 23539,
+			"value": 86.85
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 23541,
+			"value": 35.34
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 23540,
+			"value": 44.35
+		},
+		{
+			"source": -100,
+			"target": "MIRANTES RESTAURANTE",
+			"value": 43.82
+		},
+		{
+			"source": "MIRANTES RESTAURANTE",
+			"target": 23546,
+			"value": 43.82
+		},
+		{
+			"source": -100,
+			"target": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA",
+			"value": 718.55
+		},
+		{
+			"source": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA",
+			"target": 23498,
+			"value": 718.55
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 1269.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 23479,
+			"value": 1269.49
+		},
+		{
+			"source": -100,
+			"target": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"value": 3800
+		},
+		{
+			"source": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
+			"target": 23478,
+			"value": 3800
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 12 COM AR",
+			"value": 72.05
+		},
+		{
+			"source": "CORREIOS - SEDEX 12 COM AR",
+			"target": 23542,
+			"value": 72.05
+		},
+		{
+			"source": -100,
+			"target": "Lucas Vinicius Rezende",
+			"value": 5000
+		},
+		{
+			"source": "Lucas Vinicius Rezende",
+			"target": 23499,
+			"value": 5000
+		},
+		{
+			"source": -100,
+			"target": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"value": 250.02
+		},
+		{
+			"source": "POLAR DERIVADOS DE PETROLEO LTDA",
+			"target": 23533,
+			"value": 250.02
+		},
+		{
+			"source": -100,
+			"target": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
+			"value": 22.4
+		},
+		{
+			"source": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
+			"target": 23467,
+			"value": 22.4
+		},
+		{
+			"source": -100,
+			"target": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"value": 3805.03
+		},
+		{
+			"source": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+			"target": 23466,
+			"value": 3805.03
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 625.08
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 23459,
+			"value": 625.08
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 311.2
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 23452,
+			"value": 311.2
+		}
+	]
+}

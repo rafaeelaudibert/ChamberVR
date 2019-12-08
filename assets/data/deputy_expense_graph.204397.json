@@ -1,0 +1,1581 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "BOCA ABERTA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 14.04703611367205,
+			"desc": 405.37,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 7257,
+			"name": 405.37,
+			"val": 2.607851604947631,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 538.9713987983766,
+			"desc": 10126.58,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7245,
+			"name": 581.85,
+			"val": 2.7648110386557376,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7217,
+			"name": 776.17,
+			"val": 2.8899568526706223,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7243,
+			"name": 1006.85,
+			"val": 3.0029647744020616,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7222,
+			"name": 1081.49,
+			"val": 3.0340225080886585,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7216,
+			"name": 1277.57,
+			"val": 3.106384705112715,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7221,
+			"name": 1081.49,
+			"val": 3.0340225080886585,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7214,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7218,
+			"name": 883.57,
+			"val": 2.9462409617765366,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7213,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7219,
+			"name": 1206.89,
+			"val": 3.0816676888463044,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7215,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7212,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7220,
+			"name": 966.85,
+			"val": 2.9853591015645375,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 7244,
+			"name": 1153.85,
+			"val": 3.0621493543947045,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "AUTO POSTO BR 153 LT",
+			"name": "AUTO POSTO BR 153 LT",
+			"val": 6.1514455597078594,
+			"desc": 201,
+			"group": "AUTO POSTO BR 153 LT"
+		},
+		{
+			"id": 7168,
+			"name": 201,
+			"val": 2.303196057420489,
+			"group": "AUTO POSTO BR 153 LT"
+		},
+		{
+			"id": "PANTANAL VEÍCULOS LTDA",
+			"name": "PANTANAL VEÍCULOS LTDA",
+			"val": 278.7404066692739,
+			"desc": 5597,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 7180,
+			"name": 997,
+			"val": 2.998695158311656,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 7263,
+			"name": 2300,
+			"val": 3.361727836017593,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 7238,
+			"name": 2300,
+			"val": 3.361727836017593,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 39.04266715382811,
+			"desc": 982,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 7165,
+			"name": 726.5,
+			"val": 2.86123561863404,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 7248,
+			"name": 255.5,
+			"val": 2.4073909044707316,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "Concessionaria Transbrasiliana S/A",
+			"name": "Concessionaria Transbrasiliana S/A",
+			"val": 0.2473207853360329,
+			"desc": 15.600000000000001,
+			"group": "Concessionaria Transbrasiliana S/A"
+		},
+		{
+			"id": 7188,
+			"name": 5.2,
+			"val": 0.7160033436347992,
+			"group": "Concessionaria Transbrasiliana S/A"
+		},
+		{
+			"id": 7187,
+			"name": 5.2,
+			"val": 0.7160033436347992,
+			"group": "Concessionaria Transbrasiliana S/A"
+		},
+		{
+			"id": 7189,
+			"name": 5.2,
+			"val": 0.7160033436347992,
+			"group": "Concessionaria Transbrasiliana S/A"
+		},
+		{
+			"id": "ENTREVIAS",
+			"name": "ENTREVIAS",
+			"val": 0.3573192643786829,
+			"desc": 20.5,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 7192,
+			"name": 7.9,
+			"val": 0.8976270912904414,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 7193,
+			"name": 7.3,
+			"val": 0.8633228601204559,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": 7191,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "ENTREVIAS"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 272.934304969184,
+			"desc": 5492.42,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7241,
+			"name": 1077.79,
+			"val": 3.032534149787965,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7242,
+			"name": -58.49,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7205,
+			"name": 1313.39,
+			"val": 3.1183937052960613,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7203,
+			"name": 384.39,
+			"val": 2.584772080866149,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7206,
+			"name": 225.39,
+			"val": 2.35293464355942,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7204,
+			"name": 247.39,
+			"val": 2.3933821405938573,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7211,
+			"name": 329.39,
+			"val": 2.5177104102231027,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7207,
+			"name": 1004.39,
+			"val": 3.001902380099787,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7208,
+			"name": 377,
+			"val": 2.576341350205793,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7209,
+			"name": 247.39,
+			"val": 2.3933821405938573,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7210,
+			"name": 329.39,
+			"val": 2.5177104102231027,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 7240,
+			"name": 15,
+			"val": 1.1760912590556813,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "AB1 HOTELARIA EIRELI - EPP",
+			"name": "AB1 HOTELARIA EIRELI - EPP",
+			"val": 86.33766098134896,
+			"desc": 1972,
+			"group": "AB1 HOTELARIA EIRELI - EPP"
+		},
+		{
+			"id": 7179,
+			"name": 1972,
+			"val": 3.2949069106051923,
+			"group": "AB1 HOTELARIA EIRELI - EPP"
+		},
+		{
+			"id": "COTRANS LOCAÇÃO DE VEICULOS LTDA",
+			"name": "COTRANS LOCAÇÃO DE VEICULOS LTDA",
+			"val": 170.11844915352535,
+			"desc": 3600,
+			"group": "COTRANS LOCAÇÃO DE VEICULOS LTDA"
+		},
+		{
+			"id": 7262,
+			"name": 3600,
+			"val": 3.5563025007672873,
+			"group": "COTRANS LOCAÇÃO DE VEICULOS LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 7.757649257714879,
+			"desc": 244.46,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 7233,
+			"name": 244.46,
+			"val": 2.388207807425138,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 7.801170449316834,
+			"desc": 245.62,
+			"group": "RAMAL"
+		},
+		{
+			"id": 7256,
+			"name": 110.33,
+			"val": 2.0426936181786433,
+			"group": "RAMAL"
+		},
+		{
+			"id": 7232,
+			"name": 86.34,
+			"val": 1.9362120443202488,
+			"group": "RAMAL"
+		},
+		{
+			"id": 7175,
+			"name": 48.95,
+			"val": 1.6897526961391567,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 22.68562704702207,
+			"desc": 612.55,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 7260,
+			"name": 78.86,
+			"val": 1.8968567727372043,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 7234,
+			"name": 145.88,
+			"val": 2.1639957546417437,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 7261,
+			"name": 137.66,
+			"val": 2.1388077652177144,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 7259,
+			"name": 250.15,
+			"val": 2.398200507219428,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 5.2678232385816735,
+			"desc": 176.45999999999998,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 7236,
+			"name": 41.2,
+			"val": 1.6148972160331345,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 7235,
+			"name": 67.63,
+			"val": 1.8301393874253427,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 7237,
+			"name": 67.63,
+			"val": 1.8301393874253427,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "N. MATIASI E CIA LTDA",
+			"name": "N. MATIASI E CIA LTDA",
+			"val": 17.320394779891846,
+			"desc": 485.29,
+			"group": "N. MATIASI E CIA LTDA"
+		},
+		{
+			"id": 7225,
+			"name": 244.93,
+			"val": 2.3890419824971634,
+			"group": "N. MATIASI E CIA LTDA"
+		},
+		{
+			"id": 7170,
+			"name": 240.36,
+			"val": 2.380862195341201,
+			"group": "N. MATIASI E CIA LTDA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 15.604960859236975,
+			"desc": 443.65999999999997,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 7231,
+			"name": 52.68,
+			"val": 1.7216457662897462,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 7229,
+			"name": 64.24,
+			"val": 1.8078055322706246,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 7255,
+			"name": 82.97,
+			"val": 1.9189210900913358,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 7230,
+			"name": 80.3,
+			"val": 1.904715545278681,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 7174,
+			"name": 43.01,
+			"val": 1.6335694425540919,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 7254,
+			"name": 80.3,
+			"val": 1.904715545278681,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 7228,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 1.00158462284063,
+			"desc": 45.47,
+			"group": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 7173,
+			"name": 45.47,
+			"val": 1.6577249542051082,
+			"group": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 334.12431030703345,
+			"desc": 6585.040000000001,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7196,
+			"name": 230,
+			"val": 2.361727836017593,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7197,
+			"name": 1097.79,
+			"val": 3.040519270383837,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7201,
+			"name": 1193.39,
+			"val": 3.076782394356902,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7202,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7199,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7198,
+			"name": 920.47,
+			"val": 2.964009638525234,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7264,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7194,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7200,
+			"name": 1193.39,
+			"val": 3.076782394356902,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7195,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 7239,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "J.C. MARQUES & CIA LTDA",
+			"name": "J.C. MARQUES & CIA LTDA",
+			"val": 8.344019735016852,
+			"desc": 260.02,
+			"group": "J.C. MARQUES & CIA LTDA"
+		},
+		{
+			"id": 7250,
+			"name": 260.02,
+			"val": 2.415006753953828,
+			"group": "J.C. MARQUES & CIA LTDA"
+		},
+		{
+			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"val": 0.5135278502336545,
+			"desc": 27,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 7185,
+			"name": 4.6,
+			"val": 0.6627578316815741,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 7184,
+			"name": 4.9,
+			"val": 0.6901960800285137,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 7183,
+			"name": 3.3,
+			"val": 0.5185139398778874,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 7186,
+			"name": 3.1,
+			"val": 0.4913616938342727,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 7181,
+			"name": 5.9,
+			"val": 0.7708520116421442,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": 7182,
+			"name": 5.2,
+			"val": 0.7160033436347992,
+			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 14.040972799512147,
+			"desc": 405.22,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 7172,
+			"name": 215.02,
+			"val": 2.332478857523365,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 7226,
+			"name": 190.2,
+			"val": 2.279210512601395,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "SILT SELF SERVICE EIRELI ME",
+			"name": "SILT SELF SERVICE EIRELI ME",
+			"val": 1.2817299035485665,
+			"desc": 55.34,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": 7178,
+			"name": 55.34,
+			"val": 1.743039154804933,
+			"group": "SILT SELF SERVICE EIRELI ME"
+		},
+		{
+			"id": "AUTO POSTO 108 LTDA",
+			"name": "AUTO POSTO 108 LTDA",
+			"val": 6.594010818366927,
+			"desc": 213.11,
+			"group": "AUTO POSTO 108 LTDA"
+		},
+		{
+			"id": 7167,
+			"name": 213.11,
+			"val": 2.3286038290803353,
+			"group": "AUTO POSTO 108 LTDA"
+		},
+		{
+			"id": "AUTO POSTO RIO BRANCO LTDA",
+			"name": "AUTO POSTO RIO BRANCO LTDA",
+			"val": 3.373158239174103,
+			"desc": 121.73,
+			"group": "AUTO POSTO RIO BRANCO LTDA"
+		},
+		{
+			"id": 7223,
+			"name": 121.73,
+			"val": 2.0853976220169694,
+			"group": "AUTO POSTO RIO BRANCO LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"val": 3.7707517653213434,
+			"desc": 133.51,
+			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
+		},
+		{
+			"id": 7252,
+			"name": 133.51,
+			"val": 2.125513795904115,
+			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
+		},
+		{
+			"id": "MANOEL PORTUGUES DA CUNHA",
+			"name": "MANOEL PORTUGUES DA CUNHA",
+			"val": 13.026180524663042,
+			"desc": 380,
+			"group": "MANOEL PORTUGUES DA CUNHA"
+		},
+		{
+			"id": 7246,
+			"name": 180,
+			"val": 2.255272505103306,
+			"group": "MANOEL PORTUGUES DA CUNHA"
+		},
+		{
+			"id": 7247,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "MANOEL PORTUGUES DA CUNHA"
+		},
+		{
+			"id": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA",
+			"name": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA",
+			"val": 96.62908261689216,
+			"desc": 2178.47,
+			"group": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": 7251,
+			"name": 2178.47,
+			"val": 3.3381515835859026,
+			"group": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA"
+		},
+		{
+			"id": "POSTO ALVORADA",
+			"name": "POSTO ALVORADA",
+			"val": 4.1402137469993345,
+			"desc": 144.3,
+			"group": "POSTO ALVORADA"
+		},
+		{
+			"id": 7171,
+			"name": 144.3,
+			"val": 2.159266331093494,
+			"group": "POSTO ALVORADA"
+		},
+		{
+			"id": "nelson bueno da silva junior",
+			"name": "nelson bueno da silva junior",
+			"val": 632.4655385579605,
+			"desc": 11700,
+			"group": "nelson bueno da silva junior"
+		},
+		{
+			"id": 7253,
+			"name": 11700,
+			"val": 4.068185861746161,
+			"group": "nelson bueno da silva junior"
+		},
+		{
+			"id": "CHURRASCARIA BOLA BRANCA LTDA-ME",
+			"name": "CHURRASCARIA BOLA BRANCA LTDA-ME",
+			"val": 1.8993699640868498,
+			"desc": 76,
+			"group": "CHURRASCARIA BOLA BRANCA LTDA-ME"
+		},
+		{
+			"id": 7176,
+			"name": 76,
+			"val": 1.8808135922807914,
+			"group": "CHURRASCARIA BOLA BRANCA LTDA-ME"
+		},
+		{
+			"id": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 2.2084319313195118,
+			"desc": 85.93,
+			"group": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 7166,
+			"name": 85.93,
+			"val": 1.934144811792477,
+			"group": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "GARDA COMERCIO DE ALIMENTOS EIRELI ME",
+			"name": "GARDA COMERCIO DE ALIMENTOS EIRELI ME",
+			"val": 0.46438561897747244,
+			"desc": 25,
+			"group": "GARDA COMERCIO DE ALIMENTOS EIRELI ME"
+		},
+		{
+			"id": 7177,
+			"name": 25,
+			"val": 1.3979400086720377,
+			"group": "GARDA COMERCIO DE ALIMENTOS EIRELI ME"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 2.98379827395085,
+			"desc": 110,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 7249,
+			"name": 110,
+			"val": 2.041392685158225,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE",
+			"name": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE",
+			"val": 0.20902011917637256,
+			"desc": 13.8,
+			"group": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE"
+		},
+		{
+			"id": 7190,
+			"name": 13.8,
+			"val": 1.1398790864012365,
+			"group": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE"
+		},
+		{
+			"id": "BELIZE COMPANY AUTO POSTO",
+			"name": "BELIZE COMPANY AUTO POSTO",
+			"val": 4.688838775527732,
+			"desc": 160.08,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": 7169,
+			"name": 160.08,
+			"val": 2.204337075628155,
+			"group": "BELIZE COMPANY AUTO POSTO"
+		},
+		{
+			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"val": 35.72112873051845,
+			"desc": 908.69,
+			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
+		},
+		{
+			"id": 7227,
+			"name": 908.69,
+			"val": 2.9584157487318232,
+			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
+		},
+		{
+			"id": "CARREFOUR COM. E IND. LTDA",
+			"name": "CARREFOUR COM. E IND. LTDA",
+			"val": 2.8013942373674,
+			"desc": 104.43,
+			"group": "CARREFOUR COM. E IND. LTDA"
+		},
+		{
+			"id": 7224,
+			"name": 104.43,
+			"val": 2.018825278003951,
+			"group": "CARREFOUR COM. E IND. LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 0.6451577552796705,
+			"desc": 32.2,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 7258,
+			"name": 32.2,
+			"val": 1.507855871695831,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 405.37
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 7257,
+			"value": 405.37
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 10126.58
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7245,
+			"value": 581.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7217,
+			"value": 776.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7243,
+			"value": 1006.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7222,
+			"value": 1081.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7216,
+			"value": 1277.57
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7221,
+			"value": 1081.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7214,
+			"value": 20
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7218,
+			"value": 883.57
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7213,
+			"value": 20
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7219,
+			"value": 1206.89
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7215,
+			"value": 35
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7212,
+			"value": 35
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7220,
+			"value": 966.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 7244,
+			"value": 1153.85
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO BR 153 LT",
+			"value": 201
+		},
+		{
+			"source": "AUTO POSTO BR 153 LT",
+			"target": 7168,
+			"value": 201
+		},
+		{
+			"source": -100,
+			"target": "PANTANAL VEÍCULOS LTDA",
+			"value": 5597
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 7180,
+			"value": 997
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 7263,
+			"value": 2300
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 7238,
+			"value": 2300
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 982
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 7165,
+			"value": 726.5
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 7248,
+			"value": 255.5
+		},
+		{
+			"source": -100,
+			"target": "Concessionaria Transbrasiliana S/A",
+			"value": 15.600000000000001
+		},
+		{
+			"source": "Concessionaria Transbrasiliana S/A",
+			"target": 7188,
+			"value": 5.2
+		},
+		{
+			"source": "Concessionaria Transbrasiliana S/A",
+			"target": 7187,
+			"value": 5.2
+		},
+		{
+			"source": "Concessionaria Transbrasiliana S/A",
+			"target": 7189,
+			"value": 5.2
+		},
+		{
+			"source": -100,
+			"target": "ENTREVIAS",
+			"value": 20.5
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 7192,
+			"value": 7.9
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 7193,
+			"value": 7.3
+		},
+		{
+			"source": "ENTREVIAS",
+			"target": 7191,
+			"value": 5.3
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 5492.42
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7241,
+			"value": 1077.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7242,
+			"value": -58.49
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7205,
+			"value": 1313.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7203,
+			"value": 384.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7206,
+			"value": 225.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7204,
+			"value": 247.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7211,
+			"value": 329.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7207,
+			"value": 1004.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7208,
+			"value": 377
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7209,
+			"value": 247.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7210,
+			"value": 329.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 7240,
+			"value": 15
+		},
+		{
+			"source": -100,
+			"target": "AB1 HOTELARIA EIRELI - EPP",
+			"value": 1972
+		},
+		{
+			"source": "AB1 HOTELARIA EIRELI - EPP",
+			"target": 7179,
+			"value": 1972
+		},
+		{
+			"source": -100,
+			"target": "COTRANS LOCAÇÃO DE VEICULOS LTDA",
+			"value": 3600
+		},
+		{
+			"source": "COTRANS LOCAÇÃO DE VEICULOS LTDA",
+			"target": 7262,
+			"value": 3600
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 244.46
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 7233,
+			"value": 244.46
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 245.62
+		},
+		{
+			"source": "RAMAL",
+			"target": 7256,
+			"value": 110.33
+		},
+		{
+			"source": "RAMAL",
+			"target": 7232,
+			"value": 86.34
+		},
+		{
+			"source": "RAMAL",
+			"target": 7175,
+			"value": 48.95
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 612.55
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 7260,
+			"value": 78.86
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 7234,
+			"value": 145.88
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 7261,
+			"value": 137.66
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 7259,
+			"value": 250.15
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 176.45999999999998
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 7236,
+			"value": 41.2
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 7235,
+			"value": 67.63
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 7237,
+			"value": 67.63
+		},
+		{
+			"source": -100,
+			"target": "N. MATIASI E CIA LTDA",
+			"value": 485.29
+		},
+		{
+			"source": "N. MATIASI E CIA LTDA",
+			"target": 7225,
+			"value": 244.93
+		},
+		{
+			"source": "N. MATIASI E CIA LTDA",
+			"target": 7170,
+			"value": 240.36
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 443.65999999999997
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 7231,
+			"value": 52.68
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 7229,
+			"value": 64.24
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 7255,
+			"value": 82.97
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 7230,
+			"value": 80.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 7174,
+			"value": 43.01
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 7254,
+			"value": 80.3
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 7228,
+			"value": 40.16
+		},
+		{
+			"source": -100,
+			"target": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 45.47
+		},
+		{
+			"source": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 7173,
+			"value": 45.47
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 6585.040000000001
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7196,
+			"value": 230
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7197,
+			"value": 1097.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7201,
+			"value": 1193.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7202,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7199,
+			"value": 300
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7198,
+			"value": 920.47
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7264,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7194,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7200,
+			"value": 1193.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7195,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 7239,
+			"value": 330
+		},
+		{
+			"source": -100,
+			"target": "J.C. MARQUES & CIA LTDA",
+			"value": 260.02
+		},
+		{
+			"source": "J.C. MARQUES & CIA LTDA",
+			"target": 7250,
+			"value": 260.02
+		},
+		{
+			"source": -100,
+			"target": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"value": 27
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 7185,
+			"value": 4.6
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 7184,
+			"value": 4.9
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 7183,
+			"value": 3.3
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 7186,
+			"value": 3.1
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 7181,
+			"value": 5.9
+		},
+		{
+			"source": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
+			"target": 7182,
+			"value": 5.2
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 405.22
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 7172,
+			"value": 215.02
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 7226,
+			"value": 190.2
+		},
+		{
+			"source": -100,
+			"target": "SILT SELF SERVICE EIRELI ME",
+			"value": 55.34
+		},
+		{
+			"source": "SILT SELF SERVICE EIRELI ME",
+			"target": 7178,
+			"value": 55.34
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO 108 LTDA",
+			"value": 213.11
+		},
+		{
+			"source": "AUTO POSTO 108 LTDA",
+			"target": 7167,
+			"value": 213.11
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO RIO BRANCO LTDA",
+			"value": 121.73
+		},
+		{
+			"source": "AUTO POSTO RIO BRANCO LTDA",
+			"target": 7223,
+			"value": 121.73
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"value": 133.51
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+			"target": 7252,
+			"value": 133.51
+		},
+		{
+			"source": -100,
+			"target": "MANOEL PORTUGUES DA CUNHA",
+			"value": 380
+		},
+		{
+			"source": "MANOEL PORTUGUES DA CUNHA",
+			"target": 7246,
+			"value": 180
+		},
+		{
+			"source": "MANOEL PORTUGUES DA CUNHA",
+			"target": 7247,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA",
+			"value": 2178.47
+		},
+		{
+			"source": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA",
+			"target": 7251,
+			"value": 2178.47
+		},
+		{
+			"source": -100,
+			"target": "POSTO ALVORADA",
+			"value": 144.3
+		},
+		{
+			"source": "POSTO ALVORADA",
+			"target": 7171,
+			"value": 144.3
+		},
+		{
+			"source": -100,
+			"target": "nelson bueno da silva junior",
+			"value": 11700
+		},
+		{
+			"source": "nelson bueno da silva junior",
+			"target": 7253,
+			"value": 11700
+		},
+		{
+			"source": -100,
+			"target": "CHURRASCARIA BOLA BRANCA LTDA-ME",
+			"value": 76
+		},
+		{
+			"source": "CHURRASCARIA BOLA BRANCA LTDA-ME",
+			"target": 7176,
+			"value": 76
+		},
+		{
+			"source": -100,
+			"target": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 85.93
+		},
+		{
+			"source": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 7166,
+			"value": 85.93
+		},
+		{
+			"source": -100,
+			"target": "GARDA COMERCIO DE ALIMENTOS EIRELI ME",
+			"value": 25
+		},
+		{
+			"source": "GARDA COMERCIO DE ALIMENTOS EIRELI ME",
+			"target": 7177,
+			"value": 25
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 110
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 7249,
+			"value": 110
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE",
+			"value": 13.8
+		},
+		{
+			"source": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE",
+			"target": 7190,
+			"value": 13.8
+		},
+		{
+			"source": -100,
+			"target": "BELIZE COMPANY AUTO POSTO",
+			"value": 160.08
+		},
+		{
+			"source": "BELIZE COMPANY AUTO POSTO",
+			"target": 7169,
+			"value": 160.08
+		},
+		{
+			"source": -100,
+			"target": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"value": 908.69
+		},
+		{
+			"source": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
+			"target": 7227,
+			"value": 908.69
+		},
+		{
+			"source": -100,
+			"target": "CARREFOUR COM. E IND. LTDA",
+			"value": 104.43
+		},
+		{
+			"source": "CARREFOUR COM. E IND. LTDA",
+			"target": 7224,
+			"value": 104.43
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 32.2
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 7258,
+			"value": 32.2
+		}
+	]
+}

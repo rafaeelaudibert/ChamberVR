@@ -1,0 +1,1617 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "JOÃO ROMA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"name": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"val": 4.998749829091649,
+			"desc": 168.88,
+			"group": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": 26531,
+			"name": 168.88,
+			"val": 2.2275782202996,
+			"group": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": "ATACADAO DO PAPEL EIRELI",
+			"name": "ATACADAO DO PAPEL EIRELI",
+			"val": 26.038052559570684,
+			"desc": 690.23,
+			"group": "ATACADAO DO PAPEL EIRELI"
+		},
+		{
+			"id": 26480,
+			"name": 169.1,
+			"val": 2.2281436075977417,
+			"group": "ATACADAO DO PAPEL EIRELI"
+		},
+		{
+			"id": 26481,
+			"name": 25.9,
+			"val": 1.413299764081252,
+			"group": "ATACADAO DO PAPEL EIRELI"
+		},
+		{
+			"id": 26482,
+			"name": 495.23,
+			"val": 2.6948069454624237,
+			"group": "ATACADAO DO PAPEL EIRELI"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.8180255506322265,
+			"desc": 104.94,
+			"group": "RAMAL"
+		},
+		{
+			"id": 26466,
+			"name": 16.66,
+			"val": 1.2216749970707688,
+			"group": "RAMAL"
+		},
+		{
+			"id": 26498,
+			"name": 27.27,
+			"val": 1.4356851379416298,
+			"group": "RAMAL"
+		},
+		{
+			"id": 26540,
+			"name": 61.01,
+			"val": 1.7854010249923875,
+			"group": "RAMAL"
+		},
+		{
+			"id": "HP COMERCIO E DERIVADOS DE PET",
+			"name": "HP COMERCIO E DERIVADOS DE PET",
+			"val": 6.407863034148733,
+			"desc": 208.03,
+			"group": "HP COMERCIO E DERIVADOS DE PET"
+		},
+		{
+			"id": 26455,
+			"name": 208.03,
+			"val": 2.3181259690731846,
+			"group": "HP COMERCIO E DERIVADOS DE PET"
+		},
+		{
+			"id": "HP COM.E DER. DE PET. LTDA",
+			"name": "HP COM.E DER. DE PET. LTDA",
+			"val": 6.418470477756778,
+			"desc": 208.32,
+			"group": "HP COM.E DER. DE PET. LTDA"
+		},
+		{
+			"id": 26528,
+			"name": 208.32,
+			"val": 2.318730966888098,
+			"group": "HP COM.E DER. DE PET. LTDA"
+		},
+		{
+			"id": "Vanderlei Oliveira dos Santos",
+			"name": "Vanderlei Oliveira dos Santos",
+			"val": 1525.2860075780516,
+			"desc": 25999.98,
+			"group": "Vanderlei Oliveira dos Santos"
+		},
+		{
+			"id": 26449,
+			"name": 8666.66,
+			"val": 3.937851759178349,
+			"group": "Vanderlei Oliveira dos Santos"
+		},
+		{
+			"id": 26485,
+			"name": 8666.66,
+			"val": 3.937851759178349,
+			"group": "Vanderlei Oliveira dos Santos"
+		},
+		{
+			"id": 26518,
+			"name": 8666.66,
+			"val": 3.937851759178349,
+			"group": "Vanderlei Oliveira dos Santos"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"name": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"val": 14.77367197533234,
+			"desc": 423.28999999999996,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": 26456,
+			"name": 169.54,
+			"val": 2.22927217882129,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": 26532,
+			"name": 253.75,
+			"val": 2.4044060509212692,
+			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 33.08648470548522,
+			"desc": 850,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 26519,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 26521,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 26520,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 26451,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 26450,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 26522,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "RODRIGUES TORRES C D PET LTDA",
+			"name": "RODRIGUES TORRES C D PET LTDA",
+			"val": 33.65511724170422,
+			"desc": 862.71,
+			"group": "RODRIGUES TORRES C D PET LTDA"
+		},
+		{
+			"id": 26493,
+			"name": 193.26,
+			"val": 2.286141975203335,
+			"group": "RODRIGUES TORRES C D PET LTDA"
+		},
+		{
+			"id": 26464,
+			"name": 170,
+			"val": 2.230448921378274,
+			"group": "RODRIGUES TORRES C D PET LTDA"
+		},
+		{
+			"id": 26534,
+			"name": 251.45,
+			"val": 2.400451639956946,
+			"group": "RODRIGUES TORRES C D PET LTDA"
+		},
+		{
+			"id": 26494,
+			"name": 248,
+			"val": 2.3944516808262164,
+			"group": "RODRIGUES TORRES C D PET LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 29.535006109137118,
+			"desc": 770.04,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 26453,
+			"name": 170.03,
+			"val": 2.2305255548193874,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 26489,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 26454,
+			"name": 200.01,
+			"val": 2.3010517098452263,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 26488,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 239.6212767995961,
+			"desc": 4888.200000000001,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 26508,
+			"name": 1584.39,
+			"val": 3.1998620926577006,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 26510,
+			"name": 1925.98,
+			"val": 3.284651772957396,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 26511,
+			"name": 901.98,
+			"val": 2.955196907845783,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 26509,
+			"name": 475.85,
+			"val": 2.677470073647478,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "Kalunga Comercio Industria Grafica Ltda",
+			"name": "Kalunga Comercio Industria Grafica Ltda",
+			"val": 2.4102331278264058,
+			"desc": 92.3,
+			"group": "Kalunga Comercio Industria Grafica Ltda"
+		},
+		{
+			"id": 26484,
+			"name": 92.3,
+			"val": 1.965201701025912,
+			"group": "Kalunga Comercio Industria Grafica Ltda"
+		},
+		{
+			"id": "POSTO KALILANDIA LTDA",
+			"name": "POSTO KALILANDIA LTDA",
+			"val": 62.32901477799794,
+			"desc": 1479.6499999999999,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26459,
+			"name": 267.01,
+			"val": 2.426527526770914,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26492,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26460,
+			"name": 277.2,
+			"val": 2.442793225939769,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26462,
+			"name": 125.06,
+			"val": 2.0971184243446497,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26461,
+			"name": 175.03,
+			"val": 2.243112492788166,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26463,
+			"name": 180.34,
+			"val": 2.2560920653390135,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26458,
+			"name": 255.01,
+			"val": 2.406557211256173,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 26533,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": "MP COMERCIO DE COMBUSTIVEIS LT",
+			"name": "MP COMERCIO DE COMBUSTIVEIS LT",
+			"val": 3.482555805466395,
+			"desc": 124.99,
+			"group": "MP COMERCIO DE COMBUSTIVEIS LT"
+		},
+		{
+			"id": 26529,
+			"name": 124.99,
+			"val": 2.0968752680596876,
+			"group": "MP COMERCIO DE COMBUSTIVEIS LT"
+		},
+		{
+			"id": "BRISTOL HOTEL LTDA",
+			"name": "BRISTOL HOTEL LTDA",
+			"val": 6.190383201874122,
+			"desc": 202.07,
+			"group": "BRISTOL HOTEL LTDA"
+		},
+		{
+			"id": 26545,
+			"name": 202.07,
+			"val": 2.305501841464033,
+			"group": "BRISTOL HOTEL LTDA"
+		},
+		{
+			"id": "DOIS COMUNICACAO LTDA-ME",
+			"name": "DOIS COMUNICACAO LTDA-ME",
+			"val": 357.64789778815134,
+			"desc": 7000,
+			"group": "DOIS COMUNICACAO LTDA-ME"
+		},
+		{
+			"id": 26465,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "DOIS COMUNICACAO LTDA-ME"
+		},
+		{
+			"id": 26497,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "DOIS COMUNICACAO LTDA-ME"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 26452,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 26487,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 26524,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "COELHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "COELHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 3.9201432166241705,
+			"desc": 137.89,
+			"group": "COELHO COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 26526,
+			"name": 137.89,
+			"val": 2.1395327715979393,
+			"group": "COELHO COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 1.2197707671313678,
+			"desc": 53.19,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 26542,
+			"name": 53.19,
+			"val": 1.7258299903205803,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "SENA DERIVADOS DE PETROLEO LTDA",
+			"name": "SENA DERIVADOS DE PETROLEO LTDA",
+			"val": 8.608823255042308,
+			"desc": 267,
+			"group": "SENA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 26535,
+			"name": 267,
+			"val": 2.4265112613645754,
+			"group": "SENA DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 2.2990276564235668,
+			"desc": 88.8,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 26501,
+			"name": 14.55,
+			"val": 1.162862993321926,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 26541,
+			"name": 50.4,
+			"val": 1.7024305364455252,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 26499,
+			"name": 17.55,
+			"val": 1.2442771208018428,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 26500,
+			"name": 6.3,
+			"val": 0.7993405494535817,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "CATEGORIA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"name": "CATEGORIA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"val": 8.279310465565914,
+			"desc": 258.31,
+			"group": "CATEGORIA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 26525,
+			"name": 258.31,
+			"val": 2.412141219416652,
+			"group": "CATEGORIA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 577.1892168752898,
+			"desc": 10772.429999999998,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26514,
+			"name": 56.46,
+			"val": 1.7517408738109006,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26473,
+			"name": 1530.37,
+			"val": 3.1847964435834326,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26516,
+			"name": -555.08,
+			"val": null,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26515,
+			"name": 1390.98,
+			"val": 3.143320885598026,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26474,
+			"name": 415,
+			"val": 2.6180480967120925,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26478,
+			"name": 1789.37,
+			"val": 3.2527001518271796,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26479,
+			"name": 1788.49,
+			"val": 3.2524865162171883,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26477,
+			"name": 794.98,
+			"val": 2.900356202871695,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26475,
+			"name": 1459.98,
+			"val": 3.1643469065042105,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26512,
+			"name": 490,
+			"val": 2.690196080028514,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26476,
+			"name": 1138.39,
+			"val": 3.0562910721044307,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 26513,
+			"name": 473.49,
+			"val": 2.675310811236484,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 147.2642028579872,
+			"desc": 3166.0299999999997,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26506,
+			"name": 813.49,
+			"val": 2.9103522186477857,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26507,
+			"name": -774.29,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26472,
+			"name": -1344.29,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26469,
+			"name": 1562.95,
+			"val": 3.1939450848192976,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26467,
+			"name": 1263.49,
+			"val": 3.1015718090086004,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26470,
+			"name": 1413.49,
+			"val": 3.150292740338675,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26471,
+			"name": -1201.79,
+			"val": null,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26505,
+			"name": 523.49,
+			"val": 2.7189083899569826,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 26468,
+			"name": 909.49,
+			"val": 2.958797928282741,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"name": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"val": 26.090687037928568,
+			"desc": 691.44,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 26496,
+			"name": 208.18,
+			"val": 2.3184390042001923,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 26495,
+			"name": 91.65,
+			"val": 1.9621324692982354,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 26537,
+			"name": 144.87,
+			"val": 2.160978460120009,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 26536,
+			"name": 246.74,
+			"val": 2.3922395603981106,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": "POSTO GARIBALDI REV DE COMB E",
+			"name": "POSTO GARIBALDI REV DE COMB E",
+			"val": 1.9369564102747439,
+			"desc": 77.22,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 26457,
+			"name": 77.22,
+			"val": 1.8877297972880303,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": "INFOSOL SOLUCOES DE INFORMATICA LTDA",
+			"name": "INFOSOL SOLUCOES DE INFORMATICA LTDA",
+			"val": 125.57443584668856,
+			"desc": 2748,
+			"group": "INFOSOL SOLUCOES DE INFORMATICA LTDA"
+		},
+		{
+			"id": 26517,
+			"name": 1504.5,
+			"val": 3.1773921920760992,
+			"group": "INFOSOL SOLUCOES DE INFORMATICA LTDA"
+		},
+		{
+			"id": 26483,
+			"name": 1243.5,
+			"val": 3.0946457896059547,
+			"group": "INFOSOL SOLUCOES DE INFORMATICA LTDA"
+		},
+		{
+			"id": "Lucas Paulino de Sousa Nogueira",
+			"name": "Lucas Paulino de Sousa Nogueira",
+			"val": 22.277266230863003,
+			"desc": 603,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 26447,
+			"name": 171.5,
+			"val": 2.2342641243787895,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 26448,
+			"name": 431.5,
+			"val": 2.6349808000512285,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"val": 4.4902786748143315,
+			"desc": 154.4,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
+		},
+		{
+			"id": 26544,
+			"name": 59.4,
+			"val": 1.7737864449811935,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
+		},
+		{
+			"id": 26543,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
+		},
+		{
+			"id": "AUTO POSTO SAO JOAO LTDA",
+			"name": "AUTO POSTO SAO JOAO LTDA",
+			"val": 6.411886272789991,
+			"desc": 208.14,
+			"group": "AUTO POSTO SAO JOAO LTDA"
+		},
+		{
+			"id": 26523,
+			"name": 208.14,
+			"val": 2.3183555502257036,
+			"group": "AUTO POSTO SAO JOAO LTDA"
+		},
+		{
+			"id": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
+			"name": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
+		},
+		{
+			"id": 26530,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
+		},
+		{
+			"id": "Eric Melo Pinheiro",
+			"name": "Eric Melo Pinheiro",
+			"val": 164.82394889407567,
+			"desc": 3500,
+			"group": "Eric Melo Pinheiro"
+		},
+		{
+			"id": 26539,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "Eric Melo Pinheiro"
+		},
+		{
+			"id": "EMPRESA BAIANA DE JORNALISMO SA",
+			"name": "EMPRESA BAIANA DE JORNALISMO SA",
+			"val": 9.135433897668598,
+			"desc": 280.8,
+			"group": "EMPRESA BAIANA DE JORNALISMO SA"
+		},
+		{
+			"id": 26503,
+			"name": 280.8,
+			"val": 2.4483971034577676,
+			"group": "EMPRESA BAIANA DE JORNALISMO SA"
+		},
+		{
+			"id": "MCMC VARIEDADES LTDA - EPP",
+			"name": "MCMC VARIEDADES LTDA - EPP",
+			"val": 6.867893432470724,
+			"desc": 220.55,
+			"group": "MCMC VARIEDADES LTDA - EPP"
+		},
+		{
+			"id": 26490,
+			"name": 220.55,
+			"val": 2.3435070621144263,
+			"group": "MCMC VARIEDADES LTDA - EPP"
+		},
+		{
+			"id": "LIGUE TAXI",
+			"name": "LIGUE TAXI",
+			"val": 0.4161676999572452,
+			"desc": 23,
+			"group": "LIGUE TAXI"
+		},
+		{
+			"id": 26504,
+			"name": 23,
+			"val": 1.3617278360175928,
+			"group": "LIGUE TAXI"
+		},
+		{
+			"id": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"name": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"val": 3.3922500664086996,
+			"desc": 122.3,
+			"group": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 26538,
+			"name": 122.3,
+			"val": 2.0874264570362855,
+			"group": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"name": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"val": 4.3997881897766655,
+			"desc": 151.8,
+			"group": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS."
+		},
+		{
+			"id": 26502,
+			"name": 151.8,
+			"val": 2.1812717715594614,
+			"group": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS."
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 40.4102439364138,
+			"desc": 1011.98,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 26546,
+			"name": 1011.98,
+			"val": 3.0051719295240686,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "AUTO POSTO VELA BRANCA LTDA",
+			"name": "AUTO POSTO VELA BRANCA LTDA",
+			"val": 3.6032566577774507,
+			"desc": 128.57,
+			"group": "AUTO POSTO VELA BRANCA LTDA"
+		},
+		{
+			"id": 26486,
+			"name": 128.57,
+			"val": 2.109139643904016,
+			"group": "AUTO POSTO VELA BRANCA LTDA"
+		},
+		{
+			"id": "POSTO ALBALONGA LTDA",
+			"name": "POSTO ALBALONGA LTDA",
+			"val": 2.5710637635349265,
+			"desc": 97.32,
+			"group": "POSTO ALBALONGA LTDA"
+		},
+		{
+			"id": 26491,
+			"name": 97.32,
+			"val": 1.9882021002587809,
+			"group": "POSTO ALBALONGA LTDA"
+		},
+		{
+			"id": "GAIVOTA COM COMB LUB SERV LTDA",
+			"name": "GAIVOTA COM COMB LUB SERV LTDA",
+			"val": 5.267467004520029,
+			"desc": 176.45,
+			"group": "GAIVOTA COM COMB LUB SERV LTDA"
+		},
+		{
+			"id": 26527,
+			"name": 176.45,
+			"val": 2.246621662695988,
+			"group": "GAIVOTA COM COMB LUB SERV LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"value": 168.88
+		},
+		{
+			"source": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"target": 26531,
+			"value": 168.88
+		},
+		{
+			"source": -100,
+			"target": "ATACADAO DO PAPEL EIRELI",
+			"value": 690.23
+		},
+		{
+			"source": "ATACADAO DO PAPEL EIRELI",
+			"target": 26480,
+			"value": 169.1
+		},
+		{
+			"source": "ATACADAO DO PAPEL EIRELI",
+			"target": 26481,
+			"value": 25.9
+		},
+		{
+			"source": "ATACADAO DO PAPEL EIRELI",
+			"target": 26482,
+			"value": 495.23
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 104.94
+		},
+		{
+			"source": "RAMAL",
+			"target": 26466,
+			"value": 16.66
+		},
+		{
+			"source": "RAMAL",
+			"target": 26498,
+			"value": 27.27
+		},
+		{
+			"source": "RAMAL",
+			"target": 26540,
+			"value": 61.01
+		},
+		{
+			"source": -100,
+			"target": "HP COMERCIO E DERIVADOS DE PET",
+			"value": 208.03
+		},
+		{
+			"source": "HP COMERCIO E DERIVADOS DE PET",
+			"target": 26455,
+			"value": 208.03
+		},
+		{
+			"source": -100,
+			"target": "HP COM.E DER. DE PET. LTDA",
+			"value": 208.32
+		},
+		{
+			"source": "HP COM.E DER. DE PET. LTDA",
+			"target": 26528,
+			"value": 208.32
+		},
+		{
+			"source": -100,
+			"target": "Vanderlei Oliveira dos Santos",
+			"value": 25999.98
+		},
+		{
+			"source": "Vanderlei Oliveira dos Santos",
+			"target": 26449,
+			"value": 8666.66
+		},
+		{
+			"source": "Vanderlei Oliveira dos Santos",
+			"target": 26485,
+			"value": 8666.66
+		},
+		{
+			"source": "Vanderlei Oliveira dos Santos",
+			"target": 26518,
+			"value": 8666.66
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"value": 423.28999999999996
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"target": 26456,
+			"value": 169.54
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS LTDA. EPP",
+			"target": 26532,
+			"value": 253.75
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 850
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 26519,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 26521,
+			"value": 150
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 26520,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 26451,
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 26450,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 26522,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "RODRIGUES TORRES C D PET LTDA",
+			"value": 862.71
+		},
+		{
+			"source": "RODRIGUES TORRES C D PET LTDA",
+			"target": 26493,
+			"value": 193.26
+		},
+		{
+			"source": "RODRIGUES TORRES C D PET LTDA",
+			"target": 26464,
+			"value": 170
+		},
+		{
+			"source": "RODRIGUES TORRES C D PET LTDA",
+			"target": 26534,
+			"value": 251.45
+		},
+		{
+			"source": "RODRIGUES TORRES C D PET LTDA",
+			"target": 26494,
+			"value": 248
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 770.04
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 26453,
+			"value": 170.03
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 26489,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 26454,
+			"value": 200.01
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 26488,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 4888.200000000001
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 26508,
+			"value": 1584.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 26510,
+			"value": 1925.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 26511,
+			"value": 901.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 26509,
+			"value": 475.85
+		},
+		{
+			"source": -100,
+			"target": "Kalunga Comercio Industria Grafica Ltda",
+			"value": 92.3
+		},
+		{
+			"source": "Kalunga Comercio Industria Grafica Ltda",
+			"target": 26484,
+			"value": 92.3
+		},
+		{
+			"source": -100,
+			"target": "POSTO KALILANDIA LTDA",
+			"value": 1479.6499999999999
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26459,
+			"value": 267.01
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26492,
+			"value": 100
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26460,
+			"value": 277.2
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26462,
+			"value": 125.06
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26461,
+			"value": 175.03
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26463,
+			"value": 180.34
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26458,
+			"value": 255.01
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 26533,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "MP COMERCIO DE COMBUSTIVEIS LT",
+			"value": 124.99
+		},
+		{
+			"source": "MP COMERCIO DE COMBUSTIVEIS LT",
+			"target": 26529,
+			"value": 124.99
+		},
+		{
+			"source": -100,
+			"target": "BRISTOL HOTEL LTDA",
+			"value": 202.07
+		},
+		{
+			"source": "BRISTOL HOTEL LTDA",
+			"target": 26545,
+			"value": 202.07
+		},
+		{
+			"source": -100,
+			"target": "DOIS COMUNICACAO LTDA-ME",
+			"value": 7000
+		},
+		{
+			"source": "DOIS COMUNICACAO LTDA-ME",
+			"target": 26465,
+			"value": 3500
+		},
+		{
+			"source": "DOIS COMUNICACAO LTDA-ME",
+			"target": 26497,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"value": 500
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 26452,
+			"value": 200
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 26487,
+			"value": 100
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 26524,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "COELHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 137.89
+		},
+		{
+			"source": "COELHO COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 26526,
+			"value": 137.89
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 53.19
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 26542,
+			"value": 53.19
+		},
+		{
+			"source": -100,
+			"target": "SENA DERIVADOS DE PETROLEO LTDA",
+			"value": 267
+		},
+		{
+			"source": "SENA DERIVADOS DE PETROLEO LTDA",
+			"target": 26535,
+			"value": 267
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 88.8
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 26501,
+			"value": 14.55
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 26541,
+			"value": 50.4
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 26499,
+			"value": 17.55
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 26500,
+			"value": 6.3
+		},
+		{
+			"source": -100,
+			"target": "CATEGORIA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"value": 258.31
+		},
+		{
+			"source": "CATEGORIA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 26525,
+			"value": 258.31
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 10772.429999999998
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26514,
+			"value": 56.46
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26473,
+			"value": 1530.37
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26516,
+			"value": -555.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26515,
+			"value": 1390.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26474,
+			"value": 415
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26478,
+			"value": 1789.37
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26479,
+			"value": 1788.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26477,
+			"value": 794.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26475,
+			"value": 1459.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26512,
+			"value": 490
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26476,
+			"value": 1138.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 26513,
+			"value": 473.49
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 3166.0299999999997
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26506,
+			"value": 813.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26507,
+			"value": -774.29
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26472,
+			"value": -1344.29
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26469,
+			"value": 1562.95
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26467,
+			"value": 1263.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26470,
+			"value": 1413.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26471,
+			"value": -1201.79
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26505,
+			"value": 523.49
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 26468,
+			"value": 909.49
+		},
+		{
+			"source": -100,
+			"target": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"value": 691.44
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 26496,
+			"value": 208.18
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 26495,
+			"value": 91.65
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 26537,
+			"value": 144.87
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 26536,
+			"value": 246.74
+		},
+		{
+			"source": -100,
+			"target": "POSTO GARIBALDI REV DE COMB E",
+			"value": 77.22
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 26457,
+			"value": 77.22
+		},
+		{
+			"source": -100,
+			"target": "INFOSOL SOLUCOES DE INFORMATICA LTDA",
+			"value": 2748
+		},
+		{
+			"source": "INFOSOL SOLUCOES DE INFORMATICA LTDA",
+			"target": 26517,
+			"value": 1504.5
+		},
+		{
+			"source": "INFOSOL SOLUCOES DE INFORMATICA LTDA",
+			"target": 26483,
+			"value": 1243.5
+		},
+		{
+			"source": -100,
+			"target": "Lucas Paulino de Sousa Nogueira",
+			"value": 603
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 26447,
+			"value": 171.5
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 26448,
+			"value": 431.5
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"value": 154.4
+		},
+		{
+			"source": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"target": 26544,
+			"value": 59.4
+		},
+		{
+			"source": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
+			"target": 26543,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SAO JOAO LTDA",
+			"value": 208.14
+		},
+		{
+			"source": "AUTO POSTO SAO JOAO LTDA",
+			"target": 26523,
+			"value": 208.14
+		},
+		{
+			"source": -100,
+			"target": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
+			"value": 50
+		},
+		{
+			"source": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
+			"target": 26530,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "Eric Melo Pinheiro",
+			"value": 3500
+		},
+		{
+			"source": "Eric Melo Pinheiro",
+			"target": 26539,
+			"value": 3500
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA BAIANA DE JORNALISMO SA",
+			"value": 280.8
+		},
+		{
+			"source": "EMPRESA BAIANA DE JORNALISMO SA",
+			"target": 26503,
+			"value": 280.8
+		},
+		{
+			"source": -100,
+			"target": "MCMC VARIEDADES LTDA - EPP",
+			"value": 220.55
+		},
+		{
+			"source": "MCMC VARIEDADES LTDA - EPP",
+			"target": 26490,
+			"value": 220.55
+		},
+		{
+			"source": -100,
+			"target": "LIGUE TAXI",
+			"value": 23
+		},
+		{
+			"source": "LIGUE TAXI",
+			"target": 26504,
+			"value": 23
+		},
+		{
+			"source": -100,
+			"target": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"value": 122.3
+		},
+		{
+			"source": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 26538,
+			"value": 122.3
+		},
+		{
+			"source": -100,
+			"target": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"value": 151.8
+		},
+		{
+			"source": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"target": 26502,
+			"value": 151.8
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 1011.98
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 26546,
+			"value": 1011.98
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO VELA BRANCA LTDA",
+			"value": 128.57
+		},
+		{
+			"source": "AUTO POSTO VELA BRANCA LTDA",
+			"target": 26486,
+			"value": 128.57
+		},
+		{
+			"source": -100,
+			"target": "POSTO ALBALONGA LTDA",
+			"value": 97.32
+		},
+		{
+			"source": "POSTO ALBALONGA LTDA",
+			"target": 26491,
+			"value": 97.32
+		},
+		{
+			"source": -100,
+			"target": "GAIVOTA COM COMB LUB SERV LTDA",
+			"value": 176.45
+		},
+		{
+			"source": "GAIVOTA COM COMB LUB SERV LTDA",
+			"target": 26527,
+			"value": 176.45
+		}
+	]
+}

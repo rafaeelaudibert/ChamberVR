@@ -1,0 +1,1377 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "CARLOS SAMPAIO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 31.064408522632842,
+			"desc": 804.6,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 8785,
+			"name": 88,
+			"val": 1.9444826721501687,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 8786,
+			"name": 570.4,
+			"val": 2.756179516843809,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 8835,
+			"name": 73.1,
+			"val": 1.8639173769578603,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 8836,
+			"name": 73.1,
+			"val": 1.8639173769578603,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 6.298633252135583,
+			"desc": 205.04000000000002,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 8838,
+			"name": 135.59,
+			"val": 2.1322276607333674,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 8787,
+			"name": 20.65,
+			"val": 1.31492005599242,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 8837,
+			"name": 48.8,
+			"val": 1.6884198220027105,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 140.18984981747494,
+			"desc": 3030.4,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 8817,
+			"name": 1182.2,
+			"val": 3.0726909550128685,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 8770,
+			"name": 666.2,
+			"val": 2.823604628355158,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 8818,
+			"name": 1182,
+			"val": 3.0726174765452368,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 147.01430322228236,
+			"desc": 3161.2500000000005,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8828,
+			"name": 1276.38,
+			"val": 3.1059799904778433,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8829,
+			"name": 508.9,
+			"val": 2.7066324508732946,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8832,
+			"name": 425.13,
+			"val": 2.62852175275528,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8831,
+			"name": 611.95,
+			"val": 2.7867159391207528,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8830,
+			"name": 129.22,
+			"val": 2.11132973670415,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8827,
+			"name": 176.35,
+			"val": 2.2463754640035085,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 8826,
+			"name": 33.32,
+			"val": 1.52270499273475,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 807.1469970689831,
+			"desc": 14587.890000000001,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8864,
+			"name": 726.39,
+			"val": 2.8611698567482806,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8852,
+			"name": 405.2,
+			"val": 2.607669436688243,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8795,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8845,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8856,
+			"name": 545.2,
+			"val": 2.736555847162636,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8843,
+			"name": 241.2,
+			"val": 2.3823773034681137,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8849,
+			"name": 635.39,
+			"val": 2.8030403754596613,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8851,
+			"name": 245.39,
+			"val": 2.389856860618742,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8847,
+			"name": 143.39,
+			"val": 2.1565188647470275,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8861,
+			"name": 259.2,
+			"val": 2.413634997198556,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8846,
+			"name": 627.2,
+			"val": 2.797406049676382,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8857,
+			"name": 261.39,
+			"val": 2.4172889687537373,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8789,
+			"name": 840.39,
+			"val": 2.9244808759915806,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8796,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8790,
+			"name": 900.2,
+			"val": 2.95433900860246,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8791,
+			"name": 900.2,
+			"val": 2.95433900860246,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8855,
+			"name": 545.2,
+			"val": 2.736555847162636,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8842,
+			"name": 241.2,
+			"val": 2.3823773034681137,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8862,
+			"name": 259.2,
+			"val": 2.413634997198556,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8863,
+			"name": 726.39,
+			"val": 2.8611698567482806,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8860,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8794,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8793,
+			"name": 900.39,
+			"val": 2.954430662951166,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8854,
+			"name": 529.2,
+			"val": 2.7236198355154633,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8853,
+			"name": 405.2,
+			"val": 2.607669436688243,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8850,
+			"name": 635.39,
+			"val": 2.8030403754596613,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8859,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8848,
+			"name": 143.39,
+			"val": 2.1565188647470275,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8792,
+			"name": 900.2,
+			"val": 2.95433900860246,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8858,
+			"name": 261.39,
+			"val": 2.4172889687537373,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 8844,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 315.134777853695,
+			"desc": 6248.110000000001,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8810,
+			"name": 855.39,
+			"val": 2.9321641687987388,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8806,
+			"name": 366.2,
+			"val": 2.5637183399656776,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8808,
+			"name": 666.39,
+			"val": 2.8237284713257953,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8799,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8797,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8811,
+			"name": 855.39,
+			"val": 2.9321641687987388,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8802,
+			"name": 284.39,
+			"val": 2.45391432123785,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8798,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8809,
+			"name": 666.39,
+			"val": 2.8237284713257953,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8807,
+			"name": 806.39,
+			"val": 2.9065451334718033,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8804,
+			"name": 267.2,
+			"val": 2.426836453803508,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8800,
+			"name": 267.39,
+			"val": 2.427145161242989,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8803,
+			"name": 494.39,
+			"val": 2.6940696777184194,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8801,
+			"name": 284.39,
+			"val": 2.45391432123785,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 8805,
+			"name": 284.2,
+			"val": 2.4536240735914507,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Telefônia Brasil S/A - VIVO",
+			"name": "Telefônia Brasil S/A - VIVO",
+			"val": 172.86467598146007,
+			"desc": 3651.75,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 8781,
+			"name": 501.67,
+			"val": 2.7004181308782336,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 8779,
+			"name": 176.35,
+			"val": 2.2463754640035085,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 8783,
+			"name": 1597.68,
+			"val": 3.2034897986632767,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 8778,
+			"name": 33.32,
+			"val": 1.52270499273475,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 8780,
+			"name": 1276.53,
+			"val": 3.1060310257061596,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 8782,
+			"name": 66.2,
+			"val": 1.8208579894397,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"name": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"val": 55.322135208285545,
+			"desc": 1332.44,
+			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
+		},
+		{
+			"id": 8812,
+			"name": 702.14,
+			"val": 2.8464237149296228,
+			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
+		},
+		{
+			"id": 8765,
+			"name": 630.3,
+			"val": 2.799547307125615,
+			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 24.179995986293964,
+			"desc": 647.3299999999999,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8774,
+			"name": 30.37,
+			"val": 1.4824447919182653,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8773,
+			"name": 194.63,
+			"val": 2.2892097826449858,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8775,
+			"name": 1.17,
+			"val": 0.06818586174616162,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8822,
+			"name": 1.73,
+			"val": 0.23804610312879543,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8772,
+			"name": 132.44,
+			"val": 2.122019172080031,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8771,
+			"name": 0.54,
+			"val": -0.2676062401770315,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8819,
+			"name": 2.27,
+			"val": 0.35602585719312274,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8820,
+			"name": 159.78,
+			"val": 2.203522416822585,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 8821,
+			"name": 124.4,
+			"val": 2.0948203803548,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "Sanasa Campinas",
+			"name": "Sanasa Campinas",
+			"val": 10.591939301673525,
+			"desc": 318.46000000000004,
+			"group": "Sanasa Campinas"
+		},
+		{
+			"id": 8766,
+			"name": 155.71,
+			"val": 2.1923165047027373,
+			"group": "Sanasa Campinas"
+		},
+		{
+			"id": 8813,
+			"name": 162.75,
+			"val": 2.2115209972402297,
+			"group": "Sanasa Campinas"
+		},
+		{
+			"id": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
+			"name": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
+			"val": 369.0368983070507,
+			"desc": 7200,
+			"group": "ALTIS LOCADORA DE VEÍCULOS - EIRELI"
+		},
+		{
+			"id": 8841,
+			"name": 3600,
+			"val": 3.5563025007672873,
+			"group": "ALTIS LOCADORA DE VEÍCULOS - EIRELI"
+		},
+		{
+			"id": 8788,
+			"name": 3600,
+			"val": 3.5563025007672873,
+			"group": "ALTIS LOCADORA DE VEÍCULOS - EIRELI"
+		},
+		{
+			"id": "Editora Globo S.A. PARQUE GRÁFICO",
+			"name": "Editora Globo S.A. PARQUE GRÁFICO",
+			"val": 65.85869388529306,
+			"desc": 1553.13,
+			"group": "Editora Globo S.A. PARQUE GRÁFICO"
+		},
+		{
+			"id": 8840,
+			"name": 1553.13,
+			"val": 3.1912078085423046,
+			"group": "Editora Globo S.A. PARQUE GRÁFICO"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 22.65994543412194,
+			"desc": 611.95,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 8784,
+			"name": 611.95,
+			"val": 2.7867159391207528,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "CLARO S/A - NET",
+			"name": "CLARO S/A - NET",
+			"val": 12.944509767641566,
+			"desc": 377.96000000000004,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 8823,
+			"name": 149.99,
+			"val": 2.1760623051250794,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 8776,
+			"name": 36.98,
+			"val": 1.567966906823154,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": 8824,
+			"name": 190.99,
+			"val": 2.281010628721483,
+			"group": "CLARO S/A - NET"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO",
+			"name": "TELEFONICA BRASIL SA VIVO",
+			"val": 56.142321925903005,
+			"desc": 1349.77,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 8833,
+			"name": 1349.77,
+			"val": 3.1302597712796287,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.638791402327404,
+			"desc": 99.42,
+			"group": "RAMAL"
+		},
+		{
+			"id": 8777,
+			"name": 62.6,
+			"val": 1.7965743332104296,
+			"group": "RAMAL"
+		},
+		{
+			"id": 8825,
+			"name": 36.82,
+			"val": 1.566083784167996,
+			"group": "RAMAL"
+		},
+		{
+			"id": "ADT SERVIÇOS DE MONITORAMENTO LTDA",
+			"name": "ADT SERVIÇOS DE MONITORAMENTO LTDA",
+			"val": 22.85006953983698,
+			"desc": 616.39,
+			"group": "ADT SERVIÇOS DE MONITORAMENTO LTDA"
+		},
+		{
+			"id": 8816,
+			"name": 333.74,
+			"val": 2.5234082616089366,
+			"group": "ADT SERVIÇOS DE MONITORAMENTO LTDA"
+		},
+		{
+			"id": 8769,
+			"name": 282.65,
+			"val": 2.4512489897961376,
+			"group": "ADT SERVIÇOS DE MONITORAMENTO LTDA"
+		},
+		{
+			"id": "CORREIOS - IMPRESSO NORMAL",
+			"name": "CORREIOS - IMPRESSO NORMAL",
+			"val": 0.11319557902909279,
+			"desc": 8.95,
+			"group": "CORREIOS - IMPRESSO NORMAL"
+		},
+		{
+			"id": 8834,
+			"name": 8.95,
+			"val": 0.951823035315912,
+			"group": "CORREIOS - IMPRESSO NORMAL"
+		},
+		{
+			"id": "Terra Imóveis Ltda",
+			"name": "Terra Imóveis Ltda",
+			"val": 295.9886017496472,
+			"desc": 5906.5,
+			"group": "Terra Imóveis Ltda"
+		},
+		{
+			"id": 8815,
+			"name": 3040.25,
+			"val": 3.482909297147025,
+			"group": "Terra Imóveis Ltda"
+		},
+		{
+			"id": 8768,
+			"name": 2866.25,
+			"val": 3.4573140677379954,
+			"group": "Terra Imóveis Ltda"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA",
+			"name": "TELEFONICA BRASIL SA",
+			"val": 3.320651835975936,
+			"desc": 120.16,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 8767,
+			"name": 60.08,
+			"val": 1.7787299239961119,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 8814,
+			"name": 60.08,
+			"val": 1.7787299239961119,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 0.9597557295697252,
+			"desc": 43.96,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 8839,
+			"name": 43.96,
+			"val": 1.643057683751453,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 804.6
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 8785,
+			"value": 88
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 8786,
+			"value": 570.4
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 8835,
+			"value": 73.1
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 8836,
+			"value": 73.1
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 205.04000000000002
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 8838,
+			"value": 135.59
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 8787,
+			"value": 20.65
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 8837,
+			"value": 48.8
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 3030.4
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 8817,
+			"value": 1182.2
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 8770,
+			"value": 666.2
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 8818,
+			"value": 1182
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 3161.2500000000005
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8828,
+			"value": 1276.38
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8829,
+			"value": 508.9
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8832,
+			"value": 425.13
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8831,
+			"value": 611.95
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8830,
+			"value": 129.22
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8827,
+			"value": 176.35
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 8826,
+			"value": 33.32
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 14587.890000000001
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8864,
+			"value": 726.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8852,
+			"value": 405.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8795,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8845,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8856,
+			"value": 545.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8843,
+			"value": 241.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8849,
+			"value": 635.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8851,
+			"value": 245.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8847,
+			"value": 143.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8861,
+			"value": 259.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8846,
+			"value": 627.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8857,
+			"value": 261.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8789,
+			"value": 840.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8796,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8790,
+			"value": 900.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8791,
+			"value": 900.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8855,
+			"value": 545.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8842,
+			"value": 241.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8862,
+			"value": 259.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8863,
+			"value": 726.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8860,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8794,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8793,
+			"value": 900.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8854,
+			"value": 529.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8853,
+			"value": 405.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8850,
+			"value": 635.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8859,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8848,
+			"value": 143.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8792,
+			"value": 900.2
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8858,
+			"value": 261.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 8844,
+			"value": 330
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 6248.110000000001
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8810,
+			"value": 855.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8806,
+			"value": 366.2
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8808,
+			"value": 666.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8799,
+			"value": 50
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8797,
+			"value": 50
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8811,
+			"value": 855.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8802,
+			"value": 284.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8798,
+			"value": 50
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8809,
+			"value": 666.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8807,
+			"value": 806.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8804,
+			"value": 267.2
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8800,
+			"value": 267.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8803,
+			"value": 494.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8801,
+			"value": 284.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 8805,
+			"value": 284.2
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A - VIVO",
+			"value": 3651.75
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 8781,
+			"value": 501.67
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 8779,
+			"value": 176.35
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 8783,
+			"value": 1597.68
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 8778,
+			"value": 33.32
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 8780,
+			"value": 1276.53
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 8782,
+			"value": 66.2
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"value": 1332.44
+		},
+		{
+			"source": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"target": 8812,
+			"value": 702.14
+		},
+		{
+			"source": "COMPANHIA PAULISTA DE FORÇA E LUZ",
+			"target": 8765,
+			"value": 630.3
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 647.3299999999999
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8774,
+			"value": 30.37
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8773,
+			"value": 194.63
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8775,
+			"value": 1.17
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8822,
+			"value": 1.73
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8772,
+			"value": 132.44
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8771,
+			"value": 0.54
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8819,
+			"value": 2.27
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8820,
+			"value": 159.78
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 8821,
+			"value": 124.4
+		},
+		{
+			"source": -100,
+			"target": "Sanasa Campinas",
+			"value": 318.46000000000004
+		},
+		{
+			"source": "Sanasa Campinas",
+			"target": 8766,
+			"value": 155.71
+		},
+		{
+			"source": "Sanasa Campinas",
+			"target": 8813,
+			"value": 162.75
+		},
+		{
+			"source": -100,
+			"target": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
+			"value": 7200
+		},
+		{
+			"source": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
+			"target": 8841,
+			"value": 3600
+		},
+		{
+			"source": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
+			"target": 8788,
+			"value": 3600
+		},
+		{
+			"source": -100,
+			"target": "Editora Globo S.A. PARQUE GRÁFICO",
+			"value": 1553.13
+		},
+		{
+			"source": "Editora Globo S.A. PARQUE GRÁFICO",
+			"target": 8840,
+			"value": 1553.13
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 611.95
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 8784,
+			"value": 611.95
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A - NET",
+			"value": 377.96000000000004
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 8823,
+			"value": 149.99
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 8776,
+			"value": 36.98
+		},
+		{
+			"source": "CLARO S/A - NET",
+			"target": 8824,
+			"value": 190.99
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO",
+			"value": 1349.77
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 8833,
+			"value": 1349.77
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 99.42
+		},
+		{
+			"source": "RAMAL",
+			"target": 8777,
+			"value": 62.6
+		},
+		{
+			"source": "RAMAL",
+			"target": 8825,
+			"value": 36.82
+		},
+		{
+			"source": -100,
+			"target": "ADT SERVIÇOS DE MONITORAMENTO LTDA",
+			"value": 616.39
+		},
+		{
+			"source": "ADT SERVIÇOS DE MONITORAMENTO LTDA",
+			"target": 8816,
+			"value": 333.74
+		},
+		{
+			"source": "ADT SERVIÇOS DE MONITORAMENTO LTDA",
+			"target": 8769,
+			"value": 282.65
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - IMPRESSO NORMAL",
+			"value": 8.95
+		},
+		{
+			"source": "CORREIOS - IMPRESSO NORMAL",
+			"target": 8834,
+			"value": 8.95
+		},
+		{
+			"source": -100,
+			"target": "Terra Imóveis Ltda",
+			"value": 5906.5
+		},
+		{
+			"source": "Terra Imóveis Ltda",
+			"target": 8815,
+			"value": 3040.25
+		},
+		{
+			"source": "Terra Imóveis Ltda",
+			"target": 8768,
+			"value": 2866.25
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA",
+			"value": 120.16
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 8767,
+			"value": 60.08
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 8814,
+			"value": 60.08
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 43.96
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 8839,
+			"value": 43.96
+		}
+	]
+}

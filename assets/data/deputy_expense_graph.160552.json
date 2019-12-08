@@ -1,0 +1,1641 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "DANRLEI DE DEUS HINTERHOLZ"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 212.1370082950797,
+			"desc": 4383.74,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 12537,
+			"name": 996.39,
+			"val": 2.9984293602066887,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 12483,
+			"name": 202,
+			"val": 2.305351369446624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 12482,
+			"name": 1295.39,
+			"val": 3.1124005401151402,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 12538,
+			"name": 891.98,
+			"val": 2.950355116722519,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 12536,
+			"name": 997.98,
+			"val": 2.999121837903932,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 225.9517690038101,
+			"desc": 4638.030000000002,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12526,
+			"name": 1097.39,
+			"val": 3.0403609983563182,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12522,
+			"name": 1232.39,
+			"val": 3.090748165657205,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12525,
+			"name": 1097.39,
+			"val": 3.0403609983563182,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12531,
+			"name": -967.04,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12481,
+			"name": 1785.98,
+			"val": 3.251876591205231,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12519,
+			"name": 951.39,
+			"val": 2.9783585822660954,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12534,
+			"name": -397.04,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12530,
+			"name": -751.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12524,
+			"name": 1619.39,
+			"val": 3.209351453108477,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12532,
+			"name": -1043.99,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12528,
+			"name": -905.29,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12533,
+			"name": -751.39,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12527,
+			"name": -905.29,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12535,
+			"name": -1043.99,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12529,
+			"name": -397.04,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12523,
+			"name": 1016.39,
+			"val": 3.007060383487557,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12520,
+			"name": 951.39,
+			"val": 2.9783585822660954,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12521,
+			"name": 1097.39,
+			"val": 3.0403609983563182,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 12518,
+			"name": 951.39,
+			"val": 2.9783585822660954,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
+			"name": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
+			"val": 28.75559993325,
+			"desc": 752.35,
+			"group": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA"
+		},
+		{
+			"id": 12546,
+			"name": 210.24,
+			"val": 2.322715347879687,
+			"group": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA"
+		},
+		{
+			"id": 12547,
+			"name": 271.05,
+			"val": 2.4330494116166133,
+			"group": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA"
+		},
+		{
+			"id": 12466,
+			"name": 271.06,
+			"val": 2.43306543399148,
+			"group": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"name": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"val": 21.173784174574973,
+			"desc": 577.0899999999999,
+			"group": "COMERCIAL DE COMBUSTIVEIS VIP LTDA"
+		},
+		{
+			"id": 12548,
+			"name": 194.02,
+			"val": 2.2878465002495174,
+			"group": "COMERCIAL DE COMBUSTIVEIS VIP LTDA"
+		},
+		{
+			"id": 12549,
+			"name": 200.88,
+			"val": 2.302936699704866,
+			"group": "COMERCIAL DE COMBUSTIVEIS VIP LTDA"
+		},
+		{
+			"id": 12497,
+			"name": 182.19,
+			"val": 2.260524535842226,
+			"group": "COMERCIAL DE COMBUSTIVEIS VIP LTDA"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL",
+			"name": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL",
+			"val": 12.246549722533489,
+			"desc": 360.46,
+			"group": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL"
+		},
+		{
+			"id": 12550,
+			"name": 158.01,
+			"val": 2.198684573077143,
+			"group": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL"
+		},
+		{
+			"id": 12551,
+			"name": 202.45,
+			"val": 2.306317781104432,
+			"group": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL"
+		},
+		{
+			"id": "ZANIN E CIA LTDA",
+			"name": "ZANIN E CIA LTDA",
+			"val": 614.5396268996396,
+			"desc": 11400,
+			"group": "ZANIN E CIA LTDA"
+		},
+		{
+			"id": 12517,
+			"name": 5700,
+			"val": 3.7558748556724915,
+			"group": "ZANIN E CIA LTDA"
+		},
+		{
+			"id": 12480,
+			"name": 5700,
+			"val": 3.7558748556724915,
+			"group": "ZANIN E CIA LTDA"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA",
+			"name": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA",
+			"val": 18.438683469080644,
+			"desc": 512.16,
+			"group": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA"
+		},
+		{
+			"id": 12494,
+			"name": 160.07,
+			"val": 2.2043099449405372,
+			"group": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA"
+		},
+		{
+			"id": 12495,
+			"name": 185.89,
+			"val": 2.2692560274177733,
+			"group": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA"
+		},
+		{
+			"id": 12496,
+			"name": 166.2,
+			"val": 2.220631019448092,
+			"group": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 27.305922146950184,
+			"desc": 719.3,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 12545,
+			"name": 125.11,
+			"val": 2.097292024091896,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 12491,
+			"name": 181.42,
+			"val": 2.258685162607472,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 12490,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 12465,
+			"name": 156.62,
+			"val": 2.1948472196314444,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 12464,
+			"name": 156.15,
+			"val": 2.1935419885662175,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "DAKAR COML. DE COMBUSTIVEIS LTDA",
+			"name": "DAKAR COML. DE COMBUSTIVEIS LTDA",
+			"val": 23.926580208905925,
+			"desc": 641.45,
+			"group": "DAKAR COML. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 12552,
+			"name": 272.35,
+			"val": 2.435127379609151,
+			"group": "DAKAR COML. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 12499,
+			"name": 179.05,
+			"val": 2.252974325347922,
+			"group": "DAKAR COML. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 12500,
+			"name": 190.05,
+			"val": 2.2788678739391224,
+			"group": "DAKAR COML. DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "POSTO ROTA 80 LTDA",
+			"name": "POSTO ROTA 80 LTDA",
+			"val": 6.171820049995479,
+			"desc": 201.56,
+			"group": "POSTO ROTA 80 LTDA"
+		},
+		{
+			"id": 12558,
+			"name": 201.56,
+			"val": 2.304404349683731,
+			"group": "POSTO ROTA 80 LTDA"
+		},
+		{
+			"id": "ARMAZEM SA IMP E EXP LTDA",
+			"name": "ARMAZEM SA IMP E EXP LTDA",
+			"val": 471.1364146406617,
+			"desc": 8970,
+			"group": "ARMAZEM SA IMP E EXP LTDA"
+		},
+		{
+			"id": 12460,
+			"name": 2990,
+			"val": 3.4756711883244296,
+			"group": "ARMAZEM SA IMP E EXP LTDA"
+		},
+		{
+			"id": 12539,
+			"name": 2990,
+			"val": 3.4756711883244296,
+			"group": "ARMAZEM SA IMP E EXP LTDA"
+		},
+		{
+			"id": 12484,
+			"name": 2990,
+			"val": 3.4756711883244296,
+			"group": "ARMAZEM SA IMP E EXP LTDA"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 4.663603941967477,
+			"desc": 159.36,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 12515,
+			"name": 71.72,
+			"val": 1.8556402808901453,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 12514,
+			"name": 87.64,
+			"val": 1.9427023688886678,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"name": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"val": 26.413720260917316,
+			"desc": 698.86,
+			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
+		},
+		{
+			"id": 12468,
+			"name": 241.87,
+			"val": 2.3835820046064846,
+			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
+		},
+		{
+			"id": 12469,
+			"name": 256.99,
+			"val": 2.4099162243845464,
+			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
+		},
+		{
+			"id": 12504,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
+		},
+		{
+			"id": "RENATO SOUZA DOS SANTOS",
+			"name": "RENATO SOUZA DOS SANTOS",
+			"val": 464.1457455909633,
+			"desc": 8850,
+			"group": "RENATO SOUZA DOS SANTOS"
+		},
+		{
+			"id": 12461,
+			"name": 2950,
+			"val": 3.469822015978163,
+			"group": "RENATO SOUZA DOS SANTOS"
+		},
+		{
+			"id": 12486,
+			"name": 2950,
+			"val": 3.469822015978163,
+			"group": "RENATO SOUZA DOS SANTOS"
+		},
+		{
+			"id": 12541,
+			"name": 2950,
+			"val": 3.469822015978163,
+			"group": "RENATO SOUZA DOS SANTOS"
+		},
+		{
+			"id": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 14.546525025236589,
+			"desc": 417.7,
+			"group": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 12503,
+			"name": 192.6,
+			"val": 2.2846562827885157,
+			"group": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 12555,
+			"name": 225.1,
+			"val": 2.35237549500052,
+			"group": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Telefônia Brasil S/A - VIVO",
+			"name": "Telefônia Brasil S/A - VIVO",
+			"val": 10.01707683173993,
+			"desc": 303.68,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 12478,
+			"name": 303.68,
+			"val": 2.4824161907471987,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": "AUTO POSTO TULIO LTDA (FIG)",
+			"name": "AUTO POSTO TULIO LTDA (FIG)",
+			"val": 2.658512888023484,
+			"desc": 100.03,
+			"group": "AUTO POSTO TULIO LTDA (FIG)"
+		},
+		{
+			"id": 12543,
+			"name": 100.03,
+			"val": 2.000130268805227,
+			"group": "AUTO POSTO TULIO LTDA (FIG)"
+		},
+		{
+			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
+		},
+		{
+			"id": 12498,
+			"name": 100,
+			"val": 2,
+			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
+		},
+		{
+			"id": "COML. BUFFON COMB. E TRANSP. LTDA.- POSTO 71",
+			"name": "COML. BUFFON COMB. E TRANSP. LTDA.- POSTO 71",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "COML. BUFFON COMB. E TRANSP. LTDA.- POSTO 71"
+		},
+		{
+			"id": 12467,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "COML. BUFFON COMB. E TRANSP. LTDA.- POSTO 71"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 74.36364175894009,
+			"desc": 1728.5300000000002,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 12510,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 12475,
+			"name": 597.96,
+			"val": 2.776672133218682,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 12474,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 12509,
+			"name": 869.89,
+			"val": 2.9394643383503913,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 12476,
+			"name": 198.38,
+			"val": 2.2974978859256985,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "POSTO GAUCHA COM DE COMB LTDA",
+			"name": "POSTO GAUCHA COM DE COMB LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO GAUCHA COM DE COMB LTDA"
+		},
+		{
+			"id": 12557,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO GAUCHA COM DE COMB LTDA"
+		},
+		{
+			"id": "BMC Posto de Servico Ltda",
+			"name": "BMC Posto de Servico Ltda",
+			"val": 11.82852955936183,
+			"desc": 349.92,
+			"group": "BMC Posto de Servico Ltda"
+		},
+		{
+			"id": 12544,
+			"name": 196.21,
+			"val": 2.292721137774543,
+			"group": "BMC Posto de Servico Ltda"
+		},
+		{
+			"id": 12489,
+			"name": 153.71,
+			"val": 2.186702122565101,
+			"group": "BMC Posto de Servico Ltda"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 4.955270396051047,
+			"desc": 167.65,
+			"group": "RAMAL"
+		},
+		{
+			"id": 12512,
+			"name": 145.69,
+			"val": 2.163429743301472,
+			"group": "RAMAL"
+		},
+		{
+			"id": 12477,
+			"name": 21.96,
+			"val": 1.3416323357780544,
+			"group": "RAMAL"
+		},
+		{
+			"id": "POSTO DE SERVICOS ANCHIETA LTDA",
+			"name": "POSTO DE SERVICOS ANCHIETA LTDA",
+			"val": 14.88475938794696,
+			"desc": 426.02,
+			"group": "POSTO DE SERVICOS ANCHIETA LTDA"
+		},
+		{
+			"id": 12472,
+			"name": 201.56,
+			"val": 2.304404349683731,
+			"group": "POSTO DE SERVICOS ANCHIETA LTDA"
+		},
+		{
+			"id": 12506,
+			"name": 224.46,
+			"val": 2.3511389585818487,
+			"group": "POSTO DE SERVICOS ANCHIETA LTDA"
+		},
+		{
+			"id": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA",
+			"name": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA",
+			"val": 23.612398503267574,
+			"desc": 634.1500000000001,
+			"group": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA"
+		},
+		{
+			"id": 12508,
+			"name": 100,
+			"val": 2,
+			"group": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA"
+		},
+		{
+			"id": 12507,
+			"name": 267.29,
+			"val": 2.4269827109972466,
+			"group": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA"
+		},
+		{
+			"id": 12473,
+			"name": 266.86,
+			"val": 2.4262834816887793,
+			"group": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA"
+		},
+		{
+			"id": "POSTO SAO BENTO DO SUL COM DE COMB LTDA",
+			"name": "POSTO SAO BENTO DO SUL COM DE COMB LTDA",
+			"val": 6.465683498709931,
+			"desc": 209.61,
+			"group": "POSTO SAO BENTO DO SUL COM DE COMB LTDA"
+		},
+		{
+			"id": 12559,
+			"name": 209.61,
+			"val": 2.3214119979740055,
+			"group": "POSTO SAO BENTO DO SUL COM DE COMB LTDA"
+		},
+		{
+			"id": "Telefonia Claro",
+			"name": "Telefonia Claro",
+			"val": 8.607682857851998,
+			"desc": 266.97,
+			"group": "Telefonia Claro"
+		},
+		{
+			"id": 12462,
+			"name": 266.97,
+			"val": 2.4264624614901598,
+			"group": "Telefonia Claro"
+		},
+		{
+			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 12488,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 12487,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": "M & R COMERCIO DE COMBUSTIVEIS LTDA",
+			"name": "M & R COMERCIO DE COMBUSTIVEIS LTDA",
+			"val": 8.64722796461661,
+			"desc": 268.01,
+			"group": "M & R COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 12502,
+			"name": 268.01,
+			"val": 2.4281509987444454,
+			"group": "M & R COMERCIO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CLARO NET S/A",
+			"name": "CLARO NET S/A",
+			"val": 20.688684591791077,
+			"desc": 565.6500000000001,
+			"group": "CLARO NET S/A"
+		},
+		{
+			"id": 12485,
+			"name": 258.91,
+			"val": 2.4131488247143165,
+			"group": "CLARO NET S/A"
+		},
+		{
+			"id": 12540,
+			"name": 306.74,
+			"val": 2.4867704132389434,
+			"group": "CLARO NET S/A"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEL AVENIDA IPIRANGA LTDA",
+			"name": "POSTO DE COMBUSTIVEL AVENIDA IPIRANGA LTDA",
+			"val": 6.269450408995361,
+			"desc": 204.24,
+			"group": "POSTO DE COMBUSTIVEL AVENIDA IPIRANGA LTDA"
+		},
+		{
+			"id": 12505,
+			"name": 204.24,
+			"val": 2.310140801796194,
+			"group": "POSTO DE COMBUSTIVEL AVENIDA IPIRANGA LTDA"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 8.466804396726607,
+			"desc": 263.26,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 12513,
+			"name": 263.26,
+			"val": 2.4203848769604073,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "COMERCIAL DE COMBUST&Iacute;VEIS BRINO LTDA.",
+			"name": "COMERCIAL DE COMBUST&Iacute;VEIS BRINO LTDA.",
+			"val": 8.49943415020052,
+			"desc": 264.12,
+			"group": "COMERCIAL DE COMBUST&Iacute;VEIS BRINO LTDA."
+		},
+		{
+			"id": 12492,
+			"name": 264.12,
+			"val": 2.4218012886009728,
+			"group": "COMERCIAL DE COMBUST&Iacute;VEIS BRINO LTDA."
+		},
+		{
+			"id": "ETNA COMERCIO A VAREJO DE COMB LTDA",
+			"name": "ETNA COMERCIO A VAREJO DE COMB LTDA",
+			"val": 7.541270146065969,
+			"desc": 238.68,
+			"group": "ETNA COMERCIO A VAREJO DE COMB LTDA"
+		},
+		{
+			"id": 12554,
+			"name": 238.68,
+			"val": 2.3778160291720605,
+			"group": "ETNA COMERCIO A VAREJO DE COMB LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME",
+			"name": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME",
+			"val": 14.949912528207586,
+			"desc": 427.62,
+			"group": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME"
+		},
+		{
+			"id": 12470,
+			"name": 202.6,
+			"val": 2.3066394410242617,
+			"group": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME"
+		},
+		{
+			"id": 12471,
+			"name": 225.02,
+			"val": 2.3522211203496797,
+			"group": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME"
+		},
+		{
+			"id": "GARAGEM CARUMBÉ",
+			"name": "GARAGEM CARUMBÉ",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "GARAGEM CARUMBÉ"
+		},
+		{
+			"id": 12501,
+			"name": 100,
+			"val": 2,
+			"group": "GARAGEM CARUMBÉ"
+		},
+		{
+			"id": "LH RENT A CAR EIRELI",
+			"name": "LH RENT A CAR EIRELI",
+			"val": 771.2957955763027,
+			"desc": 14000,
+			"group": "LH RENT A CAR EIRELI"
+		},
+		{
+			"id": 12479,
+			"name": 7000,
+			"val": 3.845098040014257,
+			"group": "LH RENT A CAR EIRELI"
+		},
+		{
+			"id": 12516,
+			"name": 7000,
+			"val": 3.845098040014257,
+			"group": "LH RENT A CAR EIRELI"
+		},
+		{
+			"id": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+			"name": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "POSTO DE COMBUSTIVEIS PODIUM LTDA"
+		},
+		{
+			"id": 12556,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DE COMBUSTIVEIS PODIUM LTDA"
+		},
+		{
+			"id": "AUTO POSTO JK LTDA",
+			"name": "AUTO POSTO JK LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": 12542,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO JK LTDA"
+		},
+		{
+			"id": "CLARO S/A",
+			"name": "CLARO S/A",
+			"val": 1.9298618790181878,
+			"desc": 76.99,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": 12511,
+			"name": 76.99,
+			"val": 1.8864343196289384,
+			"group": "CLARO S/A"
+		},
+		{
+			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 12553,
+			"name": 100,
+			"val": 2,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO SERVICO LINDOLFO COLLOR LTDA F1",
+			"name": "AUTO SERVICO LINDOLFO COLLOR LTDA F1",
+			"val": 7.741149520781672,
+			"desc": 244.02,
+			"group": "AUTO SERVICO LINDOLFO COLLOR LTDA F1"
+		},
+		{
+			"id": 12463,
+			"name": 244.02,
+			"val": 2.3874254227882314,
+			"group": "AUTO SERVICO LINDOLFO COLLOR LTDA F1"
+		},
+		{
+			"id": "COMERCIAL DE COMBUSTIVEIS ANTONIO CARVALHO BR3 LTDA",
+			"name": "COMERCIAL DE COMBUSTIVEIS ANTONIO CARVALHO BR3 LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "COMERCIAL DE COMBUSTIVEIS ANTONIO CARVALHO BR3 LTDA"
+		},
+		{
+			"id": 12493,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "COMERCIAL DE COMBUSTIVEIS ANTONIO CARVALHO BR3 LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 4383.74
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 12537,
+			"value": 996.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 12483,
+			"value": 202
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 12482,
+			"value": 1295.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 12538,
+			"value": 891.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 12536,
+			"value": 997.98
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 4638.030000000002
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12526,
+			"value": 1097.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12522,
+			"value": 1232.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12525,
+			"value": 1097.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12531,
+			"value": -967.04
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12481,
+			"value": 1785.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12519,
+			"value": 951.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12534,
+			"value": -397.04
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12530,
+			"value": -751.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12524,
+			"value": 1619.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12532,
+			"value": -1043.99
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12528,
+			"value": -905.29
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12533,
+			"value": -751.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12527,
+			"value": -905.29
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12535,
+			"value": -1043.99
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12529,
+			"value": -397.04
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12523,
+			"value": 1016.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12520,
+			"value": 951.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12521,
+			"value": 1097.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 12518,
+			"value": 951.39
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
+			"value": 752.35
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
+			"target": 12546,
+			"value": 210.24
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
+			"target": 12547,
+			"value": 271.05
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
+			"target": 12466,
+			"value": 271.06
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"value": 577.0899999999999
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"target": 12548,
+			"value": 194.02
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"target": 12549,
+			"value": 200.88
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
+			"target": 12497,
+			"value": 182.19
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL",
+			"value": 360.46
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL",
+			"target": 12550,
+			"value": 158.01
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEL TAMANDARE LTDA -CORONEL",
+			"target": 12551,
+			"value": 202.45
+		},
+		{
+			"source": -100,
+			"target": "ZANIN E CIA LTDA",
+			"value": 11400
+		},
+		{
+			"source": "ZANIN E CIA LTDA",
+			"target": 12517,
+			"value": 5700
+		},
+		{
+			"source": "ZANIN E CIA LTDA",
+			"target": 12480,
+			"value": 5700
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA",
+			"value": 512.16
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA",
+			"target": 12494,
+			"value": 160.07
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA",
+			"target": 12495,
+			"value": 185.89
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS APARICIO BORGES LTDA",
+			"target": 12496,
+			"value": 166.2
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 719.3
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 12545,
+			"value": 125.11
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 12491,
+			"value": 181.42
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 12490,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 12465,
+			"value": 156.62
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 12464,
+			"value": 156.15
+		},
+		{
+			"source": -100,
+			"target": "DAKAR COML. DE COMBUSTIVEIS LTDA",
+			"value": 641.45
+		},
+		{
+			"source": "DAKAR COML. DE COMBUSTIVEIS LTDA",
+			"target": 12552,
+			"value": 272.35
+		},
+		{
+			"source": "DAKAR COML. DE COMBUSTIVEIS LTDA",
+			"target": 12499,
+			"value": 179.05
+		},
+		{
+			"source": "DAKAR COML. DE COMBUSTIVEIS LTDA",
+			"target": 12500,
+			"value": 190.05
+		},
+		{
+			"source": -100,
+			"target": "POSTO ROTA 80 LTDA",
+			"value": 201.56
+		},
+		{
+			"source": "POSTO ROTA 80 LTDA",
+			"target": 12558,
+			"value": 201.56
+		},
+		{
+			"source": -100,
+			"target": "ARMAZEM SA IMP E EXP LTDA",
+			"value": 8970
+		},
+		{
+			"source": "ARMAZEM SA IMP E EXP LTDA",
+			"target": 12460,
+			"value": 2990
+		},
+		{
+			"source": "ARMAZEM SA IMP E EXP LTDA",
+			"target": 12539,
+			"value": 2990
+		},
+		{
+			"source": "ARMAZEM SA IMP E EXP LTDA",
+			"target": 12484,
+			"value": 2990
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 159.36
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 12515,
+			"value": 71.72
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 12514,
+			"value": 87.64
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"value": 698.86
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"target": 12468,
+			"value": 241.87
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"target": 12469,
+			"value": 256.99
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS DICO LTDA",
+			"target": 12504,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "RENATO SOUZA DOS SANTOS",
+			"value": 8850
+		},
+		{
+			"source": "RENATO SOUZA DOS SANTOS",
+			"target": 12461,
+			"value": 2950
+		},
+		{
+			"source": "RENATO SOUZA DOS SANTOS",
+			"target": 12486,
+			"value": 2950
+		},
+		{
+			"source": "RENATO SOUZA DOS SANTOS",
+			"target": 12541,
+			"value": 2950
+		},
+		{
+			"source": -100,
+			"target": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 417.7
+		},
+		{
+			"source": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 12503,
+			"value": 192.6
+		},
+		{
+			"source": "POSTO 44 DE IJUI COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 12555,
+			"value": 225.1
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A - VIVO",
+			"value": 303.68
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 12478,
+			"value": 303.68
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO TULIO LTDA (FIG)",
+			"value": 100.03
+		},
+		{
+			"source": "AUTO POSTO TULIO LTDA (FIG)",
+			"target": 12543,
+			"value": 100.03
+		},
+		{
+			"source": -100,
+			"target": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"value": 100
+		},
+		{
+			"source": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+			"target": 12498,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "COML. BUFFON COMB. E TRANSP. LTDA.- POSTO 71",
+			"value": 150
+		},
+		{
+			"source": "COML. BUFFON COMB. E TRANSP. LTDA.- POSTO 71",
+			"target": 12467,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 1728.5300000000002
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 12510,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 12475,
+			"value": 597.96
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 12474,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 12509,
+			"value": 869.89
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 12476,
+			"value": 198.38
+		},
+		{
+			"source": -100,
+			"target": "POSTO GAUCHA COM DE COMB LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO GAUCHA COM DE COMB LTDA",
+			"target": 12557,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "BMC Posto de Servico Ltda",
+			"value": 349.92
+		},
+		{
+			"source": "BMC Posto de Servico Ltda",
+			"target": 12544,
+			"value": 196.21
+		},
+		{
+			"source": "BMC Posto de Servico Ltda",
+			"target": 12489,
+			"value": 153.71
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 167.65
+		},
+		{
+			"source": "RAMAL",
+			"target": 12512,
+			"value": 145.69
+		},
+		{
+			"source": "RAMAL",
+			"target": 12477,
+			"value": 21.96
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE SERVICOS ANCHIETA LTDA",
+			"value": 426.02
+		},
+		{
+			"source": "POSTO DE SERVICOS ANCHIETA LTDA",
+			"target": 12472,
+			"value": 201.56
+		},
+		{
+			"source": "POSTO DE SERVICOS ANCHIETA LTDA",
+			"target": 12506,
+			"value": 224.46
+		},
+		{
+			"source": -100,
+			"target": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA",
+			"value": 634.1500000000001
+		},
+		{
+			"source": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA",
+			"target": 12508,
+			"value": 100
+		},
+		{
+			"source": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA",
+			"target": 12507,
+			"value": 267.29
+		},
+		{
+			"source": "SHOPPING COMERCIAL E ABAST DE PROD DE PETROLEO C S LTDA",
+			"target": 12473,
+			"value": 266.86
+		},
+		{
+			"source": -100,
+			"target": "POSTO SAO BENTO DO SUL COM DE COMB LTDA",
+			"value": 209.61
+		},
+		{
+			"source": "POSTO SAO BENTO DO SUL COM DE COMB LTDA",
+			"target": 12559,
+			"value": 209.61
+		},
+		{
+			"source": -100,
+			"target": "Telefonia Claro",
+			"value": 266.97
+		},
+		{
+			"source": "Telefonia Claro",
+			"target": 12462,
+			"value": 266.97
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 12488,
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 12487,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "M & R COMERCIO DE COMBUSTIVEIS LTDA",
+			"value": 268.01
+		},
+		{
+			"source": "M & R COMERCIO DE COMBUSTIVEIS LTDA",
+			"target": 12502,
+			"value": 268.01
+		},
+		{
+			"source": -100,
+			"target": "CLARO NET S/A",
+			"value": 565.6500000000001
+		},
+		{
+			"source": "CLARO NET S/A",
+			"target": 12485,
+			"value": 258.91
+		},
+		{
+			"source": "CLARO NET S/A",
+			"target": 12540,
+			"value": 306.74
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEL AVENIDA IPIRANGA LTDA",
+			"value": 204.24
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEL AVENIDA IPIRANGA LTDA",
+			"target": 12505,
+			"value": 204.24
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 263.26
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 12513,
+			"value": 263.26
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUST&Iacute;VEIS BRINO LTDA.",
+			"value": 264.12
+		},
+		{
+			"source": "COMERCIAL DE COMBUST&Iacute;VEIS BRINO LTDA.",
+			"target": 12492,
+			"value": 264.12
+		},
+		{
+			"source": -100,
+			"target": "ETNA COMERCIO A VAREJO DE COMB LTDA",
+			"value": 238.68
+		},
+		{
+			"source": "ETNA COMERCIO A VAREJO DE COMB LTDA",
+			"target": 12554,
+			"value": 238.68
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME",
+			"value": 427.62
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME",
+			"target": 12470,
+			"value": 202.6
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS TATUIRA LTDA ME",
+			"target": 12471,
+			"value": 225.02
+		},
+		{
+			"source": -100,
+			"target": "GARAGEM CARUMBÉ",
+			"value": 100
+		},
+		{
+			"source": "GARAGEM CARUMBÉ",
+			"target": 12501,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "LH RENT A CAR EIRELI",
+			"value": 14000
+		},
+		{
+			"source": "LH RENT A CAR EIRELI",
+			"target": 12479,
+			"value": 7000
+		},
+		{
+			"source": "LH RENT A CAR EIRELI",
+			"target": 12516,
+			"value": 7000
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+			"value": 150
+		},
+		{
+			"source": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+			"target": 12556,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO JK LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO JK LTDA",
+			"target": 12542,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CLARO S/A",
+			"value": 76.99
+		},
+		{
+			"source": "CLARO S/A",
+			"target": 12511,
+			"value": 76.99
+		},
+		{
+			"source": -100,
+			"target": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 12553,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO SERVICO LINDOLFO COLLOR LTDA F1",
+			"value": 244.02
+		},
+		{
+			"source": "AUTO SERVICO LINDOLFO COLLOR LTDA F1",
+			"target": 12463,
+			"value": 244.02
+		},
+		{
+			"source": -100,
+			"target": "COMERCIAL DE COMBUSTIVEIS ANTONIO CARVALHO BR3 LTDA",
+			"value": 50
+		},
+		{
+			"source": "COMERCIAL DE COMBUSTIVEIS ANTONIO CARVALHO BR3 LTDA",
+			"target": 12493,
+			"value": 50
+		}
+	]
+}

@@ -1,0 +1,1725 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "CORONEL CHRISÓSTOMO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "SINPETAXI",
+			"name": "SINPETAXI",
+			"val": 10.76932433826455,
+			"desc": 323,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11210,
+			"name": 14,
+			"val": 1.146128035678238,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11192,
+			"name": 8,
+			"val": 0.9030899869919435,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11194,
+			"name": 16,
+			"val": 1.2041199826559248,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11201,
+			"name": 10,
+			"val": 1,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11203,
+			"name": 25,
+			"val": 1.3979400086720377,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11208,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11207,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11209,
+			"name": 27,
+			"val": 1.4313637641589874,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11196,
+			"name": 13,
+			"val": 1.1139433523068367,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11198,
+			"name": 11,
+			"val": 1.041392685158225,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11199,
+			"name": 16,
+			"val": 1.2041199826559248,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11202,
+			"name": 21,
+			"val": 1.3222192947339193,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11206,
+			"name": 10,
+			"val": 1,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11197,
+			"name": 11,
+			"val": 1.041392685158225,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11211,
+			"name": 16,
+			"val": 1.2041199826559248,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11205,
+			"name": 10,
+			"val": 1,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11193,
+			"name": 9,
+			"val": 0.9542425094393249,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11204,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11200,
+			"name": 13,
+			"val": 1.1139433523068367,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 11195,
+			"name": 19,
+			"val": 1.2787536009528289,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": "SINTAXI/DF",
+			"name": "SINTAXI/DF",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 11217,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 11218,
+			"name": 13,
+			"val": 1.1139433523068367,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 11213,
+			"name": 8,
+			"val": 0.9030899869919435,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 11215,
+			"name": 15,
+			"val": 1.1760912590556813,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 11214,
+			"name": 11,
+			"val": 1.041392685158225,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 11216,
+			"name": 33,
+			"val": 1.5185139398778875,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": 11212,
+			"name": 8,
+			"val": 0.9030899869919435,
+			"group": "SINTAXI/DF"
+		},
+		{
+			"id": "AUTO POSTO CATARINENSE LTDA",
+			"name": "AUTO POSTO CATARINENSE LTDA",
+			"val": 5.283857153311673,
+			"desc": 176.91,
+			"group": "AUTO POSTO CATARINENSE LTDA"
+		},
+		{
+			"id": 11161,
+			"name": 176.91,
+			"val": 2.247752382497469,
+			"group": "AUTO POSTO CATARINENSE LTDA"
+		},
+		{
+			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"val": 0.6143203424879725,
+			"desc": 31,
+			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 11186,
+			"name": 16,
+			"val": 1.2041199826559248,
+			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 11187,
+			"name": 15,
+			"val": 1.1760912590556813,
+			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
+		},
+		{
+			"id": "CAMPOS &amp; LUNA LTDA - EPP",
+			"name": "CAMPOS &amp; LUNA LTDA - EPP",
+			"val": 0.589588908282265,
+			"desc": 30.03,
+			"group": "CAMPOS &amp; LUNA LTDA - EPP"
+		},
+		{
+			"id": 11242,
+			"name": 30.03,
+			"val": 1.4775553321989812,
+			"group": "CAMPOS &amp; LUNA LTDA - EPP"
+		},
+		{
+			"id": "AUTO POSTO DOURADAO LTDA",
+			"name": "AUTO POSTO DOURADAO LTDA",
+			"val": 0.9888109456763332,
+			"desc": 45.01,
+			"group": "AUTO POSTO DOURADAO LTDA"
+		},
+		{
+			"id": 11238,
+			"name": 45.01,
+			"val": 1.6533090129384789,
+			"group": "AUTO POSTO DOURADAO LTDA"
+		},
+		{
+			"id": "AUTO POSTO PICANCO EIRELI",
+			"name": "AUTO POSTO PICANCO EIRELI",
+			"val": 5.645077055995952,
+			"desc": 187,
+			"group": "AUTO POSTO PICANCO EIRELI"
+		},
+		{
+			"id": 11240,
+			"name": 187,
+			"val": 2.271841606536499,
+			"group": "AUTO POSTO PICANCO EIRELI"
+		},
+		{
+			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"val": 0.5888268714730223,
+			"desc": 30,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 11191,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"name": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"val": 17.9324012499785,
+			"desc": 500.02,
+			"group": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 11248,
+			"name": 240.02,
+			"val": 2.380247431410548,
+			"group": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 11247,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 11166,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "SCHONS & SCHONS LTDA",
+			"name": "SCHONS & SCHONS LTDA",
+			"val": 10.809228210904111,
+			"desc": 324.02,
+			"group": "SCHONS & SCHONS LTDA"
+		},
+		{
+			"id": 11167,
+			"name": 100.02,
+			"val": 2.000086850211649,
+			"group": "SCHONS & SCHONS LTDA"
+		},
+		{
+			"id": 11168,
+			"name": 224,
+			"val": 2.3502480183341627,
+			"group": "SCHONS & SCHONS LTDA"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 335.14164449619767,
+			"desc": 6603.040000000001,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11225,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11228,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11226,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11234,
+			"name": 1829.39,
+			"val": 3.262306300770294,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11229,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11232,
+			"name": 1564.79,
+			"val": 3.1944560620353615,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11233,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11230,
+			"name": 1324.47,
+			"val": 3.1220421257272393,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11231,
+			"name": 1429.39,
+			"val": 3.1551507394553604,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 11227,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "PORTELAUTO VEICULOS LTDA ME",
+			"name": "PORTELAUTO VEICULOS LTDA ME",
+			"val": 650.4358456983957,
+			"desc": 12000,
+			"group": "PORTELAUTO VEICULOS LTDA ME"
+		},
+		{
+			"id": 11185,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "PORTELAUTO VEICULOS LTDA ME"
+		},
+		{
+			"id": "FABIANO DA SILVA COUTINHO ME",
+			"name": "FABIANO DA SILVA COUTINHO ME",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "FABIANO DA SILVA COUTINHO ME"
+		},
+		{
+			"id": 11257,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "FABIANO DA SILVA COUTINHO ME"
+		},
+		{
+			"id": 11175,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "FABIANO DA SILVA COUTINHO ME"
+		},
+		{
+			"id": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
+			"name": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA"
+		},
+		{
+			"id": 11253,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA"
+		},
+		{
+			"id": 11171,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA"
+		},
+		{
+			"id": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
+			"name": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
+			"val": 191.4525485545934,
+			"desc": 4000,
+			"group": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME"
+		},
+		{
+			"id": 11160,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME"
+		},
+		{
+			"id": 11235,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME"
+		},
+		{
+			"id": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP",
+			"name": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP",
+			"val": 1.129054705774567,
+			"desc": 50.01,
+			"group": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP"
+		},
+		{
+			"id": 11250,
+			"name": 50.01,
+			"val": 1.6990568545476676,
+			"group": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 107.42874210148769,
+			"desc": 2392.74,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 11222,
+			"name": 1241.39,
+			"val": 3.093908242610268,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 11221,
+			"name": 1151.35,
+			"val": 3.0612073653001173,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "UNITAXI DF",
+			"name": "UNITAXI DF",
+			"val": 1.329898923229561,
+			"desc": 57,
+			"group": "UNITAXI DF"
+		},
+		{
+			"id": 11220,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "UNITAXI DF"
+		},
+		{
+			"id": 11219,
+			"name": 27,
+			"val": 1.4313637641589874,
+			"group": "UNITAXI DF"
+		},
+		{
+			"id": "AUTO POSTO ALTERNATIVO EIRELI EPP",
+			"name": "AUTO POSTO ALTERNATIVO EIRELI EPP",
+			"val": 3.315307485892089,
+			"desc": 120,
+			"group": "AUTO POSTO ALTERNATIVO EIRELI EPP"
+		},
+		{
+			"id": 11237,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "AUTO POSTO ALTERNATIVO EIRELI EPP"
+		},
+		{
+			"id": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 9.875743018898707,
+			"desc": 300.03000000000003,
+			"group": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 11169,
+			"name": 100.04,
+			"val": 2.000173683058465,
+			"group": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 11251,
+			"name": 199.99,
+			"val": 2.301008280397,
+			"group": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 11.044330047682259,
+			"desc": 330.02,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11243,
+			"name": 230.02,
+			"val": 2.3617655991132995,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 11244,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"name": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA"
+		},
+		{
+			"id": 11174,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA"
+		},
+		{
+			"id": 11256,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 55.177920259455014,
+			"desc": 1329.39,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 11223,
+			"name": 1374.39,
+			"val": 3.13810998659149,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 11224,
+			"name": -45,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
+			"name": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
+			"val": 0.5384237512704516,
+			"desc": 28,
+			"group": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA"
+		},
+		{
+			"id": 11188,
+			"name": 28,
+			"val": 1.4471580313422192,
+			"group": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA"
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 1.6104052130834106,
+			"desc": 66.49,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 11183,
+			"name": 66.49,
+			"val": 1.8227563329513907,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME",
+			"name": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME"
+		},
+		{
+			"id": 11254,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME"
+		},
+		{
+			"id": "WK PRODUTORA",
+			"name": "WK PRODUTORA",
+			"val": 301.21792284919786,
+			"desc": 6000,
+			"group": "WK PRODUTORA"
+		},
+		{
+			"id": 11179,
+			"name": 6000,
+			"val": 3.778151250383644,
+			"group": "WK PRODUTORA"
+		},
+		{
+			"id": "C. G. DOS SANTOS &amp; CIA LTDA - ME",
+			"name": "C. G. DOS SANTOS &amp; CIA LTDA - ME",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "C. G. DOS SANTOS &amp; CIA LTDA - ME"
+		},
+		{
+			"id": 11241,
+			"name": 100,
+			"val": 2,
+			"group": "C. G. DOS SANTOS &amp; CIA LTDA - ME"
+		},
+		{
+			"id": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME",
+			"name": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME"
+		},
+		{
+			"id": 11178,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 28.349005090609854,
+			"desc": 743.1,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 11236,
+			"name": 743.1,
+			"val": 2.8710472613054994,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"name": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 11165,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 1.1925520619606158,
+			"desc": 52.24,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 11180,
+			"name": 52.24,
+			"val": 1.7180031682670176,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "INFORMANAHORA",
+			"name": "INFORMANAHORA",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "INFORMANAHORA"
+		},
+		{
+			"id": 11259,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "INFORMANAHORA"
+		},
+		{
+			"id": 11176,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "INFORMANAHORA"
+		},
+		{
+			"id": "AUTO POSTO IRMAOS BATISTA LTDA",
+			"name": "AUTO POSTO IRMAOS BATISTA LTDA",
+			"val": 6.99021023470861,
+			"desc": 223.86,
+			"group": "AUTO POSTO IRMAOS BATISTA LTDA"
+		},
+		{
+			"id": 11162,
+			"name": 223.86,
+			"val": 2.3499764994244727,
+			"group": "AUTO POSTO IRMAOS BATISTA LTDA"
+		},
+		{
+			"id": "AUTO POSTO FAZENDINHA LTDA - EPP",
+			"name": "AUTO POSTO FAZENDINHA LTDA - EPP",
+			"val": 2.658189411549134,
+			"desc": 100.02,
+			"group": "AUTO POSTO FAZENDINHA LTDA - EPP"
+		},
+		{
+			"id": 11239,
+			"name": 100.02,
+			"val": 2.000086850211649,
+			"group": "AUTO POSTO FAZENDINHA LTDA - EPP"
+		},
+		{
+			"id": "B.W.M. AUTO POSTO LTDA",
+			"name": "B.W.M. AUTO POSTO LTDA",
+			"val": 8.135369239305058,
+			"desc": 254.5,
+			"group": "B.W.M. AUTO POSTO LTDA"
+		},
+		{
+			"id": 11163,
+			"name": 254.5,
+			"val": 2.4056877866727775,
+			"group": "B.W.M. AUTO POSTO LTDA"
+		},
+		{
+			"id": "ROYAL COMBUSTIVEIS LTDA",
+			"name": "ROYAL COMBUSTIVEIS LTDA",
+			"val": 4.688488163558117,
+			"desc": 160.07,
+			"group": "ROYAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 11249,
+			"name": 160.07,
+			"val": 2.2043099449405372,
+			"group": "ROYAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "A. M. SOTO - ME",
+			"name": "A. M. SOTO - ME",
+			"val": 9.874582428595057,
+			"desc": 300,
+			"group": "A. M. SOTO - ME"
+		},
+		{
+			"id": 11252,
+			"name": 300,
+			"val": 2.4771212547196626,
+			"group": "A. M. SOTO - ME"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 2.5106530913725313,
+			"desc": 95.44,
+			"group": "RAMAL"
+		},
+		{
+			"id": 11181,
+			"name": 95.44,
+			"val": 1.9797304306622854,
+			"group": "RAMAL"
+		},
+		{
+			"id": "R.B RAPOSO - ME",
+			"name": "R.B RAPOSO - ME",
+			"val": 20.28052494573708,
+			"desc": 556,
+			"group": "R.B RAPOSO - ME"
+		},
+		{
+			"id": 11184,
+			"name": 556,
+			"val": 2.7450747915820575,
+			"group": "R.B RAPOSO - ME"
+		},
+		{
+			"id": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"name": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"val": 531.508495181978,
+			"desc": 10000,
+			"group": "NELSON CANEDO ADVOGADO ASSOCIADOS"
+		},
+		{
+			"id": 11170,
+			"name": 10000,
+			"val": 4,
+			"group": "NELSON CANEDO ADVOGADO ASSOCIADOS"
+		},
+		{
+			"id": "CANDEIAS AUTO POSTO LTDA",
+			"name": "CANDEIAS AUTO POSTO LTDA",
+			"val": 6.630002147887262,
+			"desc": 214.09,
+			"group": "CANDEIAS AUTO POSTO LTDA"
+		},
+		{
+			"id": 11164,
+			"name": 214.09,
+			"val": 2.330596382164847,
+			"group": "CANDEIAS AUTO POSTO LTDA"
+		},
+		{
+			"id": "HUDSON EDUARDO PESSOA 07437614642",
+			"name": "HUDSON EDUARDO PESSOA 07437614642",
+			"val": 17.931568569324174,
+			"desc": 500,
+			"group": "HUDSON EDUARDO PESSOA 07437614642"
+		},
+		{
+			"id": 11258,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "HUDSON EDUARDO PESSOA 07437614642"
+		},
+		{
+			"id": "ELIANE ALMEIDA ARAÚJO LEITE",
+			"name": "ELIANE ALMEIDA ARAÚJO LEITE",
+			"val": 87.7262742772967,
+			"desc": 2000,
+			"group": "ELIANE ALMEIDA ARAÚJO LEITE"
+		},
+		{
+			"id": 11173,
+			"name": 2000,
+			"val": 3.3010299956639813,
+			"group": "ELIANE ALMEIDA ARAÚJO LEITE"
+		},
+		{
+			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"val": 1.0442627041153958,
+			"desc": 47,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": 11190,
+			"name": 33,
+			"val": 1.5185139398778875,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": 11189,
+			"name": 14,
+			"val": 1.146128035678238,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"name": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": 11172,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": 11255,
+			"name": 1500,
+			"val": 3.1760912590556813,
+			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
+		},
+		{
+			"id": "POSTO DE GASOLINA RANONI LTDA",
+			"name": "POSTO DE GASOLINA RANONI LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "POSTO DE GASOLINA RANONI LTDA"
+		},
+		{
+			"id": 11246,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "POSTO DE GASOLINA RANONI LTDA"
+		},
+		{
+			"id": "RESTAURANTE LA-VARANDA LTDA - ME",
+			"name": "RESTAURANTE LA-VARANDA LTDA - ME",
+			"val": 4.4067399281737,
+			"desc": 152,
+			"group": "RESTAURANTE LA-VARANDA LTDA - ME"
+		},
+		{
+			"id": 11182,
+			"name": 152,
+			"val": 2.1818435879447726,
+			"group": "RESTAURANTE LA-VARANDA LTDA - ME"
+		},
+		{
+			"id": "NOGUEIRA E CIA LTDA",
+			"name": "NOGUEIRA E CIA LTDA",
+			"val": 7.965784284662087,
+			"desc": 250,
+			"group": "NOGUEIRA E CIA LTDA"
+		},
+		{
+			"id": 11245,
+			"name": 250,
+			"val": 2.3979400086720375,
+			"group": "NOGUEIRA E CIA LTDA"
+		},
+		{
+			"id": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
+			"name": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
+			"val": 39.86313713864835,
+			"desc": 1000,
+			"group": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA"
+		},
+		{
+			"id": 11177,
+			"name": 1000,
+			"val": 3,
+			"group": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "SINPETAXI",
+			"value": 323
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11210,
+			"value": 14
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11192,
+			"value": 8
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11194,
+			"value": 16
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11201,
+			"value": 10
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11203,
+			"value": 25
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11208,
+			"value": 12
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11207,
+			"value": 12
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11209,
+			"value": 27
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11196,
+			"value": 13
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11198,
+			"value": 11
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11199,
+			"value": 16
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11202,
+			"value": 21
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11206,
+			"value": 10
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11197,
+			"value": 11
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11211,
+			"value": 16
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11205,
+			"value": 10
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11193,
+			"value": 9
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11204,
+			"value": 50
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11200,
+			"value": 13
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 11195,
+			"value": 19
+		},
+		{
+			"source": -100,
+			"target": "SINTAXI/DF",
+			"value": 100
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 11217,
+			"value": 12
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 11218,
+			"value": 13
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 11213,
+			"value": 8
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 11215,
+			"value": 15
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 11214,
+			"value": 11
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 11216,
+			"value": 33
+		},
+		{
+			"source": "SINTAXI/DF",
+			"target": 11212,
+			"value": 8
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CATARINENSE LTDA",
+			"value": 176.91
+		},
+		{
+			"source": "AUTO POSTO CATARINENSE LTDA",
+			"target": 11161,
+			"value": 176.91
+		},
+		{
+			"source": -100,
+			"target": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"value": 31
+		},
+		{
+			"source": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"target": 11186,
+			"value": 16
+		},
+		{
+			"source": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"target": 11187,
+			"value": 15
+		},
+		{
+			"source": -100,
+			"target": "CAMPOS &amp; LUNA LTDA - EPP",
+			"value": 30.03
+		},
+		{
+			"source": "CAMPOS &amp; LUNA LTDA - EPP",
+			"target": 11242,
+			"value": 30.03
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DOURADAO LTDA",
+			"value": 45.01
+		},
+		{
+			"source": "AUTO POSTO DOURADAO LTDA",
+			"target": 11238,
+			"value": 45.01
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO PICANCO EIRELI",
+			"value": 187
+		},
+		{
+			"source": "AUTO POSTO PICANCO EIRELI",
+			"target": 11240,
+			"value": 187
+		},
+		{
+			"source": -100,
+			"target": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"value": 30
+		},
+		{
+			"source": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"target": 11191,
+			"value": 30
+		},
+		{
+			"source": -100,
+			"target": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"value": 500.02
+		},
+		{
+			"source": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 11248,
+			"value": 240.02
+		},
+		{
+			"source": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 11247,
+			"value": 200
+		},
+		{
+			"source": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 11166,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "SCHONS & SCHONS LTDA",
+			"value": 324.02
+		},
+		{
+			"source": "SCHONS & SCHONS LTDA",
+			"target": 11167,
+			"value": 100.02
+		},
+		{
+			"source": "SCHONS & SCHONS LTDA",
+			"target": 11168,
+			"value": 224
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 6603.040000000001
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11225,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11228,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11226,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11234,
+			"value": 1829.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11229,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11232,
+			"value": 1564.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11233,
+			"value": 210
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11230,
+			"value": 1324.47
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11231,
+			"value": 1429.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 11227,
+			"value": 49
+		},
+		{
+			"source": -100,
+			"target": "PORTELAUTO VEICULOS LTDA ME",
+			"value": 12000
+		},
+		{
+			"source": "PORTELAUTO VEICULOS LTDA ME",
+			"target": 11185,
+			"value": 12000
+		},
+		{
+			"source": -100,
+			"target": "FABIANO DA SILVA COUTINHO ME",
+			"value": 3000
+		},
+		{
+			"source": "FABIANO DA SILVA COUTINHO ME",
+			"target": 11257,
+			"value": 1500
+		},
+		{
+			"source": "FABIANO DA SILVA COUTINHO ME",
+			"target": 11175,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
+			"value": 3000
+		},
+		{
+			"source": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
+			"target": 11253,
+			"value": 1500
+		},
+		{
+			"source": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
+			"target": 11171,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
+			"value": 4000
+		},
+		{
+			"source": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
+			"target": 11160,
+			"value": 2000
+		},
+		{
+			"source": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
+			"target": 11235,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP",
+			"value": 50.01
+		},
+		{
+			"source": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP",
+			"target": 11250,
+			"value": 50.01
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 2392.74
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 11222,
+			"value": 1241.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 11221,
+			"value": 1151.35
+		},
+		{
+			"source": -100,
+			"target": "UNITAXI DF",
+			"value": 57
+		},
+		{
+			"source": "UNITAXI DF",
+			"target": 11220,
+			"value": 30
+		},
+		{
+			"source": "UNITAXI DF",
+			"target": 11219,
+			"value": 27
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ALTERNATIVO EIRELI EPP",
+			"value": 120
+		},
+		{
+			"source": "AUTO POSTO ALTERNATIVO EIRELI EPP",
+			"target": 11237,
+			"value": 120
+		},
+		{
+			"source": -100,
+			"target": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 300.03000000000003
+		},
+		{
+			"source": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 11169,
+			"value": 100.04
+		},
+		{
+			"source": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 11251,
+			"value": 199.99
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 330.02
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11243,
+			"value": 230.02
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 11244,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"value": 3000
+		},
+		{
+			"source": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"target": 11174,
+			"value": 1500
+		},
+		{
+			"source": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
+			"target": 11256,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 1329.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 11223,
+			"value": 1374.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 11224,
+			"value": -45
+		},
+		{
+			"source": -100,
+			"target": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
+			"value": 28
+		},
+		{
+			"source": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
+			"target": 11188,
+			"value": 28
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 66.49
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 11183,
+			"value": 66.49
+		},
+		{
+			"source": -100,
+			"target": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME",
+			"value": 500
+		},
+		{
+			"source": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME",
+			"target": 11254,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "WK PRODUTORA",
+			"value": 6000
+		},
+		{
+			"source": "WK PRODUTORA",
+			"target": 11179,
+			"value": 6000
+		},
+		{
+			"source": -100,
+			"target": "C. G. DOS SANTOS &amp; CIA LTDA - ME",
+			"value": 100
+		},
+		{
+			"source": "C. G. DOS SANTOS &amp; CIA LTDA - ME",
+			"target": 11241,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME",
+			"value": 1500
+		},
+		{
+			"source": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME",
+			"target": 11178,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 743.1
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 11236,
+			"value": 743.1
+		},
+		{
+			"source": -100,
+			"target": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"value": 100
+		},
+		{
+			"source": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+			"target": 11165,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 52.24
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 11180,
+			"value": 52.24
+		},
+		{
+			"source": -100,
+			"target": "INFORMANAHORA",
+			"value": 3000
+		},
+		{
+			"source": "INFORMANAHORA",
+			"target": 11259,
+			"value": 1500
+		},
+		{
+			"source": "INFORMANAHORA",
+			"target": 11176,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO IRMAOS BATISTA LTDA",
+			"value": 223.86
+		},
+		{
+			"source": "AUTO POSTO IRMAOS BATISTA LTDA",
+			"target": 11162,
+			"value": 223.86
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO FAZENDINHA LTDA - EPP",
+			"value": 100.02
+		},
+		{
+			"source": "AUTO POSTO FAZENDINHA LTDA - EPP",
+			"target": 11239,
+			"value": 100.02
+		},
+		{
+			"source": -100,
+			"target": "B.W.M. AUTO POSTO LTDA",
+			"value": 254.5
+		},
+		{
+			"source": "B.W.M. AUTO POSTO LTDA",
+			"target": 11163,
+			"value": 254.5
+		},
+		{
+			"source": -100,
+			"target": "ROYAL COMBUSTIVEIS LTDA",
+			"value": 160.07
+		},
+		{
+			"source": "ROYAL COMBUSTIVEIS LTDA",
+			"target": 11249,
+			"value": 160.07
+		},
+		{
+			"source": -100,
+			"target": "A. M. SOTO - ME",
+			"value": 300
+		},
+		{
+			"source": "A. M. SOTO - ME",
+			"target": 11252,
+			"value": 300
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 95.44
+		},
+		{
+			"source": "RAMAL",
+			"target": 11181,
+			"value": 95.44
+		},
+		{
+			"source": -100,
+			"target": "R.B RAPOSO - ME",
+			"value": 556
+		},
+		{
+			"source": "R.B RAPOSO - ME",
+			"target": 11184,
+			"value": 556
+		},
+		{
+			"source": -100,
+			"target": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"value": 10000
+		},
+		{
+			"source": "NELSON CANEDO ADVOGADO ASSOCIADOS",
+			"target": 11170,
+			"value": 10000
+		},
+		{
+			"source": -100,
+			"target": "CANDEIAS AUTO POSTO LTDA",
+			"value": 214.09
+		},
+		{
+			"source": "CANDEIAS AUTO POSTO LTDA",
+			"target": 11164,
+			"value": 214.09
+		},
+		{
+			"source": -100,
+			"target": "HUDSON EDUARDO PESSOA 07437614642",
+			"value": 500
+		},
+		{
+			"source": "HUDSON EDUARDO PESSOA 07437614642",
+			"target": 11258,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "ELIANE ALMEIDA ARAÚJO LEITE",
+			"value": 2000
+		},
+		{
+			"source": "ELIANE ALMEIDA ARAÚJO LEITE",
+			"target": 11173,
+			"value": 2000
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"value": 47
+		},
+		{
+			"source": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"target": 11190,
+			"value": 33
+		},
+		{
+			"source": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"target": 11189,
+			"value": 14
+		},
+		{
+			"source": -100,
+			"target": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"value": 3000
+		},
+		{
+			"source": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"target": 11172,
+			"value": 1500
+		},
+		{
+			"source": "CMP COMUNICACAO E ASSESSORIA LTDA",
+			"target": 11255,
+			"value": 1500
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE GASOLINA RANONI LTDA",
+			"value": 50
+		},
+		{
+			"source": "POSTO DE GASOLINA RANONI LTDA",
+			"target": 11246,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "RESTAURANTE LA-VARANDA LTDA - ME",
+			"value": 152
+		},
+		{
+			"source": "RESTAURANTE LA-VARANDA LTDA - ME",
+			"target": 11182,
+			"value": 152
+		},
+		{
+			"source": -100,
+			"target": "NOGUEIRA E CIA LTDA",
+			"value": 250
+		},
+		{
+			"source": "NOGUEIRA E CIA LTDA",
+			"target": 11245,
+			"value": 250
+		},
+		{
+			"source": -100,
+			"target": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
+			"value": 1000
+		},
+		{
+			"source": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
+			"target": 11177,
+			"value": 1000
+		}
+	]
+}

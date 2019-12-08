@@ -1,0 +1,1305 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "FÁBIO RAMALHO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 663.9576617746642,
+			"desc": 12225.259999999997,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18120,
+			"name": 902.39,
+			"val": 2.955394273952119,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18052,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18051,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18057,
+			"name": 733.05,
+			"val": 2.865133598083853,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18123,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18119,
+			"name": 875.39,
+			"val": 2.9422015811511817,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18125,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18122,
+			"name": 672.05,
+			"val": 2.8274015854292656,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18127,
+			"name": 960.79,
+			"val": 2.9826284742372517,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18049,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18053,
+			"name": 1335.05,
+			"val": 3.125497531106933,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18121,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18059,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18058,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18054,
+			"name": 642.05,
+			"val": 2.8075688503095857,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18056,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18126,
+			"name": 825.39,
+			"val": 2.916659202885076,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18055,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18050,
+			"name": 980.05,
+			"val": 2.991248233008992,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18060,
+			"name": 669.05,
+			"val": 2.8254585750363934,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 18124,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 616.8196864500561,
+			"desc": 11438.2,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18095,
+			"name": 369.05,
+			"val": 2.5670852096632357,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18096,
+			"name": 369.05,
+			"val": 2.5670852096632357,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18100,
+			"name": 725.05,
+			"val": 2.8603679568818157,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18088,
+			"name": 1679.39,
+			"val": 3.22515156283233,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18093,
+			"name": 768.05,
+			"val": 2.8853894934914943,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18092,
+			"name": 757.39,
+			"val": 2.879319566729501,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18130,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18089,
+			"name": 1979.17,
+			"val": 3.2964830993559824,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18098,
+			"name": 724.39,
+			"val": 2.859972446370354,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18090,
+			"name": 767.39,
+			"val": 2.8850161355280317,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18097,
+			"name": 369.05,
+			"val": 2.5670852096632357,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18099,
+			"name": 178,
+			"val": 2.250420002308894,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18086,
+			"name": 59,
+			"val": 1.7708520116421442,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18094,
+			"name": 665.05,
+			"val": 2.8228542977960265,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18091,
+			"name": 1800.17,
+			"val": 3.255313519867597,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18087,
+			"name": 59,
+			"val": 1.7708520116421442,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 18085,
+			"name": 139,
+			"val": 2.143014800254095,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 36.89446548773485,
+			"desc": 934.6700000000001,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18039,
+			"name": 180.13,
+			"val": 2.2555860490185573,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18040,
+			"name": 10.47,
+			"val": 1.0199466816788423,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18037,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18110,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18111,
+			"name": 109.98,
+			"val": 2.0413137153458605,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18036,
+			"name": 232.07,
+			"val": 2.3656190022545034,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18038,
+			"name": 163.79,
+			"val": 2.2142873829104013,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18041,
+			"name": 0.08,
+			"val": -1.0969100130080565,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18035,
+			"name": 79.72,
+			"val": 1.90156729002845,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18109,
+			"name": 11.93,
+			"val": 1.0766404436703418,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18112,
+			"name": 16.2,
+			"val": 1.209515014542631,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 18108,
+			"name": 68,
+			"val": 1.8325089127062364,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 169.2458602410472,
+			"desc": 3583.5399999999995,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18071,
+			"name": 1241.05,
+			"val": 3.093789278909417,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18077,
+			"name": -354.55,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18128,
+			"name": 627.05,
+			"val": 2.7973021721837035,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18129,
+			"name": -597.2,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18063,
+			"name": 398.39,
+			"val": 2.600308428648938,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18081,
+			"name": -264.63,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18075,
+			"name": -1931.17,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18072,
+			"name": 877.17,
+			"val": 2.94308376999904,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18079,
+			"name": -285,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18066,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18065,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18061,
+			"name": 398.39,
+			"val": 2.600308428648938,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18080,
+			"name": -909.75,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18068,
+			"name": 739.05,
+			"val": 2.8686738213305905,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18078,
+			"name": -1262.2,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18073,
+			"name": 1800.17,
+			"val": 3.255313519867597,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18069,
+			"name": 390,
+			"val": 2.591064607026499,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18067,
+			"name": 2031.17,
+			"val": 3.30774627346498,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18062,
+			"name": 398.39,
+			"val": 2.600308428648938,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18083,
+			"name": -739.7,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18070,
+			"name": 1327.05,
+			"val": 3.1228872863271415,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18076,
+			"name": -739.05,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18074,
+			"name": 1322.39,
+			"val": 3.1213595564124232,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18082,
+			"name": -618.83,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18084,
+			"name": -444.65,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 18064,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 17.508337431511944,
+			"desc": 489.82000000000005,
+			"group": "RAMAL"
+		},
+		{
+			"id": 18042,
+			"name": 253.58,
+			"val": 2.4041149975055958,
+			"group": "RAMAL"
+		},
+		{
+			"id": 18113,
+			"name": 236.24,
+			"val": 2.373353433957022,
+			"group": "RAMAL"
+		},
+		{
+			"id": "LOCUS ADMINISTRADORA DE IMOVEI",
+			"name": "LOCUS ADMINISTRADORA DE IMOVEI",
+			"val": 488.46386683704236,
+			"desc": 9266.76,
+			"group": "LOCUS ADMINISTRADORA DE IMOVEI"
+		},
+		{
+			"id": 18033,
+			"name": 4633.38,
+			"val": 3.6658979197014308,
+			"group": "LOCUS ADMINISTRADORA DE IMOVEI"
+		},
+		{
+			"id": 18101,
+			"name": 4633.38,
+			"val": 3.6658979197014308,
+			"group": "LOCUS ADMINISTRADORA DE IMOVEI"
+		},
+		{
+			"id": "POSTO J A LTDA",
+			"name": "POSTO J A LTDA",
+			"val": 21.61762278864303,
+			"desc": 587.53,
+			"group": "POSTO J A LTDA"
+		},
+		{
+			"id": 18104,
+			"name": 269.1,
+			"val": 2.4299136977637548,
+			"group": "POSTO J A LTDA"
+		},
+		{
+			"id": 18106,
+			"name": 152.81,
+			"val": 2.184151775723396,
+			"group": "POSTO J A LTDA"
+		},
+		{
+			"id": 18105,
+			"name": 165.62,
+			"val": 2.2191127803061685,
+			"group": "POSTO J A LTDA"
+		},
+		{
+			"id": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
+			"name": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
+			"val": 133.75169627693714,
+			"desc": 2906.38,
+			"group": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA"
+		},
+		{
+			"id": 18034,
+			"name": 1453.19,
+			"val": 3.162322400641433,
+			"group": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA"
+		},
+		{
+			"id": 18102,
+			"name": 1453.19,
+			"val": 3.162322400641433,
+			"group": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 85.95470727094722,
+			"desc": 1964.27,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 18047,
+			"name": 1935.27,
+			"val": 3.286741564357503,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 18048,
+			"name": 29,
+			"val": 1.462397997898956,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 4.3182197100835,
+			"desc": 149.45,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 18116,
+			"name": 53.8,
+			"val": 1.730782275666389,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 18115,
+			"name": 26.9,
+			"val": 1.429752280002408,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 18045,
+			"name": 26.9,
+			"val": 1.429752280002408,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 18117,
+			"name": 13.45,
+			"val": 1.1287222843384268,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 18044,
+			"name": 14.2,
+			"val": 1.1522883443830565,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 18046,
+			"name": 14.2,
+			"val": 1.1522883443830565,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "CEMIG DISTRIBUIÇÃO S.A.",
+			"name": "CEMIG DISTRIBUIÇÃO S.A.",
+			"val": 2.6491344148463503,
+			"desc": 99.74000000000001,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": 18031,
+			"name": 52.9,
+			"val": 1.7234556720351857,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": 18032,
+			"name": 46.84,
+			"val": 1.6706168864003255,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS",
+			"name": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS",
+			"val": 165.55520631891278,
+			"desc": 3513.83,
+			"group": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS"
+		},
+		{
+			"id": 18118,
+			"name": 3513.83,
+			"val": 3.545780746388686,
+			"group": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS"
+		},
+		{
+			"id": "POSTO SOUZA CHAVES LTDA",
+			"name": "POSTO SOUZA CHAVES LTDA",
+			"val": 8.07539634207809,
+			"desc": 252.91,
+			"group": "POSTO SOUZA CHAVES LTDA"
+		},
+		{
+			"id": 18107,
+			"name": 252.91,
+			"val": 2.402966001582279,
+			"group": "POSTO SOUZA CHAVES LTDA"
+		},
+		{
+			"id": "POSTO CABRAL LTDA",
+			"name": "POSTO CABRAL LTDA",
+			"val": 7.53379732662887,
+			"desc": 238.48,
+			"group": "POSTO CABRAL LTDA"
+		},
+		{
+			"id": 18103,
+			"name": 238.48,
+			"val": 2.3774519630245745,
+			"group": "POSTO CABRAL LTDA"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 29.285373632021447,
+			"desc": 764.38,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 18043,
+			"name": 382.19,
+			"val": 2.582279319554067,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 18114,
+			"name": 382.19,
+			"val": 2.582279319554067,
+			"group": "Telefônica Brasil S/A."
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 12225.259999999997
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18120,
+			"value": 902.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18052,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18051,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18057,
+			"value": 733.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18123,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18119,
+			"value": 875.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18125,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18122,
+			"value": 672.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18127,
+			"value": 960.79
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18049,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18053,
+			"value": 1335.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18121,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18059,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18058,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18054,
+			"value": 642.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18056,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18126,
+			"value": 825.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18055,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18050,
+			"value": 980.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18060,
+			"value": 669.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 18124,
+			"value": 330
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 11438.2
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18095,
+			"value": 369.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18096,
+			"value": 369.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18100,
+			"value": 725.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18088,
+			"value": 1679.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18093,
+			"value": 768.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18092,
+			"value": 757.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18130,
+			"value": 30
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18089,
+			"value": 1979.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18098,
+			"value": 724.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18090,
+			"value": 767.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18097,
+			"value": 369.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18099,
+			"value": 178
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18086,
+			"value": 59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18094,
+			"value": 665.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18091,
+			"value": 1800.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18087,
+			"value": 59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 18085,
+			"value": 139
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 934.6700000000001
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18039,
+			"value": 180.13
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18040,
+			"value": 10.47
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18037,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18110,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18111,
+			"value": 109.98
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18036,
+			"value": 232.07
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18038,
+			"value": 163.79
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18041,
+			"value": 0.08
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18035,
+			"value": 79.72
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18109,
+			"value": 11.93
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18112,
+			"value": 16.2
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 18108,
+			"value": 68
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 3583.5399999999995
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18071,
+			"value": 1241.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18077,
+			"value": -354.55
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18128,
+			"value": 627.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18129,
+			"value": -597.2
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18063,
+			"value": 398.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18081,
+			"value": -264.63
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18075,
+			"value": -1931.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18072,
+			"value": 877.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18079,
+			"value": -285
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18066,
+			"value": 60
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18065,
+			"value": 60
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18061,
+			"value": 398.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18080,
+			"value": -909.75
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18068,
+			"value": 739.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18078,
+			"value": -1262.2
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18073,
+			"value": 1800.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18069,
+			"value": 390
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18067,
+			"value": 2031.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18062,
+			"value": 398.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18083,
+			"value": -739.7
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18070,
+			"value": 1327.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18076,
+			"value": -739.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18074,
+			"value": 1322.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18082,
+			"value": -618.83
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18084,
+			"value": -444.65
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 18064,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 489.82000000000005
+		},
+		{
+			"source": "RAMAL",
+			"target": 18042,
+			"value": 253.58
+		},
+		{
+			"source": "RAMAL",
+			"target": 18113,
+			"value": 236.24
+		},
+		{
+			"source": -100,
+			"target": "LOCUS ADMINISTRADORA DE IMOVEI",
+			"value": 9266.76
+		},
+		{
+			"source": "LOCUS ADMINISTRADORA DE IMOVEI",
+			"target": 18033,
+			"value": 4633.38
+		},
+		{
+			"source": "LOCUS ADMINISTRADORA DE IMOVEI",
+			"target": 18101,
+			"value": 4633.38
+		},
+		{
+			"source": -100,
+			"target": "POSTO J A LTDA",
+			"value": 587.53
+		},
+		{
+			"source": "POSTO J A LTDA",
+			"target": 18104,
+			"value": 269.1
+		},
+		{
+			"source": "POSTO J A LTDA",
+			"target": 18106,
+			"value": 152.81
+		},
+		{
+			"source": "POSTO J A LTDA",
+			"target": 18105,
+			"value": 165.62
+		},
+		{
+			"source": -100,
+			"target": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
+			"value": 2906.38
+		},
+		{
+			"source": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
+			"target": 18034,
+			"value": 1453.19
+		},
+		{
+			"source": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
+			"target": 18102,
+			"value": 1453.19
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 1964.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 18047,
+			"value": 1935.27
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 18048,
+			"value": 29
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 149.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 18116,
+			"value": 53.8
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 18115,
+			"value": 26.9
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 18045,
+			"value": 26.9
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 18117,
+			"value": 13.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 18044,
+			"value": 14.2
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 18046,
+			"value": 14.2
+		},
+		{
+			"source": -100,
+			"target": "CEMIG DISTRIBUIÇÃO S.A.",
+			"value": 99.74000000000001
+		},
+		{
+			"source": "CEMIG DISTRIBUIÇÃO S.A.",
+			"target": 18031,
+			"value": 52.9
+		},
+		{
+			"source": "CEMIG DISTRIBUIÇÃO S.A.",
+			"target": 18032,
+			"value": 46.84
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS",
+			"value": 3513.83
+		},
+		{
+			"source": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS",
+			"target": 18118,
+			"value": 3513.83
+		},
+		{
+			"source": -100,
+			"target": "POSTO SOUZA CHAVES LTDA",
+			"value": 252.91
+		},
+		{
+			"source": "POSTO SOUZA CHAVES LTDA",
+			"target": 18107,
+			"value": 252.91
+		},
+		{
+			"source": -100,
+			"target": "POSTO CABRAL LTDA",
+			"value": 238.48
+		},
+		{
+			"source": "POSTO CABRAL LTDA",
+			"target": 18103,
+			"value": 238.48
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 764.38
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 18043,
+			"value": 382.19
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 18114,
+			"value": 382.19
+		}
+	]
+}

@@ -1,0 +1,1641 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "LÍDICE DA MATA"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"name": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"val": 10.74195007953958,
+			"desc": 322.3,
+			"group": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS."
+		},
+		{
+			"id": 30438,
+			"name": 322.3,
+			"val": 2.5082603055123345,
+			"group": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS."
+		},
+		{
+			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"val": 100.75384496833516,
+			"desc": 2260.58,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 30392,
+			"name": 279.29,
+			"val": 2.446055386031947,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 30394,
+			"name": 206.97,
+			"val": 2.315907399666257,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 30463,
+			"name": 174.17,
+			"val": 2.2409733518400037,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 30393,
+			"name": 693.29,
+			"val": 2.8409149359897135,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 30461,
+			"name": 262.05,
+			"val": 2.418384164038612,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": 30462,
+			"name": 644.81,
+			"val": 2.809431764081064,
+			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
+		},
+		{
+			"id": "DOMINGOS SÁVIO FERREIRA LESSA",
+			"name": "DOMINGOS SÁVIO FERREIRA LESSA",
+			"val": 138.60896142459893,
+			"desc": 3000,
+			"group": "DOMINGOS SÁVIO FERREIRA LESSA"
+		},
+		{
+			"id": 30487,
+			"name": 3000,
+			"val": 3.4771212547196626,
+			"group": "DOMINGOS SÁVIO FERREIRA LESSA"
+		},
+		{
+			"id": "AVIANCA BRASIL",
+			"name": "AVIANCA BRASIL",
+			"val": 92.11155561924464,
+			"desc": 2088.13,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 30418,
+			"name": 376.08,
+			"val": 2.5752802381801962,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 30421,
+			"name": 203.57,
+			"val": 2.308713776639004,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 30422,
+			"name": 203.57,
+			"val": 2.308713776639004,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 30419,
+			"name": 376.08,
+			"val": 2.5752802381801962,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 30488,
+			"name": 349.18,
+			"val": 2.5430493606395332,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 30423,
+			"name": 203.57,
+			"val": 2.308713776639004,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": 30420,
+			"name": 376.08,
+			"val": 2.5752802381801962,
+			"group": "AVIANCA BRASIL"
+		},
+		{
+			"id": "TAM LINHAS AEREAS S/A.",
+			"name": "TAM LINHAS AEREAS S/A.",
+			"val": 403.6210947995638,
+			"desc": 7803.970000000002,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30435,
+			"name": 1483.49,
+			"val": 3.171284623143958,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30429,
+			"name": 1052.98,
+			"val": 3.022420122399042,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30434,
+			"name": 948.98,
+			"val": 2.9772570596547254,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30431,
+			"name": 877.98,
+			"val": 2.943484622980627,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30426,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30436,
+			"name": 842.39,
+			"val": 2.9255132027042623,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30433,
+			"name": 742.98,
+			"val": 2.8709771233076236,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30430,
+			"name": 741.39,
+			"val": 2.8700467238919423,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30427,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30428,
+			"name": 312.39,
+			"val": 2.4946971231107367,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": 30432,
+			"name": 741.39,
+			"val": 2.8700467238919423,
+			"group": "TAM LINHAS AEREAS S/A."
+		},
+		{
+			"id": "TELETAXI",
+			"name": "TELETAXI",
+			"val": 21.539320099683305,
+			"desc": 585.69,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30445,
+			"name": 25.21,
+			"val": 1.401572845676446,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30454,
+			"name": 88,
+			"val": 1.9444826721501687,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30442,
+			"name": 65.45,
+			"val": 1.8159096508867747,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30452,
+			"name": 26,
+			"val": 1.414973347970818,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30449,
+			"name": 18,
+			"val": 1.255272505103306,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30450,
+			"name": 55,
+			"val": 1.7403626894942439,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30453,
+			"name": 48,
+			"val": 1.6812412373755872,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30448,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30447,
+			"name": 17,
+			"val": 1.2304489213782739,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30446,
+			"name": 21.61,
+			"val": 1.3346547668832414,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30443,
+			"name": 26.41,
+			"val": 1.421768401206924,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30444,
+			"name": 66.01,
+			"val": 1.8196097327515852,
+			"group": "TELETAXI"
+		},
+		{
+			"id": 30451,
+			"name": 99,
+			"val": 1.99563519459755,
+			"group": "TELETAXI"
+		},
+		{
+			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"val": 0.5888268714730223,
+			"desc": 30,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 30440,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": "POSTO GARIBALDI REV DE COMB E",
+			"name": "POSTO GARIBALDI REV DE COMB E",
+			"val": 42.74331465126556,
+			"desc": 1062.87,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 30477,
+			"name": 162.53,
+			"val": 2.210933535357622,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 30476,
+			"name": 131.34,
+			"val": 2.118397011951575,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 30410,
+			"name": 150.11,
+			"val": 2.1764096249558427,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 30412,
+			"name": 133.17,
+			"val": 2.124406399745029,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 30475,
+			"name": 140.87,
+			"val": 2.1488185146020182,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 30409,
+			"name": 149.73,
+			"val": 2.175308824585785,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": 30411,
+			"name": 195.12,
+			"val": 2.2903017873056744,
+			"group": "POSTO GARIBALDI REV DE COMB E"
+		},
+		{
+			"id": "COMERCIO DE PETROLEO RSSILVA LTDA",
+			"name": "COMERCIO DE PETROLEO RSSILVA LTDA",
+			"val": 4.337984943090071,
+			"desc": 150.02,
+			"group": "COMERCIO DE PETROLEO RSSILVA LTDA"
+		},
+		{
+			"id": 30406,
+			"name": 150.02,
+			"val": 2.1761491611265495,
+			"group": "COMERCIO DE PETROLEO RSSILVA LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 11.122052364828718,
+			"desc": 332,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 30470,
+			"name": 332,
+			"val": 2.5211380837040362,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
+			"name": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
+			"val": 8.894527248227709,
+			"desc": 274.5,
+			"group": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP"
+		},
+		{
+			"id": 30400,
+			"name": 274.5,
+			"val": 2.4385423487861106,
+			"group": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP"
+		},
+		{
+			"id": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI",
+			"name": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI",
+			"val": 4.373385469088151,
+			"desc": 151.04,
+			"group": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI"
+		},
+		{
+			"id": 30473,
+			"name": 151.04,
+			"val": 2.179091976953994,
+			"group": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI"
+		},
+		{
+			"id": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR",
+			"name": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR",
+			"val": 20.44959395795673,
+			"desc": 560,
+			"group": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR"
+		},
+		{
+			"id": 30391,
+			"name": 280,
+			"val": 2.4471580313422194,
+			"group": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR"
+		},
+		{
+			"id": 30460,
+			"name": 280,
+			"val": 2.4471580313422194,
+			"group": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR"
+		},
+		{
+			"id": "AUTO POSTO AEROPORTO LTDA",
+			"name": "AUTO POSTO AEROPORTO LTDA",
+			"val": 4.9090203092700975,
+			"desc": 166.34,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": 30401,
+			"name": 166.34,
+			"val": 2.2209966971473682,
+			"group": "AUTO POSTO AEROPORTO LTDA"
+		},
+		{
+			"id": "GOL LINHAS AÉREAS INTELIGENTES",
+			"name": "GOL LINHAS AÉREAS INTELIGENTES",
+			"val": 83.39303557704447,
+			"desc": 1912.47,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": 30424,
+			"name": 1912.47,
+			"val": 3.2815946313097624,
+			"group": "GOL LINHAS AÉREAS INTELIGENTES"
+		},
+		{
+			"id": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A",
+			"name": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A",
+			"val": 155.3641106729502,
+			"desc": 3320.54,
+			"group": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A"
+		},
+		{
+			"id": 30459,
+			"name": 1660.27,
+			"val": 3.220178720555105,
+			"group": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A"
+		},
+		{
+			"id": 30389,
+			"name": 1660.27,
+			"val": 3.220178720555105,
+			"group": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A"
+		},
+		{
+			"id": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.",
+			"name": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.",
+			"val": 284.46981344981987,
+			"desc": 5700,
+			"group": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA."
+		},
+		{
+			"id": 30464,
+			"name": 2850,
+			"val": 3.45484486000851,
+			"group": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA."
+		},
+		{
+			"id": 30395,
+			"name": 2850,
+			"val": 3.45484486000851,
+			"group": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA."
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"val": 0.3006836738032777,
+			"desc": 18.02,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": 30456,
+			"name": 18.02,
+			"val": 1.255754786643044,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
+		},
+		{
+			"id": "AUTO POSTO CRIOLO LTDA",
+			"name": "AUTO POSTO CRIOLO LTDA",
+			"val": 0.345754247590989,
+			"desc": 20,
+			"group": "AUTO POSTO CRIOLO LTDA"
+		},
+		{
+			"id": 30402,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "AUTO POSTO CRIOLO LTDA"
+		},
+		{
+			"id": "POSTO KALILANDIA LTDA",
+			"name": "POSTO KALILANDIA LTDA",
+			"val": 10.72005698853167,
+			"desc": 321.74,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 30413,
+			"name": 168.06,
+			"val": 2.2254643592072116,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": 30414,
+			"name": 153.68,
+			"val": 2.1866173518536374,
+			"group": "POSTO KALILANDIA LTDA"
+		},
+		{
+			"id": "POSTO DO CRISTO DE COMB LTDA",
+			"name": "POSTO DO CRISTO DE COMB LTDA",
+			"val": 4.371649220472036,
+			"desc": 150.99,
+			"group": "POSTO DO CRISTO DE COMB LTDA"
+		},
+		{
+			"id": 30408,
+			"name": 150.99,
+			"val": 2.178948185116802,
+			"group": "POSTO DO CRISTO DE COMB LTDA"
+		},
+		{
+			"id": "SPEED WAY - LOCADORA DE AUTOMOVEIS LTDA - ME",
+			"name": "SPEED WAY - LOCADORA DE AUTOMOVEIS LTDA - ME",
+			"val": 68.12067961455824,
+			"desc": 1600,
+			"group": "SPEED WAY - LOCADORA DE AUTOMOVEIS LTDA - ME"
+		},
+		{
+			"id": 30439,
+			"name": 1600,
+			"val": 3.204119982655925,
+			"group": "SPEED WAY - LOCADORA DE AUTOMOVEIS LTDA - ME"
+		},
+		{
+			"id": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA",
+			"name": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 30405,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"name": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"val": 29.959842972108234,
+			"desc": 779.66,
+			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
+		},
+		{
+			"id": 30468,
+			"name": 141.77,
+			"val": 2.151584339359897,
+			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
+		},
+		{
+			"id": 30396,
+			"name": 118.78,
+			"val": 2.074743320941003,
+			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
+		},
+		{
+			"id": 30398,
+			"name": 141.8,
+			"val": 2.151676230847048,
+			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
+		},
+		{
+			"id": 30467,
+			"name": 129.2,
+			"val": 2.111262513659065,
+			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
+		},
+		{
+			"id": 30397,
+			"name": 129.34,
+			"val": 2.111732856611098,
+			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
+		},
+		{
+			"id": 30466,
+			"name": 118.77,
+			"val": 2.0747067564718673,
+			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
+		},
+		{
+			"id": "INTERNACIONAL TRAVESSIAS SALVADOR S.A",
+			"name": "INTERNACIONAL TRAVESSIAS SALVADOR S.A",
+			"val": 5.745880829475941,
+			"desc": 189.8,
+			"group": "INTERNACIONAL TRAVESSIAS SALVADOR S.A"
+		},
+		{
+			"id": 30457,
+			"name": 94.9,
+			"val": 1.9772662124272926,
+			"group": "INTERNACIONAL TRAVESSIAS SALVADOR S.A"
+		},
+		{
+			"id": 30458,
+			"name": 94.9,
+			"val": 1.9772662124272926,
+			"group": "INTERNACIONAL TRAVESSIAS SALVADOR S.A"
+		},
+		{
+			"id": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"name": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"val": 34.5592653184538,
+			"desc": 882.87,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 30417,
+			"name": 141,
+			"val": 2.1492191126553797,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 30484,
+			"name": 149.8,
+			"val": 2.175511813363448,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 30485,
+			"name": 144.55,
+			"val": 2.160018096006677,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 30482,
+			"name": 135.24,
+			"val": 2.1311051620937316,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 30483,
+			"name": 161.89,
+			"val": 2.2092200230649928,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": 30481,
+			"name": 150.39,
+			"val": 2.1772189593327163,
+			"group": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
+		},
+		{
+			"id": "POSTO NOVO HORIZONTE LTDA",
+			"name": "POSTO NOVO HORIZONTE LTDA",
+			"val": 0.851508495181978,
+			"desc": 40,
+			"group": "POSTO NOVO HORIZONTE LTDA"
+		},
+		{
+			"id": 30415,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "POSTO NOVO HORIZONTE LTDA"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"val": 5.68644953203126,
+			"desc": 188.15,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 30403,
+			"name": 188.15,
+			"val": 2.2745042226558834,
+			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "ATACADAO DO PAPEL EIRELI",
+			"name": "ATACADAO DO PAPEL EIRELI",
+			"val": 2.5794350198240164,
+			"desc": 97.58,
+			"group": "ATACADAO DO PAPEL EIRELI"
+		},
+		{
+			"id": 30390,
+			"name": 97.58,
+			"val": 1.9893608137762473,
+			"group": "ATACADAO DO PAPEL EIRELI"
+		},
+		{
+			"id": "WALTER TANNUS FREITAS",
+			"name": "WALTER TANNUS FREITAS",
+			"val": 4.549582408395337,
+			"desc": 156.1,
+			"group": "WALTER TANNUS FREITAS"
+		},
+		{
+			"id": 30486,
+			"name": 156.1,
+			"val": 2.1934029030624176,
+			"group": "WALTER TANNUS FREITAS"
+		},
+		{
+			"id": "POSTO DA TORRE EIRELI - EPP",
+			"name": "POSTO DA TORRE EIRELI - EPP",
+			"val": 0.5888268714730223,
+			"desc": 30,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": 30474,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "POSTO DA TORRE EIRELI - EPP"
+		},
+		{
+			"id": "Postos Mataripe Abastecimentos e Servicos Ltda",
+			"name": "Postos Mataripe Abastecimentos e Servicos Ltda",
+			"val": 9.303787119714906,
+			"desc": 285.19,
+			"group": "Postos Mataripe Abastecimentos e Servicos Ltda"
+		},
+		{
+			"id": 30479,
+			"name": 148.03,
+			"val": 2.170349739139184,
+			"group": "Postos Mataripe Abastecimentos e Servicos Ltda"
+		},
+		{
+			"id": 30478,
+			"name": 137.16,
+			"val": 2.1372274764429067,
+			"group": "Postos Mataripe Abastecimentos e Servicos Ltda"
+		},
+		{
+			"id": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS",
+			"name": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS",
+			"val": 66.18974115779757,
+			"desc": 1560,
+			"group": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS"
+		},
+		{
+			"id": 30399,
+			"name": 780,
+			"val": 2.8920946026904804,
+			"group": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS"
+		},
+		{
+			"id": 30469,
+			"name": 780,
+			"val": 2.8920946026904804,
+			"group": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS"
+		},
+		{
+			"id": "LUIS FERNANDO BARONE LEITE",
+			"name": "LUIS FERNANDO BARONE LEITE",
+			"val": 30.15173007114529,
+			"desc": 784,
+			"group": "LUIS FERNANDO BARONE LEITE"
+		},
+		{
+			"id": 30465,
+			"name": 784,
+			"val": 2.8943160626844384,
+			"group": "LUIS FERNANDO BARONE LEITE"
+		},
+		{
+			"id": "GOL LINHAS AEREAS S.A.",
+			"name": "GOL LINHAS AEREAS S.A.",
+			"val": 47.00145906094691,
+			"desc": 1154.98,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": 30425,
+			"name": 1154.98,
+			"val": 3.062574463912283,
+			"group": "GOL LINHAS AEREAS S.A."
+		},
+		{
+			"id": "REVENDEDORA DE COMBUSTIVEL OLIVEIRA TORRES LTDA",
+			"name": "REVENDEDORA DE COMBUSTIVEL OLIVEIRA TORRES LTDA",
+			"val": 4.387278893991539,
+			"desc": 151.44,
+			"group": "REVENDEDORA DE COMBUSTIVEL OLIVEIRA TORRES LTDA"
+		},
+		{
+			"id": 30480,
+			"name": 151.44,
+			"val": 2.1802406009557402,
+			"group": "REVENDEDORA DE COMBUSTIVEL OLIVEIRA TORRES LTDA"
+		},
+		{
+			"id": "SINPETAXI",
+			"name": "SINPETAXI",
+			"val": 0.851508495181978,
+			"desc": 40,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 30441,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 11.970707227674545,
+			"desc": 353.51,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 30472,
+			"name": 174.5,
+			"val": 2.241795431295199,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 30404,
+			"name": 179.01,
+			"val": 2.2528772925637606,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 7.157325290362885,
+			"desc": 228.37,
+			"group": "RAMAL"
+		},
+		{
+			"id": 30437,
+			"name": 228.37,
+			"val": 2.3586390518934643,
+			"group": "RAMAL"
+		},
+		{
+			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"val": 0.20297184978653388,
+			"desc": 13.51,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": 30455,
+			"name": 13.51,
+			"val": 1.1306553490220306,
+			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
+		},
+		{
+			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"val": 0.5888268714730223,
+			"desc": 30,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": 30471,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
+		},
+		{
+			"id": "RODRIGUES TORRES C D PET LTDA",
+			"name": "RODRIGUES TORRES C D PET LTDA",
+			"val": 4.182287663135306,
+			"desc": 145.52,
+			"group": "RODRIGUES TORRES C D PET LTDA"
+		},
+		{
+			"id": 30416,
+			"name": 145.52,
+			"val": 2.162922686055427,
+			"group": "RODRIGUES TORRES C D PET LTDA"
+		},
+		{
+			"id": "HP COMERCIO E DERIVADOS DE PET",
+			"name": "HP COMERCIO E DERIVADOS DE PET",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "HP COMERCIO E DERIVADOS DE PET"
+		},
+		{
+			"id": 30407,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "HP COMERCIO E DERIVADOS DE PET"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"value": 322.3
+		},
+		{
+			"source": "ECT. EMP. BRAS. DE CORREIOS E TELEGRAFOS.",
+			"target": 30438,
+			"value": 322.3
+		},
+		{
+			"source": -100,
+			"target": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"value": 2260.58
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 30392,
+			"value": 279.29
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 30394,
+			"value": 206.97
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 30463,
+			"value": 174.17
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 30393,
+			"value": 693.29
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 30461,
+			"value": 262.05
+		},
+		{
+			"source": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+			"target": 30462,
+			"value": 644.81
+		},
+		{
+			"source": -100,
+			"target": "DOMINGOS SÁVIO FERREIRA LESSA",
+			"value": 3000
+		},
+		{
+			"source": "DOMINGOS SÁVIO FERREIRA LESSA",
+			"target": 30487,
+			"value": 3000
+		},
+		{
+			"source": -100,
+			"target": "AVIANCA BRASIL",
+			"value": 2088.13
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 30418,
+			"value": 376.08
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 30421,
+			"value": 203.57
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 30422,
+			"value": 203.57
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 30419,
+			"value": 376.08
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 30488,
+			"value": 349.18
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 30423,
+			"value": 203.57
+		},
+		{
+			"source": "AVIANCA BRASIL",
+			"target": 30420,
+			"value": 376.08
+		},
+		{
+			"source": -100,
+			"target": "TAM LINHAS AEREAS S/A.",
+			"value": 7803.970000000002
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30435,
+			"value": 1483.49
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30429,
+			"value": 1052.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30434,
+			"value": 948.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30431,
+			"value": 877.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30426,
+			"value": 30
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30436,
+			"value": 842.39
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30433,
+			"value": 742.98
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30430,
+			"value": 741.39
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30427,
+			"value": 30
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30428,
+			"value": 312.39
+		},
+		{
+			"source": "TAM LINHAS AEREAS S/A.",
+			"target": 30432,
+			"value": 741.39
+		},
+		{
+			"source": -100,
+			"target": "TELETAXI",
+			"value": 585.69
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30445,
+			"value": 25.21
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30454,
+			"value": 88
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30442,
+			"value": 65.45
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30452,
+			"value": 26
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30449,
+			"value": 18
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30450,
+			"value": 55
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30453,
+			"value": 48
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30448,
+			"value": 30
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30447,
+			"value": 17
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30446,
+			"value": 21.61
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30443,
+			"value": 26.41
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30444,
+			"value": 66.01
+		},
+		{
+			"source": "TELETAXI",
+			"target": 30451,
+			"value": 99
+		},
+		{
+			"source": -100,
+			"target": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"value": 30
+		},
+		{
+			"source": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"target": 30440,
+			"value": 30
+		},
+		{
+			"source": -100,
+			"target": "POSTO GARIBALDI REV DE COMB E",
+			"value": 1062.87
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 30477,
+			"value": 162.53
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 30476,
+			"value": 131.34
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 30410,
+			"value": 150.11
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 30412,
+			"value": 133.17
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 30475,
+			"value": 140.87
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 30409,
+			"value": 149.73
+		},
+		{
+			"source": "POSTO GARIBALDI REV DE COMB E",
+			"target": 30411,
+			"value": 195.12
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE PETROLEO RSSILVA LTDA",
+			"value": 150.02
+		},
+		{
+			"source": "COMERCIO DE PETROLEO RSSILVA LTDA",
+			"target": 30406,
+			"value": 150.02
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 332
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 30470,
+			"value": 332
+		},
+		{
+			"source": -100,
+			"target": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
+			"value": 274.5
+		},
+		{
+			"source": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
+			"target": 30400,
+			"value": 274.5
+		},
+		{
+			"source": -100,
+			"target": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI",
+			"value": 151.04
+		},
+		{
+			"source": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI",
+			"target": 30473,
+			"value": 151.04
+		},
+		{
+			"source": -100,
+			"target": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR",
+			"value": 560
+		},
+		{
+			"source": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR",
+			"target": 30391,
+			"value": 280
+		},
+		{
+			"source": "BAKONE COMÉRCIO E SERVIÇOS DE TELECOMUNICAÇÕES EIR",
+			"target": 30460,
+			"value": 280
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO AEROPORTO LTDA",
+			"value": 166.34
+		},
+		{
+			"source": "AUTO POSTO AEROPORTO LTDA",
+			"target": 30401,
+			"value": 166.34
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AÉREAS INTELIGENTES",
+			"value": 1912.47
+		},
+		{
+			"source": "GOL LINHAS AÉREAS INTELIGENTES",
+			"target": 30424,
+			"value": 1912.47
+		},
+		{
+			"source": -100,
+			"target": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A",
+			"value": 3320.54
+		},
+		{
+			"source": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A",
+			"target": 30459,
+			"value": 1660.27
+		},
+		{
+			"source": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A",
+			"target": 30389,
+			"value": 1660.27
+		},
+		{
+			"source": -100,
+			"target": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.",
+			"value": 5700
+		},
+		{
+			"source": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.",
+			"target": 30464,
+			"value": 2850
+		},
+		{
+			"source": "FMG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.",
+			"target": 30395,
+			"value": 2850
+		},
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"value": 18.02
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA.",
+			"target": 30456,
+			"value": 18.02
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CRIOLO LTDA",
+			"value": 20
+		},
+		{
+			"source": "AUTO POSTO CRIOLO LTDA",
+			"target": 30402,
+			"value": 20
+		},
+		{
+			"source": -100,
+			"target": "POSTO KALILANDIA LTDA",
+			"value": 321.74
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 30413,
+			"value": 168.06
+		},
+		{
+			"source": "POSTO KALILANDIA LTDA",
+			"target": 30414,
+			"value": 153.68
+		},
+		{
+			"source": -100,
+			"target": "POSTO DO CRISTO DE COMB LTDA",
+			"value": 150.99
+		},
+		{
+			"source": "POSTO DO CRISTO DE COMB LTDA",
+			"target": 30408,
+			"value": 150.99
+		},
+		{
+			"source": -100,
+			"target": "SPEED WAY - LOCADORA DE AUTOMOVEIS LTDA - ME",
+			"value": 1600
+		},
+		{
+			"source": "SPEED WAY - LOCADORA DE AUTOMOVEIS LTDA - ME",
+			"target": 30439,
+			"value": 1600
+		},
+		{
+			"source": -100,
+			"target": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA",
+			"value": 50
+		},
+		{
+			"source": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA",
+			"target": 30405,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"value": 779.66
+		},
+		{
+			"source": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"target": 30468,
+			"value": 141.77
+		},
+		{
+			"source": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"target": 30396,
+			"value": 118.78
+		},
+		{
+			"source": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"target": 30398,
+			"value": 141.8
+		},
+		{
+			"source": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"target": 30467,
+			"value": 129.2
+		},
+		{
+			"source": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"target": 30397,
+			"value": 129.34
+		},
+		{
+			"source": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+			"target": 30466,
+			"value": 118.77
+		},
+		{
+			"source": -100,
+			"target": "INTERNACIONAL TRAVESSIAS SALVADOR S.A",
+			"value": 189.8
+		},
+		{
+			"source": "INTERNACIONAL TRAVESSIAS SALVADOR S.A",
+			"target": 30457,
+			"value": 94.9
+		},
+		{
+			"source": "INTERNACIONAL TRAVESSIAS SALVADOR S.A",
+			"target": 30458,
+			"value": 94.9
+		},
+		{
+			"source": -100,
+			"target": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"value": 882.87
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 30417,
+			"value": 141
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 30484,
+			"value": 149.8
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 30485,
+			"value": 144.55
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 30482,
+			"value": 135.24
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 30483,
+			"value": 161.89
+		},
+		{
+			"source": "TOURING - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+			"target": 30481,
+			"value": 150.39
+		},
+		{
+			"source": -100,
+			"target": "POSTO NOVO HORIZONTE LTDA",
+			"value": 40
+		},
+		{
+			"source": "POSTO NOVO HORIZONTE LTDA",
+			"target": 30415,
+			"value": 40
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"value": 188.15
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+			"target": 30403,
+			"value": 188.15
+		},
+		{
+			"source": -100,
+			"target": "ATACADAO DO PAPEL EIRELI",
+			"value": 97.58
+		},
+		{
+			"source": "ATACADAO DO PAPEL EIRELI",
+			"target": 30390,
+			"value": 97.58
+		},
+		{
+			"source": -100,
+			"target": "WALTER TANNUS FREITAS",
+			"value": 156.1
+		},
+		{
+			"source": "WALTER TANNUS FREITAS",
+			"target": 30486,
+			"value": 156.1
+		},
+		{
+			"source": -100,
+			"target": "POSTO DA TORRE EIRELI - EPP",
+			"value": 30
+		},
+		{
+			"source": "POSTO DA TORRE EIRELI - EPP",
+			"target": 30474,
+			"value": 30
+		},
+		{
+			"source": -100,
+			"target": "Postos Mataripe Abastecimentos e Servicos Ltda",
+			"value": 285.19
+		},
+		{
+			"source": "Postos Mataripe Abastecimentos e Servicos Ltda",
+			"target": 30479,
+			"value": 148.03
+		},
+		{
+			"source": "Postos Mataripe Abastecimentos e Servicos Ltda",
+			"target": 30478,
+			"value": 137.16
+		},
+		{
+			"source": -100,
+			"target": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS",
+			"value": 1560
+		},
+		{
+			"source": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS",
+			"target": 30399,
+			"value": 780
+		},
+		{
+			"source": "W.MENDES ASSIST.TÉC E LOCAÇÃO  DE ELETRODOMÉSTICOS",
+			"target": 30469,
+			"value": 780
+		},
+		{
+			"source": -100,
+			"target": "LUIS FERNANDO BARONE LEITE",
+			"value": 784
+		},
+		{
+			"source": "LUIS FERNANDO BARONE LEITE",
+			"target": 30465,
+			"value": 784
+		},
+		{
+			"source": -100,
+			"target": "GOL LINHAS AEREAS S.A.",
+			"value": 1154.98
+		},
+		{
+			"source": "GOL LINHAS AEREAS S.A.",
+			"target": 30425,
+			"value": 1154.98
+		},
+		{
+			"source": -100,
+			"target": "REVENDEDORA DE COMBUSTIVEL OLIVEIRA TORRES LTDA",
+			"value": 151.44
+		},
+		{
+			"source": "REVENDEDORA DE COMBUSTIVEL OLIVEIRA TORRES LTDA",
+			"target": 30480,
+			"value": 151.44
+		},
+		{
+			"source": -100,
+			"target": "SINPETAXI",
+			"value": 40
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 30441,
+			"value": 40
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 353.51
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 30472,
+			"value": 174.5
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 30404,
+			"value": 179.01
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 228.37
+		},
+		{
+			"source": "RAMAL",
+			"target": 30437,
+			"value": 228.37
+		},
+		{
+			"source": -100,
+			"target": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"value": 13.51
+		},
+		{
+			"source": "UBER DO BRASIL TECNOLOGIA LTDA",
+			"target": 30455,
+			"value": 13.51
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"value": 30
+		},
+		{
+			"source": "AUTO POSTO CINCO ESTRELAS LTDA",
+			"target": 30471,
+			"value": 30
+		},
+		{
+			"source": -100,
+			"target": "RODRIGUES TORRES C D PET LTDA",
+			"value": 145.52
+		},
+		{
+			"source": "RODRIGUES TORRES C D PET LTDA",
+			"target": 30416,
+			"value": 145.52
+		},
+		{
+			"source": -100,
+			"target": "HP COMERCIO E DERIVADOS DE PET",
+			"value": 50
+		},
+		{
+			"source": "HP COMERCIO E DERIVADOS DE PET",
+			"target": 30407,
+			"value": 50
+		}
+	]
+}

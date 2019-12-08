@@ -1,0 +1,1713 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "PATRUS ANANIAS"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "HOTEL NACIONAL SA",
+			"name": "HOTEL NACIONAL SA",
+			"val": 5.038385836573638,
+			"desc": 170,
+			"group": "HOTEL NACIONAL SA"
+		},
+		{
+			"id": 39157,
+			"name": 170,
+			"val": 2.230448921378274,
+			"group": "HOTEL NACIONAL SA"
+		},
+		{
+			"id": "SINPETAXI",
+			"name": "SINPETAXI",
+			"val": 7.164376968873225,
+			"desc": 228.56,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 39172,
+			"name": 28.44,
+			"val": 1.4539295920577286,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 39174,
+			"name": 16.99,
+			"val": 1.2301933788690456,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 39176,
+			"name": 50.19,
+			"val": 1.7006171956820568,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 39175,
+			"name": 24.67,
+			"val": 1.3921691494897361,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 39177,
+			"name": 54.83,
+			"val": 1.7390182458834809,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 39106,
+			"name": 28.44,
+			"val": 1.4539295920577286,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": 39173,
+			"name": 25,
+			"val": 1.3979400086720377,
+			"group": "SINPETAXI"
+		},
+		{
+			"id": "RENATO ANTONIO SOARES",
+			"name": "RENATO ANTONIO SOARES",
+			"val": 2.023016990363956,
+			"desc": 80,
+			"group": "RENATO ANTONIO SOARES"
+		},
+		{
+			"id": 39158,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "RENATO ANTONIO SOARES"
+		},
+		{
+			"id": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658",
+			"name": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658",
+			"val": 98.96434762459599,
+			"desc": 2225,
+			"group": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658"
+		},
+		{
+			"id": 39093,
+			"name": 2100,
+			"val": 3.322219294733919,
+			"group": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658"
+		},
+		{
+			"id": 39092,
+			"name": 125,
+			"val": 2.0969100130080562,
+			"group": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658"
+		},
+		{
+			"id": "COPASA",
+			"name": "COPASA",
+			"val": 3.909201272631782,
+			"desc": 137.57,
+			"group": "COPASA"
+		},
+		{
+			"id": 39082,
+			"name": 68.78,
+			"val": 1.8374621714859947,
+			"group": "COPASA"
+		},
+		{
+			"id": 39119,
+			"name": 68.79,
+			"val": 1.8375253094496014,
+			"group": "COPASA"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 4.610741958398736,
+			"desc": 157.84999999999997,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 39137,
+			"name": 152,
+			"val": 2.1818435879447726,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 39138,
+			"name": 1.95,
+			"val": 0.290034611362518,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 39140,
+			"name": 1.95,
+			"val": 0.290034611362518,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 39139,
+			"name": 1.95,
+			"val": 0.290034611362518,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 17.527435674957022,
+			"desc": 490.28000000000003,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39134,
+			"name": 134.37,
+			"val": 2.1283023171643505,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39094,
+			"name": 334.47,
+			"val": 2.5243571701793437,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 39095,
+			"name": 21.44,
+			"val": 1.3312247810207325,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 0.21742012059826374,
+			"desc": 14.2,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 39141,
+			"name": 14.2,
+			"val": 1.1522883443830565,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "AUTO POSTO RODO DE LEOPOLDINA LTDA",
+			"name": "AUTO POSTO RODO DE LEOPOLDINA LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO RODO DE LEOPOLDINA LTDA"
+		},
+		{
+			"id": 39124,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO RODO DE LEOPOLDINA LTDA"
+		},
+		{
+			"id": "CLARO S.A",
+			"name": "CLARO S.A",
+			"val": 64.41321533740233,
+			"desc": 1523.09,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 39080,
+			"name": 644.92,
+			"val": 2.8095058453122137,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": 39117,
+			"name": 878.17,
+			"val": 2.9435785966752244,
+			"group": "CLARO S.A"
+		},
+		{
+			"id": "Fabiola Aguilar Ribeiro ME",
+			"name": "Fabiola Aguilar Ribeiro ME",
+			"val": 97.70893271402579,
+			"desc": 2200,
+			"group": "Fabiola Aguilar Ribeiro ME"
+		},
+		{
+			"id": 39131,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "Fabiola Aguilar Ribeiro ME"
+		},
+		{
+			"id": 39090,
+			"name": 600,
+			"val": 2.7781512503836434,
+			"group": "Fabiola Aguilar Ribeiro ME"
+		},
+		{
+			"id": 39089,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "Fabiola Aguilar Ribeiro ME"
+		},
+		{
+			"id": 39130,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "Fabiola Aguilar Ribeiro ME"
+		},
+		{
+			"id": "MALTA´S  LOCAÇÃO DE VEICULOS LTDA EPP",
+			"name": "MALTA´S  LOCAÇÃO DE VEICULOS LTDA EPP",
+			"val": 13.53602937384331,
+			"desc": 392.7,
+			"group": "MALTA´S  LOCAÇÃO DE VEICULOS LTDA EPP"
+		},
+		{
+			"id": 39104,
+			"name": 392.7,
+			"val": 2.594060901270418,
+			"group": "MALTA´S  LOCAÇÃO DE VEICULOS LTDA EPP"
+		},
+		{
+			"id": "PETROLEO MONTES CLAROS LTDA.",
+			"name": "PETROLEO MONTES CLAROS LTDA.",
+			"val": 1.4273604233944004,
+			"desc": 60.33,
+			"group": "PETROLEO MONTES CLAROS LTDA."
+		},
+		{
+			"id": 39087,
+			"name": 60.33,
+			"val": 1.7805333253164044,
+			"group": "PETROLEO MONTES CLAROS LTDA."
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 24.223987315903454,
+			"desc": 648.35,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 39097,
+			"name": 648.35,
+			"val": 2.8118095151811335,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI",
+			"name": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI",
+			"val": 630.3850310238794,
+			"desc": 11665.22,
+			"group": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI"
+		},
+		{
+			"id": 39079,
+			"name": 5832.61,
+			"val": 3.765862938111744,
+			"group": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI"
+		},
+		{
+			"id": 39116,
+			"name": 5832.61,
+			"val": 3.765862938111744,
+			"group": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI"
+		},
+		{
+			"id": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696",
+			"name": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696",
+			"val": 223.88049388330396,
+			"desc": 4600,
+			"group": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696"
+		},
+		{
+			"id": 39091,
+			"name": 2300,
+			"val": 3.361727836017593,
+			"group": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696"
+		},
+		{
+			"id": 39132,
+			"name": 2300,
+			"val": 3.361727836017593,
+			"group": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696"
+		},
+		{
+			"id": "HABIT LTDA",
+			"name": "HABIT LTDA",
+			"val": 1.500340394685871,
+			"desc": 62.8,
+			"group": "HABIT LTDA"
+		},
+		{
+			"id": 39100,
+			"name": 31.4,
+			"val": 1.4969296480732148,
+			"group": "HABIT LTDA"
+		},
+		{
+			"id": 39143,
+			"name": 31.4,
+			"val": 1.4969296480732148,
+			"group": "HABIT LTDA"
+		},
+		{
+			"id": "CEMIG DISTRIBUIÇÃO S.A.",
+			"name": "CEMIG DISTRIBUIÇÃO S.A.",
+			"val": 15.505914481053384,
+			"desc": 441.24,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": 39078,
+			"name": 213.02,
+			"val": 2.3284203803489505,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": 39115,
+			"name": 228.22,
+			"val": 2.3583537010332654,
+			"group": "CEMIG DISTRIBUIÇÃO S.A."
+		},
+		{
+			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"val": 28.573100049869627,
+			"desc": 748.2000000000002,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39145,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39154,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39148,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39147,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39146,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39144,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39152,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39151,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39155,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39153,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39149,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": 39150,
+			"name": 62.35,
+			"val": 1.7948364578145615,
+			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
+		},
+		{
+			"id": "CORREIOS - TELEGRAMA COM CÓPIA",
+			"name": "CORREIOS - TELEGRAMA COM CÓPIA",
+			"val": 0.2625473638692103,
+			"desc": 16.3,
+			"group": "CORREIOS - TELEGRAMA COM CÓPIA"
+		},
+		{
+			"id": 39142,
+			"name": 16.3,
+			"val": 1.212187604403958,
+			"group": "CORREIOS - TELEGRAMA COM CÓPIA"
+		},
+		{
+			"id": "Pontual Loc Car ltda",
+			"name": "Pontual Loc Car ltda",
+			"val": 35.329612288381334,
+			"desc": 900,
+			"group": "Pontual Loc Car ltda"
+		},
+		{
+			"id": 39105,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "Pontual Loc Car ltda"
+		},
+		{
+			"id": 39159,
+			"name": 400,
+			"val": 2.6020599913279625,
+			"group": "Pontual Loc Car ltda"
+		},
+		{
+			"id": "RWR SERVICOS DE TAXI LTDA",
+			"name": "RWR SERVICOS DE TAXI LTDA",
+			"val": 0.5135278502336545,
+			"desc": 27,
+			"group": "RWR SERVICOS DE TAXI LTDA"
+		},
+		{
+			"id": 39168,
+			"name": 27,
+			"val": 1.4313637641589874,
+			"group": "RWR SERVICOS DE TAXI LTDA"
+		},
+		{
+			"id": "AUTO POSTO SANTOS",
+			"name": "AUTO POSTO SANTOS",
+			"val": 2.864734505848254,
+			"desc": 106.37,
+			"group": "AUTO POSTO SANTOS"
+		},
+		{
+			"id": 39085,
+			"name": 106.37,
+			"val": 2.0268191592412266,
+			"group": "AUTO POSTO SANTOS"
+		},
+		{
+			"id": "CONCESSIONARIA BR-040 S.A.",
+			"name": "CONCESSIONARIA BR-040 S.A.",
+			"val": 0.14441407605025547,
+			"desc": 10.6,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 39161,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": 39162,
+			"name": 5.3,
+			"val": 0.724275869600789,
+			"group": "CONCESSIONARIA BR-040 S.A."
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 254.944282078892,
+			"desc": 5167.04,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 39111,
+			"name": 1119.05,
+			"val": 3.0488494915676467,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 39108,
+			"name": 1170.47,
+			"val": 3.0683602868908877,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 39109,
+			"name": 1093.05,
+			"val": 3.038640028580474,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 39107,
+			"name": 330,
+			"val": 2.5185139398778875,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 39110,
+			"name": 1454.47,
+			"val": 3.1627047678870843,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "CELT -COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"name": "CELT -COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"val": 3.1761275013297383,
+			"desc": 115.82,
+			"group": "CELT -COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": 39126,
+			"name": 115.82,
+			"val": 2.063783560597355,
+			"group": "CELT -COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
+		},
+		{
+			"id": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA",
+			"name": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA",
+			"val": 3.9239055001415495,
+			"desc": 138,
+			"group": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA"
+		},
+		{
+			"id": 39127,
+			"name": 138,
+			"val": 2.1398790864012365,
+			"group": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA"
+		},
+		{
+			"id": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP",
+			"name": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP",
+			"val": 213.0178654280516,
+			"desc": 4400,
+			"group": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP"
+		},
+		{
+			"id": 39118,
+			"name": 2200,
+			"val": 3.342422680822206,
+			"group": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP"
+		},
+		{
+			"id": 39081,
+			"name": 2200,
+			"val": 3.342422680822206,
+			"group": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 66.30977087199413,
+			"desc": 1562.49,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39114,
+			"name": 504.05,
+			"val": 2.7024736190785554,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39113,
+			"name": 554.39,
+			"val": 2.7438153879385494,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 39112,
+			"name": 504.05,
+			"val": 2.7024736190785554,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"name": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"val": 1.8275957887597138,
+			"desc": 73.66,
+			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": 39099,
+			"name": 73.66,
+			"val": 1.8672317145188941,
+			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
+		},
+		{
+			"id": "PAPELARIA CECILIANA LTDA",
+			"name": "PAPELARIA CECILIANA LTDA",
+			"val": 2.082157310716495,
+			"desc": 81.9,
+			"group": "PAPELARIA CECILIANA LTDA"
+		},
+		{
+			"id": 39121,
+			"name": 81.9,
+			"val": 1.9132839017604184,
+			"group": "PAPELARIA CECILIANA LTDA"
+		},
+		{
+			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"val": 2.6065078853984,
+			"desc": 98.42,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 39170,
+			"name": 46.42,
+			"val": 1.6667051361198988,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 39171,
+			"name": 23,
+			"val": 1.3617278360175928,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 39169,
+			"name": 29,
+			"val": 1.462397997898956,
+			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
+		},
+		{
+			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"val": 3.6963653375156276,
+			"desc": 131.32,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": 39165,
+			"name": 57.73,
+			"val": 1.761401557498631,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": 39166,
+			"name": 48.59,
+			"val": 1.6865468990630061,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": 39167,
+			"name": 25,
+			"val": 1.3979400086720377,
+			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
+		},
+		{
+			"id": "POSTO DE COMBUSTÍVEIS AQUI BETIM LTDA",
+			"name": "POSTO DE COMBUSTÍVEIS AQUI BETIM LTDA",
+			"val": 4.643289529649593,
+			"desc": 158.78,
+			"group": "POSTO DE COMBUSTÍVEIS AQUI BETIM LTDA"
+		},
+		{
+			"id": 39128,
+			"name": 158.78,
+			"val": 2.200795797608367,
+			"group": "POSTO DE COMBUSTÍVEIS AQUI BETIM LTDA"
+		},
+		{
+			"id": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ",
+			"name": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ",
+			"val": 37.851839944975325,
+			"desc": 955.8000000000001,
+			"group": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ"
+		},
+		{
+			"id": 39163,
+			"name": 219.6,
+			"val": 2.3416323357780544,
+			"group": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ"
+		},
+		{
+			"id": 39164,
+			"name": 736.2,
+			"val": 2.866995813110648,
+			"group": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 3.2735972590286972,
+			"desc": 118.75,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39135,
+			"name": 40.91,
+			"val": 1.6118294794983736,
+			"group": "RAMAL"
+		},
+		{
+			"id": 39096,
+			"name": 77.84,
+			"val": 1.8912028272602954,
+			"group": "RAMAL"
+		},
+		{
+			"id": "DIMAS LESSA HOTEL LTDA",
+			"name": "DIMAS LESSA HOTEL LTDA",
+			"val": 7.217850846868825,
+			"desc": 230,
+			"group": "DIMAS LESSA HOTEL LTDA"
+		},
+		{
+			"id": 39101,
+			"name": 100,
+			"val": 2,
+			"group": "DIMAS LESSA HOTEL LTDA"
+		},
+		{
+			"id": 39102,
+			"name": 130,
+			"val": 2.113943352306837,
+			"group": "DIMAS LESSA HOTEL LTDA"
+		},
+		{
+			"id": "AUTO POSTO COMETA DE LEOPOLDINA LTDA",
+			"name": "AUTO POSTO COMETA DE LEOPOLDINA LTDA",
+			"val": 3.315307485892089,
+			"desc": 120,
+			"group": "AUTO POSTO COMETA DE LEOPOLDINA LTDA"
+		},
+		{
+			"id": 39123,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "AUTO POSTO COMETA DE LEOPOLDINA LTDA"
+		},
+		{
+			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"val": 0.48884573068667353,
+			"desc": 26,
+			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
+		},
+		{
+			"id": 39160,
+			"name": 26,
+			"val": 1.414973347970818,
+			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
+		},
+		{
+			"id": "FC EVENTOS EIRELLI - ME",
+			"name": "FC EVENTOS EIRELLI - ME",
+			"val": 388.4713200539858,
+			"desc": 7540,
+			"group": "FC EVENTOS EIRELLI - ME"
+		},
+		{
+			"id": 39120,
+			"name": 3770,
+			"val": 3.576341350205793,
+			"group": "FC EVENTOS EIRELLI - ME"
+		},
+		{
+			"id": 39083,
+			"name": 3770,
+			"val": 3.576341350205793,
+			"group": "FC EVENTOS EIRELLI - ME"
+		},
+		{
+			"id": "ALEXANDRE MATTAR IND. HOTEL LTD",
+			"name": "ALEXANDRE MATTAR IND. HOTEL LTD",
+			"val": 13.026180524663042,
+			"desc": 380,
+			"group": "ALEXANDRE MATTAR IND. HOTEL LTD"
+		},
+		{
+			"id": 39156,
+			"name": 380,
+			"val": 2.57978359661681,
+			"group": "ALEXANDRE MATTAR IND. HOTEL LTD"
+		},
+		{
+			"id": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME",
+			"name": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME",
+			"val": 53.79033872116224,
+			"desc": 1300,
+			"group": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME"
+		},
+		{
+			"id": 39084,
+			"name": 650,
+			"val": 2.8129133566428557,
+			"group": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME"
+		},
+		{
+			"id": 39122,
+			"name": 650,
+			"val": 2.8129133566428557,
+			"group": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME"
+		},
+		{
+			"id": "ACF CAMPOS SALES LTDA",
+			"name": "ACF CAMPOS SALES LTDA",
+			"val": 0.6245701973429355,
+			"desc": 31.4,
+			"group": "ACF CAMPOS SALES LTDA"
+		},
+		{
+			"id": 39098,
+			"name": 31.4,
+			"val": 1.4969296480732148,
+			"group": "ACF CAMPOS SALES LTDA"
+		},
+		{
+			"id": "PALACE HOTEL",
+			"name": "PALACE HOTEL",
+			"val": 4.861772661402239,
+			"desc": 165,
+			"group": "PALACE HOTEL"
+		},
+		{
+			"id": 39103,
+			"name": 165,
+			"val": 2.2174839442139063,
+			"group": "PALACE HOTEL"
+		},
+		{
+			"id": "ANNA CLAUDIA PINHEIRO GOMES 10973600675",
+			"name": "ANNA CLAUDIA PINHEIRO GOMES 10973600675",
+			"val": 185.5616270844325,
+			"desc": 3890,
+			"group": "ANNA CLAUDIA PINHEIRO GOMES 10973600675"
+		},
+		{
+			"id": 39088,
+			"name": 1540,
+			"val": 3.187520720836463,
+			"group": "ANNA CLAUDIA PINHEIRO GOMES 10973600675"
+		},
+		{
+			"id": 39129,
+			"name": 2350,
+			"val": 3.3710678622717363,
+			"group": "ANNA CLAUDIA PINHEIRO GOMES 10973600675"
+		},
+		{
+			"id": "NATALIA FERRAZ MENEZES 0717860650",
+			"name": "NATALIA FERRAZ MENEZES 0717860650",
+			"val": 220.0727514689968,
+			"desc": 4530,
+			"group": "NATALIA FERRAZ MENEZES 0717860650"
+		},
+		{
+			"id": 39133,
+			"name": 4530,
+			"val": 3.656098202012832,
+			"group": "NATALIA FERRAZ MENEZES 0717860650"
+		},
+		{
+			"id": "Auto Posto Santa Cruz",
+			"name": "Auto Posto Santa Cruz",
+			"val": 4.407435185570845,
+			"desc": 152.02,
+			"group": "Auto Posto Santa Cruz"
+		},
+		{
+			"id": 39125,
+			"name": 152.02,
+			"val": 2.1819007281964047,
+			"group": "Auto Posto Santa Cruz"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO",
+			"name": "TELEFONICA BRASIL SA VIVO",
+			"val": 24.647118894416987,
+			"desc": 658.15,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": 39136,
+			"name": 658.15,
+			"val": 2.818324885632445,
+			"group": "TELEFONICA BRASIL SA VIVO"
+		},
+		{
+			"id": "BARRIGAO COMERCIAL LTDA",
+			"name": "BARRIGAO COMERCIAL LTDA",
+			"val": 2.72234953952437,
+			"desc": 102,
+			"group": "BARRIGAO COMERCIAL LTDA"
+		},
+		{
+			"id": 39086,
+			"name": 102,
+			"val": 2.0086001717619175,
+			"group": "BARRIGAO COMERCIAL LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "HOTEL NACIONAL SA",
+			"value": 170
+		},
+		{
+			"source": "HOTEL NACIONAL SA",
+			"target": 39157,
+			"value": 170
+		},
+		{
+			"source": -100,
+			"target": "SINPETAXI",
+			"value": 228.56
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 39172,
+			"value": 28.44
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 39174,
+			"value": 16.99
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 39176,
+			"value": 50.19
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 39175,
+			"value": 24.67
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 39177,
+			"value": 54.83
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 39106,
+			"value": 28.44
+		},
+		{
+			"source": "SINPETAXI",
+			"target": 39173,
+			"value": 25
+		},
+		{
+			"source": -100,
+			"target": "RENATO ANTONIO SOARES",
+			"value": 80
+		},
+		{
+			"source": "RENATO ANTONIO SOARES",
+			"target": 39158,
+			"value": 80
+		},
+		{
+			"source": -100,
+			"target": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658",
+			"value": 2225
+		},
+		{
+			"source": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658",
+			"target": 39093,
+			"value": 2100
+		},
+		{
+			"source": "RODRIGO CAMPANELLA GONCALVES BARBOSA 06008533658",
+			"target": 39092,
+			"value": 125
+		},
+		{
+			"source": -100,
+			"target": "COPASA",
+			"value": 137.57
+		},
+		{
+			"source": "COPASA",
+			"target": 39082,
+			"value": 68.78
+		},
+		{
+			"source": "COPASA",
+			"target": 39119,
+			"value": 68.79
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 157.84999999999997
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 39137,
+			"value": 152
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 39138,
+			"value": 1.95
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 39140,
+			"value": 1.95
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 39139,
+			"value": 1.95
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 490.28000000000003
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39134,
+			"value": 134.37
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39094,
+			"value": 334.47
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 39095,
+			"value": 21.44
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 14.2
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 39141,
+			"value": 14.2
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO RODO DE LEOPOLDINA LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO RODO DE LEOPOLDINA LTDA",
+			"target": 39124,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A",
+			"value": 1523.09
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 39080,
+			"value": 644.92
+		},
+		{
+			"source": "CLARO S.A",
+			"target": 39117,
+			"value": 878.17
+		},
+		{
+			"source": -100,
+			"target": "Fabiola Aguilar Ribeiro ME",
+			"value": 2200
+		},
+		{
+			"source": "Fabiola Aguilar Ribeiro ME",
+			"target": 39131,
+			"value": 600
+		},
+		{
+			"source": "Fabiola Aguilar Ribeiro ME",
+			"target": 39090,
+			"value": 600
+		},
+		{
+			"source": "Fabiola Aguilar Ribeiro ME",
+			"target": 39089,
+			"value": 500
+		},
+		{
+			"source": "Fabiola Aguilar Ribeiro ME",
+			"target": 39130,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "MALTA´S  LOCAÇÃO DE VEICULOS LTDA EPP",
+			"value": 392.7
+		},
+		{
+			"source": "MALTA´S  LOCAÇÃO DE VEICULOS LTDA EPP",
+			"target": 39104,
+			"value": 392.7
+		},
+		{
+			"source": -100,
+			"target": "PETROLEO MONTES CLAROS LTDA.",
+			"value": 60.33
+		},
+		{
+			"source": "PETROLEO MONTES CLAROS LTDA.",
+			"target": 39087,
+			"value": 60.33
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 648.35
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 39097,
+			"value": 648.35
+		},
+		{
+			"source": -100,
+			"target": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI",
+			"value": 11665.22
+		},
+		{
+			"source": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI",
+			"target": 39079,
+			"value": 5832.61
+		},
+		{
+			"source": "CENTRAL FINANCEIRA DE RECEBIVEIS EIRELI",
+			"target": 39116,
+			"value": 5832.61
+		},
+		{
+			"source": -100,
+			"target": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696",
+			"value": 4600
+		},
+		{
+			"source": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696",
+			"target": 39091,
+			"value": 2300
+		},
+		{
+			"source": "IGOR FERNANDO DA COSTA OLIVEIRA 01321187696",
+			"target": 39132,
+			"value": 2300
+		},
+		{
+			"source": -100,
+			"target": "HABIT LTDA",
+			"value": 62.8
+		},
+		{
+			"source": "HABIT LTDA",
+			"target": 39100,
+			"value": 31.4
+		},
+		{
+			"source": "HABIT LTDA",
+			"target": 39143,
+			"value": 31.4
+		},
+		{
+			"source": -100,
+			"target": "CEMIG DISTRIBUIÇÃO S.A.",
+			"value": 441.24
+		},
+		{
+			"source": "CEMIG DISTRIBUIÇÃO S.A.",
+			"target": 39078,
+			"value": 213.02
+		},
+		{
+			"source": "CEMIG DISTRIBUIÇÃO S.A.",
+			"target": 39115,
+			"value": 228.22
+		},
+		{
+			"source": -100,
+			"target": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"value": 748.2000000000002
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39145,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39154,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39148,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39147,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39146,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39144,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39152,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39151,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39155,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39153,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39149,
+			"value": 62.35
+		},
+		{
+			"source": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+			"target": 39150,
+			"value": 62.35
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - TELEGRAMA COM CÓPIA",
+			"value": 16.3
+		},
+		{
+			"source": "CORREIOS - TELEGRAMA COM CÓPIA",
+			"target": 39142,
+			"value": 16.3
+		},
+		{
+			"source": -100,
+			"target": "Pontual Loc Car ltda",
+			"value": 900
+		},
+		{
+			"source": "Pontual Loc Car ltda",
+			"target": 39105,
+			"value": 500
+		},
+		{
+			"source": "Pontual Loc Car ltda",
+			"target": 39159,
+			"value": 400
+		},
+		{
+			"source": -100,
+			"target": "RWR SERVICOS DE TAXI LTDA",
+			"value": 27
+		},
+		{
+			"source": "RWR SERVICOS DE TAXI LTDA",
+			"target": 39168,
+			"value": 27
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO SANTOS",
+			"value": 106.37
+		},
+		{
+			"source": "AUTO POSTO SANTOS",
+			"target": 39085,
+			"value": 106.37
+		},
+		{
+			"source": -100,
+			"target": "CONCESSIONARIA BR-040 S.A.",
+			"value": 10.6
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 39161,
+			"value": 5.3
+		},
+		{
+			"source": "CONCESSIONARIA BR-040 S.A.",
+			"target": 39162,
+			"value": 5.3
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 5167.04
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 39111,
+			"value": 1119.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 39108,
+			"value": 1170.47
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 39109,
+			"value": 1093.05
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 39107,
+			"value": 330
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 39110,
+			"value": 1454.47
+		},
+		{
+			"source": -100,
+			"target": "CELT -COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"value": 115.82
+		},
+		{
+			"source": "CELT -COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+			"target": 39126,
+			"value": 115.82
+		},
+		{
+			"source": -100,
+			"target": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA",
+			"value": 138
+		},
+		{
+			"source": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA",
+			"target": 39127,
+			"value": 138
+		},
+		{
+			"source": -100,
+			"target": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP",
+			"value": 4400
+		},
+		{
+			"source": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP",
+			"target": 39118,
+			"value": 2200
+		},
+		{
+			"source": "COMPUMAKE LOCAÇÃO DE COMPUTADORES LTDA - EPP",
+			"target": 39081,
+			"value": 2200
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 1562.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39114,
+			"value": 504.05
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39113,
+			"value": 554.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 39112,
+			"value": 504.05
+		},
+		{
+			"source": -100,
+			"target": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"value": 73.66
+		},
+		{
+			"source": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
+			"target": 39099,
+			"value": 73.66
+		},
+		{
+			"source": -100,
+			"target": "PAPELARIA CECILIANA LTDA",
+			"value": 81.9
+		},
+		{
+			"source": "PAPELARIA CECILIANA LTDA",
+			"target": 39121,
+			"value": 81.9
+		},
+		{
+			"source": -100,
+			"target": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"value": 98.42
+		},
+		{
+			"source": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"target": 39170,
+			"value": 46.42
+		},
+		{
+			"source": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"target": 39171,
+			"value": 23
+		},
+		{
+			"source": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
+			"target": 39169,
+			"value": 29
+		},
+		{
+			"source": -100,
+			"target": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"value": 131.32
+		},
+		{
+			"source": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"target": 39165,
+			"value": 57.73
+		},
+		{
+			"source": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"target": 39166,
+			"value": 48.59
+		},
+		{
+			"source": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
+			"target": 39167,
+			"value": 25
+		},
+		{
+			"source": -100,
+			"target": "POSTO DE COMBUSTÍVEIS AQUI BETIM LTDA",
+			"value": 158.78
+		},
+		{
+			"source": "POSTO DE COMBUSTÍVEIS AQUI BETIM LTDA",
+			"target": 39128,
+			"value": 158.78
+		},
+		{
+			"source": -100,
+			"target": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ",
+			"value": 955.8000000000001
+		},
+		{
+			"source": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ",
+			"target": 39163,
+			"value": 219.6
+		},
+		{
+			"source": "COOP COM E APOIO SOC DOS COND AUT DA GRANDE BELO HORIZ",
+			"target": 39164,
+			"value": 736.2
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 118.75
+		},
+		{
+			"source": "RAMAL",
+			"target": 39135,
+			"value": 40.91
+		},
+		{
+			"source": "RAMAL",
+			"target": 39096,
+			"value": 77.84
+		},
+		{
+			"source": -100,
+			"target": "DIMAS LESSA HOTEL LTDA",
+			"value": 230
+		},
+		{
+			"source": "DIMAS LESSA HOTEL LTDA",
+			"target": 39101,
+			"value": 100
+		},
+		{
+			"source": "DIMAS LESSA HOTEL LTDA",
+			"target": 39102,
+			"value": 130
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO COMETA DE LEOPOLDINA LTDA",
+			"value": 120
+		},
+		{
+			"source": "AUTO POSTO COMETA DE LEOPOLDINA LTDA",
+			"target": 39123,
+			"value": 120
+		},
+		{
+			"source": -100,
+			"target": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"value": 26
+		},
+		{
+			"source": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+			"target": 39160,
+			"value": 26
+		},
+		{
+			"source": -100,
+			"target": "FC EVENTOS EIRELLI - ME",
+			"value": 7540
+		},
+		{
+			"source": "FC EVENTOS EIRELLI - ME",
+			"target": 39120,
+			"value": 3770
+		},
+		{
+			"source": "FC EVENTOS EIRELLI - ME",
+			"target": 39083,
+			"value": 3770
+		},
+		{
+			"source": -100,
+			"target": "ALEXANDRE MATTAR IND. HOTEL LTD",
+			"value": 380
+		},
+		{
+			"source": "ALEXANDRE MATTAR IND. HOTEL LTD",
+			"target": 39156,
+			"value": 380
+		},
+		{
+			"source": -100,
+			"target": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME",
+			"value": 1300
+		},
+		{
+			"source": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME",
+			"target": 39084,
+			"value": 650
+		},
+		{
+			"source": "RAMAIS TELEINFORMÁTICA COMERCIO EIRELI - ME",
+			"target": 39122,
+			"value": 650
+		},
+		{
+			"source": -100,
+			"target": "ACF CAMPOS SALES LTDA",
+			"value": 31.4
+		},
+		{
+			"source": "ACF CAMPOS SALES LTDA",
+			"target": 39098,
+			"value": 31.4
+		},
+		{
+			"source": -100,
+			"target": "PALACE HOTEL",
+			"value": 165
+		},
+		{
+			"source": "PALACE HOTEL",
+			"target": 39103,
+			"value": 165
+		},
+		{
+			"source": -100,
+			"target": "ANNA CLAUDIA PINHEIRO GOMES 10973600675",
+			"value": 3890
+		},
+		{
+			"source": "ANNA CLAUDIA PINHEIRO GOMES 10973600675",
+			"target": 39088,
+			"value": 1540
+		},
+		{
+			"source": "ANNA CLAUDIA PINHEIRO GOMES 10973600675",
+			"target": 39129,
+			"value": 2350
+		},
+		{
+			"source": -100,
+			"target": "NATALIA FERRAZ MENEZES 0717860650",
+			"value": 4530
+		},
+		{
+			"source": "NATALIA FERRAZ MENEZES 0717860650",
+			"target": 39133,
+			"value": 4530
+		},
+		{
+			"source": -100,
+			"target": "Auto Posto Santa Cruz",
+			"value": 152.02
+		},
+		{
+			"source": "Auto Posto Santa Cruz",
+			"target": 39125,
+			"value": 152.02
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO",
+			"value": 658.15
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO",
+			"target": 39136,
+			"value": 658.15
+		},
+		{
+			"source": -100,
+			"target": "BARRIGAO COMERCIAL LTDA",
+			"value": 102
+		},
+		{
+			"source": "BARRIGAO COMERCIAL LTDA",
+			"target": 39086,
+			"value": 102
+		}
+	]
+}

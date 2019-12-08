@@ -1,0 +1,1569 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "JOSE MARIO SCHREINER"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "POSTO DISBRAVE IMPERIAL LTDA",
+			"name": "POSTO DISBRAVE IMPERIAL LTDA",
+			"val": 28.866043538621636,
+			"desc": 754.86,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 27317,
+			"name": 100,
+			"val": 2,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 27282,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 27318,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 27281,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": 27302,
+			"name": 154.86,
+			"val": 2.1899392549275127,
+			"group": "POSTO DISBRAVE IMPERIAL LTDA"
+		},
+		{
+			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"val": 135.1792842623067,
+			"desc": 2933.93,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 27288,
+			"name": 398.66,
+			"val": 2.600602662422476,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 27308,
+			"name": 208.88,
+			"val": 2.319896858814888,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 27326,
+			"name": 128.3,
+			"val": 2.1082266563749283,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 27260,
+			"name": 679.06,
+			"val": 2.8319081491224543,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 27251,
+			"name": 673.82,
+			"val": 2.8285438973555967,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 27345,
+			"name": 429.78,
+			"val": 2.6332462015422653,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": 27271,
+			"name": 415.43,
+			"val": 2.6184978556175,
+			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
+		},
+		{
+			"id": "MX LOAD LTDA ME",
+			"name": "MX LOAD LTDA ME",
+			"val": 3464.3716796010845,
+			"desc": 55000,
+			"group": "MX LOAD LTDA ME"
+		},
+		{
+			"id": 27266,
+			"name": 14300,
+			"val": 4.155336037465061,
+			"group": "MX LOAD LTDA ME"
+		},
+		{
+			"id": 27320,
+			"name": 5100,
+			"val": 3.7075701760979363,
+			"group": "MX LOAD LTDA ME"
+		},
+		{
+			"id": 27303,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "MX LOAD LTDA ME"
+		},
+		{
+			"id": 27256,
+			"name": 12000,
+			"val": 4.079181246047625,
+			"group": "MX LOAD LTDA ME"
+		},
+		{
+			"id": 27338,
+			"name": 10600,
+			"val": 4.02530586526477,
+			"group": "MX LOAD LTDA ME"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 4.476340509068059,
+			"desc": 154,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 27342,
+			"name": 59,
+			"val": 1.7708520116421442,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 27341,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
+			"name": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
+			"val": 30.86033980727912,
+			"desc": 800,
+			"group": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME"
+		},
+		{
+			"id": 27261,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME"
+		},
+		{
+			"id": 27289,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME"
+		},
+		{
+			"id": 27272,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME"
+		},
+		{
+			"id": 27309,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME"
+		},
+		{
+			"id": "Sisnetti Integradora De Soluções Ltda -",
+			"name": "Sisnetti Integradora De Soluções Ltda -",
+			"val": 143.81585100200385,
+			"desc": 3100,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 27262,
+			"name": 620,
+			"val": 2.792391689498254,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 27329,
+			"name": 620,
+			"val": 2.792391689498254,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 27274,
+			"name": 620,
+			"val": 2.792391689498254,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 27312,
+			"name": 620,
+			"val": 2.792391689498254,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": 27291,
+			"name": 620,
+			"val": 2.792391689498254,
+			"group": "Sisnetti Integradora De Soluções Ltda -"
+		},
+		{
+			"id": "POSTO A2 LTDA",
+			"name": "POSTO A2 LTDA",
+			"val": 7.124305900579597,
+			"desc": 227.48000000000002,
+			"group": "POSTO A2 LTDA"
+		},
+		{
+			"id": 27254,
+			"name": 187.43,
+			"val": 2.2728391051841257,
+			"group": "POSTO A2 LTDA"
+		},
+		{
+			"id": 27255,
+			"name": 40.05,
+			"val": 1.6026025204202565,
+			"group": "POSTO A2 LTDA"
+		},
+		{
+			"id": "EI TELECOM",
+			"name": "EI TELECOM",
+			"val": 13.830169903639561,
+			"desc": 400,
+			"group": "EI TELECOM"
+		},
+		{
+			"id": 27325,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "EI TELECOM"
+		},
+		{
+			"id": 27344,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "EI TELECOM"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 12.107538633916972,
+			"desc": 356.96000000000004,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 27305,
+			"name": 70.97,
+			"val": 1.8510748052288868,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 27269,
+			"name": 40.14,
+			"val": 1.6035773681514667,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 27322,
+			"name": 42.26,
+			"val": 1.6259294927162946,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 27249,
+			"name": 90.54,
+			"val": 1.9568404901592336,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 27286,
+			"name": 113.05,
+			"val": 2.0532705666813786,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "E-CÓPIA",
+			"name": "E-CÓPIA",
+			"val": 17.654128225874082,
+			"desc": 493.33,
+			"group": "E-CÓPIA"
+		},
+		{
+			"id": 27259,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "E-CÓPIA"
+		},
+		{
+			"id": 27270,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "E-CÓPIA"
+		},
+		{
+			"id": 27250,
+			"name": 93.33,
+			"val": 1.9700212658283658,
+			"group": "E-CÓPIA"
+		},
+		{
+			"id": "DARLAN SOARES AMORIM",
+			"name": "DARLAN SOARES AMORIM",
+			"val": 30.86033980727912,
+			"desc": 800,
+			"group": "DARLAN SOARES AMORIM"
+		},
+		{
+			"id": 27343,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "DARLAN SOARES AMORIM"
+		},
+		{
+			"id": 27287,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "DARLAN SOARES AMORIM"
+		},
+		{
+			"id": 27307,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "DARLAN SOARES AMORIM"
+		},
+		{
+			"id": 27324,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "DARLAN SOARES AMORIM"
+		},
+		{
+			"id": "ESTANISLAU E SIQUEIRA LTDA ME",
+			"name": "ESTANISLAU E SIQUEIRA LTDA ME",
+			"val": 7.440842026296608,
+			"desc": 235.99,
+			"group": "ESTANISLAU E SIQUEIRA LTDA ME"
+		},
+		{
+			"id": 27298,
+			"name": 235.99,
+			"val": 2.372893600271661,
+			"group": "ESTANISLAU E SIQUEIRA LTDA ME"
+		},
+		{
+			"id": "POSTO RADIAL LTDA",
+			"name": "POSTO RADIAL LTDA",
+			"val": 12.813329360665298,
+			"desc": 374.68,
+			"group": "POSTO RADIAL LTDA"
+		},
+		{
+			"id": 27319,
+			"name": 205.11,
+			"val": 2.3119868346197006,
+			"group": "POSTO RADIAL LTDA"
+		},
+		{
+			"id": 27283,
+			"name": 169.57,
+			"val": 2.2293490201677035,
+			"group": "POSTO RADIAL LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"val": 1.6877651932486895,
+			"desc": 69.06,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 27323,
+			"name": 23.17,
+			"val": 1.3649260337899756,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": 27306,
+			"name": 45.89,
+			"val": 1.6617180576946593,
+			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
+		},
+		{
+			"id": "VICTOR RACY ABADALLA",
+			"name": "VICTOR RACY ABADALLA",
+			"val": 1732.5739114428736,
+			"desc": 29200,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": 27292,
+			"name": 5200,
+			"val": 3.716003343634799,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": 27263,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": 27313,
+			"name": 5200,
+			"val": 3.716003343634799,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": 27247,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": 27275,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": 27330,
+			"name": 5200,
+			"val": 3.716003343634799,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": 27252,
+			"name": 3400,
+			"val": 3.531478917042255,
+			"group": "VICTOR RACY ABADALLA"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 23.004788525080112,
+			"desc": 620,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 27278,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 27277,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 27334,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 27265,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 27333,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "AUTO POSTO LIDER LTDA",
+			"name": "AUTO POSTO LIDER LTDA",
+			"val": 8.81479081252528,
+			"desc": 272.41,
+			"group": "AUTO POSTO LIDER LTDA"
+		},
+		{
+			"id": 27296,
+			"name": 272.41,
+			"val": 2.435223046211029,
+			"group": "AUTO POSTO LIDER LTDA"
+		},
+		{
+			"id": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"name": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"val": 8.582599045467793,
+			"desc": 266.31,
+			"group": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 27280,
+			"name": 266.31,
+			"val": 2.4253874745999577,
+			"group": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 213.73537551961056,
+			"desc": 4413.240000000001,
+			"group": "RAMAL"
+		},
+		{
+			"id": 27248,
+			"name": 459.44,
+			"val": 2.66222880327311,
+			"group": "RAMAL"
+		},
+		{
+			"id": 27339,
+			"name": 637.8,
+			"val": 2.80468451490694,
+			"group": "RAMAL"
+		},
+		{
+			"id": 27257,
+			"name": 462.16,
+			"val": 2.6647923545333563,
+			"group": "RAMAL"
+		},
+		{
+			"id": 27285,
+			"name": 827.17,
+			"val": 2.9175947749390345,
+			"group": "RAMAL"
+		},
+		{
+			"id": 27304,
+			"name": 476.82,
+			"val": 2.678354463400537,
+			"group": "RAMAL"
+		},
+		{
+			"id": 27267,
+			"name": 1031.65,
+			"val": 3.0135323825138576,
+			"group": "RAMAL"
+		},
+		{
+			"id": 27321,
+			"name": 518.2,
+			"val": 2.714497408649806,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 4.243779944991489,
+			"desc": 147.3,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 27268,
+			"name": 147.3,
+			"val": 2.168202746842631,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "NODA E MACHADO LTDA",
+			"name": "NODA E MACHADO LTDA",
+			"val": 5.295976048422816,
+			"desc": 177.25,
+			"group": "NODA E MACHADO LTDA"
+		},
+		{
+			"id": 27301,
+			"name": 177.25,
+			"val": 2.248586243855104,
+			"group": "NODA E MACHADO LTDA"
+		},
+		{
+			"id": "SANEAGO",
+			"name": "SANEAGO",
+			"val": 7.46807834393901,
+			"desc": 236.72000000000003,
+			"group": "SANEAGO"
+		},
+		{
+			"id": 27327,
+			"name": 52.65,
+			"val": 1.7213983755215052,
+			"group": "SANEAGO"
+		},
+		{
+			"id": 27328,
+			"name": 14.8,
+			"val": 1.1702617153949575,
+			"group": "SANEAGO"
+		},
+		{
+			"id": 27290,
+			"name": 48.63,
+			"val": 1.6869042695681773,
+			"group": "SANEAGO"
+		},
+		{
+			"id": 27311,
+			"name": 13.45,
+			"val": 1.1287222843384268,
+			"group": "SANEAGO"
+		},
+		{
+			"id": 27273,
+			"name": 49.99,
+			"val": 1.6988831367525903,
+			"group": "SANEAGO"
+		},
+		{
+			"id": 27310,
+			"name": 57.2,
+			"val": 1.7573960287930244,
+			"group": "SANEAGO"
+		},
+		{
+			"id": "H BRANDAO LTDA",
+			"name": "H BRANDAO LTDA",
+			"val": 7.827448542025476,
+			"desc": 246.32,
+			"group": "H BRANDAO LTDA"
+		},
+		{
+			"id": 27299,
+			"name": 246.32,
+			"val": 2.3914996758951417,
+			"group": "H BRANDAO LTDA"
+		},
+		{
+			"id": "AUTO POSTO DO RATINHO LTDA",
+			"name": "AUTO POSTO DO RATINHO LTDA",
+			"val": 21.22899242538625,
+			"desc": 578.39,
+			"group": "AUTO POSTO DO RATINHO LTDA"
+		},
+		{
+			"id": 27332,
+			"name": 174.28,
+			"val": 2.2412475512637164,
+			"group": "AUTO POSTO DO RATINHO LTDA"
+		},
+		{
+			"id": 27314,
+			"name": 162.07,
+			"val": 2.209702632120352,
+			"group": "AUTO POSTO DO RATINHO LTDA"
+		},
+		{
+			"id": 27295,
+			"name": 242.04,
+			"val": 2.3838871442603904,
+			"group": "AUTO POSTO DO RATINHO LTDA"
+		},
+		{
+			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"val": 108.57243690670865,
+			"desc": 2415.3,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 27293,
+			"name": 402,
+			"val": 2.60422605308447,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 27264,
+			"name": 241,
+			"val": 2.3820170425748683,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 27253,
+			"name": 1340.2,
+			"val": 3.127169613599896,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": 27331,
+			"name": 432.1,
+			"val": 2.63558426631123,
+			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
+		},
+		{
+			"id": "CENCOSUD BRASIL COMERCIAL LTDA",
+			"name": "CENCOSUD BRASIL COMERCIAL LTDA",
+			"val": 6.001463412947099,
+			"desc": 196.87,
+			"group": "CENCOSUD BRASIL COMERCIAL LTDA"
+		},
+		{
+			"id": 27297,
+			"name": 196.87,
+			"val": 2.294179541292486,
+			"group": "CENCOSUD BRASIL COMERCIAL LTDA"
+		},
+		{
+			"id": "MX LOAD LTDA",
+			"name": "MX LOAD LTDA",
+			"val": 472.8855342997584,
+			"desc": 9000,
+			"group": "MX LOAD LTDA"
+		},
+		{
+			"id": 27284,
+			"name": 9000,
+			"val": 3.9542425094393248,
+			"group": "MX LOAD LTDA"
+		},
+		{
+			"id": "SISNETTI INTEGRADORA DE SOLUCOES LTDA",
+			"name": "SISNETTI INTEGRADORA DE SOLUCOES LTDA",
+			"val": 23.004788525080112,
+			"desc": 620,
+			"group": "SISNETTI INTEGRADORA DE SOLUCOES LTDA"
+		},
+		{
+			"id": 27346,
+			"name": 620,
+			"val": 2.792391689498254,
+			"group": "SISNETTI INTEGRADORA DE SOLUCOES LTDA"
+		},
+		{
+			"id": "AUTO POSTO ANTENA 104 EIRELI",
+			"name": "AUTO POSTO ANTENA 104 EIRELI",
+			"val": 14.617589279525856,
+			"desc": 419.45000000000005,
+			"group": "AUTO POSTO ANTENA 104 EIRELI"
+		},
+		{
+			"id": 27276,
+			"name": 254.3,
+			"val": 2.405346360175709,
+			"group": "AUTO POSTO ANTENA 104 EIRELI"
+		},
+		{
+			"id": 27294,
+			"name": 165.15,
+			"val": 2.217878578027433,
+			"group": "AUTO POSTO ANTENA 104 EIRELI"
+		},
+		{
+			"id": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI",
+			"name": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI"
+		},
+		{
+			"id": 27316,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI"
+		},
+		{
+			"id": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 9.104796978978364,
+			"desc": 280,
+			"group": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 27279,
+			"name": 280,
+			"val": 2.4471580313422194,
+			"group": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"name": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"val": 11.92355528029747,
+			"desc": 352.32,
+			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
+		},
+		{
+			"id": 27336,
+			"name": 167.25,
+			"val": 2.2233661264398608,
+			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
+		},
+		{
+			"id": 27335,
+			"name": 185.07,
+			"val": 2.2673360249636416,
+			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
+		},
+		{
+			"id": "L&S VEICULOS E COMBUSTIVEIS LTDA",
+			"name": "L&S VEICULOS E COMBUSTIVEIS LTDA",
+			"val": 7.740024705348793,
+			"desc": 243.99,
+			"group": "L&S VEICULOS E COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 27315,
+			"name": 243.99,
+			"val": 2.3873720270198104,
+			"group": "L&S VEICULOS E COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 49.09739599424353,
+			"desc": 1199.98,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 27340,
+			"name": 1199.98,
+			"val": 3.0791740077459404,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC",
+			"name": "CORREIOS - ENCOMENDA PAC",
+			"val": 0.9694248891440969,
+			"desc": 44.31,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": 27258,
+			"name": 44.31,
+			"val": 1.646501750031612,
+			"group": "CORREIOS - ENCOMENDA PAC"
+		},
+		{
+			"id": "MARCELO E FARIA LTDA",
+			"name": "MARCELO E FARIA LTDA",
+			"val": 2.526056942276403,
+			"desc": 95.92,
+			"group": "MARCELO E FARIA LTDA"
+		},
+		{
+			"id": 27300,
+			"name": 95.92,
+			"val": 1.9819091700907923,
+			"group": "MARCELO E FARIA LTDA"
+		},
+		{
+			"id": "POSTO XODO LTDA",
+			"name": "POSTO XODO LTDA",
+			"val": 9.647443155178717,
+			"desc": 294.12,
+			"group": "POSTO XODO LTDA"
+		},
+		{
+			"id": 27337,
+			"name": 294.12,
+			"val": 2.4685245572997028,
+			"group": "POSTO XODO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "POSTO DISBRAVE IMPERIAL LTDA",
+			"value": 754.86
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 27317,
+			"value": 100
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 27282,
+			"value": 150
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 27318,
+			"value": 200
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 27281,
+			"value": 150
+		},
+		{
+			"source": "POSTO DISBRAVE IMPERIAL LTDA",
+			"target": 27302,
+			"value": 154.86
+		},
+		{
+			"source": -100,
+			"target": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"value": 2933.93
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 27288,
+			"value": 398.66
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 27308,
+			"value": 208.88
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 27326,
+			"value": 128.3
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 27260,
+			"value": 679.06
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 27251,
+			"value": 673.82
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 27345,
+			"value": 429.78
+		},
+		{
+			"source": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+			"target": 27271,
+			"value": 415.43
+		},
+		{
+			"source": -100,
+			"target": "MX LOAD LTDA ME",
+			"value": 55000
+		},
+		{
+			"source": "MX LOAD LTDA ME",
+			"target": 27266,
+			"value": 14300
+		},
+		{
+			"source": "MX LOAD LTDA ME",
+			"target": 27320,
+			"value": 5100
+		},
+		{
+			"source": "MX LOAD LTDA ME",
+			"target": 27303,
+			"value": 13000
+		},
+		{
+			"source": "MX LOAD LTDA ME",
+			"target": 27256,
+			"value": 12000
+		},
+		{
+			"source": "MX LOAD LTDA ME",
+			"target": 27338,
+			"value": 10600
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 154
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 27342,
+			"value": 59
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 27341,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
+			"value": 800
+		},
+		{
+			"source": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
+			"target": 27261,
+			"value": 200
+		},
+		{
+			"source": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
+			"target": 27289,
+			"value": 200
+		},
+		{
+			"source": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
+			"target": 27272,
+			"value": 200
+		},
+		{
+			"source": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
+			"target": 27309,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "Sisnetti Integradora De Soluções Ltda -",
+			"value": 3100
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 27262,
+			"value": 620
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 27329,
+			"value": 620
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 27274,
+			"value": 620
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 27312,
+			"value": 620
+		},
+		{
+			"source": "Sisnetti Integradora De Soluções Ltda -",
+			"target": 27291,
+			"value": 620
+		},
+		{
+			"source": -100,
+			"target": "POSTO A2 LTDA",
+			"value": 227.48000000000002
+		},
+		{
+			"source": "POSTO A2 LTDA",
+			"target": 27254,
+			"value": 187.43
+		},
+		{
+			"source": "POSTO A2 LTDA",
+			"target": 27255,
+			"value": 40.05
+		},
+		{
+			"source": -100,
+			"target": "EI TELECOM",
+			"value": 400
+		},
+		{
+			"source": "EI TELECOM",
+			"target": 27325,
+			"value": 200
+		},
+		{
+			"source": "EI TELECOM",
+			"target": 27344,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 356.96000000000004
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 27305,
+			"value": 70.97
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 27269,
+			"value": 40.14
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 27322,
+			"value": 42.26
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 27249,
+			"value": 90.54
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 27286,
+			"value": 113.05
+		},
+		{
+			"source": -100,
+			"target": "E-CÓPIA",
+			"value": 493.33
+		},
+		{
+			"source": "E-CÓPIA",
+			"target": 27259,
+			"value": 200
+		},
+		{
+			"source": "E-CÓPIA",
+			"target": 27270,
+			"value": 200
+		},
+		{
+			"source": "E-CÓPIA",
+			"target": 27250,
+			"value": 93.33
+		},
+		{
+			"source": -100,
+			"target": "DARLAN SOARES AMORIM",
+			"value": 800
+		},
+		{
+			"source": "DARLAN SOARES AMORIM",
+			"target": 27343,
+			"value": 200
+		},
+		{
+			"source": "DARLAN SOARES AMORIM",
+			"target": 27287,
+			"value": 200
+		},
+		{
+			"source": "DARLAN SOARES AMORIM",
+			"target": 27307,
+			"value": 200
+		},
+		{
+			"source": "DARLAN SOARES AMORIM",
+			"target": 27324,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "ESTANISLAU E SIQUEIRA LTDA ME",
+			"value": 235.99
+		},
+		{
+			"source": "ESTANISLAU E SIQUEIRA LTDA ME",
+			"target": 27298,
+			"value": 235.99
+		},
+		{
+			"source": -100,
+			"target": "POSTO RADIAL LTDA",
+			"value": 374.68
+		},
+		{
+			"source": "POSTO RADIAL LTDA",
+			"target": 27319,
+			"value": 205.11
+		},
+		{
+			"source": "POSTO RADIAL LTDA",
+			"target": 27283,
+			"value": 169.57
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"value": 69.06
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 27323,
+			"value": 23.17
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL COM AR",
+			"target": 27306,
+			"value": 45.89
+		},
+		{
+			"source": -100,
+			"target": "VICTOR RACY ABADALLA",
+			"value": 29200
+		},
+		{
+			"source": "VICTOR RACY ABADALLA",
+			"target": 27292,
+			"value": 5200
+		},
+		{
+			"source": "VICTOR RACY ABADALLA",
+			"target": 27263,
+			"value": 3400
+		},
+		{
+			"source": "VICTOR RACY ABADALLA",
+			"target": 27313,
+			"value": 5200
+		},
+		{
+			"source": "VICTOR RACY ABADALLA",
+			"target": 27247,
+			"value": 3400
+		},
+		{
+			"source": "VICTOR RACY ABADALLA",
+			"target": 27275,
+			"value": 3400
+		},
+		{
+			"source": "VICTOR RACY ABADALLA",
+			"target": 27330,
+			"value": 5200
+		},
+		{
+			"source": "VICTOR RACY ABADALLA",
+			"target": 27252,
+			"value": 3400
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 620
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 27278,
+			"value": 200
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 27277,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 27334,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 27265,
+			"value": 120
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 27333,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO LIDER LTDA",
+			"value": 272.41
+		},
+		{
+			"source": "AUTO POSTO LIDER LTDA",
+			"target": 27296,
+			"value": 272.41
+		},
+		{
+			"source": -100,
+			"target": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"value": 266.31
+		},
+		{
+			"source": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
+			"target": 27280,
+			"value": 266.31
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 4413.240000000001
+		},
+		{
+			"source": "RAMAL",
+			"target": 27248,
+			"value": 459.44
+		},
+		{
+			"source": "RAMAL",
+			"target": 27339,
+			"value": 637.8
+		},
+		{
+			"source": "RAMAL",
+			"target": 27257,
+			"value": 462.16
+		},
+		{
+			"source": "RAMAL",
+			"target": 27285,
+			"value": 827.17
+		},
+		{
+			"source": "RAMAL",
+			"target": 27304,
+			"value": 476.82
+		},
+		{
+			"source": "RAMAL",
+			"target": 27267,
+			"value": 1031.65
+		},
+		{
+			"source": "RAMAL",
+			"target": 27321,
+			"value": 518.2
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 147.3
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 27268,
+			"value": 147.3
+		},
+		{
+			"source": -100,
+			"target": "NODA E MACHADO LTDA",
+			"value": 177.25
+		},
+		{
+			"source": "NODA E MACHADO LTDA",
+			"target": 27301,
+			"value": 177.25
+		},
+		{
+			"source": -100,
+			"target": "SANEAGO",
+			"value": 236.72000000000003
+		},
+		{
+			"source": "SANEAGO",
+			"target": 27327,
+			"value": 52.65
+		},
+		{
+			"source": "SANEAGO",
+			"target": 27328,
+			"value": 14.8
+		},
+		{
+			"source": "SANEAGO",
+			"target": 27290,
+			"value": 48.63
+		},
+		{
+			"source": "SANEAGO",
+			"target": 27311,
+			"value": 13.45
+		},
+		{
+			"source": "SANEAGO",
+			"target": 27273,
+			"value": 49.99
+		},
+		{
+			"source": "SANEAGO",
+			"target": 27310,
+			"value": 57.2
+		},
+		{
+			"source": -100,
+			"target": "H BRANDAO LTDA",
+			"value": 246.32
+		},
+		{
+			"source": "H BRANDAO LTDA",
+			"target": 27299,
+			"value": 246.32
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO DO RATINHO LTDA",
+			"value": 578.39
+		},
+		{
+			"source": "AUTO POSTO DO RATINHO LTDA",
+			"target": 27332,
+			"value": 174.28
+		},
+		{
+			"source": "AUTO POSTO DO RATINHO LTDA",
+			"target": 27314,
+			"value": 162.07
+		},
+		{
+			"source": "AUTO POSTO DO RATINHO LTDA",
+			"target": 27295,
+			"value": 242.04
+		},
+		{
+			"source": -100,
+			"target": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"value": 2415.3
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 27293,
+			"value": 402
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 27264,
+			"value": 241
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 27253,
+			"value": 1340.2
+		},
+		{
+			"source": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+			"target": 27331,
+			"value": 432.1
+		},
+		{
+			"source": -100,
+			"target": "CENCOSUD BRASIL COMERCIAL LTDA",
+			"value": 196.87
+		},
+		{
+			"source": "CENCOSUD BRASIL COMERCIAL LTDA",
+			"target": 27297,
+			"value": 196.87
+		},
+		{
+			"source": -100,
+			"target": "MX LOAD LTDA",
+			"value": 9000
+		},
+		{
+			"source": "MX LOAD LTDA",
+			"target": 27284,
+			"value": 9000
+		},
+		{
+			"source": -100,
+			"target": "SISNETTI INTEGRADORA DE SOLUCOES LTDA",
+			"value": 620
+		},
+		{
+			"source": "SISNETTI INTEGRADORA DE SOLUCOES LTDA",
+			"target": 27346,
+			"value": 620
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO ANTENA 104 EIRELI",
+			"value": 419.45000000000005
+		},
+		{
+			"source": "AUTO POSTO ANTENA 104 EIRELI",
+			"target": 27276,
+			"value": 254.3
+		},
+		{
+			"source": "AUTO POSTO ANTENA 104 EIRELI",
+			"target": 27294,
+			"value": 165.15
+		},
+		{
+			"source": -100,
+			"target": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI",
+			"value": 150
+		},
+		{
+			"source": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI",
+			"target": 27316,
+			"value": 150
+		},
+		{
+			"source": -100,
+			"target": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 280
+		},
+		{
+			"source": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 27279,
+			"value": 280
+		},
+		{
+			"source": -100,
+			"target": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"value": 352.32
+		},
+		{
+			"source": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"target": 27336,
+			"value": 167.25
+		},
+		{
+			"source": "CIA BRASILEIRA DE DISTRIBUICAO",
+			"target": 27335,
+			"value": 185.07
+		},
+		{
+			"source": -100,
+			"target": "L&S VEICULOS E COMBUSTIVEIS LTDA",
+			"value": 243.99
+		},
+		{
+			"source": "L&S VEICULOS E COMBUSTIVEIS LTDA",
+			"target": 27315,
+			"value": 243.99
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 1199.98
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 27340,
+			"value": 1199.98
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC",
+			"value": 44.31
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC",
+			"target": 27258,
+			"value": 44.31
+		},
+		{
+			"source": -100,
+			"target": "MARCELO E FARIA LTDA",
+			"value": 95.92
+		},
+		{
+			"source": "MARCELO E FARIA LTDA",
+			"target": 27300,
+			"value": 95.92
+		},
+		{
+			"source": -100,
+			"target": "POSTO XODO LTDA",
+			"value": 294.12
+		},
+		{
+			"source": "POSTO XODO LTDA",
+			"target": 27337,
+			"value": 294.12
+		}
+	]
+}

@@ -1,0 +1,1377 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "VALMIR ASSUNÇÃO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 1551.2121520979406,
+			"desc": 26402.06,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49162,
+			"name": 1830.98,
+			"val": 3.2626836004802455,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49157,
+			"name": 1269.78,
+			"val": 3.1037284823240614,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49120,
+			"name": -745.98,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49117,
+			"name": 1675.98,
+			"val": 3.224268831751618,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49087,
+			"name": 1072.94,
+			"val": 3.0305754364137725,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49121,
+			"name": -173.84,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49153,
+			"name": 750.08,
+			"val": 2.875107585665959,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49115,
+			"name": 745.98,
+			"val": 2.8727271840328927,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49089,
+			"name": 1019.98,
+			"val": 3.008591656100354,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49095,
+			"name": 520.67,
+			"val": 2.716562555187123,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49113,
+			"name": 1066.98,
+			"val": 3.028156278870539,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49164,
+			"name": 344.39,
+			"val": 2.537050532421945,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49097,
+			"name": 1675.98,
+			"val": 3.224268831751618,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49092,
+			"name": 459.05,
+			"val": 2.66185999172781,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49116,
+			"name": 1967.98,
+			"val": 3.294020680511088,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49165,
+			"name": 1794.39,
+			"val": 3.2539168402912955,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49096,
+			"name": 520.67,
+			"val": 2.716562555187123,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49122,
+			"name": -281.05,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49160,
+			"name": 757.69,
+			"val": 2.8794915554644502,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49086,
+			"name": 399.29,
+			"val": 2.601288433662402,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49119,
+			"name": 245.05,
+			"val": 2.3892547068486483,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49123,
+			"name": -1715.64,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49166,
+			"name": -27.03,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49163,
+			"name": 345.98,
+			"val": 2.53905099433993,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49118,
+			"name": 1804.39,
+			"val": 3.2563304115553264,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49161,
+			"name": 410.98,
+			"val": 2.6138206878104233,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49155,
+			"name": 630.08,
+			"val": 2.799395694458024,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49158,
+			"name": 781.88,
+			"val": 2.893140104291489,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49090,
+			"name": 687.98,
+			"val": 2.837575813212417,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49114,
+			"name": 648.98,
+			"val": 2.812231313097017,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49093,
+			"name": 7.5,
+			"val": 0.8750612633917001,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49154,
+			"name": 1669.94,
+			"val": 3.2227008674727164,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49094,
+			"name": 7.5,
+			"val": 0.8750612633917001,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49088,
+			"name": 1060.47,
+			"val": 3.0254983871206202,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49156,
+			"name": 1332.88,
+			"val": 3.1247910513765405,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49159,
+			"name": 880.79,
+			"val": 2.9448723752535764,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 49091,
+			"name": 958.39,
+			"val": 2.98154227356832,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 0.20172494360060628,
+			"desc": 13.45,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 49147,
+			"name": 13.45,
+			"val": 1.1287222843384268,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 914.0960251797276,
+			"desc": 16328.82,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49130,
+			"name": 292.39,
+			"val": 2.465962515279378,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49124,
+			"name": 876.39,
+			"val": 2.9426974134235873,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49133,
+			"name": 1063.39,
+			"val": 3.0266925719408837,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49100,
+			"name": 1230.98,
+			"val": 3.0902509969116587,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49126,
+			"name": 1051.39,
+			"val": 3.0217638420323474,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49127,
+			"name": 989.98,
+			"val": 2.9956264208830294,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49131,
+			"name": 793.49,
+			"val": 2.899541457906009,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49132,
+			"name": 994.98,
+			"val": 2.9978143511206654,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49128,
+			"name": 592.84,
+			"val": 2.7729374986035427,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49098,
+			"name": 910.08,
+			"val": 2.9590795703776345,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49170,
+			"name": 366,
+			"val": 2.5634810853944106,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49125,
+			"name": 1799.98,
+			"val": 3.2552676795822544,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49169,
+			"name": 1407.84,
+			"val": 3.1485533003561392,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49129,
+			"name": 1333.39,
+			"val": 3.1249571937315697,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49168,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49099,
+			"name": 443.94,
+			"val": 2.6473242777053265,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49171,
+			"name": 1158.37,
+			"val": 3.063847301440115,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 49134,
+			"name": 993.39,
+			"val": 2.9971197838385097,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "PETRONORTE COMBUSTIVEIS LTDA",
+			"name": "PETRONORTE COMBUSTIVEIS LTDA",
+			"val": 5.448851082585312,
+			"desc": 181.53,
+			"group": "PETRONORTE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49138,
+			"name": 181.53,
+			"val": 2.2589484076520905,
+			"group": "PETRONORTE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 16.030244367863492,
+			"desc": 454.0299999999999,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 49110,
+			"name": 263.53,
+			"val": 2.4208300620261136,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 49149,
+			"name": 59.14,
+			"val": 1.771881320190099,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 49080,
+			"name": 58.91,
+			"val": 1.7701890227359933,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 49081,
+			"name": 72.45,
+			"val": 1.8600383898071935,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
+			"name": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA"
+		},
+		{
+			"id": 49141,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA"
+		},
+		{
+			"id": "NATIVA SERVICOS EIRELI - ME",
+			"name": "NATIVA SERVICOS EIRELI - ME",
+			"val": 1583.368276230853,
+			"desc": 26900,
+			"group": "NATIVA SERVICOS EIRELI - ME"
+		},
+		{
+			"id": 49082,
+			"name": 9700,
+			"val": 3.9867717342662448,
+			"group": "NATIVA SERVICOS EIRELI - ME"
+		},
+		{
+			"id": 49111,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "NATIVA SERVICOS EIRELI - ME"
+		},
+		{
+			"id": 49112,
+			"name": 9700,
+			"val": 3.9867717342662448,
+			"group": "NATIVA SERVICOS EIRELI - ME"
+		},
+		{
+			"id": 49151,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "NATIVA SERVICOS EIRELI - ME"
+		},
+		{
+			"id": 49083,
+			"name": 2500,
+			"val": 3.3979400086720375,
+			"group": "NATIVA SERVICOS EIRELI - ME"
+		},
+		{
+			"id": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
+			"name": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
+			"val": 668.4506405249597,
+			"desc": 12300.02,
+			"group": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49073,
+			"name": 5100.02,
+			"val": 3.7075718792102124,
+			"group": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49139,
+			"name": 5300,
+			"val": 3.724275869600789,
+			"group": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 49140,
+			"name": 1900,
+			"val": 3.278753600952829,
+			"group": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO VIACAO CAMURUJIPE LTDA",
+			"name": "AUTO VIACAO CAMURUJIPE LTDA",
+			"val": 15.310094384926447,
+			"desc": 436.45,
+			"group": "AUTO VIACAO CAMURUJIPE LTDA"
+		},
+		{
+			"id": 49152,
+			"name": 128.43,
+			"val": 2.108666482553972,
+			"group": "AUTO VIACAO CAMURUJIPE LTDA"
+		},
+		{
+			"id": 49085,
+			"name": 198.2,
+			"val": 2.2971036501492565,
+			"group": "AUTO VIACAO CAMURUJIPE LTDA"
+		},
+		{
+			"id": 49084,
+			"name": 109.82,
+			"val": 2.040681439373358,
+			"group": "AUTO VIACAO CAMURUJIPE LTDA"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A.",
+			"name": "TELEFÔNICA BRASIL S.A.",
+			"val": 228.77754530527483,
+			"desc": 4689.860000000001,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 49146,
+			"name": 2380.45,
+			"val": 3.3766590637974456,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 49078,
+			"name": 363.76,
+			"val": 2.5608149411970516,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": 49077,
+			"name": 1945.65,
+			"val": 3.2890647183888357,
+			"group": "TELEFÔNICA BRASIL S.A."
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 12.467382899831357,
+			"desc": 366.01,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49076,
+			"name": 235.61,
+			"val": 2.3721937192757343,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49145,
+			"name": 74.65,
+			"val": 1.8730298120610442,
+			"group": "RAMAL"
+		},
+		{
+			"id": 49105,
+			"name": 55.75,
+			"val": 1.7462448717201982,
+			"group": "RAMAL"
+		},
+		{
+			"id": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"name": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"val": 585.3080776743393,
+			"desc": 10909.14,
+			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
+		},
+		{
+			"id": 49102,
+			"name": 3641.81,
+			"val": 3.5613172840992005,
+			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
+		},
+		{
+			"id": 49101,
+			"name": 1812.76,
+			"val": 3.2583403095697765,
+			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
+		},
+		{
+			"id": 49136,
+			"name": 3641.81,
+			"val": 3.5613172840992005,
+			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
+		},
+		{
+			"id": 49135,
+			"name": 1812.76,
+			"val": 3.2583403095697765,
+			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 6.624124241066288,
+			"desc": 213.93,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49144,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49142,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49074,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49075,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49104,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 49143,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA",
+			"name": "TELEFONICA BRASIL SA",
+			"val": 106.71455545431581,
+			"desc": 2378.64,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 49107,
+			"name": 82.46,
+			"val": 1.9162433304653397,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": 49106,
+			"name": 2296.18,
+			"val": 3.3610059298681962,
+			"group": "TELEFONICA BRASIL SA"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 9.517567948653353,
+			"desc": 290.75,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 49108,
+			"name": 195.75,
+			"val": 2.291701770729981,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 49148,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "Cia Aérea - PASSAREDO",
+			"name": "Cia Aérea - PASSAREDO",
+			"val": 21.93116504719053,
+			"desc": 594.89,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": 49167,
+			"name": 594.89,
+			"val": 2.774436668569744,
+			"group": "Cia Aérea - PASSAREDO"
+		},
+		{
+			"id": "CORREIOS - SEDEX 12",
+			"name": "CORREIOS - SEDEX 12",
+			"val": 23.249328350952613,
+			"desc": 625.7,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 49109,
+			"name": 442.7,
+			"val": 2.6461095219788477,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": 49079,
+			"name": 183,
+			"val": 2.2624510897304293,
+			"group": "CORREIOS - SEDEX 12"
+		},
+		{
+			"id": "NATIVA SERVICOS EIRELI",
+			"name": "NATIVA SERVICOS EIRELI",
+			"val": 513.8582384401199,
+			"desc": 9700,
+			"group": "NATIVA SERVICOS EIRELI"
+		},
+		{
+			"id": 49150,
+			"name": 9700,
+			"val": 3.9867717342662448,
+			"group": "NATIVA SERVICOS EIRELI"
+		},
+		{
+			"id": "BENTIVI DERIVADOS DE PETROLEO LTDA",
+			"name": "BENTIVI DERIVADOS DE PETROLEO LTDA",
+			"val": 7.55920885700663,
+			"desc": 239.16,
+			"group": "BENTIVI DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 49072,
+			"name": 239.16,
+			"val": 2.3786885447481123,
+			"group": "BENTIVI DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"name": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"val": 5.283500772269471,
+			"desc": 176.9,
+			"group": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 49137,
+			"name": 176.9,
+			"val": 2.2477278329097232,
+			"group": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"val": 4.146417642815129,
+			"desc": 144.48,
+			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
+		},
+		{
+			"id": 49103,
+			"name": 144.48,
+			"val": 2.1598077329694307,
+			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 26402.06
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49162,
+			"value": 1830.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49157,
+			"value": 1269.78
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49120,
+			"value": -745.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49117,
+			"value": 1675.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49087,
+			"value": 1072.94
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49121,
+			"value": -173.84
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49153,
+			"value": 750.08
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49115,
+			"value": 745.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49089,
+			"value": 1019.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49095,
+			"value": 520.67
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49113,
+			"value": 1066.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49164,
+			"value": 344.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49097,
+			"value": 1675.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49092,
+			"value": 459.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49116,
+			"value": 1967.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49165,
+			"value": 1794.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49096,
+			"value": 520.67
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49122,
+			"value": -281.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49160,
+			"value": 757.69
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49086,
+			"value": 399.29
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49119,
+			"value": 245.05
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49123,
+			"value": -1715.64
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49166,
+			"value": -27.03
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49163,
+			"value": 345.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49118,
+			"value": 1804.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49161,
+			"value": 410.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49155,
+			"value": 630.08
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49158,
+			"value": 781.88
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49090,
+			"value": 687.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49114,
+			"value": 648.98
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49093,
+			"value": 7.5
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49154,
+			"value": 1669.94
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49094,
+			"value": 7.5
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49088,
+			"value": 1060.47
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49156,
+			"value": 1332.88
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49159,
+			"value": 880.79
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 49091,
+			"value": 958.39
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 13.45
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 49147,
+			"value": 13.45
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 16328.82
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49130,
+			"value": 292.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49124,
+			"value": 876.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49133,
+			"value": 1063.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49100,
+			"value": 1230.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49126,
+			"value": 1051.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49127,
+			"value": 989.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49131,
+			"value": 793.49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49132,
+			"value": 994.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49128,
+			"value": 592.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49098,
+			"value": 910.08
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49170,
+			"value": 366
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49125,
+			"value": 1799.98
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49169,
+			"value": 1407.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49129,
+			"value": 1333.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49168,
+			"value": 30
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49099,
+			"value": 443.94
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49171,
+			"value": 1158.37
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 49134,
+			"value": 993.39
+		},
+		{
+			"source": -100,
+			"target": "PETRONORTE COMBUSTIVEIS LTDA",
+			"value": 181.53
+		},
+		{
+			"source": "PETRONORTE COMBUSTIVEIS LTDA",
+			"target": 49138,
+			"value": 181.53
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 454.0299999999999
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 49110,
+			"value": 263.53
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 49149,
+			"value": 59.14
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 49080,
+			"value": 58.91
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 49081,
+			"value": 72.45
+		},
+		{
+			"source": -100,
+			"target": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
+			"value": 200
+		},
+		{
+			"source": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
+			"target": 49141,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "NATIVA SERVICOS EIRELI - ME",
+			"value": 26900
+		},
+		{
+			"source": "NATIVA SERVICOS EIRELI - ME",
+			"target": 49082,
+			"value": 9700
+		},
+		{
+			"source": "NATIVA SERVICOS EIRELI - ME",
+			"target": 49111,
+			"value": 2500
+		},
+		{
+			"source": "NATIVA SERVICOS EIRELI - ME",
+			"target": 49112,
+			"value": 9700
+		},
+		{
+			"source": "NATIVA SERVICOS EIRELI - ME",
+			"target": 49151,
+			"value": 2500
+		},
+		{
+			"source": "NATIVA SERVICOS EIRELI - ME",
+			"target": 49083,
+			"value": 2500
+		},
+		{
+			"source": -100,
+			"target": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
+			"value": 12300.02
+		},
+		{
+			"source": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
+			"target": 49073,
+			"value": 5100.02
+		},
+		{
+			"source": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
+			"target": 49139,
+			"value": 5300
+		},
+		{
+			"source": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
+			"target": 49140,
+			"value": 1900
+		},
+		{
+			"source": -100,
+			"target": "AUTO VIACAO CAMURUJIPE LTDA",
+			"value": 436.45
+		},
+		{
+			"source": "AUTO VIACAO CAMURUJIPE LTDA",
+			"target": 49152,
+			"value": 128.43
+		},
+		{
+			"source": "AUTO VIACAO CAMURUJIPE LTDA",
+			"target": 49085,
+			"value": 198.2
+		},
+		{
+			"source": "AUTO VIACAO CAMURUJIPE LTDA",
+			"target": 49084,
+			"value": 109.82
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A.",
+			"value": 4689.860000000001
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 49146,
+			"value": 2380.45
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 49078,
+			"value": 363.76
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A.",
+			"target": 49077,
+			"value": 1945.65
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 366.01
+		},
+		{
+			"source": "RAMAL",
+			"target": 49076,
+			"value": 235.61
+		},
+		{
+			"source": "RAMAL",
+			"target": 49145,
+			"value": 74.65
+		},
+		{
+			"source": "RAMAL",
+			"target": 49105,
+			"value": 55.75
+		},
+		{
+			"source": -100,
+			"target": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"value": 10909.14
+		},
+		{
+			"source": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"target": 49102,
+			"value": 3641.81
+		},
+		{
+			"source": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"target": 49101,
+			"value": 1812.76
+		},
+		{
+			"source": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"target": 49136,
+			"value": 3641.81
+		},
+		{
+			"source": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+			"target": 49135,
+			"value": 1812.76
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 213.93
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49144,
+			"value": 40.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49142,
+			"value": 40.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49074,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49075,
+			"value": 40.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49104,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 49143,
+			"value": 31.15
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA",
+			"value": 2378.64
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 49107,
+			"value": 82.46
+		},
+		{
+			"source": "TELEFONICA BRASIL SA",
+			"target": 49106,
+			"value": 2296.18
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 290.75
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 49108,
+			"value": 195.75
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 49148,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - PASSAREDO",
+			"value": 594.89
+		},
+		{
+			"source": "Cia Aérea - PASSAREDO",
+			"target": 49167,
+			"value": 594.89
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 12",
+			"value": 625.7
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 49109,
+			"value": 442.7
+		},
+		{
+			"source": "CORREIOS - SEDEX 12",
+			"target": 49079,
+			"value": 183
+		},
+		{
+			"source": -100,
+			"target": "NATIVA SERVICOS EIRELI",
+			"value": 9700
+		},
+		{
+			"source": "NATIVA SERVICOS EIRELI",
+			"target": 49150,
+			"value": 9700
+		},
+		{
+			"source": -100,
+			"target": "BENTIVI DERIVADOS DE PETROLEO LTDA",
+			"value": 239.16
+		},
+		{
+			"source": "BENTIVI DERIVADOS DE PETROLEO LTDA",
+			"target": 49072,
+			"value": 239.16
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"value": 176.9
+		},
+		{
+			"source": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+			"target": 49137,
+			"value": 176.9
+		},
+		{
+			"source": -100,
+			"target": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"value": 144.48
+		},
+		{
+			"source": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
+			"target": 49103,
+			"value": 144.48
+		}
+	]
+}

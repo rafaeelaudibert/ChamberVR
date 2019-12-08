@@ -1,0 +1,1425 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ASSIS CARVALHO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 98.55992619619785,
+			"desc": 2216.95,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5480,
+			"name": 306.05,
+			"val": 2.4857923838352063,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5481,
+			"name": 308.34,
+			"val": 2.4890298680688163,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5526,
+			"name": 123.27,
+			"val": 2.0908573959815335,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5562,
+			"name": 88.87,
+			"val": 1.9487551801682699,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5525,
+			"name": 889.71,
+			"val": 2.949248471899514,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5495,
+			"name": 362.18,
+			"val": 2.5589244643947815,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5563,
+			"name": 70.97,
+			"val": 1.8510748052288868,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 5496,
+			"name": 67.56,
+			"val": 1.8296896408989711,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 990.2705949478069,
+			"desc": 17558.17,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5530,
+			"name": 1484,
+			"val": 3.171433900943008,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5498,
+			"name": 2324.09,
+			"val": 3.36625294202576,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5503,
+			"name": 1418.32,
+			"val": 3.1517742270074236,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5533,
+			"name": 376.39,
+			"val": 2.575638076491376,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5504,
+			"name": 602.39,
+			"val": 2.779877753729054,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5482,
+			"name": 109,
+			"val": 2.037426497940624,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5499,
+			"name": 1422.77,
+			"val": 3.1531346992380773,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5529,
+			"name": 258.32,
+			"val": 2.4121580320091054,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5532,
+			"name": 2974.18,
+			"val": 3.4733672488668854,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5531,
+			"name": 1649.39,
+			"val": 3.21732335717389,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5501,
+			"name": 1514,
+			"val": 3.180125875164054,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5534,
+			"name": 380.32,
+			"val": 2.580149164384105,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5500,
+			"name": 1482,
+			"val": 3.170848203643309,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5502,
+			"name": 1306,
+			"val": 3.115943176939055,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 5528,
+			"name": 257,
+			"val": 2.4099331233312946,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "PANTANAL VEÍCULOS LTDA",
+			"name": "PANTANAL VEÍCULOS LTDA",
+			"val": 171.44459655695007,
+			"desc": 3625,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 5527,
+			"name": 1425,
+			"val": 3.153814864344529,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": 5497,
+			"name": 2200,
+			"val": 3.342422680822206,
+			"group": "PANTANAL VEÍCULOS LTDA"
+		},
+		{
+			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"val": 199.62674773782467,
+			"desc": 4152.099999999999,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 5549,
+			"name": 1139.86,
+			"val": 3.056851513651226,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 5469,
+			"name": 817.36,
+			"val": 2.912413380372957,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 5512,
+			"name": 845.51,
+			"val": 2.9271187484436796,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 5488,
+			"name": 1069.08,
+			"val": 3.0290102049829386,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": 5470,
+			"name": 280.29,
+			"val": 2.4476076035673127,
+			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 21.58485076332833,
+			"desc": 586.76,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 5522,
+			"name": 408.38,
+			"val": 2.611064464799971,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 5493,
+			"name": 178.38,
+			"val": 2.2513461595885813,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "CLARO S.A.",
+			"name": "CLARO S.A.",
+			"val": 82.88561345894463,
+			"desc": 1902.19,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 5465,
+			"name": 384.83,
+			"val": 2.5852689207633914,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 5466,
+			"name": 374.41,
+			"val": 2.5733474396569367,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 5509,
+			"name": 370.79,
+			"val": 2.5691280129498546,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 5544,
+			"name": 378.75,
+			"val": 2.5783526415103615,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": 5484,
+			"name": 393.41,
+			"val": 2.5948453949570403,
+			"group": "CLARO S.A."
+		},
+		{
+			"id": "Companhia Energética do Piauí",
+			"name": "Companhia Energética do Piauí",
+			"val": 103.42142124351325,
+			"desc": 2313.5,
+			"group": "Companhia Energética do Piauí"
+		},
+		{
+			"id": 5545,
+			"name": 951.97,
+			"val": 2.978623262418353,
+			"group": "Companhia Energética do Piauí"
+		},
+		{
+			"id": 5485,
+			"name": 1361.53,
+			"val": 3.1340272150413284,
+			"group": "Companhia Energética do Piauí"
+		},
+		{
+			"id": "Telefônia Brasil S/A - VIVO",
+			"name": "Telefônia Brasil S/A - VIVO",
+			"val": 5.038031754831878,
+			"desc": 169.99,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": 5479,
+			"name": 169.99,
+			"val": 2.2304233738926404,
+			"group": "Telefônia Brasil S/A - VIVO"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 488.59428364078286,
+			"desc": 9268.99,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5507,
+			"name": 1792.39,
+			"val": 3.2534325122567758,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5539,
+			"name": 845.79,
+			"val": 2.9272625460621313,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5536,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5535,
+			"name": 20,
+			"val": 1.3010299956639813,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5505,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5541,
+			"name": 1829.39,
+			"val": 3.262306300770294,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5540,
+			"name": 1645.79,
+			"val": 3.2163744191754295,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5538,
+			"name": 1645.79,
+			"val": 3.2163744191754295,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5506,
+			"name": 1354.84,
+			"val": 3.131888010177223,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 5537,
+			"name": 35,
+			"val": 1.5440680443502757,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "AGUAS DE TERESINA SAN. SPE SA",
+			"name": "AGUAS DE TERESINA SAN. SPE SA",
+			"val": 13.679376312382235,
+			"desc": 396.26,
+			"group": "AGUAS DE TERESINA SAN. SPE SA"
+		},
+		{
+			"id": 5464,
+			"name": 45.64,
+			"val": 1.659345635746177,
+			"group": "AGUAS DE TERESINA SAN. SPE SA"
+		},
+		{
+			"id": 5542,
+			"name": 298.9,
+			"val": 2.4755259150392805,
+			"group": "AGUAS DE TERESINA SAN. SPE SA"
+		},
+		{
+			"id": 5483,
+			"name": 48.23,
+			"val": 1.6833172619218826,
+			"group": "AGUAS DE TERESINA SAN. SPE SA"
+		},
+		{
+			"id": 5508,
+			"name": 3.49,
+			"val": 0.5428254269591799,
+			"group": "AGUAS DE TERESINA SAN. SPE SA"
+		},
+		{
+			"id": "FRANCISCO AVELINO DA SILVA",
+			"name": "FRANCISCO AVELINO DA SILVA",
+			"val": 14.11456261853216,
+			"desc": 407.03999999999996,
+			"group": "FRANCISCO AVELINO DA SILVA"
+		},
+		{
+			"id": 5547,
+			"name": 195,
+			"val": 2.290034611362518,
+			"group": "FRANCISCO AVELINO DA SILVA"
+		},
+		{
+			"id": 5548,
+			"name": 212.04,
+			"val": 2.3264177955543888,
+			"group": "FRANCISCO AVELINO DA SILVA"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 22.92762811817114,
+			"desc": 618.1999999999998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5518,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5514,
+			"name": 9.01,
+			"val": 0.9547247909790629,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5515,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5490,
+			"name": 43.34,
+			"val": 1.636888906983799,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5475,
+			"name": 9.01,
+			"val": 0.9547247909790629,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5491,
+			"name": 30.9,
+			"val": 1.4899584794248346,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5516,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5556,
+			"name": 9.01,
+			"val": 0.9547247909790629,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5519,
+			"name": 43.34,
+			"val": 1.636888906983799,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5474,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5557,
+			"name": 43.34,
+			"val": 1.636888906983799,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5520,
+			"name": 9.01,
+			"val": 0.9547247909790629,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5517,
+			"name": 30.9,
+			"val": 1.4899584794248346,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5476,
+			"name": 43.34,
+			"val": 1.636888906983799,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5473,
+			"name": 30.9,
+			"val": 1.4899584794248346,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5472,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5555,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5553,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5554,
+			"name": 30.9,
+			"val": 1.4899584794248346,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 5489,
+			"name": 31.15,
+			"val": 1.4934580509951885,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "MULTISOFT INFORMATICA LTDA",
+			"name": "MULTISOFT INFORMATICA LTDA",
+			"val": 107.17846880492455,
+			"desc": 2387.8,
+			"group": "MULTISOFT INFORMATICA LTDA"
+		},
+		{
+			"id": 5486,
+			"name": 590,
+			"val": 2.7708520116421442,
+			"group": "MULTISOFT INFORMATICA LTDA"
+		},
+		{
+			"id": 5467,
+			"name": 590,
+			"val": 2.7708520116421442,
+			"group": "MULTISOFT INFORMATICA LTDA"
+		},
+		{
+			"id": 5546,
+			"name": 590,
+			"val": 2.7708520116421442,
+			"group": "MULTISOFT INFORMATICA LTDA"
+		},
+		{
+			"id": 5510,
+			"name": 617.8,
+			"val": 2.7908479039654317,
+			"group": "MULTISOFT INFORMATICA LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 3.8784501170718575,
+			"desc": 136.67000000000002,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5521,
+			"name": 71.01,
+			"val": 1.8513195126487452,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5558,
+			"name": 36.79,
+			"val": 1.565729787831127,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5492,
+			"name": 15.32,
+			"val": 1.1852587652965851,
+			"group": "RAMAL"
+		},
+		{
+			"id": 5477,
+			"name": 13.55,
+			"val": 1.1319392952104246,
+			"group": "RAMAL"
+		},
+		{
+			"id": "VIVO",
+			"name": "VIVO",
+			"val": 13.829766442311687,
+			"desc": 399.99,
+			"group": "VIVO"
+		},
+		{
+			"id": 5494,
+			"name": 399.99,
+			"val": 2.6020491338301954,
+			"group": "VIVO"
+		},
+		{
+			"id": "JOSÉ MARIA",
+			"name": "JOSÉ MARIA",
+			"val": 1396.8716913967914,
+			"desc": 24000,
+			"group": "JOSÉ MARIA"
+		},
+		{
+			"id": 5552,
+			"name": 8000,
+			"val": 3.9030899869919438,
+			"group": "JOSÉ MARIA"
+		},
+		{
+			"id": 5513,
+			"name": 8000,
+			"val": 3.9030899869919438,
+			"group": "JOSÉ MARIA"
+		},
+		{
+			"id": 5471,
+			"name": 8000,
+			"val": 3.9030899869919438,
+			"group": "JOSÉ MARIA"
+		},
+		{
+			"id": "Telefônia Brasil S/A",
+			"name": "Telefônia Brasil S/A",
+			"val": 15.020398229271741,
+			"desc": 429.35,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": 5478,
+			"name": 429.35,
+			"val": 2.63281146723474,
+			"group": "Telefônia Brasil S/A"
+		},
+		{
+			"id": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA",
+			"name": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA",
+			"val": 4.985311622516573,
+			"desc": 168.5,
+			"group": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA"
+		},
+		{
+			"id": 5543,
+			"name": 168.5,
+			"val": 2.2265999052073573,
+			"group": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA"
+		},
+		{
+			"id": "CORREIOS - CARTA REGISTRADA COM AR",
+			"name": "CORREIOS - CARTA REGISTRADA COM AR",
+			"val": 10.237129267238894,
+			"desc": 309.35,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": 5524,
+			"name": 309.35,
+			"val": 2.49045012035602,
+			"group": "CORREIOS - CARTA REGISTRADA COM AR"
+		},
+		{
+			"id": "TELEFONICA BRASIL S. A.",
+			"name": "TELEFONICA BRASIL S. A.",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "TELEFONICA BRASIL S. A."
+		},
+		{
+			"id": 5559,
+			"name": 100,
+			"val": 2,
+			"group": "TELEFONICA BRASIL S. A."
+		},
+		{
+			"id": "ROCHA FILHO",
+			"name": "ROCHA FILHO",
+			"val": 520.323868404223,
+			"desc": 9810,
+			"group": "ROCHA FILHO"
+		},
+		{
+			"id": 5468,
+			"name": 3500,
+			"val": 3.5440680443502757,
+			"group": "ROCHA FILHO"
+		},
+		{
+			"id": 5511,
+			"name": 3155,
+			"val": 3.498999363580153,
+			"group": "ROCHA FILHO"
+		},
+		{
+			"id": 5487,
+			"name": 3155,
+			"val": 3.498999363580153,
+			"group": "ROCHA FILHO"
+		},
+		{
+			"id": "JOAO BATISTA SILVA BARROSO EIRELI - ME",
+			"name": "JOAO BATISTA SILVA BARROSO EIRELI - ME",
+			"val": 6.479966234839543,
+			"desc": 210,
+			"group": "JOAO BATISTA SILVA BARROSO EIRELI - ME"
+		},
+		{
+			"id": 5550,
+			"name": 210,
+			"val": 2.322219294733919,
+			"group": "JOAO BATISTA SILVA BARROSO EIRELI - ME"
+		},
+		{
+			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"val": 1.813536366466548,
+			"desc": 73.2,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 5561,
+			"name": 12,
+			"val": 1.0791812460476249,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 5523,
+			"name": 61.2,
+			"val": 1.7867514221455612,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"val": 14.163109080934365,
+			"desc": 408.24,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": 5560,
+			"name": 408.24,
+			"val": 2.610915555324175,
+			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
+		},
+		{
+			"id": "PIPEL PICOS PETROLEO LTDA",
+			"name": "PIPEL PICOS PETROLEO LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "PIPEL PICOS PETROLEO LTDA"
+		},
+		{
+			"id": 5551,
+			"name": 100,
+			"val": 2,
+			"group": "PIPEL PICOS PETROLEO LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 2216.95
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5480,
+			"value": 306.05
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5481,
+			"value": 308.34
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5526,
+			"value": 123.27
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5562,
+			"value": 88.87
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5525,
+			"value": 889.71
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5495,
+			"value": 362.18
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5563,
+			"value": 70.97
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 5496,
+			"value": 67.56
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 17558.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5530,
+			"value": 1484
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5498,
+			"value": 2324.09
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5503,
+			"value": 1418.32
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5533,
+			"value": 376.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5504,
+			"value": 602.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5482,
+			"value": 109
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5499,
+			"value": 1422.77
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5529,
+			"value": 258.32
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5532,
+			"value": 2974.18
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5531,
+			"value": 1649.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5501,
+			"value": 1514
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5534,
+			"value": 380.32
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5500,
+			"value": 1482
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5502,
+			"value": 1306
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 5528,
+			"value": 257
+		},
+		{
+			"source": -100,
+			"target": "PANTANAL VEÍCULOS LTDA",
+			"value": 3625
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 5527,
+			"value": 1425
+		},
+		{
+			"source": "PANTANAL VEÍCULOS LTDA",
+			"target": 5497,
+			"value": 2200
+		},
+		{
+			"source": -100,
+			"target": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"value": 4152.099999999999
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 5549,
+			"value": 1139.86
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 5469,
+			"value": 817.36
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 5512,
+			"value": 845.51
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 5488,
+			"value": 1069.08
+		},
+		{
+			"source": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
+			"target": 5470,
+			"value": 280.29
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 586.76
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 5522,
+			"value": 408.38
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 5493,
+			"value": 178.38
+		},
+		{
+			"source": -100,
+			"target": "CLARO S.A.",
+			"value": 1902.19
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 5465,
+			"value": 384.83
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 5466,
+			"value": 374.41
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 5509,
+			"value": 370.79
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 5544,
+			"value": 378.75
+		},
+		{
+			"source": "CLARO S.A.",
+			"target": 5484,
+			"value": 393.41
+		},
+		{
+			"source": -100,
+			"target": "Companhia Energética do Piauí",
+			"value": 2313.5
+		},
+		{
+			"source": "Companhia Energética do Piauí",
+			"target": 5545,
+			"value": 951.97
+		},
+		{
+			"source": "Companhia Energética do Piauí",
+			"target": 5485,
+			"value": 1361.53
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A - VIVO",
+			"value": 169.99
+		},
+		{
+			"source": "Telefônia Brasil S/A - VIVO",
+			"target": 5479,
+			"value": 169.99
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 9268.99
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5507,
+			"value": 1792.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5539,
+			"value": 845.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5536,
+			"value": 50
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5535,
+			"value": 20
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5505,
+			"value": 50
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5541,
+			"value": 1829.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5540,
+			"value": 1645.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5538,
+			"value": 1645.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5506,
+			"value": 1354.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 5537,
+			"value": 35
+		},
+		{
+			"source": -100,
+			"target": "AGUAS DE TERESINA SAN. SPE SA",
+			"value": 396.26
+		},
+		{
+			"source": "AGUAS DE TERESINA SAN. SPE SA",
+			"target": 5464,
+			"value": 45.64
+		},
+		{
+			"source": "AGUAS DE TERESINA SAN. SPE SA",
+			"target": 5542,
+			"value": 298.9
+		},
+		{
+			"source": "AGUAS DE TERESINA SAN. SPE SA",
+			"target": 5483,
+			"value": 48.23
+		},
+		{
+			"source": "AGUAS DE TERESINA SAN. SPE SA",
+			"target": 5508,
+			"value": 3.49
+		},
+		{
+			"source": -100,
+			"target": "FRANCISCO AVELINO DA SILVA",
+			"value": 407.03999999999996
+		},
+		{
+			"source": "FRANCISCO AVELINO DA SILVA",
+			"target": 5547,
+			"value": 195
+		},
+		{
+			"source": "FRANCISCO AVELINO DA SILVA",
+			"target": 5548,
+			"value": 212.04
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 618.1999999999998
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5518,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5514,
+			"value": 9.01
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5515,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5490,
+			"value": 43.34
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5475,
+			"value": 9.01
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5491,
+			"value": 30.9
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5516,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5556,
+			"value": 9.01
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5519,
+			"value": 43.34
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5474,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5557,
+			"value": 43.34
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5520,
+			"value": 9.01
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5517,
+			"value": 30.9
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5476,
+			"value": 43.34
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5473,
+			"value": 30.9
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5472,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5555,
+			"value": 31.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5553,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5554,
+			"value": 30.9
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 5489,
+			"value": 31.15
+		},
+		{
+			"source": -100,
+			"target": "MULTISOFT INFORMATICA LTDA",
+			"value": 2387.8
+		},
+		{
+			"source": "MULTISOFT INFORMATICA LTDA",
+			"target": 5486,
+			"value": 590
+		},
+		{
+			"source": "MULTISOFT INFORMATICA LTDA",
+			"target": 5467,
+			"value": 590
+		},
+		{
+			"source": "MULTISOFT INFORMATICA LTDA",
+			"target": 5546,
+			"value": 590
+		},
+		{
+			"source": "MULTISOFT INFORMATICA LTDA",
+			"target": 5510,
+			"value": 617.8
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 136.67000000000002
+		},
+		{
+			"source": "RAMAL",
+			"target": 5521,
+			"value": 71.01
+		},
+		{
+			"source": "RAMAL",
+			"target": 5558,
+			"value": 36.79
+		},
+		{
+			"source": "RAMAL",
+			"target": 5492,
+			"value": 15.32
+		},
+		{
+			"source": "RAMAL",
+			"target": 5477,
+			"value": 13.55
+		},
+		{
+			"source": -100,
+			"target": "VIVO",
+			"value": 399.99
+		},
+		{
+			"source": "VIVO",
+			"target": 5494,
+			"value": 399.99
+		},
+		{
+			"source": -100,
+			"target": "JOSÉ MARIA",
+			"value": 24000
+		},
+		{
+			"source": "JOSÉ MARIA",
+			"target": 5552,
+			"value": 8000
+		},
+		{
+			"source": "JOSÉ MARIA",
+			"target": 5513,
+			"value": 8000
+		},
+		{
+			"source": "JOSÉ MARIA",
+			"target": 5471,
+			"value": 8000
+		},
+		{
+			"source": -100,
+			"target": "Telefônia Brasil S/A",
+			"value": 429.35
+		},
+		{
+			"source": "Telefônia Brasil S/A",
+			"target": 5478,
+			"value": 429.35
+		},
+		{
+			"source": -100,
+			"target": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA",
+			"value": 168.5
+		},
+		{
+			"source": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA",
+			"target": 5543,
+			"value": 168.5
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA REGISTRADA COM AR",
+			"value": 309.35
+		},
+		{
+			"source": "CORREIOS - CARTA REGISTRADA COM AR",
+			"target": 5524,
+			"value": 309.35
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S. A.",
+			"value": 100
+		},
+		{
+			"source": "TELEFONICA BRASIL S. A.",
+			"target": 5559,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "ROCHA FILHO",
+			"value": 9810
+		},
+		{
+			"source": "ROCHA FILHO",
+			"target": 5468,
+			"value": 3500
+		},
+		{
+			"source": "ROCHA FILHO",
+			"target": 5511,
+			"value": 3155
+		},
+		{
+			"source": "ROCHA FILHO",
+			"target": 5487,
+			"value": 3155
+		},
+		{
+			"source": -100,
+			"target": "JOAO BATISTA SILVA BARROSO EIRELI - ME",
+			"value": 210
+		},
+		{
+			"source": "JOAO BATISTA SILVA BARROSO EIRELI - ME",
+			"target": 5550,
+			"value": 210
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"value": 73.2
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 5561,
+			"value": 12
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 5523,
+			"value": 61.2
+		},
+		{
+			"source": -100,
+			"target": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"value": 408.24
+		},
+		{
+			"source": "TELEFÔNICA BRASIL S.A. - VIVO",
+			"target": 5560,
+			"value": 408.24
+		},
+		{
+			"source": -100,
+			"target": "PIPEL PICOS PETROLEO LTDA",
+			"value": 100
+		},
+		{
+			"source": "PIPEL PICOS PETROLEO LTDA",
+			"target": 5551,
+			"value": 100
+		}
+	]
+}

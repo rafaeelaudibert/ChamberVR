@@ -1,0 +1,1449 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ACÁCIO FAVACHO"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "POSTO DE PETROLEO SAMAMBAIA LTDA",
+			"name": "POSTO DE PETROLEO SAMAMBAIA LTDA",
+			"val": 1.4176537429460445,
+			"desc": 60,
+			"group": "POSTO DE PETROLEO SAMAMBAIA LTDA"
+		},
+		{
+			"id": 1132,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "POSTO DE PETROLEO SAMAMBAIA LTDA"
+		},
+		{
+			"id": "POSTO E RESTAURANTE SÃO PAULO LTDA",
+			"name": "POSTO E RESTAURANTE SÃO PAULO LTDA",
+			"val": 20.662008735714345,
+			"desc": 565.02,
+			"group": "POSTO E RESTAURANTE SÃO PAULO LTDA"
+		},
+		{
+			"id": 1105,
+			"name": 225.01,
+			"val": 2.352201819659416,
+			"group": "POSTO E RESTAURANTE SÃO PAULO LTDA"
+		},
+		{
+			"id": 1104,
+			"name": 140,
+			"val": 2.146128035678238,
+			"group": "POSTO E RESTAURANTE SÃO PAULO LTDA"
+		},
+		{
+			"id": 1133,
+			"name": 200.01,
+			"val": 2.3010517098452263,
+			"group": "POSTO E RESTAURANTE SÃO PAULO LTDA"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 1.2823085600641613,
+			"desc": 55.36,
+			"group": "RAMAL"
+		},
+		{
+			"id": 1138,
+			"name": 17.37,
+			"val": 1.2397998184470986,
+			"group": "RAMAL"
+		},
+		{
+			"id": 1076,
+			"name": 23.05,
+			"val": 1.362670929725667,
+			"group": "RAMAL"
+		},
+		{
+			"id": 1114,
+			"name": 14.94,
+			"val": 1.17435059747938,
+			"group": "RAMAL"
+		},
+		{
+			"id": "TRAVEL TO AMAZON EIRELI - EPP",
+			"name": "TRAVEL TO AMAZON EIRELI - EPP",
+			"val": 2379.1850945497963,
+			"desc": 39000,
+			"group": "TRAVEL TO AMAZON EIRELI - EPP"
+		},
+		{
+			"id": 1134,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "TRAVEL TO AMAZON EIRELI - EPP"
+		},
+		{
+			"id": 1107,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "TRAVEL TO AMAZON EIRELI - EPP"
+		},
+		{
+			"id": 1074,
+			"name": 13000,
+			"val": 4.113943352306837,
+			"group": "TRAVEL TO AMAZON EIRELI - EPP"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 1035.65510582838,
+			"desc": 18286.79,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1087,
+			"name": 358.39,
+			"val": 2.554355883229462,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1080,
+			"name": 45,
+			"val": 1.6532125137753437,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1153,
+			"name": 544.79,
+			"val": 2.7362291272001076,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1083,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1157,
+			"name": 548.39,
+			"val": 2.739089526743996,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1082,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1158,
+			"name": 1788.39,
+			"val": 3.252462232792415,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1086,
+			"name": 1212,
+			"val": 3.0835026198302673,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1085,
+			"name": 782.79,
+			"val": 2.8936452689883154,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1150,
+			"name": 767.39,
+			"val": 2.8850161355280317,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1145,
+			"name": 1174.79,
+			"val": 3.069960241082544,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1148,
+			"name": 767.39,
+			"val": 2.8850161355280317,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1155,
+			"name": 416.39,
+			"val": 2.6195002909706586,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1159,
+			"name": 0,
+			"val": null,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1151,
+			"name": 834.79,
+			"val": 2.9215772379846583,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1149,
+			"name": 720.79,
+			"val": 2.8578087527560436,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1143,
+			"name": 1766.39,
+			"val": 3.2470865974003775,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1089,
+			"name": 281.39,
+			"val": 2.4493086594740374,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1154,
+			"name": 548.39,
+			"val": 2.739089526743996,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1088,
+			"name": 354.79,
+			"val": 2.549971370443728,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1144,
+			"name": 1390.39,
+			"val": 3.143136635571481,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1079,
+			"name": 30,
+			"val": 1.4771212547196624,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1152,
+			"name": 548.39,
+			"val": 2.739089526743996,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1147,
+			"name": 1386.79,
+			"val": 3.1420107013428265,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1146,
+			"name": 1000.39,
+			"val": 3.000169341828432,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1084,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1081,
+			"name": 49,
+			"val": 1.6901960800285136,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1090,
+			"name": 409.79,
+			"val": 2.612561356217913,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 1156,
+			"name": 412.79,
+			"val": 2.6157291677920633,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"val": 62.36685299830186,
+			"desc": 1480.44,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1095,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1124,
+			"name": 224.99,
+			"val": 2.3521632157054433,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1062,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1066,
+			"name": 100,
+			"val": 2,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1064,
+			"name": 160.01,
+			"val": 2.2041471252128475,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1094,
+			"name": 225.02,
+			"val": 2.3522211203496797,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1123,
+			"name": 215.38,
+			"val": 2.333205372625344,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1063,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1097,
+			"name": 120,
+			"val": 2.0791812460476247,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1096,
+			"name": 135.04,
+			"val": 2.1304624292815797,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": 1065,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+		},
+		{
+			"id": "LINHA DIRETA",
+			"name": "LINHA DIRETA",
+			"val": 3.1877483599528893,
+			"desc": 116.16999999999999,
+			"group": "LINHA DIRETA"
+		},
+		{
+			"id": 1137,
+			"name": 40.14,
+			"val": 1.6035773681514667,
+			"group": "LINHA DIRETA"
+		},
+		{
+			"id": 1113,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "LINHA DIRETA"
+		},
+		{
+			"id": 1112,
+			"name": 35.87,
+			"val": 1.5547313766759665,
+			"group": "LINHA DIRETA"
+		},
+		{
+			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"val": 40.97739330329691,
+			"desc": 1024.3799999999999,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1068,
+			"name": 100,
+			"val": 2,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1127,
+			"name": 180.03,
+			"val": 2.255344881485759,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1126,
+			"name": 190,
+			"val": 2.278753600952829,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1069,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1099,
+			"name": 179.25,
+			"val": 2.2534591643398376,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1098,
+			"name": 175.1,
+			"val": 2.243286146083446,
+			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "MIGUEL AUTO POSTO LTDA",
+			"name": "MIGUEL AUTO POSTO LTDA",
+			"val": 10.888699819882442,
+			"desc": 326.05,
+			"group": "MIGUEL AUTO POSTO LTDA"
+		},
+		{
+			"id": 1100,
+			"name": 126.04,
+			"val": 2.1005083945019623,
+			"group": "MIGUEL AUTO POSTO LTDA"
+		},
+		{
+			"id": 1070,
+			"name": 200.01,
+			"val": 2.3010517098452263,
+			"group": "MIGUEL AUTO POSTO LTDA"
+		},
+		{
+			"id": "ABRITTA POSTOS DE SERVICOS LTDA",
+			"name": "ABRITTA POSTOS DE SERVICOS LTDA",
+			"val": 1.1287712379549448,
+			"desc": 50,
+			"group": "ABRITTA POSTOS DE SERVICOS LTDA"
+		},
+		{
+			"id": 1091,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "ABRITTA POSTOS DE SERVICOS LTDA"
+		},
+		{
+			"id": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"name": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"val": 20.02723317850645,
+			"desc": 550,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1072,
+			"name": 90,
+			"val": 1.9542425094393248,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1071,
+			"name": 150,
+			"val": 2.1760912590556813,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1073,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1128,
+			"name": 80,
+			"val": 1.9030899869919435,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1102,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1101,
+			"name": 40,
+			"val": 1.6020599913279625,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1129,
+			"name": 100,
+			"val": 2,
+			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
+			"name": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
+			"val": 4.337291214297528,
+			"desc": 150,
+			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
+		},
+		{
+			"id": 1130,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
+		},
+		{
+			"id": 1103,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
+		},
+		{
+			"id": 1131,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
+		},
+		{
+			"id": "AUTO POSTO G SUL LTDA",
+			"name": "AUTO POSTO G SUL LTDA",
+			"val": 1.4176537429460445,
+			"desc": 60,
+			"group": "AUTO POSTO G SUL LTDA"
+		},
+		{
+			"id": 1093,
+			"name": 60,
+			"val": 1.7781512503836436,
+			"group": "AUTO POSTO G SUL LTDA"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 31.742021500470745,
+			"desc": 819.85,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 1141,
+			"name": 819.85,
+			"val": 2.9137344010040573,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "NATULINO BATISTA BASTOS MEI",
+			"name": "NATULINO BATISTA BASTOS MEI",
+			"val": 1017.7710685995168,
+			"desc": 18000,
+			"group": "NATULINO BATISTA BASTOS MEI"
+		},
+		{
+			"id": 1106,
+			"name": 18000,
+			"val": 4.2552725051033065,
+			"group": "NATULINO BATISTA BASTOS MEI"
+		},
+		{
+			"id": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO",
+			"name": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO",
+			"val": 3.6526470902915076,
+			"desc": 130.03,
+			"group": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO"
+		},
+		{
+			"id": 1120,
+			"name": 130.03,
+			"val": 2.1140435625480776,
+			"group": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO"
+		},
+		{
+			"id": "BRASAL COMBUSTIVEIS LTDA",
+			"name": "BRASAL COMBUSTIVEIS LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1061,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": 1122,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "BRASAL COMBUSTIVEIS LTDA"
+		},
+		{
+			"id": "AUTO POSTO QS 09 EIRELI",
+			"name": "AUTO POSTO QS 09 EIRELI",
+			"val": 1.7161992447445908,
+			"desc": 70,
+			"group": "AUTO POSTO QS 09 EIRELI"
+		},
+		{
+			"id": 1121,
+			"name": 70,
+			"val": 1.845098040014257,
+			"group": "AUTO POSTO QS 09 EIRELI"
+		},
+		{
+			"id": "CELULAR FUNCIONAL",
+			"name": "CELULAR FUNCIONAL",
+			"val": 7.33947382091764,
+			"desc": 233.27,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 1109,
+			"name": 30.77,
+			"val": 1.4881274962474584,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 1108,
+			"name": 35.87,
+			"val": 1.5547313766759665,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 1111,
+			"name": 40.16,
+			"val": 1.603793704136963,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 1136,
+			"name": 40.14,
+			"val": 1.6035773681514667,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 1075,
+			"name": 6.03,
+			"val": 0.7803173121401513,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 1110,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": 1135,
+			"name": 40.15,
+			"val": 1.6036855496146998,
+			"group": "CELULAR FUNCIONAL"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 136.59279549072255,
+			"desc": 2961.1800000000003,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 1078,
+			"name": 1788.39,
+			"val": 3.252462232792415,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 1142,
+			"name": 1172.79,
+			"val": 3.0692202542246325,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"val": 7.076111464853626,
+			"desc": 226.18,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 1067,
+			"name": 50,
+			"val": 1.6989700043360187,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": 1125,
+			"name": 176.18,
+			"val": 2.2459566056501967,
+			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
+		},
+		{
+			"id": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
+			"name": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
+			"val": 740.91627648858,
+			"desc": 13500,
+			"group": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE"
+		},
+		{
+			"id": 1140,
+			"name": 4500,
+			"val": 3.6532125137753435,
+			"group": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE"
+		},
+		{
+			"id": 1077,
+			"name": 4500,
+			"val": 3.6532125137753435,
+			"group": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE"
+		},
+		{
+			"id": 1116,
+			"name": 4500,
+			"val": 3.6532125137753435,
+			"group": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE"
+		},
+		{
+			"id": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"name": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"val": 6.11508495181978,
+			"desc": 200,
+			"group": "AUTO POSTO GOLDEN GAS NB LTDA"
+		},
+		{
+			"id": 1060,
+			"name": 200,
+			"val": 2.3010299956639813,
+			"group": "AUTO POSTO GOLDEN GAS NB LTDA"
+		},
+		{
+			"id": "Lucas Paulino de Sousa Nogueira",
+			"name": "Lucas Paulino de Sousa Nogueira",
+			"val": 66.8890303093688,
+			"desc": 1574.5,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 1118,
+			"name": 929.5,
+			"val": 2.9682493941079175,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": 1117,
+			"name": 645,
+			"val": 2.8095597146352675,
+			"group": "Lucas Paulino de Sousa Nogueira"
+		},
+		{
+			"id": "CORREIOS - SEDEX CONVENCIONAL",
+			"name": "CORREIOS - SEDEX CONVENCIONAL",
+			"val": 1.9768204114590622,
+			"desc": 78.50999999999999,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 1139,
+			"name": 53.19,
+			"val": 1.7258299903205803,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": 1115,
+			"name": 25.32,
+			"val": 1.4034637013453175,
+			"group": "CORREIOS - SEDEX CONVENCIONAL"
+		},
+		{
+			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
+			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
+			"val": 12.180594182061782,
+			"desc": 358.8,
+			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
+		},
+		{
+			"id": 1119,
+			"name": 358.8,
+			"val": 2.5548524343720547,
+			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
+		},
+		{
+			"id": "AUTO POSTO CEILANDIA NORTE LTDA",
+			"name": "AUTO POSTO CEILANDIA NORTE LTDA",
+			"val": 2.65754247590989,
+			"desc": 100,
+			"group": "AUTO POSTO CEILANDIA NORTE LTDA"
+		},
+		{
+			"id": 1092,
+			"name": 100,
+			"val": 2,
+			"group": "AUTO POSTO CEILANDIA NORTE LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "POSTO DE PETROLEO SAMAMBAIA LTDA",
+			"value": 60
+		},
+		{
+			"source": "POSTO DE PETROLEO SAMAMBAIA LTDA",
+			"target": 1132,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "POSTO E RESTAURANTE SÃO PAULO LTDA",
+			"value": 565.02
+		},
+		{
+			"source": "POSTO E RESTAURANTE SÃO PAULO LTDA",
+			"target": 1105,
+			"value": 225.01
+		},
+		{
+			"source": "POSTO E RESTAURANTE SÃO PAULO LTDA",
+			"target": 1104,
+			"value": 140
+		},
+		{
+			"source": "POSTO E RESTAURANTE SÃO PAULO LTDA",
+			"target": 1133,
+			"value": 200.01
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 55.36
+		},
+		{
+			"source": "RAMAL",
+			"target": 1138,
+			"value": 17.37
+		},
+		{
+			"source": "RAMAL",
+			"target": 1076,
+			"value": 23.05
+		},
+		{
+			"source": "RAMAL",
+			"target": 1114,
+			"value": 14.94
+		},
+		{
+			"source": -100,
+			"target": "TRAVEL TO AMAZON EIRELI - EPP",
+			"value": 39000
+		},
+		{
+			"source": "TRAVEL TO AMAZON EIRELI - EPP",
+			"target": 1134,
+			"value": 13000
+		},
+		{
+			"source": "TRAVEL TO AMAZON EIRELI - EPP",
+			"target": 1107,
+			"value": 13000
+		},
+		{
+			"source": "TRAVEL TO AMAZON EIRELI - EPP",
+			"target": 1074,
+			"value": 13000
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 18286.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1087,
+			"value": 358.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1080,
+			"value": 45
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1153,
+			"value": 544.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1083,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1157,
+			"value": 548.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1082,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1158,
+			"value": 1788.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1086,
+			"value": 1212
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1085,
+			"value": 782.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1150,
+			"value": 767.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1145,
+			"value": 1174.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1148,
+			"value": 767.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1155,
+			"value": 416.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1159,
+			"value": 0
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1151,
+			"value": 834.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1149,
+			"value": 720.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1143,
+			"value": 1766.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1089,
+			"value": 281.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1154,
+			"value": 548.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1088,
+			"value": 354.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1144,
+			"value": 1390.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1079,
+			"value": 30
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1152,
+			"value": 548.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1147,
+			"value": 1386.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1146,
+			"value": 1000.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1084,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1081,
+			"value": 49
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1090,
+			"value": 409.79
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 1156,
+			"value": 412.79
+		},
+		{
+			"source": -100,
+			"target": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"value": 1480.44
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1095,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1124,
+			"value": 224.99
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1062,
+			"value": 150
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1066,
+			"value": 100
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1064,
+			"value": 160.01
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1094,
+			"value": 225.02
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1123,
+			"value": 215.38
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1063,
+			"value": 50
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1097,
+			"value": 120
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1096,
+			"value": 135.04
+		},
+		{
+			"source": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+			"target": 1065,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "LINHA DIRETA",
+			"value": 116.16999999999999
+		},
+		{
+			"source": "LINHA DIRETA",
+			"target": 1137,
+			"value": 40.14
+		},
+		{
+			"source": "LINHA DIRETA",
+			"target": 1113,
+			"value": 40.16
+		},
+		{
+			"source": "LINHA DIRETA",
+			"target": 1112,
+			"value": 35.87
+		},
+		{
+			"source": -100,
+			"target": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"value": 1024.3799999999999
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 1068,
+			"value": 100
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 1127,
+			"value": 180.03
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 1126,
+			"value": 190
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 1069,
+			"value": 200
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 1099,
+			"value": 179.25
+		},
+		{
+			"source": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
+			"target": 1098,
+			"value": 175.1
+		},
+		{
+			"source": -100,
+			"target": "MIGUEL AUTO POSTO LTDA",
+			"value": 326.05
+		},
+		{
+			"source": "MIGUEL AUTO POSTO LTDA",
+			"target": 1100,
+			"value": 126.04
+		},
+		{
+			"source": "MIGUEL AUTO POSTO LTDA",
+			"target": 1070,
+			"value": 200.01
+		},
+		{
+			"source": -100,
+			"target": "ABRITTA POSTOS DE SERVICOS LTDA",
+			"value": 50
+		},
+		{
+			"source": "ABRITTA POSTOS DE SERVICOS LTDA",
+			"target": 1091,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"value": 550
+		},
+		{
+			"source": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"target": 1072,
+			"value": 90
+		},
+		{
+			"source": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"target": 1071,
+			"value": 150
+		},
+		{
+			"source": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"target": 1073,
+			"value": 50
+		},
+		{
+			"source": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"target": 1128,
+			"value": 80
+		},
+		{
+			"source": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"target": 1102,
+			"value": 40
+		},
+		{
+			"source": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"target": 1101,
+			"value": 40
+		},
+		{
+			"source": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+			"target": 1129,
+			"value": 100
+		},
+		{
+			"source": -100,
+			"target": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
+			"value": 150
+		},
+		{
+			"source": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
+			"target": 1130,
+			"value": 50
+		},
+		{
+			"source": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
+			"target": 1103,
+			"value": 50
+		},
+		{
+			"source": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
+			"target": 1131,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO G SUL LTDA",
+			"value": 60
+		},
+		{
+			"source": "AUTO POSTO G SUL LTDA",
+			"target": 1093,
+			"value": 60
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 819.85
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 1141,
+			"value": 819.85
+		},
+		{
+			"source": -100,
+			"target": "NATULINO BATISTA BASTOS MEI",
+			"value": 18000
+		},
+		{
+			"source": "NATULINO BATISTA BASTOS MEI",
+			"target": 1106,
+			"value": 18000
+		},
+		{
+			"source": -100,
+			"target": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO",
+			"value": 130.03
+		},
+		{
+			"source": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO",
+			"target": 1120,
+			"value": 130.03
+		},
+		{
+			"source": -100,
+			"target": "BRASAL COMBUSTIVEIS LTDA",
+			"value": 100
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 1061,
+			"value": 50
+		},
+		{
+			"source": "BRASAL COMBUSTIVEIS LTDA",
+			"target": 1122,
+			"value": 50
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO QS 09 EIRELI",
+			"value": 70
+		},
+		{
+			"source": "AUTO POSTO QS 09 EIRELI",
+			"target": 1121,
+			"value": 70
+		},
+		{
+			"source": -100,
+			"target": "CELULAR FUNCIONAL",
+			"value": 233.27
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 1109,
+			"value": 30.77
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 1108,
+			"value": 35.87
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 1111,
+			"value": 40.16
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 1136,
+			"value": 40.14
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 1075,
+			"value": 6.03
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 1110,
+			"value": 40.15
+		},
+		{
+			"source": "CELULAR FUNCIONAL",
+			"target": 1135,
+			"value": 40.15
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 2961.1800000000003
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 1078,
+			"value": 1788.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 1142,
+			"value": 1172.79
+		},
+		{
+			"source": -100,
+			"target": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"value": 226.18
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 1067,
+			"value": 50
+		},
+		{
+			"source": "DRA 4 DERIVADOS DE PETROLEO LTDA",
+			"target": 1125,
+			"value": 176.18
+		},
+		{
+			"source": -100,
+			"target": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
+			"value": 13500
+		},
+		{
+			"source": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
+			"target": 1140,
+			"value": 4500
+		},
+		{
+			"source": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
+			"target": 1077,
+			"value": 4500
+		},
+		{
+			"source": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
+			"target": 1116,
+			"value": 4500
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"value": 200
+		},
+		{
+			"source": "AUTO POSTO GOLDEN GAS NB LTDA",
+			"target": 1060,
+			"value": 200
+		},
+		{
+			"source": -100,
+			"target": "Lucas Paulino de Sousa Nogueira",
+			"value": 1574.5
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 1118,
+			"value": 929.5
+		},
+		{
+			"source": "Lucas Paulino de Sousa Nogueira",
+			"target": 1117,
+			"value": 645
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX CONVENCIONAL",
+			"value": 78.50999999999999
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 1139,
+			"value": 53.19
+		},
+		{
+			"source": "CORREIOS - SEDEX CONVENCIONAL",
+			"target": 1115,
+			"value": 25.32
+		},
+		{
+			"source": -100,
+			"target": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
+			"value": 358.8
+		},
+		{
+			"source": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
+			"target": 1119,
+			"value": 358.8
+		},
+		{
+			"source": -100,
+			"target": "AUTO POSTO CEILANDIA NORTE LTDA",
+			"value": 100
+		},
+		{
+			"source": "AUTO POSTO CEILANDIA NORTE LTDA",
+			"target": 1092,
+			"value": 100
+		}
+	]
+}

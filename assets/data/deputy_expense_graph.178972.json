@@ -1,0 +1,1413 @@
+{
+	"nodes": [
+		{
+			"id": -100,
+			"name": "ALEX MANENTE"
+		},
+		{
+			"id": -4,
+			"name": "Voltar",
+			"val": 50000
+		},
+		{
+			"id": -3,
+			"name": "Placeholder",
+			"val": 0
+		},
+		{
+			"id": -3,
+			"name": "Visualizar fichas",
+			"val": 50000
+		},
+		{
+			"id": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"name": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"val": 60.28271842498428,
+			"desc": 1436.8500000000001,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2808,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2771,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2847,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2806,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2770,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2807,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2845,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2846,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": 2772,
+			"name": 159.65,
+			"val": 2.203168922875464,
+			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
+		},
+		{
+			"id": "CORREIOS - CARTA COMERCIAL",
+			"name": "CORREIOS - CARTA COMERCIAL",
+			"val": 0.096,
+			"desc": 8,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": 2819,
+			"name": 8,
+			"val": 0.9030899869919435,
+			"group": "CORREIOS - CARTA COMERCIAL"
+		},
+		{
+			"id": "Cia Aérea - TAM",
+			"name": "Cia Aérea - TAM",
+			"val": 600.3995926090957,
+			"desc": 11162.82,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2790,
+			"name": 159.39,
+			"val": 2.2024610706293997,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2797,
+			"name": -657.17,
+			"val": null,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2791,
+			"name": 1205.84,
+			"val": 3.0812896861400034,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2835,
+			"name": 133.39,
+			"val": 2.1251232725519977,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2789,
+			"name": 395.39,
+			"val": 2.597025681164456,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2831,
+			"name": 658.85,
+			"val": 2.8187865502732348,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2796,
+			"name": 278.56,
+			"val": 2.444918753773256,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2794,
+			"name": 657.17,
+			"val": 2.817677729547203,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2862,
+			"name": 1071.85,
+			"val": 3.030134012287374,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2798,
+			"name": -31.27,
+			"val": null,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2788,
+			"name": 397.17,
+			"val": 2.5989764368865176,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2799,
+			"name": -31.27,
+			"val": null,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2837,
+			"name": 696.85,
+			"val": 2.843139304377685,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2833,
+			"name": 1032.84,
+			"val": 3.014033049013286,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2836,
+			"name": 696.85,
+			"val": 2.843139304377685,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2834,
+			"name": 133.39,
+			"val": 2.1251232725519977,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2859,
+			"name": 548.39,
+			"val": 2.739089526743996,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2832,
+			"name": 987.39,
+			"val": 2.9944887244970317,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2860,
+			"name": 159.39,
+			"val": 2.2024610706293997,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2793,
+			"name": 119.39,
+			"val": 2.0769679521979185,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2792,
+			"name": 121.17,
+			"val": 2.083395107889651,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2838,
+			"name": 926.85,
+			"val": 2.9670094542702596,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2795,
+			"name": 430.56,
+			"val": 2.6340336804196793,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": 2861,
+			"name": 1071.85,
+			"val": 3.030134012287374,
+			"group": "Cia Aérea - TAM"
+		},
+		{
+			"id": "Cia Aérea - AZUL",
+			"name": "Cia Aérea - AZUL",
+			"val": 119.39422782086487,
+			"desc": 2627.62,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 2786,
+			"name": 848.39,
+			"val": 2.9285955408317776,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 2825,
+			"name": 930.84,
+			"val": 2.9688750374918103,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": 2787,
+			"name": 848.39,
+			"val": 2.9285955408317776,
+			"group": "Cia Aérea - AZUL"
+		},
+		{
+			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"val": 51.43480818214622,
+			"desc": 1249.9199999999998,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2766,
+			"name": 354.32,
+			"val": 2.5493956672767024,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2843,
+			"name": 136.01,
+			"val": 2.1335708406140395,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2803,
+			"name": 163.03,
+			"val": 2.2122675285489377,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2842,
+			"name": 353.36,
+			"val": 2.5482173862503346,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2844,
+			"name": 45.26,
+			"val": 1.6557145496187098,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2767,
+			"name": 103.28,
+			"val": 2.014016229258364,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2768,
+			"name": 48.36,
+			"val": 1.6844862921887342,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": 2804,
+			"name": 46.3,
+			"val": 1.665580991017953,
+			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
+		},
+		{
+			"id": "Telefônica Brasil S/A.",
+			"name": "Telefônica Brasil S/A.",
+			"val": 53.47548953387908,
+			"desc": 1293.32,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 2816,
+			"name": 156.46,
+			"val": 2.194403325910006,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 2815,
+			"name": 273.43,
+			"val": 2.436846162461821,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 2814,
+			"name": 301.92,
+			"val": 2.4798918828208563,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": 2813,
+			"name": 561.51,
+			"val": 2.749357495069688,
+			"group": "Telefônica Brasil S/A."
+		},
+		{
+			"id": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"name": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"val": 11.102419069709292,
+			"desc": 331.5,
+			"group": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME"
+		},
+		{
+			"id": 2783,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME"
+		},
+		{
+			"id": 2857,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME"
+		},
+		{
+			"id": 2822,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME"
+		},
+		{
+			"id": 2823,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME"
+		},
+		{
+			"id": 2782,
+			"name": 66.3,
+			"val": 1.8215135284047732,
+			"group": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME"
+		},
+		{
+			"id": "Telefônica Brasil S/A",
+			"name": "Telefônica Brasil S/A",
+			"val": 125.22656393804186,
+			"desc": 2741.2400000000002,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 2853,
+			"name": 576.97,
+			"val": 2.7611532322663495,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 2852,
+			"name": 1396.22,
+			"val": 3.144953854718524,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 2855,
+			"name": 287.52,
+			"val": 2.4586680597648987,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 2856,
+			"name": 158.15,
+			"val": 2.1990691962517417,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": 2854,
+			"name": 322.38,
+			"val": 2.5083680909523376,
+			"group": "Telefônica Brasil S/A"
+		},
+		{
+			"id": "Cia Aérea - GOL",
+			"name": "Cia Aérea - GOL",
+			"val": 208.37266194341652,
+			"desc": 4314.18,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2827,
+			"name": 302.85,
+			"val": 2.4812275779993205,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2828,
+			"name": 1317.39,
+			"val": 3.1197143624899626,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2858,
+			"name": -289.35,
+			"val": null,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2829,
+			"name": 1530.17,
+			"val": 3.184739683079401,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2826,
+			"name": 1150.27,
+			"val": 3.0607997931771083,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": 2830,
+			"name": 302.85,
+			"val": 2.4812275779993205,
+			"group": "Cia Aérea - GOL"
+		},
+		{
+			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"val": 0.040510063045521565,
+			"desc": 4.6,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": 2818,
+			"name": 4.6,
+			"val": 0.6627578316815741,
+			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
+		},
+		{
+			"id": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
+			"name": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
+			"val": 1363.3188447645362,
+			"desc": 23475,
+			"group": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO"
+		},
+		{
+			"id": 2850,
+			"name": 7675,
+			"val": 3.885078384149224,
+			"group": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO"
+		},
+		{
+			"id": 2811,
+			"name": 7675,
+			"val": 3.885078384149224,
+			"group": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO"
+		},
+		{
+			"id": 2775,
+			"name": 8125,
+			"val": 3.909823369650912,
+			"group": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO"
+		},
+		{
+			"id": "Telefônica Brasil S. A. VIVO",
+			"name": "Telefônica Brasil S. A. VIVO",
+			"val": 52.58998876125153,
+			"desc": 1274.51,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 2780,
+			"name": 143.8,
+			"val": 2.1577588860468637,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 2779,
+			"name": 291.47,
+			"val": 2.4645938609648765,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 2777,
+			"name": 545.92,
+			"val": 2.7371290051514103,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": 2778,
+			"name": 293.32,
+			"val": 2.467341676323573,
+			"group": "Telefônica Brasil S. A. VIVO"
+		},
+		{
+			"id": "Sky Serviços de Banda Larga Ltda",
+			"name": "Sky Serviços de Banda Larga Ltda",
+			"val": 14.82737192373662,
+			"desc": 424.60999999999996,
+			"group": "Sky Serviços de Banda Larga Ltda"
+		},
+		{
+			"id": 2809,
+			"name": 142.59,
+			"val": 2.1540890690144208,
+			"group": "Sky Serviços de Banda Larga Ltda"
+		},
+		{
+			"id": 2773,
+			"name": 139.57,
+			"val": 2.144792078497715,
+			"group": "Sky Serviços de Banda Larga Ltda"
+		},
+		{
+			"id": 2848,
+			"name": 142.45,
+			"val": 2.1536624535754956,
+			"group": "Sky Serviços de Banda Larga Ltda"
+		},
+		{
+			"id": "CORREIOS - SEDEX 10",
+			"name": "CORREIOS - SEDEX 10",
+			"val": 2.4965451311657603,
+			"desc": 95,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": 2821,
+			"name": 95,
+			"val": 1.9777236052888478,
+			"group": "CORREIOS - SEDEX 10"
+		},
+		{
+			"id": "RAMAL",
+			"name": "RAMAL",
+			"val": 10.534583849764156,
+			"desc": 316.99,
+			"group": "RAMAL"
+		},
+		{
+			"id": 2812,
+			"name": 136.53,
+			"val": 2.135228090226055,
+			"group": "RAMAL"
+		},
+		{
+			"id": 2776,
+			"name": 73.49,
+			"val": 1.8662282473796472,
+			"group": "RAMAL"
+		},
+		{
+			"id": 2851,
+			"name": 106.97,
+			"val": 2.029261995804175,
+			"group": "RAMAL"
+		},
+		{
+			"id": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"name": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"val": 415.42094954914353,
+			"desc": 8008.95,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2841,
+			"name": 882.85,
+			"val": 2.945886921350944,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2765,
+			"name": 876.92,
+			"val": 2.942959975186675,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2839,
+			"name": 1085.84,
+			"val": 3.035765836084906,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2800,
+			"name": 853.54,
+			"val": 2.9312238785523546,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2802,
+			"name": 871.56,
+			"val": 2.94029729020902,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2840,
+			"name": 858.25,
+			"val": 2.9336138120977875,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2763,
+			"name": 861.69,
+			"val": 2.93535105294323,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2801,
+			"name": 860.97,
+			"val": 2.934988018978108,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": 2764,
+			"name": 857.33,
+			"val": 2.9331480209814873,
+			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
+		},
+		{
+			"id": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"name": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"val": 63.30448071229946,
+			"desc": 1500,
+			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
+		},
+		{
+			"id": 2849,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
+		},
+		{
+			"id": 2774,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
+		},
+		{
+			"id": 2810,
+			"name": 500,
+			"val": 2.6989700043360187,
+			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
+		},
+		{
+			"id": "TELEFONICA BRASIL SA VIVO/GVT",
+			"name": "TELEFONICA BRASIL SA VIVO/GVT",
+			"val": 57.392333104411236,
+			"desc": 1376.13,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": 2817,
+			"name": 1376.13,
+			"val": 3.138659462690058,
+			"group": "TELEFONICA BRASIL SA VIVO/GVT"
+		},
+		{
+			"id": "Cia Aérea - AVIANCA",
+			"name": "Cia Aérea - AVIANCA",
+			"val": 63.298723887923344,
+			"desc": 1499.88,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 2785,
+			"name": 749.94,
+			"val": 2.8750265184433315,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": 2784,
+			"name": 749.94,
+			"val": 2.8750265184433315,
+			"group": "Cia Aérea - AVIANCA"
+		},
+		{
+			"id": "NOBILE RIBEIRAO PRETO",
+			"name": "NOBILE RIBEIRAO PRETO",
+			"val": 14.477531690986778,
+			"desc": 416,
+			"group": "NOBILE RIBEIRAO PRETO"
+		},
+		{
+			"id": 2824,
+			"name": 416,
+			"val": 2.6190933306267428,
+			"group": "NOBILE RIBEIRAO PRETO"
+		},
+		{
+			"id": "TELEFONICA BRASIL S.A.",
+			"name": "TELEFONICA BRASIL S.A.",
+			"val": 44.23099766663907,
+			"desc": 1095.16,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": 2781,
+			"name": 1095.16,
+			"val": 3.0394775730947807,
+			"group": "TELEFONICA BRASIL S.A."
+		},
+		{
+			"id": "CORREIOS - ENCOMENDA PAC COM AR",
+			"name": "CORREIOS - ENCOMENDA PAC COM AR",
+			"val": 0.44087982713129625,
+			"desc": 24.03,
+			"group": "CORREIOS - ENCOMENDA PAC COM AR"
+		},
+		{
+			"id": 2820,
+			"name": 24.03,
+			"val": 1.3807537708039002,
+			"group": "CORREIOS - ENCOMENDA PAC COM AR"
+		},
+		{
+			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
+			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
+			"val": 29.063730022144693,
+			"desc": 759.35,
+			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ..."
+		},
+		{
+			"id": 2805,
+			"name": 759.35,
+			"val": 2.880441997282326,
+			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ..."
+		},
+		{
+			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
+			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
+			"val": 24.55378445067588,
+			"desc": 655.99,
+			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
+		},
+		{
+			"id": 2769,
+			"name": 655.99,
+			"val": 2.8168972189824877,
+			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
+		}
+	],
+	"links": [
+		{
+			"source": -100,
+			"target": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"value": 1436.8500000000001
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2808,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2771,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2847,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2806,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2770,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2807,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2845,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2846,
+			"value": 159.65
+		},
+		{
+			"source": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
+			"target": 2772,
+			"value": 159.65
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CARTA COMERCIAL",
+			"value": 8
+		},
+		{
+			"source": "CORREIOS - CARTA COMERCIAL",
+			"target": 2819,
+			"value": 8
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - TAM",
+			"value": 11162.82
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2790,
+			"value": 159.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2797,
+			"value": -657.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2791,
+			"value": 1205.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2835,
+			"value": 133.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2789,
+			"value": 395.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2831,
+			"value": 658.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2796,
+			"value": 278.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2794,
+			"value": 657.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2862,
+			"value": 1071.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2798,
+			"value": -31.27
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2788,
+			"value": 397.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2799,
+			"value": -31.27
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2837,
+			"value": 696.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2833,
+			"value": 1032.84
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2836,
+			"value": 696.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2834,
+			"value": 133.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2859,
+			"value": 548.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2832,
+			"value": 987.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2860,
+			"value": 159.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2793,
+			"value": 119.39
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2792,
+			"value": 121.17
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2838,
+			"value": 926.85
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2795,
+			"value": 430.56
+		},
+		{
+			"source": "Cia Aérea - TAM",
+			"target": 2861,
+			"value": 1071.85
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AZUL",
+			"value": 2627.62
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 2786,
+			"value": 848.39
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 2825,
+			"value": 930.84
+		},
+		{
+			"source": "Cia Aérea - AZUL",
+			"target": 2787,
+			"value": 848.39
+		},
+		{
+			"source": -100,
+			"target": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"value": 1249.9199999999998
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2766,
+			"value": 354.32
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2843,
+			"value": 136.01
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2803,
+			"value": 163.03
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2842,
+			"value": 353.36
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2844,
+			"value": 45.26
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2767,
+			"value": 103.28
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2768,
+			"value": 48.36
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
+			"target": 2804,
+			"value": 46.3
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A.",
+			"value": 1293.32
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 2816,
+			"value": 156.46
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 2815,
+			"value": 273.43
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 2814,
+			"value": 301.92
+		},
+		{
+			"source": "Telefônica Brasil S/A.",
+			"target": 2813,
+			"value": 561.51
+		},
+		{
+			"source": -100,
+			"target": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"value": 331.5
+		},
+		{
+			"source": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"target": 2783,
+			"value": 66.3
+		},
+		{
+			"source": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"target": 2857,
+			"value": 66.3
+		},
+		{
+			"source": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"target": 2822,
+			"value": 66.3
+		},
+		{
+			"source": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"target": 2823,
+			"value": 66.3
+		},
+		{
+			"source": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
+			"target": 2782,
+			"value": 66.3
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S/A",
+			"value": 2741.2400000000002
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 2853,
+			"value": 576.97
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 2852,
+			"value": 1396.22
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 2855,
+			"value": 287.52
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 2856,
+			"value": 158.15
+		},
+		{
+			"source": "Telefônica Brasil S/A",
+			"target": 2854,
+			"value": 322.38
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - GOL",
+			"value": 4314.18
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2827,
+			"value": 302.85
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2828,
+			"value": 1317.39
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2858,
+			"value": -289.35
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2829,
+			"value": 1530.17
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2826,
+			"value": 1150.27
+		},
+		{
+			"source": "Cia Aérea - GOL",
+			"target": 2830,
+			"value": 302.85
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"value": 4.6
+		},
+		{
+			"source": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
+			"target": 2818,
+			"value": 4.6
+		},
+		{
+			"source": -100,
+			"target": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
+			"value": 23475
+		},
+		{
+			"source": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
+			"target": 2850,
+			"value": 7675
+		},
+		{
+			"source": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
+			"target": 2811,
+			"value": 7675
+		},
+		{
+			"source": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
+			"target": 2775,
+			"value": 8125
+		},
+		{
+			"source": -100,
+			"target": "Telefônica Brasil S. A. VIVO",
+			"value": 1274.51
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 2780,
+			"value": 143.8
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 2779,
+			"value": 291.47
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 2777,
+			"value": 545.92
+		},
+		{
+			"source": "Telefônica Brasil S. A. VIVO",
+			"target": 2778,
+			"value": 293.32
+		},
+		{
+			"source": -100,
+			"target": "Sky Serviços de Banda Larga Ltda",
+			"value": 424.60999999999996
+		},
+		{
+			"source": "Sky Serviços de Banda Larga Ltda",
+			"target": 2809,
+			"value": 142.59
+		},
+		{
+			"source": "Sky Serviços de Banda Larga Ltda",
+			"target": 2773,
+			"value": 139.57
+		},
+		{
+			"source": "Sky Serviços de Banda Larga Ltda",
+			"target": 2848,
+			"value": 142.45
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - SEDEX 10",
+			"value": 95
+		},
+		{
+			"source": "CORREIOS - SEDEX 10",
+			"target": 2821,
+			"value": 95
+		},
+		{
+			"source": -100,
+			"target": "RAMAL",
+			"value": 316.99
+		},
+		{
+			"source": "RAMAL",
+			"target": 2812,
+			"value": 136.53
+		},
+		{
+			"source": "RAMAL",
+			"target": 2776,
+			"value": 73.49
+		},
+		{
+			"source": "RAMAL",
+			"target": 2851,
+			"value": 106.97
+		},
+		{
+			"source": -100,
+			"target": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"value": 8008.95
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2841,
+			"value": 882.85
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2765,
+			"value": 876.92
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2839,
+			"value": 1085.84
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2800,
+			"value": 853.54
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2802,
+			"value": 871.56
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2840,
+			"value": 858.25
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2763,
+			"value": 861.69
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2801,
+			"value": 860.97
+		},
+		{
+			"source": "CENTRO EMPRESARIAL MEDITERRANEO",
+			"target": 2764,
+			"value": 857.33
+		},
+		{
+			"source": -100,
+			"target": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"value": 1500
+		},
+		{
+			"source": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"target": 2849,
+			"value": 500
+		},
+		{
+			"source": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"target": 2774,
+			"value": 500
+		},
+		{
+			"source": "SOLARYS SOLUCOES DIGITAIS LTDA",
+			"target": 2810,
+			"value": 500
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL SA VIVO/GVT",
+			"value": 1376.13
+		},
+		{
+			"source": "TELEFONICA BRASIL SA VIVO/GVT",
+			"target": 2817,
+			"value": 1376.13
+		},
+		{
+			"source": -100,
+			"target": "Cia Aérea - AVIANCA",
+			"value": 1499.88
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 2785,
+			"value": 749.94
+		},
+		{
+			"source": "Cia Aérea - AVIANCA",
+			"target": 2784,
+			"value": 749.94
+		},
+		{
+			"source": -100,
+			"target": "NOBILE RIBEIRAO PRETO",
+			"value": 416
+		},
+		{
+			"source": "NOBILE RIBEIRAO PRETO",
+			"target": 2824,
+			"value": 416
+		},
+		{
+			"source": -100,
+			"target": "TELEFONICA BRASIL S.A.",
+			"value": 1095.16
+		},
+		{
+			"source": "TELEFONICA BRASIL S.A.",
+			"target": 2781,
+			"value": 1095.16
+		},
+		{
+			"source": -100,
+			"target": "CORREIOS - ENCOMENDA PAC COM AR",
+			"value": 24.03
+		},
+		{
+			"source": "CORREIOS - ENCOMENDA PAC COM AR",
+			"target": 2820,
+			"value": 24.03
+		},
+		{
+			"source": -100,
+			"target": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
+			"value": 759.35
+		},
+		{
+			"source": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
+			"target": 2805,
+			"value": 759.35
+		},
+		{
+			"source": -100,
+			"target": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
+			"value": 655.99
+		},
+		{
+			"source": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
+			"target": 2769,
+			"value": 655.99
+		}
+	]
+}
