@@ -9,7 +9,12 @@
 
     document.addEventListener('keyup', (event) => {
       if (event.code === 'Space' && selected_node != null) {
-        console.log('Space pressed on valid object');
+        if (selected_node.name.toLowerCase() == 'voltar') {
+          window.location.href = "/";
+        } else if (selected_node.name.toLowerCase() == 'visualizar fichas') {
+          const name = document.getElementById('forcegraph').components.forcegraph.forceGraph.children[0].__data.name
+          window.location.href = `http://ec2-34-237-60-91.compute-1.amazonaws.com:5000/deputados/${name}`;
+        }
       }
     })
   </script>
@@ -32,7 +37,7 @@
         </a-entity>
         <a-sky color="#002"></a-sky>
 
-        <a-entity forcegraph="json-url: /data/deputy_expense_graph.<%= id %>.json; node-auto-color-by: group; on-node-center-hover: hover_node; node-three-object: render_img; node-label: name;"></a-entity>
+        <a-entity id="forcegraph" forcegraph="json-url: /data/deputy_expense_graph.<%= id %>.json; node-auto-color-by: group; on-node-center-hover: hover_node; node-three-object: render_img; node-label: name;"></a-entity>
     </a-scene>
   
 </body>
