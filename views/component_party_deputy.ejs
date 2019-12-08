@@ -8,16 +8,11 @@
       let imgTexture, material, scale;
 
       if (type == 'party') {
-        imgTexture = new THREE.TextureLoader().load(`http://localhost:5500/assets/photos/parties/${desc.toLowerCase()}.png`);
+        imgTexture = new THREE.TextureLoader().load(`/photos/parties/${desc.toLowerCase()}.png`);
         material = new THREE.SpriteMaterial({ map: imgTexture });
         scale = desc.toLowerCase() == 'camara' ? 60 : 25;
-      } else if (type == 'button') {
-        return null;
       } else {
-        // imgTexture = new THREE.TextureLoader().load(`http://localhost:5500/assets/photos/deputies/${img}.jpg`);
-        // material = new THREE.SpriteMaterial({ map: imgTexture });
-        // scale = 15;
-        return null;
+        return null; // Render as sphere
       }
 
       const sprite = new THREE.Sprite(material);
@@ -27,7 +22,14 @@
       
     };
 
-    const hover_node = node => console.log(node);
+    let selected_node = null;
+    const hover_node = node => selected_node = node;
+
+    document.addEventListener('keyup', (event) => {
+      if (event.code === 'Space' && selected_node != null) {
+        window.location.href = `/deputies/${selected_node.id}.html`;
+      }
+    })
   </script>
 </head> 
 

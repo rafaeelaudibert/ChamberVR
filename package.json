@@ -1,0 +1,26 @@
+{
+  "name": "chambervr",
+  "version": "1.0.0",
+  "description": "WebVR application developed for INF01043 - Human-Computer Interaction final assignment at [INF](https://inf.ufrgs.br)-[UFRGS](https://ufrgs.br).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeelaudibert/ChamberVR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeelaudibert/ChamberVR/issues"
+  },
+  "homepage": "https://github.com/rafaeelaudibert/ChamberVR#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}

@@ -9,29 +9,6 @@
             "desc": "camara"
         },
         {
-            "id": 1,
-            "type": "button",
-            "name": "Voltar",
-            "color": "#ff4444",
-            "group": 1,
-            "val": 50000
-        },
-        {
-            "id": 2,
-            "type": "button",
-            "name": "Visualizar",
-            "group": 1,
-            "val": 0
-        },
-        {
-            "id": 3,
-            "type": "button",
-            "name": "Visualizar",
-            "group": 1,
-            "color": "#fff64d",
-            "val": 50000
-        },
-        {
             "val": 38,
             "type": "party",
             "name": "Partido Liberal",

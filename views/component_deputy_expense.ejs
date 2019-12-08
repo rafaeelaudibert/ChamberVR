@@ -1,0 +1,48 @@
+<head>
+  <style> body { margin: 0; } </style>
+
+  <script src="https://unpkg.com/three"></script>
+  <script src="https://unpkg.com/3d-force-graph-vr"></script>
+  <script>
+    let selected_node = null;
+    const hover_node = node => selected_node = node;
+
+    document.addEventListener('keyup', (event) => {
+      if (event.code === 'Space' && selected_node != null) {
+        console.log('Space pressed on valid object');
+      }
+    })
+  </script>
+</head> 
+
+<body>
+    <a-scene stats>
+        <a-entity vive-controls="hand: left"></a-entity>
+        <a-entity vive-controls="hand: right"></a-entity>
+
+        <a-entity id="rig"
+          movement-controls="fly: true"
+          universal-controls="movementAcceleration: 5000">
+            <a-camera wasd-controls="fly: true; acceleration: 5000" look-controls>
+              <a-entity cursor="fuse: true; fuseTimeout: 500"
+                position="0 0 -1"
+                geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+                material="color: black; shader: flat">
+            </a-camera>
+        </a-entity>
+        <a-sky color="#002"></a-sky>
+
+        <a-entity forcegraph="json-url: /data/deputy_expense_graph.<%= id %>.json; node-auto-color-by: group; on-node-center-hover: hover_node; node-three-object: render_img; node-label: name;"></a-entity>
+    </a-scene>
+  
+</body>
+
+
+        {# {
+            "id": 1,
+            "type": "button",
+            "name": "Voltar",
+            "color": "#ff4444",
+            "group": 1,
+            "val": 50000
+        }, #}
