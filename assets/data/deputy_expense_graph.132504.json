@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ENIO VERRI"
+			"name": "ENIO VERRI",
+			"desc": "132876.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1632.4852248972381,
-			"desc": 27659,
+			"desc": "27659.00",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.138146069586779,
-			"desc": 144.24,
+			"desc": "144.24",
 			"group": "RAMAL"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "ATLANTA MARINGA MONITORAMENTO LTDA",
 			"name": "ATLANTA MARINGA MONITORAMENTO LTDA",
 			"val": 44.06716828807578,
-			"desc": 1091.6100000000001,
+			"desc": "1091.61",
 			"group": "ATLANTA MARINGA MONITORAMENTO LTDA"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "M B PROPAGANDA LTDA",
 			"name": "M B PROPAGANDA LTDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "M B PROPAGANDA LTDA"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "netos car locadora de veículos ltda",
 			"name": "netos car locadora de veículos ltda",
 			"val": 1269.4189994903459,
-			"desc": 22000,
+			"desc": "22000.00",
 			"group": "netos car locadora de veículos ltda"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 128.20456853927,
-			"desc": 2799.05,
+			"desc": "2799.05",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.0907016401308722,
-			"desc": 7.7,
+			"desc": "7.70",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "Siao Auto Posto Eireli",
 			"name": "Siao Auto Posto Eireli",
 			"val": 629.8126673541365,
-			"desc": 11655.650000000001,
+			"desc": "11655.65",
 			"group": "Siao Auto Posto Eireli"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 29.001633757659842,
-			"desc": 757.94,
+			"desc": "757.94",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 63.325109787879086,
-			"desc": 1500.43,
+			"desc": "1500.43",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "HOTELARIA MOURÃO LTDA",
 			"name": "HOTELARIA MOURÃO LTDA",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "HOTELARIA MOURÃO LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "AUTO POSTO VALE DO RENO LTDA",
 			"name": "AUTO POSTO VALE DO RENO LTDA",
 			"val": 15.904607300671122,
-			"desc": 450.97,
+			"desc": "450.97",
 			"group": "AUTO POSTO VALE DO RENO LTDA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 20.531228799033894,
-			"desc": 561.9300000000001,
+			"desc": "561.93",
 			"group": "CLARO S/A"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.4683645463284556,
-			"desc": 94.12,
+			"desc": "94.12",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "jeferson paulo de souza ltda - me",
 			"name": "jeferson paulo de souza ltda - me",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "jeferson paulo de souza ltda - me"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 14.237991403239349,
-			"desc": 410.09,
+			"desc": "410.09",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "INTELIG TELECOMUNICAÇÕES LTDA",
 			"name": "INTELIG TELECOMUNICAÇÕES LTDA",
 			"val": 5.06636900466682,
-			"desc": 170.79,
+			"desc": "170.79",
 			"group": "INTELIG TELECOMUNICAÇÕES LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 33.47335872585962,
-			"desc": 858.6500000000001,
+			"desc": "858.65",
 			"group": "NET"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "RGP CONSULTORIA EMPRESARIAL LTDA",
 			"name": "RGP CONSULTORIA EMPRESARIAL LTDA",
 			"val": 251.25214324762288,
-			"desc": 5100,
+			"desc": "5100.00",
 			"group": "RGP CONSULTORIA EMPRESARIAL LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "ANDERSON VIANA DE OLIVEIRA - ME",
 			"name": "ANDERSON VIANA DE OLIVEIRA - ME",
 			"val": 8.267586527596798,
-			"desc": 258,
+			"desc": "258.00",
 			"group": "ANDERSON VIANA DE OLIVEIRA - ME"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "SANEPAR",
 			"name": "SANEPAR",
 			"val": 1.483744377841447,
-			"desc": 62.24,
+			"desc": "62.24",
 			"group": "SANEPAR"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "AUTO POSTO COLMEIA LTDA",
 			"name": "AUTO POSTO COLMEIA LTDA",
 			"val": 89.44234110941595,
-			"desc": 2034.54,
+			"desc": "2034.54",
 			"group": "AUTO POSTO COLMEIA LTDA"
 		},
 		{

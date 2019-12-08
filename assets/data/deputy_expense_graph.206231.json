@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "TED CONTI"
+			"name": "TED CONTI",
+			"desc": "102196.97"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1295.5901700868774,
-			"desc": 22411.97999999999,
+			"desc": "22411.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -336,7 +337,7 @@
 			"id": "EXPERTS CONSULTORIA E AVALIAÇÕES EIRELI",
 			"name": "EXPERTS CONSULTORIA E AVALIAÇÕES EIRELI",
 			"val": 1070.8078726430342,
-			"desc": 18849.3,
+			"desc": "18849.30",
 			"group": "EXPERTS CONSULTORIA E AVALIAÇÕES EIRELI"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.245841783524158,
-			"desc": 335.15,
+			"desc": "335.15",
 			"group": "RAMAL"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 6.6671223399865145,
-			"desc": 215.1,
+			"desc": "215.10",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -411,7 +412,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 9.214767879512292,
-			"desc": 282.87,
+			"desc": "282.87",
 			"group": "CLARO S/A"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "DIRCEU COMERCIO E REP. LTDA",
 			"name": "DIRCEU COMERCIO E REP. LTDA",
 			"val": 71.21095517170208,
-			"desc": 1663.77,
+			"desc": "1663.77",
 			"group": "DIRCEU COMERCIO E REP. LTDA"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 30.881183320165125,
-			"desc": 800.47,
+			"desc": "800.47",
 			"group": "CLARO S.A."
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "LYNCARRO MULTI MARCAS COMERCIO E SERVICOS EM VEICULOS EIRELI",
 			"name": "LYNCARRO MULTI MARCAS COMERCIO E SERVICOS EM VEICULOS EIRELI",
 			"val": 213.0178654280516,
-			"desc": 4400,
+			"desc": "4400.00",
 			"group": "LYNCARRO MULTI MARCAS COMERCIO E SERVICOS EM VEICULOS EIRELI"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"val": 83.72490810294175,
-			"desc": 1919.19,
+			"desc": "1919.19",
 			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "G.S.R VIEIRA",
 			"name": "G.S.R VIEIRA",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "G.S.R VIEIRA"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"name": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"val": 277.5180608001992,
-			"desc": 5575,
+			"desc": "5575.00",
 			"group": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "LYNCARRO MULTIMARCAS COMÉRCIO E SERVICOS",
 			"name": "LYNCARRO MULTIMARCAS COMÉRCIO E SERVICOS",
 			"val": 461.2357308561032,
-			"desc": 8800,
+			"desc": "8800.00",
 			"group": "LYNCARRO MULTIMARCAS COMÉRCIO E SERVICOS"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "EXATA - INTELIGENCIA EM COMUNICACAO DIGITAL EIRELI -ME",
 			"name": "EXATA - INTELIGENCIA EM COMUNICACAO DIGITAL EIRELI -ME",
 			"val": 1239.299775638472,
-			"desc": 21525,
+			"desc": "21525.00",
 			"group": "EXATA - INTELIGENCIA EM COMUNICACAO DIGITAL EIRELI -ME"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 11.475399992736067,
-			"desc": 340.98,
+			"desc": "340.98",
 			"group": "CLARO S/A."
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "HABRASET HOTELEIRA S/A",
 			"name": "HABRASET HOTELEIRA S/A",
 			"val": 30.446019336894775,
-			"desc": 790.65,
+			"desc": "790.65",
 			"group": "HABRASET HOTELEIRA S/A"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "POSTO COMERCIAL NORTE LTDA",
 			"name": "POSTO COMERCIAL NORTE LTDA",
 			"val": 76.59444953049814,
-			"desc": 1774.18,
+			"desc": "1774.18",
 			"group": "POSTO COMERCIAL NORTE LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "POSTO BAUNILHA LTDA",
 			"name": "POSTO BAUNILHA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO BAUNILHA LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "NASSAU EDITORA RADIO E TV LTDA",
 			"name": "NASSAU EDITORA RADIO E TV LTDA",
 			"val": 24.170077653727912,
-			"desc": 647.1,
+			"desc": "647.10",
 			"group": "NASSAU EDITORA RADIO E TV LTDA"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 23.064394146201877,
-			"desc": 621.39,
+			"desc": "621.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 4.949971581181241,
-			"desc": 167.5,
+			"desc": "167.50",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 11.475399992736067,
-			"desc": 340.98,
+			"desc": "340.98",
 			"group": "CLARO S.A"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "Grafica e Editora Jep Ltda",
 			"name": "Grafica e Editora Jep Ltda",
 			"val": 37.58877807222958,
-			"desc": 950,
+			"desc": "950.00",
 			"group": "Grafica e Editora Jep Ltda"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "BRISTOL HOTELS",
 			"name": "BRISTOL HOTELS",
 			"val": 15.22148221646945,
-			"desc": 434.28,
+			"desc": "434.28",
 			"group": "BRISTOL HOTELS"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.4053149419869155,
-			"desc": 59.58,
+			"desc": "59.58",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "HOTEL NUNES",
 			"name": "HOTEL NUNES",
 			"val": 5.843310269398343,
-			"desc": 192.5,
+			"desc": "192.50",
 			"group": "HOTEL NUNES"
 		},
 		{

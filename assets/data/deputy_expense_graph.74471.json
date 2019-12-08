@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ANDRÉ DE PAULA"
+			"name": "ANDRÉ DE PAULA",
+			"desc": "33346.61"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 40.72298309392929,
-			"desc": 1018.8199999999998,
+			"desc": "1018.82",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "CRIAFOOD BAR E RESTAURANTE LTDA",
 			"name": "CRIAFOOD BAR E RESTAURANTE LTDA",
 			"val": 17.204763305060006,
-			"desc": 482.5,
+			"desc": "482.50",
 			"group": "CRIAFOOD BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 10.642694442745585,
-			"desc": 319.76,
+			"desc": "319.76",
 			"group": "CLARO S/A"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 49.36405109221911,
-			"desc": 1205.69,
+			"desc": "1205.69",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 10.262394262540056,
-			"desc": 310,
+			"desc": "310.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -226,7 +227,7 @@
 			"id": "COMERCIAL CASA DOS FRIOS LTDA",
 			"name": "COMERCIAL CASA DOS FRIOS LTDA",
 			"val": 10.167982442793319,
-			"desc": 307.57,
+			"desc": "307.57",
 			"group": "COMERCIAL CASA DOS FRIOS LTDA"
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "M & E COMERCIO DE ALIMENTOS LTDA ME",
 			"name": "M & E COMERCIO DE ALIMENTOS LTDA ME",
 			"val": 1.5837477139133411,
-			"desc": 65.6,
+			"desc": "65.60",
 			"group": "M & E COMERCIO DE ALIMENTOS LTDA ME"
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"name": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"val": 6.663445850646936,
-			"desc": 215,
+			"desc": "215.00",
 			"group": "POSTO ARCO IRIS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "AUTO POSTO CARRETEIRO LTDA",
 			"name": "AUTO POSTO CARRETEIRO LTDA",
 			"val": 19.12357500272298,
-			"desc": 528.52,
+			"desc": "528.52",
 			"group": "AUTO POSTO CARRETEIRO LTDA"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "SOCIEDADE COMERCIAL CAVALCANTI E FILHO LTDA",
 			"name": "SOCIEDADE COMERCIAL CAVALCANTI E FILHO LTDA",
 			"val": 29.407513482021642,
-			"desc": 767.15,
+			"desc": "767.15",
 			"group": "SOCIEDADE COMERCIAL CAVALCANTI E FILHO LTDA"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 4.388321146843747,
-			"desc": 151.47,
+			"desc": "151.47",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "HOTEL E POUSADA DO SERTAO LTDA- ME",
 			"name": "HOTEL E POUSADA DO SERTAO LTDA- ME",
 			"val": 11.856235610937164,
-			"desc": 350.62,
+			"desc": "350.62",
 			"group": "HOTEL E POUSADA DO SERTAO LTDA- ME"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 348.2200332584864,
-			"desc": 6834,
+			"desc": "6834.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 17.25572917910101,
-			"desc": 483.72999999999996,
+			"desc": "483.73",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"name": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"val": 6.481065080071938,
-			"desc": 210.03,
+			"desc": "210.03",
 			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 254.64835067036472,
-			"desc": 5161.67,
+			"desc": "5161.67",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "PARIS6 BRASILIA BISTRO E RESTAUR",
 			"name": "PARIS6 BRASILIA BISTRO E RESTAUR",
 			"val": 2.413421821837006,
-			"desc": 92.4,
+			"desc": "92.40",
 			"group": "PARIS6 BRASILIA BISTRO E RESTAUR"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 30.47037353951091,
-			"desc": 791.2,
+			"desc": "791.20",
 			"group": "Claro S.A"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 19.475951654242948,
-			"desc": 536.91,
+			"desc": "536.91",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 39.2881541941955,
-			"desc": 987.39,
+			"desc": "987.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "KOJIMA BRASILIA RESTAURANTE LTDA",
 			"name": "KOJIMA BRASILIA RESTAURANTE LTDA",
 			"val": 2.8719303832846204,
-			"desc": 106.59,
+			"desc": "106.59",
 			"group": "KOJIMA BRASILIA RESTAURANTE LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.722674147168406,
-			"desc": 102.00999999999999,
+			"desc": "102.01",
 			"group": "RAMAL"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "IMOBILIARIA MONTREAL LTDA",
 			"name": "IMOBILIARIA MONTREAL LTDA",
 			"val": 574.5349830898961,
-			"desc": 10727.7,
+			"desc": "10727.70",
 			"group": "IMOBILIARIA MONTREAL LTDA"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "DT EMPREENDIMENTOS TURISTICOS LTDA",
 			"name": "DT EMPREENDIMENTOS TURISTICOS LTDA",
 			"val": 1.367816871742623,
-			"desc": 58.3,
+			"desc": "58.30",
 			"group": "DT EMPREENDIMENTOS TURISTICOS LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "MARLIM COMBUSTIVEIS LTDA",
 			"name": "MARLIM COMBUSTIVEIS LTDA",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "MARLIM COMBUSTIVEIS LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "RESTAURANTE MADERO BRASILIA LT",
 			"name": "RESTAURANTE MADERO BRASILIA LT",
 			"val": 1.7283209922879816,
-			"desc": 70.4,
+			"desc": "70.40",
 			"group": "RESTAURANTE MADERO BRASILIA LT"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"name": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"val": 2.631361032288708,
-			"desc": 99.19,
+			"desc": "99.19",
 			"group": "DUDUSAN RESTAURANTE E FAST FOOD LTDA"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.1469363460098365,
-			"desc": 50.64,
+			"desc": "50.64",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "AMICO ASA NORTE COM?RCIO DE ALIMENTOS LTDA - EPP",
 			"name": "AMICO ASA NORTE COM?RCIO DE ALIMENTOS LTDA - EPP",
 			"val": 3.644183082322774,
-			"desc": 129.78,
+			"desc": "129.78",
 			"group": "AMICO ASA NORTE COM?RCIO DE ALIMENTOS LTDA - EPP"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"name": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"val": 6.803340005702627,
-			"desc": 218.8,
+			"desc": "218.80",
 			"group": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 8.715345663875327,
-			"desc": 269.8,
+			"desc": "269.80",
 			"group": "NET CLARO"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "Kalunga Comercio Industria Grafica Ltda",
 			"name": "Kalunga Comercio Industria Grafica Ltda",
 			"val": 4.939376277675025,
-			"desc": 167.2,
+			"desc": "167.20",
 			"group": "Kalunga Comercio Industria Grafica Ltda"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "Marcelo Petrarca Restaurante Ltda.",
 			"name": "Marcelo Petrarca Restaurante Ltda.",
 			"val": 5.257493779290828,
-			"desc": 176.17,
+			"desc": "176.17",
 			"group": "Marcelo Petrarca Restaurante Ltda."
 		},
 		{

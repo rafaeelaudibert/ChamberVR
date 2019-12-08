@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NIVALDO ALBUQUERQUE"
+			"name": "NIVALDO ALBUQUERQUE",
+			"desc": "278499.82"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1814.7425633891535,
-			"desc": 30459.70999999999,
+			"desc": "30459.71",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 615.205662269566,
-			"desc": 11411.160000000002,
+			"desc": "11411.16",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "JLS HOLDING SERVICOS LTDA",
 			"name": "JLS HOLDING SERVICOS LTDA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "JLS HOLDING SERVICOS LTDA"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "G M B DE CASTRO REIS",
 			"name": "G M B DE CASTRO REIS",
 			"val": 1915.6203884367471,
-			"desc": 32000,
+			"desc": "32000.00",
 			"group": "G M B DE CASTRO REIS"
 		},
 		{
@@ -411,7 +412,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 4.076526870156511,
-			"desc": 142.45,
+			"desc": "142.45",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.341738479497884,
-			"desc": 312.03999999999996,
+			"desc": "312.04",
 			"group": "RAMAL"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "JLS HOLDIN SERVIÇO LTDA",
 			"name": "JLS HOLDIN SERVIÇO LTDA",
 			"val": 1654.5915911526054,
-			"desc": 28000,
+			"desc": "28000.00",
 			"group": "JLS HOLDIN SERVIÇO LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 148.139179135301,
-			"desc": 3182.7599999999993,
+			"desc": "3182.76",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "MARC PLUS FILMES EIRELI",
 			"name": "MARC PLUS FILMES EIRELI",
 			"val": 11364.108605767791,
-			"desc": 164000,
+			"desc": "164000.00",
 			"group": "MARC PLUS FILMES EIRELI"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "LIVRARIA E PAPELARIA AGUAS CLARAS LTDA",
 			"name": "LIVRARIA E PAPELARIA AGUAS CLARAS LTDA",
 			"val": 5.717055272711131,
-			"desc": 189,
+			"desc": "189.00",
 			"group": "LIVRARIA E PAPELARIA AGUAS CLARAS LTDA"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 3.784701132968443,
-			"desc": 133.92,
+			"desc": "133.92",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 9.64088622858744,
-			"desc": 293.95,
+			"desc": "293.95",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 0.9300214042771564,
-			"desc": 42.88,
+			"desc": "42.88",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 38.58539751993178,
-			"desc": 971.95,
+			"desc": "971.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{

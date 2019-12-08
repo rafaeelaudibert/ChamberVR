@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO BENGTSON"
+			"name": "PAULO BENGTSON",
+			"desc": "104959.45"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "A.M.C AGUILERA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "A.M.C AGUILERA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "A.M.C AGUILERA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.316977463123334,
-			"desc": 120.04999999999998,
+			"desc": "120.05",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1541.6049868363273,
-			"desc": 26253.12999999999,
+			"desc": "26253.13",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 234.44499309014753,
-			"desc": 4793.63,
+			"desc": "4793.63",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 161.90050225338555,
-			"desc": 3444.65,
+			"desc": "3444.65",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 108.1819428147321,
-			"desc": 2407.6,
+			"desc": "2407.60",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -509,7 +510,7 @@
 			"id": "IVO LEONARDO CREMER TEIXEIRA - ME",
 			"name": "IVO LEONARDO CREMER TEIXEIRA - ME",
 			"val": 1493.0973819166254,
-			"desc": 25500,
+			"desc": "25500.00",
 			"group": "IVO LEONARDO CREMER TEIXEIRA - ME"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.6164406720224735,
-			"desc": 128.96,
+			"desc": "128.96",
 			"group": "RAMAL"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "MAPUERA COMÉRCIO SERVIÇOS E TURISMO LTDA.",
 			"name": "MAPUERA COMÉRCIO SERVIÇOS E TURISMO LTDA.",
 			"val": 10.886741513117325,
-			"desc": 326,
+			"desc": "326.00",
 			"group": "MAPUERA COMÉRCIO SERVIÇOS E TURISMO LTDA."
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "POSTO MONTANA LTDA",
 			"name": "POSTO MONTANA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO MONTANA LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
 			"name": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S/A",
 			"name": "HOTELARIA ACCOR BRASIL S/A",
 			"val": 103.85963137208198,
-			"desc": 2322.18,
+			"desc": "2322.18",
 			"group": "HOTELARIA ACCOR BRASIL S/A"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 62.11448461954807,
-			"desc": 1475.17,
+			"desc": "1475.17",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "NORAUTO RENT A CAR LTDA",
 			"name": "NORAUTO RENT A CAR LTDA",
 			"val": 530.9193077486841,
-			"desc": 9990,
+			"desc": "9990.00",
 			"group": "NORAUTO RENT A CAR LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "POSTO METROPOLE EIRELLI",
 			"name": "POSTO METROPOLE EIRELLI",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO METROPOLE EIRELLI"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 12.017882291843856,
-			"desc": 354.7,
+			"desc": "354.70",
 			"group": "CLARO S.A."
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.9873476532594525,
-			"desc": 78.85,
+			"desc": "78.85",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "AUTO POSTO 314 NORTE",
 			"name": "AUTO POSTO 314 NORTE",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO 314 NORTE"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 23.85509383832075,
-			"desc": 639.79,
+			"desc": "639.79",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 12.017882291843856,
-			"desc": 354.7,
+			"desc": "354.70",
 			"group": "CLARO S.A"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "NOSSO POSTO COMERCIO DE COMBUSTÍVEL EIRELI",
 			"name": "NOSSO POSTO COMERCIO DE COMBUSTÍVEL EIRELI",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "NOSSO POSTO COMERCIO DE COMBUSTÍVEL EIRELI"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 19.293158192558682,
-			"desc": 532.56,
+			"desc": "532.56",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 2.11276107949973,
-			"desc": 82.88,
+			"desc": "82.88",
 			"group": "OI MÓVEL SA"
 		},
 		{

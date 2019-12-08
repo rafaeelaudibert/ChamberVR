@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VINICIUS POIT"
+			"name": "VINICIUS POIT",
+			"desc": "15467.88"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 42.025682417381866,
-			"desc": 1047.25,
+			"desc": "1047.25",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 132.73904870561188,
-			"desc": 2886.82,
+			"desc": "2886.82",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 19.693888108643563,
-			"desc": 542.09,
+			"desc": "542.09",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.051623696887258035,
-			"desc": 5.34,
+			"desc": "5.34",
 			"group": "RAMAL"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 1.0666930819434552,
-			"desc": 47.8,
+			"desc": "47.80",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 11.779470114467214,
-			"desc": 348.67999999999995,
+			"desc": "348.68",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "COMERCIAL DE SERVICOS UNIAO LTDA ME",
 			"name": "COMERCIAL DE SERVICOS UNIAO LTDA ME",
 			"val": 0.4137824534979977,
-			"desc": 22.9,
+			"desc": "22.90",
 			"group": "COMERCIAL DE SERVICOS UNIAO LTDA ME"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 96.57645054019154,
-			"desc": 2177.42,
+			"desc": "2177.42",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 18.61046369884776,
-			"desc": 516.27,
+			"desc": "516.27",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "BEERORCOFFEE PLATAFORMA DE COWORKING E DESENVOLVIMENTO DE SOFTWARES S/A",
 			"name": "BEERORCOFFEE PLATAFORMA DE COWORKING E DESENVOLVIMENTO DE SOFTWARES S/A",
 			"val": 98.96434762459599,
-			"desc": 2225,
+			"desc": "2225.00",
 			"group": "BEERORCOFFEE PLATAFORMA DE COWORKING E DESENVOLVIMENTO DE SOFTWARES S/A"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "BIG TRANS COMERCIAL DE ALIMENTOS S/A",
 			"name": "BIG TRANS COMERCIAL DE ALIMENTOS S/A",
 			"val": 0.3900704453089298,
-			"desc": 21.9,
+			"desc": "21.90",
 			"group": "BIG TRANS COMERCIAL DE ALIMENTOS S/A"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "Beerorcoffee Plataforma de Coworking",
 			"name": "Beerorcoffee Plataforma de Coworking",
 			"val": 133.42131134486664,
-			"desc": 2900,
+			"desc": "2900.00",
 			"group": "Beerorcoffee Plataforma de Coworking"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 6.731504221243157,
-			"desc": 216.85,
+			"desc": "216.85",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
 			"name": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.12454808604019836,
-			"desc": 9.56,
+			"desc": "9.56",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BOCA ABERTA"
+			"name": "BOCA ABERTA",
+			"desc": "54385.85"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 14.04703611367205,
-			"desc": 405.37,
+			"desc": "405.37",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 538.9713987983766,
-			"desc": 10126.58,
+			"desc": "10126.58",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "AUTO POSTO BR 153 LT",
 			"name": "AUTO POSTO BR 153 LT",
 			"val": 6.1514455597078594,
-			"desc": 201,
+			"desc": "201.00",
 			"group": "AUTO POSTO BR 153 LT"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 278.7404066692739,
-			"desc": 5597,
+			"desc": "5597.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 39.04266715382811,
-			"desc": 982,
+			"desc": "982.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -184,7 +185,7 @@
 			"id": "Concessionaria Transbrasiliana S/A",
 			"name": "Concessionaria Transbrasiliana S/A",
 			"val": 0.2473207853360329,
-			"desc": 15.600000000000001,
+			"desc": "15.60",
 			"group": "Concessionaria Transbrasiliana S/A"
 		},
 		{
@@ -209,7 +210,7 @@
 			"id": "ENTREVIAS",
 			"name": "ENTREVIAS",
 			"val": 0.3573192643786829,
-			"desc": 20.5,
+			"desc": "20.50",
 			"group": "ENTREVIAS"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 272.934304969184,
-			"desc": 5492.42,
+			"desc": "5492.42",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "AB1 HOTELARIA EIRELI - EPP",
 			"name": "AB1 HOTELARIA EIRELI - EPP",
 			"val": 86.33766098134896,
-			"desc": 1972,
+			"desc": "1972.00",
 			"group": "AB1 HOTELARIA EIRELI - EPP"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "COTRANS LOCAÇÃO DE VEICULOS LTDA",
 			"name": "COTRANS LOCAÇÃO DE VEICULOS LTDA",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "COTRANS LOCAÇÃO DE VEICULOS LTDA"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 7.757649257714879,
-			"desc": 244.46,
+			"desc": "244.46",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.801170449316834,
-			"desc": 245.62,
+			"desc": "245.62",
 			"group": "RAMAL"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 22.68562704702207,
-			"desc": 612.55,
+			"desc": "612.55",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.2678232385816735,
-			"desc": 176.45999999999998,
+			"desc": "176.46",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "N. MATIASI E CIA LTDA",
 			"name": "N. MATIASI E CIA LTDA",
 			"val": 17.320394779891846,
-			"desc": 485.29,
+			"desc": "485.29",
 			"group": "N. MATIASI E CIA LTDA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 15.604960859236975,
-			"desc": 443.65999999999997,
+			"desc": "443.66",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.00158462284063,
-			"desc": 45.47,
+			"desc": "45.47",
 			"group": "STAR EAST COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 334.12431030703345,
-			"desc": 6585.040000000001,
+			"desc": "6585.04",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "J.C. MARQUES & CIA LTDA",
 			"name": "J.C. MARQUES & CIA LTDA",
 			"val": 8.344019735016852,
-			"desc": 260.02,
+			"desc": "260.02",
 			"group": "J.C. MARQUES & CIA LTDA"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 14.040972799512147,
-			"desc": 405.22,
+			"desc": "405.22",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 1.2817299035485665,
-			"desc": 55.34,
+			"desc": "55.34",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "AUTO POSTO 108 LTDA",
 			"name": "AUTO POSTO 108 LTDA",
 			"val": 6.594010818366927,
-			"desc": 213.11,
+			"desc": "213.11",
 			"group": "AUTO POSTO 108 LTDA"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "AUTO POSTO RIO BRANCO LTDA",
 			"name": "AUTO POSTO RIO BRANCO LTDA",
 			"val": 3.373158239174103,
-			"desc": 121.73,
+			"desc": "121.73",
 			"group": "AUTO POSTO RIO BRANCO LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 3.7707517653213434,
-			"desc": 133.51,
+			"desc": "133.51",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 96.62908261689216,
-			"desc": 2178.47,
+			"desc": "2178.47",
 			"group": "KALAHAN COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "POSTO ALVORADA",
 			"name": "POSTO ALVORADA",
 			"val": 4.1402137469993345,
-			"desc": 144.3,
+			"desc": "144.30",
 			"group": "POSTO ALVORADA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "nelson bueno da silva junior",
 			"name": "nelson bueno da silva junior",
 			"val": 632.4655385579605,
-			"desc": 11700,
+			"desc": "11700.00",
 			"group": "nelson bueno da silva junior"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "CHURRASCARIA BOLA BRANCA LTDA-ME",
 			"name": "CHURRASCARIA BOLA BRANCA LTDA-ME",
 			"val": 1.8993699640868498,
-			"desc": 76,
+			"desc": "76.00",
 			"group": "CHURRASCARIA BOLA BRANCA LTDA-ME"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.2084319313195118,
-			"desc": 85.93,
+			"desc": "85.93",
 			"group": "A.C.T. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "GARDA COMERCIO DE ALIMENTOS EIRELI ME",
 			"name": "GARDA COMERCIO DE ALIMENTOS EIRELI ME",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "GARDA COMERCIO DE ALIMENTOS EIRELI ME"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE",
 			"name": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE",
 			"val": 0.20902011917637256,
-			"desc": 13.8,
+			"desc": "13.80",
 			"group": "EMPRESA CONCESSIONARIA DE RODOVIAS DO NORTE S/A - ECONORTE"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 4.688838775527732,
-			"desc": 160.08,
+			"desc": "160.08",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 35.72112873051845,
-			"desc": 908.69,
+			"desc": "908.69",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 2.8013942373674,
-			"desc": 104.43,
+			"desc": "104.43",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.6451577552796705,
-			"desc": 32.2,
+			"desc": "32.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{

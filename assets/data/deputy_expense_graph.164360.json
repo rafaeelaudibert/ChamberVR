@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARMEN ZANOTTO"
+			"name": "CARMEN ZANOTTO",
+			"desc": "65999.16"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 69.71369313439943,
-			"desc": 1632.91,
+			"desc": "1632.91",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "AUTO POSTO SERRAMAR LTDA",
 			"name": "AUTO POSTO SERRAMAR LTDA",
 			"val": 11.047469017133764,
-			"desc": 330.1,
+			"desc": "330.10",
 			"group": "AUTO POSTO SERRAMAR LTDA"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.599277523941698,
-			"desc": 344.12,
+			"desc": "344.12",
 			"group": "RAMAL"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 72.98514353111766,
-			"desc": 1700.2499999999998,
+			"desc": "1700.25",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -135,7 +136,7 @@
 			"id": "BRASIL LEASING LOCACAO E PRESTACAO DE SERVICOS EIRELI",
 			"name": "BRASIL LEASING LOCACAO E PRESTACAO DE SERVICOS EIRELI",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "BRASIL LEASING LOCACAO E PRESTACAO DE SERVICOS EIRELI"
 		},
 		{
@@ -148,7 +149,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 349.73375209306846,
-			"desc": 6860.679999999999,
+			"desc": "6860.68",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "POSTO ZAMBONATO",
 			"name": "POSTO ZAMBONATO",
 			"val": 7.405417023333187,
-			"desc": 235.04,
+			"desc": "235.04",
 			"group": "POSTO ZAMBONATO"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "POSTO GALO LTDA",
 			"name": "POSTO GALO LTDA",
 			"val": 5.28777756002645,
-			"desc": 177.02,
+			"desc": "177.02",
 			"group": "POSTO GALO LTDA"
 		},
 		{
@@ -229,7 +230,7 @@
 			"id": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 34.34240220773348,
-			"desc": 878.04,
+			"desc": "878.04",
 			"group": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "AUTO POSTO DUQUE LTDA",
 			"name": "AUTO POSTO DUQUE LTDA",
 			"val": 339.4577119214861,
-			"desc": 6679.35,
+			"desc": "6679.35",
 			"group": "AUTO POSTO DUQUE LTDA"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "TAXI DO AEROPORTO",
 			"name": "TAXI DO AEROPORTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "TAXI DO AEROPORTO"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 30.272061833520414,
-			"desc": 786.72,
+			"desc": "786.72",
 			"group": "Oi S.A"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "UNIKA - EDITORA E PUBLICIDADES LTDA",
 			"name": "UNIKA - EDITORA E PUBLICIDADES LTDA",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "UNIKA - EDITORA E PUBLICIDADES LTDA"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 8.708492732519048,
-			"desc": 269.62,
+			"desc": "269.62",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "JORNAL O PALANQUE LTDA",
 			"name": "JORNAL O PALANQUE LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "JORNAL O PALANQUE LTDA"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "BRASIL LEASING",
 			"name": "BRASIL LEASING",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "BRASIL LEASING"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "HOTEL KENNEDY",
 			"name": "HOTEL KENNEDY",
 			"val": 4.7913707565586625,
-			"desc": 163,
+			"desc": "163.00",
 			"group": "HOTEL KENNEDY"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 26.085031507702517,
-			"desc": 691.3100000000001,
+			"desc": "691.31",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "HOTEL BERGOZZA LTDA",
 			"name": "HOTEL BERGOZZA LTDA",
 			"val": 9.797248876390897,
-			"desc": 298,
+			"desc": "298.00",
 			"group": "HOTEL BERGOZZA LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 12.628439396359424,
-			"desc": 370.05,
+			"desc": "370.05",
 			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "KHRONOS MONITORAMENTO ELETRONICO LTDA",
 			"name": "KHRONOS MONITORAMENTO ELETRONICO LTDA",
 			"val": 10.831926915855334,
-			"desc": 324.6,
+			"desc": "324.60",
 			"group": "KHRONOS MONITORAMENTO ELETRONICO LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "EDITORA REGIONAL DE NOTICIAS EIRELI EPP",
 			"name": "EDITORA REGIONAL DE NOTICIAS EIRELI EPP",
 			"val": 9.450214088970784,
-			"desc": 289,
+			"desc": "289.00",
 			"group": "EDITORA REGIONAL DE NOTICIAS EIRELI EPP"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "TECNEGOCIOS SOLUCOES EM INFORMATICA EIRELI",
 			"name": "TECNEGOCIOS SOLUCOES EM INFORMATICA EIRELI",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "TECNEGOCIOS SOLUCOES EM INFORMATICA EIRELI"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 279.0705256942206,
-			"desc": 5602.94,
+			"desc": "5602.94",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 17.362277050284618,
-			"desc": 486.3,
+			"desc": "486.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "Andre Luiz Meier de Carvalho ME",
 			"name": "Andre Luiz Meier de Carvalho ME",
 			"val": 12.738215203812429,
-			"desc": 372.8,
+			"desc": "372.80",
 			"group": "Andre Luiz Meier de Carvalho ME"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "FORTEC INFORMATICA EIRELLI EPP",
 			"name": "FORTEC INFORMATICA EIRELLI EPP",
 			"val": 142.5123595499018,
-			"desc": 3075,
+			"desc": "3075.00",
 			"group": "FORTEC INFORMATICA EIRELLI EPP"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "PERES MULLER LTDA.",
 			"name": "PERES MULLER LTDA.",
 			"val": 10.314503823666383,
-			"desc": 311.34000000000003,
+			"desc": "311.34",
 			"group": "PERES MULLER LTDA."
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"name": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"val": 1.7225615222938486,
-			"desc": 70.21,
+			"desc": "70.21",
 			"group": "DUDUSAN RESTAURANTE E FAST FOOD LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "TM Hoteis Economicos",
 			"name": "TM Hoteis Economicos",
 			"val": 5.189886370984542,
-			"desc": 174.27,
+			"desc": "174.27",
 			"group": "TM Hoteis Economicos"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 11.703162124312836,
-			"desc": 346.75,
+			"desc": "346.75",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 31.94406781520466,
-			"desc": 824.39,
+			"desc": "824.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "REVISTA VISÃO COMUNICAÇÃO LTDA EPP",
 			"name": "REVISTA VISÃO COMUNICAÇÃO LTDA EPP",
 			"val": 6.042450443103051,
-			"desc": 198,
+			"desc": "198.00",
 			"group": "REVISTA VISÃO COMUNICAÇÃO LTDA EPP"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "ARMANDO RIBEIRO CASTRO",
 			"name": "ARMANDO RIBEIRO CASTRO",
 			"val": 252.21379300499822,
-			"desc": 5117.47,
+			"desc": "5117.47",
 			"group": "ARMANDO RIBEIRO CASTRO"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "AUTO POSTO KAKAREKO 1 LTDA",
 			"name": "AUTO POSTO KAKAREKO 1 LTDA",
 			"val": 7.455391317015445,
-			"desc": 236.38,
+			"desc": "236.38",
 			"group": "AUTO POSTO KAKAREKO 1 LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
 			"name": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "SERRANO SERVICOS POSTAL LTDA.",
 			"name": "SERRANO SERVICOS POSTAL LTDA.",
 			"val": 16.792321510478004,
-			"desc": 472.53,
+			"desc": "472.53",
 			"group": "SERRANO SERVICOS POSTAL LTDA."
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 29.491325104116473,
-			"desc": 769.05,
+			"desc": "769.05",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 56.156057889456385,
-			"desc": 1350.06,
+			"desc": "1350.06",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "RIO BRANCO APART HOTEL",
 			"name": "RIO BRANCO APART HOTEL",
 			"val": 4.650993559560851,
-			"desc": 159,
+			"desc": "159.00",
 			"group": "RIO BRANCO APART HOTEL"
 		},
 		{
@@ -889,7 +890,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 68.82546549146673,
-			"desc": 1614.57,
+			"desc": "1614.57",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -902,7 +903,7 @@
 			"id": "AUTO POSTO NOSSA SENHORA DE LOURDES LTDA",
 			"name": "AUTO POSTO NOSSA SENHORA DE LOURDES LTDA",
 			"val": 5.708051289830393,
-			"desc": 188.75,
+			"desc": "188.75",
 			"group": "AUTO POSTO NOSSA SENHORA DE LOURDES LTDA"
 		},
 		{
@@ -915,7 +916,7 @@
 			"id": "HOTEL VELEIRO MAR LTDA",
 			"name": "HOTEL VELEIRO MAR LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "HOTEL VELEIRO MAR LTDA"
 		},
 		{
@@ -928,7 +929,7 @@
 			"id": "AUTO POSTO RIZZI LTDA",
 			"name": "AUTO POSTO RIZZI LTDA",
 			"val": 6.4814313673114405,
-			"desc": 210.04,
+			"desc": "210.04",
 			"group": "AUTO POSTO RIZZI LTDA"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 54.856064890055706,
-			"desc": 1322.58,
+			"desc": "1322.58",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -954,7 +955,7 @@
 			"id": "Auto Posto sto Amaro da Imperatriz LTDA",
 			"name": "Auto Posto sto Amaro da Imperatriz LTDA",
 			"val": 2.733714169400498,
-			"desc": 102.35,
+			"desc": "102.35",
 			"group": "Auto Posto sto Amaro da Imperatriz LTDA"
 		},
 		{
@@ -967,7 +968,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 41.25167396941081,
-			"desc": 1030.37,
+			"desc": "1030.37",
 			"group": "telefonia Brasil S/A"
 		},
 		{

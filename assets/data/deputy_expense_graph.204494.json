@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FRED COSTA"
+			"name": "FRED COSTA",
+			"desc": "38272.14"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 1.5240989164849947,
-			"desc": 63.59999999999999,
+			"desc": "63.60",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 921.9153302052612,
-			"desc": 16455.39999999999,
+			"desc": "16455.40",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "MORRO AZUL COMERCIO DE PETROLEO LTDA",
 			"name": "MORRO AZUL COMERCIO DE PETROLEO LTDA",
 			"val": 12.029778804436702,
-			"desc": 355,
+			"desc": "355.00",
 			"group": "MORRO AZUL COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 5.983339491105803,
-			"desc": 196.37,
+			"desc": "196.37",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -387,7 +388,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 21.790516865926183,
-			"desc": 591.5899999999999,
+			"desc": "591.59",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 114.67098854095758,
-			"desc": 2535.2,
+			"desc": "2535.20",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "TARGET RENT A CAR LTDA",
 			"name": "TARGET RENT A CAR LTDA",
 			"val": 381.31581078796347,
-			"desc": 7415,
+			"desc": "7415.00",
 			"group": "TARGET RENT A CAR LTDA"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "MR COPIADORA DIGITAIS LTDA.",
 			"name": "MR COPIADORA DIGITAIS LTDA.",
 			"val": 5.015731457305913,
-			"desc": 169.36,
+			"desc": "169.36",
 			"group": "MR COPIADORA DIGITAIS LTDA."
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 5.841865267834232,
-			"desc": 192.46,
+			"desc": "192.46",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 11.232472131986423,
-			"desc": 334.81,
+			"desc": "334.81",
 			"group": "CLARO S.A"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "POSTO J A LTDA",
 			"name": "POSTO J A LTDA",
 			"val": 17.407905174653823,
-			"desc": 487.4,
+			"desc": "487.40",
 			"group": "POSTO J A LTDA"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 5.495759312658204,
-			"desc": 182.84,
+			"desc": "182.84",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "EMPREENDIMENTOS VIP LTDA",
 			"name": "EMPREENDIMENTOS VIP LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "EMPREENDIMENTOS VIP LTDA"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 5.339135538333363,
-			"desc": 178.46,
+			"desc": "178.46",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "R.A. QUINTELA FRANCA",
 			"name": "R.A. QUINTELA FRANCA",
 			"val": 2.5929662588931617,
-			"desc": 98,
+			"desc": "98.00",
 			"group": "R.A. QUINTELA FRANCA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.129042827489334,
-			"desc": 114.4,
+			"desc": "114.40",
 			"group": "RAMAL"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "POSTO ARAPONGA LTDA",
 			"name": "POSTO ARAPONGA LTDA",
 			"val": 3.315975462360441,
-			"desc": 120.02,
+			"desc": "120.02",
 			"group": "POSTO ARAPONGA LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "POSTO CABRAL LTDA",
 			"name": "POSTO CABRAL LTDA",
 			"val": 7.293694491542247,
-			"desc": 232.04,
+			"desc": "232.04",
 			"group": "POSTO CABRAL LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "ERA EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"name": "ERA EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"val": 145.10327694813353,
-			"desc": 3124.67,
+			"desc": "3124.67",
 			"group": "ERA EMPREENDIMENTOS IMOBILIÁRIOS LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "Posto Oceano Ltda",
 			"name": "Posto Oceano Ltda",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "Posto Oceano Ltda"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "SOCIEDADE COMERCIAL CANAA -LTDA",
 			"name": "SOCIEDADE COMERCIAL CANAA -LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "A POPULAR ARMARINHO LTDA",
 			"name": "A POPULAR ARMARINHO LTDA",
 			"val": 19.047236759474863,
-			"desc": 526.7,
+			"desc": "526.70",
 			"group": "A POPULAR ARMARINHO LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "POSTO TAMPINHA",
 			"name": "POSTO TAMPINHA",
 			"val": 4.164347272208662,
-			"desc": 145,
+			"desc": "145.00",
 			"group": "POSTO TAMPINHA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 17.412053896842096,
-			"desc": 487.5,
+			"desc": "487.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 16.656897678677552,
-			"desc": 469.25,
+			"desc": "469.25",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "NILSON PACHECO SILVA Diagramacao e Impressos Grafic",
 			"name": "NILSON PACHECO SILVA Diagramacao e Impressos Grafic",
 			"val": 7.032403072095334,
-			"desc": 225,
+			"desc": "225.00",
 			"group": "NILSON PACHECO SILVA Diagramacao e Impressos Grafic"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "POSTO CHEFÃO LTDA",
 			"name": "POSTO CHEFÃO LTDA",
 			"val": 6.685508808446899,
-			"desc": 215.6,
+			"desc": "215.60",
 			"group": "POSTO CHEFÃO LTDA"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
 			"name": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
 			"val": 63.96736417831259,
-			"desc": 1513.81,
+			"desc": "1513.81",
 			"group": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 10.976085196232331,
-			"desc": 328.28,
+			"desc": "328.28",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "ECO EMPREENDIMENTOS COMERCIAIS LTDA",
 			"name": "ECO EMPREENDIMENTOS COMERCIAIS LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "ECO EMPREENDIMENTOS COMERCIAIS LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA.",
 			"name": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA.",
 			"val": 4.945733087381323,
-			"desc": 167.38,
+			"desc": "167.38",
 			"group": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA."
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "GLM - GRÁFICA E COPIADORA SCALLA LTDA",
 			"name": "GLM - GRÁFICA E COPIADORA SCALLA LTDA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "GLM - GRÁFICA E COPIADORA SCALLA LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "Posto Duas Patrias Ltda",
 			"name": "Posto Duas Patrias Ltda",
 			"val": 4.581021830303942,
-			"desc": 157,
+			"desc": "157.00",
 			"group": "Posto Duas Patrias Ltda"
 		},
 		{

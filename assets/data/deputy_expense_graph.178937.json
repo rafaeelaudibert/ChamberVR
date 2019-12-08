@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALTINEU CÔRTES"
+			"name": "ALTINEU CÔRTES",
+			"desc": "271484.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.525877780006006,
-			"desc": 342.26,
+			"desc": "342.26",
 			"group": "RAMAL"
 		},
 		{
@@ -78,7 +79,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 149.85294168617284,
-			"desc": 3215.5,
+			"desc": "3215.50",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 6388.444085487058,
-			"desc": 96457.82,
+			"desc": "96457.82",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "Telefonica Brasil S/A",
 			"name": "Telefonica Brasil S/A",
 			"val": 60.017426497343855,
-			"desc": 1431.29,
+			"desc": "1431.29",
 			"group": "Telefonica Brasil S/A"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 59.618292375810164,
-			"desc": 1422.92,
+			"desc": "1422.92",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 138.07269469732634,
-			"desc": 2989.6800000000003,
+			"desc": "2989.68",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.3301899516935551,
-			"desc": 57.01,
+			"desc": "57.01",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 1917.670223587943,
-			"desc": 32031.23,
+			"desc": "32031.23",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 59.94921507177276,
-			"desc": 1429.86,
+			"desc": "1429.86",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
 			"name": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME",
 			"val": 3095.99644951174,
-			"desc": 49619.700000000004,
+			"desc": "49619.70",
 			"group": "OLIMAR ADMINISTRACAO DE IMOVEIS LTDA - ME"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
 			"name": "STANDARD PUBLICIDADE E COMUNICACOES LTDA",
 			"val": 3040.1606565363013,
-			"desc": 48800,
+			"desc": "48800.00",
 			"group": "STANDARD PUBLICIDADE E COMUNICACOES LTDA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 131.22254686085404,
-			"desc": 2857.5,
+			"desc": "2857.50",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
 			"name": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 91.28238842985772,
-			"desc": 2071.5,
+			"desc": "2071.50",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "GREGORI HENRIQUE SOBRAL MACIEL",
 			"name": "GREGORI HENRIQUE SOBRAL MACIEL",
 			"val": 52.84827184582329,
-			"desc": 1280,
+			"desc": "1280.00",
 			"group": "GREGORI HENRIQUE SOBRAL MACIEL"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 64.11818665133192,
-			"desc": 1516.95,
+			"desc": "1516.95",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 8.185201624838362,
-			"desc": 255.82,
+			"desc": "255.82",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 73.2491305555092,
-			"desc": 1705.67,
+			"desc": "1705.67",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{

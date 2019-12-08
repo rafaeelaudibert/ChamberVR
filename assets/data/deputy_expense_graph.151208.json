@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LAERCIO OLIVEIRA"
+			"name": "LAERCIO OLIVEIRA",
+			"desc": "84013.98"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 228.11155600644437,
-			"desc": 4677.65,
+			"desc": "4677.65",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 608.6167241214487,
-			"desc": 11300.71,
+			"desc": "11300.71",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -229,7 +230,7 @@
 			"id": "REDE DE POSTOS PRESIDENTE LTDA - FRANCISCO PORTO",
 			"name": "REDE DE POSTOS PRESIDENTE LTDA - FRANCISCO PORTO",
 			"val": 18.67571447082098,
-			"desc": 517.83,
+			"desc": "517.83",
 			"group": "REDE DE POSTOS PRESIDENTE LTDA - FRANCISCO PORTO"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 618.8861039016214,
-			"desc": 11472.810000000001,
+			"desc": "11472.81",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 45.04327375495429,
-			"desc": 1112.7399999999998,
+			"desc": "1112.74",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 56.827187647348715,
-			"desc": 1364.22,
+			"desc": "1364.22",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 40.502574896485555,
-			"desc": 1014,
+			"desc": "1014.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "EVANDRO ALVES ROSENDO ME",
 			"name": "EVANDRO ALVES ROSENDO ME",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "EVANDRO ALVES ROSENDO ME"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "AR PAPELARIA INFORMATICA E PRESENTES LTDA",
 			"name": "AR PAPELARIA INFORMATICA E PRESENTES LTDA",
 			"val": 62.82493582748316,
-			"desc": 1490,
+			"desc": "1490.00",
 			"group": "AR PAPELARIA INFORMATICA E PRESENTES LTDA"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.197103719703742,
-			"desc": 409.08,
+			"desc": "409.08",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 54.82393770967821,
-			"desc": 1321.9,
+			"desc": "1321.90",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 1.6317206513372073,
-			"desc": 67.19999999999999,
+			"desc": "67.20",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 57.78130505544967,
-			"desc": 1384.32,
+			"desc": "1384.32",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.0523351859101395,
-			"desc": 112.08,
+			"desc": "112.08",
 			"group": "RAMAL"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "PAULO ERNANI DE MENEZES ADVOGADOS ASSOCIADOS",
 			"name": "PAULO ERNANI DE MENEZES ADVOGADOS ASSOCIADOS",
 			"val": 421.826335112116,
-			"desc": 8120,
+			"desc": "8120.00",
 			"group": "PAULO ERNANI DE MENEZES ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.5484402411965275,
-			"desc": 28.4,
+			"desc": "28.40",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 13.114327650416136,
-			"desc": 382.2,
+			"desc": "382.20",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 29.084872624613542,
-			"desc": 759.8299999999999,
+			"desc": "759.83",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "RONNE ROBERTO ALVES SAMPAIO ME",
 			"name": "RONNE ROBERTO ALVES SAMPAIO ME",
 			"val": 154.28490408055794,
-			"desc": 3300,
+			"desc": "3300.00",
 			"group": "RONNE ROBERTO ALVES SAMPAIO ME"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "EMPRESA DE TRANSPORTES AGUIA DOURADA LTDA",
 			"name": "EMPRESA DE TRANSPORTES AGUIA DOURADA LTDA",
 			"val": 1081.0249407213157,
-			"desc": 19012.5,
+			"desc": "19012.50",
 			"group": "EMPRESA DE TRANSPORTES AGUIA DOURADA LTDA"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 12.365460317925537,
-			"desc": 363.45,
+			"desc": "363.45",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 8.721818513156668,
-			"desc": 269.97,
+			"desc": "269.97",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "GAIAO SERVICOS LTDA ME",
 			"name": "GAIAO SERVICOS LTDA ME",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "GAIAO SERVICOS LTDA ME"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 13.319350675969888,
-			"desc": 387.31,
+			"desc": "387.31",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 55.953370552734356,
-			"desc": 1345.78,
+			"desc": "1345.78",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{

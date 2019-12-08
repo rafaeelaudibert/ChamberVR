@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DR. LUIZ ANTONIO TEIXEIRA JR."
+			"name": "DR. LUIZ ANTONIO TEIXEIRA JR.",
+			"desc": "79745.00"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 739.0580550563667,
-			"desc": 13469.359999999999,
+			"desc": "13469.36",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -132,7 +133,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 6.8402178288735955,
-			"desc": 219.8,
+			"desc": "219.80",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA.",
 			"name": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA.",
 			"val": 11.135798257355336,
-			"desc": 332.35,
+			"desc": "332.35",
 			"group": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA."
 		},
 		{
@@ -164,7 +165,7 @@
 			"id": "AUTO POSTO DE ABASTECIMENTO ESTRELA DO OCEANO LTDA",
 			"name": "AUTO POSTO DE ABASTECIMENTO ESTRELA DO OCEANO LTDA",
 			"val": 8.344776953361555,
-			"desc": 260.04,
+			"desc": "260.04",
 			"group": "AUTO POSTO DE ABASTECIMENTO ESTRELA DO OCEANO LTDA"
 		},
 		{
@@ -177,7 +178,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 59.157996249343135,
-			"desc": 1413.26,
+			"desc": "1413.26",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -202,7 +203,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1688.2156826894686,
-			"desc": 28517.959999999992,
+			"desc": "28517.96",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 10.04653718869503,
-			"desc": 304.44,
+			"desc": "304.44",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "Auto Posto Comércio e Serviços Santana LTDA",
 			"name": "Auto Posto Comércio e Serviços Santana LTDA",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "Auto Posto Comércio e Serviços Santana LTDA"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 128.84372427955316,
-			"desc": 2811.44,
+			"desc": "2811.44",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 71.47718033731041,
-			"desc": 1669.25,
+			"desc": "1669.25",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 24.02265211363788,
-			"desc": 643.68,
+			"desc": "643.68",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "UBER",
 			"name": "UBER",
 			"val": 6.4711763636262765,
-			"desc": 209.76,
+			"desc": "209.76",
 			"group": "UBER"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "DS COMUNICAÇÃO E IMPRENSA LTDA",
 			"name": "DS COMUNICAÇÃO E IMPRENSA LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "DS COMUNICAÇÃO E IMPRENSA LTDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "DECOLAR.COM LTDA",
 			"name": "DECOLAR.COM LTDA",
 			"val": 80.07155975465845,
-			"desc": 1845.06,
+			"desc": "1845.06",
 			"group": "DECOLAR.COM LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.2333150243557744,
-			"desc": 86.72,
+			"desc": "86.72",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 103.38104266125303,
-			"desc": 2312.7,
+			"desc": "2312.70",
 			"group": "CLARO S/A"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "AUTO POSTO SENNA LTDA",
 			"name": "AUTO POSTO SENNA LTDA",
 			"val": 15.864806144190668,
-			"desc": 450,
+			"desc": "450.00",
 			"group": "AUTO POSTO SENNA LTDA"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 21.727898658615292,
-			"desc": 590.12,
+			"desc": "590.12",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 18.184498215933882,
-			"desc": 506.07,
+			"desc": "506.07",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 12.240190637626624,
-			"desc": 360.3,
+			"desc": "360.30",
 			"group": "RAMAL"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 95.7036867585192,
-			"desc": 2160,
+			"desc": "2160.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "AUTO POSTO QUEBRAMAR LTDA",
 			"name": "AUTO POSTO QUEBRAMAR LTDA",
 			"val": 9.369854496558235,
-			"desc": 286.91,
+			"desc": "286.91",
 			"group": "AUTO POSTO QUEBRAMAR LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.03063019633400822,
-			"desc": 3.9,
+			"desc": "3.90",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 34.09923117730148,
-			"desc": 872.62,
+			"desc": "872.62",
 			"group": "SAO JOAO POSTOS"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "DICA-RJ DIVULGACAO E CONSULTORIA DE IMPRENSA LTDA",
 			"name": "DICA-RJ DIVULGACAO E CONSULTORIA DE IMPRENSA LTDA",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "DICA-RJ DIVULGACAO E CONSULTORIA DE IMPRENSA LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "POSTO VENCEDOR LTDA",
 			"name": "POSTO VENCEDOR LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO VENCEDOR LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.0132710064245882,
-			"desc": 45.89,
+			"desc": "45.89",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "COMERCIAL DE COMBUSTÍVEIS PORTAL DE MINAS III LTDA",
 			"name": "COMERCIAL DE COMBUSTÍVEIS PORTAL DE MINAS III LTDA",
 			"val": 8.914380272077997,
-			"desc": 275.02,
+			"desc": "275.02",
 			"group": "COMERCIAL DE COMBUSTÍVEIS PORTAL DE MINAS III LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "POSTO METROPOLITANO DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO METROPOLITANO DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO METROPOLITANO DERIVADOS DE PETROLEO LTDA"
 		},
 		{

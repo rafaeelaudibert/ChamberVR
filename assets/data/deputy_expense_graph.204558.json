@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARCELO NILO"
+			"name": "MARCELO NILO",
+			"desc": "87003.09"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 39.66559645287068,
-			"desc": 995.67,
+			"desc": "995.67",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 67.49103557653962,
-			"desc": 1586.9699999999998,
+			"desc": "1586.97",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "BRAGA POSTOS E SERVICOS LTDA",
 			"name": "BRAGA POSTOS E SERVICOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRAGA POSTOS E SERVICOS LTDA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "RESTAURANTE GERO LTDA",
 			"name": "RESTAURANTE GERO LTDA",
 			"val": 4.302624438195448,
-			"desc": 149,
+			"desc": "149.00",
 			"group": "RESTAURANTE GERO LTDA"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "MUNICIPIO DE SALVADOR",
 			"name": "MUNICIPIO DE SALVADOR",
 			"val": 17.54321436341397,
-			"desc": 490.66,
+			"desc": "490.66",
 			"group": "MUNICIPIO DE SALVADOR"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 22.602174222609747,
-			"desc": 610.6,
+			"desc": "610.60",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "P.P. PRODUÇÕES LTDA - ME",
 			"name": "P.P. PRODUÇÕES LTDA - ME",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "P.P. PRODUÇÕES LTDA - ME"
 		},
 		{
@@ -229,7 +230,7 @@
 			"id": "ROBERTO CORDEIRO DE VASCONCELLOS",
 			"name": "ROBERTO CORDEIRO DE VASCONCELLOS",
 			"val": 924.6717746653558,
-			"desc": 16500,
+			"desc": "16500.00",
 			"group": "ROBERTO CORDEIRO DE VASCONCELLOS"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 16.83859393218581,
-			"desc": 473.65,
+			"desc": "473.65",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 61.31691326001996,
-			"desc": 1458.5,
+			"desc": "1458.50",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.029230130366873,
-			"desc": 80.2,
+			"desc": "80.20",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 21.9665568452072,
-			"desc": 595.72,
+			"desc": "595.72",
 			"group": "CLARO S.A."
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 448.44372460757603,
-			"desc": 8579.87,
+			"desc": "8579.87",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "WRC RESTAURANTES LTDA",
 			"name": "WRC RESTAURANTES LTDA",
 			"val": 5.637166964335152,
-			"desc": 186.78,
+			"desc": "186.78",
 			"group": "WRC RESTAURANTES LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "WELL FOODS RESTAURANTES LTDA",
 			"name": "WELL FOODS RESTAURANTES LTDA",
 			"val": 9.37715629313528,
-			"desc": 287.1,
+			"desc": "287.10",
 			"group": "WELL FOODS RESTAURANTES LTDA"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 5.691488955865414,
-			"desc": 188.29,
+			"desc": "188.29",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "GATTAI RESTAURANTE LTDA",
 			"name": "GATTAI RESTAURANTE LTDA",
 			"val": 7.638504512914469,
-			"desc": 241.27999999999997,
+			"desc": "241.28",
 			"group": "GATTAI RESTAURANTE LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "SALVADOR TRADE CENTER",
 			"name": "SALVADOR TRADE CENTER",
 			"val": 113.33805895852075,
-			"desc": 2509.05,
+			"desc": "2509.05",
 			"group": "SALVADOR TRADE CENTER"
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "P.P. PRODUCOES LTDA",
 			"name": "P.P. PRODUCOES LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "P.P. PRODUCOES LTDA"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 188.98692061501316,
-			"desc": 3954,
+			"desc": "3954.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "AUTO POSTO ESPLANADA LTDA",
 			"name": "AUTO POSTO ESPLANADA LTDA",
 			"val": 6.904817123409665,
-			"desc": 221.55,
+			"desc": "221.55",
 			"group": "AUTO POSTO ESPLANADA LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 352.3654598944701,
-			"desc": 6907.039999999999,
+			"desc": "6907.04",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.34344984344224033,
-			"desc": 19.9,
+			"desc": "19.90",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "DEUSNEI - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "DEUSNEI - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DEUSNEI - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "ATA AEROTAXI ABAETE LTDA",
 			"name": "ATA AEROTAXI ABAETE LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "ATA AEROTAXI ABAETE LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "LA PULPERIA COMERCIO DE ALIMENTOS EIRELI:15330451000164",
 			"name": "LA PULPERIA COMERCIO DE ALIMENTOS EIRELI:15330451000164",
 			"val": 2.8366304121384966,
-			"desc": 105.51,
+			"desc": "105.51",
 			"group": "LA PULPERIA COMERCIO DE ALIMENTOS EIRELI:15330451000164"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "GK COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "GK COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "GK COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "LUPA ALIMENTOS PUBLICIDADE E EVENTOS LTDA",
 			"name": "LUPA ALIMENTOS PUBLICIDADE E EVENTOS LTDA",
 			"val": 2.586521513497378,
-			"desc": 97.8,
+			"desc": "97.80",
 			"group": "LUPA ALIMENTOS PUBLICIDADE E EVENTOS LTDA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "GEOPETRUS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "GEOPETRUS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GEOPETRUS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 26.11070004648944,
-			"desc": 691.9,
+			"desc": "691.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "JAPA PASEO RESTAURANTE LTDA:27017307000151",
 			"name": "JAPA PASEO RESTAURANTE LTDA:27017307000151",
 			"val": 3.129042827489334,
-			"desc": 114.4,
+			"desc": "114.40",
 			"group": "JAPA PASEO RESTAURANTE LTDA:27017307000151"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "PREFEITURA MUNICIPAL DE SALVADOR",
 			"name": "PREFEITURA MUNICIPAL DE SALVADOR",
 			"val": 39.025366521302445,
-			"desc": 981.62,
+			"desc": "981.62",
 			"group": "PREFEITURA MUNICIPAL DE SALVADOR"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.774846795038776,
-			"desc": 162.53,
+			"desc": "162.53",
 			"group": "RAMAL"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "GCMR ITAIGARA RESTAURANTE EIRELI - EPP",
 			"name": "GCMR ITAIGARA RESTAURANTE EIRELI - EPP",
 			"val": 1.2292486896223511,
-			"desc": 53.52,
+			"desc": "53.52",
 			"group": "GCMR ITAIGARA RESTAURANTE EIRELI - EPP"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "OBA HORTIFRUTI COM E IMP DE FRUTAS LTDA",
 			"name": "OBA HORTIFRUTI COM E IMP DE FRUTAS LTDA",
 			"val": 0.3452931354671741,
-			"desc": 19.98,
+			"desc": "19.98",
 			"group": "OBA HORTIFRUTI COM E IMP DE FRUTAS LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{

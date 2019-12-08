@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDUARDO BOLSONARO"
+			"name": "EDUARDO BOLSONARO",
+			"desc": "53127.03"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 240.42190108749358,
-			"desc": 4902.81,
+			"desc": "4902.81",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.03338423211958382,
-			"desc": 4.1,
+			"desc": "4.10",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "AUTO POSTO AGUA LIMPA BARRETOS LTDA",
 			"name": "AUTO POSTO AGUA LIMPA BARRETOS LTDA",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "AUTO POSTO AGUA LIMPA BARRETOS LTDA"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 386.71510217561445,
-			"desc": 7509.34,
+			"desc": "7509.34",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -147,7 +148,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.035199223126527,
-			"desc": 169.91,
+			"desc": "169.91",
 			"group": "RAMAL"
 		},
 		{
@@ -172,7 +173,7 @@
 			"id": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"name": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"val": 18.626355614725533,
-			"desc": 516.6500000000001,
+			"desc": "516.65",
 			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 5.454577415275237,
-			"desc": 181.69,
+			"desc": "181.69",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "AUTO EIXO 208 NORTE LTDA",
 			"name": "AUTO EIXO 208 NORTE LTDA",
 			"val": 3.311967892153483,
-			"desc": 119.9,
+			"desc": "119.90",
 			"group": "AUTO EIXO 208 NORTE LTDA"
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "O GAUCHO DA VILA LTDA ME",
 			"name": "O GAUCHO DA VILA LTDA ME",
 			"val": 1.0835666435661682,
-			"desc": 48.4,
+			"desc": "48.40",
 			"group": "O GAUCHO DA VILA LTDA ME"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "Telefônica Brasil S. A. VIVO/GVT",
 			"name": "Telefônica Brasil S. A. VIVO/GVT",
 			"val": 8.511200003167865,
-			"desc": 264.43,
+			"desc": "264.43",
 			"group": "Telefônica Brasil S. A. VIVO/GVT"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "AUTO POSTO ALVORADA PAULISTA LTDA",
 			"name": "AUTO POSTO ALVORADA PAULISTA LTDA",
 			"val": 4.616339293705649,
-			"desc": 158.01,
+			"desc": "158.01",
 			"group": "AUTO POSTO ALVORADA PAULISTA LTDA"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 105.6507565553844,
-			"desc": 2357.62,
+			"desc": "2357.62",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "ECT - EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "ECT - EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 2.1886184729902327,
-			"desc": 85.3,
+			"desc": "85.30",
 			"group": "ECT - EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "RESTAURANTE GUAZZELLI LTDA ME",
 			"name": "RESTAURANTE GUAZZELLI LTDA ME",
 			"val": 0.3900704453089298,
-			"desc": 21.9,
+			"desc": "21.90",
 			"group": "RESTAURANTE GUAZZELLI LTDA ME"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 4.0552140906819165,
-			"desc": 141.83,
+			"desc": "141.83",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA",
 			"name": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA",
 			"val": 4.7081279792249795,
-			"desc": 160.63,
+			"desc": "160.63",
 			"group": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "CENTRO AUTOMOTIVO PARAISO LT",
 			"name": "CENTRO AUTOMOTIVO PARAISO LT",
 			"val": 32.95644796016205,
-			"desc": 847.09,
+			"desc": "847.09",
 			"group": "CENTRO AUTOMOTIVO PARAISO LT"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "R TRES AUTO POSTO LT",
 			"name": "R TRES AUTO POSTO LT",
 			"val": 5.669895660171617,
-			"desc": 187.69,
+			"desc": "187.69",
 			"group": "R TRES AUTO POSTO LT"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "LOS PAMPAS COMÉRCIO DE DERIVADOS DE PETRÓLEO LTDA.",
 			"name": "LOS PAMPAS COMÉRCIO DE DERIVADOS DE PETRÓLEO LTDA.",
 			"val": 0.9333175378087608,
-			"desc": 43,
+			"desc": "43.00",
 			"group": "LOS PAMPAS COMÉRCIO DE DERIVADOS DE PETRÓLEO LTDA."
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 28.32177591676765,
-			"desc": 742.48,
+			"desc": "742.48",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "P & L PATRIMONIO LTDA.",
 			"name": "P & L PATRIMONIO LTDA.",
 			"val": 754.3918225593787,
-			"desc": 13722,
+			"desc": "13722.00",
 			"group": "P & L PATRIMONIO LTDA."
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"val": 1.7283209922879816,
-			"desc": 70.4,
+			"desc": "70.40",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 16.016278801846514,
-			"desc": 453.69000000000017,
+			"desc": "453.69",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"name": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "POSTO MONTE CARLO RIO PRETO LTDA",
 			"name": "POSTO MONTE CARLO RIO PRETO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO MONTE CARLO RIO PRETO LTDA"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "H B AUTO POSTO LTDA",
 			"name": "H B AUTO POSTO LTDA",
 			"val": 1.2617919005455007,
-			"desc": 54.65,
+			"desc": "54.65",
 			"group": "H B AUTO POSTO LTDA"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 16.69817145515713,
-			"desc": 470.25,
+			"desc": "470.25",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "HABRASET HOTELEIRA S/A",
 			"name": "HABRASET HOTELEIRA S/A",
 			"val": 26.52440506129731,
-			"desc": 701.4,
+			"desc": "701.40",
 			"group": "HABRASET HOTELEIRA S/A"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "MARZOLA e FELTRIN COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "MARZOLA e FELTRIN COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "MARZOLA e FELTRIN COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "VANDERLEI ALVES DE LIMA ME",
 			"name": "VANDERLEI ALVES DE LIMA ME",
 			"val": 1.6627198802089382,
-			"desc": 68.23,
+			"desc": "68.23",
 			"group": "VANDERLEI ALVES DE LIMA ME"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "AUTO POSTO VASSUNUNGA LTDA",
 			"name": "AUTO POSTO VASSUNUNGA LTDA",
 			"val": 5.8194738845528065,
-			"desc": 191.84,
+			"desc": "191.84",
 			"group": "AUTO POSTO VASSUNUNGA LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 22.884345797451708,
-			"desc": 617.19,
+			"desc": "617.19",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 36.81213157941882,
-			"desc": 932.85,
+			"desc": "932.85",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "AUTO POSTO ITAIPU BASSITT LTDA",
 			"name": "AUTO POSTO ITAIPU BASSITT LTDA",
 			"val": 9.106328511954775,
-			"desc": 280.04,
+			"desc": "280.04",
 			"group": "AUTO POSTO ITAIPU BASSITT LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"name": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"val": 38.04245988713671,
-			"desc": 960,
+			"desc": "960.00",
 			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.935853158059692,
-			"desc": 222.39,
+			"desc": "222.39",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "QUASAR LOCADORA DE VEICULOS LTDA",
 			"name": "QUASAR LOCADORA DE VEICULOS LTDA",
 			"val": 487.48379306076833,
-			"desc": 9250,
+			"desc": "9250.00",
 			"group": "QUASAR LOCADORA DE VEICULOS LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.120537207083441,
-			"desc": 200.15,
+			"desc": "200.15",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "POSTO Z+Z HIDROLANDIA LTDA - EPP",
 			"name": "POSTO Z+Z HIDROLANDIA LTDA - EPP",
 			"val": 2.3688372490323255,
-			"desc": 91,
+			"desc": "91.00",
 			"group": "POSTO Z+Z HIDROLANDIA LTDA - EPP"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 22.10008225797354,
-			"desc": 598.85,
+			"desc": "598.85",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 1.1231043083663992,
-			"desc": 49.8,
+			"desc": "49.80",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "VILLE HOTEL GRAMADAO DE VOTUPORANGA LTDA",
 			"name": "VILLE HOTEL GRAMADAO DE VOTUPORANGA LTDA",
 			"val": 14.85667279046503,
-			"desc": 425.33000000000004,
+			"desc": "425.33",
 			"group": "VILLE HOTEL GRAMADAO DE VOTUPORANGA LTDA"
 		},
 		{
@@ -846,7 +847,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 9.73119009659035,
-			"desc": 296.29,
+			"desc": "296.29",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -859,7 +860,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.9658316178799548,
-			"desc": 44.18,
+			"desc": "44.18",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 23.573697239217765,
-			"desc": 633.25,
+			"desc": "633.25",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "MARIA FRANCILENE DA SILVA LACERDA EMPRESARIO (INDIVIDUAL)",
 			"name": "MARIA FRANCILENE DA SILVA LACERDA EMPRESARIO (INDIVIDUAL)",
 			"val": 15.04689170129387,
-			"desc": 430,
+			"desc": "430.00",
 			"group": "MARIA FRANCILENE DA SILVA LACERDA EMPRESARIO (INDIVIDUAL)"
 		},
 		{
@@ -924,7 +925,7 @@
 			"id": "AUTO POSTO MASUT VI LTDA",
 			"name": "AUTO POSTO MASUT VI LTDA",
 			"val": 0.9888109456763332,
-			"desc": 45.01,
+			"desc": "45.01",
 			"group": "AUTO POSTO MASUT VI LTDA"
 		},
 		{
@@ -937,7 +938,7 @@
 			"id": "AUTO POSTO VIRACOPOS DE CAMPINAS LTDA",
 			"name": "AUTO POSTO VIRACOPOS DE CAMPINAS LTDA",
 			"val": 8.261158183714741,
-			"desc": 257.83,
+			"desc": "257.83",
 			"group": "AUTO POSTO VIRACOPOS DE CAMPINAS LTDA"
 		},
 		{
@@ -950,7 +951,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -963,7 +964,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 3.6512926624802278,
-			"desc": 129.99,
+			"desc": "129.99",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -976,7 +977,7 @@
 			"id": "AUTO POSTO SONHO VERDE LTDA",
 			"name": "AUTO POSTO SONHO VERDE LTDA",
 			"val": 3.6580655114043363,
-			"desc": 130.19,
+			"desc": "130.19",
 			"group": "AUTO POSTO SONHO VERDE LTDA"
 		},
 		{
@@ -989,7 +990,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 1.909833593060773,
-			"desc": 76.34,
+			"desc": "76.34",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -1002,7 +1003,7 @@
 			"id": "ALLPARK EMPREEND. PARTIC. E SERV. S/A",
 			"name": "ALLPARK EMPREEND. PARTIC. E SERV. S/A",
 			"val": 4.233407338763782,
-			"desc": 147,
+			"desc": "147.00",
 			"group": "ALLPARK EMPREEND. PARTIC. E SERV. S/A"
 		},
 		{

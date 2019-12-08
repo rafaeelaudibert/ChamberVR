@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZ CARLOS"
+			"name": "LUIZ CARLOS",
+			"desc": "210997.45"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 920.2790984769895,
-			"desc": 16428.92,
+			"desc": "16428.92",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.405451259309999,
-			"desc": 92.14999999999999,
+			"desc": "92.15",
 			"group": "RAMAL"
 		},
 		{
@@ -205,7 +206,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1645.3694635799018,
-			"desc": 27857.79,
+			"desc": "27857.79",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "VERDE AMARELO POSTO DE SERVICOS LTDA",
 			"name": "VERDE AMARELO POSTO DE SERVICOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "VERDE AMARELO POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "EDSON GUIMARÃES CAVALCANTE",
 			"name": "EDSON GUIMARÃES CAVALCANTE",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "EDSON GUIMARÃES CAVALCANTE"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "JACENIRA DOS SANTOS ROCHA",
 			"name": "JACENIRA DOS SANTOS ROCHA",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "JACENIRA DOS SANTOS ROCHA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "J G DA FONSECA - ME",
 			"name": "J G DA FONSECA - ME",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "J G DA FONSECA - ME"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 79.3083498119498,
-			"desc": 1829.5299999999997,
+			"desc": "1829.53",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 2.6594833520585235,
-			"desc": 100.06,
+			"desc": "100.06",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 9.642814677527562,
-			"desc": 294,
+			"desc": "294.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "D C Dos S Trajano - ME",
 			"name": "D C Dos S Trajano - ME",
 			"val": 2179.5421371990333,
-			"desc": 36000,
+			"desc": "36000.00",
 			"group": "D C Dos S Trajano - ME"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "GRAMPOS OIAPOC EIRELI",
 			"name": "GRAMPOS OIAPOC EIRELI",
 			"val": 246.56721398891412,
-			"desc": 5014.8,
+			"desc": "5014.80",
 			"group": "GRAMPOS OIAPOC EIRELI"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
 			"name": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
 			"val": 519.7357885284854,
-			"desc": 9800,
+			"desc": "9800.00",
 			"group": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "PAPELARIA GLÓRIA LTDA - ME",
 			"name": "PAPELARIA GLÓRIA LTDA - ME",
 			"val": 1.0695023386626334,
-			"desc": 47.9,
+			"desc": "47.90",
 			"group": "PAPELARIA GLÓRIA LTDA - ME"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "THAIANA ARAUJO ADVOCACIA LTDA - ME",
 			"name": "THAIANA ARAUJO ADVOCACIA LTDA - ME",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "THAIANA ARAUJO ADVOCACIA LTDA - ME"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "GRAMPOS OIAPOC EIRELI ME",
 			"name": "GRAMPOS OIAPOC EIRELI ME",
 			"val": 891.4868520486332,
-			"desc": 15962.3,
+			"desc": "15962.30",
 			"group": "GRAMPOS OIAPOC EIRELI ME"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "LORENA LUANDA DA ROCHA BRAGA",
 			"name": "LORENA LUANDA DA ROCHA BRAGA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "LORENA LUANDA DA ROCHA BRAGA"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "E R D DE SOUZA",
 			"name": "E R D DE SOUZA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "E R D DE SOUZA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "D C DOS S S TRAJANO",
 			"name": "D C DOS S S TRAJANO",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "D C DOS S S TRAJANO"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "Antonio Pereira de Souza Transportes ME",
 			"name": "Antonio Pereira de Souza Transportes ME",
 			"val": 420.6720806421629,
-			"desc": 8100,
+			"desc": "8100.00",
 			"group": "Antonio Pereira de Souza Transportes ME"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 14.639932469679087,
-			"desc": 420,
+			"desc": "420.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI"
 		},
 		{

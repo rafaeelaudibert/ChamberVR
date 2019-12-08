@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOÃO CARLOS BACELAR"
+			"name": "JOÃO CARLOS BACELAR",
+			"desc": "133769.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 50.969577050160225,
-			"desc": 1240,
+			"desc": "1240.00",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 544.5234985058098,
-			"desc": 10220.650000000001,
+			"desc": "10220.65",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -121,7 +122,7 @@
 			"id": "348 BELA CINTRA RESTAURANTE LTDA.",
 			"name": "348 BELA CINTRA RESTAURANTE LTDA.",
 			"val": 6.013429216887745,
-			"desc": 197.2,
+			"desc": "197.20",
 			"group": "348 BELA CINTRA RESTAURANTE LTDA."
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 38.13326858634712,
-			"desc": 962,
+			"desc": "962.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 44.916567187894366,
-			"desc": 1110,
+			"desc": "1110.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -220,7 +221,7 @@
 			"id": "POSTO ALBALONGA LTDA",
 			"name": "POSTO ALBALONGA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ALBALONGA LTDA"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 63.279055156028804,
-			"desc": 1499.47,
+			"desc": "1499.47",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 113.47357409515148,
-			"desc": 2511.71,
+			"desc": "2511.71",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "BELA CINTRA DE PAES E DOCES LIMITADA",
 			"name": "BELA CINTRA DE PAES E DOCES LIMITADA",
 			"val": 0.43053149170239086,
-			"desc": 23.6,
+			"desc": "23.60",
 			"group": "BELA CINTRA DE PAES E DOCES LIMITADA"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "AEROPREST COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AEROPREST COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 105.26538338965221,
-			"desc": 2350,
+			"desc": "2350.00",
 			"group": "AEROPREST COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.7315277967831768,
-			"desc": 35.51,
+			"desc": "35.51",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 3.702471388367751,
-			"desc": 131.5,
+			"desc": "131.50",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 263.18693496299716,
-			"desc": 5316.379999999999,
+			"desc": "5316.38",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 13.602042569526287,
-			"desc": 394.34000000000003,
+			"desc": "394.34",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "POSTO DE COMBUSTIVEIS LTDA. EPP",
 			"name": "POSTO DE COMBUSTIVEIS LTDA. EPP",
 			"val": 13.823714695541526,
-			"desc": 399.84,
+			"desc": "399.84",
 			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "SHAI PRINT SERVICOS GRAFICOS LTDA - ME",
 			"name": "SHAI PRINT SERVICOS GRAFICOS LTDA - ME",
 			"val": 4316.396669761735,
-			"desc": 67284,
+			"desc": "67284.00",
 			"group": "SHAI PRINT SERVICOS GRAFICOS LTDA - ME"
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1",
 			"name": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1",
 			"val": 7.560330211145994,
-			"desc": 239.19,
+			"desc": "239.19",
 			"group": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA - PSG1"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 5.453861579207949,
-			"desc": 181.67,
+			"desc": "181.67",
 			"group": "telefonia Brasil S/A"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 17.34154173848729,
-			"desc": 485.8,
+			"desc": "485.80",
 			"group": "RAMAL"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 8.783531896463817,
-			"desc": 271.59,
+			"desc": "271.59",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 1.072312800138462,
-			"desc": 48,
+			"desc": "48.00",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 2.7038562730356475,
-			"desc": 101.43,
+			"desc": "101.43",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 3.5772467461216837,
-			"desc": 127.8,
+			"desc": "127.80",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "SRB REVENDEDORA DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "SRB REVENDEDORA DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SRB REVENDEDORA DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "ADEY TAXI AEREO LTDA",
 			"name": "ADEY TAXI AEREO LTDA",
 			"val": 537.4035339700713,
-			"desc": 10100,
+			"desc": "10100.00",
 			"group": "ADEY TAXI AEREO LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "CENTER GRILL RESTAURANTE",
 			"name": "CENTER GRILL RESTAURANTE",
 			"val": 2.583300025587264,
-			"desc": 97.7,
+			"desc": "97.70",
 			"group": "CENTER GRILL RESTAURANTE"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.6856507054727947,
-			"desc": 68.99,
+			"desc": "68.99",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"name": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"val": 2.7061263823771817,
-			"desc": 101.5,
+			"desc": "101.50",
 			"group": "ZRC COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "BAHIA MARINA S/A",
 			"name": "BAHIA MARINA S/A",
 			"val": 165.01003805147005,
-			"desc": 3503.52,
+			"desc": "3503.52",
 			"group": "BAHIA MARINA S/A"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "MACTRA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "MACTRA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 98.95429784874042,
-			"desc": 2224.8,
+			"desc": "2224.80",
 			"group": "MACTRA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "V MATOS DOS ANJOS",
 			"name": "V MATOS DOS ANJOS",
 			"val": 893.8101942183736,
-			"desc": 16000,
+			"desc": "16000.00",
 			"group": "V MATOS DOS ANJOS"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "LA PAUSA CAFES ESPECIAIS - LTDA",
 			"name": "LA PAUSA CAFES ESPECIAIS - LTDA",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "LA PAUSA CAFES ESPECIAIS - LTDA"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.291335849920276,
-			"desc": 204.84,
+			"desc": "204.84",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 67.98774119681765,
-			"desc": 1597.25,
+			"desc": "1597.25",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "POSTO COMERCIAL NORTE LTDA",
 			"name": "POSTO COMERCIAL NORTE LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO COMERCIAL NORTE LTDA"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 7.836085279705687,
-			"desc": 246.55,
+			"desc": "246.55",
 			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "Partners Air - SSA",
 			"name": "Partners Air - SSA",
 			"val": 130.70881900761054,
-			"desc": 2847.56,
+			"desc": "2847.56",
 			"group": "Partners Air - SSA"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 4.470766920671305,
-			"desc": 153.84,
+			"desc": "153.84",
 			"group": "TIM S/A"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "OFFICE 10 SERVIÇOS EIRELI EPP",
 			"name": "OFFICE 10 SERVIÇOS EIRELI EPP",
 			"val": 3.9581312364342707,
-			"desc": 139,
+			"desc": "139.00",
 			"group": "OFFICE 10 SERVIÇOS EIRELI EPP"
 		},
 		{
@@ -875,7 +876,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -888,7 +889,7 @@
 			"id": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
 			"name": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -901,7 +902,7 @@
 			"id": "JAPA PASEO RESTAURANTE LTDA:27017307000151",
 			"name": "JAPA PASEO RESTAURANTE LTDA:27017307000151",
 			"val": 7.411381790352021,
-			"desc": 235.2,
+			"desc": "235.20",
 			"group": "JAPA PASEO RESTAURANTE LTDA:27017307000151"
 		},
 		{
@@ -914,7 +915,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -927,7 +928,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO"
 		},
 		{
@@ -940,7 +941,7 @@
 			"id": "FFBARROS ALIMENTACAO EIRELI",
 			"name": "FFBARROS ALIMENTACAO EIRELI",
 			"val": 0.8110851272670148,
-			"desc": 38.5,
+			"desc": "38.50",
 			"group": "FFBARROS ALIMENTACAO EIRELI"
 		},
 		{
@@ -953,7 +954,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{

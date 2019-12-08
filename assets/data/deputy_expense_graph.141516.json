@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO ABI-ACKEL"
+			"name": "PAULO ABI-ACKEL",
+			"desc": "129559.63"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 115.92480029798732,
-			"desc": 2559.7699999999995,
+			"desc": "2559.77",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -132,7 +133,7 @@
 			"id": "LA HOTELS EMPREENDIMENTOS LTDA",
 			"name": "LA HOTELS EMPREENDIMENTOS LTDA",
 			"val": 36.50695154812417,
-			"desc": 926.1,
+			"desc": "926.10",
 			"group": "LA HOTELS EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -163,7 +164,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 75.69983663798403,
-			"desc": 1755.8899999999999,
+			"desc": "1755.89",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 33.78949243087751,
-			"desc": 865.71,
+			"desc": "865.71",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 16.082422849798903,
-			"desc": 455.3,
+			"desc": "455.30",
 			"group": "RAMAL"
 		},
 		{
@@ -220,7 +221,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 759.7617259080907,
-			"desc": 13810.369999999999,
+			"desc": "13810.37",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 205.3965096162765,
-			"desc": 4259.1,
+			"desc": "4259.10",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 203.39904417186798,
-			"desc": 4222.09,
+			"desc": "4222.09",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "DESENHAR COMERCIO LTDA - ME",
 			"name": "DESENHAR COMERCIO LTDA - ME",
 			"val": 10.254619579371616,
-			"desc": 309.8,
+			"desc": "309.80",
 			"group": "DESENHAR COMERCIO LTDA - ME"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "THIAGO DE PAULA LOPES 04628747105",
 			"name": "THIAGO DE PAULA LOPES 04628747105",
 			"val": 1654.5915911526054,
-			"desc": 28000,
+			"desc": "28000.00",
 			"group": "THIAGO DE PAULA LOPES 04628747105"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "POSTO DE GASOLINA DOS ANOES LTDA",
 			"name": "POSTO DE GASOLINA DOS ANOES LTDA",
 			"val": 3.8528502709275942,
-			"desc": 135.92,
+			"desc": "135.92",
 			"group": "POSTO DE GASOLINA DOS ANOES LTDA"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS ALEX LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS ALEX LTDA",
 			"val": 861.6310590523334,
-			"desc": 15477.09,
+			"desc": "15477.09",
 			"group": "COMERCIO DE COMBUSTIVEIS ALEX LTDA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 51.696700585249474,
-			"desc": 1255.5,
+			"desc": "1255.50",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "CORREIOS - MALOTE",
 			"name": "CORREIOS - MALOTE",
 			"val": 33.0860377452618,
-			"desc": 849.99,
+			"desc": "849.99",
 			"group": "CORREIOS - MALOTE"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 88.07378230813909,
-			"desc": 2007,
+			"desc": "2007.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"name": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"val": 740.91627648858,
-			"desc": 13500,
+			"desc": "13500.00",
 			"group": "TRANSMOURA LOCADORA DE VEICULOS LTDA."
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "Nauweb Comunicação e Internet Ltda",
 			"name": "Nauweb Comunicação e Internet Ltda",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "Nauweb Comunicação e Internet Ltda"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 4.942907700643043,
-			"desc": 167.3,
+			"desc": "167.30",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "ALTIS LOCADORA DE VEICULOS - EIRELI",
 			"name": "ALTIS LOCADORA DE VEICULOS - EIRELI",
 			"val": 1206.0805434250312,
-			"desc": 21000,
+			"desc": "21000.00",
 			"group": "ALTIS LOCADORA DE VEICULOS - EIRELI"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.8282919289694016,
-			"desc": 39.14,
+			"desc": "39.14",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 11.359170234473538,
-			"desc": 338.03,
+			"desc": "338.03",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.2462454288108105,
-			"desc": 87.13000000000001,
+			"desc": "87.13",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 6.046079409469684,
-			"desc": 198.1,
+			"desc": "198.10",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "CLAUDIA CAMPOLINA ASSESSORIA DE COMUNICAÇÕES LTDA-ME",
 			"name": "CLAUDIA CAMPOLINA ASSESSORIA DE COMUNICAÇÕES LTDA-ME",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "CLAUDIA CAMPOLINA ASSESSORIA DE COMUNICAÇÕES LTDA-ME"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 40.96,
-			"desc": 1024,
+			"desc": "1024.00",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{

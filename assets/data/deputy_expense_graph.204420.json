@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JULIAN LEMOS"
+			"name": "JULIAN LEMOS",
+			"desc": "101286.96"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 19.525572144326418,
-			"desc": 538.0899999999999,
+			"desc": "538.09",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "LA MASSAS RISTORANTE PIZZERIA LTDA - EPP",
 			"name": "LA MASSAS RISTORANTE PIZZERIA LTDA - EPP",
 			"val": 1.0157781244487203,
-			"desc": 45.98,
+			"desc": "45.98",
 			"group": "LA MASSAS RISTORANTE PIZZERIA LTDA - EPP"
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 7.011672590268583,
-			"desc": 224.44,
+			"desc": "224.44",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 670.1430993391087,
-			"desc": 12328.170000000002,
+			"desc": "12328.17",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS CAJA LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS CAJA LTDA",
 			"val": 42.75435139431904,
-			"desc": 1063.1100000000001,
+			"desc": "1063.11",
 			"group": "COMERCIAL DE COMBUSTIVEIS CAJA LTDA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 512.3075553421063,
-			"desc": 9673.599999999999,
+			"desc": "9673.60",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -317,7 +318,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 4.219928233781245,
-			"desc": 146.61,
+			"desc": "146.61",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "FARIAS COM DE COMBUSTIVEIS LTDA",
 			"name": "FARIAS COM DE COMBUSTIVEIS LTDA",
 			"val": 8.913616589253225,
-			"desc": 275,
+			"desc": "275.00",
 			"group": "FARIAS COM DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "REVENDA DE COMB BEZERRA CAVALCANTI LTDA",
 			"name": "REVENDA DE COMB BEZERRA CAVALCANTI LTDA",
 			"val": 6.22935354061625,
-			"desc": 203.14,
+			"desc": "203.14",
 			"group": "REVENDA DE COMB BEZERRA CAVALCANTI LTDA"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "JAIME T MOURA",
 			"name": "JAIME T MOURA",
 			"val": 6.114721491213272,
-			"desc": 199.99,
+			"desc": "199.99",
 			"group": "JAIME T MOURA"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 12.16073673119906,
-			"desc": 358.3,
+			"desc": "358.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "HS PETROLEO COMERCIO DE COMB LTDA-EPP",
 			"name": "HS PETROLEO COMERCIO DE COMB LTDA-EPP",
 			"val": 1.1299051784597216,
-			"desc": 50.04,
+			"desc": "50.04",
 			"group": "HS PETROLEO COMERCIO DE COMB LTDA-EPP"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"name": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 90.00848287471095,
-			"desc": 2045.92,
+			"desc": "2045.92",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "BELANA 01 COMERCIAL LTDA",
 			"name": "BELANA 01 COMERCIAL LTDA",
 			"val": 9.85330800960063,
-			"desc": 299.45,
+			"desc": "299.45",
 			"group": "BELANA 01 COMERCIAL LTDA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "POSTO ALTERNATIVA DE COMBUSTIVEL E SERVICO LTDA",
 			"name": "POSTO ALTERNATIVA DE COMBUSTIVEL E SERVICO LTDA",
 			"val": 6.100548779703199,
-			"desc": 199.6,
+			"desc": "199.60",
 			"group": "POSTO ALTERNATIVA DE COMBUSTIVEL E SERVICO LTDA"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 35.09556444013795,
-			"desc": 894.8,
+			"desc": "894.80",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 62.86759965937841,
-			"desc": 1490.89,
+			"desc": "1490.89",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "COMERCIAL DE COMBUSTVEIS CAJA LTDA",
 			"name": "COMERCIAL DE COMBUSTVEIS CAJA LTDA",
 			"val": 23.864566508287915,
-			"desc": 640.01,
+			"desc": "640.01",
 			"group": "COMERCIAL DE COMBUSTVEIS CAJA LTDA"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS COSTINHA LTDA ME",
 			"name": "COMERCIAL DE COMBUSTIVEIS COSTINHA LTDA ME",
 			"val": 8.549168649545038,
-			"desc": 265.43,
+			"desc": "265.43",
 			"group": "COMERCIAL DE COMBUSTIVEIS COSTINHA LTDA ME"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.3516734555955834,
-			"desc": 90.46,
+			"desc": "90.46",
 			"group": "RAMAL"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "SB CHURRASCARIA LTDA",
 			"name": "SB CHURRASCARIA LTDA",
 			"val": 3.684496538465337,
-			"desc": 130.97,
+			"desc": "130.97",
 			"group": "SB CHURRASCARIA LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "AUTO POSTO DE COMBUSTIVEIS FREEWAY LTDA",
 			"name": "AUTO POSTO DE COMBUSTIVEIS FREEWAY LTDA",
 			"val": 20.53715198699402,
-			"desc": 562.0699999999999,
+			"desc": "562.07",
 			"group": "AUTO POSTO DE COMBUSTIVEIS FREEWAY LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 23.533713687829074,
-			"desc": 632.3199999999999,
+			"desc": "632.32",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "ABASTEÇA COM. DE COMBUSTÍVEIS LTDA",
 			"name": "ABASTEÇA COM. DE COMBUSTÍVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ABASTEÇA COM. DE COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "GS COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP",
 			"name": "GS COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP",
 			"val": 13.730558877036751,
-			"desc": 397.53,
+			"desc": "397.53",
 			"group": "GS COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 2113.3094222249874,
-			"desc": 35000,
+			"desc": "35000.00",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "F. ERIBERTO & FILHOS LTDA EPP",
 			"name": "F. ERIBERTO & FILHOS LTDA EPP",
 			"val": 443.8104022810225,
-			"desc": 8500,
+			"desc": "8500.00",
 			"group": "F. ERIBERTO & FILHOS LTDA EPP"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "ANDES RESTAURANTE LTDA-EPP",
 			"name": "ANDES RESTAURANTE LTDA-EPP",
 			"val": 0.9608599648801642,
-			"desc": 44,
+			"desc": "44.00",
 			"group": "ANDES RESTAURANTE LTDA-EPP"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "sebadelhe aranha& vasconcelos advocacia",
 			"name": "sebadelhe aranha& vasconcelos advocacia",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "sebadelhe aranha& vasconcelos advocacia"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "AUTO POSTO DE COMBUSTIVEIS MONSENHOR MAGNO",
 			"name": "AUTO POSTO DE COMBUSTIVEIS MONSENHOR MAGNO",
 			"val": 5.959427166798669,
-			"desc": 195.71,
+			"desc": "195.71",
 			"group": "AUTO POSTO DE COMBUSTIVEIS MONSENHOR MAGNO"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "POSTO 99 COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "POSTO 99 COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 13.228626839467468,
-			"desc": 385.05,
+			"desc": "385.05",
 			"group": "POSTO 99 COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 7.63850451291447,
-			"desc": 241.28,
+			"desc": "241.28",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{

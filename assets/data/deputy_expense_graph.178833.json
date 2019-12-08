@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALEXANDRE SERFIOTIS"
+			"name": "ALEXANDRE SERFIOTIS",
+			"desc": "41805.91"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 28.807955628141436,
-			"desc": 753.54,
+			"desc": "753.54",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "REDE DOM PEDRO DE POSTOS LTDA",
 			"name": "REDE DOM PEDRO DE POSTOS LTDA",
 			"val": 4.010576865009104,
-			"desc": 140.53,
+			"desc": "140.53",
 			"group": "REDE DOM PEDRO DE POSTOS LTDA"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"name": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.4677686105958754,
-			"desc": 61.699999999999996,
+			"desc": "61.70",
 			"group": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 27.813756960983813,
-			"desc": 730.9000000000001,
+			"desc": "730.90",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "POSTO DE GASOLINA AMIGAO DA DUTRA LTDA",
 			"name": "POSTO DE GASOLINA AMIGAO DA DUTRA LTDA",
 			"val": 23.406506811101316,
-			"desc": 629.36,
+			"desc": "629.36",
 			"group": "POSTO DE GASOLINA AMIGAO DA DUTRA LTDA"
 		},
 		{
@@ -154,7 +155,7 @@
 			"id": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"name": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMERCIAL DE COMBUSTÍVEL MAM LTDA"
 		},
 		{
@@ -167,7 +168,7 @@
 			"id": "AUTO POSTO REAL BEIRA RIO LTDA",
 			"name": "AUTO POSTO REAL BEIRA RIO LTDA",
 			"val": 150.14521703020097,
-			"desc": 3221.080000000001,
+			"desc": "3221.08",
 			"group": "AUTO POSTO REAL BEIRA RIO LTDA"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 62.992253127415324,
-			"desc": 1493.49,
+			"desc": "1493.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 10.849542100674494,
-			"desc": 325.05,
+			"desc": "325.05",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "POSTO PINHEIRINHO DE RESENDE LTDA",
 			"name": "POSTO PINHEIRINHO DE RESENDE LTDA",
 			"val": 20.831447901508803,
-			"desc": 569.02,
+			"desc": "569.02",
 			"group": "POSTO PINHEIRINHO DE RESENDE LTDA"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 72.71103380704015,
-			"desc": 1694.62,
+			"desc": "1694.62",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "AUTO POSTO DE SERVICOS MARISOL LTDA",
 			"name": "AUTO POSTO DE SERVICOS MARISOL LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO DE SERVICOS MARISOL LTDA"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "AUTO POSTO MATE AMARGO LTDA",
 			"name": "AUTO POSTO MATE AMARGO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO MATE AMARGO LTDA"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "BAR E RESTAURANTE HP LTDA",
 			"name": "BAR E RESTAURANTE HP LTDA",
 			"val": 2.868659204739134,
-			"desc": 106.49000000000001,
+			"desc": "106.49",
 			"group": "BAR E RESTAURANTE HP LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 8.11989903046602,
-			"desc": 254.08999999999997,
+			"desc": "254.09",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "TAPAJÓS CONSULTORIA, SERVIÇOS E COMERCIO LTDA",
 			"name": "TAPAJÓS CONSULTORIA, SERVIÇOS E COMERCIO LTDA",
 			"val": 1048.9675861215367,
-			"desc": 18500,
+			"desc": "18500.00",
 			"group": "TAPAJÓS CONSULTORIA, SERVIÇOS E COMERCIO LTDA"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "POSTO CLUBE DOS 500 LTDA",
 			"name": "POSTO CLUBE DOS 500 LTDA",
 			"val": 6.480698795580034,
-			"desc": 210.02,
+			"desc": "210.02",
 			"group": "POSTO CLUBE DOS 500 LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 319.57861083107906,
-			"desc": 6327.120000000001,
+			"desc": "6327.12",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.2589064909913885,
-			"desc": 54.55,
+			"desc": "54.55",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "POSTO DE SERVICO 3 D DE JAMAPARA LTDA",
 			"name": "POSTO DE SERVICO 3 D DE JAMAPARA LTDA",
 			"val": 5.826334532983402,
-			"desc": 192.03,
+			"desc": "192.03",
 			"group": "POSTO DE SERVICO 3 D DE JAMAPARA LTDA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "AUTO POSTO QUEIMADOS RIO LTDA",
 			"name": "AUTO POSTO QUEIMADOS RIO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO QUEIMADOS RIO LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"name": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"val": 0.6063971718873205,
-			"desc": 30.69,
+			"desc": "30.69",
 			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "NET FACIL SISTEMAS ELETRONICOS LTDA",
 			"name": "NET FACIL SISTEMAS ELETRONICOS LTDA",
 			"val": 3.985541731832931,
-			"desc": 139.8,
+			"desc": "139.80",
 			"group": "NET FACIL SISTEMAS ELETRONICOS LTDA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"name": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.68141070935204,
-			"desc": 188.01,
+			"desc": "188.01",
 			"group": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "POSTO DE ABAST. DE COMB. VILA NOVA",
 			"name": "POSTO DE ABAST. DE COMB. VILA NOVA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE ABAST. DE COMB. VILA NOVA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "AMPLA ENERGIA E SERVIÇOS S.A",
 			"name": "AMPLA ENERGIA E SERVIÇOS S.A",
 			"val": 45.27412763923902,
-			"desc": 1117.73,
+			"desc": "1117.73",
 			"group": "AMPLA ENERGIA E SERVIÇOS S.A"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "GREENS FOODS LTDA",
 			"name": "GREENS FOODS LTDA",
 			"val": 1.8037657312700461,
-			"desc": 72.88,
+			"desc": "72.88",
 			"group": "GREENS FOODS LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "C. F. M. DISTRIBUIDORA DE COMBUSTÍVEIS LTDA",
 			"name": "C. F. M. DISTRIBUIDORA DE COMBUSTÍVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "C. F. M. DISTRIBUIDORA DE COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "UNIDAS LOCADORA DE VEÍCULOS",
 			"name": "UNIDAS LOCADORA DE VEÍCULOS",
 			"val": 68.7494842258002,
-			"desc": 1613,
+			"desc": "1613.00",
 			"group": "UNIDAS LOCADORA DE VEÍCULOS"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "WRC RESTAURANTES LTDA",
 			"name": "WRC RESTAURANTES LTDA",
 			"val": 3.0490350113903495,
-			"desc": 111.98,
+			"desc": "111.98",
 			"group": "WRC RESTAURANTES LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.1994190254519177,
-			"desc": 52.48,
+			"desc": "52.48",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "POSTO SOL DA DUTRA LTDA",
 			"name": "POSTO SOL DA DUTRA LTDA",
 			"val": 9.859109546183953,
-			"desc": 299.6,
+			"desc": "299.60",
 			"group": "POSTO SOL DA DUTRA LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "POSTO DE GASOLINA BAR E RESTAURANTE IMPERATRIZ LTDA",
 			"name": "POSTO DE GASOLINA BAR E RESTAURANTE IMPERATRIZ LTDA",
 			"val": 9.87729049956422,
-			"desc": 300.07,
+			"desc": "300.07",
 			"group": "POSTO DE GASOLINA BAR E RESTAURANTE IMPERATRIZ LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 47.20409558648298,
-			"desc": 1159.34,
+			"desc": "1159.34",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.122987506665473,
-			"desc": 143.8,
+			"desc": "143.80",
 			"group": "RAMAL"
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "POSTO DE COMBUSTIVEIS NATIVIDADE LTDA",
 			"name": "POSTO DE COMBUSTIVEIS NATIVIDADE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEIS NATIVIDADE LTDA"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "POSTO DE COMBUSTIVEIS ACESSO LESTE LTDA",
 			"name": "POSTO DE COMBUSTIVEIS ACESSO LESTE LTDA",
 			"val": 4.721812365627708,
-			"desc": 161.02,
+			"desc": "161.02",
 			"group": "POSTO DE COMBUSTIVEIS ACESSO LESTE LTDA"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "Posto de Abast de Comb Vila Nova Ltda",
 			"name": "Posto de Abast de Comb Vila Nova Ltda",
 			"val": 2.9072935043806374,
-			"desc": 107.67,
+			"desc": "107.67",
 			"group": "Posto de Abast de Comb Vila Nova Ltda"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{

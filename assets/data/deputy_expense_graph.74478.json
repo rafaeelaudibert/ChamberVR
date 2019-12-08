@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUCIANO BIVAR"
+			"name": "LUCIANO BIVAR",
+			"desc": "93385.67"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 576.9084926170897,
-			"desc": 10767.7,
+			"desc": "10767.70",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 617.114596130155,
-			"desc": 11443.139999999998,
+			"desc": "11443.14",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -169,7 +170,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 883.1276992326616,
-			"desc": 15826.589999999998,
+			"desc": "15826.59",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 35.478683115848476,
-			"desc": 903.31,
+			"desc": "903.31",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "ML SERVIÇOS DE COMUNICAÇÃO EIRELI",
 			"name": "ML SERVIÇOS DE COMUNICAÇÃO EIRELI",
 			"val": 1206.0805434250312,
-			"desc": 21000,
+			"desc": "21000.00",
 			"group": "ML SERVIÇOS DE COMUNICAÇÃO EIRELI"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 46.22015764715555,
-			"desc": 1138.15,
+			"desc": "1138.15",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.061408422034772,
-			"desc": 170.65,
+			"desc": "170.65",
 			"group": "RAMAL"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "ETOILE PARTICIPACOES E SERVICOS LTDA",
 			"name": "ETOILE PARTICIPACOES E SERVICOS LTDA",
 			"val": 206.16231054895252,
-			"desc": 4273.28,
+			"desc": "4273.28",
 			"group": "ETOILE PARTICIPACOES E SERVICOS LTDA"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "CEMOPEL CM PETROLEO LTDA",
 			"name": "CEMOPEL CM PETROLEO LTDA",
 			"val": 69.83631759608043,
-			"desc": 1635.44,
+			"desc": "1635.44",
 			"group": "CEMOPEL CM PETROLEO LTDA"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 49.422913715501366,
-			"desc": 1206.95,
+			"desc": "1206.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 63.83722595286612,
-			"desc": 1511.1,
+			"desc": "1511.10",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "MARCIA MARIA AZEVEDO DIAS",
 			"name": "MARCIA MARIA AZEVEDO DIAS",
 			"val": 181.28856730348164,
-			"desc": 3810,
+			"desc": "3810.00",
 			"group": "MARCIA MARIA AZEVEDO DIAS"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 17.133524306006763,
-			"desc": 480.78,
+			"desc": "480.78",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "ROTA DERIVADOS DE PETROLEO LTDA",
 			"name": "ROTA DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ROTA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 2.1697734738339105,
-			"desc": 84.7,
+			"desc": "84.70",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.37948531271612534,
-			"desc": 21.45,
+			"desc": "21.45",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 18.97806037383252,
-			"desc": 525.05,
+			"desc": "525.05",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 171.3968379445844,
-			"desc": 3624.1,
+			"desc": "3624.10",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "JL LEMOS COMBUSTIVEL LTDA",
 			"name": "JL LEMOS COMBUSTIVEL LTDA",
 			"val": 7.037216656419156,
-			"desc": 225.13,
+			"desc": "225.13",
 			"group": "JL LEMOS COMBUSTIVEL LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "LOCALIZA RENT A CAR S/A",
 			"name": "LOCALIZA RENT A CAR S/A",
 			"val": 354.7762165857229,
-			"desc": 6949.48,
+			"desc": "6949.48",
 			"group": "LOCALIZA RENT A CAR S/A"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "ANTONIO VENANCIO DA SILVA EMP. IMOB. LTDA",
 			"name": "ANTONIO VENANCIO DA SILVA EMP. IMOB. LTDA",
 			"val": 0.03478254070857549,
-			"desc": 4.2,
+			"desc": "4.20",
 			"group": "ANTONIO VENANCIO DA SILVA EMP. IMOB. LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 12.553460480636168,
-			"desc": 368.16999999999996,
+			"desc": "368.17",
 			"group": "CLARO S/A."
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 81.43669379779172,
-			"desc": 1872.8000000000002,
+			"desc": "1872.80",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "NORTE BRAZ LTDA",
 			"name": "NORTE BRAZ LTDA",
 			"val": 5.934803661083755,
-			"desc": 195.03,
+			"desc": "195.03",
 			"group": "NORTE BRAZ LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.6068069133134721,
-			"desc": 66.37,
+			"desc": "66.37",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "PETROVEL- PETROLEO VELOSO LTDA",
 			"name": "PETROVEL- PETROLEO VELOSO LTDA",
 			"val": 6.499382805133579,
-			"desc": 210.53,
+			"desc": "210.53",
 			"group": "PETROVEL- PETROLEO VELOSO LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 215.53774631723877,
-			"desc": 4446.48,
+			"desc": "4446.48",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.3865458546251452,
-			"desc": 58.94,
+			"desc": "58.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "Hotel Curitiba Capital S/A",
 			"name": "Hotel Curitiba Capital S/A",
 			"val": 15.224339698512061,
-			"desc": 434.35,
+			"desc": "434.35",
 			"group": "Hotel Curitiba Capital S/A"
 		},
 		{

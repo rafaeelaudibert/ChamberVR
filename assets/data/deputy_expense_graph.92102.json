@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LEUR LOMANTO JÚNIOR"
+			"name": "LEUR LOMANTO JÚNIOR",
+			"desc": "116396.16"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "LUCAS GEDEON SAMPAIO",
 			"name": "LUCAS GEDEON SAMPAIO",
 			"val": 924.6717746653558,
-			"desc": 16500,
+			"desc": "16500.00",
 			"group": "LUCAS GEDEON SAMPAIO"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1293.0643912715461,
-			"desc": 22372.249999999996,
+			"desc": "22372.25",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "SIN- SISTEMAS INTELIGENTES LTDA - ME",
 			"name": "SIN- SISTEMAS INTELIGENTES LTDA - ME",
 			"val": 70.54245204027897,
-			"desc": 1650,
+			"desc": "1650.00",
 			"group": "SIN- SISTEMAS INTELIGENTES LTDA - ME"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "MEIO MUNDO COMUNICAÇÃO TECNOLOGIA E INOVAÇÃO LTDA-ME",
 			"name": "MEIO MUNDO COMUNICAÇÃO TECNOLOGIA E INOVAÇÃO LTDA-ME",
 			"val": 740.91627648858,
-			"desc": 13500,
+			"desc": "13500.00",
 			"group": "MEIO MUNDO COMUNICAÇÃO TECNOLOGIA E INOVAÇÃO LTDA-ME"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 29.054040247784666,
-			"desc": 759.13,
+			"desc": "759.13",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 15.128853507708106,
-			"desc": 432.01,
+			"desc": "432.01",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 19.951319118135352,
-			"desc": 548.2,
+			"desc": "548.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 3.1466048545763594,
-			"desc": 114.93,
+			"desc": "114.93",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "POSTO DE COMBUSTIVEIS RODOVIARIA LTDA",
 			"name": "POSTO DE COMBUSTIVEIS RODOVIARIA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE COMBUSTIVEIS RODOVIARIA LTDA"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 110.86600486407723,
-			"desc": 2460.4700000000003,
+			"desc": "2460.47",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.283574203504362,
-			"desc": 148.45000000000002,
+			"desc": "148.45",
 			"group": "RAMAL"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 17.307542257426007,
-			"desc": 484.98,
+			"desc": "484.98",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "AUTO POSTO ALMENARA LTDA",
 			"name": "AUTO POSTO ALMENARA LTDA",
 			"val": 6.9110967445160645,
-			"desc": 221.72,
+			"desc": "221.72",
 			"group": "AUTO POSTO ALMENARA LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 7.255387893280798,
-			"desc": 231.01,
+			"desc": "231.01",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 50.67201302433516,
-			"desc": 1233.65,
+			"desc": "1233.65",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 14.639932469679087,
-			"desc": 420,
+			"desc": "420.00",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.3856670342683046,
-			"desc": 58.91,
+			"desc": "58.91",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "FERREIRA COMBUSTIVEIS LTDA",
 			"name": "FERREIRA COMBUSTIVEIS LTDA",
 			"val": 8.345534180583016,
-			"desc": 260.06,
+			"desc": "260.06",
 			"group": "FERREIRA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "UNIDAS LOCADORA DE VEÍCULOS",
 			"name": "UNIDAS LOCADORA DE VEÍCULOS",
 			"val": 429.11042782738565,
-			"desc": 8246.099999999999,
+			"desc": "8246.10",
 			"group": "UNIDAS LOCADORA DE VEÍCULOS"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "MULTIPLICAR E SERVIÇOS LTDA EPP",
 			"name": "MULTIPLICAR E SERVIÇOS LTDA EPP",
 			"val": 955.620804562045,
-			"desc": 17000,
+			"desc": "17000.00",
 			"group": "MULTIPLICAR E SERVIÇOS LTDA EPP"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "MULTIPLICAR SERVICOS LTDA",
 			"name": "MULTIPLICAR SERVICOS LTDA",
 			"val": 443.8104022810225,
-			"desc": 8500,
+			"desc": "8500.00",
 			"group": "MULTIPLICAR SERVICOS LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 8.023767833240656,
-			"desc": 251.54,
+			"desc": "251.54",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "CASTRO OLIVEIRA ADVOGADOS",
 			"name": "CASTRO OLIVEIRA ADVOGADOS",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "CASTRO OLIVEIRA ADVOGADOS"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "PHAB DERIVADOS DE PETROLEO LTDA",
 			"name": "PHAB DERIVADOS DE PETROLEO LTDA",
 			"val": 7.590988956411867,
-			"desc": 240.01,
+			"desc": "240.01",
 			"group": "PHAB DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "COMERCIO DE PETROLEO RSSILVA LTDA",
 			"name": "COMERCIO DE PETROLEO RSSILVA LTDA",
 			"val": 14.537188293822323,
-			"desc": 417.47,
+			"desc": "417.47",
 			"group": "COMERCIO DE PETROLEO RSSILVA LTDA"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "ITAPOAN DISTRIB. DE DER. DE PETROLEO LTDA",
 			"name": "ITAPOAN DISTRIB. DE DER. DE PETROLEO LTDA",
 			"val": 18.42740528237677,
-			"desc": 511.89,
+			"desc": "511.89",
 			"group": "ITAPOAN DISTRIB. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "ATACADAO DO PAPEL EIRELI",
 			"name": "ATACADAO DO PAPEL EIRELI",
 			"val": 30.121655632141607,
-			"desc": 783.32,
+			"desc": "783.32",
 			"group": "ATACADAO DO PAPEL EIRELI"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "Chicago Prime Parrilla Ltda-ME",
 			"name": "Chicago Prime Parrilla Ltda-ME",
 			"val": 2.3120140099442117,
-			"desc": 89.21,
+			"desc": "89.21",
 			"group": "Chicago Prime Parrilla Ltda-ME"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.03063019633400822,
-			"desc": 3.9,
+			"desc": "3.90",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "TIC COMERCIO DE COMBUSTIVEIS LTDA ME",
 			"name": "TIC COMERCIO DE COMBUSTIVEIS LTDA ME",
 			"val": 6.1176292568481765,
-			"desc": 200.07,
+			"desc": "200.07",
 			"group": "TIC COMERCIO DE COMBUSTIVEIS LTDA ME"
 		},
 		{

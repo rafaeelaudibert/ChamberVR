@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ELCIONE BARBALHO"
+			"name": "ELCIONE BARBALHO",
+			"desc": "52030.73"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 35.660725415583975,
-			"desc": 907.35,
+			"desc": "907.35",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 320.2439054424844,
-			"desc": 6338.940000000003,
+			"desc": "6338.94",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "CONDOMINIO WALL STREET",
 			"name": "CONDOMINIO WALL STREET",
 			"val": 57.319699146422955,
-			"desc": 1374.6,
+			"desc": "1374.60",
 			"group": "CONDOMINIO WALL STREET"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 2.6116693232875106,
-			"desc": 98.58,
+			"desc": "98.58",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "ISABEL MACEDO IMOBILIARIA",
 			"name": "ISABEL MACEDO IMOBILIARIA",
 			"val": 111.93089055464081,
-			"desc": 2481.41,
+			"desc": "2481.41",
 			"group": "ISABEL MACEDO IMOBILIARIA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 14.22989369128897,
-			"desc": 409.89,
+			"desc": "409.89",
 			"group": "CLARO S.A."
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 2.396528876474012,
-			"desc": 91.87,
+			"desc": "91.87",
 			"group": "OI S.A"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "GOODS RESTAURANTE E LANCHONETE EIRELI",
 			"name": "GOODS RESTAURANTE E LANCHONETE EIRELI",
 			"val": 15.373426928421257,
-			"desc": 438,
+			"desc": "438.00",
 			"group": "GOODS RESTAURANTE E LANCHONETE EIRELI"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "RODRIGUES & DIAS COM. COMBUSTVEIS LTDA",
 			"name": "RODRIGUES & DIAS COM. COMBUSTVEIS LTDA",
 			"val": 6.478501146335495,
-			"desc": 209.96,
+			"desc": "209.96",
 			"group": "RODRIGUES & DIAS COM. COMBUSTVEIS LTDA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 35.733300928564624,
-			"desc": 908.9599999999999,
+			"desc": "908.96",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 67.35629548103742,
-			"desc": 1584.18,
+			"desc": "1584.18",
 			"group": "telefonia Brasil S/A"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "COM DE COMBUSTIVEIS LUBRIFICANTES LTDA",
 			"name": "COM DE COMBUSTIVEIS LUBRIFICANTES LTDA",
 			"val": 8.062202494858973,
-			"desc": 252.56,
+			"desc": "252.56",
 			"group": "COM DE COMBUSTIVEIS LUBRIFICANTES LTDA"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "F I OLIVEIRA MESQUITA LOCAÇÃO DE MAQUINAS ME",
 			"name": "F I OLIVEIRA MESQUITA LOCAÇÃO DE MAQUINAS ME",
 			"val": 1141.758615497368,
-			"desc": 19980,
+			"desc": "19980.00",
 			"group": "F I OLIVEIRA MESQUITA LOCAÇÃO DE MAQUINAS ME"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.6055402828282115,
-			"desc": 98.38999999999999,
+			"desc": "98.39",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 396.02215090349017,
-			"desc": 7671.68,
+			"desc": "7671.68",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 43.928311618587834,
-			"desc": 1088.6000000000001,
+			"desc": "1088.60",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.5083266059674099,
-			"desc": 26.79,
+			"desc": "26.79",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "MARTINS COMERCIO DE PRODUTOS ALIMENTCIOS EIRELI",
 			"name": "MARTINS COMERCIO DE PRODUTOS ALIMENTCIOS EIRELI",
 			"val": 0.4638987410575766,
-			"desc": 24.98,
+			"desc": "24.98",
 			"group": "MARTINS COMERCIO DE PRODUTOS ALIMENTCIOS EIRELI"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "CRISTIANE R SALOMAO",
 			"name": "CRISTIANE R SALOMAO",
 			"val": 2.6588363702668834,
-			"desc": 100.04,
+			"desc": "100.04",
 			"group": "CRISTIANE R SALOMAO"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "EDGAR MALAVASI BOTI",
 			"name": "EDGAR MALAVASI BOTI",
 			"val": 121.7716469909985,
-			"desc": 2674,
+			"desc": "2674.00",
 			"group": "EDGAR MALAVASI BOTI"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.963209540725237,
-			"desc": 78.07,
+			"desc": "78.07",
 			"group": "RAMAL"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "ECT EMPRESA BRAS. DE CORREIOS E TEL.",
 			"name": "ECT EMPRESA BRAS. DE CORREIOS E TEL.",
 			"val": 1.5897321266727615,
-			"desc": 65.8,
+			"desc": "65.80",
 			"group": "ECT EMPRESA BRAS. DE CORREIOS E TEL."
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "DF COMERCIO DE COMBUSTIVEL LTDA EPP",
 			"name": "DF COMERCIO DE COMBUSTIVEL LTDA EPP",
 			"val": 7.143595692918244,
-			"desc": 228,
+			"desc": "228.00",
 			"group": "DF COMERCIO DE COMBUSTIVEL LTDA EPP"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 3.4476020498626427,
-			"desc": 123.95,
+			"desc": "123.95",
 			"group": "NET CLARO"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.2870012772641495,
-			"desc": 88.42,
+			"desc": "88.42",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "POSTO HUMAITA LTDA",
 			"name": "POSTO HUMAITA LTDA",
 			"val": 8.608823255042308,
-			"desc": 267,
+			"desc": "267.00",
 			"group": "POSTO HUMAITA LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "MRP RESTAURANTE LTDA",
 			"name": "MRP RESTAURANTE LTDA",
 			"val": 0.7002622114796635,
-			"desc": 34.32,
+			"desc": "34.32",
 			"group": "MRP RESTAURANTE LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 74.9235062715232,
-			"desc": 1740,
+			"desc": "1740.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "AUTO POSTO CONSELHEIRO COM DE COMB E SERV LTDA",
 			"name": "AUTO POSTO CONSELHEIRO COM DE COMB E SERV LTDA",
 			"val": 9.278067752992238,
-			"desc": 284.52,
+			"desc": "284.52",
 			"group": "AUTO POSTO CONSELHEIRO COM DE COMB E SERV LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 88.78363199046879,
-			"desc": 2021.29,
+			"desc": "2021.29",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "DUARTE SANTOS LTDA",
 			"name": "DUARTE SANTOS LTDA",
 			"val": 8.384164523496578,
-			"desc": 261.08,
+			"desc": "261.08",
 			"group": "DUARTE SANTOS LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "CIDA PRESENTES E UTILIDADES LTDA",
 			"name": "CIDA PRESENTES E UTILIDADES LTDA",
 			"val": 0.8922565456035895,
-			"desc": 41.5,
+			"desc": "41.50",
 			"group": "CIDA PRESENTES E UTILIDADES LTDA"
 		},
 		{

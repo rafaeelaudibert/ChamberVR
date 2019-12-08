@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO EDUARDO MARTINS"
+			"name": "PAULO EDUARDO MARTINS",
+			"desc": "50691.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1998.2668147389004,
-			"desc": 33257.059999999976,
+			"desc": "33257.06",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 19.272580483014714,
-			"desc": 532.0699999999999,
+			"desc": "532.07",
 			"group": "RAMAL"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 639.3262148129302,
-			"desc": 11814.620000000003,
+			"desc": "11814.62",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 24.273165053947594,
-			"desc": 649.49,
+			"desc": "649.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 88.33649258652771,
-			"desc": 2012.2900000000002,
+			"desc": "2012.29",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 7.403925929771099,
-			"desc": 235,
+			"desc": "235.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 55.34152455409577,
-			"desc": 1332.85,
+			"desc": "1332.85",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "JADE COM. DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JADE COM. DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.21584777828263,
-			"desc": 175,
+			"desc": "175.00",
 			"group": "JADE COM. DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 16.61893666519428,
-			"desc": 468.33000000000004,
+			"desc": "468.33",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.663445850646936,
-			"desc": 215,
+			"desc": "215.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{

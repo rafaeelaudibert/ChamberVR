@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDUARDO BRAIDE"
+			"name": "EDUARDO BRAIDE",
+			"desc": "89982.23"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2827.667155807901,
-			"desc": 45669.56999999999,
+			"desc": "45669.57",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -336,7 +337,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.3730803193330907,
-			"desc": 58.480000000000004,
+			"desc": "58.48",
 			"group": "RAMAL"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "José Ribamar Cezar Rodrigues",
 			"name": "José Ribamar Cezar Rodrigues",
 			"val": 334.96980816111585,
-			"desc": 6600,
+			"desc": "6600.00",
 			"group": "José Ribamar Cezar Rodrigues"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 949.0889853193826,
-			"desc": 16894.590000000004,
+			"desc": "16894.59",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 40.45000739105368,
-			"desc": 1012.8499999999999,
+			"desc": "1012.85",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 118.79932838201195,
-			"desc": 2616,
+			"desc": "2616.00",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "NEWS SHOPPING PONTA DAREIA LTDA",
 			"name": "NEWS SHOPPING PONTA DAREIA LTDA",
 			"val": 350.2138645392494,
-			"desc": 6869.14,
+			"desc": "6869.14",
 			"group": "NEWS SHOPPING PONTA DAREIA LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"name": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "NEWS SHOPPING",
 			"name": "NEWS SHOPPING",
 			"val": 118.18119450493722,
-			"desc": 2603.92,
+			"desc": "2603.92",
 			"group": "NEWS SHOPPING"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 17.93115223072823,
-			"desc": 499.99,
+			"desc": "499.99",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "712 PROPAGANDA E MARKETING",
 			"name": "712 PROPAGANDA E MARKETING",
 			"val": 236.98172019065547,
-			"desc": 4840,
+			"desc": "4840.00",
 			"group": "712 PROPAGANDA E MARKETING"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "MATEUS SUPERMERCADOS S.A",
 			"name": "MATEUS SUPERMERCADOS S.A",
 			"val": 16.592535153579437,
-			"desc": 467.69,
+			"desc": "467.69",
 			"group": "MATEUS SUPERMERCADOS S.A"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"name": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PEDRO LUPION"
+			"name": "PEDRO LUPION",
+			"desc": "25367.57"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO CAETE II LTDA",
 			"name": "AUTO POSTO CAETE II LTDA",
 			"val": 35.3467225951338,
-			"desc": 900.38,
+			"desc": "900.38",
 			"group": "AUTO POSTO CAETE II LTDA"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "VELOSO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "VELOSO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 58.155342544999684,
-			"desc": 1392.19,
+			"desc": "1392.19",
 			"group": "VELOSO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 10.141970648156928,
-			"desc": 306.9,
+			"desc": "306.90",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "SANTA RITA COM DE COMB E LUBRIFIC LTDA",
 			"name": "SANTA RITA COM DE COMB E LUBRIFIC LTDA",
 			"val": 48.25689975620742,
-			"desc": 1181.9599999999998,
+			"desc": "1181.96",
 			"group": "SANTA RITA COM DE COMB E LUBRIFIC LTDA"
 		},
 		{
@@ -183,7 +184,7 @@
 			"id": "UBER",
 			"name": "UBER",
 			"val": 8.59742015884309,
-			"desc": 266.7,
+			"desc": "266.70",
 			"group": "UBER"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 276.579972396219,
-			"desc": 5558.110000000001,
+			"desc": "5558.11",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "NICK NETWORK",
 			"name": "NICK NETWORK",
 			"val": 1.5867394811163096,
-			"desc": 65.7,
+			"desc": "65.70",
 			"group": "NICK NETWORK"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "CONC. DE RODOVIAS INTEGRADAS S/A",
 			"name": "CONC. DE RODOVIAS INTEGRADAS S/A",
 			"val": 2.1102602952970826,
-			"desc": 82.80000000000001,
+			"desc": "82.80",
 			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "RODOVIAS INTEGRADAS DO PARANA S/A",
 			"name": "RODOVIAS INTEGRADAS DO PARANA S/A",
 			"val": 1.1999915587098857,
-			"desc": 52.5,
+			"desc": "52.50",
 			"group": "RODOVIAS INTEGRADAS DO PARANA S/A"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 225.55512960037856,
-			"desc": 4630.75,
+			"desc": "4630.75",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "RAFAEL PERIN TAVARES 06444193931",
 			"name": "RAFAEL PERIN TAVARES 06444193931",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "RAFAEL PERIN TAVARES 06444193931"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.7541878927601635,
-			"desc": 102.97999999999999,
+			"desc": "102.98",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 15.04689170129387,
-			"desc": 430,
+			"desc": "430.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "Catuai Andorinhas - Comercio de Combustiveis Ltda",
 			"name": "Catuai Andorinhas - Comercio de Combustiveis Ltda",
 			"val": 24.906595468106424,
-			"desc": 664.1500000000001,
+			"desc": "664.15",
 			"group": "Catuai Andorinhas - Comercio de Combustiveis Ltda"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "RAFAEL PERIN TAVARES",
 			"name": "RAFAEL PERIN TAVARES",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "RAFAEL PERIN TAVARES"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "Conc. de Rodovias Integradas S/A",
 			"name": "Conc. de Rodovias Integradas S/A",
 			"val": 0.10861133595345553,
-			"desc": 8.7,
+			"desc": "8.70",
 			"group": "Conc. de Rodovias Integradas S/A"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 14.593219636957233,
-			"desc": 418.85,
+			"desc": "418.85",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "M. MURARI CIA LTDA.",
 			"name": "M. MURARI CIA LTDA.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "M. MURARI CIA LTDA."
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 134.45882553061566,
-			"desc": 2920.0299999999997,
+			"desc": "2920.03",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "IMOBILIÁRIA PORTAL DO SOL LTDA",
 			"name": "IMOBILIÁRIA PORTAL DO SOL LTDA",
 			"val": 160.85859551157208,
-			"desc": 3424.9,
+			"desc": "3424.90",
 			"group": "IMOBILIÁRIA PORTAL DO SOL LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "SANEPAR",
 			"name": "SANEPAR",
 			"val": 3.5101507275740254,
-			"desc": 125.81,
+			"desc": "125.81",
 			"group": "SANEPAR"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "AUTO POSTO TURINI LTDA",
 			"name": "AUTO POSTO TURINI LTDA",
 			"val": 4.532128990861511,
-			"desc": 155.6,
+			"desc": "155.60",
 			"group": "AUTO POSTO TURINI LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "PIRACICABANA TRANSP DE CARGAS E ENCOMENDAS LTDA",
 			"name": "PIRACICABANA TRANSP DE CARGAS E ENCOMENDAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PIRACICABANA TRANSP DE CARGAS E ENCOMENDAS LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.764478590929947,
-			"desc": 271.09000000000003,
+			"desc": "271.09",
 			"group": "RAMAL"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "DALOSSIO COMERCIO DE LUBRIFICANTES LTDA.",
 			"name": "DALOSSIO COMERCIO DE LUBRIFICANTES LTDA.",
 			"val": 21.85059903466312,
-			"desc": 593,
+			"desc": "593.00",
 			"group": "DALOSSIO COMERCIO DE LUBRIFICANTES LTDA."
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "RODRIGO BORGHI DA SILVA E CIA LTDA",
 			"name": "RODRIGO BORGHI DA SILVA E CIA LTDA",
 			"val": 5.365553949715629,
-			"desc": 179.2,
+			"desc": "179.20",
 			"group": "RODRIGO BORGHI DA SILVA E CIA LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "AUTO POSTO BORSATTO EIRELI",
 			"name": "AUTO POSTO BORSATTO EIRELI",
 			"val": 7.4139915734597865,
-			"desc": 235.27,
+			"desc": "235.27",
 			"group": "AUTO POSTO BORSATTO EIRELI"
 		},
 		{

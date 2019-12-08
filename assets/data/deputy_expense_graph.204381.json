@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIS MIRANDA"
+			"name": "LUIS MIRANDA",
+			"desc": "61701.59"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"val": 31.30416103678124,
-			"desc": 810,
+			"desc": "810.00",
 			"group": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "MADRI COMUNICACAO E TECNOLOGIA LTDA - ME",
 			"name": "MADRI COMUNICACAO E TECNOLOGIA LTDA - ME",
 			"val": 1269.4189994903459,
-			"desc": 22000,
+			"desc": "22000.00",
 			"group": "MADRI COMUNICACAO E TECNOLOGIA LTDA - ME"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "POSTO COMERCIAL NORTE LTDA",
 			"name": "POSTO COMERCIAL NORTE LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO COMERCIAL NORTE LTDA"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 18.180327917679634,
-			"desc": 505.97,
+			"desc": "505.97",
 			"group": "RAMAL"
 		},
 		{
@@ -159,7 +160,7 @@
 			"id": "TRAMONTINI ADVOCACIA",
 			"name": "TRAMONTINI ADVOCACIA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "TRAMONTINI ADVOCACIA"
 		},
 		{
@@ -172,7 +173,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -185,7 +186,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -198,7 +199,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -229,7 +230,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 13.858415779628217,
-			"desc": 400.7,
+			"desc": "400.70",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 22.04717269185862,
-			"desc": 597.61,
+			"desc": "597.61",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "CALLTECH COMBUSTIVEIS E SERVICOS LTDA",
 			"name": "CALLTECH COMBUSTIVEIS E SERVICOS LTDA",
 			"val": 7.705540713794454,
-			"desc": 243.07,
+			"desc": "243.07",
 			"group": "CALLTECH COMBUSTIVEIS E SERVICOS LTDA"
 		},
 		{
@@ -299,7 +300,7 @@
 			"id": "CALL TECH COMBUSTIVEIS E SERVIÇOS LTDA",
 			"name": "CALL TECH COMBUSTIVEIS E SERVIÇOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CALL TECH COMBUSTIVEIS E SERVIÇOS LTDA"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 154.28490408055794,
-			"desc": 3300,
+			"desc": "3300.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 331.2275975634404,
-			"desc": 6533.76,
+			"desc": "6533.76",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 154.28490408055794,
-			"desc": 3300,
+			"desc": "3300.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA",
 			"val": 10.385722108169748,
-			"desc": 313.17,
+			"desc": "313.17",
 			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 84.01194902461611,
-			"desc": 1925,
+			"desc": "1925.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "PAPELARIA E LIVRARIA J A LTDA",
 			"name": "PAPELARIA E LIVRARIA J A LTDA",
 			"val": 13.902816409181177,
-			"desc": 401.8,
+			"desc": "401.80",
 			"group": "PAPELARIA E LIVRARIA J A LTDA"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 87.19982110988501,
-			"desc": 1989.39,
+			"desc": "1989.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "AUTO POSTO CRIOLO LTDA",
 			"name": "AUTO POSTO CRIOLO LTDA",
 			"val": 11.461208106577288,
-			"desc": 340.62,
+			"desc": "340.62",
 			"group": "AUTO POSTO CRIOLO LTDA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 61.86557487188442,
-			"desc": 1469.97,
+			"desc": "1469.97",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "AUTO POSTO GOLDEN GAS LAGO LTDA",
 			"name": "AUTO POSTO GOLDEN GAS LAGO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO GOLDEN GAS LAGO LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"name": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "AUTO POSTO FENIX ODJ EIRELI",
 			"name": "AUTO POSTO FENIX ODJ EIRELI",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO FENIX ODJ EIRELI"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 35.35347691837898,
-			"desc": 900.5300000000001,
+			"desc": "900.53",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "AUTO POSTO PETER PAN 01 LTDA",
 			"name": "AUTO POSTO PETER PAN 01 LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO PETER PAN 01 LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"name": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 70.54245204027897,
-			"desc": 1650,
+			"desc": "1650.00",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{

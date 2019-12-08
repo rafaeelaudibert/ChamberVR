@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GENECIAS NORONHA"
+			"name": "GENECIAS NORONHA",
+			"desc": "127194.72"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.7067750362240766,
-			"desc": 101.52000000000001,
+			"desc": "101.52",
 			"group": "RAMAL"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1269.8328401826325,
-			"desc": 22006.519999999997,
+			"desc": "22006.52",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -211,7 +212,7 @@
 			"id": "ADVOCACIA ASSOCIADA FERNADES NETO",
 			"name": "ADVOCACIA ASSOCIADA FERNADES NETO",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "ADVOCACIA ASSOCIADA FERNADES NETO"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1296.2558532926118,
-			"desc": 22422.449999999997,
+			"desc": "22422.45",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "TERRAL TAXI AEREO LTDA EPP",
 			"name": "TERRAL TAXI AEREO LTDA EPP",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "TERRAL TAXI AEREO LTDA EPP"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "RÁDIO VALE DO RIO POTY LTDA",
 			"name": "RÁDIO VALE DO RIO POTY LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "RÁDIO VALE DO RIO POTY LTDA"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "CICERO GEORGE DOS SANTOS NORONHA",
 			"name": "CICERO GEORGE DOS SANTOS NORONHA",
 			"val": 507.9866377150418,
-			"desc": 9600,
+			"desc": "9600.00",
 			"group": "CICERO GEORGE DOS SANTOS NORONHA"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "TAYNARA APARECIDA FERREIRA DA SILVA",
 			"name": "TAYNARA APARECIDA FERREIRA DA SILVA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "TAYNARA APARECIDA FERREIRA DA SILVA"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 6.536038797084434,
-			"desc": 211.53,
+			"desc": "211.53",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.78176143649049,
-			"desc": 496.40000000000003,
+			"desc": "496.40",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "BRAGA LINCOLN ADVOGADOS",
 			"name": "BRAGA LINCOLN ADVOGADOS",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "BRAGA LINCOLN ADVOGADOS"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL",
 			"name": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "PROMOÇÕES CONSULTORIA E EDITORA PROCEL"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "TRIBOS PUBLICIDADE E TURISMO LTDA.",
 			"name": "TRIBOS PUBLICIDADE E TURISMO LTDA.",
 			"val": 120.54083242998199,
-			"desc": 2650,
+			"desc": "2650.00",
 			"group": "TRIBOS PUBLICIDADE E TURISMO LTDA."
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 6.308121557902082,
-			"desc": 205.29999999999998,
+			"desc": "205.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 17.973208253563197,
-			"desc": 501,
+			"desc": "501.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "JM CASTRO LIMA GRÁFICA ME",
 			"name": "JM CASTRO LIMA GRÁFICA ME",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "JM CASTRO LIMA GRÁFICA ME"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "WHM PUBLICIDADE E PROPAGANDA EIRELI",
 			"name": "WHM PUBLICIDADE E PROPAGANDA EIRELI",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "WHM PUBLICIDADE E PROPAGANDA EIRELI"
 		},
 		{

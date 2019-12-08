@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MÁRIO HERINGER"
+			"name": "MÁRIO HERINGER",
+			"desc": "153569.24"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 643.3197594357022,
-			"desc": 11881.289999999997,
+			"desc": "11881.29",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 14.537594223463792,
-			"desc": 417.48,
+			"desc": "417.48",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -169,7 +170,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2376.6690977989606,
-			"desc": 38962.31999999999,
+			"desc": "38962.32",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 319.31635540938174,
-			"desc": 6322.46,
+			"desc": "6322.46",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "ALYSSON PAIXAO DE OLIVEIRA ALVES",
 			"name": "ALYSSON PAIXAO DE OLIVEIRA ALVES",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "ALYSSON PAIXAO DE OLIVEIRA ALVES"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "BERNARDES E ADVOGADOS ASSOCIADOS",
 			"name": "BERNARDES E ADVOGADOS ASSOCIADOS",
 			"val": 2179.5421371990333,
-			"desc": 36000,
+			"desc": "36000.00",
 			"group": "BERNARDES E ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.920871914904515,
-			"desc": 275.19,
+			"desc": "275.19",
 			"group": "RAMAL"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "JAQUELINE LEMOS DA ROCHA BRANT",
 			"name": "JAQUELINE LEMOS DA ROCHA BRANT",
 			"val": 832.7801429766835,
-			"desc": 15006.85,
+			"desc": "15006.85",
 			"group": "JAQUELINE LEMOS DA ROCHA BRANT"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 4.808958023875746,
-			"desc": 163.5,
+			"desc": "163.50",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 170.7538143983855,
-			"desc": 3611.98,
+			"desc": "3611.98",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "MB LOUBACK PUBLICAÇOES PRODUÇOES",
 			"name": "MB LOUBACK PUBLICAÇOES PRODUÇOES",
 			"val": 996.6292126485944,
-			"desc": 17660.42,
+			"desc": "17660.42",
 			"group": "MB LOUBACK PUBLICAÇOES PRODUÇOES"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 74.83561716642447,
-			"desc": 1738.2,
+			"desc": "1738.20",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 22.06381200468186,
-			"desc": 597.9999999999999,
+			"desc": "598.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 33.511402465745576,
-			"desc": 859.5,
+			"desc": "859.50",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{

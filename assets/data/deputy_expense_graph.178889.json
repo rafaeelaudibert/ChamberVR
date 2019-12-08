@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ZÉ CARLOS"
+			"name": "ZÉ CARLOS",
+			"desc": "51358.34"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "REV DE PETROLEO SAO MARCOS LTDA-ME",
 			"name": "REV DE PETROLEO SAO MARCOS LTDA-ME",
 			"val": 7.990627693166847,
-			"desc": 250.66,
+			"desc": "250.66",
 			"group": "REV DE PETROLEO SAO MARCOS LTDA-ME"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "REGIENNE MARIA PAIVA OLIVEIRA PEIXOTO",
 			"name": "REGIENNE MARIA PAIVA OLIVEIRA PEIXOTO",
 			"val": 163.85365640984134,
-			"desc": 3481.6400000000003,
+			"desc": "3481.64",
 			"group": "REGIENNE MARIA PAIVA OLIVEIRA PEIXOTO"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "COND.VICIUS DE MORAES",
 			"name": "COND.VICIUS DE MORAES",
 			"val": 92.67790267020906,
-			"desc": 2099.4799999999996,
+			"desc": "2099.48",
 			"group": "COND.VICIUS DE MORAES"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "LOCADORA CONTE EIRELI",
 			"name": "LOCADORA CONTE EIRELI",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "LOCADORA CONTE EIRELI"
 		},
 		{
@@ -99,7 +100,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 47.28917536886676,
-			"desc": 1161.17,
+			"desc": "1161.17",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -112,7 +113,7 @@
 			"id": "NICOLAU DERIVADOS DE PETROLEO LTDA",
 			"name": "NICOLAU DERIVADOS DE PETROLEO LTDA",
 			"val": 26.18206512682065,
-			"desc": 693.54,
+			"desc": "693.54",
 			"group": "NICOLAU DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "SERIGY COMBUSTIVEIS EIRELI - EPP",
 			"name": "SERIGY COMBUSTIVEIS EIRELI - EPP",
 			"val": 6.480698795580034,
-			"desc": 210.02,
+			"desc": "210.02",
 			"group": "SERIGY COMBUSTIVEIS EIRELI - EPP"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 4.657648453687731,
-			"desc": 159.19000000000003,
+			"desc": "159.19",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -211,7 +212,7 @@
 			"id": "NICOLAU DERIVADOS DE PETROLEO(03)",
 			"name": "NICOLAU DERIVADOS DE PETROLEO(03)",
 			"val": 46.076401923769374,
-			"desc": 1135.05,
+			"desc": "1135.05",
 			"group": "NICOLAU DERIVADOS DE PETROLEO(03)"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.21321187563522584,
-			"desc": 14,
+			"desc": "14.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 24.398750011273275,
-			"desc": 652.4000000000001,
+			"desc": "652.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 3.888696713164008,
-			"desc": 136.97,
+			"desc": "136.97",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
 			"name": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
 			"val": 2.1496991806750865,
-			"desc": 84.06,
+			"desc": "84.06",
 			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "A M AIRES PETROLEO EIRELI",
 			"name": "A M AIRES PETROLEO EIRELI",
 			"val": 18.913103752193113,
-			"desc": 523.5,
+			"desc": "523.50",
 			"group": "A M AIRES PETROLEO EIRELI"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "POSTO JOTA EME LTDA - ME",
 			"name": "POSTO JOTA EME LTDA - ME",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "POSTO JOTA EME LTDA - ME"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "CRSITAL- CONSTRUÇOES COMERCIO E SERVICOS LTDA",
 			"name": "CRSITAL- CONSTRUÇOES COMERCIO E SERVICOS LTDA",
 			"val": 1823.912269574007,
-			"desc": 30600,
+			"desc": "30600.00",
 			"group": "CRSITAL- CONSTRUÇOES COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "LIMA COMERCIAL - POSTO MARACANA",
 			"name": "LIMA COMERCIAL - POSTO MARACANA",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "LIMA COMERCIAL - POSTO MARACANA"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "L S COMERCIO E SERVICOS LTDA FRANCESES",
 			"name": "L S COMERCIO E SERVICOS LTDA FRANCESES",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "L S COMERCIO E SERVICOS LTDA FRANCESES"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.5766579459870121,
-			"desc": 29.52,
+			"desc": "29.52",
 			"group": "RAMAL"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "SUPER GAMES COMERCIAL LTDA",
 			"name": "SUPER GAMES COMERCIAL LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "SUPER GAMES COMERCIAL LTDA"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 52.21010467820639,
-			"desc": 1266.43,
+			"desc": "1266.43",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "RADIO TAXI CONFIANCA LTDA",
 			"name": "RADIO TAXI CONFIANCA LTDA",
 			"val": 0.096,
-			"desc": 8,
+			"desc": "8.00",
 			"group": "RADIO TAXI CONFIANCA LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "AMAZONAS SEGURANCA ELETRONICA LTDA-ME",
 			"name": "AMAZONAS SEGURANCA ELETRONICA LTDA-ME",
 			"val": 73.38700831462161,
-			"desc": 1708.5,
+			"desc": "1708.50",
 			"group": "AMAZONAS SEGURANCA ELETRONICA LTDA-ME"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "POSTO BACANGA LTDA",
 			"name": "POSTO BACANGA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO BACANGA LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 47.79814064215394,
-			"desc": 1172.11,
+			"desc": "1172.11",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 1.816591347179859,
-			"desc": 73.3,
+			"desc": "73.30",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
 			"name": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "RARO DO LAGO SERV. DE ALIM. E BEB. SOCIEDADE EMP"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "POSTO AMERICANO LTDA",
 			"name": "POSTO AMERICANO LTDA",
 			"val": 14.180914553832405,
-			"desc": 408.68,
+			"desc": "408.68",
 			"group": "POSTO AMERICANO LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 0.8604456316818173,
-			"desc": 40.33,
+			"desc": "40.33",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 5.435969810641024,
-			"desc": 181.17,
+			"desc": "181.17",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
 			"name": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "THYMUS CONTEMPORANEO RESTAURANTE LTDA",
 			"name": "THYMUS CONTEMPORANEO RESTAURANTE LTDA",
 			"val": 7.142853651176076,
-			"desc": 227.98000000000002,
+			"desc": "227.98",
 			"group": "THYMUS CONTEMPORANEO RESTAURANTE LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "J. H.H NICOLAU",
 			"name": "J. H.H NICOLAU",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "J. H.H NICOLAU"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "POSTO BEQUIMAO EIRELI - EPP",
 			"name": "POSTO BEQUIMAO EIRELI - EPP",
 			"val": 2.528946709584099,
-			"desc": 96.01,
+			"desc": "96.01",
 			"group": "POSTO BEQUIMAO EIRELI - EPP"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "AMENDOEIRA ALIMENTACAO EIRELI",
 			"name": "AMENDOEIRA ALIMENTACAO EIRELI",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "AMENDOEIRA ALIMENTACAO EIRELI"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 56.7290244339715,
-			"desc": 1362.15,
+			"desc": "1362.15",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.7002622114796635,
-			"desc": 34.32,
+			"desc": "34.32",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "MERCADINHO CARONE LTDA - PLAZA",
 			"name": "MERCADINHO CARONE LTDA - PLAZA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "MERCADINHO CARONE LTDA - PLAZA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "AUTO POSTO DOM VITAL LTDA",
 			"name": "AUTO POSTO DOM VITAL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DOM VITAL LTDA"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "POSTO N. S. DE FATIMA LTDA",
 			"name": "POSTO N. S. DE FATIMA LTDA",
 			"val": 2.337384499810042,
-			"desc": 90.01,
+			"desc": "90.01",
 			"group": "POSTO N. S. DE FATIMA LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "Associação dos Taxis de Brasilia - ATB",
 			"name": "Associação dos Taxis de Brasilia - ATB",
 			"val": 0.9885335573393415,
-			"desc": 45,
+			"desc": "45.00",
 			"group": "Associação dos Taxis de Brasilia - ATB"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "RESTAURANTE ESTRELA D ALVA LTDA- ME",
 			"name": "RESTAURANTE ESTRELA D ALVA LTDA- ME",
 			"val": 2.738586840797233,
-			"desc": 102.5,
+			"desc": "102.50",
 			"group": "RESTAURANTE ESTRELA D ALVA LTDA- ME"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "SANCAO VERAS & CIA LTDA",
 			"name": "SANCAO VERAS & CIA LTDA",
 			"val": 3.993084255977387,
-			"desc": 140.02,
+			"desc": "140.02",
 			"group": "SANCAO VERAS & CIA LTDA"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "KRUK E LOPES LTDA",
 			"name": "KRUK E LOPES LTDA",
 			"val": 11.862173671785953,
-			"desc": 350.77,
+			"desc": "350.77",
 			"group": "KRUK E LOPES LTDA"
 		},
 		{
@@ -902,7 +903,7 @@
 			"id": "RCLM COMERCIO DE ALIMENTOS LTDA EPP",
 			"name": "RCLM COMERCIO DE ALIMENTOS LTDA EPP",
 			"val": 0.38653608413883933,
-			"desc": 21.75,
+			"desc": "21.75",
 			"group": "RCLM COMERCIO DE ALIMENTOS LTDA EPP"
 		},
 		{
@@ -915,7 +916,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 28.273912517361076,
-			"desc": 741.39,
+			"desc": "741.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -928,7 +929,7 @@
 			"id": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
 			"name": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "COPAGIFT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "FLASH CAR COMBUSTIVEIS LTDA - ME",
 			"name": "FLASH CAR COMBUSTIVEIS LTDA - ME",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FLASH CAR COMBUSTIVEIS LTDA - ME"
 		},
 		{
@@ -954,7 +955,7 @@
 			"id": "T R B A COSTA EIRELI - EPP",
 			"name": "T R B A COSTA EIRELI - EPP",
 			"val": 5.454577415275237,
-			"desc": 181.69,
+			"desc": "181.69",
 			"group": "T R B A COSTA EIRELI - EPP"
 		},
 		{
@@ -967,7 +968,7 @@
 			"id": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"name": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BIER FASS RESTAURANTE MUSEU LTDA"
 		},
 		{

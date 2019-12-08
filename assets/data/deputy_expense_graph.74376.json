@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VANDER LOUBET"
+			"name": "VANDER LOUBET",
+			"desc": "73360.43"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "auto posto pe de cedro ltda",
 			"name": "auto posto pe de cedro ltda",
 			"val": 11.428496295255712,
-			"desc": 339.78999999999996,
+			"desc": "339.79",
 			"group": "auto posto pe de cedro ltda"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 84.97706684503765,
-			"desc": 1944.52,
+			"desc": "1944.52",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 4.122987506665473,
-			"desc": 143.8,
+			"desc": "143.80",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 1.0709074189630812,
-			"desc": 47.949999999999996,
+			"desc": "47.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -159,7 +160,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 32.29598970992037,
-			"desc": 832.29,
+			"desc": "832.29",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "eder florencio yanaguita",
 			"name": "eder florencio yanaguita",
 			"val": 3138.984031144044,
-			"desc": 50250,
+			"desc": "50250.00",
 			"group": "eder florencio yanaguita"
 		},
 		{
@@ -239,7 +240,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 10.029479856347399,
-			"desc": 304,
+			"desc": "304.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "ALPHAVILE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "ALPHAVILE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ALPHAVILE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 35.76080278350416,
-			"desc": 909.57,
+			"desc": "909.57",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "auto posto vivendas do bosque",
 			"name": "auto posto vivendas do bosque",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "auto posto vivendas do bosque"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "LR PETROLEO LTDA",
 			"name": "LR PETROLEO LTDA",
 			"val": 41.48719358646317,
-			"desc": 1035.51,
+			"desc": "1035.51",
 			"group": "LR PETROLEO LTDA"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "ENERGISA   MS",
 			"name": "ENERGISA   MS",
 			"val": 22.802092847184092,
-			"desc": 615.27,
+			"desc": "615.27",
 			"group": "ENERGISA   MS"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.8382672245477135,
-			"desc": 39.51,
+			"desc": "39.51",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "AUTO POSTO CRIOLO LTDA",
 			"name": "AUTO POSTO CRIOLO LTDA",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "AUTO POSTO CRIOLO LTDA"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "posto milenio",
 			"name": "posto milenio",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "posto milenio"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 39.437168847114265,
-			"desc": 990.66,
+			"desc": "990.66",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "AUTO POSTO SAN MARTIN LTDA",
 			"name": "AUTO POSTO SAN MARTIN LTDA",
 			"val": 7.23345720944605,
-			"desc": 230.42,
+			"desc": "230.42",
 			"group": "AUTO POSTO SAN MARTIN LTDA"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 45.47131105738937,
-			"desc": 1121.99,
+			"desc": "1121.99",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 14.649683528250586,
-			"desc": 420.24,
+			"desc": "420.24",
 			"group": "RAMAL"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "SERV CAR DERIVADOS DE PETROLEO LTDA - POSTO",
 			"name": "SERV CAR DERIVADOS DE PETROLEO LTDA - POSTO",
 			"val": 18.75857180366727,
-			"desc": 519.81,
+			"desc": "519.81",
 			"group": "SERV CAR DERIVADOS DE PETROLEO LTDA - POSTO"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 6.5499752341505095,
-			"desc": 211.90999999999997,
+			"desc": "211.91",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 14.827371923736623,
-			"desc": 424.61,
+			"desc": "424.61",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "POSTO DE COMBUSTIVEL CIDADE LTDA",
 			"name": "POSTO DE COMBUSTIVEL CIDADE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEL CIDADE LTDA"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 186.45643765200208,
-			"desc": 3906.7299999999996,
+			"desc": "3906.73",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "R S BONDEZAN",
 			"name": "R S BONDEZAN",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "R S BONDEZAN"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "B & N COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "B & N COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 8.495259674701872,
-			"desc": 264.01,
+			"desc": "264.01",
 			"group": "B & N COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "TROKAR POSTOS DE SERVICOS",
 			"name": "TROKAR POSTOS DE SERVICOS",
 			"val": 11.908107163745253,
-			"desc": 351.93,
+			"desc": "351.93",
 			"group": "TROKAR POSTOS DE SERVICOS"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "ronaldo guedine ribeiro",
 			"name": "ronaldo guedine ribeiro",
 			"val": 95.20304012250068,
-			"desc": 2150,
+			"desc": "2150.00",
 			"group": "ronaldo guedine ribeiro"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "posto locatelli mae e filha ltda",
 			"name": "posto locatelli mae e filha ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "posto locatelli mae e filha ltda"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 8.010208352322586,
-			"desc": 251.18,
+			"desc": "251.18",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "POSTO CARANDA LOCATELLI LTDA",
 			"name": "POSTO CARANDA LOCATELLI LTDA",
 			"val": 7.951108813299111,
-			"desc": 249.61,
+			"desc": "249.61",
 			"group": "POSTO CARANDA LOCATELLI LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "auto posto paloma limitada",
 			"name": "auto posto paloma limitada",
 			"val": 6.115448415311677,
-			"desc": 200.01,
+			"desc": "200.01",
 			"group": "auto posto paloma limitada"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "auto posto nações indigenas",
 			"name": "auto posto nações indigenas",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "auto posto nações indigenas"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDa",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDa",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDa"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "aguas guarirobas",
 			"name": "aguas guarirobas",
 			"val": 6.605760235501063,
-			"desc": 213.43,
+			"desc": "213.43",
 			"group": "aguas guarirobas"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "DIVISA AUTO POSTO LTDA",
 			"name": "DIVISA AUTO POSTO LTDA",
 			"val": 8.192377708928726,
-			"desc": 256.01,
+			"desc": "256.01",
 			"group": "DIVISA AUTO POSTO LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "POSTO FIGUEIRA LTDA",
 			"name": "POSTO FIGUEIRA LTDA",
 			"val": 5.621351268896855,
-			"desc": 186.34,
+			"desc": "186.34",
 			"group": "POSTO FIGUEIRA LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "POSTO CARANDA BOSQUE LTDA",
 			"name": "POSTO CARANDA BOSQUE LTDA",
 			"val": 6.3336764343989715,
-			"desc": 206,
+			"desc": "206.00",
 			"group": "POSTO CARANDA BOSQUE LTDA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "CORREIOS E TELEGRAFOS",
 			"name": "CORREIOS E TELEGRAFOS",
 			"val": 1.7071165861735198,
-			"desc": 69.7,
+			"desc": "69.70",
 			"group": "CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "AUTO POSTO BRILHANTE LTDA",
 			"name": "AUTO POSTO BRILHANTE LTDA",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "AUTO POSTO BRILHANTE LTDA"
 		},
 		{
@@ -881,7 +882,7 @@
 			"id": "haroldo barcellos braga junior",
 			"name": "haroldo barcellos braga junior",
 			"val": 95.20304012250068,
-			"desc": 2150,
+			"desc": "2150.00",
 			"group": "haroldo barcellos braga junior"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "auto posto brenda ltda",
 			"name": "auto posto brenda ltda",
 			"val": 6.95914220349961,
-			"desc": 223.02,
+			"desc": "223.02",
 			"group": "auto posto brenda ltda"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "ANCELMO & PAULINO LTDA",
 			"name": "ANCELMO & PAULINO LTDA",
 			"val": 7.274723841726892,
-			"desc": 231.53,
+			"desc": "231.53",
 			"group": "ANCELMO & PAULINO LTDA"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "j.v.g hoteis ltda",
 			"name": "j.v.g hoteis ltda",
 			"val": 17.05983761643052,
-			"desc": 479,
+			"desc": "479.00",
 			"group": "j.v.g hoteis ltda"
 		},
 		{
@@ -933,7 +934,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -946,7 +947,7 @@
 			"id": "AUTO POSTO ALIANÇA LTDA",
 			"name": "AUTO POSTO ALIANÇA LTDA",
 			"val": 8.344398343079567,
-			"desc": 260.03,
+			"desc": "260.03",
 			"group": "AUTO POSTO ALIANÇA LTDA"
 		},
 		{

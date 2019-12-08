@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARCOS AURÉLIO SAMPAIO"
+			"name": "MARCOS AURÉLIO SAMPAIO",
+			"desc": "79055.70"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 769.9696813708784,
-			"desc": 13978.210000000003,
+			"desc": "13978.21",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "AI ASSESSORIA DE IMPRENSA COM E MARKETING LTDA",
 			"name": "AI ASSESSORIA DE IMPRENSA COM E MARKETING LTDA",
 			"val": 2782.374728578517,
-			"desc": 45000,
+			"desc": "45000.00",
 			"group": "AI ASSESSORIA DE IMPRENSA COM E MARKETING LTDA"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "R B COELHO E CIA LTDA",
 			"name": "R B COELHO E CIA LTDA",
 			"val": 68.36632482484679,
-			"desc": 1605.08,
+			"desc": "1605.08",
 			"group": "R B COELHO E CIA LTDA"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 4.629286710963166,
-			"desc": 158.38,
+			"desc": "158.38",
 			"group": "CLARO S.A."
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "TEXAS DERIVADOS DE PETROLEO LTDA",
 			"name": "TEXAS DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "TEXAS DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "PLANALTO PETROLEO FATIMA LTDA",
 			"name": "PLANALTO PETROLEO FATIMA LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "PLANALTO PETROLEO FATIMA LTDA"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 5.644357895008067,
-			"desc": 186.98,
+			"desc": "186.98",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 13.208966709258164,
-			"desc": 384.56,
+			"desc": "384.56",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "POSTO N S DAS GRAÇAS CIA LTDA",
 			"name": "POSTO N S DAS GRAÇAS CIA LTDA",
 			"val": 2.054111400934618,
-			"desc": 81,
+			"desc": "81.00",
 			"group": "POSTO N S DAS GRAÇAS CIA LTDA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 124.60619127845105,
-			"desc": 2729.1800000000003,
+			"desc": "2729.18",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "JOSE MOACY LEAL",
 			"name": "JOSE MOACY LEAL",
 			"val": 115.42607162381144,
-			"desc": 2550,
+			"desc": "2550.00",
 			"group": "JOSE MOACY LEAL"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "NERIS E SAMPAIO",
 			"name": "NERIS E SAMPAIO",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "NERIS E SAMPAIO"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "PN PETROLEO LTDA",
 			"name": "PN PETROLEO LTDA",
 			"val": 20.450862599960818,
-			"desc": 560.03,
+			"desc": "560.03",
 			"group": "PN PETROLEO LTDA"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA",
 			"name": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA",
 			"val": 27.775632286281386,
-			"desc": 730.03,
+			"desc": "730.03",
 			"group": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "AGUAS DE TERESINA SAN. SPE SA",
 			"name": "AGUAS DE TERESINA SAN. SPE SA",
 			"val": 1.042583577083888,
-			"desc": 46.94,
+			"desc": "46.94",
 			"group": "AGUAS DE TERESINA SAN. SPE SA"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "POSTO DE COMBUSTIVEL ESPERANTINA LTDA",
 			"name": "POSTO DE COMBUSTIVEL ESPERANTINA LTDA",
 			"val": 6.121264223477415,
-			"desc": 200.17,
+			"desc": "200.17",
 			"group": "POSTO DE COMBUSTIVEL ESPERANTINA LTDA"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "PARENTE @ARAUJO COMBUSTIVEL LTDA EPP",
 			"name": "PARENTE @ARAUJO COMBUSTIVEL LTDA EPP",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "PARENTE @ARAUJO COMBUSTIVEL LTDA EPP"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.6030799193010277,
-			"desc": 30.56,
+			"desc": "30.56",
 			"group": "RAMAL"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "POSTO 109 SUL DERIV DE PET LTDA",
 			"name": "POSTO 109 SUL DERIV DE PET LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO 109 SUL DERIV DE PET LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "R.B COELHO E CIA LTDA",
 			"name": "R.B COELHO E CIA LTDA",
 			"val": 9.876129886180141,
-			"desc": 300.04,
+			"desc": "300.04",
 			"group": "R.B COELHO E CIA LTDA"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "POSTO SÃO RAIMUNDO 2",
 			"name": "POSTO SÃO RAIMUNDO 2",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO SÃO RAIMUNDO 2"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 88.88849484131013,
-			"desc": 2023.4,
+			"desc": "2023.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "MC CALDAS COMBUSTIVEIS",
 			"name": "MC CALDAS COMBUSTIVEIS",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "MC CALDAS COMBUSTIVEIS"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "MAZUAD AUTO LOCADORA E LOGISTICA LTDA",
 			"name": "MAZUAD AUTO LOCADORA E LOGISTICA LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "MAZUAD AUTO LOCADORA E LOGISTICA LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "POSTO SANTA EDWIRGES",
 			"name": "POSTO SANTA EDWIRGES",
 			"val": 1.772067350265551,
-			"desc": 71.84,
+			"desc": "71.84",
 			"group": "POSTO SANTA EDWIRGES"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "CACIQUE PETRÓLEO LTDA",
 			"name": "CACIQUE PETRÓLEO LTDA",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "CACIQUE PETRÓLEO LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "Companhia Energética do Piauí",
 			"name": "Companhia Energética do Piauí",
 			"val": 11.627311022678896,
-			"desc": 344.83,
+			"desc": "344.83",
 			"group": "Companhia Energética do Piauí"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 25.13389416596385,
-			"desc": 669.4,
+			"desc": "669.40",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "CACIQUE PETROLEO LTDA",
 			"name": "CACIQUE PETROLEO LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "CACIQUE PETROLEO LTDA"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "GENERAL EMPREENDIMENTOS E NEGÓCIOS LTDA",
 			"name": "GENERAL EMPREENDIMENTOS E NEGÓCIOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GENERAL EMPREENDIMENTOS E NEGÓCIOS LTDA"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "POSTO SÃO LUIS",
 			"name": "POSTO SÃO LUIS",
 			"val": 0.4658468064370049,
-			"desc": 25.06,
+			"desc": "25.06",
 			"group": "POSTO SÃO LUIS"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "PRIMAVERA COMBUST. E SERVICOS DE MECANICA LTDA",
 			"name": "PRIMAVERA COMBUST. E SERVICOS DE MECANICA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "PRIMAVERA COMBUST. E SERVICOS DE MECANICA LTDA"
 		},
 		{

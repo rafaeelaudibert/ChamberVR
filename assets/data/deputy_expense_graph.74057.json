@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALICE PORTUGAL"
+			"name": "ALICE PORTUGAL",
+			"desc": "92782.05"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 22.904914424864284,
-			"desc": 617.6700000000001,
+			"desc": "617.67",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "LOCALIZA RENT A CAR S/A",
 			"name": "LOCALIZA RENT A CAR S/A",
 			"val": 509.2995950530738,
-			"desc": 9622.37,
+			"desc": "9622.37",
 			"group": "LOCALIZA RENT A CAR S/A"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 209.43107274592353,
-			"desc": 4333.75,
+			"desc": "4333.75",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "POSTO MARINA COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA - ME",
 			"name": "POSTO MARINA COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA - ME",
 			"val": 4.701813950775354,
-			"desc": 160.45,
+			"desc": "160.45",
 			"group": "POSTO MARINA COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA - ME"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 114.34513025589807,
-			"desc": 2528.81,
+			"desc": "2528.81",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -250,7 +251,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 685.8322367135005,
-			"desc": 12588.829999999998,
+			"desc": "12588.83",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 3.2276373898102513,
-			"desc": 117.37,
+			"desc": "117.37",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "MEGA POSTO BROTAS LTDA",
 			"name": "MEGA POSTO BROTAS LTDA",
 			"val": 5.2090890050368435,
-			"desc": 174.81,
+			"desc": "174.81",
 			"group": "MEGA POSTO BROTAS LTDA"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "BRAGA POSTOS E SERVICOS LTDA",
 			"name": "BRAGA POSTOS E SERVICOS LTDA",
 			"val": 5.530886402865478,
-			"desc": 183.82,
+			"desc": "183.82",
 			"group": "BRAGA POSTOS E SERVICOS LTDA"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 12.97452841336633,
-			"desc": 378.71000000000004,
+			"desc": "378.71",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "STAMPGRAFF - GRÁFICA E EDITORA LTDA",
 			"name": "STAMPGRAFF - GRÁFICA E EDITORA LTDA",
 			"val": 825.6240633094412,
-			"desc": 14890,
+			"desc": "14890.00",
 			"group": "STAMPGRAFF - GRÁFICA E EDITORA LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 0.813232640690502,
-			"desc": 38.58,
+			"desc": "38.58",
 			"group": "CLARO S/A"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "FERREIRA COMBUSTIVEIS LTDA",
 			"name": "FERREIRA COMBUSTIVEIS LTDA",
 			"val": 9.034764685320692,
-			"desc": 278.16999999999996,
+			"desc": "278.17",
 			"group": "FERREIRA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"name": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"val": 3.7928699790128624,
-			"desc": 134.16,
+			"desc": "134.16",
 			"group": "HIPER POSTO CAMINHO DAS ARVORES LTDA"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 36.44775684870604,
-			"desc": 924.79,
+			"desc": "924.79",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "ITAPOAN DISTRIB. DE DER. DE PETROLEO LTDA",
 			"name": "ITAPOAN DISTRIB. DE DER. DE PETROLEO LTDA",
 			"val": 7.441215038597578,
-			"desc": 236,
+			"desc": "236.00",
 			"group": "ITAPOAN DISTRIB. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "POSTO DIQUE COMBUSTIVEIS LTDA.-EPP",
 			"name": "POSTO DIQUE COMBUSTIVEIS LTDA.-EPP",
 			"val": 14.920996550742023,
-			"desc": 426.90999999999997,
+			"desc": "426.91",
 			"group": "POSTO DIQUE COMBUSTIVEIS LTDA.-EPP"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "HP COM.E DER. DE PET. LTDA",
 			"name": "HP COM.E DER. DE PET. LTDA",
 			"val": 6.522839490441613,
-			"desc": 211.17,
+			"desc": "211.17",
 			"group": "HP COM.E DER. DE PET. LTDA"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 71.76587011646205,
-			"desc": 1675.19,
+			"desc": "1675.19",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A.",
 			"name": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A.",
 			"val": 29.880741161157356,
-			"desc": 777.8699999999999,
+			"desc": "777.87",
 			"group": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A."
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "POSTO SISSI LTDA",
 			"name": "POSTO SISSI LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "POSTO SISSI LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 22.19313659269709,
-			"desc": 601.03,
+			"desc": "601.03",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "G A MENDES COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"name": "G A MENDES COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"val": 20.465241190701846,
-			"desc": 560.37,
+			"desc": "560.37",
 			"group": "G A MENDES COMERCIO DE COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "WAC PATRIMONIAL S/C LTDA",
 			"name": "WAC PATRIMONIAL S/C LTDA",
 			"val": 646.8382867234275,
-			"desc": 11940,
+			"desc": "11940.00",
 			"group": "WAC PATRIMONIAL S/C LTDA"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "DAM DERIVADOS DE PETROLEO LTDA",
 			"name": "DAM DERIVADOS DE PETROLEO LTDA",
 			"val": 6.12344534184528,
-			"desc": 200.23,
+			"desc": "200.23",
 			"group": "DAM DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 27.276623120063622,
-			"desc": 718.63,
+			"desc": "718.63",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "POSTO NOVO HORIZONTE LTDA",
 			"name": "POSTO NOVO HORIZONTE LTDA",
 			"val": 4.26868857212286,
-			"desc": 148.02,
+			"desc": "148.02",
 			"group": "POSTO NOVO HORIZONTE LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 6.111450475621069,
-			"desc": 199.9,
+			"desc": "199.90",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "GRAFICA REAL",
 			"name": "GRAFICA REAL",
 			"val": 1384.0613041935721,
-			"desc": 23799.68,
+			"desc": "23799.68",
 			"group": "GRAFICA REAL"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "AUTO POSTO CENTENARIO COM DE COMBUSTIVEIS E SER LTDA",
 			"name": "AUTO POSTO CENTENARIO COM DE COMBUSTIVEIS E SER LTDA",
 			"val": 5.346273906403385,
-			"desc": 178.66,
+			"desc": "178.66",
 			"group": "AUTO POSTO CENTENARIO COM DE COMBUSTIVEIS E SER LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 29.17298562420526,
-			"desc": 761.83,
+			"desc": "761.83",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "POSTO BOM SAMARITANO C. D. PETROLEO LTDA",
 			"name": "POSTO BOM SAMARITANO C. D. PETROLEO LTDA",
 			"val": 6.778646612115086,
-			"desc": 218.13,
+			"desc": "218.13",
 			"group": "POSTO BOM SAMARITANO C. D. PETROLEO LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 22.1320912048283,
-			"desc": 599.6,
+			"desc": "599.60",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.17940819221317,
-			"desc": 51.78,
+			"desc": "51.78",
 			"group": "RAMAL"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 43.92323803122321,
-			"desc": 1088.49,
+			"desc": "1088.49",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -833,7 +834,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS CIDADE JARDIM LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS CIDADE JARDIM LTDA",
 			"val": 13.903623854357175,
-			"desc": 401.82,
+			"desc": "401.82",
 			"group": "COMERCIAL DE COMBUSTIVEIS CIDADE JARDIM LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "MEGA POSTO BERIMBAU LTDA.",
 			"name": "MEGA POSTO BERIMBAU LTDA.",
 			"val": 11.143261204192205,
-			"desc": 332.54,
+			"desc": "332.54",
 			"group": "MEGA POSTO BERIMBAU LTDA."
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "HP COMERCIO E DERIVADOS DE PET",
 			"name": "HP COMERCIO E DERIVADOS DE PET",
 			"val": 12.70267490637414,
-			"desc": 371.90999999999997,
+			"desc": "371.91",
 			"group": "HP COMERCIO E DERIVADOS DE PET"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{

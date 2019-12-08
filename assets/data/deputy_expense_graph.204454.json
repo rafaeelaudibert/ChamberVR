@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DANIEL SILVEIRA"
+			"name": "DANIEL SILVEIRA",
+			"desc": "63521.00"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO BONSUCESSO",
 			"name": "AUTO POSTO BONSUCESSO",
 			"val": 141.6219671839846,
-			"desc": 3057.91,
+			"desc": "3057.91",
 			"group": "AUTO POSTO BONSUCESSO"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "ADMINISTRADORA FONSECA IMÓVEIS S/C LTDA.",
 			"name": "ADMINISTRADORA FONSECA IMÓVEIS S/C LTDA.",
 			"val": 281.23108804447867,
-			"desc": 5641.799999999999,
+			"desc": "5641.80",
 			"group": "ADMINISTRADORA FONSECA IMÓVEIS S/C LTDA."
 		},
 		{
@@ -163,7 +164,7 @@
 			"id": "Cia de Concessão Rod. Juiz e Fora",
 			"name": "Cia de Concessão Rod. Juiz e Fora",
 			"val": 8.601220974640391,
-			"desc": 266.7999999999999,
+			"desc": "266.80",
 			"group": "Cia de Concessão Rod. Juiz e Fora"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "LAMSA",
 			"name": "LAMSA",
 			"val": 0.2216446218175651,
-			"desc": 14.4,
+			"desc": "14.40",
 			"group": "LAMSA"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "AUTO POSTO BONSUCESSO LTDA",
 			"name": "AUTO POSTO BONSUCESSO LTDA",
 			"val": 143.26042084823138,
-			"desc": 3089.35,
+			"desc": "3089.35",
 			"group": "AUTO POSTO BONSUCESSO LTDA"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 15.940725983291713,
-			"desc": 451.85,
+			"desc": "451.85",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "PAPAYA COMUNICAÇÃO LTDA.",
 			"name": "PAPAYA COMUNICAÇÃO LTDA.",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "PAPAYA COMUNICAÇÃO LTDA."
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"name": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 254.70841607761173,
-			"desc": 5162.76,
+			"desc": "5162.76",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.0500650798476654,
-			"desc": 80.86999999999999,
+			"desc": "80.87",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A.",
 			"name": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A.",
 			"val": 29.974870578898784,
-			"desc": 780,
+			"desc": "780.00",
 			"group": "ALLPARK EMPREENDIMENTOS, PARTICIPACOES E SERVICOS S.A."
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 624.063444472374,
-			"desc": 11559.48,
+			"desc": "11559.48",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 18.049855351391514,
-			"desc": 502.84,
+			"desc": "502.84",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.1115405494047736,
-			"desc": 8.86,
+			"desc": "8.86",
 			"group": "RAMAL"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "ECORODO BR 040 COMBUSTIVEIS LTDA",
 			"name": "ECORODO BR 040 COMBUSTIVEIS LTDA",
 			"val": 9.874195569007611,
-			"desc": 299.99,
+			"desc": "299.99",
 			"group": "ECORODO BR 040 COMBUSTIVEIS LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 55.38172429661155,
-			"desc": 1333.7,
+			"desc": "1333.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"name": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"val": 0.8666837676303707,
-			"desc": 40.56,
+			"desc": "40.56",
 			"group": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "STARBUCKS BRASIL",
 			"name": "STARBUCKS BRASIL",
 			"val": 1.3269891957126145,
-			"desc": 56.9,
+			"desc": "56.90",
 			"group": "STARBUCKS BRASIL"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "POSTO ITAIPAVA LTDA",
 			"name": "POSTO ITAIPAVA LTDA",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "POSTO ITAIPAVA LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 14.659435377791427,
-			"desc": 420.48,
+			"desc": "420.48",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.6560123227427604,
-			"desc": 32.62,
+			"desc": "32.62",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 7.959763153420731,
-			"desc": 249.84,
+			"desc": "249.84",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "GLOBAL COMPANY",
 			"name": "GLOBAL COMPANY",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "GLOBAL COMPANY"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "SARNAGLIA POUSADA",
 			"name": "SARNAGLIA POUSADA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "SARNAGLIA POUSADA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "POSTO DE ABASTECIMENTO VITORIA 040 LTDA",
 			"name": "POSTO DE ABASTECIMENTO VITORIA 040 LTDA",
 			"val": 5.7523692643543,
-			"desc": 189.98,
+			"desc": "189.98",
 			"group": "POSTO DE ABASTECIMENTO VITORIA 040 LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "CARLOS EDUARDO PASSOS DE PAULA",
 			"name": "CARLOS EDUARDO PASSOS DE PAULA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "CARLOS EDUARDO PASSOS DE PAULA"
 		},
 		{

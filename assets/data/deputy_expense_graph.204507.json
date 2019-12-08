@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARLA ZAMBELLI"
+			"name": "CARLA ZAMBELLI",
+			"desc": "37918.30"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 7.490100752908166,
-			"desc": 237.30999999999997,
+			"desc": "237.31",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 33.034194968598065,
-			"desc": 848.8299999999999,
+			"desc": "848.83",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 5.481788587240757,
-			"desc": 182.45,
+			"desc": "182.45",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "AUTO POSTO ANHEMBI LT",
 			"name": "AUTO POSTO ANHEMBI LT",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ANHEMBI LT"
 		},
 		{
@@ -147,7 +148,7 @@
 			"id": "POSTO DE SERVICOS AVANTGARDE LTDA",
 			"name": "POSTO DE SERVICOS AVANTGARDE LTDA",
 			"val": 6.863833421721669,
-			"desc": 220.44,
+			"desc": "220.44",
 			"group": "POSTO DE SERVICOS AVANTGARDE LTDA"
 		},
 		{
@@ -160,7 +161,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 0.7603681832332738,
-			"desc": 36.599999999999994,
+			"desc": "36.60",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -191,7 +192,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 14.055525291583924,
-			"desc": 405.58000000000004,
+			"desc": "405.58",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "CITY CANTAREIRA AUTO POSTO EIRELI",
 			"name": "CITY CANTAREIRA AUTO POSTO EIRELI",
 			"val": 20.14918848018468,
-			"desc": 552.89,
+			"desc": "552.89",
 			"group": "CITY CANTAREIRA AUTO POSTO EIRELI"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.9445938760549069,
-			"desc": 43.41,
+			"desc": "43.41",
 			"group": "RAMAL"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 150.75037268776694,
-			"desc": 3232.63,
+			"desc": "3232.63",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "ECT - EMP.BRAS. DE CORREIOS E TELÉGRAFOS",
 			"name": "ECT - EMP.BRAS. DE CORREIOS E TELÉGRAFOS",
 			"val": 0.6245701973429355,
-			"desc": 31.4,
+			"desc": "31.40",
 			"group": "ECT - EMP.BRAS. DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"val": 2.481488256328377,
-			"desc": 94.53,
+			"desc": "94.53",
 			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "IRMAOS FACHINI RESTAURANTE E LANCHONETE LTDA",
 			"name": "IRMAOS FACHINI RESTAURANTE E LANCHONETE LTDA",
 			"val": 0.4814839955027098,
-			"desc": 25.7,
+			"desc": "25.70",
 			"group": "IRMAOS FACHINI RESTAURANTE E LANCHONETE LTDA"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 4.890677976970537,
-			"desc": 165.82,
+			"desc": "165.82",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
 			"name": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
 			"val": 0.8245227461425108,
-			"desc": 39,
+			"desc": "39.00",
 			"group": "SAO PAULO AIRPORT RESTAURANTES LIMITADA"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 2.280042941636432,
-			"desc": 88.2,
+			"desc": "88.20",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 4.419256882886694,
-			"desc": 152.36,
+			"desc": "152.36",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "Eduardo Giglio de Oliveira",
 			"name": "Eduardo Giglio de Oliveira",
 			"val": 380.4579628399488,
-			"desc": 7400,
+			"desc": "7400.00",
 			"group": "Eduardo Giglio de Oliveira"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "PREFEITURA DE SÃO PAULO",
 			"name": "PREFEITURA DE SÃO PAULO",
 			"val": 374.15247826417925,
-			"desc": 7289.65,
+			"desc": "7289.65",
 			"group": "PREFEITURA DE SÃO PAULO"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 2.6866773621987865,
-			"desc": 100.9,
+			"desc": "100.90",
 			"group": "SABESP"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "AUTO POSTO RAIO DE SOL LTDA",
 			"name": "AUTO POSTO RAIO DE SOL LTDA",
 			"val": 3.822502782918511,
-			"desc": 135.03,
+			"desc": "135.03",
 			"group": "AUTO POSTO RAIO DE SOL LTDA"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "AUTO POSTO LUTAIF LT",
 			"name": "AUTO POSTO LUTAIF LT",
 			"val": 2.536333881310024,
-			"desc": 96.24,
+			"desc": "96.24",
 			"group": "AUTO POSTO LUTAIF LT"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"val": 3.7398169663554595,
-			"desc": 132.6,
+			"desc": "132.60",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "Y. E. ASSESSORIA E COMERCIO LTDA",
 			"name": "Y. E. ASSESSORIA E COMERCIO LTDA",
 			"val": 1.6799134487810152,
-			"desc": 68.8,
+			"desc": "68.80",
 			"group": "Y. E. ASSESSORIA E COMERCIO LTDA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "POSTO ESTACAO CARANDIRU LTDA",
 			"name": "POSTO ESTACAO CARANDIRU LTDA",
 			"val": 10.262394262540056,
-			"desc": 310,
+			"desc": "310.00",
 			"group": "POSTO ESTACAO CARANDIRU LTDA"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.4529762836214575,
-			"desc": 124.11,
+			"desc": "124.11",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 8.460356246641858,
-			"desc": 263.09,
+			"desc": "263.09",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "AUTO POSTO LAERCIO DE MAIRIPORA LT",
 			"name": "AUTO POSTO LAERCIO DE MAIRIPORA LT",
 			"val": 2.722674147168406,
-			"desc": 102.01,
+			"desc": "102.01",
 			"group": "AUTO POSTO LAERCIO DE MAIRIPORA LT"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "AUTO POSTO TREMEMBE LTDA",
 			"name": "AUTO POSTO TREMEMBE LTDA",
 			"val": 12.521571345448296,
-			"desc": 367.37,
+			"desc": "367.37",
 			"group": "AUTO POSTO TREMEMBE LTDA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 130.3295951304906,
-			"desc": 2840.2200000000003,
+			"desc": "2840.22",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 54.16294587631954,
-			"desc": 1307.9,
+			"desc": "1307.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "VERISURE BRASIL MONITORAMENTO",
 			"name": "VERISURE BRASIL MONITORAMENTO",
 			"val": 149.7220120718386,
-			"desc": 3213,
+			"desc": "3213.00",
 			"group": "VERISURE BRASIL MONITORAMENTO"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 73.41819290279348,
-			"desc": 1709.14,
+			"desc": "1709.14",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA",
 			"name": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA",
 			"val": 0.3228424910217125,
-			"desc": 19,
+			"desc": "19.00",
 			"group": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "ARBY S SUPER LANCHES LTDA",
 			"name": "ARBY S SUPER LANCHES LTDA",
 			"val": 0.6606738569566706,
-			"desc": 32.8,
+			"desc": "32.80",
 			"group": "ARBY S SUPER LANCHES LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "YOSHIURA e YOSHIURA LTDA",
 			"name": "YOSHIURA e YOSHIURA LTDA",
 			"val": 4.4248215502004244,
-			"desc": 152.52,
+			"desc": "152.52",
 			"group": "YOSHIURA e YOSHIURA LTDA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "PAPA 5 SERVICOS AUTOMOTIVOS LT",
 			"name": "PAPA 5 SERVICOS AUTOMOTIVOS LT",
 			"val": 2.481168043565204,
-			"desc": 94.52,
+			"desc": "94.52",
 			"group": "PAPA 5 SERVICOS AUTOMOTIVOS LT"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 0.46316859746289984,
-			"desc": 24.95,
+			"desc": "24.95",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 30.331805481989008,
-			"desc": 788.07,
+			"desc": "788.07",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "FORUM POINT COMERCIO DE ALIMENTOS LTDA",
 			"name": "FORUM POINT COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.0258167427417404,
-			"desc": 46.34,
+			"desc": "46.34",
 			"group": "FORUM POINT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "SUBWAY AEROPORTO JK",
 			"name": "SUBWAY AEROPORTO JK",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "SUBWAY AEROPORTO JK"
 		},
 		{
@@ -889,7 +890,7 @@
 			"id": "HADCO COMERCIO DE ALIMENTOS LTDA",
 			"name": "HADCO COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "HADCO COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -902,7 +903,7 @@
 			"id": "VERISURE BRASIL MONITORAMENTO DE ALARMES S.A",
 			"name": "VERISURE BRASIL MONITORAMENTO DE ALARMES S.A",
 			"val": 12.127782255209443,
-			"desc": 357.47,
+			"desc": "357.47",
 			"group": "VERISURE BRASIL MONITORAMENTO DE ALARMES S.A"
 		},
 		{
@@ -915,7 +916,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 6.895953057627851,
-			"desc": 221.31,
+			"desc": "221.31",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -928,7 +929,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 179.69825361685423,
-			"desc": 3780.18,
+			"desc": "3780.18",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -960,7 +961,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.404205835741618,
-			"desc": 207.93,
+			"desc": "207.93",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{

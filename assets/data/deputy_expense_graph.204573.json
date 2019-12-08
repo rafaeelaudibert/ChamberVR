@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "OTTO ALENCAR FILHO"
+			"name": "OTTO ALENCAR FILHO",
+			"desc": "55973.81"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RP HOTEIS E TURISMO LTDA",
 			"name": "RP HOTEIS E TURISMO LTDA",
 			"val": 6.810713464210628,
-			"desc": 219,
+			"desc": "219.00",
 			"group": "RP HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "OLH FOODS ALIMENTOS LTDA ME",
 			"name": "OLH FOODS ALIMENTOS LTDA ME",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "OLH FOODS ALIMENTOS LTDA ME"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "CALL TECH COMBUSTIVEIS E SERVIÇOS LTDA",
 			"name": "CALL TECH COMBUSTIVEIS E SERVIÇOS LTDA",
 			"val": 35.17791144439926,
-			"desc": 896.6299999999999,
+			"desc": "896.63",
 			"group": "CALL TECH COMBUSTIVEIS E SERVIÇOS LTDA"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "ADEMILTON ARAUJO BRANDÃO",
 			"name": "ADEMILTON ARAUJO BRANDÃO",
 			"val": 312.4109217613594,
-			"desc": 6199.629999999999,
+			"desc": "6199.63",
 			"group": "ADEMILTON ARAUJO BRANDÃO"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "WF COMERCIAL DE PETROLEO LIMITADA",
 			"name": "WF COMERCIAL DE PETROLEO LIMITADA",
 			"val": 1.28809741604049,
-			"desc": 55.56,
+			"desc": "55.56",
 			"group": "WF COMERCIAL DE PETROLEO LIMITADA"
 		},
 		{
@@ -130,7 +131,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 11.670759857399256,
-			"desc": 345.93,
+			"desc": "345.93",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -197,7 +198,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 65.10954792255254,
-			"desc": 1537.5700000000002,
+			"desc": "1537.57",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 75.9007723832136,
-			"desc": 1760,
+			"desc": "1760.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "ESR - COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
 			"name": "ESR - COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
 			"val": 203.08078806710245,
-			"desc": 4216.1900000000005,
+			"desc": "4216.19",
 			"group": "ESR - COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "GZ COMERCIO DE ALIMENTOS LTDA - EPP",
 			"name": "GZ COMERCIO DE ALIMENTOS LTDA - EPP",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "GZ COMERCIO DE ALIMENTOS LTDA - EPP"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 26.23125043338822,
-			"desc": 694.6700000000001,
+			"desc": "694.67",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 474.45265243822047,
-			"desc": 9026.87,
+			"desc": "9026.87",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "SANTA EUDOXIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "SANTA EUDOXIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 9.837839365807943,
-			"desc": 299.05,
+			"desc": "299.05",
 			"group": "SANTA EUDOXIA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 18.765687848290433,
-			"desc": 519.98,
+			"desc": "519.98",
 			"group": "CLARO S.A."
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.8829924861369122,
-			"desc": 41.16,
+			"desc": "41.16",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.197821657821827,
-			"desc": 145.97,
+			"desc": "145.97",
 			"group": "RAMAL"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 6.027937493645558,
-			"desc": 197.6,
+			"desc": "197.60",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 508.6985437663568,
-			"desc": 9612.130000000001,
+			"desc": "9612.13",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "PHAB DERIVADOS DE PETROLEO LTDA",
 			"name": "PHAB DERIVADOS DE PETROLEO LTDA",
 			"val": 4.877632430407181,
-			"desc": 165.45,
+			"desc": "165.45",
 			"group": "PHAB DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "POSTO ECOLOGIA COMBUSTIVEIS LTDA EPP",
 			"name": "POSTO ECOLOGIA COMBUSTIVEIS LTDA EPP",
 			"val": 2.024259387763866,
-			"desc": 80.04,
+			"desc": "80.04",
 			"group": "POSTO ECOLOGIA COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"name": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"val": 2.796505406867598,
-			"desc": 104.28,
+			"desc": "104.28",
 			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "POSTO CIDADE- FILIAL",
 			"name": "POSTO CIDADE- FILIAL",
 			"val": 5.946751597730995,
-			"desc": 195.36,
+			"desc": "195.36",
 			"group": "POSTO CIDADE- FILIAL"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 17.752649733850298,
-			"desc": 495.69999999999993,
+			"desc": "495.70",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 11.638368807426142,
-			"desc": 345.10999999999996,
+			"desc": "345.11",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 6.722669869220497,
-			"desc": 216.61,
+			"desc": "216.61",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 10.781450022351112,
-			"desc": 323.31,
+			"desc": "323.31",
 			"group": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "AUTO POSTO SAO JOAO LTDA",
 			"name": "AUTO POSTO SAO JOAO LTDA",
 			"val": 8.457701310246229,
-			"desc": 263.02,
+			"desc": "263.02",
 			"group": "AUTO POSTO SAO JOAO LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "MARA DERIVADOS DE PETROLEO LTDA",
 			"name": "MARA DERIVADOS DE PETROLEO LTDA",
 			"val": 7.936060700680408,
-			"desc": 249.20999999999998,
+			"desc": "249.21",
 			"group": "MARA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI",
 			"name": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI",
 			"val": 46.354218968726364,
-			"desc": 1141.04,
+			"desc": "1141.04",
 			"group": "ESR COMERCIO DE COMBUSTIVEIS E SERVICOS EIRELI"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 103.40123175279713,
-			"desc": 2313.1,
+			"desc": "2313.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "ANS - COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
 			"name": "ANS - COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
 			"val": 2.463245891927971,
-			"desc": 93.96,
+			"desc": "93.96",
 			"group": "ANS - COMERCIO E DERIVADOS DE PETROLEO LTDA - ME"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "TREVO DERIVADOS DE PETROLEO LTDA",
 			"name": "TREVO DERIVADOS DE PETROLEO LTDA",
 			"val": 4.164692178363777,
-			"desc": 145.01,
+			"desc": "145.01",
 			"group": "TREVO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "POSTO QUATRO RODAS LTDA",
 			"name": "POSTO QUATRO RODAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO QUATRO RODAS LTDA"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 44.66096087104547,
-			"desc": 1104.47,
+			"desc": "1104.47",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "ATLANTICO TRANSPORTES E TURISMO LTDA",
 			"name": "ATLANTICO TRANSPORTES E TURISMO LTDA",
 			"val": 682.3005562100454,
-			"desc": 12530.2,
+			"desc": "12530.20",
 			"group": "ATLANTICO TRANSPORTES E TURISMO LTDA"
 		},
 		{

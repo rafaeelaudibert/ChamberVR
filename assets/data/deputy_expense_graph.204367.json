@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DANIEL FREITAS"
+			"name": "DANIEL FREITAS",
+			"desc": "70438.80"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 9.184097004628024,
-			"desc": 282.07000000000005,
+			"desc": "282.07",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 632.4410092572583,
-			"desc": 11699.589999999998,
+			"desc": "11699.59",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 238.08594606809928,
-			"desc": 4860.17,
+			"desc": "4860.17",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 57.54902798809745,
-			"desc": 1379.43,
+			"desc": "1379.43",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "POSTO ABASTECE COMERCIO DE DERIVADOS DE PETROLEO AGUAS CLARA",
 			"name": "POSTO ABASTECE COMERCIO DE DERIVADOS DE PETROLEO AGUAS CLARA",
 			"val": 5.42809995391977,
-			"desc": 180.95,
+			"desc": "180.95",
 			"group": "POSTO ABASTECE COMERCIO DE DERIVADOS DE PETROLEO AGUAS CLARA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "M R AUTO POSTO GOIANÃO LTDA",
 			"name": "M R AUTO POSTO GOIANÃO LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "M R AUTO POSTO GOIANÃO LTDA"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 16.444533059551844,
-			"desc": 464.1,
+			"desc": "464.10",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 16.76671300500204,
-			"desc": 471.90999999999997,
+			"desc": "471.91",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.544637312116405,
-			"desc": 64.28999999999999,
+			"desc": "64.29",
 			"group": "RAMAL"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "Metropolitan Empreendimentos Imobiliário",
 			"name": "Metropolitan Empreendimentos Imobiliário",
 			"val": 159.54593882194087,
-			"desc": 3400,
+			"desc": "3400.00",
 			"group": "Metropolitan Empreendimentos Imobiliário"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 223.88049388330396,
-			"desc": 4600,
+			"desc": "4600.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 23.048526147638132,
-			"desc": 621.02,
+			"desc": "621.02",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 6.732976762319149,
-			"desc": 216.89,
+			"desc": "216.89",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "mav - veículos e serviços ltda",
 			"name": "mav - veículos e serviços ltda",
 			"val": 58.52678222626104,
-			"desc": 1400,
+			"desc": "1400.00",
 			"group": "mav - veículos e serviços ltda"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "GO HOME STUDIO",
 			"name": "GO HOME STUDIO",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "GO HOME STUDIO"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "MEGA ESCRITÓRIO COMÉRCIO DE MÓVEIS EIRELI",
 			"name": "MEGA ESCRITÓRIO COMÉRCIO DE MÓVEIS EIRELI",
 			"val": 181.19520173086713,
-			"desc": 3808.25,
+			"desc": "3808.25",
 			"group": "MEGA ESCRITÓRIO COMÉRCIO DE MÓVEIS EIRELI"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.752729761824205,
-			"desc": 189.99,
+			"desc": "189.99",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "AUTO POSTO DARIO",
 			"name": "AUTO POSTO DARIO",
 			"val": 5.68141070935204,
-			"desc": 188.01,
+			"desc": "188.01",
 			"group": "AUTO POSTO DARIO"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.072035449297139,
-			"desc": 226.07,
+			"desc": "226.07",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "RODRIGO RIGGENBACH V. RIBEIRO 03059215928",
 			"name": "RODRIGO RIGGENBACH V. RIBEIRO 03059215928",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "RODRIGO RIGGENBACH V. RIBEIRO 03059215928"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 50.452358438509854,
-			"desc": 1228.96,
+			"desc": "1228.96",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "INNO INFORMATICA LTDA",
 			"name": "INNO INFORMATICA LTDA",
 			"val": 62.16188520393353,
-			"desc": 1476.16,
+			"desc": "1476.16",
 			"group": "INNO INFORMATICA LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "SIM REDE DE POSTO LTDA",
 			"name": "SIM REDE DE POSTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "SIM REDE DE POSTO LTDA"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "CONDOMINIO DO EDIFICIO METROPOLITAN BUSINESS CENTER",
 			"name": "CONDOMINIO DO EDIFICIO METROPOLITAN BUSINESS CENTER",
 			"val": 30.680796936941036,
-			"desc": 795.95,
+			"desc": "795.95",
 			"group": "CONDOMINIO DO EDIFICIO METROPOLITAN BUSINESS CENTER"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 4.68673515779195,
-			"desc": 160.02,
+			"desc": "160.02",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "MUNICIPIO DE CRICIUMA",
 			"name": "MUNICIPIO DE CRICIUMA",
 			"val": 3.564083098696309,
-			"desc": 127.41,
+			"desc": "127.41",
 			"group": "MUNICIPIO DE CRICIUMA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "Condomínio Edifpicio Metropolitan Business Center",
 			"name": "Condomínio Edifpicio Metropolitan Business Center",
 			"val": 14.4836177278842,
-			"desc": 416.15,
+			"desc": "416.15",
 			"group": "Condomínio Edifpicio Metropolitan Business Center"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "PREFEITURA MUNICIPAL DE CRICIÚMA",
 			"name": "PREFEITURA MUNICIPAL DE CRICIÚMA",
 			"val": 3.56070891332247,
-			"desc": 127.31,
+			"desc": "127.31",
 			"group": "PREFEITURA MUNICIPAL DE CRICIÚMA"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "LUIZ ANTONIO ROCHA CASAGRANDE 04172490980",
 			"name": "LUIZ ANTONIO ROCHA CASAGRANDE 04172490980",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "LUIZ ANTONIO ROCHA CASAGRANDE 04172490980"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 20.93022107802881,
-			"desc": 571.35,
+			"desc": "571.35",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "POTERE PUBLICIDADE E MARKETING LTDA",
 			"name": "POTERE PUBLICIDADE E MARKETING LTDA",
 			"val": 15.864806144190668,
-			"desc": 450,
+			"desc": "450.00",
 			"group": "POTERE PUBLICIDADE E MARKETING LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS SAO PEDRO EIRELI",
 			"name": "COMERCIO DE COMBUSTIVEIS SAO PEDRO EIRELI",
 			"val": 7.311182975094601,
-			"desc": 232.51,
+			"desc": "232.51",
 			"group": "COMERCIO DE COMBUSTIVEIS SAO PEDRO EIRELI"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "AUTO POSTO RINCAO LTDA",
 			"name": "AUTO POSTO RINCAO LTDA",
 			"val": 5.358412096521207,
-			"desc": 179,
+			"desc": "179.00",
 			"group": "AUTO POSTO RINCAO LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 2.929263198393361,
-			"desc": 108.34,
+			"desc": "108.34",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "POSTO FERA COMERCIO DE COMBUSTIVEIS EIRELI",
 			"name": "POSTO FERA COMERCIO DE COMBUSTIVEIS EIRELI",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "POSTO FERA COMERCIO DE COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "LIVRARIA DOMEK EIRELI-EPP",
 			"name": "LIVRARIA DOMEK EIRELI-EPP",
 			"val": 1.7056035333330901,
-			"desc": 69.65,
+			"desc": "69.65",
 			"group": "LIVRARIA DOMEK EIRELI-EPP"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"name": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"val": 110.84211518622976,
-			"desc": 2460,
+			"desc": "2460.00",
 			"group": "NOVITTA RENT A CAR TRANSPORTE LTDA ME"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "LR COMERCIO DE PRODUTOS E DERIVADOS DE PETROLEO LTDA",
 			"name": "LR COMERCIO DE PRODUTOS E DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "LR COMERCIO DE PRODUTOS E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "MEGA ESCRITORIO COMERCIO DE MOVEIS EIRELI",
 			"name": "MEGA ESCRITORIO COMERCIO DE MOVEIS EIRELI",
 			"val": 181.19520173086713,
-			"desc": 3808.25,
+			"desc": "3808.25",
 			"group": "MEGA ESCRITORIO COMERCIO DE MOVEIS EIRELI"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
 			"val": 223.88049388330396,
-			"desc": 4600,
+			"desc": "4600.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI"
 		},
 		{

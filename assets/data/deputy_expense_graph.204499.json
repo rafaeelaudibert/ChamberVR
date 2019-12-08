@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CÁSSIO ANDRADE"
+			"name": "CÁSSIO ANDRADE",
+			"desc": "67542.75"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Associação dos Empreendedores do Cond. Rogélio Fernandez Business Center",
 			"name": "Associação dos Empreendedores do Cond. Rogélio Fernandez Business Center",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "Associação dos Empreendedores do Cond. Rogélio Fernandez Business Center"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 93.86463334457915,
-			"desc": 2123.24,
+			"desc": "2123.24",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "POSTO ICCAR LTDA",
 			"name": "POSTO ICCAR LTDA",
 			"val": 529.3582405732375,
-			"desc": 9963.500000000005,
+			"desc": "9963.50",
 			"group": "POSTO ICCAR LTDA"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 392.7072949047796,
-			"desc": 7613.9,
+			"desc": "7613.90",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "DUARTE E SANTOS LTDA",
 			"name": "DUARTE E SANTOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DUARTE E SANTOS LTDA"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "UNICA IMPRRESSAO DIGITAL E GRAFICA EIRELI",
 			"name": "UNICA IMPRRESSAO DIGITAL E GRAFICA EIRELI",
 			"val": 1024.0040303645142,
-			"desc": 18100,
+			"desc": "18100.00",
 			"group": "UNICA IMPRRESSAO DIGITAL E GRAFICA EIRELI"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"val": 229.29966517938504,
-			"desc": 4699.43,
+			"desc": "4699.43",
 			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 70.30715287514707,
-			"desc": 1645.15,
+			"desc": "1645.15",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "Connecta Comercio de Informática e Tele LTDA",
 			"name": "Connecta Comercio de Informática e Tele LTDA",
 			"val": 20.07997128368097,
-			"desc": 551.25,
+			"desc": "551.25",
 			"group": "Connecta Comercio de Informática e Tele LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 8.802209289687532,
-			"desc": 272.08000000000004,
+			"desc": "272.08",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "IRMAOS TEIXEIRA LTDA",
 			"name": "IRMAOS TEIXEIRA LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "IRMAOS TEIXEIRA LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "JP DE CARVALHO DERIVADOS DE PETROLEO LTDA",
 			"name": "JP DE CARVALHO DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JP DE CARVALHO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "IRMÃOS TEIXEIRA LTDA.",
 			"name": "IRMÃOS TEIXEIRA LTDA.",
 			"val": 5.804312095599438,
-			"desc": 191.42,
+			"desc": "191.42",
 			"group": "IRMÃOS TEIXEIRA LTDA."
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.1421785588118043,
-			"desc": 83.82,
+			"desc": "83.82",
 			"group": "RAMAL"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "POSTO EXEMPLO LTDA",
 			"name": "POSTO EXEMPLO LTDA",
 			"val": 4.019155576888311,
-			"desc": 140.78,
+			"desc": "140.78",
 			"group": "POSTO EXEMPLO LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "ALMEIDA E COELHO ADVOGADOS ASSOCIADOS SOCIEDADE SIMPLES",
 			"name": "ALMEIDA E COELHO ADVOGADOS ASSOCIADOS SOCIEDADE SIMPLES",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "ALMEIDA E COELHO ADVOGADOS ASSOCIADOS SOCIEDADE SIMPLES"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 25.436894620979366,
-			"desc": 676.39,
+			"desc": "676.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 10.13770086118578,
-			"desc": 306.79,
+			"desc": "306.79",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "Estacionamento Belem EIRELI",
 			"name": "Estacionamento Belem EIRELI",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "Estacionamento Belem EIRELI"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{

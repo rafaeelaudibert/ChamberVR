@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROBÉRIO MONTEIRO"
+			"name": "ROBÉRIO MONTEIRO",
+			"desc": "72673.78"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 643.5929832488305,
-			"desc": 11885.85,
+			"desc": "11885.85",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -180,7 +181,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 341.43898636876133,
-			"desc": 6714.3499999999985,
+			"desc": "6714.35",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.453525815692913,
-			"desc": 236.32999999999998,
+			"desc": "236.33",
 			"group": "RAMAL"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 16.53892264979887,
-			"desc": 466.39,
+			"desc": "466.39",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.5577344508012018,
-			"desc": 28.769999999999996,
+			"desc": "28.77",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 20.505845988243443,
-			"desc": 561.3299999999999,
+			"desc": "561.33",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "FRANCA E ELIANO ADVOGADOS ASSOCIADOS",
 			"name": "FRANCA E ELIANO ADVOGADOS ASSOCIADOS",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "FRANCA E ELIANO ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "BAJ -COMERCIAL VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "BAJ -COMERCIAL VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 11.965158738409325,
-			"desc": 353.37,
+			"desc": "353.37",
 			"group": "BAJ -COMERCIAL VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "DOM LUIS COM DER DE PETROLEO LTDA",
 			"name": "DOM LUIS COM DER DE PETROLEO LTDA",
 			"val": 41.53440688336435,
-			"desc": 1036.54,
+			"desc": "1036.54",
 			"group": "DOM LUIS COM DER DE PETROLEO LTDA"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "MMA COMERCIO DE COMBUSTÍVEL E LUB DERIV",
 			"name": "MMA COMERCIO DE COMBUSTÍVEL E LUB DERIV",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "MMA COMERCIO DE COMBUSTÍVEL E LUB DERIV"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 12.538710507404554,
-			"desc": 367.79999999999995,
+			"desc": "367.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "POSTO ECO",
 			"name": "POSTO ECO",
 			"val": 39.233030045474386,
-			"desc": 986.1800000000001,
+			"desc": "986.18",
 			"group": "POSTO ECO"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 6.202762764298098,
-			"desc": 202.41,
+			"desc": "202.41",
 			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 2.469324468851138,
-			"desc": 94.15,
+			"desc": "94.15",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 14.340881219852896,
-			"desc": 412.63,
+			"desc": "412.63",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.996302620553701,
-			"desc": 110.38,
+			"desc": "110.38",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "SUPER COMERCIO DE COMB. DE SÃO GONÇALO LTDA",
 			"name": "SUPER COMERCIO DE COMB. DE SÃO GONÇALO LTDA",
 			"val": 7.719032060696225,
-			"desc": 243.43,
+			"desc": "243.43",
 			"group": "SUPER COMERCIO DE COMB. DE SÃO GONÇALO LTDA"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA.",
 			"name": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA.",
 			"val": 37.94940592501358,
-			"desc": 957.95,
+			"desc": "957.95",
 			"group": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA."
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "PETROCAR COMERCIO DE PETROLEO LTDA",
 			"name": "PETROCAR COMERCIO DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PETROCAR COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "PONTES E LANDIM COMBUSTIVEIS LTDA - EPP",
 			"name": "PONTES E LANDIM COMBUSTIVEIS LTDA - EPP",
 			"val": 7.218222375526998,
-			"desc": 230.01,
+			"desc": "230.01",
 			"group": "PONTES E LANDIM COMBUSTIVEIS LTDA - EPP"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "ABOLICAO RENT A CAR EIRELI",
 			"name": "ABOLICAO RENT A CAR EIRELI",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "ABOLICAO RENT A CAR EIRELI"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 52.38637538607069,
-			"desc": 1270.18,
+			"desc": "1270.18",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 5.039094010240687,
-			"desc": 170.02,
+			"desc": "170.02",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "POSTO CAMPEAO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "POSTO CAMPEAO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 7.804548416996109,
-			"desc": 245.71,
+			"desc": "245.71",
 			"group": "POSTO CAMPEAO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA",
 			"name": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "ANTÔNIO RODRIGUES BARROS FILHO ME",
 			"name": "ANTÔNIO RODRIGUES BARROS FILHO ME",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "ANTÔNIO RODRIGUES BARROS FILHO ME"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ZÉ VITOR"
+			"name": "ZÉ VITOR",
+			"desc": "129860.86"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA",
 			"name": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA",
 			"val": 9.54645251735178,
-			"desc": 291.5,
+			"desc": "291.50",
 			"group": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cidade Positiva Assessoria Publicitaria LTDA",
 			"name": "Cidade Positiva Assessoria Publicitaria LTDA",
 			"val": 3121.9280948873625,
-			"desc": 50000,
+			"desc": "50000.00",
 			"group": "Cidade Positiva Assessoria Publicitaria LTDA"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 43.01380471242417,
-			"desc": 1068.75,
+			"desc": "1068.75",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 199.10232170782237,
-			"desc": 4142.36,
+			"desc": "4142.36",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -153,7 +154,7 @@
 			"id": "JN PAPELARIA E INFORMATICA LTDA ME",
 			"name": "JN PAPELARIA E INFORMATICA LTDA ME",
 			"val": 110.83703234290272,
-			"desc": 2459.9,
+			"desc": "2459.90",
 			"group": "JN PAPELARIA E INFORMATICA LTDA ME"
 		},
 		{
@@ -202,7 +203,7 @@
 			"id": "ANDRADE E URIAS LTDA",
 			"name": "ANDRADE E URIAS LTDA",
 			"val": 44.54453499161766,
-			"desc": 1101.9499999999998,
+			"desc": "1101.95",
 			"group": "ANDRADE E URIAS LTDA"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "CARILLI DIAS COMERCIO DE COMBISTIVEIS LTDA",
 			"name": "CARILLI DIAS COMERCIO DE COMBISTIVEIS LTDA",
 			"val": 89.6288587702038,
-			"desc": 2038.29,
+			"desc": "2038.29",
 			"group": "CARILLI DIAS COMERCIO DE COMBISTIVEIS LTDA"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "AUTO POSTO JL LTDA",
 			"name": "AUTO POSTO JL LTDA",
 			"val": 5.21584777828263,
-			"desc": 175,
+			"desc": "175.00",
 			"group": "AUTO POSTO JL LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "Loc Certo Locação de Veículos LTDA ME",
 			"name": "Loc Certo Locação de Veículos LTDA ME",
 			"val": 856.895592196929,
-			"desc": 15400,
+			"desc": "15400.00",
 			"group": "Loc Certo Locação de Veículos LTDA ME"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 23.627020899647693,
-			"desc": 634.49,
+			"desc": "634.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "MACEDO & SOUZA LTDA",
 			"name": "MACEDO & SOUZA LTDA",
 			"val": 9.47099105927031,
-			"desc": 289.53999999999996,
+			"desc": "289.54",
 			"group": "MACEDO & SOUZA LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.364682875166029,
-			"desc": 338.17,
+			"desc": "338.17",
 			"group": "RAMAL"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "Valdir Dias Advogados Associados",
 			"name": "Valdir Dias Advogados Associados",
 			"val": 668.4494381996071,
-			"desc": 12300,
+			"desc": "12300.00",
 			"group": "Valdir Dias Advogados Associados"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "CARILLI DIAS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "CARILLI DIAS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 871.3398696122905,
-			"desc": 15635.03,
+			"desc": "15635.03",
 			"group": "CARILLI DIAS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 50.444398482611206,
-			"desc": 1228.79,
+			"desc": "1228.79",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "Carrefour Comercio e Industria Ltda",
 			"name": "Carrefour Comercio e Industria Ltda",
 			"val": 10.240627027637691,
-			"desc": 309.44,
+			"desc": "309.44",
 			"group": "Carrefour Comercio e Industria Ltda"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "ORLANDO PEREIRA DE FARIA",
 			"name": "ORLANDO PEREIRA DE FARIA",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "ORLANDO PEREIRA DE FARIA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 276.61551327755126,
-			"desc": 5558.75,
+			"desc": "5558.75",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "POSTO L.F.FRANCO LTDA",
 			"name": "POSTO L.F.FRANCO LTDA",
 			"val": 2.911882203236331,
-			"desc": 107.81,
+			"desc": "107.81",
 			"group": "POSTO L.F.FRANCO LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.10406855533914497,
-			"desc": 8.45,
+			"desc": "8.45",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 90.10403671124214,
-			"desc": 2047.84,
+			"desc": "2047.84",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "Petroraça Combustiveis LTDA",
 			"name": "Petroraça Combustiveis LTDA",
 			"val": 7.5685541381335195,
-			"desc": 239.41,
+			"desc": "239.41",
 			"group": "Petroraça Combustiveis LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.498445816672421,
-			"desc": 26.39,
+			"desc": "26.39",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "POSTO ARAGUAIA II LTDA",
 			"name": "POSTO ARAGUAIA II LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO ARAGUAIA II LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "BICUDO CENTER LTDA",
 			"name": "BICUDO CENTER LTDA",
 			"val": 4.932667525073745,
-			"desc": 167.01,
+			"desc": "167.01",
 			"group": "BICUDO CENTER LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.230141496027902,
-			"desc": 14.8,
+			"desc": "14.80",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "JN PAPELARIA E INFORMATICA LTDA",
 			"name": "JN PAPELARIA E INFORMATICA LTDA",
 			"val": 15.823786655995098,
-			"desc": 449,
+			"desc": "449.00",
 			"group": "JN PAPELARIA E INFORMATICA LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "ALTO UMUARAMA COMBUSTIVEIS LTDA",
 			"name": "ALTO UMUARAMA COMBUSTIVEIS LTDA",
 			"val": 6.938809926893603,
-			"desc": 222.47,
+			"desc": "222.47",
 			"group": "ALTO UMUARAMA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 30.674149481088453,
-			"desc": 795.8,
+			"desc": "795.80",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "AUTO POSTO GRAVATÁS LTDA",
 			"name": "AUTO POSTO GRAVATÁS LTDA",
 			"val": 7.741899409561485,
-			"desc": 244.04,
+			"desc": "244.04",
 			"group": "AUTO POSTO GRAVATÁS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.0132710064245882,
-			"desc": 45.89,
+			"desc": "45.89",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 3.3149735048711872,
-			"desc": 119.99,
+			"desc": "119.99",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{

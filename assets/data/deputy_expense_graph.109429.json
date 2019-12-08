@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BENES LEOCÁDIO"
+			"name": "BENES LEOCÁDIO",
+			"desc": "58941.97"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 12.234229367908897,
-			"desc": 360.1499999999999,
+			"desc": "360.15",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -96,7 +97,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.6983443113728756,
-			"desc": 101.26,
+			"desc": "101.26",
 			"group": "RAMAL"
 		},
 		{
@@ -121,7 +122,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 557.3441065328485,
-			"desc": 10437.55,
+			"desc": "10437.55",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "POSTO CAMPO BELO LTDA",
 			"name": "POSTO CAMPO BELO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO CAMPO BELO LTDA"
 		},
 		{
@@ -219,7 +220,7 @@
 			"id": "COSERN",
 			"name": "COSERN",
 			"val": 18.361423494892367,
-			"desc": 510.31,
+			"desc": "510.31",
 			"group": "COSERN"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 46.56165648634528,
-			"desc": 1145.51,
+			"desc": "1145.51",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -317,7 +318,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 18.748944724581335,
-			"desc": 519.58,
+			"desc": "519.58",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -348,7 +349,7 @@
 			"id": "DALETH VEICULOS LTDA EPP",
 			"name": "DALETH VEICULOS LTDA EPP",
 			"val": 704.6023057722158,
-			"desc": 12900,
+			"desc": "12900.00",
 			"group": "DALETH VEICULOS LTDA EPP"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "FAMA COMERCIO E SERVICO LTDA",
 			"name": "FAMA COMERCIO E SERVICO LTDA",
 			"val": 7.816185094709075,
-			"desc": 246.02,
+			"desc": "246.02",
 			"group": "FAMA COMERCIO E SERVICO LTDA"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 171.05248348901588,
-			"desc": 3617.6099999999997,
+			"desc": "3617.61",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "J R HOTEL LTDA",
 			"name": "J R HOTEL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "J R HOTEL LTDA"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "PREFEITURA MUNICIPAL DO NATAL",
 			"name": "PREFEITURA MUNICIPAL DO NATAL",
 			"val": 29.47500176746135,
-			"desc": 768.6800000000001,
+			"desc": "768.68",
 			"group": "PREFEITURA MUNICIPAL DO NATAL"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "CIRNE PNEUS COMERCIO E SERVICO LTDA",
 			"name": "CIRNE PNEUS COMERCIO E SERVICO LTDA",
 			"val": 17.727285615559325,
-			"desc": 495.09,
+			"desc": "495.09",
 			"group": "CIRNE PNEUS COMERCIO E SERVICO LTDA"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "POSTO ESTRELA DA BR 101 LTDA",
 			"name": "POSTO ESTRELA DA BR 101 LTDA",
 			"val": 17.108267835505195,
-			"desc": 480.16999999999996,
+			"desc": "480.17",
 			"group": "POSTO ESTRELA DA BR 101 LTDA"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "Claudio Manoel de Amorim Santos",
 			"name": "Claudio Manoel de Amorim Santos",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "Claudio Manoel de Amorim Santos"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "G3 Auto Posto Ltda Epp",
 			"name": "G3 Auto Posto Ltda Epp",
 			"val": 3.9800575144251353,
-			"desc": 139.64,
+			"desc": "139.64",
 			"group": "G3 Auto Posto Ltda Epp"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "JVC COMERCIAL LTDA POSTO NATAL",
 			"name": "JVC COMERCIAL LTDA POSTO NATAL",
 			"val": 4.338678687269308,
-			"desc": 150.04,
+			"desc": "150.04",
 			"group": "JVC COMERCIAL LTDA POSTO NATAL"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.9491599247760325,
-			"desc": 222.75,
+			"desc": "222.75",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "TRANSPORTES E COMERCIO NOVO HORIZONTE LTDA",
 			"name": "TRANSPORTES E COMERCIO NOVO HORIZONTE LTDA",
 			"val": 12.990942231043354,
-			"desc": 379.12,
+			"desc": "379.12",
 			"group": "TRANSPORTES E COMERCIO NOVO HORIZONTE LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 3.8559209940770285,
-			"desc": 136.01,
+			"desc": "136.01",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"name": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 3.3560891315828667,
-			"desc": 121.22,
+			"desc": "121.22",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "POSTO PLANALTO LTDA",
 			"name": "POSTO PLANALTO LTDA",
 			"val": 5.20695490311743,
-			"desc": 174.75,
+			"desc": "174.75",
 			"group": "POSTO PLANALTO LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.248139557805265,
-			"desc": 360.5,
+			"desc": "360.50",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 0.9478985045860941,
-			"desc": 43.53,
+			"desc": "43.53",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "Telefônica Brasil S/A VIVO",
 			"name": "Telefônica Brasil S/A VIVO",
 			"val": 3.7384580200541526,
-			"desc": 132.56,
+			"desc": "132.56",
 			"group": "Telefônica Brasil S/A VIVO"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "MUNICIPIO DE NATAL",
 			"name": "MUNICIPIO DE NATAL",
 			"val": 14.348581336208854,
-			"desc": 412.82,
+			"desc": "412.82",
 			"group": "MUNICIPIO DE NATAL"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 12.847308435078574,
-			"desc": 375.53,
+			"desc": "375.53",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "P. PARREIRA DO NASCIMENTO FILHO ME",
 			"name": "P. PARREIRA DO NASCIMENTO FILHO ME",
 			"val": 1.4088385754989334,
-			"desc": 59.7,
+			"desc": "59.70",
 			"group": "P. PARREIRA DO NASCIMENTO FILHO ME"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 5.597998148301679,
-			"desc": 185.69,
+			"desc": "185.69",
 			"group": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "L A COMERCIAL DE PETROLEO LTDA EPP",
 			"name": "L A COMERCIAL DE PETROLEO LTDA EPP",
 			"val": 5.018916387267197,
-			"desc": 169.45,
+			"desc": "169.45",
 			"group": "L A COMERCIAL DE PETROLEO LTDA EPP"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 12.676327115296871,
-			"desc": 371.25,
+			"desc": "371.25",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "ATLANTICA PETROLEO LTDA",
 			"name": "ATLANTICA PETROLEO LTDA",
 			"val": 5.573940213140641,
-			"desc": 185.02,
+			"desc": "185.02",
 			"group": "ATLANTICA PETROLEO LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "ACARTA COMUNICAÇÃO LTDA",
 			"name": "ACARTA COMUNICAÇÃO LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "ACARTA COMUNICAÇÃO LTDA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "ALTO POSTO PASSA E FICA EIRELI",
 			"name": "ALTO POSTO PASSA E FICA EIRELI",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "ALTO POSTO PASSA E FICA EIRELI"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "MD COMÉRCIO DE COMBUSTÍVEL PLANALTO LTDA",
 			"name": "MD COMÉRCIO DE COMBUSTÍVEL PLANALTO LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "MD COMÉRCIO DE COMBUSTÍVEL PLANALTO LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "CASA NORTE LTDA",
 			"name": "CASA NORTE LTDA",
 			"val": 1.5476174476870275,
-			"desc": 64.39,
+			"desc": "64.39",
 			"group": "CASA NORTE LTDA"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "POSTO SAO LUIZ LTDA",
 			"name": "POSTO SAO LUIZ LTDA",
 			"val": 4.484354222780284,
-			"desc": 154.23,
+			"desc": "154.23",
 			"group": "POSTO SAO LUIZ LTDA"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "STILO COMERCIO DE PAPELARIA E INFORMATICA EIRELI",
 			"name": "STILO COMERCIO DE PAPELARIA E INFORMATICA EIRELI",
 			"val": 1.0442627041153958,
-			"desc": 47,
+			"desc": "47.00",
 			"group": "STILO COMERCIO DE PAPELARIA E INFORMATICA EIRELI"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 31.51922691793955,
-			"desc": 814.84,
+			"desc": "814.84",
 			"group": "AVIANCA BRASIL"
 		},
 		{

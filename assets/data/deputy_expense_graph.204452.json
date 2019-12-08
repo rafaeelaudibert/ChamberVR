@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MÁRCIO LABRE"
+			"name": "MÁRCIO LABRE",
+			"desc": "83920.03"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 673.8238977236457,
-			"desc": 12389.369999999999,
+			"desc": "12389.37",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -204,7 +205,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1505.9447346198904,
-			"desc": 25699.659999999996,
+			"desc": "25699.66",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "POSTO DE COMBUSTÍVEIS MARECHAL ALENCASTRO LTDA",
 			"name": "POSTO DE COMBUSTÍVEIS MARECHAL ALENCASTRO LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "POSTO DE COMBUSTÍVEIS MARECHAL ALENCASTRO LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 36.31765655517982,
-			"desc": 921.91,
+			"desc": "921.91",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "BALLARAMA COMUNICAÇÃO DIGITAL LTDA",
 			"name": "BALLARAMA COMUNICAÇÃO DIGITAL LTDA",
 			"val": 1374.8790108048574,
-			"desc": 23656,
+			"desc": "23656.00",
 			"group": "BALLARAMA COMUNICAÇÃO DIGITAL LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "POSTO DE GASOLINA MARIA DA GRAÇA",
 			"name": "POSTO DE GASOLINA MARIA DA GRAÇA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "POSTO DE GASOLINA MARIA DA GRAÇA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.884353834544092,
-			"desc": 41.21,
+			"desc": "41.21",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "POSTO BARRA LINDA LTDA",
 			"name": "POSTO BARRA LINDA LTDA",
 			"val": 8.76485960491936,
-			"desc": 271.1,
+			"desc": "271.10",
 			"group": "POSTO BARRA LINDA LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "AUTO POSTO DE GASOLINA E SERVICOS L & Z LTDA",
 			"name": "AUTO POSTO DE GASOLINA E SERVICOS L & Z LTDA",
 			"val": 8.585259002746643,
-			"desc": 266.38,
+			"desc": "266.38",
 			"group": "AUTO POSTO DE GASOLINA E SERVICOS L & Z LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"name": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"val": 15.288854448617856,
-			"desc": 435.93,
+			"desc": "435.93",
 			"group": "POSTO DE GASOLINA DAS AMERICAS LTDA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.62780846456308,
-			"desc": 99.08,
+			"desc": "99.08",
 			"group": "RAMAL"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 7.26988922218615,
-			"desc": 231.4,
+			"desc": "231.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "POSTO DE ABASTECIMENTO LIPE LTDA",
 			"name": "POSTO DE ABASTECIMENTO LIPE LTDA",
 			"val": 6.469711539105338,
-			"desc": 209.72,
+			"desc": "209.72",
 			"group": "POSTO DE ABASTECIMENTO LIPE LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"name": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"val": 4.262459516746619,
-			"desc": 147.84,
+			"desc": "147.84",
 			"group": "POSTO DE GASOLINA LORD BARRA SUL LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 25.604395697440378,
-			"desc": 680.25,
+			"desc": "680.25",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.2459352674864976,
-			"desc": 54.1,
+			"desc": "54.10",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 21.680203728944562,
-			"desc": 589,
+			"desc": "589.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "AUTO POSTO MEGAO RECREIO",
 			"name": "AUTO POSTO MEGAO RECREIO",
 			"val": 7.768526583562017,
-			"desc": 244.75,
+			"desc": "244.75",
 			"group": "AUTO POSTO MEGAO RECREIO"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "REMAN COMERCIO DE PETROLEO LTDA - EPP",
 			"name": "REMAN COMERCIO DE PETROLEO LTDA - EPP",
 			"val": 4.2520805689929695,
-			"desc": 147.54,
+			"desc": "147.54",
 			"group": "REMAN COMERCIO DE PETROLEO LTDA - EPP"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"name": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"val": 8.164810886682604,
-			"desc": 255.28,
+			"desc": "255.28",
 			"group": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 8.003806298859912,
-			"desc": 251.01,
+			"desc": "251.01",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "POSTO E GARAGEM TRES PASTORINHOS LTDA",
 			"name": "POSTO E GARAGEM TRES PASTORINHOS LTDA",
 			"val": 5.807199645754517,
-			"desc": 191.5,
+			"desc": "191.50",
 			"group": "POSTO E GARAGEM TRES PASTORINHOS LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "BALLARAMA COMUNICACAO DIGITAL LTDA",
 			"name": "BALLARAMA COMUNICACAO DIGITAL LTDA",
 			"val": 934.9991547642991,
-			"desc": 16667,
+			"desc": "16667.00",
 			"group": "BALLARAMA COMUNICACAO DIGITAL LTDA"
 		},
 		{

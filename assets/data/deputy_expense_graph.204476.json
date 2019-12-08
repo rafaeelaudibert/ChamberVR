@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CHIQUINHO BRAZÃO"
+			"name": "CHIQUINHO BRAZÃO",
+			"desc": "58782.07"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 500.1187517418263,
-			"desc": 9465.840000000002,
+			"desc": "9465.84",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 17.14677538840659,
-			"desc": 481.1,
+			"desc": "481.10",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "POSTO DE GASOLINA LEIROZ LTDA",
 			"name": "POSTO DE GASOLINA LEIROZ LTDA",
 			"val": 443.05029344711426,
-			"desc": 8486.890000000001,
+			"desc": "8486.89",
 			"group": "POSTO DE GASOLINA LEIROZ LTDA"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA",
 			"name": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA",
 			"val": 35.45570993110911,
-			"desc": 902.8,
+			"desc": "902.80",
 			"group": "POSTO DE ABASTECIMENTO SERVICOS E COM LINHA AMARELA LTDA"
 		},
 		{
@@ -183,7 +184,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 18.26500728352104,
-			"desc": 508,
+			"desc": "508.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 656.462630063517,
-			"desc": 12100.449999999997,
+			"desc": "12100.45",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.21195260666378463,
-			"desc": 13.94,
+			"desc": "13.94",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "POSTO BARRA LINDA LTDA",
 			"name": "POSTO BARRA LINDA LTDA",
 			"val": 22.282392080195013,
-			"desc": 603.12,
+			"desc": "603.12",
 			"group": "POSTO BARRA LINDA LTDA"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.6925998450358635,
-			"desc": 69.22,
+			"desc": "69.22",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 24.51447527558893,
-			"desc": 655.08,
+			"desc": "655.08",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.480332513835858,
-			"desc": 210.01,
+			"desc": "210.01",
 			"group": "JJS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 333.7745259543253,
-			"desc": 6578.85,
+			"desc": "6578.85",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "VENTURA COMERCIO E SERVICOS LTDA.",
 			"name": "VENTURA COMERCIO E SERVICOS LTDA.",
 			"val": 49.54954078188441,
-			"desc": 1209.66,
+			"desc": "1209.66",
 			"group": "VENTURA COMERCIO E SERVICOS LTDA."
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.188845482815484,
-			"desc": 145.70999999999998,
+			"desc": "145.71",
 			"group": "RAMAL"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "COELHO E SERRA LOCADORA DE VEICULO LTDA",
 			"name": "COELHO E SERRA LOCADORA DE VEICULO LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "COELHO E SERRA LOCADORA DE VEICULO LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 36.10048684439685,
-			"desc": 917.0999999999999,
+			"desc": "917.10",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
 			"name": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "POSTO MAP RECREIO LTDA",
 			"name": "POSTO MAP RECREIO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "POSTO MAP RECREIO LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "AUTO POSTO MARAMAR LTDA",
 			"name": "AUTO POSTO MARAMAR LTDA",
 			"val": 9.303787119714906,
-			"desc": 285.19,
+			"desc": "285.19",
 			"group": "AUTO POSTO MARAMAR LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "NOVO AUTO POSTO SANTA MONICA LTDA",
 			"name": "NOVO AUTO POSTO SANTA MONICA LTDA",
 			"val": 9.83629267117454,
-			"desc": 299.01,
+			"desc": "299.01",
 			"group": "NOVO AUTO POSTO SANTA MONICA LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"name": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"val": 10.851499565442213,
-			"desc": 325.1,
+			"desc": "325.10",
 			"group": "POSTO DE GASOLINA DAS AMERICAS LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 74.19142646121497,
-			"desc": 1725,
+			"desc": "1725.00",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{

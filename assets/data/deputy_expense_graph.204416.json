@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SANDERSON"
+			"name": "SANDERSON",
+			"desc": "58801.34"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Rafael Jungbluth Freitas",
 			"name": "Rafael Jungbluth Freitas",
 			"val": 151.13664414712497,
-			"desc": 3240,
+			"desc": "3240.00",
 			"group": "Rafael Jungbluth Freitas"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "GRAN COFFEE COMERCIO, LOCAÇÃO E SERVIÇOS S.A",
 			"name": "GRAN COFFEE COMERCIO, LOCAÇÃO E SERVIÇOS S.A",
 			"val": 18.766525051099187,
-			"desc": 520,
+			"desc": "520.00",
 			"group": "GRAN COFFEE COMERCIO, LOCAÇÃO E SERVIÇOS S.A"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 5.516903633883035,
-			"desc": 183.42999999999998,
+			"desc": "183.43",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 664.4936038744971,
-			"desc": 12234.179999999997,
+			"desc": "12234.18",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -177,7 +178,7 @@
 			"id": "MERIDIONAL LOGISTICA LTDA",
 			"name": "MERIDIONAL LOGISTICA LTDA",
 			"val": 6.651315340863442,
-			"desc": 214.67,
+			"desc": "214.67",
 			"group": "MERIDIONAL LOGISTICA LTDA"
 		},
 		{
@@ -190,7 +191,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 67.91282430759108,
-			"desc": 1595.6999999999998,
+			"desc": "1595.70",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -215,7 +216,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 8.027911601207762,
-			"desc": 251.65,
+			"desc": "251.65",
 			"group": "CLARO S/A"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 5.027764861860018,
-			"desc": 169.7,
+			"desc": "169.70",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -247,7 +248,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.369140867336913,
-			"desc": 121.61,
+			"desc": "121.61",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -266,7 +267,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 4.46623908714621,
-			"desc": 153.71,
+			"desc": "153.71",
 			"group": "CEEE"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 34.94622504028308,
-			"desc": 891.48,
+			"desc": "891.48",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC .BR",
 			"name": "NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC .BR",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC .BR"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "Crusade Serviços de Tecnologia da Informação Ltda",
 			"name": "Crusade Serviços de Tecnologia da Informação Ltda",
 			"val": 228.23972148689273,
-			"desc": 4680,
+			"desc": "4680.00",
 			"group": "Crusade Serviços de Tecnologia da Informação Ltda"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "L&P Com. e Locação de Equipamentos de Informática",
 			"name": "L&P Com. e Locação de Equipamentos de Informática",
 			"val": 28.42807443581089,
-			"desc": 744.9,
+			"desc": "744.90",
 			"group": "L&P Com. e Locação de Equipamentos de Informática"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 66.57063719873871,
-			"desc": 1567.9,
+			"desc": "1567.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "BERTELL HOTÉIS DE TURISMO LTDA",
 			"name": "BERTELL HOTÉIS DE TURISMO LTDA",
 			"val": 19.26964102274653,
-			"desc": 532,
+			"desc": "532.00",
 			"group": "BERTELL HOTÉIS DE TURISMO LTDA"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 168.9236533109124,
-			"desc": 3577.46,
+			"desc": "3577.46",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 13.270767801117762,
-			"desc": 386.09999999999997,
+			"desc": "386.10",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 4.026706962752919,
-			"desc": 141,
+			"desc": "141.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 9.085655600638688,
-			"desc": 279.5,
+			"desc": "279.50",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "EMPRESA JORNALISTICA J C JARROS LTDA",
 			"name": "EMPRESA JORNALISTICA J C JARROS LTDA",
 			"val": 9.56571508477186,
-			"desc": 292,
+			"desc": "292.00",
 			"group": "EMPRESA JORNALISTICA J C JARROS LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "Vzuvio Frutos do mar",
 			"name": "Vzuvio Frutos do mar",
 			"val": 3.293608740607213,
-			"desc": 119.35,
+			"desc": "119.35",
 			"group": "Vzuvio Frutos do mar"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.685381491574468,
-			"desc": 100.86,
+			"desc": "100.86",
 			"group": "RAMAL"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS LONDERO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS LONDERO LTDA",
 			"val": 6.811082164812157,
-			"desc": 219.01,
+			"desc": "219.01",
 			"group": "COMERCIAL DE COMBUSTIVEIS LONDERO LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "Raul Solon Silvero",
 			"name": "Raul Solon Silvero",
 			"val": 0.6056313695166603,
-			"desc": 30.66,
+			"desc": "30.66",
 			"group": "Raul Solon Silvero"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 239.72593001207014,
-			"desc": 4890.110000000001,
+			"desc": "4890.11",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
 			"name": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
 			"val": 338.02845508783986,
-			"desc": 6654.09,
+			"desc": "6654.09",
 			"group": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
 			"name": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
 			"val": 11.634024521298432,
-			"desc": 345,
+			"desc": "345.00",
 			"group": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 25.676902994105603,
-			"desc": 681.9200000000001,
+			"desc": "681.92",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS MARCHIORETTO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS MARCHIORETTO LTDA",
 			"val": 7.219336976554634,
-			"desc": 230.04,
+			"desc": "230.04",
 			"group": "COMERCIO DE COMBUSTIVEIS MARCHIORETTO LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "GRILL E ROSA LTDA EPP",
 			"name": "GRILL E ROSA LTDA EPP",
 			"val": 5.240402798877224,
-			"desc": 175.69,
+			"desc": "175.69",
 			"group": "GRILL E ROSA LTDA EPP"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"name": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"val": 5.285995508060149,
-			"desc": 176.97,
+			"desc": "176.97",
 			"group": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "POSTO 109 SUL DERIV DE PET LTDA",
 			"name": "POSTO 109 SUL DERIV DE PET LTDA",
 			"val": 5.538776225866003,
-			"desc": 184.04,
+			"desc": "184.04",
 			"group": "POSTO 109 SUL DERIV DE PET LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.329898923229561,
-			"desc": 57,
+			"desc": "57.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.7233604961439909,
-			"desc": 35.2,
+			"desc": "35.20",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "Adobe Systems Software",
 			"name": "Adobe Systems Software",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "Adobe Systems Software"
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "DIAS FAURI E CIA LTDA",
 			"name": "DIAS FAURI E CIA LTDA",
 			"val": 7.32942148681779,
-			"desc": 233,
+			"desc": "233.00",
 			"group": "DIAS FAURI E CIA LTDA"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "CURI S A HOTEIS E TURISMO",
 			"name": "CURI S A HOTEIS E TURISMO",
 			"val": 14.254593472139156,
-			"desc": 410.5,
+			"desc": "410.50",
 			"group": "CURI S A HOTEIS E TURISMO"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 45.331976926572814,
-			"desc": 1118.98,
+			"desc": "1118.98",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.18016050348877582,
-			"desc": 12.4,
+			"desc": "12.40",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -875,7 +876,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 18.469598264252152,
-			"desc": 512.9,
+			"desc": "512.90",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 5.23826695801342,
-			"desc": 175.63,
+			"desc": "175.63",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "RAFAEL JUNGBLUTH FREITAS",
 			"name": "RAFAEL JUNGBLUTH FREITAS",
 			"val": 343.45813824429,
-			"desc": 6750,
+			"desc": "6750.00",
 			"group": "RAFAEL JUNGBLUTH FREITAS"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "ABASTECEDORA DE COMBUST&Iacute;VEIS BELA VISTA LTDA.",
 			"name": "ABASTECEDORA DE COMBUST&Iacute;VEIS BELA VISTA LTDA.",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "ABASTECEDORA DE COMBUST&Iacute;VEIS BELA VISTA LTDA."
 		},
 		{
@@ -933,7 +934,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 102.74024694165198,
-			"desc": 2300,
+			"desc": "2300.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -946,7 +947,7 @@
 			"id": "LATAM AIRLINES GROUP S/A",
 			"name": "LATAM AIRLINES GROUP S/A",
 			"val": 35.599882877927556,
-			"desc": 906,
+			"desc": "906.00",
 			"group": "LATAM AIRLINES GROUP S/A"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DENIS BEZERRA"
+			"name": "DENIS BEZERRA",
+			"desc": "84261.98"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SJ ADMIMINSTRAÇÃO DE  IMOVEIS LTDA",
 			"name": "SJ ADMIMINSTRAÇÃO DE  IMOVEIS LTDA",
 			"val": 324.58944551543004,
-			"desc": 6416.09,
+			"desc": "6416.09",
 			"group": "SJ ADMIMINSTRAÇÃO DE  IMOVEIS LTDA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1439.1469153884054,
-			"desc": 24660.00999999999,
+			"desc": "24660.01",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -169,7 +170,7 @@
 			"id": "IGUATEMI DERIVADOS DE PETROLEO LTDA",
 			"name": "IGUATEMI DERIVADOS DE PETROLEO LTDA",
 			"val": 13.929061316452826,
-			"desc": 402.45,
+			"desc": "402.45",
 			"group": "IGUATEMI DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -188,7 +189,7 @@
 			"id": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 8.382649174272265,
-			"desc": 261.04,
+			"desc": "261.04",
 			"group": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -201,7 +202,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 152.91672970548285,
-			"desc": 3273.9399999999996,
+			"desc": "3273.94",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "CORPVS SEGURANÇA ELETRÔNICA LTDA",
 			"name": "CORPVS SEGURANÇA ELETRÔNICA LTDA",
 			"val": 18.244145944507252,
-			"desc": 507.5,
+			"desc": "507.50",
 			"group": "CORPVS SEGURANÇA ELETRÔNICA LTDA"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 15.703673659740064,
-			"desc": 446.07,
+			"desc": "446.07",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.265803823623499,
-			"desc": 204.14,
+			"desc": "204.14",
 			"group": "RAMAL"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "SAINT AND HER RENT A CAR",
 			"name": "SAINT AND HER RENT A CAR",
 			"val": 992.8714617122064,
-			"desc": 17600,
+			"desc": "17600.00",
 			"group": "SAINT AND HER RENT A CAR"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 1.9703225340328319,
-			"desc": 78.3,
+			"desc": "78.30",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 19.290218360422738,
-			"desc": 532.49,
+			"desc": "532.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "CAGECE",
 			"name": "CAGECE",
 			"val": 11.519172105816176,
-			"desc": 342.09,
+			"desc": "342.09",
 			"group": "CAGECE"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "POSTO PETROMINAS LTDA",
 			"name": "POSTO PETROMINAS LTDA",
 			"val": 7.405044246259553,
-			"desc": 235.03,
+			"desc": "235.03",
 			"group": "POSTO PETROMINAS LTDA"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 59.8624124674159,
-			"desc": 1428.04,
+			"desc": "1428.04",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 18.447038211052128,
-			"desc": 512.36,
+			"desc": "512.36",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.7325827825028979,
-			"desc": 35.55,
+			"desc": "35.55",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 9.488694544417323,
-			"desc": 290,
+			"desc": "290.00",
 			"group": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "SJ ADMINISTRACAO DE IMOVEIS LTDA",
 			"name": "SJ ADMINISTRACAO DE IMOVEIS LTDA",
 			"val": 10.444923023936353,
-			"desc": 314.69,
+			"desc": "314.69",
 			"group": "SJ ADMINISTRACAO DE IMOVEIS LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "TRIAD COMUNICACAO LTDA",
 			"name": "TRIAD COMUNICACAO LTDA",
 			"val": 38.04245988713671,
-			"desc": 960,
+			"desc": "960.00",
 			"group": "TRIAD COMUNICACAO LTDA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "A O M COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "A O M COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "A O M COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 8.622129325647139,
-			"desc": 267.35,
+			"desc": "267.35",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 8.434569989510994,
-			"desc": 262.41,
+			"desc": "262.41",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"name": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"val": 33.39460124732686,
-			"desc": 856.8899999999999,
+			"desc": "856.89",
 			"group": "COMPANHIA ENERGÉTICA DO CEARÁ"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 18.295469937696634,
-			"desc": 508.72999999999996,
+			"desc": "508.73",
 			"group": "CLARO S.A."
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "SAO PEDRO EMPREENDIMENTO DE PETROLEO LTDA",
 			"name": "SAO PEDRO EMPREENDIMENTO DE PETROLEO LTDA",
 			"val": 6.2610636852784385,
-			"desc": 204.01,
+			"desc": "204.01",
 			"group": "SAO PEDRO EMPREENDIMENTO DE PETROLEO LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "POSTO RABECA",
 			"name": "POSTO RABECA",
 			"val": 8.421301613584987,
-			"desc": 262.06,
+			"desc": "262.06",
 			"group": "POSTO RABECA"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.5484402411965275,
-			"desc": 28.4,
+			"desc": "28.40",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "Rafael e Dantas",
 			"name": "Rafael e Dantas",
 			"val": 22.699753379968797,
-			"desc": 612.88,
+			"desc": "612.88",
 			"group": "Rafael e Dantas"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "DISTRIBUIDORA DE PETROLEO NOTA DEZ LTDA",
 			"name": "DISTRIBUIDORA DE PETROLEO NOTA DEZ LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "DISTRIBUIDORA DE PETROLEO NOTA DEZ LTDA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 88.04895562770024,
-			"desc": 2006.5,
+			"desc": "2006.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "ITASUN ADMINSTRACAO DE CONDOMINIOS LTDA",
 			"name": "ITASUN ADMINSTRACAO DE CONDOMINIOS LTDA",
 			"val": 22.063812004681864,
-			"desc": 598,
+			"desc": "598.00",
 			"group": "ITASUN ADMINSTRACAO DE CONDOMINIOS LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "SOBRAL E PALACIO PETROLEO LTDA",
 			"name": "SOBRAL E PALACIO PETROLEO LTDA",
 			"val": 8.984292692073497,
-			"desc": 276.85,
+			"desc": "276.85",
 			"group": "SOBRAL E PALACIO PETROLEO LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 6.334041603622347,
-			"desc": 206.01,
+			"desc": "206.01",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "SAINT AND HER LOCACAO DE VEICULOS EIRELI",
 			"name": "SAINT AND HER LOCACAO DE VEICULOS EIRELI",
 			"val": 461.2357308561032,
-			"desc": 8800,
+			"desc": "8800.00",
 			"group": "SAINT AND HER LOCACAO DE VEICULOS EIRELI"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "COMERCIAL DAAL DESENHO ARTE E ARQUITETUR",
 			"name": "COMERCIAL DAAL DESENHO ARTE E ARQUITETUR",
 			"val": 1.479599906651947,
-			"desc": 62.1,
+			"desc": "62.10",
 			"group": "COMERCIAL DAAL DESENHO ARTE E ARQUITETUR"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "ART FACIL GRAFICA DIGITAL",
 			"name": "ART FACIL GRAFICA DIGITAL",
 			"val": 243.55830820064088,
-			"desc": 4960,
+			"desc": "4960.00",
 			"group": "ART FACIL GRAFICA DIGITAL"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "Imagem Brasil Comunicação Visual e Projetos SS ME",
 			"name": "Imagem Brasil Comunicação Visual e Projetos SS ME",
 			"val": 262.281664859964,
-			"desc": 5300,
+			"desc": "5300.00",
 			"group": "Imagem Brasil Comunicação Visual e Projetos SS ME"
 		},
 		{

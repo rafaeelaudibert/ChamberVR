@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LEONARDO MONTEIRO"
+			"name": "LEONARDO MONTEIRO",
+			"desc": "90077.22"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 91.66371999308689,
-			"desc": 2079.15,
+			"desc": "2079.15",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 1128.1214992030036,
-			"desc": 19763.139999999992,
+			"desc": "19763.14",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -193,7 +194,7 @@
 			"id": "AUTO POSTO BRASIL GV LTDA",
 			"name": "AUTO POSTO BRASIL GV LTDA",
 			"val": 303.3512199874487,
-			"desc": 6038.1,
+			"desc": "6038.10",
 			"group": "AUTO POSTO BRASIL GV LTDA"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 123.274409314054,
-			"desc": 2703.27,
+			"desc": "2703.27",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.7683390192891396,
-			"desc": 36.9,
+			"desc": "36.90",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -292,7 +293,7 @@
 			"id": "yelloy aluguel de carros",
 			"name": "yelloy aluguel de carros",
 			"val": 698.565436916466,
-			"desc": 12800,
+			"desc": "12800.00",
 			"group": "yelloy aluguel de carros"
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
 			"name": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
 			"val": 2.379971813794642,
-			"desc": 91.35,
+			"desc": "91.35",
 			"group": "SERVIÇO AUTONOMO DE AGUA E ESGOTO"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "Adilson Monteiro",
 			"name": "Adilson Monteiro",
 			"val": 438.0154333817971,
-			"desc": 8400,
+			"desc": "8400.00",
 			"group": "Adilson Monteiro"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "VRP COMUNICACAO EIRELI",
 			"name": "VRP COMUNICACAO EIRELI",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "VRP COMUNICACAO EIRELI"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 3.07776374138864,
-			"desc": 112.85000000000001,
+			"desc": "112.85",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 21.04729370933364,
-			"desc": 574.1099999999999,
+			"desc": "574.11",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA",
 			"name": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "MSGV COMERCIO E SERVICOS REPROGRAFICOS LTDA"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "DIARIO DO RIO DOCE LTDA -EPP",
 			"name": "DIARIO DO RIO DOCE LTDA -EPP",
 			"val": 60.43307383485892,
-			"desc": 1440,
+			"desc": "1440.00",
 			"group": "DIARIO DO RIO DOCE LTDA -EPP"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "TIM S.A",
 			"name": "TIM S.A",
 			"val": 41.22922942391358,
-			"desc": 1029.88,
+			"desc": "1029.88",
 			"group": "TIM S.A"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 30.1610184535374,
-			"desc": 784.21,
+			"desc": "784.21",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.067786435653504,
-			"desc": 170.83,
+			"desc": "170.83",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 13.639897156951754,
-			"desc": 395.28,
+			"desc": "395.28",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "POSTO DM LTDA",
 			"name": "POSTO DM LTDA",
 			"val": 14.692760158883328,
-			"desc": 421.3,
+			"desc": "421.30",
 			"group": "POSTO DM LTDA"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "COMERCIAL OLIVEIRA BARROS LTDA",
 			"name": "COMERCIAL OLIVEIRA BARROS LTDA",
 			"val": 6.81808797674255,
-			"desc": 219.2,
+			"desc": "219.20",
 			"group": "COMERCIAL OLIVEIRA BARROS LTDA"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 7.966913312568141,
-			"desc": 250.03,
+			"desc": "250.03",
 			"group": "TIM S/A"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.04795014384051631,
-			"desc": 5.1,
+			"desc": "5.10",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.2446748353053545,
-			"desc": 175.81,
+			"desc": "175.81",
 			"group": "RAMAL"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
 			"name": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
 			"val": 1525.2872962915308,
-			"desc": 26000,
+			"desc": "26000.00",
 			"group": "LIBRE COMUNICAÇÃO E MARKETING EIRELI"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "Sisnetti Integradora De Soluções Ltda -",
 			"name": "Sisnetti Integradora De Soluções Ltda -",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "Sisnetti Integradora De Soluções Ltda -"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "PREFEITURA DE GOVERNADOR VALADARES",
 			"name": "PREFEITURA DE GOVERNADOR VALADARES",
 			"val": 15.245160460589418,
-			"desc": 434.86,
+			"desc": "434.86",
 			"group": "PREFEITURA DE GOVERNADOR VALADARES"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "POLICIAL KATIA SASTRE"
+			"name": "POLICIAL KATIA SASTRE",
+			"desc": "39205.55"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "MCA ADMINISTRAÇÃO E SERVIÇOS IMOBILIÁRIOS",
 			"name": "MCA ADMINISTRAÇÃO E SERVIÇOS IMOBILIÁRIOS",
 			"val": 192.92802555359822,
-			"desc": 4027.5,
+			"desc": "4027.50",
 			"group": "MCA ADMINISTRAÇÃO E SERVIÇOS IMOBILIÁRIOS"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"name": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"val": 1.4117760001711297,
-			"desc": 59.8,
+			"desc": "59.80",
 			"group": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A"
 		},
 		{
@@ -121,7 +122,7 @@
 			"id": "AUTO POSTO A J 12 LTDA",
 			"name": "AUTO POSTO A J 12 LTDA",
 			"val": 2.037311514204735,
-			"desc": 80.46,
+			"desc": "80.46",
 			"group": "AUTO POSTO A J 12 LTDA"
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.14441407605025547,
-			"desc": 10.6,
+			"desc": "10.60",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -153,7 +154,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -166,7 +167,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 24.7980095474772,
-			"desc": 661.64,
+			"desc": "661.64",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 73.78227765665831,
-			"desc": 1716.61,
+			"desc": "1716.61",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 231.5143286781754,
-			"desc": 4740,
+			"desc": "4740.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 3.0949534363903153,
-			"desc": 113.37,
+			"desc": "113.37",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 1.2950495260214154,
-			"desc": 55.800000000000004,
+			"desc": "55.80",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 6.32089727740287,
-			"desc": 205.65,
+			"desc": "205.65",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 547.8741744557453,
-			"desc": 10277.38,
+			"desc": "10277.38",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "SP PÁTIO COMÉRCIO DE ALIMENTOS LTDA. EPP",
 			"name": "SP PÁTIO COMÉRCIO DE ALIMENTOS LTDA. EPP",
 			"val": 0.501159568183699,
-			"desc": 26.5,
+			"desc": "26.50",
 			"group": "SP PÁTIO COMÉRCIO DE ALIMENTOS LTDA. EPP"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 6.705741651886984,
-			"desc": 216.14999999999998,
+			"desc": "216.15",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 24.81055252749803,
-			"desc": 661.9300000000001,
+			"desc": "661.93",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 49.215059869342106,
-			"desc": 1202.5,
+			"desc": "1202.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 86.84523231038155,
-			"desc": 1982.2399999999998,
+			"desc": "1982.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "SUB T1 LANCHONETE LTDA",
 			"name": "SUB T1 LANCHONETE LTDA",
 			"val": 0.6143203424879725,
-			"desc": 31,
+			"desc": "31.00",
 			"group": "SUB T1 LANCHONETE LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "AUTOVIAS S/A",
 			"name": "AUTOVIAS S/A",
 			"val": 0.08374257674858553,
-			"desc": 7.3,
+			"desc": "7.30",
 			"group": "AUTOVIAS S/A"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.992614449095427,
-			"desc": 79.02,
+			"desc": "79.02",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"name": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"val": 0.08895038232410918,
-			"desc": 7.6,
+			"desc": "7.60",
 			"group": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "AUTO POSTO 201 LT",
 			"name": "AUTO POSTO 201 LT",
 			"val": 2.9844562088228948,
-			"desc": 110.02,
+			"desc": "110.02",
 			"group": "AUTO POSTO 201 LT"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "POSTO SHOPPING MOGI LT",
 			"name": "POSTO SHOPPING MOGI LT",
 			"val": 9.316074202874049,
-			"desc": 285.51,
+			"desc": "285.51",
 			"group": "POSTO SHOPPING MOGI LT"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "ENTREVIAS",
 			"name": "ENTREVIAS",
 			"val": 0.63742382460877,
-			"desc": 31.900000000000002,
+			"desc": "31.90",
 			"group": "ENTREVIAS"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "GSI SUPRIMENTOS EIRELI",
 			"name": "GSI SUPRIMENTOS EIRELI",
 			"val": 18.852361854863883,
-			"desc": 522.05,
+			"desc": "522.05",
 			"group": "GSI SUPRIMENTOS EIRELI"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "COMERCIO DE COMBUSTIVEL A F C LTDA",
 			"name": "COMERCIO DE COMBUSTIVEL A F C LTDA",
 			"val": 2.688945355962831,
-			"desc": 100.97,
+			"desc": "100.97",
 			"group": "COMERCIO DE COMBUSTIVEL A F C LTDA"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "AUTO POSTO MASUT VI LTDA",
 			"name": "AUTO POSTO MASUT VI LTDA",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "AUTO POSTO MASUT VI LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "VIEGAS AUTO POSTO LTDA",
 			"name": "VIEGAS AUTO POSTO LTDA",
 			"val": 2.2106350756175215,
-			"desc": 86,
+			"desc": "86.00",
 			"group": "VIEGAS AUTO POSTO LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 45.260245010324084,
-			"desc": 1117.43,
+			"desc": "1117.43",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "Movida Locação de Veículos S.A.",
 			"name": "Movida Locação de Veículos S.A.",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "Movida Locação de Veículos S.A."
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.358109762974221,
-			"desc": 150.6,
+			"desc": "150.60",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 64.22772456833462,
-			"desc": 1519.23,
+			"desc": "1519.23",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 3.3296732137911897,
-			"desc": 120.43,
+			"desc": "120.43",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "GASPARIN GASPARIN LTDA ME",
 			"name": "GASPARIN GASPARIN LTDA ME",
 			"val": 3.349398741041111,
-			"desc": 121.02,
+			"desc": "121.02",
 			"group": "GASPARIN GASPARIN LTDA ME"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "FORTSUL POSTO DE SERVICOS E CONVENIENCIAS LTDA",
 			"name": "FORTSUL POSTO DE SERVICOS E CONVENIENCIAS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "FORTSUL POSTO DE SERVICOS E CONVENIENCIAS LTDA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "POSTO CAXUXA II LTDA",
 			"name": "POSTO CAXUXA II LTDA",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "POSTO CAXUXA II LTDA"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -866,7 +867,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.035839471324722,
-			"desc": 111.58,
+			"desc": "111.58",
 			"group": "RAMAL"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "PREFEITURA MUNICIPAL DE SUZANO",
 			"name": "PREFEITURA MUNICIPAL DE SUZANO",
 			"val": 4.023274268881593,
-			"desc": 140.9,
+			"desc": "140.90",
 			"group": "PREFEITURA MUNICIPAL DE SUZANO"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"name": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"val": 0.027935374006975495,
-			"desc": 3.7,
+			"desc": "3.70",
 			"group": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "ASTRO SUL POSTO DE COMBUSTIVEIS LTDA",
 			"name": "ASTRO SUL POSTO DE COMBUSTIVEIS LTDA",
 			"val": 2.492058698396374,
-			"desc": 94.86,
+			"desc": "94.86",
 			"group": "ASTRO SUL POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{

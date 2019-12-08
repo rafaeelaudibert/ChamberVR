@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CAPITÃO WAGNER"
+			"name": "CAPITÃO WAGNER",
+			"desc": "89112.48"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.933042786127667,
-			"desc": 42.99,
+			"desc": "42.99",
 			"group": "RAMAL"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 925.6342220035339,
-			"desc": 16515.569999999996,
+			"desc": "16515.57",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "IZA CARLA SILVA SANTA BRIGIDA - ME",
 			"name": "IZA CARLA SILVA SANTA BRIGIDA - ME",
 			"val": 614.5396268996396,
-			"desc": 11400,
+			"desc": "11400.00",
 			"group": "IZA CARLA SILVA SANTA BRIGIDA - ME"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 64.22340032865378,
-			"desc": 1519.14,
+			"desc": "1519.14",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -219,7 +220,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -244,7 +245,7 @@
 			"id": "POSTO GUARARAPES LTDA",
 			"name": "POSTO GUARARAPES LTDA",
 			"val": 16.83363544106014,
-			"desc": 473.53,
+			"desc": "473.53",
 			"group": "POSTO GUARARAPES LTDA"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 313.247848427035,
-			"desc": 6214.529999999999,
+			"desc": "6214.53",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "POSTO BJ COMERCIO E SERVICOS DE LUBRIFICANTES LTDA",
 			"name": "POSTO BJ COMERCIO E SERVICOS DE LUBRIFICANTES LTDA",
 			"val": 15.865216403881142,
-			"desc": 450.01,
+			"desc": "450.01",
 			"group": "POSTO BJ COMERCIO E SERVICOS DE LUBRIFICANTES LTDA"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 24.619027831392515,
-			"desc": 657.5,
+			"desc": "657.50",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "THIAGO CARVALHO ASSESSORIA JURIDICA E LEGISLATIVA EIRELI -ME",
 			"name": "THIAGO CARVALHO ASSESSORIA JURIDICA E LEGISLATIVA EIRELI -ME",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "THIAGO CARVALHO ASSESSORIA JURIDICA E LEGISLATIVA EIRELI -ME"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 14.993910435962896,
-			"desc": 428.7,
+			"desc": "428.70",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 751.1406072376033,
-			"desc": 13668.469999999998,
+			"desc": "13668.47",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "POSTO SÃO DOMINGOS",
 			"name": "POSTO SÃO DOMINGOS",
 			"val": 16.37903451830451,
-			"desc": 462.51,
+			"desc": "462.51",
 			"group": "POSTO SÃO DOMINGOS"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "POSTO IRMAOS LEITAO LTDA",
 			"name": "POSTO IRMAOS LEITAO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO IRMAOS LEITAO LTDA"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "POSTO ESTRELA",
 			"name": "POSTO ESTRELA",
 			"val": 5.038739921709973,
-			"desc": 170.01,
+			"desc": "170.01",
 			"group": "POSTO ESTRELA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "RADIO FM CANAVIAL LTDA",
 			"name": "RADIO FM CANAVIAL LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "RADIO FM CANAVIAL LTDA"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "JP COM. DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "JP COM. DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "JP COM. DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 159.16130286768845,
-			"desc": 3392.7,
+			"desc": "3392.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "RÁDIO FM CRATEÚS LTDA",
 			"name": "RÁDIO FM CRATEÚS LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "RÁDIO FM CRATEÚS LTDA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "S OLIVEIRA & CIA LTDA",
 			"name": "S OLIVEIRA & CIA LTDA",
 			"val": 7.218593906694096,
-			"desc": 230.02,
+			"desc": "230.02",
 			"group": "S OLIVEIRA & CIA LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "QUINTINA QUIRINO HOLANDA 32676115391",
 			"name": "QUINTINA QUIRINO HOLANDA 32676115391",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "QUINTINA QUIRINO HOLANDA 32676115391"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "TH MIDIA PUBLICIDADE E PROPAGANDA",
 			"name": "TH MIDIA PUBLICIDADE E PROPAGANDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "TH MIDIA PUBLICIDADE E PROPAGANDA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 30.40440090278213,
-			"desc": 789.71,
+			"desc": "789.71",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 101.98543511445664,
-			"desc": 2285.03,
+			"desc": "2285.03",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 35.34717287886392,
-			"desc": 900.39,
+			"desc": "900.39",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "J E J COMERCIAL DE COMBUSTIVEIS",
 			"name": "J E J COMERCIAL DE COMBUSTIVEIS",
 			"val": 6.237370170347282,
-			"desc": 203.36,
+			"desc": "203.36",
 			"group": "J E J COMERCIAL DE COMBUSTIVEIS"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "J M COMERCIO DE COMBUSTÍVEIS",
 			"name": "J M COMERCIO DE COMBUSTÍVEIS",
 			"val": 2.21094983736432,
-			"desc": 86.01,
+			"desc": "86.01",
 			"group": "J M COMERCIO DE COMBUSTÍVEIS"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.932526991633757,
-			"desc": 222.3,
+			"desc": "222.30",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VILSON DA FETAEMG"
+			"name": "VILSON DA FETAEMG",
+			"desc": "25413.84"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 15.782780020327227,
-			"desc": 448,
+			"desc": "448.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -162,7 +163,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.429055437596376,
-			"desc": 92.89,
+			"desc": "92.89",
 			"group": "RAMAL"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.305469377003448,
-			"desc": 484.93,
+			"desc": "484.93",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "UNITAXI DF",
 			"name": "UNITAXI DF",
 			"val": 3.7194400950212634,
-			"desc": 132,
+			"desc": "132.00",
 			"group": "UNITAXI DF"
 		},
 		{
@@ -262,7 +263,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 47.865643822071426,
-			"desc": 1173.56,
+			"desc": "1173.56",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 5.933717644724696,
-			"desc": 195,
+			"desc": "195.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 394.6420889698604,
-			"desc": 7647.630000000001,
+			"desc": "7647.63",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 5.50149228162392,
-			"desc": 183,
+			"desc": "183.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 112.98762916513746,
-			"desc": 2502.17,
+			"desc": "2502.17",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "JN PAPELARIA E INFORMATICA LTDA ME",
 			"name": "JN PAPELARIA E INFORMATICA LTDA ME",
 			"val": 62.03453474816086,
-			"desc": 1473.5,
+			"desc": "1473.50",
 			"group": "JN PAPELARIA E INFORMATICA LTDA ME"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "POSTO TIGRE LTDA",
 			"name": "POSTO TIGRE LTDA",
 			"val": 5.0401562961970905,
-			"desc": 170.05,
+			"desc": "170.05",
 			"group": "POSTO TIGRE LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.3219881156640936,
-			"desc": 120.19999999999999,
+			"desc": "120.20",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"name": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"val": 2.72234953952437,
-			"desc": 102,
+			"desc": "102.00",
 			"group": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "THIAGO CESAR DE GOIS 09368556652",
 			"name": "THIAGO CESAR DE GOIS 09368556652",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "THIAGO CESAR DE GOIS 09368556652"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 13.829766442311687,
-			"desc": 399.99,
+			"desc": "399.99",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "SAFERTAXI",
 			"name": "SAFERTAXI",
 			"val": 9.527194899145242,
-			"desc": 291,
+			"desc": "291.00",
 			"group": "SAFERTAXI"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.15614712185722682,
-			"desc": 11.2,
+			"desc": "11.20",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "POSTO LULU LTDA",
 			"name": "POSTO LULU LTDA",
 			"val": 3.8671832509001973,
-			"desc": 136.34,
+			"desc": "136.34",
 			"group": "POSTO LULU LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "LÍCIA HOTEL LTDA. ME",
 			"name": "LÍCIA HOTEL LTDA. ME",
 			"val": 4.164347272208662,
-			"desc": 145,
+			"desc": "145.00",
 			"group": "LÍCIA HOTEL LTDA. ME"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.27794747320502305,
-			"desc": 17,
+			"desc": "17.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "AUTO POSTO S & B LTDA - ME",
 			"name": "AUTO POSTO S & B LTDA - ME",
 			"val": 4.685683397605888,
-			"desc": 159.99,
+			"desc": "159.99",
 			"group": "AUTO POSTO S & B LTDA - ME"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.00751509816700411,
-			"desc": 1.95,
+			"desc": "1.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 8.208243518322545,
-			"desc": 256.43,
+			"desc": "256.43",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "POSTO RESTAURANTE MAR DOCE - LTDA",
 			"name": "POSTO RESTAURANTE MAR DOCE - LTDA",
 			"val": 9.48907944957751,
-			"desc": 290.01,
+			"desc": "290.01",
 			"group": "POSTO RESTAURANTE MAR DOCE - LTDA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "POSTO CRUZEIRO LTDA",
 			"name": "POSTO CRUZEIRO LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "POSTO CRUZEIRO LTDA"
 		},
 		{

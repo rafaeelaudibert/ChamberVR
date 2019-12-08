@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AÉCIO NEVES"
+			"name": "AÉCIO NEVES",
+			"desc": "105972.32"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 1.1868344516932694,
-			"desc": 52.04,
+			"desc": "52.04",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.523809682367754,
-			"desc": 95.85,
+			"desc": "95.85",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "CONDOMINIO DO EDIFICIO ASAMAR",
 			"name": "CONDOMINIO DO EDIFICIO ASAMAR",
 			"val": 1194.8442149719995,
-			"desc": 20822.15,
+			"desc": "20822.15",
 			"group": "CONDOMINIO DO EDIFICIO ASAMAR"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 3.7398169663554595,
-			"desc": 132.6,
+			"desc": "132.60",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -147,7 +148,7 @@
 			"id": "CORREIOS - IMPRESSO NORMAL",
 			"name": "CORREIOS - IMPRESSO NORMAL",
 			"val": 40.20098574233812,
-			"desc": 1007.4000000000001,
+			"desc": "1007.40",
 			"group": "CORREIOS - IMPRESSO NORMAL"
 		},
 		{
@@ -178,7 +179,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 54.9127648353809,
-			"desc": 1323.78,
+			"desc": "1323.78",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -197,7 +198,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 0.5824833138336453,
-			"desc": 29.75,
+			"desc": "29.75",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 98.44139484321012,
-			"desc": 2214.59,
+			"desc": "2214.59",
 			"group": "CLARO S.A"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 546.25915042595,
-			"desc": 10250.039999999995,
+			"desc": "10250.04",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.3590515908695968,
-			"desc": 58,
+			"desc": "58.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "EMIVE PATRULHA 24 HORAS",
 			"name": "EMIVE PATRULHA 24 HORAS",
 			"val": 18.979737023592463,
-			"desc": 525.09,
+			"desc": "525.09",
 			"group": "EMIVE PATRULHA 24 HORAS"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "ZKZ PUBLICIDADE E ESTRATEGIA LTDA",
 			"name": "ZKZ PUBLICIDADE E ESTRATEGIA LTDA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "ZKZ PUBLICIDADE E ESTRATEGIA LTDA"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "Fibra Telecomunicações LTDA",
 			"name": "Fibra Telecomunicações LTDA",
 			"val": 143.81585100200385,
-			"desc": 3100,
+			"desc": "3100.00",
 			"group": "Fibra Telecomunicações LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "ASAMAR S A",
 			"name": "ASAMAR S A",
 			"val": 2139.7300091143206,
-			"desc": 35399.2,
+			"desc": "35399.20",
 			"group": "ASAMAR S A"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 100.13182940034548,
-			"desc": 2248.22,
+			"desc": "2248.22",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 88.22573724709926,
-			"desc": 2010.06,
+			"desc": "2010.06",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "ICONE VÍDEO",
 			"name": "ICONE VÍDEO",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "ICONE VÍDEO"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.809238688156308,
-			"desc": 218.95999999999998,
+			"desc": "218.96",
 			"group": "RAMAL"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "CASA DAS IMPRESSORAS LTDA",
 			"name": "CASA DAS IMPRESSORAS LTDA",
 			"val": 23.069111904496477,
-			"desc": 621.5,
+			"desc": "621.50",
 			"group": "CASA DAS IMPRESSORAS LTDA"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 27.922905413139738,
-			"desc": 733.39,
+			"desc": "733.39",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 19.940356570295563,
-			"desc": 547.94,
+			"desc": "547.94",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 36.960980884003675,
-			"desc": 936.14,
+			"desc": "936.14",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "Empresa Folha da Manha S.A.",
 			"name": "Empresa Folha da Manha S.A.",
 			"val": 12.314538002644417,
-			"desc": 362.17,
+			"desc": "362.17",
 			"group": "Empresa Folha da Manha S.A."
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 4.368524213767893,
-			"desc": 150.89999999999998,
+			"desc": "150.90",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 1.7495655650057957,
-			"desc": 71.1,
+			"desc": "71.10",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO",
 			"name": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO",
 			"val": 9.747023573172457,
-			"desc": 296.7,
+			"desc": "296.70",
 			"group": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP ATHOS BULCÃO"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "SEMPRE EDITORA LTDA.",
 			"name": "SEMPRE EDITORA LTDA.",
 			"val": 6.381171873119326,
-			"desc": 207.3,
+			"desc": "207.30",
 			"group": "SEMPRE EDITORA LTDA."
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"name": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"val": 5.390560570431621,
-			"desc": 179.9,
+			"desc": "179.90",
 			"group": "LOCAWEB SERVICOS DE INTERNET S.A."
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "RADIO TAXI SHALOM LTDA - EPP",
 			"name": "RADIO TAXI SHALOM LTDA - EPP",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "RADIO TAXI SHALOM LTDA - EPP"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.2430032802617444,
-			"desc": 15.4,
+			"desc": "15.40",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "LEMA LIVRARIA E PAPELARIA LTDA",
 			"name": "LEMA LIVRARIA E PAPELARIA LTDA",
 			"val": 3.175463636444788,
-			"desc": 115.8,
+			"desc": "115.80",
 			"group": "LEMA LIVRARIA E PAPELARIA LTDA"
 		},
 		{

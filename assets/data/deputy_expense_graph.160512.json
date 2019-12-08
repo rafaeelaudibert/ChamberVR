@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AUREO RIBEIRO"
+			"name": "AUREO RIBEIRO",
+			"desc": "109659.19"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 2518.7395131403027,
-			"desc": 41085.17,
+			"desc": "41085.17",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 227.2434826381986,
-			"desc": 4661.7300000000005,
+			"desc": "4661.73",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 10.223528302489807,
-			"desc": 309,
+			"desc": "309.00",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 29.400015869979104,
-			"desc": 766.9799999999999,
+			"desc": "766.98",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 9.135433897668598,
-			"desc": 280.8,
+			"desc": "280.80",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "VITORINO & MENDONÇA LTDA EPP",
 			"name": "VITORINO & MENDONÇA LTDA EPP",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "VITORINO & MENDONÇA LTDA EPP"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 915.9345182436339,
-			"desc": 16358.589999999998,
+			"desc": "16358.59",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 23.73155860334705,
-			"desc": 636.9200000000001,
+			"desc": "636.92",
 			"group": "RAMAL"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 66.18974115779757,
-			"desc": 1560,
+			"desc": "1560.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "ADVOCACIA ROGERIO AVELAR S/S - EPP",
 			"name": "ADVOCACIA ROGERIO AVELAR S/S - EPP",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "ADVOCACIA ROGERIO AVELAR S/S - EPP"
 		},
 		{

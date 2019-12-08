@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROGÉRIO CORREIA"
+			"name": "ROGÉRIO CORREIA",
+			"desc": "47826.96"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 719.94267466353,
-			"desc": 13153.779999999995,
+			"desc": "13153.78",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "POSTO CHEFÃO LTDA",
 			"name": "POSTO CHEFÃO LTDA",
 			"val": 4.0390680474082465,
-			"desc": 141.36,
+			"desc": "141.36",
 			"group": "POSTO CHEFÃO LTDA"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "ABRAS COMERCIO DE COMBUSTIVEL E VEICULOS LTDA",
 			"name": "ABRAS COMERCIO DE COMBUSTIVEL E VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ABRAS COMERCIO DE COMBUSTIVEL E VEICULOS LTDA"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 316.4963963937084,
-			"desc": 6272.33,
+			"desc": "6272.33",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "POSTO CN LTDA",
 			"name": "POSTO CN LTDA",
 			"val": 23.38760453026875,
-			"desc": 628.9200000000001,
+			"desc": "628.92",
 			"group": "POSTO CN LTDA"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "SANTO AGOSTINHO LIVRARIA E PAPELARIA LTDA",
 			"name": "SANTO AGOSTINHO LIVRARIA E PAPELARIA LTDA",
 			"val": 29.85511550299971,
-			"desc": 777.29,
+			"desc": "777.29",
 			"group": "SANTO AGOSTINHO LIVRARIA E PAPELARIA LTDA"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "A CARABETTI & CIA LTDA",
 			"name": "A CARABETTI & CIA LTDA",
 			"val": 8.095003789545538,
-			"desc": 253.43,
+			"desc": "253.43",
 			"group": "A CARABETTI & CIA LTDA"
 		},
 		{
@@ -324,7 +325,7 @@
 			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.733044652004747,
-			"desc": 161.34,
+			"desc": "161.34",
 			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 18.875399152490033,
-			"desc": 522.6,
+			"desc": "522.60",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -356,7 +357,7 @@
 			"id": "Petrovia comercio de combustiveis",
 			"name": "Petrovia comercio de combustiveis",
 			"val": 8.419027305611248,
-			"desc": 262,
+			"desc": "262.00",
 			"group": "Petrovia comercio de combustiveis"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 50.321738691199684,
-			"desc": 1226.1699999999998,
+			"desc": "1226.17",
 			"group": "CLARO S.A"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "POSTO RIEGERT LTDA",
 			"name": "POSTO RIEGERT LTDA",
 			"val": 7.13654670525679,
-			"desc": 227.81,
+			"desc": "227.81",
 			"group": "POSTO RIEGERT LTDA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "POSTO OCEANO LTDA",
 			"name": "POSTO OCEANO LTDA",
 			"val": 7.590988956411867,
-			"desc": 240.01,
+			"desc": "240.01",
 			"group": "POSTO OCEANO LTDA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "POSTO ESTACAO S.R LTDA",
 			"name": "POSTO ESTACAO S.R LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "POSTO ESTACAO S.R LTDA"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 14.69194724969116,
-			"desc": 421.28000000000003,
+			"desc": "421.28",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "AUTO POSTO CALCARIO LTDA",
 			"name": "AUTO POSTO CALCARIO LTDA",
 			"val": 2.689917439031725,
-			"desc": 101,
+			"desc": "101.00",
 			"group": "AUTO POSTO CALCARIO LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "POSTO VIA A LIBERDADE LTDA",
 			"name": "POSTO VIA A LIBERDADE LTDA",
 			"val": 7.777905180222519,
-			"desc": 245,
+			"desc": "245.00",
 			"group": "POSTO VIA A LIBERDADE LTDA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "POSTO BANDEIRANTES",
 			"name": "POSTO BANDEIRANTES",
 			"val": 8.951811000283099,
-			"desc": 276,
+			"desc": "276.00",
 			"group": "POSTO BANDEIRANTES"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "POSTO ASTRAL LTDA",
 			"name": "POSTO ASTRAL LTDA",
 			"val": 46.39690479806389,
-			"desc": 1141.96,
+			"desc": "1141.96",
 			"group": "POSTO ASTRAL LTDA"
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "RECICLO & LAYOUT LTDA - ME",
 			"name": "RECICLO & LAYOUT LTDA - ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "RECICLO & LAYOUT LTDA - ME"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "AUTO POSTO ALGODIRMÃOS LTDA",
 			"name": "AUTO POSTO ALGODIRMÃOS LTDA",
 			"val": 9.56571508477186,
-			"desc": 292,
+			"desc": "292.00",
 			"group": "AUTO POSTO ALGODIRMÃOS LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "POSTO LUXEMBURGO LTDA",
 			"name": "POSTO LUXEMBURGO LTDA",
 			"val": 15.864806144190668,
-			"desc": 450,
+			"desc": "450.00",
 			"group": "POSTO LUXEMBURGO LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "AMARIL FRANKLIN ADMINISTRACAO IMOBILIARIA LTDA",
 			"name": "AMARIL FRANKLIN ADMINISTRACAO IMOBILIARIA LTDA",
 			"val": 213.8155948313265,
-			"desc": 4414.72,
+			"desc": "4414.72",
 			"group": "AMARIL FRANKLIN ADMINISTRACAO IMOBILIARIA LTDA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "AUTO POSTO DAS ALTURAS LTDA",
 			"name": "AUTO POSTO DAS ALTURAS LTDA",
 			"val": 4.4196046461973975,
-			"desc": 152.37,
+			"desc": "152.37",
 			"group": "AUTO POSTO DAS ALTURAS LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "Auto Posto Umuarama Ltda",
 			"name": "Auto Posto Umuarama Ltda",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "Auto Posto Umuarama Ltda"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "GNV SETE BELO LTDA",
 			"name": "GNV SETE BELO LTDA",
 			"val": 6.426884934569955,
-			"desc": 208.55,
+			"desc": "208.55",
 			"group": "GNV SETE BELO LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.097378584345646,
-			"desc": 48.89,
+			"desc": "48.89",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "PONTUAL LOC CAR LTDA",
 			"name": "PONTUAL LOC CAR LTDA",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "PONTUAL LOC CAR LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA",
 			"val": 8.533598870260017,
-			"desc": 265.02,
+			"desc": "265.02",
 			"group": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6557898928200923,
-			"desc": 68,
+			"desc": "68.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.865715607365245,
-			"desc": 106.4,
+			"desc": "106.40",
 			"group": "RAMAL"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.357847920503794,
-			"desc": 534.0999999999999,
+			"desc": "534.10",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 21.22899242538625,
-			"desc": 578.39,
+			"desc": "578.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "POSTO MONTE SANTO LTDA",
 			"name": "POSTO MONTE SANTO LTDA",
 			"val": 7.78766048237225,
-			"desc": 245.26,
+			"desc": "245.26",
 			"group": "POSTO MONTE SANTO LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 27.59910994313966,
-			"desc": 726,
+			"desc": "726.00",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "J MANSUR LIVRARIA E PAPELARIA EIRELI",
 			"name": "J MANSUR LIVRARIA E PAPELARIA EIRELI",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "J MANSUR LIVRARIA E PAPELARIA EIRELI"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "CONDOMINIO DO EDIFICIO CARLA",
 			"name": "CONDOMINIO DO EDIFICIO CARLA",
 			"val": 111.60887591553126,
-			"desc": 2475.08,
+			"desc": "2475.08",
 			"group": "CONDOMINIO DO EDIFICIO CARLA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "Pontual Loc Car ltda",
 			"name": "Pontual Loc Car ltda",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "Pontual Loc Car ltda"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "POSTO CATALÃO LTDA",
 			"name": "POSTO CATALÃO LTDA",
 			"val": 7.563694403835449,
-			"desc": 239.28,
+			"desc": "239.28",
 			"group": "POSTO CATALÃO LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "POSTO BAISA LTDA",
 			"name": "POSTO BAISA LTDA",
 			"val": 3.2206516780573593,
-			"desc": 117.16,
+			"desc": "117.16",
 			"group": "POSTO BAISA LTDA"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.566850918574095,
-			"desc": 212.37,
+			"desc": "212.37",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "OFICINA DOS BITS LTDA",
 			"name": "OFICINA DOS BITS LTDA",
 			"val": 7.320487594422851,
-			"desc": 232.76,
+			"desc": "232.76",
 			"group": "OFICINA DOS BITS LTDA"
 		},
 		{
@@ -887,7 +888,7 @@
 			"id": "Posto Gall Ltda",
 			"name": "Posto Gall Ltda",
 			"val": 7.899960358175675,
-			"desc": 248.25,
+			"desc": "248.25",
 			"group": "Posto Gall Ltda"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "POSTO SOUZA CHAVES LTDA",
 			"name": "POSTO SOUZA CHAVES LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "POSTO SOUZA CHAVES LTDA"
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "ANDRADE E URIAS LTDA",
 			"name": "ANDRADE E URIAS LTDA",
 			"val": 3.1515778032048076,
-			"desc": 115.08,
+			"desc": "115.08",
 			"group": "ANDRADE E URIAS LTDA"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "POSTO PIO XII LTDA",
 			"name": "POSTO PIO XII LTDA",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "POSTO PIO XII LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "POSTO TIGRE LTDA",
 			"name": "POSTO TIGRE LTDA",
 			"val": 8.532839462417597,
-			"desc": 265,
+			"desc": "265.00",
 			"group": "POSTO TIGRE LTDA"
 		},
 		{

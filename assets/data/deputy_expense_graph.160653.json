@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROBERTO DE LUCENA"
+			"name": "ROBERTO DE LUCENA",
+			"desc": "80711.45"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.697609063777015,
-			"desc": 188.45999999999998,
+			"desc": "188.46",
 			"group": "RAMAL"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.7513883845073668,
-			"desc": 71.16,
+			"desc": "71.16",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 799.8409675743508,
-			"desc": 14468.269999999997,
+			"desc": "14468.27",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 52.44044454591545,
-			"desc": 1271.33,
+			"desc": "1271.33",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -183,7 +184,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -196,7 +197,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.143807445736705,
-			"desc": 200.79000000000002,
+			"desc": "200.79",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -221,7 +222,7 @@
 			"id": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
 			"name": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
 			"val": 126.03772781156839,
-			"desc": 2757,
+			"desc": "2757.00",
 			"group": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 288.3942566354829,
-			"desc": 5770.4400000000005,
+			"desc": "5770.44",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.662710584984031,
-			"desc": 214.98,
+			"desc": "214.98",
 			"group": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "POSTO 4 IRMAOS JL LTDA",
 			"name": "POSTO 4 IRMAOS JL LTDA",
 			"val": 3.6083266256980777,
-			"desc": 128.72,
+			"desc": "128.72",
 			"group": "POSTO 4 IRMAOS JL LTDA"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 626.0853408319009,
-			"desc": 11593.31,
+			"desc": "11593.31",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 21.966130398266525,
-			"desc": 595.71,
+			"desc": "595.71",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"name": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"val": 3.6773778489509787,
-			"desc": 130.76,
+			"desc": "130.76",
 			"group": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "AUTO POSTAO I LTDA",
 			"name": "AUTO POSTAO I LTDA",
 			"val": 2.799438555865948,
-			"desc": 104.37,
+			"desc": "104.37",
 			"group": "AUTO POSTAO I LTDA"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "PORTO SEGURO TELECOMUNICACOES LTDA",
 			"name": "PORTO SEGURO TELECOMUNICACOES LTDA",
 			"val": 8.444049050456439,
-			"desc": 262.65999999999997,
+			"desc": "262.66",
 			"group": "PORTO SEGURO TELECOMUNICACOES LTDA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "AUTO POSTO ARUJA VILLE LTDA",
 			"name": "AUTO POSTO ARUJA VILLE LTDA",
 			"val": 2.690241478149398,
-			"desc": 101.01,
+			"desc": "101.01",
 			"group": "AUTO POSTO ARUJA VILLE LTDA"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 28.13652136508669,
-			"desc": 738.26,
+			"desc": "738.26",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 67.91282430759108,
-			"desc": 1595.6999999999998,
+			"desc": "1595.70",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 6.115448415311677,
-			"desc": 200.01,
+			"desc": "200.01",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
 			"name": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
 			"val": 123.1064318729325,
-			"desc": 2700,
+			"desc": "2700.00",
 			"group": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "AUTO POSTO LAGO NORTE LTDA",
 			"name": "AUTO POSTO LAGO NORTE LTDA",
 			"val": 24.817473106209707,
-			"desc": 662.09,
+			"desc": "662.09",
 			"group": "AUTO POSTO LAGO NORTE LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 7.909359429312913,
-			"desc": 248.5,
+			"desc": "248.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE",
 			"name": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE",
 			"val": 7.172171989735104,
-			"desc": 228.77,
+			"desc": "228.77",
 			"group": "AUTO POSTO CORREA SEMPRE ABASTECE VOTORANTIM EIRE"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "Movida Locação de Veículos S.A.",
 			"name": "Movida Locação de Veículos S.A.",
 			"val": 507.9866377150418,
-			"desc": 9600,
+			"desc": "9600.00",
 			"group": "Movida Locação de Veículos S.A."
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS",
 			"name": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "EMPRESA JORNAL E EDITORA SANTOS E SANTOS"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "AUTO POSTO ESTRELA DO RIO LTDA",
 			"name": "AUTO POSTO ESTRELA DO RIO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ESTRELA DO RIO LTDA"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 0.8245227461425108,
-			"desc": 39,
+			"desc": "39.00",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "POSTO ANTLETA LTDA",
 			"name": "POSTO ANTLETA LTDA",
 			"val": 3.80036026451281,
-			"desc": 134.38,
+			"desc": "134.38",
 			"group": "POSTO ANTLETA LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "AUTO POSTO SAO MARCOS LTDA",
 			"name": "AUTO POSTO SAO MARCOS LTDA",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "AUTO POSTO SAO MARCOS LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 5.040864503802918,
-			"desc": 170.07,
+			"desc": "170.07",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 33.97906333170983,
-			"desc": 869.94,
+			"desc": "869.94",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "Movida Locação de Veículos LTDA",
 			"name": "Movida Locação de Veículos LTDA",
 			"val": 278.90712890504415,
-			"desc": 5600,
+			"desc": "5600.00",
 			"group": "Movida Locação de Veículos LTDA"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "RODOPOSTO MARISTELA LTDA",
 			"name": "RODOPOSTO MARISTELA LTDA",
 			"val": 3.7534102556866333,
-			"desc": 133,
+			"desc": "133.00",
 			"group": "RODOPOSTO MARISTELA LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"val": 507.9866377150418,
-			"desc": 9600,
+			"desc": "9600.00",
 			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.667490003678131,
-			"desc": 215.11,
+			"desc": "215.11",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "AUTO POSTO GARPELLI LTDA",
 			"name": "AUTO POSTO GARPELLI LTDA",
 			"val": 3.8443222895404396,
-			"desc": 135.67,
+			"desc": "135.67",
 			"group": "AUTO POSTO GARPELLI LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 4.620887817118598,
-			"desc": 158.14,
+			"desc": "158.14",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "AUTO POSTO 92 DA RAPOSO LTDA",
 			"name": "AUTO POSTO 92 DA RAPOSO LTDA",
 			"val": 3.579610179669434,
-			"desc": 127.87,
+			"desc": "127.87",
 			"group": "AUTO POSTO 92 DA RAPOSO LTDA"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "2HC SOLUCOES INTEGRADAS LTDA",
 			"name": "2HC SOLUCOES INTEGRADAS LTDA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "2HC SOLUCOES INTEGRADAS LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "POSTO MAIS LTDA",
 			"name": "POSTO MAIS LTDA",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "POSTO MAIS LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "AUTO POSTO GAROUPA LT",
 			"name": "AUTO POSTO GAROUPA LT",
 			"val": 2.5572277953662885,
-			"desc": 96.89,
+			"desc": "96.89",
 			"group": "AUTO POSTO GAROUPA LT"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.015475961598581948,
-			"desc": 2.7,
+			"desc": "2.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{

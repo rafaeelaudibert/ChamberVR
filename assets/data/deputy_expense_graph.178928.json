@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CHRISTIANE DE SOUZA YARED"
+			"name": "CHRISTIANE DE SOUZA YARED",
+			"desc": "53190.54"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 99.13872774228211,
-			"desc": 2228.4700000000003,
+			"desc": "2228.47",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 10.685664927934551,
-			"desc": 320.86,
+			"desc": "320.86",
 			"group": "OI S.A"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"name": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.3502952646953743,
-			"desc": 57.7,
+			"desc": "57.70",
 			"group": "MIT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1432.170282276959,
-			"desc": 24551.2,
+			"desc": "24551.20",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "Batel",
 			"name": "Batel",
 			"val": 0.4152132996769845,
-			"desc": 22.96,
+			"desc": "22.96",
 			"group": "Batel"
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "KANDOO CULINARIA JAPONESA LTDA. - ME",
 			"name": "KANDOO CULINARIA JAPONESA LTDA. - ME",
 			"val": 7.852986824805662,
-			"desc": 247,
+			"desc": "247.00",
 			"group": "KANDOO CULINARIA JAPONESA LTDA. - ME"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.1364289126307627,
-			"desc": 50.27,
+			"desc": "50.27",
 			"group": "RAMAL"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 161.4762748130239,
-			"desc": 3436.610000000001,
+			"desc": "3436.61",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 16.039281693593388,
-			"desc": 454.25,
+			"desc": "454.25",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "RECANTO OIL AUTO POSTO LTDA",
 			"name": "RECANTO OIL AUTO POSTO LTDA",
 			"val": 27.463848947913903,
-			"desc": 722.9100000000001,
+			"desc": "722.91",
 			"group": "RECANTO OIL AUTO POSTO LTDA"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "POSTOS PELANDA ESTRELA GUIA",
 			"name": "POSTOS PELANDA ESTRELA GUIA",
 			"val": 7.371504376956216,
-			"desc": 234.13,
+			"desc": "234.13",
 			"group": "POSTOS PELANDA ESTRELA GUIA"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 7.252785492659696,
-			"desc": 230.94,
+			"desc": "230.94",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "DRAGON KING ALIMENTOS LTDA",
 			"name": "DRAGON KING ALIMENTOS LTDA",
 			"val": 0.5776703128432774,
-			"desc": 29.56,
+			"desc": "29.56",
 			"group": "DRAGON KING ALIMENTOS LTDA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "ALFAPARK - ADMINISTRADORA DE ESTACIONAMENTOS LTDA - EPP",
 			"name": "ALFAPARK - ADMINISTRADORA DE ESTACIONAMENTOS LTDA - EPP",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "ALFAPARK - ADMINISTRADORA DE ESTACIONAMENTOS LTDA - EPP"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"name": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"val": 12.962119666264995,
-			"desc": 378.4,
+			"desc": "378.40",
 			"group": "MARIETTA COM. DE ALIMENTOS LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "BRASEIRO RESTAURANTE LTDA-ME",
 			"name": "BRASEIRO RESTAURANTE LTDA-ME",
 			"val": 0.5110498872012126,
-			"desc": 26.9,
+			"desc": "26.90",
 			"group": "BRASEIRO RESTAURANTE LTDA-ME"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "MONACO COMERCIO DE ALIMENTOS EIRELI - EPP",
 			"name": "MONACO COMERCIO DE ALIMENTOS EIRELI - EPP",
 			"val": 2.2106350756175215,
-			"desc": 86,
+			"desc": "86.00",
 			"group": "MONACO COMERCIO DE ALIMENTOS EIRELI - EPP"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "LOCALIZA RENT A CAR",
 			"name": "LOCALIZA RENT A CAR",
 			"val": 141.8683460819231,
-			"desc": 3062.64,
+			"desc": "3062.64",
 			"group": "LOCALIZA RENT A CAR"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "CLEVELAND BARBOSA BERNARDES EIRELI",
 			"name": "CLEVELAND BARBOSA BERNARDES EIRELI",
 			"val": 1.1560364410466444,
-			"desc": 50.96,
+			"desc": "50.96",
 			"group": "CLEVELAND BARBOSA BERNARDES EIRELI"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "ER COMERCIO DE ALIMENTOS LTDA - ME",
 			"name": "ER COMERCIO DE ALIMENTOS LTDA - ME",
 			"val": 0.9829884874289073,
-			"desc": 44.8,
+			"desc": "44.80",
 			"group": "ER COMERCIO DE ALIMENTOS LTDA - ME"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "BRACE COMERCIO DE ALIMENTOS EIRELI",
 			"name": "BRACE COMERCIO DE ALIMENTOS EIRELI",
 			"val": 1.2108780254769573,
-			"desc": 52.88,
+			"desc": "52.88",
 			"group": "BRACE COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "CHURRASCARIA RECANTO GAUCHO EIRELI - ME",
 			"name": "CHURRASCARIA RECANTO GAUCHO EIRELI - ME",
 			"val": 1.714684952207214,
-			"desc": 69.95,
+			"desc": "69.95",
 			"group": "CHURRASCARIA RECANTO GAUCHO EIRELI - ME"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "RESTAURANTE COMIDALIA LTDA ME",
 			"name": "RESTAURANTE COMIDALIA LTDA ME",
 			"val": 3.886988683600926,
-			"desc": 136.92,
+			"desc": "136.92",
 			"group": "RESTAURANTE COMIDALIA LTDA ME"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "ADVOCACIA ALBUQUERQUE E SILVA",
 			"name": "ADVOCACIA ALBUQUERQUE E SILVA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "ADVOCACIA ALBUQUERQUE E SILVA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 15.952630898594277,
-			"desc": 452.14,
+			"desc": "452.14",
 			"group": "TIM S/A"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "SANEPAR",
 			"name": "SANEPAR",
 			"val": 3.4889469949798193,
-			"desc": 125.18,
+			"desc": "125.18",
 			"group": "SANEPAR"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 13.346261325418455,
-			"desc": 387.98,
+			"desc": "387.98",
 			"group": "CLARO S/A"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "AUTO POSTO VENDRAMIN LTDA",
 			"name": "AUTO POSTO VENDRAMIN LTDA",
 			"val": 6.901123580242787,
-			"desc": 221.45,
+			"desc": "221.45",
 			"group": "AUTO POSTO VENDRAMIN LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "OMEGA SUPER TROCA COM. DE LUB. LTDA",
 			"name": "OMEGA SUPER TROCA COM. DE LUB. LTDA",
 			"val": 6.479599958591218,
-			"desc": 209.99,
+			"desc": "209.99",
 			"group": "OMEGA SUPER TROCA COM. DE LUB. LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 13.052216362621579,
-			"desc": 380.65,
+			"desc": "380.65",
 			"group": "NET"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "IS ALVES GASTRONIMIA - ME",
 			"name": "IS ALVES GASTRONIMIA - ME",
 			"val": 0.7325827825028979,
-			"desc": 35.55,
+			"desc": "35.55",
 			"group": "IS ALVES GASTRONIMIA - ME"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "AUTO POSTO ANGRA BATEL COM. DE COMB. LTDA",
 			"name": "AUTO POSTO ANGRA BATEL COM. DE COMB. LTDA",
 			"val": 6.86420250052109,
-			"desc": 220.45,
+			"desc": "220.45",
 			"group": "AUTO POSTO ANGRA BATEL COM. DE COMB. LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "GM SUSHI RESTAURANTE LTDA ME",
 			"name": "GM SUSHI RESTAURANTE LTDA ME",
 			"val": 1.4300095101374135,
-			"desc": 60.42,
+			"desc": "60.42",
 			"group": "GM SUSHI RESTAURANTE LTDA ME"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "Rede Terra - Nobre America Brasil LTDA",
 			"name": "Rede Terra - Nobre America Brasil LTDA",
 			"val": 227.4991827561364,
-			"desc": 4666.42,
+			"desc": "4666.42",
 			"group": "Rede Terra - Nobre America Brasil LTDA"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.543512180521576,
-			"desc": 238.74,
+			"desc": "238.74",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "LA VARENNE GASTRONOMIA LTDA",
 			"name": "LA VARENNE GASTRONOMIA LTDA",
 			"val": 1.85269928550623,
-			"desc": 74.48,
+			"desc": "74.48",
 			"group": "LA VARENNE GASTRONOMIA LTDA"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"val": 1.5330233730608418,
-			"desc": 63.9,
+			"desc": "63.90",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "SIMONE DE FATIMA FONTANEZ ME",
 			"name": "SIMONE DE FATIMA FONTANEZ ME",
 			"val": 149.0413592291165,
-			"desc": 3200,
+			"desc": "3200.00",
 			"group": "SIMONE DE FATIMA FONTANEZ ME"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.287742218105162,
-			"desc": 231.88,
+			"desc": "231.88",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{

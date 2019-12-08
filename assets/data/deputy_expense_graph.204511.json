@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DAVID SOARES"
+			"name": "DAVID SOARES",
+			"desc": "32967.52"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA",
 			"name": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA",
 			"val": 0.9237092364951164,
-			"desc": 42.65,
+			"desc": "42.65",
 			"group": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 3.1091783914252287,
-			"desc": 113.8,
+			"desc": "113.80",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "CENTRO AUTOMOTIVO PASSARINHO LTDA",
 			"name": "CENTRO AUTOMOTIVO PASSARINHO LTDA",
 			"val": 5.507942836625461,
-			"desc": 183.18,
+			"desc": "183.18",
 			"group": "CENTRO AUTOMOTIVO PASSARINHO LTDA"
 		},
 		{
@@ -152,7 +153,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 18.056522154688718,
-			"desc": 503,
+			"desc": "503.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "FAMIGLIA CARMELO RESTAURANTE EIRELI ME",
 			"name": "FAMIGLIA CARMELO RESTAURANTE EIRELI ME",
 			"val": 2.430970784539942,
-			"desc": 92.95,
+			"desc": "92.95",
 			"group": "FAMIGLIA CARMELO RESTAURANTE EIRELI ME"
 		},
 		{
@@ -178,7 +179,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 415.5333496399818,
-			"desc": 8010.9000000000015,
+			"desc": "8010.90",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -221,7 +222,7 @@
 			"id": "casa comercial aurora ltda",
 			"name": "casa comercial aurora ltda",
 			"val": 0.1620838499786226,
-			"desc": 11.5,
+			"desc": "11.50",
 			"group": "casa comercial aurora ltda"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A.",
 			"name": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A.",
 			"val": 0.00126256514800221,
-			"desc": 1.2,
+			"desc": "1.20",
 			"group": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A."
 		},
 		{
@@ -247,7 +248,7 @@
 			"id": "GENERAL PRIME BURGER EVENTOS E ALIMENTOS LTDA",
 			"name": "GENERAL PRIME BURGER EVENTOS E ALIMENTOS LTDA",
 			"val": 3.086687438098889,
-			"desc": 113.12,
+			"desc": "113.12",
 			"group": "GENERAL PRIME BURGER EVENTOS E ALIMENTOS LTDA"
 		},
 		{
@@ -260,7 +261,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 159.54593882194087,
-			"desc": 3400,
+			"desc": "3400.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -273,7 +274,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"name": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.151484939470992,
-			"desc": 50.8,
+			"desc": "50.80",
 			"group": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -305,7 +306,7 @@
 			"id": "FFBARROS ALIMENTACAO EIRELI",
 			"name": "FFBARROS ALIMENTACAO EIRELI",
 			"val": 0.5509494616147805,
-			"desc": 28.5,
+			"desc": "28.50",
 			"group": "FFBARROS ALIMENTACAO EIRELI"
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "BANANA BOAT BAR E LANCHES LT",
 			"name": "BANANA BOAT BAR E LANCHES LT",
 			"val": 5.322722202848075,
-			"desc": 178,
+			"desc": "178.00",
 			"group": "BANANA BOAT BAR E LANCHES LT"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
 			"name": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
 			"val": 8.377724533602358,
-			"desc": 260.91,
+			"desc": "260.91",
 			"group": "AUTO POSTO AGULHAS NEGRAS LTDA ME"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "TAM ESTACIONAMENTO E MANOBRISTA LTDA",
 			"name": "TAM ESTACIONAMENTO E MANOBRISTA LTDA",
 			"val": 3.7194400950212634,
-			"desc": 132,
+			"desc": "132.00",
 			"group": "TAM ESTACIONAMENTO E MANOBRISTA LTDA"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"name": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"val": 0.027935374006975495,
-			"desc": 3.7,
+			"desc": "3.70",
 			"group": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "ANCORA KNUDSEN LTDA",
 			"name": "ANCORA KNUDSEN LTDA",
 			"val": 0.1520189323924313,
-			"desc": 10.99,
+			"desc": "10.99",
 			"group": "ANCORA KNUDSEN LTDA"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 9.462140897791992,
-			"desc": 289.31,
+			"desc": "289.31",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 8.509302143030359,
-			"desc": 264.38,
+			"desc": "264.38",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "Renovias Concessionária S/A",
 			"name": "Renovias Concessionária S/A",
 			"val": 0.440156400069231,
-			"desc": 24,
+			"desc": "24.00",
 			"group": "Renovias Concessionária S/A"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1.461858568313453,
-			"desc": 61.5,
+			"desc": "61.50",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 5.0263489630194895,
-			"desc": 169.66,
+			"desc": "169.66",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -509,7 +510,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 27.557516752611207,
-			"desc": 725.05,
+			"desc": "725.05",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "BG LESTE ALIMENTOS LTDA",
 			"name": "BG LESTE ALIMENTOS LTDA",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "BG LESTE ALIMENTOS LTDA"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "LUCAS JOSE VIEIRA",
 			"name": "LUCAS JOSE VIEIRA",
 			"val": 8.555625483854639,
-			"desc": 265.6,
+			"desc": "265.60",
 			"group": "LUCAS JOSE VIEIRA"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "CONCESSIONARIA DA RODOVIA PRESIDENTE DUTRA S/A",
 			"name": "CONCESSIONARIA DA RODOVIA PRESIDENTE DUTRA S/A",
 			"val": 0.5434279034472894,
-			"desc": 28.2,
+			"desc": "28.20",
 			"group": "CONCESSIONARIA DA RODOVIA PRESIDENTE DUTRA S/A"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "PICANHA NA BRASA",
 			"name": "PICANHA NA BRASA",
 			"val": 1.6254115559801956,
-			"desc": 66.99,
+			"desc": "66.99",
 			"group": "PICANHA NA BRASA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "O HAMBURGER DE SEMPRE COMERCIO DE ALIMENTOS EIREL",
 			"name": "O HAMBURGER DE SEMPRE COMERCIO DE ALIMENTOS EIREL",
 			"val": 1.8628166467216192,
-			"desc": 74.81,
+			"desc": "74.81",
 			"group": "O HAMBURGER DE SEMPRE COMERCIO DE ALIMENTOS EIREL"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.011840614407687,
-			"desc": 79.64,
+			"desc": "79.64",
 			"group": "RAMAL"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 109.3294853781846,
-			"desc": 2430.2200000000003,
+			"desc": "2430.22",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "RESTAURANTE J BRASILIA LTDA",
 			"name": "RESTAURANTE J BRASILIA LTDA",
 			"val": 0.6143203424879725,
-			"desc": 31,
+			"desc": "31.00",
 			"group": "RESTAURANTE J BRASILIA LTDA"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "CENTRO AUTOMOTIVO MADRI LTDA",
 			"name": "CENTRO AUTOMOTIVO MADRI LTDA",
 			"val": 6.079116372189122,
-			"desc": 199.01,
+			"desc": "199.01",
 			"group": "CENTRO AUTOMOTIVO MADRI LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "ESTACIONAMENTO TREVO LTDA",
 			"name": "ESTACIONAMENTO TREVO LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "ESTACIONAMENTO TREVO LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"val": 5.083381740982637,
-			"desc": 171.26999999999998,
+			"desc": "171.27",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.891690377336685,
-			"desc": 248.03,
+			"desc": "248.03",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "ALMANARA RESTAURANTES E LANCHONETES LTDA",
 			"name": "ALMANARA RESTAURANTES E LANCHONETES LTDA",
 			"val": 1.4250063300314209,
-			"desc": 60.25,
+			"desc": "60.25",
 			"group": "ALMANARA RESTAURANTES E LANCHONETES LTDA"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 1.6221083071257434,
-			"desc": 66.88,
+			"desc": "66.88",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "VITTA CAR ESTACIONAMENTO LTDA - ME",
 			"name": "VITTA CAR ESTACIONAMENTO LTDA - ME",
 			"val": 0.48884573068667353,
-			"desc": 26,
+			"desc": "26.00",
 			"group": "VITTA CAR ESTACIONAMENTO LTDA - ME"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "CHURRASCARIA MARONEZI LTDA",
 			"name": "CHURRASCARIA MARONEZI LTDA",
 			"val": 2.1791929182868186,
-			"desc": 85,
+			"desc": "85.00",
 			"group": "CHURRASCARIA MARONEZI LTDA"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "AUTO POSTO 5300 LTDA",
 			"name": "AUTO POSTO 5300 LTDA",
 			"val": 5.358412096521207,
-			"desc": 179,
+			"desc": "179.00",
 			"group": "AUTO POSTO 5300 LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "DIREMADI MARKETING E SERVICOS LTDA",
 			"name": "DIREMADI MARKETING E SERVICOS LTDA",
 			"val": 0.6245701973429355,
-			"desc": 31.4,
+			"desc": "31.40",
 			"group": "DIREMADI MARKETING E SERVICOS LTDA"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "ADAPLAN - ADMINISTRAÇÃO, ASSESSORIA E PLANEJAMENTO LTDA",
 			"name": "ADAPLAN - ADMINISTRAÇÃO, ASSESSORIA E PLANEJAMENTO LTDA",
 			"val": 193.41543955305832,
-			"desc": 4036.58,
+			"desc": "4036.58",
 			"group": "ADAPLAN - ADMINISTRAÇÃO, ASSESSORIA E PLANEJAMENTO LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 1.036430568818397,
-			"desc": 46.72,
+			"desc": "46.72",
 			"group": "COMPANHIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "MANZUA RESTAURANTE LTDA",
 			"name": "MANZUA RESTAURANTE LTDA",
 			"val": 4.3865840778093395,
-			"desc": 151.42,
+			"desc": "151.42",
 			"group": "MANZUA RESTAURANTE LTDA"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 117.3159417767097,
-			"desc": 2587,
+			"desc": "2587.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -917,7 +918,7 @@
 			"id": "S I COMBUSTIVEIS LTDA",
 			"name": "S I COMBUSTIVEIS LTDA",
 			"val": 1.9425114103251824,
-			"desc": 77.4,
+			"desc": "77.40",
 			"group": "S I COMBUSTIVEIS LTDA"
 		},
 		{
@@ -930,7 +931,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 13.226620538796686,
-			"desc": 385,
+			"desc": "385.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -943,7 +944,7 @@
 			"id": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
 			"name": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "FIDELITY PRODUCOES EVENTOS E TURISMO EIRELI"
 		},
 		{
@@ -956,7 +957,7 @@
 			"id": "SB CHURRASCARIA LTDA",
 			"name": "SB CHURRASCARIA LTDA",
 			"val": 4.535967948234712,
-			"desc": 155.71,
+			"desc": "155.71",
 			"group": "SB CHURRASCARIA LTDA"
 		},
 		{
@@ -969,7 +970,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -982,7 +983,7 @@
 			"id": "NOMADIC PANIFICACAO E COMERCIO LTDA",
 			"name": "NOMADIC PANIFICACAO E COMERCIO LTDA",
 			"val": 0.34344984344224033,
-			"desc": 19.9,
+			"desc": "19.90",
 			"group": "NOMADIC PANIFICACAO E COMERCIO LTDA"
 		},
 		{
@@ -995,7 +996,7 @@
 			"id": "CONFEITARIA MARTIN HOLANDESA LTDA ME",
 			"name": "CONFEITARIA MARTIN HOLANDESA LTDA ME",
 			"val": 0.2172093203600635,
-			"desc": 14.19,
+			"desc": "14.19",
 			"group": "CONFEITARIA MARTIN HOLANDESA LTDA ME"
 		},
 		{

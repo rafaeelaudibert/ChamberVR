@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FÁBIO FARIA"
+			"name": "FÁBIO FARIA",
+			"desc": "81812.06"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.18422973216207272,
-			"desc": 12.6,
+			"desc": "12.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 49.023171401422395,
-			"desc": 1198.3899999999999,
+			"desc": "1198.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 30.703842713348916,
-			"desc": 796.47,
+			"desc": "796.47",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "ELIZABETE CAVALCANTE DA SILVA 00872255492",
 			"name": "ELIZABETE CAVALCANTE DA SILVA 00872255492",
 			"val": 232.06052416400777,
-			"desc": 4750,
+			"desc": "4750.00",
 			"group": "ELIZABETE CAVALCANTE DA SILVA 00872255492"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 37.58877807222958,
-			"desc": 950,
+			"desc": "950.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -178,7 +179,7 @@
 			"id": "KATMANDU TURUISMO LTDA",
 			"name": "KATMANDU TURUISMO LTDA",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "KATMANDU TURUISMO LTDA"
 		},
 		{
@@ -197,7 +198,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1247.1433879166404,
-			"desc": 21648.789999999997,
+			"desc": "21648.79",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.4185554554592515,
-			"desc": 23.1,
+			"desc": "23.10",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 77.6631466239804,
-			"desc": 1796,
+			"desc": "1796.00",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "ELIZABETE CAVALCANTE DA SILVA",
 			"name": "ELIZABETE CAVALCANTE DA SILVA",
 			"val": 232.06052416400777,
-			"desc": 4750,
+			"desc": "4750.00",
 			"group": "ELIZABETE CAVALCANTE DA SILVA"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "AUTO POSTO JP DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JP DERIVADOS DE PETROLEO LTDA",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "AUTO POSTO JP DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.032648584658795,
-			"desc": 80.31,
+			"desc": "80.31",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 71.49904651016972,
-			"desc": 1669.7,
+			"desc": "1669.70",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
 			"name": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
 			"val": 15.864806144190668,
-			"desc": 450,
+			"desc": "450.00",
 			"group": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 12.429149783801346,
-			"desc": 365.04999999999995,
+			"desc": "365.05",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 323.06296478727063,
-			"desc": 6389.000000000001,
+			"desc": "6389.00",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "MAXMEIO",
 			"name": "MAXMEIO",
 			"val": 105.3665174202205,
-			"desc": 2352,
+			"desc": "2352.00",
 			"group": "MAXMEIO"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "AUTO POSTO ALVORADA LTDA",
 			"name": "AUTO POSTO ALVORADA LTDA",
 			"val": 4.3338228012070745,
-			"desc": 149.9,
+			"desc": "149.90",
 			"group": "AUTO POSTO ALVORADA LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "G E L PETROLEO LTDA",
 			"name": "G E L PETROLEO LTDA",
 			"val": 437.7165986805255,
-			"desc": 8394.84,
+			"desc": "8394.84",
 			"group": "G E L PETROLEO LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "CLARO S.A - COMBO MULTI",
 			"name": "CLARO S.A - COMBO MULTI",
 			"val": 19.81391722013778,
-			"desc": 544.94,
+			"desc": "544.94",
 			"group": "CLARO S.A - COMBO MULTI"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"name": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 6.705741651886984,
-			"desc": 216.14999999999998,
+			"desc": "216.15",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.585232847492408,
-			"desc": 97.76,
+			"desc": "97.76",
 			"group": "RAMAL"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 10.847584680290561,
-			"desc": 325,
+			"desc": "325.00",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 9.675991672887989,
-			"desc": 294.86,
+			"desc": "294.86",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 496.26153355860885,
-			"desc": 9400,
+			"desc": "9400.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 53.78986724174625,
-			"desc": 1299.99,
+			"desc": "1299.99",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 32.515380250668656,
-			"desc": 837.21,
+			"desc": "837.21",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{

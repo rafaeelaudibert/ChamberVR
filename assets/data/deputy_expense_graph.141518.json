@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO PEREIRA DA SILVA"
+			"name": "PAULO PEREIRA DA SILVA",
+			"desc": "67431.41"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 55.989829543174224,
-			"desc": 1346.5500000000002,
+			"desc": "1346.55",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1167.1931012582172,
-			"desc": 20383.89,
+			"desc": "20383.89",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -260,7 +261,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1268.2619550231602,
-			"desc": 21981.769999999997,
+			"desc": "21981.77",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 998.6217649408115,
-			"desc": 17692.45,
+			"desc": "17692.45",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 22.149591718220265,
-			"desc": 600.01,
+			"desc": "600.01",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.758382656660322,
-			"desc": 270.93,
+			"desc": "270.93",
 			"group": "RAMAL"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 41.618763779859435,
-			"desc": 1038.38,
+			"desc": "1038.38",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 44.08654744817778,
-			"desc": 1092.03,
+			"desc": "1092.03",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.10406855533914497,
-			"desc": 8.45,
+			"desc": "8.45",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 44.47340220977105,
-			"desc": 1100.41,
+			"desc": "1100.41",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.312165399278885,
-			"desc": 56.39,
+			"desc": "56.39",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 43.70006378770072,
-			"desc": 1083.65,
+			"desc": "1083.65",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 7.0879707194818895,
-			"desc": 226.5,
+			"desc": "226.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

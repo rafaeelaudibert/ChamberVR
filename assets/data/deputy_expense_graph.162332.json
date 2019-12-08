@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZ NISHIMORI"
+			"name": "LUIZ NISHIMORI",
+			"desc": "85273.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.7381182943613402,
-			"desc": 132.54999999999998,
+			"desc": "132.55",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.884353834544092,
-			"desc": 41.21,
+			"desc": "41.21",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 59.60732853591864,
-			"desc": 1422.69,
+			"desc": "1422.69",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 302.16009743968857,
-			"desc": 6016.83,
+			"desc": "6016.83",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -147,7 +148,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 741.2159098323044,
-			"desc": 13504.939999999999,
+			"desc": "13504.94",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "JORNAL REGIONAL EXTREMO NOROESTE DO PARANÁ LTDA - ME",
 			"name": "JORNAL REGIONAL EXTREMO NOROESTE DO PARANÁ LTDA - ME",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "JORNAL REGIONAL EXTREMO NOROESTE DO PARANÁ LTDA - ME"
 		},
 		{
@@ -299,7 +300,7 @@
 			"id": "SYMA COMPUTADORES LTDA.",
 			"name": "SYMA COMPUTADORES LTDA.",
 			"val": 19.521787004221853,
-			"desc": 538,
+			"desc": "538.00",
 			"group": "SYMA COMPUTADORES LTDA."
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 58.52678222626104,
-			"desc": 1400,
+			"desc": "1400.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "POSTO HORTO FLORESTAL LTDA",
 			"name": "POSTO HORTO FLORESTAL LTDA",
 			"val": 621.7093697358783,
-			"desc": 11520.08,
+			"desc": "11520.08",
 			"group": "POSTO HORTO FLORESTAL LTDA"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.772737917213029,
-			"desc": 162.47,
+			"desc": "162.47",
 			"group": "RAMAL"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "M. ROCHA MARTINS & CIA LTDA - ME",
 			"name": "M. ROCHA MARTINS & CIA LTDA - ME",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "M. ROCHA MARTINS & CIA LTDA - ME"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 222.82404134710566,
-			"desc": 4580.59,
+			"desc": "4580.59",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "SANEPAR",
 			"name": "SANEPAR",
 			"val": 12.07896656377389,
-			"desc": 356.24,
+			"desc": "356.24",
 			"group": "SANEPAR"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 81.9678382117347,
-			"desc": 1883.58,
+			"desc": "1883.58",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "RAFAEL ALVES SANTANA GALANI 04404139900",
 			"name": "RAFAEL ALVES SANTANA GALANI 04404139900",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "RAFAEL ALVES SANTANA GALANI 04404139900"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "JORNAL TRIBUNA REGIONAL 30112018 25000",
 			"name": "JORNAL TRIBUNA REGIONAL 30112018 25000",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "JORNAL TRIBUNA REGIONAL 30112018 25000"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 87.29556072880956,
-			"desc": 1991.32,
+			"desc": "1991.32",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "PRESERVE - SERVICOS ESPECIAIS LTDA.",
 			"name": "PRESERVE - SERVICOS ESPECIAIS LTDA.",
 			"val": 4.461711888102909,
-			"desc": 153.58,
+			"desc": "153.58",
 			"group": "PRESERVE - SERVICOS ESPECIAIS LTDA."
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "JORNAL O PIONEIRO LTDA.",
 			"name": "JORNAL O PIONEIRO LTDA.",
 			"val": 32.952427123817486,
-			"desc": 847,
+			"desc": "847.00",
 			"group": "JORNAL O PIONEIRO LTDA."
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "MAR & MAR VEICULOS LTDA - ME",
 			"name": "MAR & MAR VEICULOS LTDA - ME",
 			"val": 321.1480543394628,
-			"desc": 6355,
+			"desc": "6355.00",
 			"group": "MAR & MAR VEICULOS LTDA - ME"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "COPEL TELECOMUNICACOES S.A.",
 			"name": "COPEL TELECOMUNICACOES S.A.",
 			"val": 20.5553458937349,
-			"desc": 562.5,
+			"desc": "562.50",
 			"group": "COPEL TELECOMUNICACOES S.A."
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "EMPREENDIMENTOS TURISTICOS MAGALA LTDA - ME",
 			"name": "EMPREENDIMENTOS TURISTICOS MAGALA LTDA - ME",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "EMPREENDIMENTOS TURISTICOS MAGALA LTDA - ME"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "D R EVANGELISTA - INFORMATICA - ME",
 			"name": "D R EVANGELISTA - INFORMATICA - ME",
 			"val": 35.14956004065445,
-			"desc": 896,
+			"desc": "896.00",
 			"group": "D R EVANGELISTA - INFORMATICA - ME"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 68.61641727815132,
-			"desc": 1610.25,
+			"desc": "1610.25",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 35.37464139811199,
-			"desc": 901,
+			"desc": "901.00",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "RAFAEL ALVES SANTANA GALANI",
 			"name": "RAFAEL ALVES SANTANA GALANI",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "RAFAEL ALVES SANTANA GALANI"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "RMJE - ADMINISTRADORA E INCORPORADORA DE BENS LTDA",
 			"name": "RMJE - ADMINISTRADORA E INCORPORADORA DE BENS LTDA",
 			"val": 40.3723127096212,
-			"desc": 1011.15,
+			"desc": "1011.15",
 			"group": "RMJE - ADMINISTRADORA E INCORPORADORA DE BENS LTDA"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 65.6063098832898,
-			"desc": 1547.89,
+			"desc": "1547.89",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 69.48934412611446,
-			"desc": 1628.28,
+			"desc": "1628.28",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 38.067883901340004,
-			"desc": 960.56,
+			"desc": "960.56",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{

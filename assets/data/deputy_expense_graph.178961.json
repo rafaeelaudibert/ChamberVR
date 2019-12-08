@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SHÉRIDAN"
+			"name": "SHÉRIDAN",
+			"desc": "204764.13"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 425.21455573392,
-			"desc": 8178.68,
+			"desc": "8178.68",
 			"group": "SAO JOAO POSTOS"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "INSTITUTO DANKEMO TREINAMENTOS EM DESENVOLVIMENTO PROFISSION",
 			"name": "INSTITUTO DANKEMO TREINAMENTOS EM DESENVOLVIMENTO PROFISSION",
 			"val": 370.20609761308117,
-			"desc": 7220.5,
+			"desc": "7220.50",
 			"group": "INSTITUTO DANKEMO TREINAMENTOS EM DESENVOLVIMENTO PROFISSION"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 1467.0643329361503,
-			"desc": 25094.99000000001,
+			"desc": "25094.99",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 127.2827616449245,
-			"desc": 2781.17,
+			"desc": "2781.17",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 12.059129788118769,
-			"desc": 355.74,
+			"desc": "355.74",
 			"group": "RAMAL"
 		},
 		{
@@ -226,7 +227,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 3140.447082915064,
-			"desc": 50271.43999999999,
+			"desc": "50271.44",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -401,7 +402,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.642545047598725,
-			"desc": 67.56,
+			"desc": "67.56",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "FORBRAS RORAIMA LTDA",
 			"name": "FORBRAS RORAIMA LTDA",
 			"val": 516.7962736374491,
-			"desc": 9750,
+			"desc": "9750.00",
 			"group": "FORBRAS RORAIMA LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"name": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"val": 1948.4597726997704,
-			"desc": 32500,
+			"desc": "32500.00",
 			"group": "NOVITTA RENT A CAR TRANSPORTE LTDA ME"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 53.91010885941027,
-			"desc": 1302.54,
+			"desc": "1302.54",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 241.13725022765703,
-			"desc": 4915.860000000001,
+			"desc": "4915.86",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 547.063656315985,
-			"desc": 10263.66,
+			"desc": "10263.66",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 12.626444561564142,
-			"desc": 370,
+			"desc": "370.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "ANNA KAROLINY VIEIRA MARTINS 84187379215",
 			"name": "ANNA KAROLINY VIEIRA MARTINS 84187379215",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "ANNA KAROLINY VIEIRA MARTINS 84187379215"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "AUTO POSTO ABEL GALINHA LTDA MATRIZ",
 			"name": "AUTO POSTO ABEL GALINHA LTDA MATRIZ",
 			"val": 152.22259985230906,
-			"desc": 3260.71,
+			"desc": "3260.71",
 			"group": "AUTO POSTO ABEL GALINHA LTDA MATRIZ"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "SOLIMÕES TRANPORTES DE PASSAGEIROS E CARGAS EIRELI",
 			"name": "SOLIMÕES TRANPORTES DE PASSAGEIROS E CARGAS EIRELI",
 			"val": 16.275701693737652,
-			"desc": 460,
+			"desc": "460.00",
 			"group": "SOLIMÕES TRANPORTES DE PASSAGEIROS E CARGAS EIRELI"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "RENAISSANCE DO BRASIL HOTELARIA LTDA",
 			"name": "RENAISSANCE DO BRASIL HOTELARIA LTDA",
 			"val": 83.12052791771853,
-			"desc": 1906.95,
+			"desc": "1906.95",
 			"group": "RENAISSANCE DO BRASIL HOTELARIA LTDA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.00751509816700411,
-			"desc": 1.95,
+			"desc": "1.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 22.487966361634445,
-			"desc": 607.93,
+			"desc": "607.93",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 1.0582725655828802,
-			"desc": 47.5,
+			"desc": "47.50",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 10.13808901423383,
-			"desc": 306.8,
+			"desc": "306.80",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 0.6879787639443057,
-			"desc": 33.85,
+			"desc": "33.85",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{

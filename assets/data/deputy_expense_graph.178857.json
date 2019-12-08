@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JORGE SOLLA"
+			"name": "JORGE SOLLA",
+			"desc": "56704.41"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "FRS - FALCAO REAL SERVICOS LTDA",
 			"name": "FRS - FALCAO REAL SERVICOS LTDA",
 			"val": 3.4224262420939553,
-			"desc": 123.2,
+			"desc": "123.20",
 			"group": "FRS - FALCAO REAL SERVICOS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "J A SOBRAL &amp; CIA LTDA - BONOCO",
 			"name": "J A SOBRAL &amp; CIA LTDA - BONOCO",
 			"val": 39.99549974153202,
-			"desc": 1002.9,
+			"desc": "1002.90",
 			"group": "J A SOBRAL &amp; CIA LTDA - BONOCO"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "MIX CAFE",
 			"name": "MIX CAFE",
 			"val": 3.786062435064198,
-			"desc": 133.96,
+			"desc": "133.96",
 			"group": "MIX CAFE"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 214.14788502663276,
-			"desc": 4420.85,
+			"desc": "4420.85",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -183,7 +184,7 @@
 			"id": "Maria da Silva Coqueiro",
 			"name": "Maria da Silva Coqueiro",
 			"val": 117.98067744232449,
-			"desc": 2600,
+			"desc": "2600.00",
 			"group": "Maria da Silva Coqueiro"
 		},
 		{
@@ -202,7 +203,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 2.6721041022952945,
-			"desc": 100.45,
+			"desc": "100.45",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -215,7 +216,7 @@
 			"id": "MGM",
 			"name": "MGM",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "MGM"
 		},
 		{
@@ -228,7 +229,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.5891335273573257,
-			"desc": 65.78,
+			"desc": "65.78",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -241,7 +242,7 @@
 			"id": "AUTO POSTO PIRES PEREIRA LTDA",
 			"name": "AUTO POSTO PIRES PEREIRA LTDA",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "AUTO POSTO PIRES PEREIRA LTDA"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 1.0040869702339406,
-			"desc": 45.56,
+			"desc": "45.56",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 4.335903802880738,
-			"desc": 149.96,
+			"desc": "149.96",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "TREVO DERIVADOS DE PETROLEO LTDA",
 			"name": "TREVO DERIVADOS DE PETROLEO LTDA",
 			"val": 10.01978982716917,
-			"desc": 303.75,
+			"desc": "303.75",
 			"group": "TREVO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -299,7 +300,7 @@
 			"id": "F H C ALIMENTOS EIRELI - ME",
 			"name": "F H C ALIMENTOS EIRELI - ME",
 			"val": 0.4800140660379223,
-			"desc": 25.64,
+			"desc": "25.64",
 			"group": "F H C ALIMENTOS EIRELI - ME"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0,
-			"desc": 1,
+			"desc": "1.00",
 			"group": "RAMAL"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "VIA BAHIA",
 			"name": "VIA BAHIA",
 			"val": 1.1571747697621853,
-			"desc": 51.00000000000001,
+			"desc": "51.00",
 			"group": "VIA BAHIA"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 7.625405815171379,
-			"desc": 240.93000000000004,
+			"desc": "240.93",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "ECT- EMP. BRAS. CORREIOS E TELEGRAFOS",
 			"name": "ECT- EMP. BRAS. CORREIOS E TELEGRAFOS",
 			"val": 0.0933425493357339,
-			"desc": 7.85,
+			"desc": "7.85",
 			"group": "ECT- EMP. BRAS. CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 16.915059511696793,
-			"desc": 475.5,
+			"desc": "475.50",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 111.12730024121103,
-			"desc": 2465.61,
+			"desc": "2465.61",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.080909609240688,
-			"desc": 81.86,
+			"desc": "81.86",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "POSTO RECREIO DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO RECREIO DERIVADOS DE PETROLEO LTDA",
 			"val": 99.24829662019553,
-			"desc": 2230.65,
+			"desc": "2230.65",
 			"group": "POSTO RECREIO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "PASSAREDO TRANSPORTES AEREO",
 			"name": "PASSAREDO TRANSPORTES AEREO",
 			"val": 30.859452884623373,
-			"desc": 799.98,
+			"desc": "799.98",
 			"group": "PASSAREDO TRANSPORTES AEREO"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "PETROMERC DERIVADOS DE PETROLEO LTDA",
 			"name": "PETROMERC DERIVADOS DE PETROLEO LTDA",
 			"val": 7.409517733165564,
-			"desc": 235.15,
+			"desc": "235.15",
 			"group": "PETROMERC DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "POSTO ALBALONGA LTDA",
 			"name": "POSTO ALBALONGA LTDA",
 			"val": 16.698997055945394,
-			"desc": 470.27,
+			"desc": "470.27",
 			"group": "POSTO ALBALONGA LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 4.575430418842377,
-			"desc": 156.84,
+			"desc": "156.84",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 5.072039052858976,
-			"desc": 170.95,
+			"desc": "170.95",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 10.91298649772558,
-			"desc": 326.67,
+			"desc": "326.67",
 			"group": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "CMK INTERMEDIACAO DE NEGOCIOS LTDA",
 			"name": "CMK INTERMEDIACAO DE NEGOCIOS LTDA",
 			"val": 1.243055700467309,
-			"desc": 54,
+			"desc": "54.00",
 			"group": "CMK INTERMEDIACAO DE NEGOCIOS LTDA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "SEREIA NEGRA COMUNICAÇÃO, CONSULTORIA LTDA - ME",
 			"name": "SEREIA NEGRA COMUNICAÇÃO, CONSULTORIA LTDA - ME",
 			"val": 68.12067961455824,
-			"desc": 1600,
+			"desc": "1600.00",
 			"group": "SEREIA NEGRA COMUNICAÇÃO, CONSULTORIA LTDA - ME"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 19.150008212118014,
-			"desc": 529.15,
+			"desc": "529.15",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
 			"name": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
 			"val": 3.3728234321048682,
-			"desc": 121.72,
+			"desc": "121.72",
 			"group": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "MALAGHETA BUFFET A QUILO",
 			"name": "MALAGHETA BUFFET A QUILO",
 			"val": 1.3824454475880052,
-			"desc": 58.8,
+			"desc": "58.80",
 			"group": "MALAGHETA BUFFET A QUILO"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "CAFÉ DO PAPA",
 			"name": "CAFÉ DO PAPA",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "CAFÉ DO PAPA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "POSTO GARIBALDI REV DE COMB E",
 			"name": "POSTO GARIBALDI REV DE COMB E",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "POSTO GARIBALDI REV DE COMB E"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "AF ANDRADE COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"name": "AF ANDRADE COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"val": 4.396660403482894,
-			"desc": 151.71,
+			"desc": "151.71",
 			"group": "AF ANDRADE COMERCIO DE COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 4.587313292901449,
-			"desc": 157.18,
+			"desc": "157.18",
 			"group": "POSTO ANGICAL COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "DELI & C.I.A. DELICATESSEN LTDA",
 			"name": "DELI & C.I.A. DELICATESSEN LTDA",
 			"val": 0.28171286945873847,
-			"desc": 17.17,
+			"desc": "17.17",
 			"group": "DELI & C.I.A. DELICATESSEN LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "AUTO POSTO VIA REGIONAL LTDA",
 			"name": "AUTO POSTO VIA REGIONAL LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "AUTO POSTO VIA REGIONAL LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 1.382152634923776,
-			"desc": 58.79,
+			"desc": "58.79",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "CARLOS ALBERTO SILVA PINTO & CIA LTDA",
 			"name": "CARLOS ALBERTO SILVA PINTO & CIA LTDA",
 			"val": 5.7246200931902935,
-			"desc": 189.21,
+			"desc": "189.21",
 			"group": "CARLOS ALBERTO SILVA PINTO & CIA LTDA"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "Andréa Ferreira Brandão",
 			"name": "Andréa Ferreira Brandão",
 			"val": 220.53098374130872,
-			"desc": 4538.43,
+			"desc": "4538.43",
 			"group": "Andréa Ferreira Brandão"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "CHURRASCARIA E LANCHONETE EXPO-FEIRA",
 			"name": "CHURRASCARIA E LANCHONETE EXPO-FEIRA",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "CHURRASCARIA E LANCHONETE EXPO-FEIRA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "AUTO POSTO BANGKOK LTDA",
 			"name": "AUTO POSTO BANGKOK LTDA",
 			"val": 3.7320039766855793,
-			"desc": 132.37,
+			"desc": "132.37",
 			"group": "AUTO POSTO BANGKOK LTDA"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "OSVALDO MACEDO FILHO EIRELI - EPP",
 			"name": "OSVALDO MACEDO FILHO EIRELI - EPP",
 			"val": 1.6233093678177681,
-			"desc": 66.92,
+			"desc": "66.92",
 			"group": "OSVALDO MACEDO FILHO EIRELI - EPP"
 		},
 		{
@@ -910,7 +911,7 @@
 			"id": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"name": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"val": 139.3981444685391,
-			"desc": 3015.18,
+			"desc": "3015.18",
 			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
 		},
 		{
@@ -923,7 +924,7 @@
 			"id": "LAM COMERCIO E PRESTACAO DE SERVICOS LTDA - ME",
 			"name": "LAM COMERCIO E PRESTACAO DE SERVICOS LTDA - ME",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "LAM COMERCIO E PRESTACAO DE SERVICOS LTDA - ME"
 		},
 		{
@@ -936,7 +937,7 @@
 			"id": "AUTO POSTO SAO JOAO LTDA",
 			"name": "AUTO POSTO SAO JOAO LTDA",
 			"val": 7.444199225025486,
-			"desc": 236.08,
+			"desc": "236.08",
 			"group": "AUTO POSTO SAO JOAO LTDA"
 		},
 		{
@@ -949,7 +950,7 @@
 			"id": "AJ - CONSTRUÇÕES, ADMINISTRAÇÃO E TERRAPLANAGEM LTDA - ME",
 			"name": "AJ - CONSTRUÇÕES, ADMINISTRAÇÃO E TERRAPLANAGEM LTDA - ME",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "AJ - CONSTRUÇÕES, ADMINISTRAÇÃO E TERRAPLANAGEM LTDA - ME"
 		},
 		{
@@ -962,7 +963,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 133.42131134486664,
-			"desc": 2900,
+			"desc": "2900.00",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -975,7 +976,7 @@
 			"id": "PASSARELLA COM DE DERIV DE COMB",
 			"name": "PASSARELLA COM DE DERIV DE COMB",
 			"val": 3.529013776326325,
-			"desc": 126.37,
+			"desc": "126.37",
 			"group": "PASSARELLA COM DE DERIV DE COMB"
 		},
 		{
@@ -988,7 +989,7 @@
 			"id": "ROMULO CARVALHO FONTOURA - ME",
 			"name": "ROMULO CARVALHO FONTOURA - ME",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "ROMULO CARVALHO FONTOURA - ME"
 		},
 		{

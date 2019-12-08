@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PROFESSORA MARCIVANIA"
+			"name": "PROFESSORA MARCIVANIA",
+			"desc": "336062.24"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1794.742843846225,
-			"desc": 30153.530000000002,
+			"desc": "30153.53",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 743.9561577578662,
-			"desc": 13550.11,
+			"desc": "13550.11",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -343,7 +344,7 @@
 			"id": "MARIA FÁTIMA SILVA DOS SANTOS",
 			"name": "MARIA FÁTIMA SILVA DOS SANTOS",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "MARIA FÁTIMA SILVA DOS SANTOS"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 8.467563044275714,
-			"desc": 263.28,
+			"desc": "263.28",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 82.59206706805631,
-			"desc": 1896.24,
+			"desc": "1896.24",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 13.182892505261167,
-			"desc": 383.90999999999997,
+			"desc": "383.91",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 7.4755426176292925,
-			"desc": 236.92,
+			"desc": "236.92",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 145.00982627602002,
-			"desc": 3122.88,
+			"desc": "3122.88",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 8.195777190712235,
-			"desc": 256.1,
+			"desc": "256.10",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.18573896884275,
-			"desc": 145.62,
+			"desc": "145.62",
 			"group": "RAMAL"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "QUINTELA & SA SERVIÇOS LTDA",
 			"name": "QUINTELA & SA SERVIÇOS LTDA",
 			"val": 2179.5421371990333,
-			"desc": 36000,
+			"desc": "36000.00",
 			"group": "QUINTELA & SA SERVIÇOS LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 84.72331675739954,
-			"desc": 1939.39,
+			"desc": "1939.39",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "MACHADO & ANDRADE LTDA",
 			"name": "MACHADO & ANDRADE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "MACHADO & ANDRADE LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "ECOS SERVICOS LTDA - ME",
 			"name": "ECOS SERVICOS LTDA - ME",
 			"val": 2048.561318436546,
-			"desc": 34020,
+			"desc": "34020.00",
 			"group": "ECOS SERVICOS LTDA - ME"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "MIZUNO KAY & CIA LTDA CEASA 00375386000116",
 			"name": "MIZUNO KAY & CIA LTDA CEASA 00375386000116",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "MIZUNO KAY & CIA LTDA CEASA 00375386000116"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "A. W. DOS SANTOS PEREIRA - ME",
 			"name": "A. W. DOS SANTOS PEREIRA - ME",
 			"val": 259.99492389049954,
-			"desc": 5258.6,
+			"desc": "5258.60",
 			"group": "A. W. DOS SANTOS PEREIRA - ME"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "CASTOR - ADMINISTRACAO DE HOTELARIA LTDA",
 			"name": "CASTOR - ADMINISTRACAO DE HOTELARIA LTDA",
 			"val": 34.48067406815519,
-			"desc": 881.12,
+			"desc": "881.12",
 			"group": "CASTOR - ADMINISTRACAO DE HOTELARIA LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "AUTO POSTO MACHADO LTDA",
 			"name": "AUTO POSTO MACHADO LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "AUTO POSTO MACHADO LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "OLAVO DOS SANTOS ALMEIDA",
 			"name": "OLAVO DOS SANTOS ALMEIDA",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "OLAVO DOS SANTOS ALMEIDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 8.724103195709061,
-			"desc": 270.03,
+			"desc": "270.03",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "NUNES SERVICOS EIRELI",
 			"name": "NUNES SERVICOS EIRELI",
 			"val": 11965.729739082559,
-			"desc": 172000,
+			"desc": "172000.00",
 			"group": "NUNES SERVICOS EIRELI"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.49411271943518,
-			"desc": 154.51,
+			"desc": "154.51",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "MONTE E FILHOS LTDA - FILIAL MARCO ZERO",
 			"name": "MONTE E FILHOS LTDA - FILIAL MARCO ZERO",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MONTE E FILHOS LTDA - FILIAL MARCO ZERO"
 		},
 		{

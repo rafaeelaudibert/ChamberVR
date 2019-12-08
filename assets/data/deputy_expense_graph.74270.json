@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GILBERTO NASCIMENTO"
+			"name": "GILBERTO NASCIMENTO",
+			"desc": "152301.06"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 74.46660051842643,
-			"desc": 1730.64,
+			"desc": "1730.64",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2798.096850473121,
-			"desc": 45232.51999999998,
+			"desc": "45232.52",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "TIM S.A",
 			"name": "TIM S.A",
 			"val": 67.08159089394553,
-			"desc": 1578.49,
+			"desc": "1578.49",
 			"group": "TIM S.A"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.7109918402556668,
-			"desc": 101.65,
+			"desc": "101.65",
 			"group": "RAMAL"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "Cristiano de Souza Bernardo",
 			"name": "Cristiano de Souza Bernardo",
 			"val": 12.188538288569902,
-			"desc": 359,
+			"desc": "359.00",
 			"group": "Cristiano de Souza Bernardo"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "A E R MORAIS COMERCIO E PRODUCOES E EVENTOS LTDA -",
 			"name": "A E R MORAIS COMERCIO E PRODUCOES E EVENTOS LTDA -",
 			"val": 986.6547111124938,
-			"desc": 17500,
+			"desc": "17500.00",
 			"group": "A E R MORAIS COMERCIO E PRODUCOES E EVENTOS LTDA -"
 		},
 		{
@@ -401,7 +402,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 72.01869496719834,
-			"desc": 1680.39,
+			"desc": "1680.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 1206.0805434250312,
-			"desc": 21000,
+			"desc": "21000.00",
 			"group": "WRIGHT MINUSSI SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "CARLOS CUNHA RENT A CAR LTDA.",
 			"name": "CARLOS CUNHA RENT A CAR LTDA.",
 			"val": 1193.4454195385958,
-			"desc": 20800,
+			"desc": "20800.00",
 			"group": "CARLOS CUNHA RENT A CAR LTDA."
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 128.25356445252208,
-			"desc": 2800,
+			"desc": "2800.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.143807445736703,
-			"desc": 200.79,
+			"desc": "200.79",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "POSTO DE SERVICOS CHICAJULIA LT",
 			"name": "POSTO DE SERVICOS CHICAJULIA LT",
 			"val": 309.8918431389218,
-			"desc": 6154.76,
+			"desc": "6154.76",
 			"group": "POSTO DE SERVICOS CHICAJULIA LT"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 1.9777489444788483,
-			"desc": 78.54,
+			"desc": "78.54",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.0258167427417404,
-			"desc": 46.34,
+			"desc": "46.34",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 114.15088349251783,
-			"desc": 2525,
+			"desc": "2525.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 1.1066964915483146,
-			"desc": 49.22,
+			"desc": "49.22",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 17.66784248028036,
-			"desc": 493.66,
+			"desc": "493.66",
 			"group": "CLARO S.A"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "POSTO DE SERVIÇOS CHICAJULIA LTDA",
 			"name": "POSTO DE SERVIÇOS CHICAJULIA LTDA",
 			"val": 611.4018743311608,
-			"desc": 11347.41,
+			"desc": "11347.41",
 			"group": "POSTO DE SERVIÇOS CHICAJULIA LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 3.7398169663554595,
-			"desc": 132.6,
+			"desc": "132.60",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 17.99653150950344,
-			"desc": 501.56,
+			"desc": "501.56",
 			"group": "CLARO S/A"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 5.731105295613188,
-			"desc": 189.39,
+			"desc": "189.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "ORCHID ELIAS",
 			"name": "ORCHID ELIAS",
 			"val": 151.66091203644135,
-			"desc": 3250,
+			"desc": "3250.00",
 			"group": "ORCHID ELIAS"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 2.6866773621987865,
-			"desc": 100.9,
+			"desc": "100.90",
 			"group": "SABESP"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 15.790980317883369,
-			"desc": 448.2,
+			"desc": "448.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

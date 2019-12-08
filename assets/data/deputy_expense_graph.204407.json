@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FERNANDA MELCHIONNA"
+			"name": "FERNANDA MELCHIONNA",
+			"desc": "74432.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Restaurante Garcia",
 			"name": "Restaurante Garcia",
 			"val": 1.79552806324022,
-			"desc": 72.61,
+			"desc": "72.61",
 			"group": "Restaurante Garcia"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "GEMTE COMUNICAÇÃO LTDA ME",
 			"name": "GEMTE COMUNICAÇÃO LTDA ME",
 			"val": 1654.5915911526054,
-			"desc": 28000,
+			"desc": "28000.00",
 			"group": "GEMTE COMUNICAÇÃO LTDA ME"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 26.52571267963899,
-			"desc": 701.43,
+			"desc": "701.43",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.918485497020987,
-			"desc": 221.92,
+			"desc": "221.92",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "POSTO DE COMBUSTIVEL DORAL LTDA",
 			"name": "POSTO DE COMBUSTIVEL DORAL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEL DORAL LTDA"
 		},
 		{
@@ -130,7 +131,7 @@
 			"id": "Posto de Combustiveis Master ltda",
 			"name": "Posto de Combustiveis Master ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto de Combustiveis Master ltda"
 		},
 		{
@@ -143,7 +144,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 297.490533656378,
-			"desc": 5933.370000000001,
+			"desc": "5933.37",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 16.565726291467968,
-			"desc": 467.04,
+			"desc": "467.04",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 453.9150150962694,
-			"desc": 8674.09,
+			"desc": "8674.09",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 599.6462450746458,
-			"desc": 11150.17,
+			"desc": "11150.17",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "DELTA COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "DELTA COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 8.458080580292707,
-			"desc": 263.03,
+			"desc": "263.03",
 			"group": "DELTA COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -443,7 +444,7 @@
 			"id": "RICARDO NERY MARTINS INDUSTRIA GRAFICA EIRELI",
 			"name": "RICARDO NERY MARTINS INDUSTRIA GRAFICA EIRELI",
 			"val": 432.8636866559175,
-			"desc": 8311,
+			"desc": "8311.00",
 			"group": "RICARDO NERY MARTINS INDUSTRIA GRAFICA EIRELI"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"val": 29.19193387934229,
-			"desc": 762.26,
+			"desc": "762.26",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "DS COMBUSTIVEIS LTDA",
 			"name": "DS COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "DS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 24.295169360581124,
-			"desc": 650,
+			"desc": "650.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
 			"name": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 33.84729221941332,
-			"desc": 867,
+			"desc": "867.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"name": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"val": 8.249059526799742,
-			"desc": 257.51,
+			"desc": "257.51",
 			"group": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "MIRAMAR COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "MIRAMAR COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "MIRAMAR COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.4997148640832876,
-			"desc": 125.5,
+			"desc": "125.50",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "GARCIA",
 			"name": "GARCIA",
 			"val": 2.2920638695166247,
-			"desc": 88.58,
+			"desc": "88.58",
 			"group": "GARCIA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.6939851396390957,
-			"desc": 34.08,
+			"desc": "34.08",
 			"group": "RAMAL"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "COML INTERNACIONAL LTDA - SANTA TECLA",
 			"name": "COML INTERNACIONAL LTDA - SANTA TECLA",
 			"val": 6.885613545963985,
-			"desc": 221.03,
+			"desc": "221.03",
 			"group": "COML INTERNACIONAL LTDA - SANTA TECLA"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "Viação EGA",
 			"name": "Viação EGA",
 			"val": 32.472113188467496,
-			"desc": 836.24,
+			"desc": "836.24",
 			"group": "Viação EGA"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "Central de Imóveis Ltda.",
 			"name": "Central de Imóveis Ltda.",
 			"val": 16.770430077195154,
-			"desc": 472,
+			"desc": "472.00",
 			"group": "Central de Imóveis Ltda."
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 12.087696028370155,
-			"desc": 356.46000000000004,
+			"desc": "356.46",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "Adobe Systems Software",
 			"name": "Adobe Systems Software",
 			"val": 15.782780020327227,
-			"desc": 448,
+			"desc": "448.00",
 			"group": "Adobe Systems Software"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 20.359544110895172,
-			"desc": 557.87,
+			"desc": "557.87",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "RADIO TAXI 141",
 			"name": "RADIO TAXI 141",
 			"val": 0.6176482967993934,
-			"desc": 31.13,
+			"desc": "31.13",
 			"group": "RADIO TAXI 141"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "EDGAR VASQUES DA SILVA - ME",
 			"name": "EDGAR VASQUES DA SILVA - ME",
 			"val": 51.43856189774724,
-			"desc": 1250,
+			"desc": "1250.00",
 			"group": "EDGAR VASQUES DA SILVA - ME"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "S.A O ESTADO DE S.PAULO",
 			"name": "S.A O ESTADO DE S.PAULO",
 			"val": 3.3821998207306887,
-			"desc": 122,
+			"desc": "122.00",
 			"group": "S.A O ESTADO DE S.PAULO"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "Empresa Folha da Manhã S.A.",
 			"name": "Empresa Folha da Manhã S.A.",
 			"val": 70.22227135910592,
-			"desc": 1643.4,
+			"desc": "1643.40",
 			"group": "Empresa Folha da Manhã S.A."
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"name": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"val": 7.856743366516301,
-			"desc": 247.1,
+			"desc": "247.10",
 			"group": "ETNA COMERCIO A VAREJO DE COMB LTDA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "Adobe Systems Software Ireland Ltd",
 			"name": "Adobe Systems Software Ireland Ltd",
 			"val": 6.9953900101636135,
-			"desc": 224,
+			"desc": "224.00",
 			"group": "Adobe Systems Software Ireland Ltd"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "SAN RAPHAEL HOTÉIS S.A",
 			"name": "SAN RAPHAEL HOTÉIS S.A",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "SAN RAPHAEL HOTÉIS S.A"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "CARLA REGINA RAUBER RAMBO VOLTOLINI - ME",
 			"name": "CARLA REGINA RAUBER RAMBO VOLTOLINI - ME",
 			"val": 1.0540664033980458,
-			"desc": 47.35,
+			"desc": "47.35",
 			"group": "CARLA REGINA RAUBER RAMBO VOLTOLINI - ME"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 52",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 52",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 52"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.319071964021679,
-			"desc": 205.6,
+			"desc": "205.60",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "Taxi STX 1273",
 			"name": "Taxi STX 1273",
 			"val": 0.618929114138964,
-			"desc": 31.18,
+			"desc": "31.18",
 			"group": "Taxi STX 1273"
 		},
 		{

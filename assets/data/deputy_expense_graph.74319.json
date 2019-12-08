@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAES LANDIM"
+			"name": "PAES LANDIM",
+			"desc": "170522.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.050831544508503,
-			"desc": 278.59000000000003,
+			"desc": "278.59",
 			"group": "RAMAL"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1115.9178546824894,
-			"desc": 19568.89,
+			"desc": "19568.89",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 5.638605051644424,
-			"desc": 186.82,
+			"desc": "186.82",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 889.040811120449,
-			"desc": 15922.599999999999,
+			"desc": "15922.60",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "PICEARA TAXI AEREO LTDA",
 			"name": "PICEARA TAXI AEREO LTDA",
 			"val": 1079.6158555713998,
-			"desc": 18990,
+			"desc": "18990.00",
 			"group": "PICEARA TAXI AEREO LTDA"
 		},
 		{
@@ -388,7 +389,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 14.846498080693474,
-			"desc": 425.0799999999999,
+			"desc": "425.08",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "CEARA TAXI AEREO LTDA",
 			"name": "CEARA TAXI AEREO LTDA",
 			"val": 5295.80545958366,
-			"desc": 81180,
+			"desc": "81180.00",
 			"group": "CEARA TAXI AEREO LTDA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "SANTA CATARINA PESQUISAS E CONSULTORIA DE OPINIAO PUBLICA LT",
 			"name": "SANTA CATARINA PESQUISAS E CONSULTORIA DE OPINIAO PUBLICA LT",
 			"val": 188.77266361963888,
-			"desc": 3950,
+			"desc": "3950.00",
 			"group": "SANTA CATARINA PESQUISAS E CONSULTORIA DE OPINIAO PUBLICA LT"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 385.387248757653,
-			"desc": 7486.150000000001,
+			"desc": "7486.15",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "EDITORA GRAFICA ALIANCA LTDA",
 			"name": "EDITORA GRAFICA ALIANCA LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "EDITORA GRAFICA ALIANCA LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "Blue Tree",
 			"name": "Blue Tree",
 			"val": 259.30098786823936,
-			"desc": 5246.03,
+			"desc": "5246.03",
 			"group": "Blue Tree"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 324.18761663179436,
-			"desc": 6408.960000000001,
+			"desc": "6408.96",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "ALBERGUE SERRA DA CAPIVARA",
 			"name": "ALBERGUE SERRA DA CAPIVARA",
 			"val": 7.125047688928314,
-			"desc": 227.5,
+			"desc": "227.50",
 			"group": "ALBERGUE SERRA DA CAPIVARA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "VERBO COMUNICAÇÃO",
 			"name": "VERBO COMUNICAÇÃO",
 			"val": 204.90520114051125,
-			"desc": 4250,
+			"desc": "4250.00",
 			"group": "VERBO COMUNICAÇÃO"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 2.044775556836427,
-			"desc": 80.7,
+			"desc": "80.70",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "MELIÁ BRASIL",
 			"name": "MELIÁ BRASIL",
 			"val": 46.48925073012796,
-			"desc": 1143.95,
+			"desc": "1143.95",
 			"group": "MELIÁ BRASIL"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 12.351533659361419,
-			"desc": 363.1,
+			"desc": "363.10",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.0594045603236117,
-			"desc": 81.17,
+			"desc": "81.17",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "POSTO MURALHA",
 			"name": "POSTO MURALHA",
 			"val": 74.24898954698223,
-			"desc": 1726.18,
+			"desc": "1726.18",
 			"group": "POSTO MURALHA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.08116517671808338,
-			"desc": 7.15,
+			"desc": "7.15",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LEANDRE"
+			"name": "LEANDRE",
+			"desc": "29943.76"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CAMINHOS DO PARANA S/A",
 			"name": "CAMINHOS DO PARANA S/A",
 			"val": 0.20693049854640938,
-			"desc": 13.7,
+			"desc": "13.70",
 			"group": "CAMINHOS DO PARANA S/A"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Conc. de Rodovias Integradas S/A",
 			"name": "Conc. de Rodovias Integradas S/A",
 			"val": 0.4913040929356553,
-			"desc": 26.099999999999998,
+			"desc": "26.10",
 			"group": "Conc. de Rodovias Integradas S/A"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 193.30216432390512,
-			"desc": 4034.47,
+			"desc": "4034.47",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "CAMINHOS DO PARANÁ S/A",
 			"name": "CAMINHOS DO PARANÁ S/A",
 			"val": 3.658404200415324,
-			"desc": 130.2,
+			"desc": "130.20",
 			"group": "CAMINHOS DO PARANÁ S/A"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 54.280445032220605,
-			"desc": 1310.39,
+			"desc": "1310.39",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "CIBRACO - IMÓVEIS",
 			"name": "CIBRACO - IMÓVEIS",
 			"val": 244.42712946868622,
-			"desc": 4975.83,
+			"desc": "4975.83",
 			"group": "CIBRACO - IMÓVEIS"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "MARCOS VENICO SCRIPES",
 			"name": "MARCOS VENICO SCRIPES",
 			"val": 6.43164157950336,
-			"desc": 208.68,
+			"desc": "208.68",
 			"group": "MARCOS VENICO SCRIPES"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS KIST LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS KIST LTDA",
 			"val": 18.350568435031228,
-			"desc": 510.04999999999995,
+			"desc": "510.05",
 			"group": "COMERCIO DE COMBUSTIVEIS KIST LTDA"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 56.857067006904494,
-			"desc": 1364.85,
+			"desc": "1364.85",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "POSTO DE SERVICOS ACALANTO LTDA",
 			"name": "POSTO DE SERVICOS ACALANTO LTDA",
 			"val": 4.935492111057602,
-			"desc": 167.09,
+			"desc": "167.09",
 			"group": "POSTO DE SERVICOS ACALANTO LTDA"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 31.64327628968615,
-			"desc": 817.63,
+			"desc": "817.63",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "MIRANTE SUL PARK HOTEL LTDA",
 			"name": "MIRANTE SUL PARK HOTEL LTDA",
 			"val": 3.281933255334581,
-			"desc": 119,
+			"desc": "119.00",
 			"group": "MIRANTE SUL PARK HOTEL LTDA"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "Rádio Grande Lago",
 			"name": "Rádio Grande Lago",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "Rádio Grande Lago"
 		},
 		{
@@ -391,7 +392,7 @@
 			"id": "AUTO POSTO V.W. LTDA",
 			"name": "AUTO POSTO V.W. LTDA",
 			"val": 19.527254456702064,
-			"desc": 538.13,
+			"desc": "538.13",
 			"group": "AUTO POSTO V.W. LTDA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "RESTAURANTE E HOTEL IGUAÇU",
 			"name": "RESTAURANTE E HOTEL IGUAÇU",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "RESTAURANTE E HOTEL IGUAÇU"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "Radio Educadora Marechal",
 			"name": "Radio Educadora Marechal",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "Radio Educadora Marechal"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 56.42706130292241,
-			"desc": 1355.7800000000002,
+			"desc": "1355.78",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L24",
 			"name": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L24",
 			"val": 15.93867352022594,
-			"desc": 451.79999999999995,
+			"desc": "451.80",
 			"group": "STOPETROLEO S.A.-COM.DER.DE PETROLEO L24"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.9443185766799155,
-			"desc": 43.4,
+			"desc": "43.40",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "GP SISTEMAS E SERVIÇOS LTDA",
 			"name": "GP SISTEMAS E SERVIÇOS LTDA",
 			"val": 35.05957253175155,
-			"desc": 894,
+			"desc": "894.00",
 			"group": "GP SISTEMAS E SERVIÇOS LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "ALBINO DE MELO & CIA",
 			"name": "ALBINO DE MELO & CIA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "ALBINO DE MELO & CIA"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 9.308010570955597,
-			"desc": 285.29999999999995,
+			"desc": "285.30",
 			"group": "CLARO S/A"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "JLA CORRETORA DE IMOVEIS LTDA",
 			"name": "JLA CORRETORA DE IMOVEIS LTDA",
 			"val": 34.20598722351892,
-			"desc": 875,
+			"desc": "875.00",
 			"group": "JLA CORRETORA DE IMOVEIS LTDA"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 11.901374149710254,
-			"desc": 351.76,
+			"desc": "351.76",
 			"group": "TIM S/A"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "CENTRAL SERVER INFORMATICA LTDA",
 			"name": "CENTRAL SERVER INFORMATICA LTDA",
 			"val": 2.691213629778624,
-			"desc": 101.03999999999999,
+			"desc": "101.04",
 			"group": "CENTRAL SERVER INFORMATICA LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "ENNGE SOLUCOES EM INFORMATICA LTDA",
 			"name": "ENNGE SOLUCOES EM INFORMATICA LTDA",
 			"val": 10.495978865695857,
-			"desc": 316,
+			"desc": "316.00",
 			"group": "ENNGE SOLUCOES EM INFORMATICA LTDA"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "JV HAMUD COMERCIO DE COMBUSTIVEIS",
 			"name": "JV HAMUD COMERCIO DE COMBUSTIVEIS",
 			"val": 5.234351557010835,
-			"desc": 175.52,
+			"desc": "175.52",
 			"group": "JV HAMUD COMERCIO DE COMBUSTIVEIS"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.38923739034838,
-			"desc": 486.95000000000005,
+			"desc": "486.95",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 38.46446905354805,
-			"desc": 969.29,
+			"desc": "969.29",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "E A DE SOUZA MANITORAMENTO",
 			"name": "E A DE SOUZA MANITORAMENTO",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "E A DE SOUZA MANITORAMENTO"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "BULIGON SOCIEDADE DE ADVOGADOS",
 			"name": "BULIGON SOCIEDADE DE ADVOGADOS",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "BULIGON SOCIEDADE DE ADVOGADOS"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "AUTO POSTO LINKE LTDA",
 			"name": "AUTO POSTO LINKE LTDA",
 			"val": 5.502925650030202,
-			"desc": 183.04,
+			"desc": "183.04",
 			"group": "AUTO POSTO LINKE LTDA"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "INTELIG TELECOMUNICAÇÕES LTDA",
 			"name": "INTELIG TELECOMUNICAÇÕES LTDA",
 			"val": 4.588012417755038,
-			"desc": 157.2,
+			"desc": "157.20",
 			"group": "INTELIG TELECOMUNICAÇÕES LTDA"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "AUTO POSTO COMETA LTDA",
 			"name": "AUTO POSTO COMETA LTDA",
 			"val": 2.6572190167461494,
-			"desc": 99.99,
+			"desc": "99.99",
 			"group": "AUTO POSTO COMETA LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "SANEPAR",
 			"name": "SANEPAR",
 			"val": 1.5351069171772327,
-			"desc": 63.97,
+			"desc": "63.97",
 			"group": "SANEPAR"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.5556682864321558,
-			"desc": 64.66,
+			"desc": "64.66",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "COMPANHIA DE SANEAMENTO DO PARANA SANEPAR",
 			"name": "COMPANHIA DE SANEAMENTO DO PARANA SANEPAR",
 			"val": 1.5351069171772327,
-			"desc": 63.97,
+			"desc": "63.97",
 			"group": "COMPANHIA DE SANEAMENTO DO PARANA SANEPAR"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.5598010965970572,
-			"desc": 96.97,
+			"desc": "96.97",
 			"group": "RAMAL"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "ROTA SUL AUTO POSTO LTDA.",
 			"name": "ROTA SUL AUTO POSTO LTDA.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ROTA SUL AUTO POSTO LTDA."
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "NORMA REGINA BENTO ME",
 			"name": "NORMA REGINA BENTO ME",
 			"val": 2.6413765989763722,
-			"desc": 99.5,
+			"desc": "99.50",
 			"group": "NORMA REGINA BENTO ME"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS",
 			"name": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS",
 			"val": 0.2027639251168273,
-			"desc": 13.5,
+			"desc": "13.50",
 			"group": "RODOVIA DAS CATARATAS S.A. - ECOCATARATAS"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "AUTO POSTO CANAAN LTDA",
 			"name": "AUTO POSTO CANAAN LTDA",
 			"val": 5.226877805468581,
-			"desc": 175.31,
+			"desc": "175.31",
 			"group": "AUTO POSTO CANAAN LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "REDE OESTE DE COMUNICACAO LTDA - ME",
 			"name": "REDE OESTE DE COMUNICACAO LTDA - ME",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "REDE OESTE DE COMUNICACAO LTDA - ME"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "AUTO POSTO ORTONA LTDA",
 			"name": "AUTO POSTO ORTONA LTDA",
 			"val": 5.075228834786575,
-			"desc": 171.04,
+			"desc": "171.04",
 			"group": "AUTO POSTO ORTONA LTDA"
 		},
 		{
@@ -896,7 +897,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 0.31557413293113845,
-			"desc": 18.68,
+			"desc": "18.68",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -909,7 +910,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 1.680215334242721,
-			"desc": 68.81,
+			"desc": "68.81",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -922,7 +923,7 @@
 			"id": "VFS SERVICOS E EQUIPAMENTOS DE SEGURANCA EIRELI",
 			"name": "VFS SERVICOS E EQUIPAMENTOS DE SEGURANCA EIRELI",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "VFS SERVICOS E EQUIPAMENTOS DE SEGURANCA EIRELI"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 2.046953345689558,
-			"desc": 80.77,
+			"desc": "80.77",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -954,7 +955,7 @@
 			"id": "MARIZA MARIA WLADYKA MARINHO EIRELI",
 			"name": "MARIZA MARIA WLADYKA MARINHO EIRELI",
 			"val": 3.230299183888047,
-			"desc": 117.45,
+			"desc": "117.45",
 			"group": "MARIZA MARIA WLADYKA MARINHO EIRELI"
 		},
 		{
@@ -967,7 +968,7 @@
 			"id": "B2M ATACAREJOS DO BRASIL LTDA",
 			"name": "B2M ATACAREJOS DO BRASIL LTDA",
 			"val": 2.7204020124897546,
-			"desc": 101.94,
+			"desc": "101.94",
 			"group": "B2M ATACAREJOS DO BRASIL LTDA"
 		},
 		{

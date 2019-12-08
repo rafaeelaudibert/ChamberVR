@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BIA KICIS"
+			"name": "BIA KICIS",
+			"desc": "27311.76"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 20.364616095865735,
-			"desc": 557.99,
+			"desc": "557.99",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "Microtecnica Informatica Ltda",
 			"name": "Microtecnica Informatica Ltda",
 			"val": 65.70792550100192,
-			"desc": 1550,
+			"desc": "1550.00",
 			"group": "Microtecnica Informatica Ltda"
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "SMAFF COMBUSTIVEIS LTDA",
 			"name": "SMAFF COMBUSTIVEIS LTDA",
 			"val": 4.9344328654052525,
-			"desc": 167.06,
+			"desc": "167.06",
 			"group": "SMAFF COMBUSTIVEIS LTDA"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "PAULO ROBERTO DA SILVA - COMERCIO DE MATERIAIS DE PAPELARIA",
 			"name": "PAULO ROBERTO DA SILVA - COMERCIO DE MATERIAIS DE PAPELARIA",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "PAULO ROBERTO DA SILVA - COMERCIO DE MATERIAIS DE PAPELARIA"
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 51.60750965164811,
-			"desc": 1253.6,
+			"desc": "1253.60",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -274,7 +275,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 52.134445437957716,
-			"desc": 1264.8200000000002,
+			"desc": "1264.82",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -324,7 +325,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.653324330826738,
-			"desc": 130.05,
+			"desc": "130.05",
 			"group": "RAMAL"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.11596554224933256,
-			"desc": 9.1,
+			"desc": "9.10",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "Com. de Prod. de Pape. MARI LTDA ME",
 			"name": "Com. de Prod. de Pape. MARI LTDA ME",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "Com. de Prod. de Pape. MARI LTDA ME"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "AUTO POSTO LAGO NORTE LTDA",
 			"name": "AUTO POSTO LAGO NORTE LTDA",
 			"val": 115.4056574423488,
-			"desc": 2549.6000000000004,
+			"desc": "2549.60",
 			"group": "AUTO POSTO LAGO NORTE LTDA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "ART STILO PAPELARIA, LIVRARIA, COMERCIO E INFORMATICA EIRELI",
 			"name": "ART STILO PAPELARIA, LIVRARIA, COMERCIO E INFORMATICA EIRELI",
 			"val": 2.36406766903661,
-			"desc": 90.85,
+			"desc": "90.85",
 			"group": "ART STILO PAPELARIA, LIVRARIA, COMERCIO E INFORMATICA EIRELI"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.048075444281345,
-			"desc": 526.72,
+			"desc": "526.72",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 23.534573466140948,
-			"desc": 632.34,
+			"desc": "632.34",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
 			"name": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
 			"val": 1.4294207572961524,
-			"desc": 60.4,
+			"desc": "60.40",
 			"group": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "BARU RESTAURANTE LTDA",
 			"name": "BARU RESTAURANTE LTDA",
 			"val": 2.162869777164934,
-			"desc": 84.48,
+			"desc": "84.48",
 			"group": "BARU RESTAURANTE LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 1.45477147308541,
-			"desc": 61.26,
+			"desc": "61.26",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 22.832505279619358,
-			"desc": 615.98,
+			"desc": "615.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "NATS RESTAURANTE LTDA",
 			"name": "NATS RESTAURANTE LTDA",
 			"val": 1.2085848243682944,
-			"desc": 52.8,
+			"desc": "52.80",
 			"group": "NATS RESTAURANTE LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "CEB DISTRIBUICAO S.A.",
 			"name": "CEB DISTRIBUICAO S.A.",
 			"val": 6.335137128099209,
-			"desc": 206.03999999999996,
+			"desc": "206.04",
 			"group": "CEB DISTRIBUICAO S.A."
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 29.065491838822265,
-			"desc": 759.39,
+			"desc": "759.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "CANTUCCI COMERCIO DE ALIMENTOS E VARIEDADES LTDA",
 			"name": "CANTUCCI COMERCIO DE ALIMENTOS E VARIEDADES LTDA",
 			"val": 3.50813053867218,
-			"desc": 125.75,
+			"desc": "125.75",
 			"group": "CANTUCCI COMERCIO DE ALIMENTOS E VARIEDADES LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "RESTAURANTE FIGUEIRA DA VILLA EIRELI - ME",
 			"name": "RESTAURANTE FIGUEIRA DA VILLA EIRELI - ME",
 			"val": 3.876742720293147,
-			"desc": 136.62,
+			"desc": "136.62",
 			"group": "RESTAURANTE FIGUEIRA DA VILLA EIRELI - ME"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "B2M ATACAREJOS DO BRASIL LTDA",
 			"name": "B2M ATACAREJOS DO BRASIL LTDA",
 			"val": 1.1563210062448772,
-			"desc": 50.97,
+			"desc": "50.97",
 			"group": "B2M ATACAREJOS DO BRASIL LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "Livraria Saraiva",
 			"name": "Livraria Saraiva",
 			"val": 2.547902776117666,
-			"desc": 96.6,
+			"desc": "96.60",
 			"group": "Livraria Saraiva"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "SESI Serviço Social da Indústria",
 			"name": "SESI Serviço Social da Indústria",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "SESI Serviço Social da Indústria"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "LA TABLE PRODUCOES CULTURAIS LTDA ME",
 			"name": "LA TABLE PRODUCOES CULTURAIS LTDA ME",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "LA TABLE PRODUCOES CULTURAIS LTDA ME"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "JHL BIJUTERIAS",
 			"name": "JHL BIJUTERIAS",
 			"val": 3.2822667582713785,
-			"desc": 119.01,
+			"desc": "119.01",
 			"group": "JHL BIJUTERIAS"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 7.184794857816625,
-			"desc": 229.11,
+			"desc": "229.11",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.5259495684877126,
-			"desc": 27.5,
+			"desc": "27.50",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 5.1703380587313,
-			"desc": 173.72,
+			"desc": "173.72",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "ATOS PRINT CARIMBOS IMPORTADOS LTDA ME",
 			"name": "ATOS PRINT CARIMBOS IMPORTADOS LTDA ME",
 			"val": 1.6859527500707747,
-			"desc": 69,
+			"desc": "69.00",
 			"group": "ATOS PRINT CARIMBOS IMPORTADOS LTDA ME"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"name": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"val": 323.682718458233,
-			"desc": 6400,
+			"desc": "6400.00",
 			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "SERVICO SOCIAL DA INDUSTRIA DEPARTAMENTO REGIONAL DO DISTRITO FEDERAL",
 			"name": "SERVICO SOCIAL DA INDUSTRIA DEPARTAMENTO REGIONAL DO DISTRITO FEDERAL",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "SERVICO SOCIAL DA INDUSTRIA DEPARTAMENTO REGIONAL DO DISTRITO FEDERAL"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSE MARIO SCHREINER"
+			"name": "JOSE MARIO SCHREINER",
+			"desc": "117170.49"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 28.866043538621636,
-			"desc": 754.86,
+			"desc": "754.86",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"val": 135.1792842623067,
-			"desc": 2933.93,
+			"desc": "2933.93",
 			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "MX LOAD LTDA ME",
 			"name": "MX LOAD LTDA ME",
 			"val": 3464.3716796010845,
-			"desc": 55000,
+			"desc": "55000.00",
 			"group": "MX LOAD LTDA ME"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 4.476340509068059,
-			"desc": 154,
+			"desc": "154.00",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
 			"name": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "FONETALK SERVIÇOS DE TELEFONIA EIRELI-ME"
 		},
 		{
@@ -196,7 +197,7 @@
 			"id": "Sisnetti Integradora De Soluções Ltda -",
 			"name": "Sisnetti Integradora De Soluções Ltda -",
 			"val": 143.81585100200385,
-			"desc": 3100,
+			"desc": "3100.00",
 			"group": "Sisnetti Integradora De Soluções Ltda -"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "POSTO A2 LTDA",
 			"name": "POSTO A2 LTDA",
 			"val": 7.124305900579597,
-			"desc": 227.48000000000002,
+			"desc": "227.48",
 			"group": "POSTO A2 LTDA"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "EI TELECOM",
 			"name": "EI TELECOM",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "EI TELECOM"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 12.107538633916972,
-			"desc": 356.96000000000004,
+			"desc": "356.96",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "E-CÓPIA",
 			"name": "E-CÓPIA",
 			"val": 17.654128225874082,
-			"desc": 493.33,
+			"desc": "493.33",
 			"group": "E-CÓPIA"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "DARLAN SOARES AMORIM",
 			"name": "DARLAN SOARES AMORIM",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "DARLAN SOARES AMORIM"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "ESTANISLAU E SIQUEIRA LTDA ME",
 			"name": "ESTANISLAU E SIQUEIRA LTDA ME",
 			"val": 7.440842026296608,
-			"desc": 235.99,
+			"desc": "235.99",
 			"group": "ESTANISLAU E SIQUEIRA LTDA ME"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "POSTO RADIAL LTDA",
 			"name": "POSTO RADIAL LTDA",
 			"val": 12.813329360665298,
-			"desc": 374.68,
+			"desc": "374.68",
 			"group": "POSTO RADIAL LTDA"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.6877651932486895,
-			"desc": 69.06,
+			"desc": "69.06",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "VICTOR RACY ABADALLA",
 			"name": "VICTOR RACY ABADALLA",
 			"val": 1732.5739114428736,
-			"desc": 29200,
+			"desc": "29200.00",
 			"group": "VICTOR RACY ABADALLA"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 23.004788525080112,
-			"desc": 620,
+			"desc": "620.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "AUTO POSTO LIDER LTDA",
 			"name": "AUTO POSTO LIDER LTDA",
 			"val": 8.81479081252528,
-			"desc": 272.41,
+			"desc": "272.41",
 			"group": "AUTO POSTO LIDER LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"name": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"val": 8.582599045467793,
-			"desc": 266.31,
+			"desc": "266.31",
 			"group": "PIMENTEL COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 213.73537551961056,
-			"desc": 4413.240000000001,
+			"desc": "4413.24",
 			"group": "RAMAL"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 4.243779944991489,
-			"desc": 147.3,
+			"desc": "147.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "NODA E MACHADO LTDA",
 			"name": "NODA E MACHADO LTDA",
 			"val": 5.295976048422816,
-			"desc": 177.25,
+			"desc": "177.25",
 			"group": "NODA E MACHADO LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "SANEAGO",
 			"name": "SANEAGO",
 			"val": 7.46807834393901,
-			"desc": 236.72000000000003,
+			"desc": "236.72",
 			"group": "SANEAGO"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "H BRANDAO LTDA",
 			"name": "H BRANDAO LTDA",
 			"val": 7.827448542025476,
-			"desc": 246.32,
+			"desc": "246.32",
 			"group": "H BRANDAO LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "AUTO POSTO DO RATINHO LTDA",
 			"name": "AUTO POSTO DO RATINHO LTDA",
 			"val": 21.22899242538625,
-			"desc": 578.39,
+			"desc": "578.39",
 			"group": "AUTO POSTO DO RATINHO LTDA"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 108.57243690670865,
-			"desc": 2415.3,
+			"desc": "2415.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "CENCOSUD BRASIL COMERCIAL LTDA",
 			"name": "CENCOSUD BRASIL COMERCIAL LTDA",
 			"val": 6.001463412947099,
-			"desc": 196.87,
+			"desc": "196.87",
 			"group": "CENCOSUD BRASIL COMERCIAL LTDA"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "MX LOAD LTDA",
 			"name": "MX LOAD LTDA",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "MX LOAD LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "SISNETTI INTEGRADORA DE SOLUCOES LTDA",
 			"name": "SISNETTI INTEGRADORA DE SOLUCOES LTDA",
 			"val": 23.004788525080112,
-			"desc": 620,
+			"desc": "620.00",
 			"group": "SISNETTI INTEGRADORA DE SOLUCOES LTDA"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "AUTO POSTO ANTENA 104 EIRELI",
 			"name": "AUTO POSTO ANTENA 104 EIRELI",
 			"val": 14.617589279525856,
-			"desc": 419.45000000000005,
+			"desc": "419.45",
 			"group": "AUTO POSTO ANTENA 104 EIRELI"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI",
 			"name": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DH III COMÉRCIO DE COMBUSTÍVEIS  - EIRELI"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 9.104796978978364,
-			"desc": 280,
+			"desc": "280.00",
 			"group": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 11.92355528029747,
-			"desc": 352.32,
+			"desc": "352.32",
 			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "L&S VEICULOS E COMBUSTIVEIS LTDA",
 			"name": "L&S VEICULOS E COMBUSTIVEIS LTDA",
 			"val": 7.740024705348793,
-			"desc": 243.99,
+			"desc": "243.99",
 			"group": "L&S VEICULOS E COMBUSTIVEIS LTDA"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 49.09739599424353,
-			"desc": 1199.98,
+			"desc": "1199.98",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.9694248891440969,
-			"desc": 44.31,
+			"desc": "44.31",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "MARCELO E FARIA LTDA",
 			"name": "MARCELO E FARIA LTDA",
 			"val": 2.526056942276403,
-			"desc": 95.92,
+			"desc": "95.92",
 			"group": "MARCELO E FARIA LTDA"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "POSTO XODO LTDA",
 			"name": "POSTO XODO LTDA",
 			"val": 9.647443155178717,
-			"desc": 294.12,
+			"desc": "294.12",
 			"group": "POSTO XODO LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HÉLIO LEITE"
+			"name": "HÉLIO LEITE",
+			"desc": "118597.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 41.37857962829962,
-			"desc": 1033.14,
+			"desc": "1033.14",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "WALERIA SILVA DE SOUZA 98195220215",
 			"name": "WALERIA SILVA DE SOUZA 98195220215",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "WALERIA SILVA DE SOUZA 98195220215"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 197.39750668047802,
-			"desc": 4110.679999999999,
+			"desc": "4110.68",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 988.743794015796,
-			"desc": 17533.609999999997,
+			"desc": "17533.61",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 55.06635869438544,
-			"desc": 1327.0299999999997,
+			"desc": "1327.03",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "FERREIRA E FERRÃO LTDA",
 			"name": "FERREIRA E FERRÃO LTDA",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "FERREIRA E FERRÃO LTDA"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "BR Midia Outdoor Ltda-ME",
 			"name": "BR Midia Outdoor Ltda-ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "BR Midia Outdoor Ltda-ME"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"val": 29.802104831103705,
-			"desc": 776.0899999999999,
+			"desc": "776.09",
 			"group": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "SARAIVA E CIA LTDA - ME",
 			"name": "SARAIVA E CIA LTDA - ME",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "SARAIVA E CIA LTDA - ME"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 18.64559535496183,
-			"desc": 517.11,
+			"desc": "517.11",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "S N Mídia, Produção e Assessoria de Marketing Ltda-ME",
 			"name": "S N Mídia, Produção e Assessoria de Marketing Ltda-ME",
 			"val": 1333.019854146157,
-			"desc": 23000,
+			"desc": "23000.00",
 			"group": "S N Mídia, Produção e Assessoria de Marketing Ltda-ME"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "SUPER POSTO PALMEIRA LTDA",
 			"name": "SUPER POSTO PALMEIRA LTDA",
 			"val": 770.329946345418,
-			"desc": 13984.130000000001,
+			"desc": "13984.13",
 			"group": "SUPER POSTO PALMEIRA LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "WWW Comunicação & Marketing Ltda",
 			"name": "WWW Comunicação & Marketing Ltda",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "WWW Comunicação & Marketing Ltda"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "FERREIRA E FERRO LTDA",
 			"name": "FERREIRA E FERRO LTDA",
 			"val": 7.068330248633933,
-			"desc": 225.97,
+			"desc": "225.97",
 			"group": "FERREIRA E FERRO LTDA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "ALUISIO SANTANA DA PAIXAO 30137721234",
 			"name": "ALUISIO SANTANA DA PAIXAO 30137721234",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "ALUISIO SANTANA DA PAIXAO 30137721234"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.175459297361558,
-			"desc": 201.66000000000003,
+			"desc": "201.66",
 			"group": "RAMAL"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 35.06497105473534,
-			"desc": 894.12,
+			"desc": "894.12",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 13.829766442311687,
-			"desc": 399.99,
+			"desc": "399.99",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "CASTANHAL DIARIO RADIODIFUSAO & COMUNICACAO LTDA",
 			"name": "CASTANHAL DIARIO RADIODIFUSAO & COMUNICACAO LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "CASTANHAL DIARIO RADIODIFUSAO & COMUNICACAO LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "INDEPENDENTE COMUNICACAO & CONSULTORIA S/S - ME - ME",
 			"name": "INDEPENDENTE COMUNICACAO & CONSULTORIA S/S - ME - ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "INDEPENDENTE COMUNICACAO & CONSULTORIA S/S - ME - ME"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "ECHOS PUBLICIDADE LTDA",
 			"name": "ECHOS PUBLICIDADE LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "ECHOS PUBLICIDADE LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "Rosa Saraiva Monteiro",
 			"name": "Rosa Saraiva Monteiro",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "Rosa Saraiva Monteiro"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "AMAZONIA COMUNICACAO E RADIODIFUSAO LTDA",
 			"name": "AMAZONIA COMUNICACAO E RADIODIFUSAO LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "AMAZONIA COMUNICACAO E RADIODIFUSAO LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "SBC Radiodifusão Ltda-ME",
 			"name": "SBC Radiodifusão Ltda-ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "SBC Radiodifusão Ltda-ME"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "EDITORA JORNALISTICA NOVO TEMPO LTDA",
 			"name": "EDITORA JORNALISTICA NOVO TEMPO LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "EDITORA JORNALISTICA NOVO TEMPO LTDA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "N. LOBO COMUNICACOES LTDA",
 			"name": "N. LOBO COMUNICACOES LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "N. LOBO COMUNICACOES LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "LEITURA ALVORADA COM. LIVROS LTD",
 			"name": "LEITURA ALVORADA COM. LIVROS LTD",
 			"val": 2.010599373768961,
-			"desc": 79.6,
+			"desc": "79.60",
 			"group": "LEITURA ALVORADA COM. LIVROS LTD"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "T dos Reis Silva Eireli-TX Outdoor",
 			"name": "T dos Reis Silva Eireli-TX Outdoor",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "T dos Reis Silva Eireli-TX Outdoor"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 7.804923758482597,
-			"desc": 245.72,
+			"desc": "245.72",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.993639697397477,
-			"desc": 250.74,
+			"desc": "250.74",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 14.15825351770857,
-			"desc": 408.12,
+			"desc": "408.12",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{

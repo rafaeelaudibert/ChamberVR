@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BACELAR"
+			"name": "BACELAR",
+			"desc": "109854.84"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 475.0342424811175,
-			"desc": 9036.84,
+			"desc": "9036.84",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 17.775106830528312,
-			"desc": 496.24,
+			"desc": "496.24",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
 			"name": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
 			"val": 8.638100100382442,
-			"desc": 267.77,
+			"desc": "267.77",
 			"group": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 53.686623949407014,
-			"desc": 1297.8,
+			"desc": "1297.80",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -189,7 +190,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 27.47216377112051,
-			"desc": 723.1,
+			"desc": "723.10",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 284.6669190801398,
-			"desc": 5703.539999999999,
+			"desc": "5703.54",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 9.296492644319398,
-			"desc": 285,
+			"desc": "285.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "POSTO ALBALONGA LTDA",
 			"name": "POSTO ALBALONGA LTDA",
 			"val": 7.181453226842955,
-			"desc": 229.02,
+			"desc": "229.02",
 			"group": "POSTO ALBALONGA LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "LRA PARTICIPAÇÕES EEMPREENDIMENTOS LTDA",
 			"name": "LRA PARTICIPAÇÕES EEMPREENDIMENTOS LTDA",
 			"val": 803.6777262216948,
-			"desc": 14531.1,
+			"desc": "14531.10",
 			"group": "LRA PARTICIPAÇÕES EEMPREENDIMENTOS LTDA"
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "RAMA AGENCIA DIGITAL LTDA",
 			"name": "RAMA AGENCIA DIGITAL LTDA",
 			"val": 312.4317020040077,
-			"desc": 6200,
+			"desc": "6200.00",
 			"group": "RAMA AGENCIA DIGITAL LTDA"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 40.25351746221915,
-			"desc": 1008.5500000000001,
+			"desc": "1008.55",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 38.75777039603841,
-			"desc": 975.74,
+			"desc": "975.74",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 24.004985319737916,
-			"desc": 643.27,
+			"desc": "643.27",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "ALPHA PATRIMONIAL LTDA",
 			"name": "ALPHA PATRIMONIAL LTDA",
 			"val": 803.6777262216948,
-			"desc": 14531.099999999999,
+			"desc": "14531.10",
 			"group": "ALPHA PATRIMONIAL LTDA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 53.79033872116224,
-			"desc": 1300,
+			"desc": "1300.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "DOMINIQUI SANTOS DA SILVA",
 			"name": "DOMINIQUI SANTOS DA SILVA",
 			"val": 117.98067744232449,
-			"desc": 2600,
+			"desc": "2600.00",
 			"group": "DOMINIQUI SANTOS DA SILVA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "AUTO POSTO BUDIAO LTDA",
 			"name": "AUTO POSTO BUDIAO LTDA",
 			"val": 7.292578391763512,
-			"desc": 232.01,
+			"desc": "232.01",
 			"group": "AUTO POSTO BUDIAO LTDA"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.665578328144267,
-			"desc": 187.57,
+			"desc": "187.57",
 			"group": "RAMAL"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.33134422289126,
-			"desc": 120.47999999999999,
+			"desc": "120.48",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "DOMINIQUI SANTOS DA SILVA 04845810581",
 			"name": "DOMINIQUI SANTOS DA SILVA 04845810581",
 			"val": 117.98067744232449,
-			"desc": 2600,
+			"desc": "2600.00",
 			"group": "DOMINIQUI SANTOS DA SILVA 04845810581"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "JSM COMBUSTIVEIS LTDA",
 			"name": "JSM COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JSM COMBUSTIVEIS LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "AUTO POSTO CENTENARIO COM DE COMBUSTIVEIS E SER LTDA",
 			"name": "AUTO POSTO CENTENARIO COM DE COMBUSTIVEIS E SER LTDA",
 			"val": 7.207820521870924,
-			"desc": 229.73,
+			"desc": "229.73",
 			"group": "AUTO POSTO CENTENARIO COM DE COMBUSTIVEIS E SER LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "MEGA POSTO BERIMBAU LTDA.",
 			"name": "MEGA POSTO BERIMBAU LTDA.",
 			"val": 16.150244315751948,
-			"desc": 456.95,
+			"desc": "456.95",
 			"group": "MEGA POSTO BERIMBAU LTDA."
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "REDIM SERVICOS LTDA - EPP",
 			"name": "REDIM SERVICOS LTDA - EPP",
 			"val": 1473.8105202180839,
-			"desc": 25200,
+			"desc": "25200.00",
 			"group": "REDIM SERVICOS LTDA - EPP"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "POSTO DO CRISTO DE COMB LTDA",
 			"name": "POSTO DO CRISTO DE COMB LTDA",
 			"val": 5.819834944248622,
-			"desc": 191.85,
+			"desc": "191.85",
 			"group": "POSTO DO CRISTO DE COMB LTDA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "POSTO COMB PITANGUEIRAS LTDA",
 			"name": "POSTO COMB PITANGUEIRAS LTDA",
 			"val": 5.158258671514741,
-			"desc": 173.38,
+			"desc": "173.38",
 			"group": "POSTO COMB PITANGUEIRAS LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "Postos Mataripe Abastecimentos e Servicos Ltda",
 			"name": "Postos Mataripe Abastecimentos e Servicos Ltda",
 			"val": 8.412204857521674,
-			"desc": 261.82,
+			"desc": "261.82",
 			"group": "Postos Mataripe Abastecimentos e Servicos Ltda"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 88.30619486528624,
-			"desc": 2011.68,
+			"desc": "2011.68",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 140.88776924127876,
-			"desc": 3043.8100000000004,
+			"desc": "3043.81",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "ERIC ALVES SILVA PEREIRA",
 			"name": "ERIC ALVES SILVA PEREIRA",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "ERIC ALVES SILVA PEREIRA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 1.093429411181174,
-			"desc": 48.75,
+			"desc": "48.75",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 47.38078258827537,
-			"desc": 1163.14,
+			"desc": "1163.14",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{

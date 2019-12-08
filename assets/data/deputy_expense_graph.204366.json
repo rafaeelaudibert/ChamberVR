@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RODRIGO COELHO"
+			"name": "RODRIGO COELHO",
+			"desc": "97371.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1904.2533356699794,
-			"desc": 31826.770000000008,
+			"desc": "31826.77",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "TRANSFORMANDO TECNOLOGIA LTDA",
 			"name": "TRANSFORMANDO TECNOLOGIA LTDA",
 			"val": 68.12067961455824,
-			"desc": 1600,
+			"desc": "1600.00",
 			"group": "TRANSFORMANDO TECNOLOGIA LTDA"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.350586997473947,
-			"desc": 57.71,
+			"desc": "57.71",
 			"group": "RAMAL"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 335.9240540527988,
-			"desc": 6616.880000000001,
+			"desc": "6616.88",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "Diretiva Locacao de Veiculos e Transporte Eirelli",
 			"name": "Diretiva Locacao de Veiculos e Transporte Eirelli",
 			"val": 561.0402717125156,
-			"desc": 10500,
+			"desc": "10500.00",
 			"group": "Diretiva Locacao de Veiculos e Transporte Eirelli"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "POSTO CIDADE- FILIAL",
 			"name": "POSTO CIDADE- FILIAL",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO CIDADE- FILIAL"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 8.452012522881361,
-			"desc": 262.87,
+			"desc": "262.87",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 20.66116194950376,
-			"desc": 565,
+			"desc": "565.00",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "VITORINO & MENDONÇA LTDA EPP",
 			"name": "VITORINO & MENDONÇA LTDA EPP",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "VITORINO & MENDONÇA LTDA EPP"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 453.99054665544776,
-			"desc": 8675.390000000001,
+			"desc": "8675.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 16.275701693737652,
-			"desc": 460,
+			"desc": "460.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.855298096332552,
-			"desc": 40.14,
+			"desc": "40.14",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "POSTO Z7 LTDA.",
 			"name": "POSTO Z7 LTDA.",
 			"val": 2.914504787996039,
-			"desc": 107.89,
+			"desc": "107.89",
 			"group": "POSTO Z7 LTDA."
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "DATAMOBI",
 			"name": "DATAMOBI",
 			"val": 35.329612288381334,
-			"desc": 900,
+			"desc": "900.00",
 			"group": "DATAMOBI"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "RF PAPELARIA E INFORMATICA EIRELI ME",
 			"name": "RF PAPELARIA E INFORMATICA EIRELI ME",
 			"val": 18.74350359193286,
-			"desc": 519.45,
+			"desc": "519.45",
 			"group": "RF PAPELARIA E INFORMATICA EIRELI ME"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 23.799127886918637,
-			"desc": 638.49,
+			"desc": "638.49",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "POSTO Z8 LTDA",
 			"name": "POSTO Z8 LTDA",
 			"val": 6.488391346731705,
-			"desc": 210.23,
+			"desc": "210.23",
 			"group": "POSTO Z8 LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 414 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 414 DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 414 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "Cherulli & Cavalcanti Sociedade de Advogados",
 			"name": "Cherulli & Cavalcanti Sociedade de Advogados",
 			"val": 1429.9222714199796,
-			"desc": 24516.13,
+			"desc": "24516.13",
 			"group": "Cherulli & Cavalcanti Sociedade de Advogados"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "IRASOL AUTO POSTO LTDA.",
 			"name": "IRASOL AUTO POSTO LTDA.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "IRASOL AUTO POSTO LTDA."
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "AUTO POSTO PIRABEIRABA LTDA",
 			"name": "AUTO POSTO PIRABEIRABA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO PIRABEIRABA LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 10.847584680290561,
-			"desc": 325,
+			"desc": "325.00",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "POSTO MONZA LTDA",
 			"name": "POSTO MONZA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO MONZA LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "ABRITTA POSTOS DE SERVICOS LTDA -ME",
 			"name": "ABRITTA POSTOS DE SERVICOS LTDA -ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ABRITTA POSTOS DE SERVICOS LTDA -ME"
 		},
 		{

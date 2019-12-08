@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JUSCELINO FILHO"
+			"name": "JUSCELINO FILHO",
+			"desc": "200339.91"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1695.8561478476008,
-			"desc": 28635.539999999994,
+			"desc": "28635.54",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 735.1627979726112,
-			"desc": 13405.109999999999,
+			"desc": "13405.11",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
 			"name": "H.L.R.GUTERRES LOCADORA E TRANSPORTE",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "H.L.R.GUTERRES LOCADORA E TRANSPORTE"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.015475961598581948,
-			"desc": 2.7,
+			"desc": "2.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 81.31159679231773,
-			"desc": 1870.26,
+			"desc": "1870.26",
 			"group": "CLARO S/A."
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.3674826136937375,
-			"desc": 150.87,
+			"desc": "150.87",
 			"group": "RAMAL"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.8839783167431055,
-			"desc": 165.63,
+			"desc": "165.63",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 18.34681109248807,
-			"desc": 509.96,
+			"desc": "509.96",
 			"group": "CLARO S.A."
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "D V JANSEN",
 			"name": "D V JANSEN",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "D V JANSEN"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 15.68195857618053,
-			"desc": 445.53999999999996,
+			"desc": "445.54",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -507,7 +508,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 78.84676319546227,
-			"desc": 1820.1299999999999,
+			"desc": "1820.13",
 			"group": "CLARO S/A"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 1050.9293521578752,
-			"desc": 18531.4,
+			"desc": "18531.40",
 			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "TAP TRANSPORTES AÉREOS PORTUGAL",
 			"name": "TAP TRANSPORTES AÉREOS PORTUGAL",
 			"val": 174.8020503588199,
-			"desc": 3688.21,
+			"desc": "3688.21",
 			"group": "TAP TRANSPORTES AÉREOS PORTUGAL"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 54.87023928756747,
-			"desc": 1322.88,
+			"desc": "1322.88",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "Telefônica Brasil S.A. - VIVO",
 			"name": "Telefônica Brasil S.A. - VIVO",
 			"val": 54.98742933641598,
-			"desc": 1325.36,
+			"desc": "1325.36",
 			"group": "Telefônica Brasil S.A. - VIVO"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "R N BRITO LIMA",
 			"name": "R N BRITO LIMA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "R N BRITO LIMA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 428.2838340804588,
-			"desc": 8231.8,
+			"desc": "8231.80",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 58.74043828623955,
-			"desc": 1404.49,
+			"desc": "1404.49",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 48.432611296694034,
-			"desc": 1185.73,
+			"desc": "1185.73",
 			"group": "NET CLARO"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
 			"name": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA",
 			"val": 2647.4324347706397,
-			"desc": 43000,
+			"desc": "43000.00",
 			"group": "PASCH CONSULT ASSE GEST EMP E PREST DE SERV TEC ESP INF LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 55.65469214425334,
-			"desc": 1339.47,
+			"desc": "1339.47",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA",
 			"name": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "PASCH CONSULTORIA, ASSESSORIA EM GESTAO EMRESARIAL E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM INFORMATICA LTDA"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 38.033380338860454,
-			"desc": 959.8,
+			"desc": "959.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 55.35713114158006,
-			"desc": 1333.18,
+			"desc": "1333.18",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CELSO SABINO"
+			"name": "CELSO SABINO",
+			"desc": "237845.26"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 845.0130195857982,
-			"desc": 15206.399999999998,
+			"desc": "15206.40",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.769926279026887,
-			"desc": 162.39000000000001,
+			"desc": "162.39",
 			"group": "RAMAL"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 814.7619851809515,
-			"desc": 14712.470000000003,
+			"desc": "14712.47",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 24.080402873622056,
-			"desc": 645.02,
+			"desc": "645.02",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 15.073390843445184,
-			"desc": 430.65,
+			"desc": "430.65",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "PINHEIRO & MELO ADVOGADOS ASSOCIADOS S/S",
 			"name": "PINHEIRO & MELO ADVOGADOS ASSOCIADOS S/S",
 			"val": 6643.856189774725,
-			"desc": 100000,
+			"desc": "100000.00",
 			"group": "PINHEIRO & MELO ADVOGADOS ASSOCIADOS S/S"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "AUTO POSTO INDEPENDENCIA COMERCIO DE COMBUSTIVEL E SERVICOS",
 			"name": "AUTO POSTO INDEPENDENCIA COMERCIO DE COMBUSTIVEL E SERVICOS",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "AUTO POSTO INDEPENDENCIA COMERCIO DE COMBUSTIVEL E SERVICOS"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 107.65677507890675,
-			"desc": 2397.24,
+			"desc": "2397.24",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "GRAFICA  NASCIMENTO LTDA",
 			"name": "GRAFICA  NASCIMENTO LTDA",
 			"val": 2446.033980727912,
-			"desc": 40000,
+			"desc": "40000.00",
 			"group": "GRAFICA  NASCIMENTO LTDA"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"val": 418.9043157531477,
-			"desc": 8069.360000000001,
+			"desc": "8069.36",
 			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 9.527194899145242,
-			"desc": 291,
+			"desc": "291.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "IRMÃOS FERREIRA COM. DE COMB. E SERVIÇOS LTDA",
 			"name": "IRMÃOS FERREIRA COM. DE COMB. E SERVIÇOS LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "IRMÃOS FERREIRA COM. DE COMB. E SERVIÇOS LTDA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 13.00095191240787,
-			"desc": 379.37,
+			"desc": "379.37",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 80.03812583787209,
-			"desc": 1844.38,
+			"desc": "1844.38",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "AUTO POSTO BELEM LTDA BJ CARIMBO",
 			"name": "AUTO POSTO BELEM LTDA BJ CARIMBO",
 			"val": 191.51905572107748,
-			"desc": 4001.24,
+			"desc": "4001.24",
 			"group": "AUTO POSTO BELEM LTDA BJ CARIMBO"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "GRAFICA NASCIMENTO EIRELI",
 			"name": "GRAFICA NASCIMENTO EIRELI",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "GRAFICA NASCIMENTO EIRELI"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "Elephant \\Service Administrativo LTDA",
 			"name": "Elephant \\Service Administrativo LTDA",
 			"val": 972.6791080302621,
-			"desc": 17275,
+			"desc": "17275.00",
 			"group": "Elephant \\Service Administrativo LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "D L DE JESUS GRAFICA E EDITORA - ME(BR GRAF.EDIT)",
 			"name": "D L DE JESUS GRAFICA E EDITORA - ME(BR GRAF.EDIT)",
 			"val": 531.523225607432,
-			"desc": 10000.25,
+			"desc": "10000.25",
 			"group": "D L DE JESUS GRAFICA E EDITORA - ME(BR GRAF.EDIT)"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "HOTEL DIPLOMAT",
 			"name": "HOTEL DIPLOMAT",
 			"val": 64.69732738036268,
-			"desc": 1529,
+			"desc": "1529.00",
 			"group": "HOTEL DIPLOMAT"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "LOTUS GRAFICA",
 			"name": "LOTUS GRAFICA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "LOTUS GRAFICA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 14.294691132168738,
-			"desc": 411.49,
+			"desc": "411.49",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{

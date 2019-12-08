@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HÉLIO COSTA"
+			"name": "HÉLIO COSTA",
+			"desc": "54359.26"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.900712230420593,
-			"desc": 248.27,
+			"desc": "248.27",
 			"group": "RAMAL"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 921.8937016708184,
-			"desc": 16455.049999999996,
+			"desc": "16455.05",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 35.75043295430104,
-			"desc": 909.3399999999999,
+			"desc": "909.34",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 33.96068364324986,
-			"desc": 869.53,
+			"desc": "869.53",
 			"group": "CLARO S.A"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -274,7 +275,7 @@
 			"id": "LUCAS VINICIUS REZENDE 05523337196",
 			"name": "LUCAS VINICIUS REZENDE 05523337196",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "LUCAS VINICIUS REZENDE 05523337196"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "WELL FOODS RESTAURANTES LTDA",
 			"name": "WELL FOODS RESTAURANTES LTDA",
 			"val": 4.6877869504345915,
-			"desc": 160.05,
+			"desc": "160.05",
 			"group": "WELL FOODS RESTAURANTES LTDA"
 		},
 		{
@@ -324,7 +325,7 @@
 			"id": "ANDRADE E SOUZA IMOVEIS",
 			"name": "ANDRADE E SOUZA IMOVEIS",
 			"val": 235.89439238854416,
-			"desc": 4820.13,
+			"desc": "4820.13",
 			"group": "ANDRADE E SOUZA IMOVEIS"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "UNICRED Florianópolis",
 			"name": "UNICRED Florianópolis",
 			"val": 16.85057767663683,
-			"desc": 473.94,
+			"desc": "473.94",
 			"group": "UNICRED Florianópolis"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.6808466655461967,
-			"desc": 100.72,
+			"desc": "100.72",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 32.72243804711748,
-			"desc": 841.8499999999999,
+			"desc": "841.85",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "WRC RESTAURANTES LTDA",
 			"name": "WRC RESTAURANTES LTDA",
 			"val": 15.905838456352706,
-			"desc": 451,
+			"desc": "451.00",
 			"group": "WRC RESTAURANTES LTDA"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "DISK CAR LOCACAO DE VEICULOS SA",
 			"name": "DISK CAR LOCACAO DE VEICULOS SA",
 			"val": 159.54593882194087,
-			"desc": 3400,
+			"desc": "3400.00",
 			"group": "DISK CAR LOCACAO DE VEICULOS SA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "Cristiano de Souza Bernardo",
 			"name": "Cristiano de Souza Bernardo",
 			"val": 15.700805421457824,
-			"desc": 446,
+			"desc": "446.00",
 			"group": "Cristiano de Souza Bernardo"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 12.469374606398171,
-			"desc": 366.05999999999995,
+			"desc": "366.06",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 9.97794255826008,
-			"desc": 302.6700000000001,
+			"desc": "302.67",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "DIFF IT Soluções em Tecnologia Ltda",
 			"name": "DIFF IT Soluções em Tecnologia Ltda",
 			"val": 53.413297353058205,
-			"desc": 1292,
+			"desc": "1292.00",
 			"group": "DIFF IT Soluções em Tecnologia Ltda"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.015475961598581948,
-			"desc": 2.7,
+			"desc": "2.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "COLONIAL PRODUTOS SERVIÇOS LTDA",
 			"name": "COLONIAL PRODUTOS SERVIÇOS LTDA",
 			"val": 38.35903199804748,
-			"desc": 966.97,
+			"desc": "966.97",
 			"group": "COLONIAL PRODUTOS SERVIÇOS LTDA"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "INTELIG",
 			"name": "INTELIG",
 			"val": 20.82212452004637,
-			"desc": 568.8000000000001,
+			"desc": "568.80",
 			"group": "INTELIG"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 4.916077551939987,
-			"desc": 166.54,
+			"desc": "166.54",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "MIRANTES RESTAURANTE",
 			"name": "MIRANTES RESTAURANTE",
 			"val": 0.9558925612848923,
-			"desc": 43.82,
+			"desc": "43.82",
 			"group": "MIRANTES RESTAURANTE"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA",
 			"name": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA",
 			"val": 27.27312496963525,
-			"desc": 718.55,
+			"desc": "718.55",
 			"group": "COLONIAL PRODUTOS SERVI&Ccedil;OS LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 52.3539367738885,
-			"desc": 1269.49,
+			"desc": "1269.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "Lucas Vinicius Rezende",
 			"name": "Lucas Vinicius Rezende",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "Lucas Vinicius Rezende"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 7.966536967624633,
-			"desc": 250.02,
+			"desc": "250.02",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
 			"name": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
 			"val": 0.4018942437144537,
-			"desc": 22.4,
+			"desc": "22.40",
 			"group": "LAGO PRODUTOS ALIMENTICIOS LTDA ME"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 181.02342120408562,
-			"desc": 3805.03,
+			"desc": "3805.03",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 23.222714708793298,
-			"desc": 625.08,
+			"desc": "625.08",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 10.309057981723022,
-			"desc": 311.2,
+			"desc": "311.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GIACOBO"
+			"name": "GIACOBO",
+			"desc": "160208.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO",
 			"val": 0.9636214708182158,
-			"desc": 44.1,
+			"desc": "44.10",
 			"group": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 798.2885137571815,
-			"desc": 14442.84,
+			"desc": "14442.84",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "POSTO DAS AMERICAS LTDA",
 			"name": "POSTO DAS AMERICAS LTDA",
 			"val": 1890.95417775114,
-			"desc": 31623.99,
+			"desc": "31623.99",
 			"group": "POSTO DAS AMERICAS LTDA"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 236.63090010574643,
-			"desc": 4833.590000000001,
+			"desc": "4833.59",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 36.687764834106204,
-			"desc": 930.1,
+			"desc": "930.10",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 28.30728418755014,
-			"desc": 742.1500000000001,
+			"desc": "742.15",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1618.5175592278783,
-			"desc": 27443.34999999999,
+			"desc": "27443.35",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "hotel curitiba capital s/a",
 			"name": "hotel curitiba capital s/a",
 			"val": 100.05787787051865,
-			"desc": 2246.75,
+			"desc": "2246.75",
 			"group": "hotel curitiba capital s/a"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 16.742760916589788,
-			"desc": 471.33000000000004,
+			"desc": "471.33",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "martelli,rialto,beck lima & berti advogados associados",
 			"name": "martelli,rialto,beck lima & berti advogados associados",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "martelli,rialto,beck lima & berti advogados associados"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 76.44763659512336,
-			"desc": 1771.18,
+			"desc": "1771.18",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 16.09721732181518,
-			"desc": 455.66,
+			"desc": "455.66",
 			"group": "RAMAL"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "MARTELI, RIALTO, BECK LIMA & BERTI ADVOGADOS ASSOCIADOS",
 			"name": "MARTELI, RIALTO, BECK LIMA & BERTI ADVOGADOS ASSOCIADOS",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "MARTELI, RIALTO, BECK LIMA & BERTI ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 130.96152332440508,
-			"desc": 2852.45,
+			"desc": "2852.45",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "GALZON EDITORA GRAFICA LTDA",
 			"name": "GALZON EDITORA GRAFICA LTDA",
 			"val": 3053.7768492403497,
-			"desc": 49000,
+			"desc": "49000.00",
 			"group": "GALZON EDITORA GRAFICA LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "Hotel Curitiba Capital S/A",
 			"name": "Hotel Curitiba Capital S/A",
 			"val": 15.379557565886724,
-			"desc": 438.15,
+			"desc": "438.15",
 			"group": "Hotel Curitiba Capital S/A"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 57.835945032507965,
-			"desc": 1385.47,
+			"desc": "1385.47",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "BT FARIA LIMA HOTEIS LTDA",
 			"name": "BT FARIA LIMA HOTEIS LTDA",
 			"val": 55.49051573898134,
-			"desc": 1336,
+			"desc": "1336.00",
 			"group": "BT FARIA LIMA HOTEIS LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 96.08686186794958,
-			"desc": 2167.6499999999996,
+			"desc": "2167.65",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.4428100218876332,
-			"desc": 24.11,
+			"desc": "24.11",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

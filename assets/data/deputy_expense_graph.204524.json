@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PINHEIRINHO"
+			"name": "PINHEIRINHO",
+			"desc": "44052.82"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO JAVARI EIRELI",
 			"name": "POSTO JAVARI EIRELI",
 			"val": 65.71900308721038,
-			"desc": 1550.23,
+			"desc": "1550.23",
 			"group": "POSTO JAVARI EIRELI"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 247.30734239199253,
-			"desc": 5028.27,
+			"desc": "5028.27",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "POSTO TRES PODERES LTDA",
 			"name": "POSTO TRES PODERES LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO TRES PODERES LTDA"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.7045070547146515,
-			"desc": 131.56,
+			"desc": "131.56",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -189,7 +190,7 @@
 			"id": "Posto Londrina Ltda",
 			"name": "Posto Londrina Ltda",
 			"val": 32.23002697392242,
-			"desc": 830.81,
+			"desc": "830.81",
 			"group": "Posto Londrina Ltda"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "POSTO TRIANGULO IBIRITE",
 			"name": "POSTO TRIANGULO IBIRITE",
 			"val": 29.97531258028289,
-			"desc": 780.01,
+			"desc": "780.01",
 			"group": "POSTO TRIANGULO IBIRITE"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 1.0013066476612014,
-			"desc": 45.459999999999994,
+			"desc": "45.46",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -288,7 +289,7 @@
 			"id": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
 			"name": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA",
 			"val": 2.2737199297603286,
-			"desc": 88,
+			"desc": "88.00",
 			"group": "COOPERATIVA UNIAO DOS TAXISTAS DO DISTRITO FEDERAL LTDA"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "Posto Formula BR ltda",
 			"name": "Posto Formula BR ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto Formula BR ltda"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "AUTO POSTO BETH LTDA",
 			"name": "AUTO POSTO BETH LTDA",
 			"val": 7.8800391340894045,
-			"desc": 247.72,
+			"desc": "247.72",
 			"group": "AUTO POSTO BETH LTDA"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "REDE 1000 LTDA",
 			"name": "REDE 1000 LTDA",
 			"val": 9.874195569007611,
-			"desc": 299.99,
+			"desc": "299.99",
 			"group": "REDE 1000 LTDA"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "ORGANIZACOES NOVO BELVEDERE LTDA",
 			"name": "ORGANIZACOES NOVO BELVEDERE LTDA",
 			"val": 49.66965859730954,
-			"desc": 1212.23,
+			"desc": "1212.23",
 			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "POSTO SARZEDO III LTDA",
 			"name": "POSTO SARZEDO III LTDA",
 			"val": 7.96841871542161,
-			"desc": 250.07,
+			"desc": "250.07",
 			"group": "POSTO SARZEDO III LTDA"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "LUBRIMIL LTDA",
 			"name": "LUBRIMIL LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "LUBRIMIL LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "PETRO OURO LTDA",
 			"name": "PETRO OURO LTDA",
 			"val": 29.49044273532692,
-			"desc": 769.03,
+			"desc": "769.03",
 			"group": "PETRO OURO LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "POSTO PIONEIRO LTDA",
 			"name": "POSTO PIONEIRO LTDA",
 			"val": 8.952193050108423,
-			"desc": 276.01,
+			"desc": "276.01",
 			"group": "POSTO PIONEIRO LTDA"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "POSTO LIBERDADE LTDA",
 			"name": "POSTO LIBERDADE LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO LIBERDADE LTDA"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "Rádio Táxi Alvorada Ltda",
 			"name": "Rádio Táxi Alvorada Ltda",
 			"val": 0.9059093270268318,
-			"desc": 42,
+			"desc": "42.00",
 			"group": "Rádio Táxi Alvorada Ltda"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
 			"name": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "VITORIA ORGANIZACOES EM PETROLEO LTDA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "OPERAR HOTEIS LTDA",
 			"name": "OPERAR HOTEIS LTDA",
 			"val": 4.124709679804197,
-			"desc": 143.85,
+			"desc": "143.85",
 			"group": "OPERAR HOTEIS LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "UNITAXI DF",
 			"name": "UNITAXI DF",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "UNITAXI DF"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"name": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"val": 4.4620601116449645,
-			"desc": 153.59,
+			"desc": "153.59",
 			"group": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 14.347770773876864,
-			"desc": 412.79999999999995,
+			"desc": "412.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "locarnew veiculos ltda",
 			"name": "locarnew veiculos ltda",
 			"val": 1358.5310771159209,
-			"desc": 23400,
+			"desc": "23400.00",
 			"group": "locarnew veiculos ltda"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.10406855533914497,
-			"desc": 8.45,
+			"desc": "8.45",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "AUTO POSTO IRMÃOS MAIA LTDA",
 			"name": "AUTO POSTO IRMÃOS MAIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO IRMÃOS MAIA LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "POSTO ABRIL ROSARIO LTDA",
 			"name": "POSTO ABRIL ROSARIO LTDA",
 			"val": 6.663445850646936,
-			"desc": 215,
+			"desc": "215.00",
 			"group": "POSTO ABRIL ROSARIO LTDA"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "POSTO SARZEDO LTDA",
 			"name": "POSTO SARZEDO LTDA",
 			"val": 23.00864733777513,
-			"desc": 620.09,
+			"desc": "620.09",
 			"group": "POSTO SARZEDO LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "posto tabooes ltda",
 			"name": "posto tabooes ltda",
 			"val": 24.236927705254185,
-			"desc": 648.65,
+			"desc": "648.65",
 			"group": "posto tabooes ltda"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 60.2946499392705,
-			"desc": 1437.1,
+			"desc": "1437.10",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "Vou de Taxi",
 			"name": "Vou de Taxi",
 			"val": 1.243055700467309,
-			"desc": 54,
+			"desc": "54.00",
 			"group": "Vou de Taxi"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 22.206799789146075,
-			"desc": 601.35,
+			"desc": "601.35",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "S & S Soluções em Ti LTDA",
 			"name": "S & S Soluções em Ti LTDA",
 			"val": 37.58877807222958,
-			"desc": 950,
+			"desc": "950.00",
 			"group": "S & S Soluções em Ti LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "Posto Ouro Fino Ltda",
 			"name": "Posto Ouro Fino Ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto Ouro Fino Ltda"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "Posto Camila Ltda",
 			"name": "Posto Camila Ltda",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "Posto Camila Ltda"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 0.7252033531355174,
-			"desc": 35.27,
+			"desc": "35.27",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 57.119887837058755,
-			"desc": 1370.39,
+			"desc": "1370.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "POSTO SANTA EDWIGES PETROLEO LTDA",
 			"name": "POSTO SANTA EDWIGES PETROLEO LTDA",
 			"val": 6.468979143354302,
-			"desc": 209.7,
+			"desc": "209.70",
 			"group": "POSTO SANTA EDWIGES PETROLEO LTDA"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.39976116461981065,
-			"desc": 22.31,
+			"desc": "22.31",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "AUTO POSTO JARDIM",
 			"name": "AUTO POSTO JARDIM",
 			"val": 7.435620110891884,
-			"desc": 235.85,
+			"desc": "235.85",
 			"group": "AUTO POSTO JARDIM"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.615088151844316,
-			"desc": 128.92,
+			"desc": "128.92",
 			"group": "RAMAL"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "BEL POSTO LTDA",
 			"name": "BEL POSTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BEL POSTO LTDA"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "AUTO POSTO MAQUINE LTDA",
 			"name": "AUTO POSTO MAQUINE LTDA",
 			"val": 6.539339176423549,
-			"desc": 211.62,
+			"desc": "211.62",
 			"group": "AUTO POSTO MAQUINE LTDA"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "SAYONARA COMERCIO DE PETROLEO LTDA",
 			"name": "SAYONARA COMERCIO DE PETROLEO LTDA",
 			"val": 7.683811128713005,
-			"desc": 242.49,
+			"desc": "242.49",
 			"group": "SAYONARA COMERCIO DE PETROLEO LTDA"
 		},
 		{

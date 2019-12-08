@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SERGIO TOLEDO"
+			"name": "SERGIO TOLEDO",
+			"desc": "131265.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 2641.432391789486,
-			"desc": 42910.88999999998,
+			"desc": "42910.89",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -288,7 +289,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 78.34473785779944,
-			"desc": 1809.9,
+			"desc": "1809.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 169.46794210511422,
-			"desc": 3587.7300000000005,
+			"desc": "3587.73",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.835002327412735,
-			"desc": 272.94000000000005,
+			"desc": "272.94",
 			"group": "RAMAL"
 		},
 		{
@@ -388,7 +389,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 39.59217367900133,
-			"desc": 994.06,
+			"desc": "994.06",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 34.51614992286719,
-			"desc": 881.91,
+			"desc": "881.91",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "DMITRI LOCADORA DE VEICULOS",
 			"name": "DMITRI LOCADORA DE VEICULOS",
 			"val": 2113.3094222249874,
-			"desc": 35000,
+			"desc": "35000.00",
 			"group": "DMITRI LOCADORA DE VEICULOS"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "Juliana Duarte de Melo",
 			"name": "Juliana Duarte de Melo",
 			"val": 1111.5925472748982,
-			"desc": 19500,
+			"desc": "19500.00",
 			"group": "Juliana Duarte de Melo"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 96.05329650765026,
-			"desc": 2166.98,
+			"desc": "2166.98",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 14.2602630126247,
-			"desc": 410.64,
+			"desc": "410.64",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 3.9256157963063303,
-			"desc": 138.05,
+			"desc": "138.05",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
 			"name": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS",
 			"val": 104.4692968246728,
-			"desc": 2334.25,
+			"desc": "2334.25",
 			"group": "ELETROBRAS DISTRIBUIÇÃO ALAGOAS"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.20172494360060628,
-			"desc": 13.45,
+			"desc": "13.45",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 8.335690919286492,
-			"desc": 259.8,
+			"desc": "259.80",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "Telefonica Brasil SA",
 			"name": "Telefonica Brasil SA",
 			"val": 16.143666181393204,
-			"desc": 456.79,
+			"desc": "456.79",
 			"group": "Telefonica Brasil SA"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "HUGO GOMES - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "HUGO GOMES - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "HUGO GOMES - SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "DMITRI LOCACOES DE VEICULOS LTDA",
 			"name": "DMITRI LOCACOES DE VEICULOS LTDA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "DMITRI LOCACOES DE VEICULOS LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 8.305035007024191,
-			"desc": 258.99,
+			"desc": "258.99",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 8.133859782744072,
-			"desc": 254.46,
+			"desc": "254.46",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "Telefônica Brasil S.A. - VIVO",
 			"name": "Telefônica Brasil S.A. - VIVO",
 			"val": 8.527903523792384,
-			"desc": 264.87,
+			"desc": "264.87",
 			"group": "Telefônica Brasil S.A. - VIVO"
 		},
 		{

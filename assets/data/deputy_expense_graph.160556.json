@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PADRE JOÃO"
+			"name": "PADRE JOÃO",
+			"desc": "46959.88"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.151081811274118,
-			"desc": 200.99,
+			"desc": "200.99",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 3.0266075151487857,
-			"desc": 111.29999999999997,
+			"desc": "111.30",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "Fabiola Aguilar Ribeiro ME",
 			"name": "Fabiola Aguilar Ribeiro ME",
 			"val": 97.70893271402579,
-			"desc": 2200,
+			"desc": "2200.00",
 			"group": "Fabiola Aguilar Ribeiro ME"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "POSTO CHEFÃO LTDA",
 			"name": "POSTO CHEFÃO LTDA",
 			"val": 35.83971464363035,
-			"desc": 911.3199999999999,
+			"desc": "911.32",
 			"group": "POSTO CHEFÃO LTDA"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "POSTO CABRAL LTDA",
 			"name": "POSTO CABRAL LTDA",
 			"val": 10.527563432977042,
-			"desc": 316.81,
+			"desc": "316.81",
 			"group": "POSTO CABRAL LTDA"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 174.06107410437144,
-			"desc": 3674.27,
+			"desc": "3674.27",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.4428100218876332,
-			"desc": 24.11,
+			"desc": "24.11",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -288,7 +289,7 @@
 			"id": "EXPRESSO UNIAO LTDA",
 			"name": "EXPRESSO UNIAO LTDA",
 			"val": 13.507060446126173,
-			"desc": 391.98,
+			"desc": "391.98",
 			"group": "EXPRESSO UNIAO LTDA"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.6874630984881842,
-			"desc": 69.05,
+			"desc": "69.05",
 			"group": "RAMAL"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "MARIA REGINA MENDONÇA GASPAR",
 			"name": "MARIA REGINA MENDONÇA GASPAR",
 			"val": 0.942667059768573,
-			"desc": 43.34,
+			"desc": "43.34",
 			"group": "MARIA REGINA MENDONÇA GASPAR"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "COMERCIAL DE PETROLEO ALIANCA LTDA - ME",
 			"name": "COMERCIAL DE PETROLEO ALIANCA LTDA - ME",
 			"val": 7.289602235135861,
-			"desc": 231.93,
+			"desc": "231.93",
 			"group": "COMERCIAL DE PETROLEO ALIANCA LTDA - ME"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 43.717581226995854,
-			"desc": 1084.03,
+			"desc": "1084.03",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.7566533089896015,
-			"desc": 36.46,
+			"desc": "36.46",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "Pontual Loc Car ltda",
 			"name": "Pontual Loc Car ltda",
 			"val": 992.8714617122064,
-			"desc": 17600,
+			"desc": "17600.00",
 			"group": "Pontual Loc Car ltda"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "COPASA",
 			"name": "COPASA",
 			"val": 4.504571500782357,
-			"desc": 154.81,
+			"desc": "154.81",
 			"group": "COPASA"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "PORT PAPELARIA ESCRITORIO E INFORMATICA LTDA",
 			"name": "PORT PAPELARIA ESCRITORIO E INFORMATICA LTDA",
 			"val": 10.570084978668278,
-			"desc": 317.9,
+			"desc": "317.90",
 			"group": "PORT PAPELARIA ESCRITORIO E INFORMATICA LTDA"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA.",
 			"name": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA.",
 			"val": 9.49061909011613,
-			"desc": 290.05,
+			"desc": "290.05",
 			"group": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA."
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "AUTO POSTO HP LTDA",
 			"name": "AUTO POSTO HP LTDA",
 			"val": 6.346459023049979,
-			"desc": 206.35000000000002,
+			"desc": "206.35",
 			"group": "AUTO POSTO HP LTDA"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 7.553228668429595,
-			"desc": 239,
+			"desc": "239.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "VIACAO CAICARA LTDA - EM RECUPERACAO JUDICIAL",
 			"name": "VIACAO CAICARA LTDA - EM RECUPERACAO JUDICIAL",
 			"val": 9.105562741344876,
-			"desc": 280.02,
+			"desc": "280.02",
 			"group": "VIACAO CAICARA LTDA - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "POSTO ITAPOA LTDA",
 			"name": "POSTO ITAPOA LTDA",
 			"val": 3.548565601741201,
-			"desc": 126.95,
+			"desc": "126.95",
 			"group": "POSTO ITAPOA LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "Viação util",
 			"name": "Viação util",
 			"val": 20.542652270287018,
-			"desc": 562.2,
+			"desc": "562.20",
 			"group": "Viação util"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "AUTO POSTO RDG LTDA",
 			"name": "AUTO POSTO RDG LTDA",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "AUTO POSTO RDG LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "POSTO LUXEMBURGO LTDA",
 			"name": "POSTO LUXEMBURGO LTDA",
 			"val": 8.748097004206645,
-			"desc": 270.66,
+			"desc": "270.66",
 			"group": "POSTO LUXEMBURGO LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "REDE DOM PEDRO DE POSTOS LTDA.",
 			"name": "REDE DOM PEDRO DE POSTOS LTDA.",
 			"val": 7.179596853377779,
-			"desc": 228.97,
+			"desc": "228.97",
 			"group": "REDE DOM PEDRO DE POSTOS LTDA."
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "Editnet",
 			"name": "Editnet",
 			"val": 14.046631882761659,
-			"desc": 405.36,
+			"desc": "405.36",
 			"group": "Editnet"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "POSTO PARACATU II LTDA",
 			"name": "POSTO PARACATU II LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO PARACATU II LTDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "emp Bras de correios e telegrafos",
 			"name": "emp Bras de correios e telegrafos",
 			"val": 1.5389775286239253,
-			"desc": 64.1,
+			"desc": "64.10",
 			"group": "emp Bras de correios e telegrafos"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "Posto Ponte Nova Ltda",
 			"name": "Posto Ponte Nova Ltda",
 			"val": 7.190364696113847,
-			"desc": 229.26,
+			"desc": "229.26",
 			"group": "Posto Ponte Nova Ltda"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 59.98069624316592,
-			"desc": 1430.52,
+			"desc": "1430.52",
 			"group": "CLARO S.A"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "POSTO MARTE LTDA",
 			"name": "POSTO MARTE LTDA",
 			"val": 33.26040365333512,
-			"desc": 853.89,
+			"desc": "853.89",
 			"group": "POSTO MARTE LTDA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "WN Imóveis",
 			"name": "WN Imóveis",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "WN Imóveis"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "AUTO POSTO WAAM LTDA",
 			"name": "AUTO POSTO WAAM LTDA",
 			"val": 7.201506071403186,
-			"desc": 229.56,
+			"desc": "229.56",
 			"group": "AUTO POSTO WAAM LTDA"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "AUTO POSTO VITORIA LTDA",
 			"name": "AUTO POSTO VITORIA LTDA",
 			"val": 5.3587691585658535,
-			"desc": 179.01,
+			"desc": "179.01",
 			"group": "AUTO POSTO VITORIA LTDA"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 7.316765560652035,
-			"desc": 232.66,
+			"desc": "232.66",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "CENCOSUD BRASIL COMERCIAL LTDA",
 			"name": "CENCOSUD BRASIL COMERCIAL LTDA",
 			"val": 9.27000833204026,
-			"desc": 284.31,
+			"desc": "284.31",
 			"group": "CENCOSUD BRASIL COMERCIAL LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "POSTO GRAJAU LTDA",
 			"name": "POSTO GRAJAU LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "POSTO GRAJAU LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 104.5551941773429,
-			"desc": 2335.95,
+			"desc": "2335.95",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "PREMIUM EXECUTIVO HOTEL LTDA - EPP",
 			"name": "PREMIUM EXECUTIVO HOTEL LTDA - EPP",
 			"val": 3.787423806085366,
-			"desc": 134,
+			"desc": "134.00",
 			"group": "PREMIUM EXECUTIVO HOTEL LTDA - EPP"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "Xavier auto posto ltda",
 			"name": "Xavier auto posto ltda",
 			"val": 6.578960930590772,
-			"desc": 212.7,
+			"desc": "212.70",
 			"group": "Xavier auto posto ltda"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 12.455831779213469,
-			"desc": 365.72,
+			"desc": "365.72",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "Auto posto trevo lafaiete ltda",
 			"name": "Auto posto trevo lafaiete ltda",
 			"val": 9.105945625619437,
-			"desc": 280.03,
+			"desc": "280.03",
 			"group": "Auto posto trevo lafaiete ltda"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "VIAÇAO SANDRA LTDA",
 			"name": "VIAÇAO SANDRA LTDA",
 			"val": 2.7727309064885906,
-			"desc": 103.55,
+			"desc": "103.55",
 			"group": "VIAÇAO SANDRA LTDA"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "POSTO PARAISO DAS AGUAS LTDA - EPP",
 			"name": "POSTO PARAISO DAS AGUAS LTDA - EPP",
 			"val": 8.15650543796242,
-			"desc": 255.06,
+			"desc": "255.06",
 			"group": "POSTO PARAISO DAS AGUAS LTDA - EPP"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "POSTO LONGANA LTDA.",
 			"name": "POSTO LONGANA LTDA.",
 			"val": 9.599629198300054,
-			"desc": 292.88,
+			"desc": "292.88",
 			"group": "POSTO LONGANA LTDA."
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "Antonino Eustáquio Teixeira",
 			"name": "Antonino Eustáquio Teixeira",
 			"val": 120.47881198141897,
-			"desc": 2648.79,
+			"desc": "2648.79",
 			"group": "Antonino Eustáquio Teixeira"
 		},
 		{
@@ -933,7 +934,7 @@
 			"id": "AUTO POSTO CHAVES LTDA",
 			"name": "AUTO POSTO CHAVES LTDA",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "AUTO POSTO CHAVES LTDA"
 		},
 		{
@@ -946,7 +947,7 @@
 			"id": "POSTO COIMBRA LTDA",
 			"name": "POSTO COIMBRA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO COIMBRA LTDA"
 		},
 		{

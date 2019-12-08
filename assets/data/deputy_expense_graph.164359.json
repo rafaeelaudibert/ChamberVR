@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DELEGADO WALDIR"
+			"name": "DELEGADO WALDIR",
+			"desc": "43624.62"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "VALPOSTO COMBUSTIVEIS LTDA",
 			"name": "VALPOSTO COMBUSTIVEIS LTDA",
 			"val": 7.222309356332005,
-			"desc": 230.12,
+			"desc": "230.12",
 			"group": "VALPOSTO COMBUSTIVEIS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "AUTO POSTO CHAFARIZ LTDA",
 			"name": "AUTO POSTO CHAFARIZ LTDA",
 			"val": 25.362731364448656,
-			"desc": 674.6800000000001,
+			"desc": "674.68",
 			"group": "AUTO POSTO CHAFARIZ LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "PETROLEO TRANSBRASILIANA COM VAR DE COMB LTDA",
 			"name": "PETROLEO TRANSBRASILIANA COM VAR DE COMB LTDA",
 			"val": 6.550342035628122,
-			"desc": 211.92,
+			"desc": "211.92",
 			"group": "PETROLEO TRANSBRASILIANA COM VAR DE COMB LTDA"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 14.774485433869879,
-			"desc": 423.31,
+			"desc": "423.31",
 			"group": "RAMAL"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "Hotel Sheraton Montevideo",
 			"name": "Hotel Sheraton Montevideo",
 			"val": 53.87285445206903,
-			"desc": 1301.75,
+			"desc": "1301.75",
 			"group": "Hotel Sheraton Montevideo"
 		},
 		{
@@ -124,7 +125,7 @@
 			"id": "RACA SERVICOS E ASSESSORIA EMPRESARIAL LTDA ME",
 			"name": "RACA SERVICOS E ASSESSORIA EMPRESARIAL LTDA ME",
 			"val": 1473.8105202180839,
-			"desc": 25200,
+			"desc": "25200.00",
 			"group": "RACA SERVICOS E ASSESSORIA EMPRESARIAL LTDA ME"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 2.2547666565647875,
-			"desc": 87.4,
+			"desc": "87.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "CENTRO COMERCIAL CAMPESTRE E SERVICOS LTDA",
 			"name": "CENTRO COMERCIAL CAMPESTRE E SERVICOS LTDA",
 			"val": 7.583135784306966,
-			"desc": 239.8,
+			"desc": "239.80",
 			"group": "CENTRO COMERCIAL CAMPESTRE E SERVICOS LTDA"
 		},
 		{
@@ -229,7 +230,7 @@
 			"id": "AUTO POSTO ANTENA 104 EIRELI",
 			"name": "AUTO POSTO ANTENA 104 EIRELI",
 			"val": 7.5166135165427574,
-			"desc": 238.02,
+			"desc": "238.02",
 			"group": "AUTO POSTO ANTENA 104 EIRELI"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "SIQUEIRA & ESTANISLAU LTDA",
 			"name": "SIQUEIRA & ESTANISLAU LTDA",
 			"val": 40.35951751984254,
-			"desc": 1010.87,
+			"desc": "1010.87",
 			"group": "SIQUEIRA & ESTANISLAU LTDA"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "VIENA AUTO POSTO LTDA",
 			"name": "VIENA AUTO POSTO LTDA",
 			"val": 328.3552113130363,
-			"desc": 6482.87,
+			"desc": "6482.87",
 			"group": "VIENA AUTO POSTO LTDA"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "LE COMBUSTIVEIS LTDA ME",
 			"name": "LE COMBUSTIVEIS LTDA ME",
 			"val": 3.0223226309343483,
-			"desc": 111.17,
+			"desc": "111.17",
 			"group": "LE COMBUSTIVEIS LTDA ME"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 14.533534989257578,
-			"desc": 417.38,
+			"desc": "417.38",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "BORGES DAHER COM DE DERIV DE PETROL LTDA",
 			"name": "BORGES DAHER COM DE DERIV DE PETROL LTDA",
 			"val": 7.232342322655501,
-			"desc": 230.39,
+			"desc": "230.39",
 			"group": "BORGES DAHER COM DE DERIV DE PETROL LTDA"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "JUSTINIANO E JUSTINIANO LTDA",
 			"name": "JUSTINIANO E JUSTINIANO LTDA",
 			"val": 3.6868698669302313,
-			"desc": 131.04,
+			"desc": "131.04",
 			"group": "JUSTINIANO E JUSTINIANO LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "POSTO SIA 3 LTDA",
 			"name": "POSTO SIA 3 LTDA",
 			"val": 11.310752147722793,
-			"desc": 336.8,
+			"desc": "336.80",
 			"group": "POSTO SIA 3 LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "COMBUSTIVEIS RUBI LTDA",
 			"name": "COMBUSTIVEIS RUBI LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "COMBUSTIVEIS RUBI LTDA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "POSTO CASCAVEL LTDA",
 			"name": "POSTO CASCAVEL LTDA",
 			"val": 4.803680915949427,
-			"desc": 163.35,
+			"desc": "163.35",
 			"group": "POSTO CASCAVEL LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "HALLEY COMBUSTIVEIS AUTOMOTIVOS LTDA",
 			"name": "HALLEY COMBUSTIVEIS AUTOMOTIVOS LTDA",
 			"val": 4.080997655932886,
-			"desc": 142.58,
+			"desc": "142.58",
 			"group": "HALLEY COMBUSTIVEIS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "POSTO CACIQUE LTDA",
 			"name": "POSTO CACIQUE LTDA",
 			"val": 37.11306606263656,
-			"desc": 939.5,
+			"desc": "939.50",
 			"group": "POSTO CACIQUE LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.7402113461892394,
-			"desc": 102.55,
+			"desc": "102.55",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "POSTO SABADIN II LTDA",
 			"name": "POSTO SABADIN II LTDA",
 			"val": 2.6588363702668834,
-			"desc": 100.04,
+			"desc": "100.04",
 			"group": "POSTO SABADIN II LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "ATLANTA COM DE DER DE PETROLEO LTDA",
 			"name": "ATLANTA COM DE DER DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ATLANTA COM DE DER DE PETROLEO LTDA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "AUTO POSTO LIDER LTDA",
 			"name": "AUTO POSTO LIDER LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO LIDER LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "CANA VERDE AUTO POSTO LTDA",
 			"name": "CANA VERDE AUTO POSTO LTDA",
 			"val": 1.360511850411339,
-			"desc": 58.05,
+			"desc": "58.05",
 			"group": "CANA VERDE AUTO POSTO LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "AUTO POSTO APOLLO LTDA",
 			"name": "AUTO POSTO APOLLO LTDA",
 			"val": 2.5794350198240164,
-			"desc": 97.58,
+			"desc": "97.58",
 			"group": "AUTO POSTO APOLLO LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "POSTO JARDIM BOTANICO EIRELI",
 			"name": "POSTO JARDIM BOTANICO EIRELI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO JARDIM BOTANICO EIRELI"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "HIPER MOREIRA AUTO POSTO LTDA",
 			"name": "HIPER MOREIRA AUTO POSTO LTDA",
 			"val": 15.241485957531529,
-			"desc": 434.77,
+			"desc": "434.77",
 			"group": "HIPER MOREIRA AUTO POSTO LTDA"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 144.5003894251143,
-			"desc": 3113.12,
+			"desc": "3113.12",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "AUTO POSTO COUTO III LTDA",
 			"name": "AUTO POSTO COUTO III LTDA",
 			"val": 7.181824509095745,
-			"desc": 229.03,
+			"desc": "229.03",
 			"group": "AUTO POSTO COUTO III LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEL VILA RICA LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEL VILA RICA LTDA",
 			"val": 8.344398343079567,
-			"desc": 260.03,
+			"desc": "260.03",
 			"group": "COMERCIAL DE COMBUSTIVEL VILA RICA LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "POSTO ALDEIA LTDA",
 			"name": "POSTO ALDEIA LTDA",
 			"val": 9.354100462755413,
-			"desc": 286.5,
+			"desc": "286.50",
 			"group": "POSTO ALDEIA LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "AUTO POSTO ED LTDA",
 			"name": "AUTO POSTO ED LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO ED LTDA"
 		},
 		{

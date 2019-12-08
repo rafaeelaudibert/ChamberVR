@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LIZIANE BAYER"
+			"name": "LIZIANE BAYER",
+			"desc": "36554.13"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "NEVADA RENT A CAR LTDA",
 			"name": "NEVADA RENT A CAR LTDA",
 			"val": 614.5396268996396,
-			"desc": 11400,
+			"desc": "11400.00",
 			"group": "NEVADA RENT A CAR LTDA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 30.629394194501156,
-			"desc": 794.7900000000001,
+			"desc": "794.79",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "JOAO RODRIGUES MANTAHOTTURISLTDA",
 			"name": "JOAO RODRIGUES MANTAHOTTURISLTDA",
 			"val": 21.680203728944562,
-			"desc": 589,
+			"desc": "589.00",
 			"group": "JOAO RODRIGUES MANTAHOTTURISLTDA"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 739.4055313223215,
-			"desc": 13475.089999999997,
+			"desc": "13475.09",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"name": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"val": 9.166083969151927,
-			"desc": 281.6,
+			"desc": "281.60",
 			"group": "MANHATTAN HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 4.731640415758695,
-			"desc": 161.3,
+			"desc": "161.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 7.326443364102836,
-			"desc": 232.91999999999996,
+			"desc": "232.92",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 5.466390543580422,
-			"desc": 182.02,
+			"desc": "182.02",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 24.029546881103332,
-			"desc": 643.84,
+			"desc": "643.84",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "AUTO PISTA LITORAL SUL S.A.",
 			"name": "AUTO PISTA LITORAL SUL S.A.",
 			"val": 0.1483038463943278,
-			"desc": 10.8,
+			"desc": "10.80",
 			"group": "AUTO PISTA LITORAL SUL S.A."
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 72.91940580321594,
-			"desc": 1698.9,
+			"desc": "1698.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.656093677317846,
-			"desc": 214.8,
+			"desc": "214.80",
 			"group": "RAMAL"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.8033084474087531,
-			"desc": 38.21,
+			"desc": "38.21",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 30.123866871955236,
-			"desc": 783.37,
+			"desc": "783.37",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.0227365515230184,
-			"desc": 3.3,
+			"desc": "3.30",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.015475961598581948,
-			"desc": 2.7,
+			"desc": "2.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "FAZZENDA PARK HOTEL",
 			"name": "FAZZENDA PARK HOTEL",
 			"val": 18.85026772083792,
-			"desc": 522,
+			"desc": "522.00",
 			"group": "FAZZENDA PARK HOTEL"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"val": 0.07860593781761292,
-			"desc": 7,
+			"desc": "7.00",
 			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "VILLABLANCA HOTEL LTDA",
 			"name": "VILLABLANCA HOTEL LTDA",
 			"val": 18.139881946831096,
-			"desc": 505,
+			"desc": "505.00",
 			"group": "VILLABLANCA HOTEL LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 18.80880956172635,
-			"desc": 521.01,
+			"desc": "521.01",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 0.37878156174390354,
-			"desc": 21.42,
+			"desc": "21.42",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "GLAUCIA GONZATTI 69817740030",
 			"name": "GLAUCIA GONZATTI 69817740030",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "GLAUCIA GONZATTI 69817740030"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "MARABA PALACE HOTEL LTDA",
 			"name": "MARABA PALACE HOTEL LTDA",
 			"val": 21.549957096037424,
-			"desc": 585.94,
+			"desc": "585.94",
 			"group": "MARABA PALACE HOTEL LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "LB1 HOTELARIA EIRELI",
 			"name": "LB1 HOTELARIA EIRELI",
 			"val": 43.80840763662215,
-			"desc": 1086,
+			"desc": "1086.00",
 			"group": "LB1 HOTELARIA EIRELI"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 44.56486092551852,
-			"desc": 1102.39,
+			"desc": "1102.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 4.33694435567191,
-			"desc": 149.99,
+			"desc": "149.99",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.845959063330168,
-			"desc": 74.26,
+			"desc": "74.26",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "POSTO DE COMB. NAVEGANTES LTDA",
 			"name": "POSTO DE COMB. NAVEGANTES LTDA",
 			"val": 3.19206622971974,
-			"desc": 116.3,
+			"desc": "116.30",
 			"group": "POSTO DE COMB. NAVEGANTES LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "SANTA CLARA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "SANTA CLARA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 11.224215401286084,
-			"desc": 334.6,
+			"desc": "334.60",
 			"group": "SANTA CLARA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "AUTO POSTO BAILER II LTDA",
 			"name": "AUTO POSTO BAILER II LTDA",
 			"val": 4.278034523137453,
-			"desc": 148.29,
+			"desc": "148.29",
 			"group": "AUTO POSTO BAILER II LTDA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS SMR",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS SMR",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS SMR"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "RESTAURANTE E CAFE ROSINHA LTDA",
 			"name": "RESTAURANTE E CAFE ROSINHA LTDA",
 			"val": 1.2519858279483922,
-			"desc": 54.31,
+			"desc": "54.31",
 			"group": "RESTAURANTE E CAFE ROSINHA LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "EMPRESA GAUCHA DE RODOVIAS S/A",
 			"name": "EMPRESA GAUCHA DE RODOVIAS S/A",
 			"val": 0.07860593781761292,
-			"desc": 7,
+			"desc": "7.00",
 			"group": "EMPRESA GAUCHA DE RODOVIAS S/A"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "BELLER COMERCIO DE PAPEIS LTDA",
 			"name": "BELLER COMERCIO DE PAPEIS LTDA",
 			"val": 3.172808376275529,
-			"desc": 115.72,
+			"desc": "115.72",
 			"group": "BELLER COMERCIO DE PAPEIS LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.23977497759133606,
-			"desc": 15.25,
+			"desc": "15.25",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{

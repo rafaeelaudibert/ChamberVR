@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GUILHERME DERRITE"
+			"name": "GUILHERME DERRITE",
+			"desc": "52604.75"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"name": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"val": 1.6919953967450234,
-			"desc": 69.2,
+			"desc": "69.20",
 			"group": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "LELLO CONDOMINIOS LTDA",
 			"name": "LELLO CONDOMINIOS LTDA",
 			"val": 14.308060074931301,
-			"desc": 411.82,
+			"desc": "411.82",
 			"group": "LELLO CONDOMINIOS LTDA"
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "ARMAZEM DOS PAES E FRIOS LTDA",
 			"name": "ARMAZEM DOS PAES E FRIOS LTDA",
 			"val": 1.3182661054946392,
-			"desc": 56.599999999999994,
+			"desc": "56.60",
 			"group": "ARMAZEM DOS PAES E FRIOS LTDA"
 		},
 		{
@@ -122,7 +123,7 @@
 			"id": "CENTRO AUTOMOTIVO ROYALE EIRELI",
 			"name": "CENTRO AUTOMOTIVO ROYALE EIRELI",
 			"val": 2.929919378423924,
-			"desc": 108.36,
+			"desc": "108.36",
 			"group": "CENTRO AUTOMOTIVO ROYALE EIRELI"
 		},
 		{
@@ -135,7 +136,7 @@
 			"id": "VENEZA EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"name": "VENEZA EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"val": 253.10804514932232,
-			"desc": 5133.71,
+			"desc": "5133.71",
 			"group": "VENEZA EMPREENDIMENTOS IMOBILIÁRIOS LTDA"
 		},
 		{
@@ -166,7 +167,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 18.904305213047895,
-			"desc": 523.29,
+			"desc": "523.29",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -191,7 +192,7 @@
 			"id": "WRC RESTAURANTES LTDA",
 			"name": "WRC RESTAURANTES LTDA",
 			"val": 5.585787897276432,
-			"desc": 185.35000000000002,
+			"desc": "185.35",
 			"group": "WRC RESTAURANTES LTDA"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.7289473474171206,
-			"desc": 132.28,
+			"desc": "132.28",
 			"group": "RAMAL"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 9.14807546054348,
-			"desc": 281.13,
+			"desc": "281.13",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 11.43953029880155,
-			"desc": 340.07,
+			"desc": "340.07",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 151.99338988635623,
-			"desc": 3256.3399999999997,
+			"desc": "3256.34",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.2200578036826224,
-			"desc": 53.199999999999996,
+			"desc": "53.20",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "Kalunga Comercio Industria Grafica Ltda",
 			"name": "Kalunga Comercio Industria Grafica Ltda",
 			"val": 22.458890515590515,
-			"desc": 607.25,
+			"desc": "607.25",
 			"group": "Kalunga Comercio Industria Grafica Ltda"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "S&S LOCAÇÃO DE MÓVEIS",
 			"name": "S&S LOCAÇÃO DE MÓVEIS",
 			"val": 256.761354884649,
-			"desc": 5200,
+			"desc": "5200.00",
 			"group": "S&S LOCAÇÃO DE MÓVEIS"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 2.1886184729902327,
-			"desc": 85.3,
+			"desc": "85.30",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 1.9079864342067243,
-			"desc": 76.28,
+			"desc": "76.28",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "AUTO POSTO VOTOSETE LT",
 			"name": "AUTO POSTO VOTOSETE LT",
 			"val": 5.325932968377278,
-			"desc": 178.09,
+			"desc": "178.09",
 			"group": "AUTO POSTO VOTOSETE LT"
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "GATE RETAIL BRASIL COM. VAREJISTA, IMP. E EXP. ALIMENTOS LTD",
 			"name": "GATE RETAIL BRASIL COM. VAREJISTA, IMP. E EXP. ALIMENTOS LTD",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "GATE RETAIL BRASIL COM. VAREJISTA, IMP. E EXP. ALIMENTOS LTD"
 		},
 		{
@@ -509,7 +510,7 @@
 			"id": "AUTO POSTO DE SERVICOS TREVO LTDA",
 			"name": "AUTO POSTO DE SERVICOS TREVO LTDA",
 			"val": 6.276379699510054,
-			"desc": 204.43,
+			"desc": "204.43",
 			"group": "AUTO POSTO DE SERVICOS TREVO LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "CARLOS ALBERTO PAPACIDERO",
 			"name": "CARLOS ALBERTO PAPACIDERO",
 			"val": 5.289203260279865,
-			"desc": 177.06,
+			"desc": "177.06",
 			"group": "CARLOS ALBERTO PAPACIDERO"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "ALPHA 2002 AUTO POSTO LTDA",
 			"name": "ALPHA 2002 AUTO POSTO LTDA",
 			"val": 15.811073223022937,
-			"desc": 448.69,
+			"desc": "448.69",
 			"group": "ALPHA 2002 AUTO POSTO LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 22.297343260965484,
-			"desc": 603.47,
+			"desc": "603.47",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "AUTO POSTO ESTADO DE SAO PAULO LTDA",
 			"name": "AUTO POSTO ESTADO DE SAO PAULO LTDA",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "AUTO POSTO ESTADO DE SAO PAULO LTDA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "SOCIEDADE MILER E ARAUJO ADVOGADOS ASSOCIADOS",
 			"name": "SOCIEDADE MILER E ARAUJO ADVOGADOS ASSOCIADOS",
 			"val": 1525.2872962915308,
-			"desc": 26000,
+			"desc": "26000.00",
 			"group": "SOCIEDADE MILER E ARAUJO ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "ENGENHARIA E SERVICOS LTDA ME",
 			"name": "ENGENHARIA E SERVICOS LTDA ME",
 			"val": 7.677818168444729,
-			"desc": 242.32999999999998,
+			"desc": "242.33",
 			"group": "ENGENHARIA E SERVICOS LTDA ME"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "GR12 COMERCIO DE ALIMENTOS LTDA",
 			"name": "GR12 COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.5334278431353794,
-			"desc": 27.8,
+			"desc": "27.80",
 			"group": "GR12 COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "AUTO POSTO RAMAL LT",
 			"name": "AUTO POSTO RAMAL LT",
 			"val": 7.513625551244378,
-			"desc": 237.94,
+			"desc": "237.94",
 			"group": "AUTO POSTO RAMAL LT"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 4.269034667806226,
-			"desc": 148.03,
+			"desc": "148.03",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME",
 			"name": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME",
 			"val": 0.6117625177209026,
-			"desc": 30.9,
+			"desc": "30.90",
 			"group": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "AUTO POSTO SARUTAYA LTDA",
 			"name": "AUTO POSTO SARUTAYA LTDA",
 			"val": 2.451734672286198,
-			"desc": 93.6,
+			"desc": "93.60",
 			"group": "AUTO POSTO SARUTAYA LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 66.87937968420852,
-			"desc": 1574.3,
+			"desc": "1574.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "PLATAMO AUTO POSTO LTDA",
 			"name": "PLATAMO AUTO POSTO LTDA",
 			"val": 3.807852628490839,
-			"desc": 134.6,
+			"desc": "134.60",
 			"group": "PLATAMO AUTO POSTO LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "MAGAZINE LUIZA S/A",
 			"name": "MAGAZINE LUIZA S/A",
 			"val": 4.483657299492064,
-			"desc": 154.21,
+			"desc": "154.21",
 			"group": "MAGAZINE LUIZA S/A"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "ELLD ALIMENTOS EIREILI",
 			"name": "ELLD ALIMENTOS EIREILI",
 			"val": 1.0010286851759664,
-			"desc": 45.45,
+			"desc": "45.45",
 			"group": "ELLD ALIMENTOS EIREILI"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "POSTO ANTLETA LTDA",
 			"name": "POSTO ANTLETA LTDA",
 			"val": 3.555985815398937,
-			"desc": 127.17,
+			"desc": "127.17",
 			"group": "POSTO ANTLETA LTDA"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "AUTO POSTO E TRANSPORTADORA CARVALHO SALES LTDA",
 			"name": "AUTO POSTO E TRANSPORTADORA CARVALHO SALES LTDA",
 			"val": 3.6621300719893655,
-			"desc": 130.31,
+			"desc": "130.31",
 			"group": "AUTO POSTO E TRANSPORTADORA CARVALHO SALES LTDA"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.565563484189183,
-			"desc": 239.32999999999998,
+			"desc": "239.33",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "SHA COMERCIO DE ALIMENTOS LTDA",
 			"name": "SHA COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.33678352292994274,
-			"desc": 19.61,
+			"desc": "19.61",
 			"group": "SHA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "REAL GASTRONOMIA E SERVIÇOS LTDA",
 			"name": "REAL GASTRONOMIA E SERVIÇOS LTDA",
 			"val": 0.8878949777364836,
-			"desc": 41.34,
+			"desc": "41.34",
 			"group": "REAL GASTRONOMIA E SERVIÇOS LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "Vial Brunetto Empreendimentos Imobiliários Ltda",
 			"name": "Vial Brunetto Empreendimentos Imobiliários Ltda",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "Vial Brunetto Empreendimentos Imobiliários Ltda"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "POSTO CAIUBI LTDA",
 			"name": "POSTO CAIUBI LTDA",
 			"val": 3.322322197589587,
-			"desc": 120.21,
+			"desc": "120.21",
 			"group": "POSTO CAIUBI LTDA"
 		},
 		{
@@ -887,7 +888,7 @@
 			"id": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"name": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"val": 0.9023562827714748,
-			"desc": 41.87,
+			"desc": "41.87",
 			"group": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 21.775179843747637,
-			"desc": 591.23,
+			"desc": "591.23",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 1.5240989164849952,
-			"desc": 63.6,
+			"desc": "63.60",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"val": 5.681050816461584,
-			"desc": 188,
+			"desc": "188.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "L C M RESTAURANTE LTDA",
 			"name": "L C M RESTAURANTE LTDA",
 			"val": 0.7102206895674968,
-			"desc": 34.7,
+			"desc": "34.70",
 			"group": "L C M RESTAURANTE LTDA"
 		},
 		{

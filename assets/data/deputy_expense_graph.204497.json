@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JÚNIOR FERRARI"
+			"name": "JÚNIOR FERRARI",
+			"desc": "70276.54"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 8.629733981967723,
-			"desc": 267.55,
+			"desc": "267.55",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 130.45048024325038,
-			"desc": 2842.56,
+			"desc": "2842.56",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 758.2428483703214,
-			"desc": 13785.380000000005,
+			"desc": "13785.38",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 11.968329264518184,
-			"desc": 353.45,
+			"desc": "353.45",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "AUTO POSTO CONSELHEIRO COM DE COMB E SERV LTDA",
 			"name": "AUTO POSTO CONSELHEIRO COM DE COMB E SERV LTDA",
 			"val": 13.427435289449393,
-			"desc": 390,
+			"desc": "390.00",
 			"group": "AUTO POSTO CONSELHEIRO COM DE COMB E SERV LTDA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "Carvalho & Leal LTDA -EPP",
 			"name": "Carvalho & Leal LTDA -EPP",
 			"val": 9.488694544417323,
-			"desc": 290,
+			"desc": "290.00",
 			"group": "Carvalho & Leal LTDA -EPP"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "ALMEIDA ADVOGADOS ASSOCIADOS",
 			"name": "ALMEIDA ADVOGADOS ASSOCIADOS",
 			"val": 1428.8884246201749,
-			"desc": 24500,
+			"desc": "24500.00",
 			"group": "ALMEIDA ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.120921031333055,
-			"desc": 143.74,
+			"desc": "143.74",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "Posto Pinheiro Ltda",
 			"name": "Posto Pinheiro Ltda",
 			"val": 57.10233078786638,
-			"desc": 1370.02,
+			"desc": "1370.02",
 			"group": "Posto Pinheiro Ltda"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "M C D CARVALHO & LTDA",
 			"name": "M C D CARVALHO & LTDA",
 			"val": 8.917053228057556,
-			"desc": 275.09,
+			"desc": "275.09",
 			"group": "M C D CARVALHO & LTDA"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "AUTO POSTO BRAGA LTDA",
 			"name": "AUTO POSTO BRAGA LTDA",
 			"val": 16.446593272479852,
-			"desc": 464.15,
+			"desc": "464.15",
 			"group": "AUTO POSTO BRAGA LTDA"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"name": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "COMERCIAL DE COMBUSTÍVEL MAM LTDA"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 48.13249879778617,
-			"desc": 1179.29,
+			"desc": "1179.29",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.0710411665542323,
-			"desc": 6.55,
+			"desc": "6.55",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "POSTO ITEX LTDA - EPP",
 			"name": "POSTO ITEX LTDA - EPP",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "POSTO ITEX LTDA - EPP"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "POSTO QUATRO LTDA",
 			"name": "POSTO QUATRO LTDA",
 			"val": 14.032080518390622,
-			"desc": 405,
+			"desc": "405.00",
 			"group": "POSTO QUATRO LTDA"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS-FILIAL SAMAMBAIA",
 			"name": "PETRONORTE COMBUSTIVEIS-FILIAL SAMAMBAIA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PETRONORTE COMBUSTIVEIS-FILIAL SAMAMBAIA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "V S DA CRUZ",
 			"name": "V S DA CRUZ",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "V S DA CRUZ"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 7.032403072095334,
-			"desc": 225,
+			"desc": "225.00",
 			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "M C D CARVALHO &amp; CIA LTDA",
 			"name": "M C D CARVALHO &amp; CIA LTDA",
 			"val": 68.12067961455824,
-			"desc": 1600,
+			"desc": "1600.00",
 			"group": "M C D CARVALHO &amp; CIA LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 75.41197444703784,
-			"desc": 1750,
+			"desc": "1750.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "POSTO ICCAR LTDA",
 			"name": "POSTO ICCAR LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO ICCAR LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "ROCHA COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA",
 			"name": "ROCHA COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA",
 			"val": 10.167982442793319,
-			"desc": 307.57,
+			"desc": "307.57",
 			"group": "ROCHA COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 69.26458678373494,
-			"desc": 1623.6399999999999,
+			"desc": "1623.64",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.823898844447857,
-			"desc": 105.12,
+			"desc": "105.12",
 			"group": "RAMAL"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "AUTO POSTO INFINITY DIVISA LTDA",
 			"name": "AUTO POSTO INFINITY DIVISA LTDA",
 			"val": 3.6519698675084267,
-			"desc": 130.01,
+			"desc": "130.01",
 			"group": "AUTO POSTO INFINITY DIVISA LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 18.819696512823192,
-			"desc": 521.27,
+			"desc": "521.27",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 18.323016718949432,
-			"desc": 509.39,
+			"desc": "509.39",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 18.355578367644213,
-			"desc": 510.17,
+			"desc": "510.17",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 3.368471371780288,
-			"desc": 121.59,
+			"desc": "121.59",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "Posto Nota 10 Ltda",
 			"name": "Posto Nota 10 Ltda",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "Posto Nota 10 Ltda"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "POSTO SAO DOMINGOS LTDA",
 			"name": "POSTO SAO DOMINGOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO SAO DOMINGOS LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "GONCALVES E DIAS LTDA - PARA VIP",
 			"name": "GONCALVES E DIAS LTDA - PARA VIP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GONCALVES E DIAS LTDA - PARA VIP"
 		},
 		{

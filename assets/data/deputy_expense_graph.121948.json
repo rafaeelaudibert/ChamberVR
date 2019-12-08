@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ADRIANO DO BALDY"
+			"name": "ADRIANO DO BALDY",
+			"desc": "67603.50"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO RIO CANASTRA LTDA",
 			"name": "AUTO POSTO RIO CANASTRA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO RIO CANASTRA LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "OLIVEIRA TELES AUTO POSTO EIRELI ME",
 			"name": "OLIVEIRA TELES AUTO POSTO EIRELI ME",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "OLIVEIRA TELES AUTO POSTO EIRELI ME"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 42.78424414332905,
-			"desc": 1063.76,
+			"desc": "1063.76",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -62,7 +63,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 16.697758656603742,
-			"desc": 470.24,
+			"desc": "470.24",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -93,7 +94,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 4.326887130209228,
-			"desc": 149.70000000000002,
+			"desc": "149.70",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 2.4376762580002835,
-			"desc": 93.16,
+			"desc": "93.16",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "HOTEL VILA PLANALTO LTDA - ME",
 			"name": "HOTEL VILA PLANALTO LTDA - ME",
 			"val": 34.16112718537409,
-			"desc": 874,
+			"desc": "874.00",
 			"group": "HOTEL VILA PLANALTO LTDA - ME"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "Bruno Soares de Souza",
 			"name": "Bruno Soares de Souza",
 			"val": 21.80798556980935,
-			"desc": 592,
+			"desc": "592.00",
 			"group": "Bruno Soares de Souza"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "AUTO POSTO DO RATINHO LTDA",
 			"name": "AUTO POSTO DO RATINHO LTDA",
 			"val": 2.1795070051203433,
-			"desc": 85.01,
+			"desc": "85.01",
 			"group": "AUTO POSTO DO RATINHO LTDA"
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "POSTO CENTRAL LTDA",
 			"name": "POSTO CENTRAL LTDA",
 			"val": 5.753811272457751,
-			"desc": 190.02,
+			"desc": "190.02",
 			"group": "POSTO CENTRAL LTDA"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "AUTO POSTO PETROAGIL LTDA",
 			"name": "AUTO POSTO PETROAGIL LTDA",
 			"val": 2.821288271871407,
-			"desc": 105.04,
+			"desc": "105.04",
 			"group": "AUTO POSTO PETROAGIL LTDA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "DALETH VEICULOS LTDA EPP",
 			"name": "DALETH VEICULOS LTDA EPP",
 			"val": 267.812863745865,
-			"desc": 5400,
+			"desc": "5400.00",
 			"group": "DALETH VEICULOS LTDA EPP"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "CLORES HELENA MIRANDA CARNEIRO 44043937172",
 			"name": "CLORES HELENA MIRANDA CARNEIRO 44043937172",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "CLORES HELENA MIRANDA CARNEIRO 44043937172"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "COLEMAR MOURA SOCIEDADE DE ADVOGADOS S/S",
 			"name": "COLEMAR MOURA SOCIEDADE DE ADVOGADOS S/S",
 			"val": 525.6192272702316,
-			"desc": 9900,
+			"desc": "9900.00",
 			"group": "COLEMAR MOURA SOCIEDADE DE ADVOGADOS S/S"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 29.21000212395899,
-			"desc": 762.67,
+			"desc": "762.67",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "SACRAMENTO COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "SACRAMENTO COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 6.921441289318895,
-			"desc": 222,
+			"desc": "222.00",
 			"group": "SACRAMENTO COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "Daniel da Silva",
 			"name": "Daniel da Silva",
 			"val": 18.766525051099187,
-			"desc": 520,
+			"desc": "520.00",
 			"group": "Daniel da Silva"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "AUTO POSTO CHAVES LTDA",
 			"name": "AUTO POSTO CHAVES LTDA",
 			"val": 9.49061909011613,
-			"desc": 290.05,
+			"desc": "290.05",
 			"group": "AUTO POSTO CHAVES LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "LBF COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "LBF COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 3.8897215814623687,
-			"desc": 137,
+			"desc": "137.00",
 			"group": "LBF COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.5506984483379385,
-			"desc": 28.49,
+			"desc": "28.49",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "SECRETARIA MUNICIPAL DE FINANCAS - SEFIN",
 			"name": "SECRETARIA MUNICIPAL DE FINANCAS - SEFIN",
 			"val": 19.600872401473023,
-			"desc": 539.88,
+			"desc": "539.88",
 			"group": "SECRETARIA MUNICIPAL DE FINANCAS - SEFIN"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "CLORES HELENA MIRANDA CARNEIRO",
 			"name": "CLORES HELENA MIRANDA CARNEIRO",
 			"val": 465.8925375031549,
-			"desc": 8880,
+			"desc": "8880.00",
 			"group": "CLORES HELENA MIRANDA CARNEIRO"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "VALPOSTO COMBUSTIVEIS LTDA",
 			"name": "VALPOSTO COMBUSTIVEIS LTDA",
 			"val": 476.3032273054684,
-			"desc": 9058.59,
+			"desc": "9058.59",
 			"group": "VALPOSTO COMBUSTIVEIS LTDA"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 16.855123502786824,
-			"desc": 474.05,
+			"desc": "474.05",
 			"group": "RAMAL"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "PETROCOM COMERCIO LTDA-ME",
 			"name": "PETROCOM COMERCIO LTDA-ME",
 			"val": 2.855253043861762,
-			"desc": 106.08,
+			"desc": "106.08",
 			"group": "PETROCOM COMERCIO LTDA-ME"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 42.83621699275309,
-			"desc": 1064.89,
+			"desc": "1064.89",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "AUTO POSTO PADUA LTDA",
 			"name": "AUTO POSTO PADUA LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "AUTO POSTO PADUA LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (GT BRASILIA ALVORADA)",
 			"name": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (GT BRASILIA ALVORADA)",
 			"val": 69.16095291864436,
-			"desc": 1621.5,
+			"desc": "1621.50",
 			"group": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (GT BRASILIA ALVORADA)"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "AUTO POSTO PAINEIRAS LTDA",
 			"name": "AUTO POSTO PAINEIRAS LTDA",
 			"val": 4.756925412596866,
-			"desc": 162.02,
+			"desc": "162.02",
 			"group": "AUTO POSTO PAINEIRAS LTDA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "AUTO POSTO ITAGUARU LTDA",
 			"name": "AUTO POSTO ITAGUARU LTDA",
 			"val": 2.8444693598697386,
-			"desc": 105.75,
+			"desc": "105.75",
 			"group": "AUTO POSTO ITAGUARU LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 51.372876142174455,
-			"desc": 1248.6,
+			"desc": "1248.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "ECO FUEL COMBUSTIVEIS LTDA - ME",
 			"name": "ECO FUEL COMBUSTIVEIS LTDA - ME",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ECO FUEL COMBUSTIVEIS LTDA - ME"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "BENEILTON SOUZA.COM COMUNICAÇÃO & MARKETING LTDA",
 			"name": "BENEILTON SOUZA.COM COMUNICAÇÃO & MARKETING LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "BENEILTON SOUZA.COM COMUNICAÇÃO & MARKETING LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "AUTO POSTO SERRA DOURADA",
 			"name": "AUTO POSTO SERRA DOURADA",
 			"val": 11.269440140601056,
-			"desc": 335.75,
+			"desc": "335.75",
 			"group": "AUTO POSTO SERRA DOURADA"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 0.15575297521882175,
-			"desc": 11.18,
+			"desc": "11.18",
 			"group": "CLARO S.A."
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 14.214104773007971,
-			"desc": 409.5,
+			"desc": "409.50",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "SANEAGO",
 			"name": "SANEAGO",
 			"val": 0.9600317687137818,
-			"desc": 43.97,
+			"desc": "43.97",
 			"group": "SANEAGO"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "Cristal Consultoria I A Ltda",
 			"name": "Cristal Consultoria I A Ltda",
 			"val": 171.18194015473105,
-			"desc": 3620.05,
+			"desc": "3620.05",
 			"group": "Cristal Consultoria I A Ltda"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "JOAO VITOR TEIXEIRA FERNANDES",
 			"name": "JOAO VITOR TEIXEIRA FERNANDES",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JOAO VITOR TEIXEIRA FERNANDES"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "SILVA E SALES LTDA - ME",
 			"name": "SILVA E SALES LTDA - ME",
 			"val": 138.20622254570736,
-			"desc": 2992.25,
+			"desc": "2992.25",
 			"group": "SILVA E SALES LTDA - ME"
 		},
 		{

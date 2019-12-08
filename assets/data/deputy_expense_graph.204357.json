@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROSE MODESTO"
+			"name": "ROSE MODESTO",
+			"desc": "82140.48"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 41.239306400408566,
-			"desc": 1030.1,
+			"desc": "1030.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "LATAM AIRLINES GROUP S/A",
 			"name": "LATAM AIRLINES GROUP S/A",
 			"val": 411.0515826499457,
-			"desc": 7933.110000000001,
+			"desc": "7933.11",
 			"group": "LATAM AIRLINES GROUP S/A"
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 644.0747445619771,
-			"desc": 11893.890000000001,
+			"desc": "11893.89",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "JEAN CRISTINA SOUZA BORGES - ME",
 			"name": "JEAN CRISTINA SOUZA BORGES - ME",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "JEAN CRISTINA SOUZA BORGES - ME"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "TROKAR POSTOS DE SERVICOS",
 			"name": "TROKAR POSTOS DE SERVICOS",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "TROKAR POSTOS DE SERVICOS"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 3.9358797665820826,
-			"desc": 138.35,
+			"desc": "138.35",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 36.69590376930045,
-			"desc": 930.28,
+			"desc": "930.28",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
 			"name": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO",
 			"val": 421.826335112116,
-			"desc": 8120,
+			"desc": "8120.00",
 			"group": "ARQUEIRO GESTÃO DE EQUIPAMENTOS DE ESCRITORIO"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 28.255911246130218,
-			"desc": 740.98,
+			"desc": "740.98",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "ART MIX COMUNICACOES VISUAIS EIRELI",
 			"name": "ART MIX COMUNICACOES VISUAIS EIRELI",
 			"val": 50.03300731035721,
-			"desc": 1220,
+			"desc": "1220.00",
 			"group": "ART MIX COMUNICACOES VISUAIS EIRELI"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "TONY RICARDO FRANCISCO",
 			"name": "TONY RICARDO FRANCISCO",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "TONY RICARDO FRANCISCO"
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 11.882365846554825,
-			"desc": 351.28,
+			"desc": "351.28",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 17.93115223072823,
-			"desc": 499.99,
+			"desc": "499.99",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 267.812863745865,
-			"desc": 5400,
+			"desc": "5400.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "auto posto vivendas do bosque",
 			"name": "auto posto vivendas do bosque",
 			"val": 8.775909936258092,
-			"desc": 271.39,
+			"desc": "271.39",
 			"group": "auto posto vivendas do bosque"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
 			"name": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA",
 			"val": 18.866183832401944,
-			"desc": 522.38,
+			"desc": "522.38",
 			"group": "RIBEIRO DE MENDONÇA BASTON & CIA LTDA"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "POSTO KATIA LOCATELLI LTDA",
 			"name": "POSTO KATIA LOCATELLI LTDA",
 			"val": 17.607176948697383,
-			"desc": 492.2,
+			"desc": "492.20",
 			"group": "POSTO KATIA LOCATELLI LTDA"
 		},
 		{
@@ -443,7 +444,7 @@
 			"id": "POSTAC AUTO POSTO LTDA",
 			"name": "POSTAC AUTO POSTO LTDA",
 			"val": 4.4592744285324315,
-			"desc": 153.51,
+			"desc": "153.51",
 			"group": "POSTAC AUTO POSTO LTDA"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "AUTO POSTO TIO SAM LTDA",
 			"name": "AUTO POSTO TIO SAM LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO TIO SAM LTDA"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.3301899516935551,
-			"desc": 57.01,
+			"desc": "57.01",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "POSTO IMPERIAL LTDA",
 			"name": "POSTO IMPERIAL LTDA",
 			"val": 14.350607766501357,
-			"desc": 412.87,
+			"desc": "412.87",
 			"group": "POSTO IMPERIAL LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
 			"name": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME"
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "aguas guarirobas",
 			"name": "aguas guarirobas",
 			"val": 4.733746791589351,
-			"desc": 161.36,
+			"desc": "161.36",
 			"group": "aguas guarirobas"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 14.875803540106991,
-			"desc": 425.8,
+			"desc": "425.80",
 			"group": "CLARO S.A."
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 3.7632697327556928,
-			"desc": 133.29,
+			"desc": "133.29",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.024011272550536485,
-			"desc": 3.4,
+			"desc": "3.40",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "FÁBIO MARCELO DE PAULI",
 			"name": "FÁBIO MARCELO DE PAULI",
 			"val": 844.6204491556732,
-			"desc": 15200,
+			"desc": "15200.00",
 			"group": "FÁBIO MARCELO DE PAULI"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "POLIDIGITAL COMUNICACAO VISUAL LTDA",
 			"name": "POLIDIGITAL COMUNICACAO VISUAL LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "POLIDIGITAL COMUNICACAO VISUAL LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.396375013330948,
-			"desc": 287.6,
+			"desc": "287.60",
 			"group": "RAMAL"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE",
 			"name": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COM. DE COMB. NAPI LTDA - POSTO CAMPO VERDE"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "POSTO EMANUELE LTDA",
 			"name": "POSTO EMANUELE LTDA",
 			"val": 10.895358393815766,
-			"desc": 326.22,
+			"desc": "326.22",
 			"group": "POSTO EMANUELE LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "ENERGISA   MS",
 			"name": "ENERGISA   MS",
 			"val": 15.841833649061666,
-			"desc": 449.44,
+			"desc": "449.44",
 			"group": "ENERGISA   MS"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "POSTO UNIVERSITÁRIO",
 			"name": "POSTO UNIVERSITÁRIO",
 			"val": 5.447419626543535,
-			"desc": 181.49,
+			"desc": "181.49",
 			"group": "POSTO UNIVERSITÁRIO"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA",
 			"val": 6.711997074737974,
-			"desc": 216.32,
+			"desc": "216.32",
 			"group": "COMERCIO DE COMBUSTIVEIS CARAVAGIO LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "MERCURY COMUNICAÇOES LTDA ME",
 			"name": "MERCURY COMUNICAÇOES LTDA ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "MERCURY COMUNICAÇOES LTDA ME"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "CAFURE & GONÇALVES LTDA",
 			"name": "CAFURE & GONÇALVES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CAFURE & GONÇALVES LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 27.861969126495676,
-			"desc": 732,
+			"desc": "732.00",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "AUTO POSTO BERLITZ LTDA",
 			"name": "AUTO POSTO BERLITZ LTDA",
 			"val": 4.68673515779195,
-			"desc": 160.02,
+			"desc": "160.02",
 			"group": "AUTO POSTO BERLITZ LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"val": 16.028601283814726,
-			"desc": 453.99,
+			"desc": "453.99",
 			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "posto talisma",
 			"name": "posto talisma",
 			"val": 7.032773332426993,
-			"desc": 225.01,
+			"desc": "225.01",
 			"group": "posto talisma"
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "POSTO LOCATELLI MAE E FILHA LTDA",
 			"name": "POSTO LOCATELLI MAE E FILHA LTDA",
 			"val": 17.394630059414165,
-			"desc": 487.08000000000004,
+			"desc": "487.08",
 			"group": "POSTO LOCATELLI MAE E FILHA LTDA"
 		},
 		{
@@ -859,7 +860,7 @@
 			"id": "AHRI SERVICOS PUBLICITARIOS EIRELI",
 			"name": "AHRI SERVICOS PUBLICITARIOS EIRELI",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "AHRI SERVICOS PUBLICITARIOS EIRELI"
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
 			"name": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "JORNAL O ESTADO DE MATO GROSSO DO SUL"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "AUTO POSTO PILOTO",
 			"name": "AUTO POSTO PILOTO",
 			"val": 5.861738240349079,
-			"desc": 193.01,
+			"desc": "193.01",
 			"group": "AUTO POSTO PILOTO"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "AUTO POSTO AMERICA",
 			"name": "AUTO POSTO AMERICA",
 			"val": 7.419584370505159,
-			"desc": 235.42,
+			"desc": "235.42",
 			"group": "AUTO POSTO AMERICA"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.9804948855949343,
-			"desc": 44.71,
+			"desc": "44.71",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -924,7 +925,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 5.912726568512223,
-			"desc": 194.42,
+			"desc": "194.42",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -937,7 +938,7 @@
 			"id": "cafure & gonçalves ltda",
 			"name": "cafure & gonçalves ltda",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "cafure & gonçalves ltda"
 		},
 		{
@@ -950,7 +951,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 38.26952661012001,
-			"desc": 965,
+			"desc": "965.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -963,7 +964,7 @@
 			"id": "divisa auto posto ltda filial",
 			"name": "divisa auto posto ltda filial",
 			"val": 3.787423806085366,
-			"desc": 134,
+			"desc": "134.00",
 			"group": "divisa auto posto ltda filial"
 		},
 		{
@@ -976,7 +977,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 17.662855331341994,
-			"desc": 493.54,
+			"desc": "493.54",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -989,7 +990,7 @@
 			"id": "MS MIDIA INDOOR E OUTDOOR LTDA ME",
 			"name": "MS MIDIA INDOOR E OUTDOOR LTDA ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "MS MIDIA INDOOR E OUTDOOR LTDA ME"
 		},
 		{

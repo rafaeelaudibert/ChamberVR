@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BALEIA ROSSI"
+			"name": "BALEIA ROSSI",
+			"desc": "72954.20"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 534.6728277422148,
-			"desc": 10053.69,
+			"desc": "10053.69",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 145.4719165926028,
-			"desc": 3131.73,
+			"desc": "3131.73",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.8382672245477135,
-			"desc": 39.51,
+			"desc": "39.51",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 432.0699950870773,
-			"desc": 8297.279999999999,
+			"desc": "8297.28",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -279,7 +280,7 @@
 			"id": "GALERIA VIEIRA E SANT'ANA SERVICOS POSTAIS LTDA",
 			"name": "GALERIA VIEIRA E SANT'ANA SERVICOS POSTAIS LTDA",
 			"val": 21.663172802745652,
-			"desc": 588.5999999999999,
+			"desc": "588.60",
 			"group": "GALERIA VIEIRA E SANT'ANA SERVICOS POSTAIS LTDA"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 32.2563211073382,
-			"desc": 831.4,
+			"desc": "831.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 40.59401456704208,
-			"desc": 1016,
+			"desc": "1016.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "DEPARTAMENTO DE AGUA E ESGOTOS DE RIBEIRAO PRETO",
 			"name": "DEPARTAMENTO DE AGUA E ESGOTOS DE RIBEIRAO PRETO",
 			"val": 26.619880639463645,
-			"desc": 703.59,
+			"desc": "703.59",
 			"group": "DEPARTAMENTO DE AGUA E ESGOTOS DE RIBEIRAO PRETO"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 448.78267647887276,
-			"desc": 8585.710000000001,
+			"desc": "8585.71",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.6181605681638253,
-			"desc": 31.15,
+			"desc": "31.15",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 4.525848028737684,
-			"desc": 155.42000000000002,
+			"desc": "155.42",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "DONALD PAPELARIA E INFORMATICA LTDA",
 			"name": "DONALD PAPELARIA E INFORMATICA LTDA",
 			"val": 9.604255033382875,
-			"desc": 293,
+			"desc": "293.00",
 			"group": "DONALD PAPELARIA E INFORMATICA LTDA"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "PIRES E PIRES ALARMES E MONITORAMENTO LTDA",
 			"name": "PIRES E PIRES ALARMES E MONITORAMENTO LTDA",
 			"val": 12.738215203812429,
-			"desc": 372.8,
+			"desc": "372.80",
 			"group": "PIRES E PIRES ALARMES E MONITORAMENTO LTDA"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 133.26029099079264,
-			"desc": 2896.8900000000003,
+			"desc": "2896.89",
 			"group": "telefonia Brasil S/A"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "Telefônica Brasil S/A VIVO",
 			"name": "Telefônica Brasil S/A VIVO",
 			"val": 19.041366088551428,
-			"desc": 526.56,
+			"desc": "526.56",
 			"group": "Telefônica Brasil S/A VIVO"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.9440432906016526,
-			"desc": 43.39,
+			"desc": "43.39",
 			"group": "RAMAL"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "Marcio Antonio Rossi",
 			"name": "Marcio Antonio Rossi",
 			"val": 857.4692092374867,
-			"desc": 15409.34,
+			"desc": "15409.34",
 			"group": "Marcio Antonio Rossi"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 8.024144527950408,
-			"desc": 251.55,
+			"desc": "251.55",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"name": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"val": 85.6120308549433,
-			"desc": 1957.35,
+			"desc": "1957.35",
 			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 16.2905174929852,
-			"desc": 460.36,
+			"desc": "460.36",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 6.07512161510694,
-			"desc": 198.89999999999998,
+			"desc": "198.90",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "Movida Locação de Veículos LTDA",
 			"name": "Movida Locação de Veículos LTDA",
 			"val": 397.6477960984645,
-			"desc": 7700,
+			"desc": "7700.00",
 			"group": "Movida Locação de Veículos LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "CALIL DIB PROMOÇÕES DE EVENTOS LTDA",
 			"name": "CALIL DIB PROMOÇÕES DE EVENTOS LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "CALIL DIB PROMOÇÕES DE EVENTOS LTDA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "UTI DAS IDEIAS DE DESENVOLVIMENTO LTDA -ME",
 			"name": "UTI DAS IDEIAS DE DESENVOLVIMENTO LTDA -ME",
 			"val": 13.106311249238626,
-			"desc": 382,
+			"desc": "382.00",
 			"group": "UTI DAS IDEIAS DE DESENVOLVIMENTO LTDA -ME"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "MACTRON COMERCIO DE EQUIPAMENTOS PARA ESCRITORIO LTDA",
 			"name": "MACTRON COMERCIO DE EQUIPAMENTOS PARA ESCRITORIO LTDA",
 			"val": 28.563429058366747,
-			"desc": 747.98,
+			"desc": "747.98",
 			"group": "MACTRON COMERCIO DE EQUIPAMENTOS PARA ESCRITORIO LTDA"
 		},
 		{

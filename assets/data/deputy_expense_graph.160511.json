@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALESSANDRO MOLON"
+			"name": "ALESSANDRO MOLON",
+			"desc": "41980.50"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "MLS WIRELESS S.A.",
 			"name": "MLS WIRELESS S.A.",
 			"val": 21.817785804142968,
-			"desc": 592.23,
+			"desc": "592.23",
 			"group": "MLS WIRELESS S.A."
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 73.7408395297304,
-			"desc": 1715.76,
+			"desc": "1715.76",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 72.14562861367322,
-			"desc": 1683,
+			"desc": "1683.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "KEM C.R.T.S.E.I.P.D. PETROLEO LTDA",
 			"name": "KEM C.R.T.S.E.I.P.D. PETROLEO LTDA",
 			"val": 23.793532131363563,
-			"desc": 638.36,
+			"desc": "638.36",
 			"group": "KEM C.R.T.S.E.I.P.D. PETROLEO LTDA"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 1.1081094116132024,
-			"desc": 49.27,
+			"desc": "49.27",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 26.681372041346958,
-			"desc": 705,
+			"desc": "705.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 56.88220491073798,
-			"desc": 1365.38,
+			"desc": "1365.38",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "MARCELO MOTTA VEIGA",
 			"name": "MARCELO MOTTA VEIGA",
 			"val": 1003.3677866383114,
-			"desc": 17768.72,
+			"desc": "17768.72",
 			"group": "MARCELO MOTTA VEIGA"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 377.38259398890756,
-			"desc": 7346.200000000001,
+			"desc": "7346.20",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "POSTO 15 DE COMBUSTÍVEIS LTDA",
 			"name": "POSTO 15 DE COMBUSTÍVEIS LTDA",
 			"val": 18.354325869218965,
-			"desc": 510.14,
+			"desc": "510.14",
 			"group": "POSTO 15 DE COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 30.375625974014838,
-			"desc": 789.06,
+			"desc": "789.06",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 101.10528510145336,
-			"desc": 2267.5600000000004,
+			"desc": "2267.56",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 18.825140269035074,
-			"desc": 521.4,
+			"desc": "521.40",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "Sky Serviços de Banda Larga Ltda",
 			"name": "Sky Serviços de Banda Larga Ltda",
 			"val": 5.089408947815874,
-			"desc": 171.44,
+			"desc": "171.44",
 			"group": "Sky Serviços de Banda Larga Ltda"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "POSTO DE GASOLINA DIA & NOITE LTDA",
 			"name": "POSTO DE GASOLINA DIA & NOITE LTDA",
 			"val": 1.4179477311802207,
-			"desc": 60.01,
+			"desc": "60.01",
 			"group": "POSTO DE GASOLINA DIA & NOITE LTDA"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 0.1720782000346155,
-			"desc": 12,
+			"desc": "12.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.802743973213207,
-			"desc": 134.45,
+			"desc": "134.45",
 			"group": "RAMAL"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 3.4633922474956114,
-			"desc": 124.42,
+			"desc": "124.42",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.0785000437752663,
-			"desc": 48.22,
+			"desc": "48.22",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "OI MOVEL S/A",
 			"name": "OI MOVEL S/A",
 			"val": 26.418512594942513,
-			"desc": 698.97,
+			"desc": "698.97",
 			"group": "OI MOVEL S/A"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 13.829766442311687,
-			"desc": 399.99,
+			"desc": "399.99",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "TERMINAL GARAGEM MENEZES CORTES S.A.",
 			"name": "TERMINAL GARAGEM MENEZES CORTES S.A.",
 			"val": 73.36264631772718,
-			"desc": 1708,
+			"desc": "1708.00",
 			"group": "TERMINAL GARAGEM MENEZES CORTES S.A."
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "RADIO TAXI GLÓRIA",
 			"name": "RADIO TAXI GLÓRIA",
 			"val": 1.506274540721979,
-			"desc": 63,
+			"desc": "63.00",
 			"group": "RADIO TAXI GLÓRIA"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.440156400069231,
-			"desc": 24,
+			"desc": "24.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 1.476640684975945,
-			"desc": 62,
+			"desc": "62.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "JOHN RICHARD LOCACAO DE MOVEIS LTDA.",
 			"name": "JOHN RICHARD LOCACAO DE MOVEIS LTDA.",
 			"val": 48.13156708693594,
-			"desc": 1179.27,
+			"desc": "1179.27",
 			"group": "JOHN RICHARD LOCACAO DE MOVEIS LTDA."
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "Dinamize Informática Ltda",
 			"name": "Dinamize Informática Ltda",
 			"val": 33.812342185126646,
-			"desc": 866.22,
+			"desc": "866.22",
 			"group": "Dinamize Informática Ltda"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 14.23961101318374,
-			"desc": 410.13,
+			"desc": "410.13",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{

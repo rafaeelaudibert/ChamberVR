@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RENATA ABREU"
+			"name": "RENATA ABREU",
+			"desc": "94056.96"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 60.84233701863613,
-			"desc": 1448.57,
+			"desc": "1448.57",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 959.0409651300105,
-			"desc": 17055.169999999995,
+			"desc": "17055.17",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 21.55251006676575,
-			"desc": 586,
+			"desc": "586.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 4.954917117623608,
-			"desc": 167.64,
+			"desc": "167.64",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.008427481800651,
-			"desc": 79.53,
+			"desc": "79.53",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.9231606900502642,
-			"desc": 42.629999999999995,
+			"desc": "42.63",
 			"group": "RAMAL"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 114.69955019456373,
-			"desc": 2535.76,
+			"desc": "2535.76",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "BRAS PEREIRA COMUNICACAO-EDITORA JORNALISTICA LTDA",
 			"name": "BRAS PEREIRA COMUNICACAO-EDITORA JORNALISTICA LTDA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "BRAS PEREIRA COMUNICACAO-EDITORA JORNALISTICA LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "FORMULA 1 AUTO POSTO LTDA",
 			"name": "FORMULA 1 AUTO POSTO LTDA",
 			"val": 806.252525014631,
-			"desc": 14573.25,
+			"desc": "14573.25",
 			"group": "FORMULA 1 AUTO POSTO LTDA"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 64.79446530441123,
-			"desc": 1531.02,
+			"desc": "1531.02",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "FERNANDO IGNACIO VIEIRA-ME",
 			"name": "FERNANDO IGNACIO VIEIRA-ME",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "FERNANDO IGNACIO VIEIRA-ME"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "MARIANA RIBEIRO 00054978173",
 			"name": "MARIANA RIBEIRO 00054978173",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "MARIANA RIBEIRO 00054978173"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 1.868645607148764,
-			"desc": 75,
+			"desc": "75.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 23.55090994751632,
-			"desc": 632.72,
+			"desc": "632.72",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 112.27844529831621,
-			"desc": 2488.24,
+			"desc": "2488.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.1473293844521902,
-			"desc": 10.75,
+			"desc": "10.75",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 8.5806991409895,
-			"desc": 266.26,
+			"desc": "266.26",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "MARIANA RIBEIRO",
 			"name": "MARIANA RIBEIRO",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "MARIANA RIBEIRO"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 13.710405462432604,
-			"desc": 397.03,
+			"desc": "397.03",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "ML SOUZA & CIA LTDA",
 			"name": "ML SOUZA & CIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ML SOUZA & CIA LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 9.488694544417323,
-			"desc": 290,
+			"desc": "290.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"name": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "OMEGA LOCADORA DE VEÍCULOS LTDA ME"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 59.2928055603879,
-			"desc": 1416.09,
+			"desc": "1416.09",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "AUTO POSTO PETROBRASILIA LTDA",
 			"name": "AUTO POSTO PETROBRASILIA LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "AUTO POSTO PETROBRASILIA LTDA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "VICTOR DINIZ ROCHA MENDES",
 			"name": "VICTOR DINIZ ROCHA MENDES",
 			"val": 380.4579628399488,
-			"desc": 7400,
+			"desc": "7400.00",
 			"group": "VICTOR DINIZ ROCHA MENDES"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "EMPRESA JORNALISTICA SUDOESTE LIMITADA",
 			"name": "EMPRESA JORNALISTICA SUDOESTE LIMITADA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "EMPRESA JORNALISTICA SUDOESTE LIMITADA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "EMPRESA JORNALISTICA SUDOESTE LTDA ME",
 			"name": "EMPRESA JORNALISTICA SUDOESTE LTDA ME",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "EMPRESA JORNALISTICA SUDOESTE LTDA ME"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 2.1791929182868186,
-			"desc": 85,
+			"desc": "85.00",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{

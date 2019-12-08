@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FÁBIO TRAD"
+			"name": "FÁBIO TRAD",
+			"desc": "52955.62"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1286.951570499441,
-			"desc": 22276.070000000003,
+			"desc": "22276.07",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "RIO MANSO PRODUÇÃO EDITORIAL - EIRELI ME",
 			"name": "RIO MANSO PRODUÇÃO EDITORIAL - EIRELI ME",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "RIO MANSO PRODUÇÃO EDITORIAL - EIRELI ME"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "FRANCISCO HENRIQUE PORTILHO COENE 59551585100",
 			"name": "FRANCISCO HENRIQUE PORTILHO COENE 59551585100",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "FRANCISCO HENRIQUE PORTILHO COENE 59551585100"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 6.270179759980036,
-			"desc": 204.25999999999996,
+			"desc": "204.26",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 12.94290901429004,
-			"desc": 377.92,
+			"desc": "377.92",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "HOTEL METROPOLITAN EIRELI-EPP",
 			"name": "HOTEL METROPOLITAN EIRELI-EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "HOTEL METROPOLITAN EIRELI-EPP"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "SANTANA & CIA LTDA",
 			"name": "SANTANA & CIA LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "SANTANA & CIA LTDA"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.002050463376255,
-			"desc": 224.18,
+			"desc": "224.18",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 292.08309278350066,
-			"desc": 5836.57,
+			"desc": "5836.57",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
 			"name": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "DIGTOP PUBLICIDADE & MARKETING LTDA-ME"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 5.184554018344377,
-			"desc": 174.12,
+			"desc": "174.12",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "ROMEU IMOVEIS LTDA",
 			"name": "ROMEU IMOVEIS LTDA",
 			"val": 14.9112236762606,
-			"desc": 426.67,
+			"desc": "426.67",
 			"group": "ROMEU IMOVEIS LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.5720882397060687,
-			"desc": 65.21,
+			"desc": "65.21",
 			"group": "RAMAL"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "DENILSON DE SOUZA PINTO 63350050930",
 			"name": "DENILSON DE SOUZA PINTO 63350050930",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "DENILSON DE SOUZA PINTO 63350050930"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "SMAFF COMBUSTIVEIS LTDA",
 			"name": "SMAFF COMBUSTIVEIS LTDA",
 			"val": 4.280458010777474,
-			"desc": 148.36,
+			"desc": "148.36",
 			"group": "SMAFF COMBUSTIVEIS LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "POSTO MK 107 NORTE LTDA",
 			"name": "POSTO MK 107 NORTE LTDA",
 			"val": 6.4104232380954524,
-			"desc": 208.1,
+			"desc": "208.10",
 			"group": "POSTO MK 107 NORTE LTDA"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.00751509816700411,
-			"desc": 1.95,
+			"desc": "1.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "MARKON ANTONIO DUTRA MACHADO",
 			"name": "MARKON ANTONIO DUTRA MACHADO",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "MARKON ANTONIO DUTRA MACHADO"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "MERCURY COMUNICAÇOES LTDA ME",
 			"name": "MERCURY COMUNICAÇOES LTDA ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "MERCURY COMUNICAÇOES LTDA ME"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"val": 6.505245925219816,
-			"desc": 210.69,
+			"desc": "210.69",
 			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 24.295169360581124,
-			"desc": 650,
+			"desc": "650.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "WELLINGTON FERREIRA GOMES 03491724120",
 			"name": "WELLINGTON FERREIRA GOMES 03491724120",
 			"val": 65.70792550100192,
-			"desc": 1550,
+			"desc": "1550.00",
 			"group": "WELLINGTON FERREIRA GOMES 03491724120"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "MS MIDIA INDOOR E OUTDOOR LTDA",
 			"name": "MS MIDIA INDOOR E OUTDOOR LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "MS MIDIA INDOOR E OUTDOOR LTDA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"name": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"val": 31.237542217873823,
-			"desc": 808.5,
+			"desc": "808.50",
 			"group": "PAULO OCTAVIO HOTEIS E TUR. LTDA."
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "EMPRESA JORNALISTICA GAZETA MORENA LTDA",
 			"name": "EMPRESA JORNALISTICA GAZETA MORENA LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "EMPRESA JORNALISTICA GAZETA MORENA LTDA"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "AUTO POSTO 314 NORTE",
 			"name": "AUTO POSTO 314 NORTE",
 			"val": 5.613086358827747,
-			"desc": 186.11,
+			"desc": "186.11",
 			"group": "AUTO POSTO 314 NORTE"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 6.0351933848777275,
-			"desc": 197.8,
+			"desc": "197.80",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "ITANER MARQUES BENITEZ 02932996177",
 			"name": "ITANER MARQUES BENITEZ 02932996177",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "ITANER MARQUES BENITEZ 02932996177"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 56.153215936466246,
-			"desc": 1350,
+			"desc": "1350.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.447378425275326,
-			"desc": 209.11,
+			"desc": "209.11",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{

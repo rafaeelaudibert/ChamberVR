@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CHRISTINO AUREO"
+			"name": "CHRISTINO AUREO",
+			"desc": "62456.63"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO PRIMAVERA LTDA EPP",
 			"name": "AUTO POSTO PRIMAVERA LTDA EPP",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO PRIMAVERA LTDA EPP"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1500.5379195396972,
-			"desc": 25615.649999999994,
+			"desc": "25615.65",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "GVE PARK UE LTDA",
 			"name": "GVE PARK UE LTDA",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "GVE PARK UE LTDA"
 		},
 		{
@@ -194,7 +195,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 7.993263188812436,
-			"desc": 250.73000000000002,
+			"desc": "250.73",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 739.6001969464467,
-			"desc": 13478.3,
+			"desc": "13478.30",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 4.605495306518905,
-			"desc": 157.7,
+			"desc": "157.70",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "EB DE CASTRO JR CAFETERIA E INFORMATICA",
 			"name": "EB DE CASTRO JR CAFETERIA E INFORMATICA",
 			"val": 0.652907815693699,
-			"desc": 32.5,
+			"desc": "32.50",
 			"group": "EB DE CASTRO JR CAFETERIA E INFORMATICA"
 		},
 		{
@@ -348,7 +349,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 11.96079943567031,
-			"desc": 353.26,
+			"desc": "353.26",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 150.08445268519606,
-			"desc": 3219.92,
+			"desc": "3219.92",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 8.136123981190892,
-			"desc": 254.52,
+			"desc": "254.52",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 0.7659462853602788,
-			"desc": 36.81,
+			"desc": "36.81",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "COMERCIAL H KARL ALLERS LTDA",
 			"name": "COMERCIAL H KARL ALLERS LTDA",
 			"val": 16.979570881553386,
-			"desc": 477.06000000000006,
+			"desc": "477.06",
 			"group": "COMERCIAL H KARL ALLERS LTDA"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "Mapam Comercio Alimenticio Ltda. - ME",
 			"name": "Mapam Comercio Alimenticio Ltda. - ME",
 			"val": 0.2237628977173992,
-			"desc": 14.5,
+			"desc": "14.50",
 			"group": "Mapam Comercio Alimenticio Ltda. - ME"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 12.554656518486036,
-			"desc": 368.20000000000005,
+			"desc": "368.20",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "POSTO DE GASOLINA JOCKEY RIO LTDA",
 			"name": "POSTO DE GASOLINA JOCKEY RIO LTDA",
 			"val": 8.873153426328017,
-			"desc": 273.94,
+			"desc": "273.94",
 			"group": "POSTO DE GASOLINA JOCKEY RIO LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S.A",
 			"name": "HOTELARIA ACCOR BRASIL S.A",
 			"val": 23.073400873168993,
-			"desc": 621.6,
+			"desc": "621.60",
 			"group": "HOTELARIA ACCOR BRASIL S.A"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "POSTO SAO CRISTOVAO LTDA.",
 			"name": "POSTO SAO CRISTOVAO LTDA.",
 			"val": 0.9456952064609192,
-			"desc": 43.45,
+			"desc": "43.45",
 			"group": "POSTO SAO CRISTOVAO LTDA."
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 24.339616470205158,
-			"desc": 651.03,
+			"desc": "651.03",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "POSTO VIA PONTE LTDA",
 			"name": "POSTO VIA PONTE LTDA",
 			"val": 5.50364235315049,
-			"desc": 183.06,
+			"desc": "183.06",
 			"group": "POSTO VIA PONTE LTDA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "ROBATA RESTAURANTE LTDA",
 			"name": "ROBATA RESTAURANTE LTDA",
 			"val": 2.590388077814894,
-			"desc": 97.92,
+			"desc": "97.92",
 			"group": "ROBATA RESTAURANTE LTDA"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 37.44825975560151,
-			"desc": 946.9,
+			"desc": "946.90",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "OASIS COMBUSTIVEIS LTDA",
 			"name": "OASIS COMBUSTIVEIS LTDA",
 			"val": 5.394491612885819,
-			"desc": 180.01,
+			"desc": "180.01",
 			"group": "OASIS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 4.164692178363777,
-			"desc": 145.01,
+			"desc": "145.01",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "LANCHONETE DIAS SANTOS",
 			"name": "LANCHONETE DIAS SANTOS",
 			"val": 1.8355497583733094,
-			"desc": 73.92,
+			"desc": "73.92",
 			"group": "LANCHONETE DIAS SANTOS"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "EMPRESA SAO JOSE DE C.P. E EMP.  LTDA",
 			"name": "EMPRESA SAO JOSE DE C.P. E EMP.  LTDA",
 			"val": 3.082720891011665,
-			"desc": 113,
+			"desc": "113.00",
 			"group": "EMPRESA SAO JOSE DE C.P. E EMP.  LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "GUSTAVO MOTTA PEREIRA 07379319736",
 			"name": "GUSTAVO MOTTA PEREIRA 07379319736",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "GUSTAVO MOTTA PEREIRA 07379319736"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.5800791283405244,
-			"desc": 97.6,
+			"desc": "97.60",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "AUTO POSTO RUI BARBOSA LTDA",
 			"name": "AUTO POSTO RUI BARBOSA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO RUI BARBOSA LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "O GAUCHO DA VILA LTDA ME",
 			"name": "O GAUCHO DA VILA LTDA ME",
 			"val": 1.1674278582070865,
-			"desc": 51.36,
+			"desc": "51.36",
 			"group": "O GAUCHO DA VILA LTDA ME"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "POSTO DE GASOLINA BAR E RESTAURANTE IMPERATRIZ LTDA",
 			"name": "POSTO DE GASOLINA BAR E RESTAURANTE IMPERATRIZ LTDA",
 			"val": 4.774846795038776,
-			"desc": 162.53,
+			"desc": "162.53",
 			"group": "POSTO DE GASOLINA BAR E RESTAURANTE IMPERATRIZ LTDA"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "TB COMERCIO DE ALIMENTOS LTDA",
 			"name": "TB COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.0695023386626334,
-			"desc": 47.9,
+			"desc": "47.90",
 			"group": "TB COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 7.23791698198044,
-			"desc": 230.54,
+			"desc": "230.54",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"name": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"val": 6.480332513835858,
-			"desc": 210.01,
+			"desc": "210.01",
 			"group": "AUTO POSTO ATERRO DO FLAMENGO LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "CICERO AGOSTINHO FREIRE",
 			"name": "CICERO AGOSTINHO FREIRE",
 			"val": 0.6658600237553158,
-			"desc": 33,
+			"desc": "33.00",
 			"group": "CICERO AGOSTINHO FREIRE"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 7.359956374120555,
-			"desc": 233.82,
+			"desc": "233.82",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "POSTO E LANCHONETE XODO DO PAPAI LTDA",
 			"name": "POSTO E LANCHONETE XODO DO PAPAI LTDA",
 			"val": 0.996583014105329,
-			"desc": 45.29,
+			"desc": "45.29",
 			"group": "POSTO E LANCHONETE XODO DO PAPAI LTDA"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "POSTO PRETOLINE LTDA",
 			"name": "POSTO PRETOLINE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO PRETOLINE LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.458448828062133,
-			"desc": 340.55,
+			"desc": "340.55",
 			"group": "RAMAL"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "SONAP SOCIEDADE NACIONAL DE PETROLEO LTDA",
 			"name": "SONAP SOCIEDADE NACIONAL DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "SONAP SOCIEDADE NACIONAL DE PETROLEO LTDA"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "RODOPORTO CASIMIRO ALIMENTACAO",
 			"name": "RODOPORTO CASIMIRO ALIMENTACAO",
 			"val": 1.2730550696544105,
-			"desc": 55.04,
+			"desc": "55.04",
 			"group": "RODOPORTO CASIMIRO ALIMENTACAO"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ÁTILA LIRA"
+			"name": "ÁTILA LIRA",
+			"desc": "118432.51"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1028.5567303875243,
-			"desc": 18173.010000000002,
+			"desc": "18173.01",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 6.191475383490435,
-			"desc": 202.1,
+			"desc": "202.10",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "CAPITAL SERVICOS LTDA",
 			"name": "CAPITAL SERVICOS LTDA",
 			"val": 1745.5989556702639,
-			"desc": 29400,
+			"desc": "29400.00",
 			"group": "CAPITAL SERVICOS LTDA"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "CINTYA RAQUELLY MENDES DA SILVA 83361065372",
 			"name": "CINTYA RAQUELLY MENDES DA SILVA 83361065372",
 			"val": 391.91022457783663,
-			"desc": 7600,
+			"desc": "7600.00",
 			"group": "CINTYA RAQUELLY MENDES DA SILVA 83361065372"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "PREDIAL ADMINISTRADORA DE CONDOMINIOS LTDA",
 			"name": "PREDIAL ADMINISTRADORA DE CONDOMINIOS LTDA",
 			"val": 167.5798259956087,
-			"desc": 3552.0899999999997,
+			"desc": "3552.09",
 			"group": "PREDIAL ADMINISTRADORA DE CONDOMINIOS LTDA"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.9223379719176762,
-			"desc": 42.6,
+			"desc": "42.60",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "POSTO HOMERO CASTELO BRANCO LTDA",
 			"name": "POSTO HOMERO CASTELO BRANCO LTDA",
 			"val": 1354.4376785025045,
-			"desc": 23335.86,
+			"desc": "23335.86",
 			"group": "POSTO HOMERO CASTELO BRANCO LTDA"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 21.86168013020865,
-			"desc": 593.26,
+			"desc": "593.26",
 			"group": "RAMAL"
 		},
 		{
@@ -343,7 +344,7 @@
 			"id": "SECURITY SERVIÇOS E COMERCIO LTDA",
 			"name": "SECURITY SERVIÇOS E COMERCIO LTDA",
 			"val": 10.886741513117325,
-			"desc": 326,
+			"desc": "326.00",
 			"group": "SECURITY SERVIÇOS E COMERCIO LTDA"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 129.70261782139636,
-			"desc": 2828.08,
+			"desc": "2828.08",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 61.01912227357719,
-			"desc": 1452.27,
+			"desc": "1452.27",
 			"group": "TIM S/A"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 25.88283051586217,
-			"desc": 686.6599999999997,
+			"desc": "686.66",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 13.2687607146445,
-			"desc": 386.05,
+			"desc": "386.05",
 			"group": "NET CLARO"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "LEBRE LOCADORA DE VÉCULOS",
 			"name": "LEBRE LOCADORA DE VÉCULOS",
 			"val": 154.28490408055794,
-			"desc": 3300,
+			"desc": "3300.00",
 			"group": "LEBRE LOCADORA DE VÉCULOS"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "eletrobras distribuicao piaui",
 			"name": "eletrobras distribuicao piaui",
 			"val": 2.588132478762417,
-			"desc": 97.85,
+			"desc": "97.85",
 			"group": "eletrobras distribuicao piaui"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "Companhia Energética do Piauí",
 			"name": "Companhia Energética do Piauí",
 			"val": 16.955582442078953,
-			"desc": 476.48,
+			"desc": "476.48",
 			"group": "Companhia Energética do Piauí"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 59.86432007316327,
-			"desc": 1428.08,
+			"desc": "1428.08",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.7974173647350495,
-			"desc": 37.989999999999995,
+			"desc": "37.99",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "VIVO",
 			"name": "VIVO",
 			"val": 41.65819791401422,
-			"desc": 1039.24,
+			"desc": "1039.24",
 			"group": "VIVO"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "YARA MARIA LIRA PAIVA E SILVA",
 			"name": "YARA MARIA LIRA PAIVA E SILVA",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "YARA MARIA LIRA PAIVA E SILVA"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.0506850342614604,
-			"desc": 112.03,
+			"desc": "112.03",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 46.945704193088005,
-			"desc": 1153.78,
+			"desc": "1153.78",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 13.24066543014433,
-			"desc": 385.35,
+			"desc": "385.35",
 			"group": "CLARO S.A"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 41.57062302638282,
-			"desc": 1037.33,
+			"desc": "1037.33",
 			"group": "CLARO S.A."
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "EGIDE ASSESSORIA EM COMUNICACAO EIRELI",
 			"name": "EGIDE ASSESSORIA EM COMUNICACAO EIRELI",
 			"val": 869.1857246989471,
-			"desc": 15600,
+			"desc": "15600.00",
 			"group": "EGIDE ASSESSORIA EM COMUNICACAO EIRELI"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 2.0597159866681864,
-			"desc": 81.18,
+			"desc": "81.18",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 13.2687607146445,
-			"desc": 386.05,
+			"desc": "386.05",
 			"group": "CLARO S/A"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 28.010610190731022,
-			"desc": 735.39,
+			"desc": "735.39",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "Empresa Folha da Manhã S.A.",
 			"name": "Empresa Folha da Manhã S.A.",
 			"val": 3.750011281697093,
-			"desc": 132.9,
+			"desc": "132.90",
 			"group": "Empresa Folha da Manhã S.A."
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "Empresa Folha da Manha S.A.",
 			"name": "Empresa Folha da Manha S.A.",
 			"val": 3.750011281697093,
-			"desc": 132.9,
+			"desc": "132.90",
 			"group": "Empresa Folha da Manha S.A."
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL",
 			"name": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL",
 			"val": 3.247941502033105,
-			"desc": 117.98,
+			"desc": "117.98",
 			"group": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL"
 		},
 		{

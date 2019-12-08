@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DANIEL TRZECIAK"
+			"name": "DANIEL TRZECIAK",
+			"desc": "25380.69"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 469.7824106421199,
-			"desc": 8946.769999999999,
+			"desc": "8946.77",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "Coqueiro Combustiveis e Servicos Ltda",
 			"name": "Coqueiro Combustiveis e Servicos Ltda",
 			"val": 7.777905180222519,
-			"desc": 245,
+			"desc": "245.00",
 			"group": "Coqueiro Combustiveis e Servicos Ltda"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "EMPRESA CONCESSIONARIA DE RODOVIAS DO SUL S/A - ECOSUL",
 			"name": "EMPRESA CONCESSIONARIA DE RODOVIAS DO SUL S/A - ECOSUL",
 			"val": 22.264452210510328,
-			"desc": 602.6999999999999,
+			"desc": "602.70",
 			"group": "EMPRESA CONCESSIONARIA DE RODOVIAS DO SUL S/A - ECOSUL"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 95.13096908590454,
-			"desc": 2148.56,
+			"desc": "2148.56",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "VIGHOR EMPREENDIMENTOS LTDA",
 			"name": "VIGHOR EMPREENDIMENTOS LTDA",
 			"val": 62.28399525676154,
-			"desc": 1478.71,
+			"desc": "1478.71",
 			"group": "VIGHOR EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "JAQUELINE HALAL PALLAMOLLA",
 			"name": "JAQUELINE HALAL PALLAMOLLA",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "JAQUELINE HALAL PALLAMOLLA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 39.571198506431145,
-			"desc": 993.5999999999999,
+			"desc": "993.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "DE AVILA &amp; FARIAS LTDA.",
 			"name": "DE AVILA &amp; FARIAS LTDA.",
 			"val": 1.868645607148764,
-			"desc": 75,
+			"desc": "75.00",
 			"group": "DE AVILA &amp; FARIAS LTDA."
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "ORGANIZAÇÃO SANTAMARIENSE DE HOTÉIS S/A -Itaimbe Palace Hotel",
 			"name": "ORGANIZAÇÃO SANTAMARIENSE DE HOTÉIS S/A -Itaimbe Palace Hotel",
 			"val": 6.6726375769886825,
-			"desc": 215.25,
+			"desc": "215.25",
 			"group": "ORGANIZAÇÃO SANTAMARIENSE DE HOTÉIS S/A -Itaimbe Palace Hotel"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.2407528161946906,
-			"desc": 53.92,
+			"desc": "53.92",
 			"group": "RAMAL"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "ADMINISTRADORA GERAL DE ESTACIONAMENTO S.A",
 			"name": "ADMINISTRADORA GERAL DE ESTACIONAMENTO S.A",
 			"val": 0.062039100017307745,
-			"desc": 6,
+			"desc": "6.00",
 			"group": "ADMINISTRADORA GERAL DE ESTACIONAMENTO S.A"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "AUTO POSTO BR PASSO FUNDO LTDA",
 			"name": "AUTO POSTO BR PASSO FUNDO LTDA",
 			"val": 8.585639005309758,
-			"desc": 266.39,
+			"desc": "266.39",
 			"group": "AUTO POSTO BR PASSO FUNDO LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "ABASTEC. DE COMB. RIOXEL LTDA FILIAL8 (POSTO ARRASTAO)",
 			"name": "ABASTEC. DE COMB. RIOXEL LTDA FILIAL8 (POSTO ARRASTAO)",
 			"val": 6.3333112679769465,
-			"desc": 205.99,
+			"desc": "205.99",
 			"group": "ABASTEC. DE COMB. RIOXEL LTDA FILIAL8 (POSTO ARRASTAO)"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "BETTIN &amp; FONSECA COM.E TRANSP. LTDA - MATRIZ",
 			"name": "BETTIN &amp; FONSECA COM.E TRANSP. LTDA - MATRIZ",
 			"val": 8.116880898085594,
-			"desc": 254.01,
+			"desc": "254.01",
 			"group": "BETTIN &amp; FONSECA COM.E TRANSP. LTDA - MATRIZ"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "POSTO DE SERVICOS ANCHIETA LTDA",
 			"name": "POSTO DE SERVICOS ANCHIETA LTDA",
 			"val": 7.4315175137804905,
-			"desc": 235.74,
+			"desc": "235.74",
 			"group": "POSTO DE SERVICOS ANCHIETA LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 52",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 52",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 52"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "POSTO JAPONES EIRELI",
 			"name": "POSTO JAPONES EIRELI",
 			"val": 8.839197914742215,
-			"desc": 273.05,
+			"desc": "273.05",
 			"group": "POSTO JAPONES EIRELI"
 		},
 		{

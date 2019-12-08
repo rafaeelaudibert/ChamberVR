@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALCIDES RODRIGUES"
+			"name": "ALCIDES RODRIGUES",
+			"desc": "54841.66"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO JACARE LTDA",
 			"name": "AUTO POSTO JACARE LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTO POSTO JACARE LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CIDADE EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"name": "CIDADE EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"val": 242.3787590232123,
-			"desc": 4938.5,
+			"desc": "4938.50",
 			"group": "CIDADE EMPREENDIMENTOS IMOBILIARIOS LTDA"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "ASSOCIACAO DOS TAXISTAS DO TERMINAL RODOVIARIO DE GOIANIA",
 			"name": "ASSOCIACAO DOS TAXISTAS DO TERMINAL RODOVIARIO DE GOIANIA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ASSOCIACAO DOS TAXISTAS DO TERMINAL RODOVIARIO DE GOIANIA"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "SUPER POSTO TAMANDARE LTDA",
 			"name": "SUPER POSTO TAMANDARE LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "SUPER POSTO TAMANDARE LTDA"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "VIACAO ARAGUARINA LTDA. EM RECUPERACAO JUDICIAL",
 			"name": "VIACAO ARAGUARINA LTDA. EM RECUPERACAO JUDICIAL",
 			"val": 1.2724770823378904,
-			"desc": 55.02,
+			"desc": "55.02",
 			"group": "VIACAO ARAGUARINA LTDA. EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -124,7 +125,7 @@
 			"id": "SILVA E RAMOS COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"name": "SILVA E RAMOS COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"val": 5.789516431084717,
-			"desc": 191.01,
+			"desc": "191.01",
 			"group": "SILVA E RAMOS COMERCIO DE COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -137,7 +138,7 @@
 			"id": "CLARO",
 			"name": "CLARO",
 			"val": 9.519878303678501,
-			"desc": 290.81,
+			"desc": "290.81",
 			"group": "CLARO"
 		},
 		{
@@ -156,7 +157,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.03272093619052,
-			"desc": 169.84,
+			"desc": "169.84",
 			"group": "RAMAL"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "RCJ COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"name": "RCJ COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"val": 2.652367822176393,
-			"desc": 99.84,
+			"desc": "99.84",
 			"group": "RCJ COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -194,7 +195,7 @@
 			"id": "Euler Damasio Alves",
 			"name": "Euler Damasio Alves",
 			"val": 335.0263323796743,
-			"desc": 6601,
+			"desc": "6601.00",
 			"group": "Euler Damasio Alves"
 		},
 		{
@@ -219,7 +220,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 6.533471988145822,
-			"desc": 211.45999999999998,
+			"desc": "211.46",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -262,7 +263,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "VIACAO GOIANIA LTDA",
 			"name": "VIACAO GOIANIA LTDA",
 			"val": 1.4562475045057288,
-			"desc": 61.31,
+			"desc": "61.31",
 			"group": "VIACAO GOIANIA LTDA"
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "AUTO POSTO CAPITAL LTDA",
 			"name": "AUTO POSTO CAPITAL LTDA",
 			"val": 67.15785905020316,
-			"desc": 1580.07,
+			"desc": "1580.07",
 			"group": "AUTO POSTO CAPITAL LTDA"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 56.560719170901656,
-			"desc": 1358.6,
+			"desc": "1358.60",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -387,7 +388,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 81.5150126720993,
-			"desc": 1874.39,
+			"desc": "1874.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "LP LOGISTICA COMERCIO DE COMBUSTIVEIS EIRELI",
 			"name": "LP LOGISTICA COMERCIO DE COMBUSTIVEIS EIRELI",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "LP LOGISTICA COMERCIO DE COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA",
 			"name": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA",
 			"val": 23.434004206335945,
-			"desc": 630,
+			"desc": "630.00",
 			"group": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "AUTO POSTO KR LTDA",
 			"name": "AUTO POSTO KR LTDA",
 			"val": 18.563633761711667,
-			"desc": 515.15,
+			"desc": "515.15",
 			"group": "AUTO POSTO KR LTDA"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 4.64924248933414,
-			"desc": 158.95000000000002,
+			"desc": "158.95",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "Kandango Transportes e Turismo Ltda - EPP.",
 			"name": "Kandango Transportes e Turismo Ltda - EPP.",
 			"val": 7.946970213326586,
-			"desc": 249.5,
+			"desc": "249.50",
 			"group": "Kandango Transportes e Turismo Ltda - EPP."
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "Comercial Carvalho de Combustiveis Ltda",
 			"name": "Comercial Carvalho de Combustiveis Ltda",
 			"val": 486.14612329141147,
-			"desc": 9227.119999999999,
+			"desc": "9227.12",
 			"group": "Comercial Carvalho de Combustiveis Ltda"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "LOURIVANDA PANIAGO PASSOS MARTINS",
 			"name": "LOURIVANDA PANIAGO PASSOS MARTINS",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "LOURIVANDA PANIAGO PASSOS MARTINS"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "AUTO POSTO INDIARA LTDA",
 			"name": "AUTO POSTO INDIARA LTDA",
 			"val": 12.228665841441709,
-			"desc": 360.01,
+			"desc": "360.01",
 			"group": "AUTO POSTO INDIARA LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "RADIO TAXI RODOTAXI",
 			"name": "RADIO TAXI RODOTAXI",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "RADIO TAXI RODOTAXI"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "Kandango Transporte e Turismo Ltda EPP",
 			"name": "Kandango Transporte e Turismo Ltda EPP",
 			"val": 2.6510743898515994,
-			"desc": 99.8,
+			"desc": "99.80",
 			"group": "Kandango Transporte e Turismo Ltda EPP"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "RÁDIO TÁXI BANDEIRANTES",
 			"name": "RÁDIO TÁXI BANDEIRANTES",
 			"val": 0.27794747320502305,
-			"desc": 17,
+			"desc": "17.00",
 			"group": "RÁDIO TÁXI BANDEIRANTES"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "COLEMAR MOURA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "COLEMAR MOURA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 525.6192272702316,
-			"desc": 9900,
+			"desc": "9900.00",
 			"group": "COLEMAR MOURA SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "Rápido Park",
 			"name": "Rápido Park",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "Rápido Park"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "Rádio Taxi Taguatinga",
 			"name": "Rádio Taxi Taguatinga",
 			"val": 0.256,
-			"desc": 16,
+			"desc": "16.00",
 			"group": "Rádio Taxi Taguatinga"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "SANEAGO",
 			"name": "SANEAGO",
 			"val": 5.527300621872557,
-			"desc": 183.72,
+			"desc": "183.72",
 			"group": "SANEAGO"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "VIAÇÃO GOIÂNIA LTDA",
 			"name": "VIAÇÃO GOIÂNIA LTDA",
 			"val": 5.229368894772363,
-			"desc": 175.38,
+			"desc": "175.38",
 			"group": "VIAÇÃO GOIÂNIA LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "Viação Araguarina Ltda.",
 			"name": "Viação Araguarina Ltda.",
 			"val": 4.384152341234768,
-			"desc": 151.35000000000002,
+			"desc": "151.35",
 			"group": "Viação Araguarina Ltda."
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "RÁDIO TÁXI ARAGUAIA",
 			"name": "RÁDIO TÁXI ARAGUAIA",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "RÁDIO TÁXI ARAGUAIA"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "Expresso São Luiz 21",
 			"name": "Expresso São Luiz 21",
 			"val": 1.1259371949257997,
-			"desc": 49.9,
+			"desc": "49.90",
 			"group": "Expresso São Luiz 21"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "COMERCIAL CARVALHO DE COMBUSTIVEIS LTDA",
 			"name": "COMERCIAL CARVALHO DE COMBUSTIVEIS LTDA",
 			"val": 215.949499980929,
-			"desc": 4454.070000000001,
+			"desc": "4454.07",
 			"group": "COMERCIAL CARVALHO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 73.94025231018722,
-			"desc": 1719.85,
+			"desc": "1719.85",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "COOPERATIVA DE TRANSPORTE DE TÁXI DE GOIÂNIA",
 			"name": "COOPERATIVA DE TRANSPORTE DE TÁXI DE GOIÂNIA",
 			"val": 0.48884573068667353,
-			"desc": 26,
+			"desc": "26.00",
 			"group": "COOPERATIVA DE TRANSPORTE DE TÁXI DE GOIÂNIA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "RAPIDOPARK FUSION BRASILIA - CNPJ: 18.312.210/0004-23",
 			"name": "RAPIDOPARK FUSION BRASILIA - CNPJ: 18.312.210/0004-23",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "RAPIDOPARK FUSION BRASILIA - CNPJ: 18.312.210/0004-23"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 0.6658600237553158,
-			"desc": 33,
+			"desc": "33.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "MARX ALIMENTOS LTDA ME",
 			"name": "MARX ALIMENTOS LTDA ME",
 			"val": 0.6058866181598748,
-			"desc": 30.67,
+			"desc": "30.67",
 			"group": "MARX ALIMENTOS LTDA ME"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 18.641412601789828,
-			"desc": 517.01,
+			"desc": "517.01",
 			"group": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -882,7 +883,7 @@
 			"id": "MARABA PALACE HOTEL LTDA",
 			"name": "MARABA PALACE HOTEL LTDA",
 			"val": 9.951992925104694,
-			"desc": 302,
+			"desc": "302.00",
 			"group": "MARABA PALACE HOTEL LTDA"
 		},
 		{
@@ -895,7 +896,7 @@
 			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -908,7 +909,7 @@
 			"id": "THS HOTEIS LTDA",
 			"name": "THS HOTEIS LTDA",
 			"val": 11.397371824012883,
-			"desc": 339,
+			"desc": "339.00",
 			"group": "THS HOTEIS LTDA"
 		},
 		{
@@ -921,7 +922,7 @@
 			"id": "Cidade Empreendimentos Imobiliários LTDA",
 			"name": "Cidade Empreendimentos Imobiliários LTDA",
 			"val": 279.262833999086,
-			"desc": 5606.4,
+			"desc": "5606.40",
 			"group": "Cidade Empreendimentos Imobiliários LTDA"
 		},
 		{
@@ -934,7 +935,7 @@
 			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"val": 2.6876493252217277,
-			"desc": 100.93,
+			"desc": "100.93",
 			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
 		},
 		{
@@ -947,7 +948,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.243055700467309,
-			"desc": 54,
+			"desc": "54.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -960,7 +961,7 @@
 			"id": "AUTO POSTO SAO MARCOS LTDA",
 			"name": "AUTO POSTO SAO MARCOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO SAO MARCOS LTDA"
 		},
 		{

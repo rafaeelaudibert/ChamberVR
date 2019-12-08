@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARCELO FREIXO"
+			"name": "MARCELO FREIXO",
+			"desc": "94619.46"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 513.3724305587243,
-			"desc": 9691.730000000001,
+			"desc": "9691.73",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1774.3748954554976,
-			"desc": 29841.429999999986,
+			"desc": "29841.43",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "AUTO POSTO MAQUINE LTDA",
 			"name": "AUTO POSTO MAQUINE LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO MAQUINE LTDA"
 		},
 		{
@@ -356,7 +357,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 89.27475793174261,
-			"desc": 2031.17,
+			"desc": "2031.17",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.0010286851759664,
-			"desc": 45.45,
+			"desc": "45.45",
 			"group": "RAMAL"
 		},
 		{
@@ -388,7 +389,7 @@
 			"id": "AUTO POSTO SATURNINO DE BRITO",
 			"name": "AUTO POSTO SATURNINO DE BRITO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO SATURNINO DE BRITO"
 		},
 		{
@@ -401,7 +402,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 3.9889699044144282,
-			"desc": 139.9,
+			"desc": "139.90",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "ISABEL XAVIER FREIRE 12464042730",
 			"name": "ISABEL XAVIER FREIRE 12464042730",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "ISABEL XAVIER FREIRE 12464042730"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 253.35093208403185,
-			"desc": 5138.120000000001,
+			"desc": "5138.12",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 5.638964581194536,
-			"desc": 186.82999999999998,
+			"desc": "186.83",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "POSTO DE SERVICO BRASIL LTDA",
 			"name": "POSTO DE SERVICO BRASIL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE SERVICO BRASIL LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "AUTO POSTO PARQUE DO FLAMENGO LTDA",
 			"name": "AUTO POSTO PARQUE DO FLAMENGO LTDA",
 			"val": 1.7171079192041045,
-			"desc": 70.03,
+			"desc": "70.03",
 			"group": "AUTO POSTO PARQUE DO FLAMENGO LTDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "LIGHT S.A",
 			"name": "LIGHT S.A",
 			"val": 62.30698351775004,
-			"desc": 1479.1899999999998,
+			"desc": "1479.19",
 			"group": "LIGHT S.A"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "MOOJEN ANDRADA EMPREENDIMENTOS E PARTICIPAÇÕES LTDA",
 			"name": "MOOJEN ANDRADA EMPREENDIMENTOS E PARTICIPAÇÕES LTDA",
 			"val": 1201.2684184557752,
-			"desc": 20923.850000000002,
+			"desc": "20923.85",
 			"group": "MOOJEN ANDRADA EMPREENDIMENTOS E PARTICIPAÇÕES LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "POSTO DE GASOLINA PRAIA DO LEME",
 			"name": "POSTO DE GASOLINA PRAIA DO LEME",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DE GASOLINA PRAIA DO LEME"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 77.08354737713158,
-			"desc": 1784.17,
+			"desc": "1784.17",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "COMERCIAL PAPIROS LTDA",
 			"name": "COMERCIAL PAPIROS LTDA",
 			"val": 2.4006707998289807,
-			"desc": 92,
+			"desc": "92.00",
 			"group": "COMERCIAL PAPIROS LTDA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "MUNDIVOX COMUNICACOES LTDA",
 			"name": "MUNDIVOX COMUNICACOES LTDA",
 			"val": 63.7330395475918,
-			"desc": 1508.93,
+			"desc": "1508.93",
 			"group": "MUNDIVOX COMUNICACOES LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 113.23363170420275,
-			"desc": 2507,
+			"desc": "2507.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "POSTO DE GASOLINA PRAIA DO LEME LTDA",
 			"name": "POSTO DE GASOLINA PRAIA DO LEME LTDA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "POSTO DE GASOLINA PRAIA DO LEME LTDA"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 1.8668045823889035,
-			"desc": 74.94,
+			"desc": "74.94",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"name": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ATERRO DO FLAMENGO LTDA"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "MOOJEN ANDRADA EMPREENDIMENTOS E PARTICIPACOES LTDA",
 			"name": "MOOJEN ANDRADA EMPREENDIMENTOS E PARTICIPACOES LTDA",
 			"val": 241.43386357749864,
-			"desc": 4921.27,
+			"desc": "4921.27",
 			"group": "MOOJEN ANDRADA EMPREENDIMENTOS E PARTICIPACOES LTDA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "POSTO IATE COM. E SERV. LTDA",
 			"name": "POSTO IATE COM. E SERV. LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO IATE COM. E SERV. LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 31.490778914567624,
-			"desc": 814.2,
+			"desc": "814.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA.",
 			"name": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA.",
 			"val": 31.32237297143513,
-			"desc": 810.41,
+			"desc": "810.41",
 			"group": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA."
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "Evelyn Melo & Samara Castro Advogadas",
 			"name": "Evelyn Melo & Samara Castro Advogadas",
 			"val": 318.05263005452093,
-			"desc": 6300,
+			"desc": "6300.00",
 			"group": "Evelyn Melo & Samara Castro Advogadas"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "ANA CLAUDIA DE MOURA SOUSA 11862943702",
 			"name": "ANA CLAUDIA DE MOURA SOUSA 11862943702",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "ANA CLAUDIA DE MOURA SOUSA 11862943702"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.437496553264911,
-			"desc": 208.84,
+			"desc": "208.84",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "Ana Claudia de Moura Sousa",
 			"name": "Ana Claudia de Moura Sousa",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "Ana Claudia de Moura Sousa"
 		},
 		{

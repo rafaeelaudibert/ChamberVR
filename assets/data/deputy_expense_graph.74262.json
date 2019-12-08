@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARLOS SAMPAIO"
+			"name": "CARLOS SAMPAIO",
+			"desc": "51875.46"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 31.064408522632842,
-			"desc": 804.6,
+			"desc": "804.60",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 6.298633252135583,
-			"desc": 205.04000000000002,
+			"desc": "205.04",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 140.18984981747494,
-			"desc": 3030.4,
+			"desc": "3030.40",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 147.01430322228236,
-			"desc": 3161.2500000000005,
+			"desc": "3161.25",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -153,7 +154,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 807.1469970689831,
-			"desc": 14587.890000000001,
+			"desc": "14587.89",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 315.134777853695,
-			"desc": 6248.110000000001,
+			"desc": "6248.11",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -443,7 +444,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 172.86467598146007,
-			"desc": 3651.75,
+			"desc": "3651.75",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"name": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"val": 55.322135208285545,
-			"desc": 1332.44,
+			"desc": "1332.44",
 			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 24.179995986293964,
-			"desc": 647.3299999999999,
+			"desc": "647.33",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "Sanasa Campinas",
 			"name": "Sanasa Campinas",
 			"val": 10.591939301673525,
-			"desc": 318.46000000000004,
+			"desc": "318.46",
 			"group": "Sanasa Campinas"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
 			"name": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
 			"val": 369.0368983070507,
-			"desc": 7200,
+			"desc": "7200.00",
 			"group": "ALTIS LOCADORA DE VEÍCULOS - EIRELI"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 65.85869388529306,
-			"desc": 1553.13,
+			"desc": "1553.13",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 22.65994543412194,
-			"desc": 611.95,
+			"desc": "611.95",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 12.944509767641566,
-			"desc": 377.96000000000004,
+			"desc": "377.96",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 56.142321925903005,
-			"desc": 1349.77,
+			"desc": "1349.77",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.638791402327404,
-			"desc": 99.42,
+			"desc": "99.42",
 			"group": "RAMAL"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "ADT SERVIÇOS DE MONITORAMENTO LTDA",
 			"name": "ADT SERVIÇOS DE MONITORAMENTO LTDA",
 			"val": 22.85006953983698,
-			"desc": 616.39,
+			"desc": "616.39",
 			"group": "ADT SERVIÇOS DE MONITORAMENTO LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "CORREIOS - IMPRESSO NORMAL",
 			"name": "CORREIOS - IMPRESSO NORMAL",
 			"val": 0.11319557902909279,
-			"desc": 8.95,
+			"desc": "8.95",
 			"group": "CORREIOS - IMPRESSO NORMAL"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "Terra Imóveis Ltda",
 			"name": "Terra Imóveis Ltda",
 			"val": 295.9886017496472,
-			"desc": 5906.5,
+			"desc": "5906.50",
 			"group": "Terra Imóveis Ltda"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 3.320651835975936,
-			"desc": 120.16,
+			"desc": "120.16",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.9597557295697252,
-			"desc": 43.96,
+			"desc": "43.96",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{

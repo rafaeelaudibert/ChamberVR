@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CORONEL TADEU"
+			"name": "CORONEL TADEU",
+			"desc": "28802.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.9351139917978015,
-			"desc": 222.37,
+			"desc": "222.37",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -78,7 +79,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.481797657298411,
-			"desc": 210.05,
+			"desc": "210.05",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 9.419444098351297,
-			"desc": 288.2,
+			"desc": "288.20",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "PADARIA E RESTAURANTE GVF LTDA",
 			"name": "PADARIA E RESTAURANTE GVF LTDA",
 			"val": 11.61822882381973,
-			"desc": 344.6000000000001,
+			"desc": "344.60",
 			"group": "PADARIA E RESTAURANTE GVF LTDA"
 		},
 		{
@@ -219,7 +220,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 3.750011281697093,
-			"desc": 132.9,
+			"desc": "132.90",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "TAPPI COMERCIO DE ALIMENTOS E BEBIDAS EIRELI ME",
 			"name": "TAPPI COMERCIO DE ALIMENTOS E BEBIDAS EIRELI ME",
 			"val": 4.949265131085899,
-			"desc": 167.48,
+			"desc": "167.48",
 			"group": "TAPPI COMERCIO DE ALIMENTOS E BEBIDAS EIRELI ME"
 		},
 		{
@@ -251,7 +252,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 552.2700586294955,
-			"desc": 10351.76,
+			"desc": "10351.76",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "WRC RESTAURANTES LTDA",
 			"name": "WRC RESTAURANTES LTDA",
 			"val": 2.438953800953107,
-			"desc": 93.2,
+			"desc": "93.20",
 			"group": "WRC RESTAURANTES LTDA"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "JOAO BATISTA MACHADO ITAPETININGA",
 			"name": "JOAO BATISTA MACHADO ITAPETININGA",
 			"val": 4.686384567456674,
-			"desc": 160.01,
+			"desc": "160.01",
 			"group": "JOAO BATISTA MACHADO ITAPETININGA"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"name": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"val": 3.791167931622311,
-			"desc": 134.10999999999999,
+			"desc": "134.11",
 			"group": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "PADARIA MERCI VILA ROMANA LTDA",
 			"name": "PADARIA MERCI VILA ROMANA LTDA",
 			"val": 0.7102206895674968,
-			"desc": 34.7,
+			"desc": "34.70",
 			"group": "PADARIA MERCI VILA ROMANA LTDA"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 16.083655659745187,
-			"desc": 455.33000000000004,
+			"desc": "455.33",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "DRL Pães e Doces Ltda",
 			"name": "DRL Pães e Doces Ltda",
 			"val": 5.502925650030202,
-			"desc": 183.04,
+			"desc": "183.04",
 			"group": "DRL Pães e Doces Ltda"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 193.3510168409998,
-			"desc": 4035.38,
+			"desc": "4035.38",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (GT BRASILIA ALVORADA)",
 			"name": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (GT BRASILIA ALVORADA)",
 			"val": 50.18647586140576,
-			"desc": 1223.28,
+			"desc": "1223.28",
 			"group": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (GT BRASILIA ALVORADA)"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "CENTRO AUTOMOTIVO TREBBIANO LTDA",
 			"name": "CENTRO AUTOMOTIVO TREBBIANO LTDA",
 			"val": 6.444816265174995,
-			"desc": 209.04,
+			"desc": "209.04",
 			"group": "CENTRO AUTOMOTIVO TREBBIANO LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.068127182167311,
-			"desc": 81.45,
+			"desc": "81.45",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "BAR E RESTAURANTE ALS LTDA",
 			"name": "BAR E RESTAURANTE ALS LTDA",
 			"val": 4.36088661293223,
-			"desc": 150.68,
+			"desc": "150.68",
 			"group": "BAR E RESTAURANTE ALS LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "RETAIL SERVICES BRASIL ALIMENTACAO E BEBIDAS LTDA",
 			"name": "RETAIL SERVICES BRASIL ALIMENTACAO E BEBIDAS LTDA",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "RETAIL SERVICES BRASIL ALIMENTACAO E BEBIDAS LTDA"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
 			"name": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
 			"val": 2.3053611014240376,
-			"desc": 89,
+			"desc": "89.00",
 			"group": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "BG LESTE ALIMENTOS LTDA",
 			"name": "BG LESTE ALIMENTOS LTDA",
 			"val": 0.096,
-			"desc": 8,
+			"desc": "8.00",
 			"group": "BG LESTE ALIMENTOS LTDA"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "BAR E RESTAURANTE 92 LTDA ME",
 			"name": "BAR E RESTAURANTE 92 LTDA ME",
 			"val": 4.8501466642537565,
-			"desc": 164.67,
+			"desc": "164.67",
 			"group": "BAR E RESTAURANTE 92 LTDA ME"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 6.574556947764575,
-			"desc": 212.58,
+			"desc": "212.58",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "PORTAL IMPERATRIZ AUTO POSTO LTDA",
 			"name": "PORTAL IMPERATRIZ AUTO POSTO LTDA",
 			"val": 20.684450058451496,
-			"desc": 565.55,
+			"desc": "565.55",
 			"group": "PORTAL IMPERATRIZ AUTO POSTO LTDA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.838610383693989,
-			"desc": 74.02000000000001,
+			"desc": "74.02",
 			"group": "RAMAL"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "ADAB RESTAURANTES E ALIMENTACAO LTDA",
 			"name": "ADAB RESTAURANTES E ALIMENTACAO LTDA",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "ADAB RESTAURANTES E ALIMENTACAO LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "RWR - Serviços de Taxi Ltda - ME",
 			"name": "RWR - Serviços de Taxi Ltda - ME",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "RWR - Serviços de Taxi Ltda - ME"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "INSTITUTO MENSAGEIROS",
 			"name": "INSTITUTO MENSAGEIROS",
 			"val": 0.8272147242584865,
-			"desc": 39.1,
+			"desc": "39.10",
 			"group": "INSTITUTO MENSAGEIROS"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.055364058157977,
-			"desc": 225.62,
+			"desc": "225.62",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 6.703901968448721,
-			"desc": 216.1,
+			"desc": "216.10",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 121.81269561365528,
-			"desc": 2674.8,
+			"desc": "2674.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "GR SERVICOS E ALIMENTACAO LTDA",
 			"name": "GR SERVICOS E ALIMENTACAO LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "GR SERVICOS E ALIMENTACAO LTDA"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "BG LESTE PETROLEO LTDA",
 			"name": "BG LESTE PETROLEO LTDA",
 			"val": 5.417370819028275,
-			"desc": 180.65,
+			"desc": "180.65",
 			"group": "BG LESTE PETROLEO LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "GRUPO FARTURA DE HORTIFRUT S.A.",
 			"name": "GRUPO FARTURA DE HORTIFRUT S.A.",
 			"val": 0.5509494616147805,
-			"desc": 28.5,
+			"desc": "28.50",
 			"group": "GRUPO FARTURA DE HORTIFRUT S.A."
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "PIZZA MUSIC BAR LTDA",
 			"name": "PIZZA MUSIC BAR LTDA",
 			"val": 2.1368538503215215,
-			"desc": 83.65,
+			"desc": "83.65",
 			"group": "PIZZA MUSIC BAR LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "POSTO DE SERVICOS SANTA INES LTDA",
 			"name": "POSTO DE SERVICOS SANTA INES LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "POSTO DE SERVICOS SANTA INES LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "AUTO POSTO CONDE LT",
 			"name": "AUTO POSTO CONDE LT",
 			"val": 2.6594833520585235,
-			"desc": 100.06,
+			"desc": "100.06",
 			"group": "AUTO POSTO CONDE LT"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "WEST CHINA REFEIÇÕES LTDA",
 			"name": "WEST CHINA REFEIÇÕES LTDA",
 			"val": 2.24845417298548,
-			"desc": 87.2,
+			"desc": "87.20",
 			"group": "WEST CHINA REFEIÇÕES LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "EWA FAST FOOD LTDA ME",
 			"name": "EWA FAST FOOD LTDA ME",
 			"val": 0.36825458573627823,
-			"desc": 20.97,
+			"desc": "20.97",
 			"group": "EWA FAST FOOD LTDA ME"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "AUTO POSTO ASEA LTDA",
 			"name": "AUTO POSTO ASEA LTDA",
 			"val": 2.8899315292233525,
-			"desc": 107.14,
+			"desc": "107.14",
 			"group": "AUTO POSTO ASEA LTDA"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "SUSHI CAMPO BELO EIRELI EPP",
 			"name": "SUSHI CAMPO BELO EIRELI EPP",
 			"val": 2.6368527486110818,
-			"desc": 99.36,
+			"desc": "99.36",
 			"group": "SUSHI CAMPO BELO EIRELI EPP"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"name": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.3783806872013726,
-			"desc": 91.3,
+			"desc": "91.30",
 			"group": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "DOLCISSIMO LANCHONETE E CAFE LTDA",
 			"name": "DOLCISSIMO LANCHONETE E CAFE LTDA",
 			"val": 0.3228424910217125,
-			"desc": 19,
+			"desc": "19.00",
 			"group": "DOLCISSIMO LANCHONETE E CAFE LTDA"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "CISNE BRANCO AUTO POSTO LT",
 			"name": "CISNE BRANCO AUTO POSTO LT",
 			"val": 5.7541717820763445,
-			"desc": 190.03,
+			"desc": "190.03",
 			"group": "CISNE BRANCO AUTO POSTO LT"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 92.44233901650404,
-			"desc": 2094.76,
+			"desc": "2094.76",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.868645607148764,
-			"desc": 75,
+			"desc": "75.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -903,7 +904,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 74.60081075500987,
-			"desc": 1733.39,
+			"desc": "1733.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -916,7 +917,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 13.846309539380126,
-			"desc": 400.4,
+			"desc": "400.40",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -935,7 +936,7 @@
 			"id": "GN CAFE E ALIMENTACAO EIRELI",
 			"name": "GN CAFE E ALIMENTACAO EIRELI",
 			"val": 2.144684992703406,
-			"desc": 83.9,
+			"desc": "83.90",
 			"group": "GN CAFE E ALIMENTACAO EIRELI"
 		},
 		{
@@ -948,7 +949,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 2.1597328256587103,
-			"desc": 84.38,
+			"desc": "84.38",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -961,7 +962,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 2.417887042533518,
-			"desc": 92.54,
+			"desc": "92.54",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -974,7 +975,7 @@
 			"id": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"name": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"val": 7.165119303856526,
-			"desc": 228.58,
+			"desc": "228.58",
 			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
 		},
 		{

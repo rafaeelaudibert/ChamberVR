@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LINCOLN PORTELA"
+			"name": "LINCOLN PORTELA",
+			"desc": "44812.69"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "L&R PAPELARIA E SUPRIMENTOS PARA ESCRITORIO LTDA",
 			"name": "L&R PAPELARIA E SUPRIMENTOS PARA ESCRITORIO LTDA",
 			"val": 5.771119156869911,
-			"desc": 190.5,
+			"desc": "190.50",
 			"group": "L&R PAPELARIA E SUPRIMENTOS PARA ESCRITORIO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Pontual Loc Car ltda",
 			"name": "Pontual Loc Car ltda",
 			"val": 783.4766679670703,
-			"desc": 14200,
+			"desc": "14200.00",
 			"group": "Pontual Loc Car ltda"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.3397193323837335,
-			"desc": 150.07,
+			"desc": "150.07",
 			"group": "RAMAL"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 42.87209609411206,
-			"desc": 1065.67,
+			"desc": "1065.67",
 			"group": "CLARO S.A"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "POSTO JUPITER LTDA",
 			"name": "POSTO JUPITER LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO JUPITER LTDA"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 506.88814016364535,
-			"desc": 9581.279999999997,
+			"desc": "9581.28",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "Novo Posto Fernão Dias Ltda",
 			"name": "Novo Posto Fernão Dias Ltda",
 			"val": 11.790545832494592,
-			"desc": 348.96,
+			"desc": "348.96",
 			"group": "Novo Posto Fernão Dias Ltda"
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 51.850711335267505,
-			"desc": 1258.78,
+			"desc": "1258.78",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 18.63932126705937,
-			"desc": 516.96,
+			"desc": "516.96",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.8717145971891236,
-			"desc": 75.1,
+			"desc": "75.10",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "NOVASOC COMERCIAL LTDA",
 			"name": "NOVASOC COMERCIAL LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "NOVASOC COMERCIAL LTDA"
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "Posto Cristiano Machado Ltda",
 			"name": "Posto Cristiano Machado Ltda",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "Posto Cristiano Machado Ltda"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 9.723467637281331,
-			"desc": 296.09,
+			"desc": "296.09",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "JH Comutadores Ltda",
 			"name": "JH Comutadores Ltda",
 			"val": 36.10770844831667,
-			"desc": 917.26,
+			"desc": "917.26",
 			"group": "JH Comutadores Ltda"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "POSTO POLE POSITION LTDA",
 			"name": "POSTO POLE POSITION LTDA",
 			"val": 17.51954696801214,
-			"desc": 490.09,
+			"desc": "490.09",
 			"group": "POSTO POLE POSITION LTDA"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "Eve Empreendimentos Ltda _ Me",
 			"name": "Eve Empreendimentos Ltda _ Me",
 			"val": 9.548763764291035,
-			"desc": 291.56,
+			"desc": "291.56",
 			"group": "Eve Empreendimentos Ltda _ Me"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 7.79366453592348,
-			"desc": 245.42,
+			"desc": "245.42",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "POSTO ITAPOA LTDA",
 			"name": "POSTO ITAPOA LTDA",
 			"val": 3.7374388560370355,
-			"desc": 132.53,
+			"desc": "132.53",
 			"group": "POSTO ITAPOA LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "POSTO MANACAS LTDA",
 			"name": "POSTO MANACAS LTDA",
 			"val": 6.612737762195482,
-			"desc": 213.62,
+			"desc": "213.62",
 			"group": "POSTO MANACAS LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "ALEXANDRE MATTAR INDUSTRIA HOTELEIRA LTDA",
 			"name": "ALEXANDRE MATTAR INDUSTRIA HOTELEIRA LTDA",
 			"val": 28.037366398631843,
-			"desc": 736,
+			"desc": "736.00",
 			"group": "ALEXANDRE MATTAR INDUSTRIA HOTELEIRA LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS COPASA MG",
 			"name": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS COPASA MG",
 			"val": 0.8534029429142754,
-			"desc": 40.07,
+			"desc": "40.07",
 			"group": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS COPASA MG"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "POSTO CADETE LTDA",
 			"name": "POSTO CADETE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO CADETE LTDA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 1.1284877816768832,
-			"desc": 49.99,
+			"desc": "49.99",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "POSTO KOBU LTDA",
 			"name": "POSTO KOBU LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "POSTO KOBU LTDA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"name": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"val": 1.8104821741114279,
-			"desc": 73.1,
+			"desc": "73.10",
 			"group": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "EMIVE",
 			"name": "EMIVE",
 			"val": 22.976492869681184,
-			"desc": 619.34,
+			"desc": "619.34",
 			"group": "EMIVE"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "SAYONARA COMERCIO DE PETROLEO LTDA",
 			"name": "SAYONARA COMERCIO DE PETROLEO LTDA",
 			"val": 5.958340547823684,
-			"desc": 195.68,
+			"desc": "195.68",
 			"group": "SAYONARA COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "POSTO JR FAISAO VII LTDA",
 			"name": "POSTO JR FAISAO VII LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO JR FAISAO VII LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 1.1284877816768832,
-			"desc": 49.99,
+			"desc": "49.99",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "MUNICÍPIO DE BELO HORIZONTE",
 			"name": "MUNICÍPIO DE BELO HORIZONTE",
 			"val": 26.370593752743957,
-			"desc": 697.87,
+			"desc": "697.87",
 			"group": "MUNICÍPIO DE BELO HORIZONTE"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "SUELI TEREZINHA DE MORAIS ALMEIDA",
 			"name": "SUELI TEREZINHA DE MORAIS ALMEIDA",
 			"val": 404.47951406342656,
-			"desc": 7818.9,
+			"desc": "7818.90",
 			"group": "SUELI TEREZINHA DE MORAIS ALMEIDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "Carrefour Comércio e Industria LTDA",
 			"name": "Carrefour Comércio e Industria LTDA",
 			"val": 11.857819057627378,
-			"desc": 350.65999999999997,
+			"desc": "350.66",
 			"group": "Carrefour Comércio e Industria LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 61.13908054529561,
-			"desc": 1454.78,
+			"desc": "1454.78",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "POSTO RAJA F R LTDA",
 			"name": "POSTO RAJA F R LTDA",
 			"val": 5.1674955042196276,
-			"desc": 173.64,
+			"desc": "173.64",
 			"group": "POSTO RAJA F R LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "POSTO CARIJO LTDA",
 			"name": "POSTO CARIJO LTDA",
 			"val": 6.195844366904296,
-			"desc": 202.22,
+			"desc": "202.22",
 			"group": "POSTO CARIJO LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "POSTO ESMERALDAS LTDA",
 			"name": "POSTO ESMERALDAS LTDA",
 			"val": 1.6431467280775751,
-			"desc": 67.58,
+			"desc": "67.58",
 			"group": "POSTO ESMERALDAS LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "POSTO AEROPORTO LTDA",
 			"name": "POSTO AEROPORTO LTDA",
 			"val": 5.041572724981463,
-			"desc": 170.09,
+			"desc": "170.09",
 			"group": "POSTO AEROPORTO LTDA"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "POSTO TROPICO LTDA",
 			"name": "POSTO TROPICO LTDA",
 			"val": 4.731289365640799,
-			"desc": 161.29,
+			"desc": "161.29",
 			"group": "POSTO TROPICO LTDA"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502",
 			"name": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502",
 			"val": 1.9486864655618468,
-			"desc": 77.6,
+			"desc": "77.60",
 			"group": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "CEMIG DISTRIBUICAO S.A",
 			"name": "CEMIG DISTRIBUICAO S.A",
 			"val": 12.768973445091232,
-			"desc": 373.57,
+			"desc": "373.57",
 			"group": "CEMIG DISTRIBUICAO S.A"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "COPASA",
 			"name": "COPASA",
 			"val": 1.4382560556402282,
-			"desc": 60.7,
+			"desc": "60.70",
 			"group": "COPASA"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 7.992133676867226,
-			"desc": 250.7,
+			"desc": "250.70",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "Posto & Hotel Gira-Sol LTDA",
 			"name": "Posto & Hotel Gira-Sol LTDA",
 			"val": 4.862829759210393,
-			"desc": 165.03,
+			"desc": "165.03",
 			"group": "Posto & Hotel Gira-Sol LTDA"
 		},
 		{

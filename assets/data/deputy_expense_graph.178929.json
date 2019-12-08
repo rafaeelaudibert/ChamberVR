@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DIEGO GARCIA"
+			"name": "DIEGO GARCIA",
+			"desc": "29377.93"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO IMBAU II LTDA",
 			"name": "AUTO POSTO IMBAU II LTDA",
 			"val": 5.28777756002645,
-			"desc": 177.02,
+			"desc": "177.02",
 			"group": "AUTO POSTO IMBAU II LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 150.62879847116272,
-			"desc": 3230.3100000000004,
+			"desc": "3230.31",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "AUTO POSTO V Y LTDA",
 			"name": "AUTO POSTO V Y LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO V Y LTDA"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 63.80313533274423,
-			"desc": 1510.39,
+			"desc": "1510.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -87,7 +88,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.410577186980448,
-			"desc": 180.46,
+			"desc": "180.46",
 			"group": "RAMAL"
 		},
 		{
@@ -106,7 +107,7 @@
 			"id": "MITALCOPY",
 			"name": "MITALCOPY",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "MITALCOPY"
 		},
 		{
@@ -137,7 +138,7 @@
 			"id": "POSTO FELICITA LTDA",
 			"name": "POSTO FELICITA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO FELICITA LTDA"
 		},
 		{
@@ -150,7 +151,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 9.02099600419313,
-			"desc": 277.80999999999995,
+			"desc": "277.81",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "AUTO POSTO BONAMIGO LTDA",
 			"name": "AUTO POSTO BONAMIGO LTDA",
 			"val": 4.3695658482602235,
-			"desc": 150.93,
+			"desc": "150.93",
 			"group": "AUTO POSTO BONAMIGO LTDA"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.3856670342683046,
-			"desc": 58.91,
+			"desc": "58.91",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 97.43496758011698,
-			"desc": 2194.54,
+			"desc": "2194.54",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "COMPANHIA JAGUARI DE ENERGIA S.A",
 			"name": "COMPANHIA JAGUARI DE ENERGIA S.A",
 			"val": 2.639114531599092,
-			"desc": 99.43,
+			"desc": "99.43",
 			"group": "COMPANHIA JAGUARI DE ENERGIA S.A"
 		},
 		{
@@ -251,7 +252,7 @@
 			"id": "GCS ADMINISTRAÇÃO DE HOTEIS LTDA-ME",
 			"name": "GCS ADMINISTRAÇÃO DE HOTEIS LTDA-ME",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "GCS ADMINISTRAÇÃO DE HOTEIS LTDA-ME"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "ASSOCIAÇÃO RÁDIO TAXI LONDRINA",
 			"name": "ASSOCIAÇÃO RÁDIO TAXI LONDRINA",
 			"val": 1.1004831294465809,
-			"desc": 49,
+			"desc": "49.00",
 			"group": "ASSOCIAÇÃO RÁDIO TAXI LONDRINA"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "UNIDAS LOCADORA DE VEÍCULOS",
 			"name": "UNIDAS LOCADORA DE VEÍCULOS",
 			"val": 18.02360767019497,
-			"desc": 502.21,
+			"desc": "502.21",
 			"group": "UNIDAS LOCADORA DE VEÍCULOS"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "ADMINISTRACAO DE VEICULOS DE TRANSPORTE DE PASSAGEIROS SANTOS FILHO LTDA",
 			"name": "ADMINISTRACAO DE VEICULOS DE TRANSPORTE DE PASSAGEIROS SANTOS FILHO LTDA",
 			"val": 0.2237628977173992,
-			"desc": 14.5,
+			"desc": "14.50",
 			"group": "ADMINISTRACAO DE VEICULOS DE TRANSPORTE DE PASSAGEIROS SANTOS FILHO LTDA"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "AUTO POSTO ECOS LTDA",
 			"name": "AUTO POSTO ECOS LTDA",
 			"val": 11.95010016709974,
-			"desc": 352.99,
+			"desc": "352.99",
 			"group": "AUTO POSTO ECOS LTDA"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 3.834433161984124,
-			"desc": 135.38,
+			"desc": "135.38",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "''IMOBILIARIA ALTA AVENIDA LTDA",
 			"name": "''IMOBILIARIA ALTA AVENIDA LTDA",
 			"val": 65.2274446687103,
-			"desc": 1540.02,
+			"desc": "1540.02",
 			"group": "''IMOBILIARIA ALTA AVENIDA LTDA"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "CONC. DE RODOVIAS INTEGRADAS S/A",
 			"name": "CONC. DE RODOVIAS INTEGRADAS S/A",
 			"val": 1.027491418284583,
-			"desc": 46.4,
+			"desc": "46.40",
 			"group": "CONC. DE RODOVIAS INTEGRADAS S/A"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "RODOVIAS INTEGRADAS DO PARANA S/A",
 			"name": "RODOVIAS INTEGRADAS DO PARANA S/A",
 			"val": 0.36895466351341594,
-			"desc": 21,
+			"desc": "21.00",
 			"group": "RODOVIAS INTEGRADAS DO PARANA S/A"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "POSTO CAPELA LTDA",
 			"name": "POSTO CAPELA LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "POSTO CAPELA LTDA"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 1.868645607148764,
-			"desc": 75,
+			"desc": "75.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 2.7968312901832197,
-			"desc": 104.28999999999999,
+			"desc": "104.29",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "RICARDO ANTONIO CALIXTO S/S LTDA",
 			"name": "RICARDO ANTONIO CALIXTO S/S LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "RICARDO ANTONIO CALIXTO S/S LTDA"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "SANEPAR",
 			"name": "SANEPAR",
 			"val": 1.483744377841447,
-			"desc": 62.24,
+			"desc": "62.24",
 			"group": "SANEPAR"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 12.047229668989871,
-			"desc": 355.44,
+			"desc": "355.44",
 			"group": "OI S.A"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "ALADIN POSTO DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "ALADIN POSTO DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ALADIN POSTO DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
 			"name": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 18.328860610207933,
-			"desc": 509.53,
+			"desc": "509.53",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "AUTO POSTO VALE DE MARIA LTDA.",
 			"name": "AUTO POSTO VALE DE MARIA LTDA.",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO VALE DE MARIA LTDA."
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.6918949464100461,
-			"desc": 34,
+			"desc": "34.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "IRMAOS CESCHIN LTDA",
 			"name": "IRMAOS CESCHIN LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "IRMAOS CESCHIN LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 23.84519105922327,
-			"desc": 639.56,
+			"desc": "639.56",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "CONCESSIONARIA ECOVIA CAMINHO DO MAR S/A",
 			"name": "CONCESSIONARIA ECOVIA CAMINHO DO MAR S/A",
 			"val": 0.9004440694187564,
-			"desc": 41.8,
+			"desc": "41.80",
 			"group": "CONCESSIONARIA ECOVIA CAMINHO DO MAR S/A"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 0.3239809948565741,
-			"desc": 19.049999999999997,
+			"desc": "19.05",
 			"group": "99 POP"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "SERCOMTEL S/A",
 			"name": "SERCOMTEL S/A",
 			"val": 16.509650799906062,
-			"desc": 465.68,
+			"desc": "465.68",
 			"group": "SERCOMTEL S/A"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "PAPEL VIRTUAL LTDA - ME",
 			"name": "PAPEL VIRTUAL LTDA - ME",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "PAPEL VIRTUAL LTDA - ME"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "NICK NETWORK",
 			"name": "NICK NETWORK",
 			"val": 6.8402178288735955,
-			"desc": 219.8,
+			"desc": "219.80",
 			"group": "NICK NETWORK"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "MOVIDA RENT A CAR.",
 			"name": "MOVIDA RENT A CAR.",
 			"val": 3.457679714656456,
-			"desc": 124.25,
+			"desc": "124.25",
 			"group": "MOVIDA RENT A CAR."
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "EDILSON VILELLA",
 			"name": "EDILSON VILELLA",
 			"val": 0.5635257954347984,
-			"desc": 29,
+			"desc": "29.00",
 			"group": "EDILSON VILELLA"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "CHAPARRAL COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "CHAPARRAL COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 4.027736850736191,
-			"desc": 141.03,
+			"desc": "141.03",
 			"group": "CHAPARRAL COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "Rádio Táxi Alvorada Ltda",
 			"name": "Rádio Táxi Alvorada Ltda",
 			"val": 1.3223357419585966,
-			"desc": 56.739999999999995,
+			"desc": "56.74",
 			"group": "Rádio Táxi Alvorada Ltda"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "VIACAO GARCIA LTDA",
 			"name": "VIACAO GARCIA LTDA",
 			"val": 17.41952189506962,
-			"desc": 487.67999999999995,
+			"desc": "487.68",
 			"group": "VIACAO GARCIA LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 119.55093746740857,
-			"desc": 2630.68,
+			"desc": "2630.68",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -860,7 +861,7 @@
 			"id": "STARCOM COMERCIO DE COMBUSTIVEL LTDA JK",
 			"name": "STARCOM COMERCIO DE COMBUSTIVEL LTDA JK",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "STARCOM COMERCIO DE COMBUSTIVEL LTDA JK"
 		},
 		{
@@ -873,7 +874,7 @@
 			"id": "AEROCOOP - AEROPORTO INTERNACIONAL DE VIRACOPOS CAMPINAS - SP",
 			"name": "AEROCOOP - AEROPORTO INTERNACIONAL DE VIRACOPOS CAMPINAS - SP",
 			"val": 0.797684982043425,
-			"desc": 38,
+			"desc": "38.00",
 			"group": "AEROCOOP - AEROPORTO INTERNACIONAL DE VIRACOPOS CAMPINAS - SP"
 		},
 		{
@@ -886,7 +887,7 @@
 			"id": "BORSATO &amp; AZULINI LTDA",
 			"name": "BORSATO &amp; AZULINI LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BORSATO &amp; AZULINI LTDA"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "GASOL COM. DE DERIV. DE PETROLEO LTDA",
 			"name": "GASOL COM. DE DERIV. DE PETROLEO LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "GASOL COM. DE DERIV. DE PETROLEO LTDA"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "AUTO POSTO AVENIDA BRASIL LTDA",
 			"name": "AUTO POSTO AVENIDA BRASIL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AVENIDA BRASIL LTDA"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 18.923997855122852,
-			"desc": 523.76,
+			"desc": "523.76",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -938,7 +939,7 @@
 			"id": "sanepar",
 			"name": "sanepar",
 			"val": 1.483744377841447,
-			"desc": 62.24,
+			"desc": "62.24",
 			"group": "sanepar"
 		},
 		{
@@ -951,7 +952,7 @@
 			"id": "POSTO MARU S .A IV",
 			"name": "POSTO MARU S .A IV",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "POSTO MARU S .A IV"
 		},
 		{
@@ -964,7 +965,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS CASARIN",
 			"name": "COMERCIO DE COMBUSTIVEIS CASARIN",
 			"val": 2.3459563194851873,
-			"desc": 90.28,
+			"desc": "90.28",
 			"group": "COMERCIO DE COMBUSTIVEIS CASARIN"
 		},
 		{
@@ -977,7 +978,7 @@
 			"id": "POSTO BOLINHA LTDA",
 			"name": "POSTO BOLINHA LTDA",
 			"val": 1.4179477311802207,
-			"desc": 60.01,
+			"desc": "60.01",
 			"group": "POSTO BOLINHA LTDA"
 		},
 		{
@@ -990,7 +991,7 @@
 			"id": "POSTO RM",
 			"name": "POSTO RM",
 			"val": 1.3801032212135265,
-			"desc": 58.72,
+			"desc": "58.72",
 			"group": "POSTO RM"
 		},
 		{
@@ -1003,7 +1004,7 @@
 			"id": "RCM COMERCIO DE COMBUSTIVEIS LTDA.",
 			"name": "RCM COMERCIO DE COMBUSTIVEIS LTDA.",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "RCM COMERCIO DE COMBUSTIVEIS LTDA."
 		},
 		{
@@ -1016,7 +1017,7 @@
 			"id": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.956409466787287,
-			"desc": 77.85,
+			"desc": "77.85",
 			"group": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{

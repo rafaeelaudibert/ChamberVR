@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HENRIQUE FONTANA"
+			"name": "HENRIQUE FONTANA",
+			"desc": "74016.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 7.2189654403700105,
-			"desc": 230.02999999999997,
+			"desc": "230.03",
 			"group": "Oi S.A"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"val": 10.402854846223091,
-			"desc": 313.61,
+			"desc": "313.61",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"val": 1.072312800138462,
-			"desc": 48,
+			"desc": "48.00",
 			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 0.0968894388199176,
-			"desc": 8.05,
+			"desc": "8.05",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "POSTO TONATTO LTDA",
 			"name": "POSTO TONATTO LTDA",
 			"val": 7.32942148681779,
-			"desc": 233,
+			"desc": "233.00",
 			"group": "POSTO TONATTO LTDA"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA",
 			"name": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA",
 			"val": 239.17202924142885,
-			"desc": 4880,
+			"desc": "4880.00",
 			"group": "MONTES VERDES - TURISMO E PARTICIPACOES LTDA"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 12.557048636501575,
-			"desc": 368.26,
+			"desc": "368.26",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 465.24848538098087,
-			"desc": 8868.94,
+			"desc": "8868.94",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -247,7 +248,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 180.33698973927343,
-			"desc": 3792.16,
+			"desc": "3792.16",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
 			"name": "POSTO DE COMB ULYSSE MARASCHIN LTDA",
 			"val": 25.408700966826775,
-			"desc": 675.74,
+			"desc": "675.74",
 			"group": "POSTO DE COMB ULYSSE MARASCHIN LTDA"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 38.39220485309089,
-			"desc": 967.7,
+			"desc": "967.70",
 			"group": "CEEE"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "GIOVANNI E SILVA",
 			"name": "GIOVANNI E SILVA",
 			"val": 382.7230603333604,
-			"desc": 7439.6,
+			"desc": "7439.60",
 			"group": "GIOVANNI E SILVA"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
 			"name": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
 			"val": 82.50821644479831,
-			"desc": 1894.5400000000002,
+			"desc": "1894.54",
 			"group": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
 			"name": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA",
 			"val": 5.977903746333383,
-			"desc": 196.22,
+			"desc": "196.22",
 			"group": "COMBUSTIVEIS PEGASUS IPIRANGA LTDA"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "PARKPLATZ ESTACIONAMENTOS LTDA",
 			"name": "PARKPLATZ ESTACIONAMENTOS LTDA",
 			"val": 50.360593071217544,
-			"desc": 1227,
+			"desc": "1227.00",
 			"group": "PARKPLATZ ESTACIONAMENTOS LTDA"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "POSTO CADORE PILLON LTDA",
 			"name": "POSTO CADORE PILLON LTDA",
 			"val": 6.11871971655751,
-			"desc": 200.1,
+			"desc": "200.10",
 			"group": "POSTO CADORE PILLON LTDA"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 36.003010969246176,
-			"desc": 914.94,
+			"desc": "914.94",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.45175701945372343,
-			"desc": 24.48,
+			"desc": "24.48",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 187.3885924835019,
-			"desc": 3924.1499999999996,
+			"desc": "3924.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "Matheus Felipe Pereira ME",
 			"name": "Matheus Felipe Pereira ME",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "Matheus Felipe Pereira ME"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "POSTO DE COMBUSTIVEIS MILLANI LTDA",
 			"name": "POSTO DE COMBUSTIVEIS MILLANI LTDA",
 			"val": 11.46515007703019,
-			"desc": 340.72,
+			"desc": "340.72",
 			"group": "POSTO DE COMBUSTIVEIS MILLANI LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "TELEFONICA BRASIL S.A. VIVO",
 			"name": "TELEFONICA BRASIL S.A. VIVO",
 			"val": 104.51072877371625,
-			"desc": 2335.0699999999997,
+			"desc": "2335.07",
 			"group": "TELEFONICA BRASIL S.A. VIVO"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "OI S/A",
 			"name": "OI S/A",
 			"val": 5.531603596741904,
-			"desc": 183.84,
+			"desc": "183.84",
 			"group": "OI S/A"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 35.8694807261341,
-			"desc": 911.98,
+			"desc": "911.98",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "MAXXYNPRESS GRAFICA DIGITAL LTDA",
 			"name": "MAXXYNPRESS GRAFICA DIGITAL LTDA",
 			"val": 2.576858822362348,
-			"desc": 97.5,
+			"desc": "97.50",
 			"group": "MAXXYNPRESS GRAFICA DIGITAL LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "POSTO DE COMBUSTIVEIS DICO LTDA",
 			"name": "POSTO DE COMBUSTIVEIS DICO LTDA",
 			"val": 6.3303900374656505,
-			"desc": 205.91,
+			"desc": "205.91",
 			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA",
 			"name": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA",
 			"val": 6.685141013448877,
-			"desc": 215.59,
+			"desc": "215.59",
 			"group": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES SUL MAX LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 9.296492644319398,
-			"desc": 285,
+			"desc": "285.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "EKO RESIDENCE",
 			"name": "EKO RESIDENCE",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "EKO RESIDENCE"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA",
 			"name": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "AGENCIA DE CORREIOS FRANQUEADA GLOBO ANDRADAS LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "POSTO MULLER COMB. E LUBRIFICANTES LTDA",
 			"name": "POSTO MULLER COMB. E LUBRIFICANTES LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO MULLER COMB. E LUBRIFICANTES LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "Denis ribeiro Soares",
 			"name": "Denis ribeiro Soares",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "Denis ribeiro Soares"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.549178765585777,
-			"desc": 184.32999999999998,
+			"desc": "184.33",
 			"group": "RAMAL"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "ABASTECEDORA ABM LTDA.",
 			"name": "ABASTECEDORA ABM LTDA.",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ABASTECEDORA ABM LTDA."
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "Cootraero",
 			"name": "Cootraero",
 			"val": 3.617793263798399,
-			"desc": 129,
+			"desc": "129.00",
 			"group": "Cootraero"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "POSTO GAS. LUBR. BOLINHA LTDA",
 			"name": "POSTO GAS. LUBR. BOLINHA LTDA",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "POSTO GAS. LUBR. BOLINHA LTDA"
 		},
 		{
@@ -847,7 +848,7 @@
 			"id": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA",
 			"name": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA",
 			"val": 1413.2549059497296,
-			"desc": 24255.97,
+			"desc": "24255.97",
 			"group": "CORREIOS - MALA DIRETA POSTAL DOMICILIÁRIA"
 		},
 		{
@@ -860,7 +861,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 9.838612724703125,
-			"desc": 299.07,
+			"desc": "299.07",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -879,7 +880,7 @@
 			"id": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02",
 			"name": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02",
 			"val": 5.6544272716544794,
-			"desc": 187.26,
+			"desc": "187.26",
 			"group": "MP POSTOS E LOGISTICA LTDA SANANDUVA 02"
 		},
 		{
@@ -892,7 +893,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS VIP LTDA",
 			"val": 5.750566822571571,
-			"desc": 189.93,
+			"desc": "189.93",
 			"group": "COMERCIAL DE COMBUSTIVEIS VIP LTDA"
 		},
 		{
@@ -905,7 +906,7 @@
 			"id": "DS COMBUSTIVEIS LTDA",
 			"name": "DS COMBUSTIVEIS LTDA",
 			"val": 5.364482589583628,
-			"desc": 179.17,
+			"desc": "179.17",
 			"group": "DS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -918,7 +919,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA.",
 			"name": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA.",
 			"val": 1.4179477311802207,
-			"desc": 60.01,
+			"desc": "60.01",
 			"group": "COMERCIAL DE COMBUSTIVEIS LAMI LTDA."
 		},
 		{

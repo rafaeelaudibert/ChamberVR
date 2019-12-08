@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CRISTIANO VALE"
+			"name": "CRISTIANO VALE",
+			"desc": "114169.15"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1366.5893657865686,
-			"desc": 23526.219999999994,
+			"desc": "23526.22",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -192,7 +193,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 2026.3115522287394,
-			"desc": 33682.669999999984,
+			"desc": "33682.67",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "Paulo Sérgio Alvarez Gomes",
 			"name": "Paulo Sérgio Alvarez Gomes",
 			"val": 490.40815803283857,
-			"desc": 9300,
+			"desc": "9300.00",
 			"group": "Paulo Sérgio Alvarez Gomes"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 31.964547531626692,
-			"desc": 824.8499999999999,
+			"desc": "824.85",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 18.59540968846347,
-			"desc": 515.91,
+			"desc": "515.91",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.90597559642553,
-			"desc": 248.41,
+			"desc": "248.41",
 			"group": "RAMAL"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 13.817259856921224,
-			"desc": 399.68,
+			"desc": "399.68",
 			"group": "CLARO S.A"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 17.864969090621205,
-			"desc": 498.40000000000003,
+			"desc": "498.40",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "AUTO POSTO E CHURRASCARIA JB",
 			"name": "AUTO POSTO E CHURRASCARIA JB",
 			"val": 312.4317020040077,
-			"desc": 6200,
+			"desc": "6200.00",
 			"group": "AUTO POSTO E CHURRASCARIA JB"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 9.789519772929172,
-			"desc": 297.8,
+			"desc": "297.80",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "CENTRAL 7 COMERCIO DE VEICULOS EIRELI",
 			"name": "CENTRAL 7 COMERCIO DE VEICULOS EIRELI",
 			"val": 449.6121604900027,
-			"desc": 8600,
+			"desc": "8600.00",
 			"group": "CENTRAL 7 COMERCIO DE VEICULOS EIRELI"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "Central 7 Comércio de Veículos Eireli",
 			"name": "Central 7 Comércio de Veículos Eireli",
 			"val": 1141.758615497368,
-			"desc": 19980,
+			"desc": "19980.00",
 			"group": "Central 7 Comércio de Veículos Eireli"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 16.698997055945394,
-			"desc": 470.27,
+			"desc": "470.27",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 9.729645542385962,
-			"desc": 296.25,
+			"desc": "296.25",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 8.430399638048602,
-			"desc": 262.3,
+			"desc": "262.30",
 			"group": "CLARO S/A"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "POSTO BELEM BRASILIA ME",
 			"name": "POSTO BELEM BRASILIA ME",
 			"val": 441.49217508608115,
-			"desc": 8460.01,
+			"desc": "8460.01",
 			"group": "POSTO BELEM BRASILIA ME"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "NET VIRTUA / CLARO",
 			"name": "NET VIRTUA / CLARO",
 			"val": 13.808788442191267,
-			"desc": 399.47,
+			"desc": "399.47",
 			"group": "NET VIRTUA / CLARO"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "INTERCONECT TELEINFORMATICA- EIRELI",
 			"name": "INTERCONECT TELEINFORMATICA- EIRELI",
 			"val": 6.366918288212956,
-			"desc": 206.91,
+			"desc": "206.91",
 			"group": "INTERCONECT TELEINFORMATICA- EIRELI"
 		},
 		{

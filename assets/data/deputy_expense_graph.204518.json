@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DR. FREDERICO"
+			"name": "DR. FREDERICO",
+			"desc": "84332.15"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "ZANFER IMÓVEIS LTDA-ME",
 			"name": "ZANFER IMÓVEIS LTDA-ME",
 			"val": 893.8101942183736,
-			"desc": 16000,
+			"desc": "16000.00",
 			"group": "ZANFER IMÓVEIS LTDA-ME"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.2991124772155825,
-			"desc": 17.95,
+			"desc": "17.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 460.04833350853477,
-			"desc": 8779.59,
+			"desc": "8779.59",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -194,7 +195,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 77.87687411027115,
-			"desc": 1800.3600000000001,
+			"desc": "1800.36",
 			"group": "SAO JOAO POSTOS"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 170.96388542548513,
-			"desc": 3615.94,
+			"desc": "3615.94",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "Eduardo de Araujo Brito",
 			"name": "Eduardo de Araujo Brito",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "Eduardo de Araujo Brito"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "A.M.Silva Comunicação",
 			"name": "A.M.Silva Comunicação",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "A.M.Silva Comunicação"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "MAXXI COM DERIV DE PETROLEO LTDA",
 			"name": "MAXXI COM DERIV DE PETROLEO LTDA",
 			"val": 495.5810548312732,
-			"desc": 9388.380000000001,
+			"desc": "9388.38",
 			"group": "MAXXI COM DERIV DE PETROLEO LTDA"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 32.90730819094321,
-			"desc": 845.99,
+			"desc": "845.99",
 			"group": "CLARO S/A"
 		},
 		{
@@ -411,7 +412,7 @@
 			"id": "Conecta",
 			"name": "Conecta",
 			"val": 15.262717902891643,
-			"desc": 435.29,
+			"desc": "435.29",
 			"group": "Conecta"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.677282605348832,
-			"desc": 268.8,
+			"desc": "268.80",
 			"group": "RAMAL"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.5891335273573257,
-			"desc": 65.78,
+			"desc": "65.78",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 6.113994578657005,
-			"desc": 199.97,
+			"desc": "199.97",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 267.1784424186573,
-			"desc": 5388.54,
+			"desc": "5388.54",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "APOIO PRODUCOES E TELEMARKETING LTDA - EPP",
 			"name": "APOIO PRODUCOES E TELEMARKETING LTDA - EPP",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "APOIO PRODUCOES E TELEMARKETING LTDA - EPP"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 5.2197612964521545,
-			"desc": 175.11,
+			"desc": "175.11",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 2.6769605655550692,
-			"desc": 100.6,
+			"desc": "100.60",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"name": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"val": 561.0402717125156,
-			"desc": 10500,
+			"desc": "10500.00",
 			"group": "TRANSMOURA LOCADORA DE VEICULOS LTDA."
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 73.8451707479141,
-			"desc": 1717.9,
+			"desc": "1717.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "EMPRESA BRASILIENSE DE ESTACIONAMENTO LTDA",
 			"name": "EMPRESA BRASILIENSE DE ESTACIONAMENTO LTDA",
 			"val": 61.176841508722575,
-			"desc": 1455.57,
+			"desc": "1455.57",
 			"group": "EMPRESA BRASILIENSE DE ESTACIONAMENTO LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "Bruno Ferreira",
 			"name": "Bruno Ferreira",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "Bruno Ferreira"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "Saint´Clair Sociedade Individual de Advocacia",
 			"name": "Saint´Clair Sociedade Individual de Advocacia",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "Saint´Clair Sociedade Individual de Advocacia"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 3.9393019246389844,
-			"desc": 138.45,
+			"desc": "138.45",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "ORGANIZACOES HADDAD LTDA",
 			"name": "ORGANIZACOES HADDAD LTDA",
 			"val": 11.507734139857615,
-			"desc": 341.8,
+			"desc": "341.80",
 			"group": "ORGANIZACOES HADDAD LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 19.25452463824619,
-			"desc": 531.64,
+			"desc": "531.64",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "AUTO POSTO ESPAÇO REAL LTDA",
 			"name": "AUTO POSTO ESPAÇO REAL LTDA",
 			"val": 6.119810202222378,
-			"desc": 200.13,
+			"desc": "200.13",
 			"group": "AUTO POSTO ESPAÇO REAL LTDA"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.9597557295697252,
-			"desc": 43.96,
+			"desc": "43.96",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "SEC MOVEIS LTDA",
 			"name": "SEC MOVEIS LTDA",
 			"val": 86.98209093872075,
-			"desc": 1985,
+			"desc": "1985.00",
 			"group": "SEC MOVEIS LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.03762006201799886,
-			"desc": 4.4,
+			"desc": "4.40",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{

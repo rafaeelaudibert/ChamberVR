@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DA VITORIA"
+			"name": "DA VITORIA",
+			"desc": "85037.41"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 79.84197658219215,
-			"desc": 1840.39,
+			"desc": "1840.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "VIX VITORIA INFORMATICA LTDA",
 			"name": "VIX VITORIA INFORMATICA LTDA",
 			"val": 109.31831861735337,
-			"desc": 2430,
+			"desc": "2430.00",
 			"group": "VIX VITORIA INFORMATICA LTDA"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1169.8267978680885,
-			"desc": 20425.670000000002,
+			"desc": "20425.67",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 2.7424858900686435,
-			"desc": 102.62,
+			"desc": "102.62",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "Sisnetti Integradora De Soluções Ltda -",
 			"name": "Sisnetti Integradora De Soluções Ltda -",
 			"val": 132.38614766971784,
-			"desc": 2880,
+			"desc": "2880.00",
 			"group": "Sisnetti Integradora De Soluções Ltda -"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 76.55284955788453,
-			"desc": 1773.33,
+			"desc": "1773.33",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 39.7600192340785,
-			"desc": 997.74,
+			"desc": "997.74",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 274.4643923407749,
-			"desc": 5520,
+			"desc": "5520.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "POSTO ARNALDO LTDA",
 			"name": "POSTO ARNALDO LTDA",
 			"val": 374.15761702577976,
-			"desc": 7289.74,
+			"desc": "7289.74",
 			"group": "POSTO ARNALDO LTDA"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "CONDOMINIO DO EDIFICIO PETRO TOWER",
 			"name": "CONDOMINIO DO EDIFICIO PETRO TOWER",
 			"val": 36.15555564092617,
-			"desc": 918.32,
+			"desc": "918.32",
 			"group": "CONDOMINIO DO EDIFICIO PETRO TOWER"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.9305755797567405,
-			"desc": 108.38,
+			"desc": "108.38",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.296734930836179,
-			"desc": 148.82999999999998,
+			"desc": "148.83",
 			"group": "RAMAL"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "AUTO EIXO 208 NORTE LTDA",
 			"name": "AUTO EIXO 208 NORTE LTDA",
 			"val": 4.633136905566017,
-			"desc": 158.49,
+			"desc": "158.49",
 			"group": "AUTO EIXO 208 NORTE LTDA"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 15.49364133194599,
-			"desc": 440.93999999999994,
+			"desc": "440.94",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
 			"name": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"val": 60.30801353322454,
-			"desc": 1437.38,
+			"desc": "1437.38",
 			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "DANILO OLANDIM CARVALHO",
 			"name": "DANILO OLANDIM CARVALHO",
 			"val": 114.15088349251783,
-			"desc": 2525,
+			"desc": "2525.00",
 			"group": "DANILO OLANDIM CARVALHO"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "POSTO IATE LTDA",
 			"name": "POSTO IATE LTDA",
 			"val": 244.71314120386532,
-			"desc": 4981.04,
+			"desc": "4981.04",
 			"group": "POSTO IATE LTDA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
 			"name": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 61.0970206148034,
-			"desc": 1453.9,
+			"desc": "1453.90",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "LINK DISTRIBUIDOR AUTORIZADO SINUS.",
 			"name": "LINK DISTRIBUIDOR AUTORIZADO SINUS.",
 			"val": 11.758508915872067,
-			"desc": 348.15,
+			"desc": "348.15",
 			"group": "LINK DISTRIBUIDOR AUTORIZADO SINUS."
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "DELTA AUTOMOTORES LTDA - ME",
 			"name": "DELTA AUTOMOTORES LTDA - ME",
 			"val": 267.812863745865,
-			"desc": 5400,
+			"desc": "5400.00",
 			"group": "DELTA AUTOMOTORES LTDA - ME"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 3.5809608124191805,
-			"desc": 127.91,
+			"desc": "127.91",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"name": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"val": 60.43307383485892,
-			"desc": 1440,
+			"desc": "1440.00",
 			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "GP COBERTURA JORNALISTICA LTDA ME",
 			"name": "GP COBERTURA JORNALISTICA LTDA ME",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "GP COBERTURA JORNALISTICA LTDA ME"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 40.086812498767,
-			"desc": 1004.9,
+			"desc": "1004.90",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.5116154246403903,
-			"desc": 95.47,
+			"desc": "95.47",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 97.00661528351515,
-			"desc": 2186,
+			"desc": "2186.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 13.959755351776723,
-			"desc": 403.21,
+			"desc": "403.21",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{

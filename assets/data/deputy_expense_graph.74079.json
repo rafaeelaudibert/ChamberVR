@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSÉ PRIANTE"
+			"name": "JOSÉ PRIANTE",
+			"desc": "117604.59"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 39.39068051819036,
-			"desc": 989.6399999999999,
+			"desc": "989.64",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "WULFERT DE OLIVEIRA & CIA LTDA",
 			"name": "WULFERT DE OLIVEIRA & CIA LTDA",
 			"val": 1782.7632278325043,
-			"desc": 29970,
+			"desc": "29970.00",
 			"group": "WULFERT DE OLIVEIRA & CIA LTDA"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -122,7 +123,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 861.1634949624465,
-			"desc": 15469.479999999996,
+			"desc": "15469.48",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 121.98408852479182,
-			"desc": 2678.1400000000003,
+			"desc": "2678.14",
 			"group": "TIM S/A"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 241.28966462851076,
-			"desc": 4918.639999999999,
+			"desc": "4918.64",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "CONDOMINIO DO EDIFICIO EMPIRE CENTER",
 			"name": "CONDOMINIO DO EDIFICIO EMPIRE CENTER",
 			"val": 116.75376751209302,
-			"desc": 2576,
+			"desc": "2576.00",
 			"group": "CONDOMINIO DO EDIFICIO EMPIRE CENTER"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 26.80178526403784,
-			"desc": 707.76,
+			"desc": "707.76",
 			"group": "CLARO S.A."
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 545.906547498216,
-			"desc": 10244.07,
+			"desc": "10244.07",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 62.3601473135093,
-			"desc": 1480.2999999999997,
+			"desc": "1480.30",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.273078482129922,
-			"desc": 284.39,
+			"desc": "284.39",
 			"group": "RAMAL"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 15.250876567880798,
-			"desc": 435,
+			"desc": "435.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "PREFEITURA DE BELÉM",
 			"name": "PREFEITURA DE BELÉM",
 			"val": 82.41993618540117,
-			"desc": 1892.75,
+			"desc": "1892.75",
 			"group": "PREFEITURA DE BELÉM"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL",
 			"name": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL",
 			"val": 13.000551506895341,
-			"desc": 379.36,
+			"desc": "379.36",
 			"group": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 2782.374728578517,
-			"desc": 45000,
+			"desc": "45000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 5.360554517141273,
-			"desc": 179.06,
+			"desc": "179.06",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{

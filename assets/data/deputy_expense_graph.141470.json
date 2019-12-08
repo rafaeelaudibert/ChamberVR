@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSÉ GUIMARÃES"
+			"name": "JOSÉ GUIMARÃES",
+			"desc": "105771.77"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 473.2021866926665,
-			"desc": 9005.429999999997,
+			"desc": "9005.43",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.37948531271612534,
-			"desc": 21.45,
+			"desc": "21.45",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "ARAUJO PETROLEO LTDA",
 			"name": "ARAUJO PETROLEO LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "ARAUJO PETROLEO LTDA"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 19.352806240968178,
-			"desc": 533.98,
+			"desc": "533.98",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.03338423211958382,
-			"desc": 4.1,
+			"desc": "4.10",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -244,7 +245,7 @@
 			"id": "SAO JOAO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "SAO JOAO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "SAO JOAO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"name": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"val": 64.14124562301957,
-			"desc": 1517.43,
+			"desc": "1517.43",
 			"group": "COMPANHIA ENERGÉTICA DO CEARÁ"
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "LOCARFLEX LOCAÇÕES DE VEÍCULOS EIRELI ME",
 			"name": "LOCARFLEX LOCAÇÕES DE VEÍCULOS EIRELI ME",
 			"val": 795.6737966141013,
-			"desc": 14400,
+			"desc": "14400.00",
 			"group": "LOCARFLEX LOCAÇÕES DE VEÍCULOS EIRELI ME"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 10.416096220423999,
-			"desc": 313.95,
+			"desc": "313.95",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "SJ CARIRI ADM DE IMÓVEIS LTDA",
 			"name": "SJ CARIRI ADM DE IMÓVEIS LTDA",
 			"val": 121.3612367981088,
-			"desc": 2666,
+			"desc": "2666.00",
 			"group": "SJ CARIRI ADM DE IMÓVEIS LTDA"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 564.4986733188342,
-			"desc": 10558.4,
+			"desc": "10558.40",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.04795014384051631,
-			"desc": 5.1,
+			"desc": "5.10",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 35.211666446045875,
-			"desc": 897.38,
+			"desc": "897.38",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 88.30172480004754,
-			"desc": 2011.59,
+			"desc": "2011.59",
 			"group": "TIM S/A"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "CESAR REGO IMOVEIS LTDA",
 			"name": "CESAR REGO IMOVEIS LTDA",
 			"val": 464.9981068520187,
-			"desc": 8864.64,
+			"desc": "8864.64",
 			"group": "CESAR REGO IMOVEIS LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 134.4805892019429,
-			"desc": 2920.45,
+			"desc": "2920.45",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 11.590198061662766,
-			"desc": 343.89000000000004,
+			"desc": "343.89",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.3865840778093395,
-			"desc": 151.42,
+			"desc": "151.42",
 			"group": "RAMAL"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "METAS CONDOMÍNIO E SERVIÇOS - CONDOMÍNIO ED. PATIO CARIRI CORPORATE",
 			"name": "METAS CONDOMÍNIO E SERVIÇOS - CONDOMÍNIO ED. PATIO CARIRI CORPORATE",
 			"val": 13.991265720580166,
-			"desc": 403.99,
+			"desc": "403.99",
 			"group": "METAS CONDOMÍNIO E SERVIÇOS - CONDOMÍNIO ED. PATIO CARIRI CORPORATE"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "CODIGO DE COMUNICACAO DIGITAL LTDA",
 			"name": "CODIGO DE COMUNICACAO DIGITAL LTDA",
 			"val": 78.8403815114265,
-			"desc": 1820,
+			"desc": "1820.00",
 			"group": "CODIGO DE COMUNICACAO DIGITAL LTDA"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "LUIS RAULINO NETO",
 			"name": "LUIS RAULINO NETO",
 			"val": 458.90889901327824,
-			"desc": 8760,
+			"desc": "8760.00",
 			"group": "LUIS RAULINO NETO"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 35.31295314251787,
-			"desc": 899.63,
+			"desc": "899.63",
 			"group": "telefonia Brasil S/A"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 26.123317850292725,
-			"desc": 692.19,
+			"desc": "692.19",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "MS DERIVADOS DE PETROLEO LTDA",
 			"name": "MS DERIVADOS DE PETROLEO LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "MS DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "OPINIAO INSTITUTO DE PESQUISA E ASSESSORIA LTDA",
 			"name": "OPINIAO INSTITUTO DE PESQUISA E ASSESSORIA LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "OPINIAO INSTITUTO DE PESQUISA E ASSESSORIA LTDA"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 42.74147522449288,
-			"desc": 1062.83,
+			"desc": "1062.83",
 			"group": "CLARO S.A."
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "RHP RENT A CAR",
 			"name": "RHP RENT A CAR",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "RHP RENT A CAR"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "CAGECE",
 			"name": "CAGECE",
 			"val": 3.2459435676410204,
-			"desc": 117.92,
+			"desc": "117.92",
 			"group": "CAGECE"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "RÁDIO VALE DO RIO POTY LTDA",
 			"name": "RÁDIO VALE DO RIO POTY LTDA",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "RÁDIO VALE DO RIO POTY LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "MACEDO ADVOCACIA",
 			"name": "MACEDO ADVOCACIA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "MACEDO ADVOCACIA"
 		},
 		{

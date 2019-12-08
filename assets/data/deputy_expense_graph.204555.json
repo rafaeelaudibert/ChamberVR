@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSÉ RICARDO"
+			"name": "JOSÉ RICARDO",
+			"desc": "52151.67"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Gz Comercio De Alimentos Ltda - Epp",
 			"name": "Gz Comercio De Alimentos Ltda - Epp",
 			"val": 0.6945078573762609,
-			"desc": 34.1,
+			"desc": "34.10",
 			"group": "Gz Comercio De Alimentos Ltda - Epp"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 18.5026086964263,
-			"desc": 513.69,
+			"desc": "513.69",
 			"group": "SINPETAXI"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 298.04576117143927,
-			"desc": 5943.300000000001,
+			"desc": "5943.30",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 15.008987406190045,
-			"desc": 429.06999999999994,
+			"desc": "429.07",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.7538627389459114,
-			"desc": 102.97,
+			"desc": "102.97",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 39.352400567068884,
-			"desc": 988.8,
+			"desc": "988.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -348,7 +349,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 679.9166783578555,
-			"desc": 12490.610000000002,
+			"desc": "12490.61",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "IKA EMP. IMOBILIARIOS LTDA ME",
 			"name": "IKA EMP. IMOBILIARIOS LTDA ME",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "IKA EMP. IMOBILIARIOS LTDA ME"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "GZ COMERCIO DE ALIMENTOS LTDA",
 			"name": "GZ COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.8542150651834364,
-			"desc": 40.1,
+			"desc": "40.10",
 			"group": "GZ COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 3.3550854515298645,
-			"desc": 121.19,
+			"desc": "121.19",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.3422987279190943,
-			"desc": 19.85,
+			"desc": "19.85",
 			"group": "RAMAL"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "RUBI COMERCIO DE PETROLEO LTDA - ME",
 			"name": "RUBI COMERCIO DE PETROLEO LTDA - ME",
 			"val": 207.60608024500135,
-			"desc": 4300,
+			"desc": "4300.00",
 			"group": "RUBI COMERCIO DE PETROLEO LTDA - ME"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "AB1 HOTELARIA EIRELI - EPP",
 			"name": "AB1 HOTELARIA EIRELI - EPP",
 			"val": 21.609110014107387,
-			"desc": 587.33,
+			"desc": "587.33",
 			"group": "AB1 HOTELARIA EIRELI - EPP"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "TELEFÔNICA BRASIL S.A",
 			"name": "TELEFÔNICA BRASIL S.A",
 			"val": 57.398979839316546,
-			"desc": 1376.27,
+			"desc": "1376.27",
 			"group": "TELEFÔNICA BRASIL S.A"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "REDE DIÁRIO DE COMUNICAÇÃO - EDITORA ANA CASSIA S.A",
 			"name": "REDE DIÁRIO DE COMUNICAÇÃO - EDITORA ANA CASSIA S.A",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "REDE DIÁRIO DE COMUNICAÇÃO - EDITORA ANA CASSIA S.A"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "OBJETIVA S/S LTDA EPP",
 			"name": "OBJETIVA S/S LTDA EPP",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "OBJETIVA S/S LTDA EPP"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "AMAZONAS ENERGIA S.A",
 			"name": "AMAZONAS ENERGIA S.A",
 			"val": 37.93715192289798,
-			"desc": 957.68,
+			"desc": "957.68",
 			"group": "AMAZONAS ENERGIA S.A"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 16.820413656124682,
-			"desc": 473.21,
+			"desc": "473.21",
 			"group": "NET"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 121.54385225149069,
-			"desc": 2669.5600000000004,
+			"desc": "2669.56",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 4.088221139145988,
-			"desc": 142.79,
+			"desc": "142.79",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "EMPRESA JORNAL DO COMERCIO LTDA - EPP",
 			"name": "EMPRESA JORNAL DO COMERCIO LTDA - EPP",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "EMPRESA JORNAL DO COMERCIO LTDA - EPP"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 5.017146947667821,
-			"desc": 169.4,
+			"desc": "169.40",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "SUPER CAR LOCADORA DE VEÍCULOS LTDA",
 			"name": "SUPER CAR LOCADORA DE VEÍCULOS LTDA",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "SUPER CAR LOCADORA DE VEÍCULOS LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 50.479048692612906,
-			"desc": 1229.5300000000002,
+			"desc": "1229.53",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "EMPRESA DE JORNAIS CALDERARO LTDA",
 			"name": "EMPRESA DE JORNAIS CALDERARO LTDA",
 			"val": 24.416018411586087,
-			"desc": 652.8,
+			"desc": "652.80",
 			"group": "EMPRESA DE JORNAIS CALDERARO LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 1.0180075273087787,
-			"desc": 46.06,
+			"desc": "46.06",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 72.06732578567745,
-			"desc": 1681.39,
+			"desc": "1681.39",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 42.49139425281182,
-			"desc": 1057.39,
+			"desc": "1057.39",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "FAST GRILL RESTAURANTES LTDA",
 			"name": "FAST GRILL RESTAURANTES LTDA",
 			"val": 0.8944386653248718,
-			"desc": 41.58,
+			"desc": "41.58",
 			"group": "FAST GRILL RESTAURANTES LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{

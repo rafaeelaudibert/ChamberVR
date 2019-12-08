@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MIGUEL HADDAD"
+			"name": "MIGUEL HADDAD",
+			"desc": "93042.32"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "DAE JUNDIAI",
 			"name": "DAE JUNDIAI",
 			"val": 9.469451824991534,
-			"desc": 289.5,
+			"desc": "289.50",
 			"group": "DAE JUNDIAI"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 130.7429235116586,
-			"desc": 2848.22,
+			"desc": "2848.22",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "AUTO POSTO SAMAUMA DE JUNDIAI LTDA",
 			"name": "AUTO POSTO SAMAUMA DE JUNDIAI LTDA",
 			"val": 14.645214194860158,
-			"desc": 420.13,
+			"desc": "420.13",
 			"group": "AUTO POSTO SAMAUMA DE JUNDIAI LTDA"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 10.683711251381814,
-			"desc": 320.80999999999995,
+			"desc": "320.81",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 4.6790230038675595,
-			"desc": 159.79999999999998,
+			"desc": "159.80",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -220,7 +221,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 586.3522350809615,
-			"desc": 10926.71,
+			"desc": "10926.71",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"name": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"val": 22.78324807856385,
-			"desc": 614.83,
+			"desc": "614.83",
 			"group": "COMPANHIA PIRATININGA DE FORCA E LUZ"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 27.38246643571315,
-			"desc": 721.0500000000001,
+			"desc": "721.05",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "AUTO POSTO BATE BOLA LT",
 			"name": "AUTO POSTO BATE BOLA LT",
 			"val": 25.759425023176025,
-			"desc": 683.82,
+			"desc": "683.82",
 			"group": "AUTO POSTO BATE BOLA LT"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "STRATEGIE CONSULTORIA EM COMUNICAÇÃO E PESQUISA EIRELI EPP",
 			"name": "STRATEGIE CONSULTORIA EM COMUNICAÇÃO E PESQUISA EIRELI EPP",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "STRATEGIE CONSULTORIA EM COMUNICAÇÃO E PESQUISA EIRELI EPP"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 76.74667650976917,
-			"desc": 1777.29,
+			"desc": "1777.29",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "PORTLAND COMERCIO E MONITORAMENTO DE ALARMES LTDA",
 			"name": "PORTLAND COMERCIO E MONITORAMENTO DE ALARMES LTDA",
 			"val": 24.338321761163314,
-			"desc": 651,
+			"desc": "651.00",
 			"group": "PORTLAND COMERCIO E MONITORAMENTO DE ALARMES LTDA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "AUTO POSTO ICARO II LTDA",
 			"name": "AUTO POSTO ICARO II LTDA",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "AUTO POSTO ICARO II LTDA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "AUTO POSTO PQ DA UVA DE JUNDIAI LTDA",
 			"name": "AUTO POSTO PQ DA UVA DE JUNDIAI LTDA",
 			"val": 31.962766627940837,
-			"desc": 824.81,
+			"desc": "824.81",
 			"group": "AUTO POSTO PQ DA UVA DE JUNDIAI LTDA"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 319.04399093409563,
-			"desc": 6317.62,
+			"desc": "6317.62",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "AUTO POSTO BRUNHOLI LT",
 			"name": "AUTO POSTO BRUNHOLI LT",
 			"val": 1.0599557963288702,
-			"desc": 47.56,
+			"desc": "47.56",
 			"group": "AUTO POSTO BRUNHOLI LT"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "J B C CARTUCHOS",
 			"name": "J B C CARTUCHOS",
 			"val": 17.22133558988587,
-			"desc": 482.9,
+			"desc": "482.90",
 			"group": "J B C CARTUCHOS"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "CP CONSULTORIA E PLANEJAMENTO",
 			"name": "CP CONSULTORIA E PLANEJAMENTO",
 			"val": 2113.3094222249874,
-			"desc": 35000,
+			"desc": "35000.00",
 			"group": "CP CONSULTORIA E PLANEJAMENTO"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 16.152300049046154,
-			"desc": 457,
+			"desc": "457.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "PIRAHY CORPORAÇÃO E ADMINISTRAÇÃO DE BENS LTDA",
 			"name": "PIRAHY CORPORAÇÃO E ADMINISTRAÇÃO DE BENS LTDA",
 			"val": 992.8714617122064,
-			"desc": 17600,
+			"desc": "17600.00",
 			"group": "PIRAHY CORPORAÇÃO E ADMINISTRAÇÃO DE BENS LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"name": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"val": 9.02826247286854,
-			"desc": 278,
+			"desc": "278.00",
 			"group": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.050983626786255,
-			"desc": 47.239999999999995,
+			"desc": "47.24",
 			"group": "RAMAL"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "TELEFONIA BRASIL S.A. - VIVO",
 			"name": "TELEFONIA BRASIL S.A. - VIVO",
 			"val": 17.29096004723369,
-			"desc": 484.58,
+			"desc": "484.58",
 			"group": "TELEFONIA BRASIL S.A. - VIVO"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "AUTO POSTO JARDIM DAS HORTENCIAS DE JUNDIAI LTDA",
 			"name": "AUTO POSTO JARDIM DAS HORTENCIAS DE JUNDIAI LTDA",
 			"val": 10.068251827589302,
-			"desc": 305,
+			"desc": "305.00",
 			"group": "AUTO POSTO JARDIM DAS HORTENCIAS DE JUNDIAI LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 79.1300656984504,
-			"desc": 1825.9,
+			"desc": "1825.90",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "ARCO IRIS PETROLEO COMERCIO E SERVICOS LTDA",
 			"name": "ARCO IRIS PETROLEO COMERCIO E SERVICOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ARCO IRIS PETROLEO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 19.14371419803328,
-			"desc": 529,
+			"desc": "529.00",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 18.730947848609627,
-			"desc": 519.15,
+			"desc": "519.15",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "Concessionária Rota das Bandeiras",
 			"name": "Concessionária Rota das Bandeiras",
 			"val": 0.07860593781761292,
-			"desc": 7,
+			"desc": "7.00",
 			"group": "Concessionária Rota das Bandeiras"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "H G COMERCIO E ASSISTENCIA TECNICA EM TELEFONIA LTDA",
 			"name": "H G COMERCIO E ASSISTENCIA TECNICA EM TELEFONIA LTDA",
 			"val": 10.200217686922134,
-			"desc": 308.4,
+			"desc": "308.40",
 			"group": "H G COMERCIO E ASSISTENCIA TECNICA EM TELEFONIA LTDA"
 		},
 		{

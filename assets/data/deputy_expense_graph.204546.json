@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOICE HASSELMANN"
+			"name": "JOICE HASSELMANN",
+			"desc": "45120.02"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 49.29445351090367,
-			"desc": 1204.2,
+			"desc": "1204.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Telefônica Brasil S.A. - VIVO",
 			"name": "Telefônica Brasil S.A. - VIVO",
 			"val": 40.57709651388162,
-			"desc": 1015.63,
+			"desc": "1015.63",
 			"group": "Telefônica Brasil S.A. - VIVO"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 138.1137388660652,
-			"desc": 2990.4699999999993,
+			"desc": "2990.47",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -189,7 +190,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 85.24821558736838,
-			"desc": 1950,
+			"desc": "1950.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 27.945267145142463,
-			"desc": 733.9000000000001,
+			"desc": "733.90",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -239,7 +240,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 9.104796978978364,
-			"desc": 280,
+			"desc": "280.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -258,7 +259,7 @@
 			"id": "AUTO POSTO PETER PAN 01 LTDA",
 			"name": "AUTO POSTO PETER PAN 01 LTDA",
 			"val": 4.864944049234763,
-			"desc": 165.09,
+			"desc": "165.09",
 			"group": "AUTO POSTO PETER PAN 01 LTDA"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 132.19059162329165,
-			"desc": 2876.2200000000003,
+			"desc": "2876.22",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.9814637375867579,
-			"desc": 78.66,
+			"desc": "78.66",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "LOCALIZA RENT A CAR S.A.",
 			"name": "LOCALIZA RENT A CAR S.A.",
 			"val": 28.377555010420938,
-			"desc": 743.75,
+			"desc": "743.75",
 			"group": "LOCALIZA RENT A CAR S.A."
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 5.859208450098526,
-			"desc": 192.94,
+			"desc": "192.94",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 594.9339010008558,
-			"desc": 11071.009999999998,
+			"desc": "11071.01",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 22.010486065532202,
-			"desc": 596.75,
+			"desc": "596.75",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.933373650841746,
-			"desc": 167.03,
+			"desc": "167.03",
 			"group": "RAMAL"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 152.09828727530407,
-			"desc": 3258.34,
+			"desc": "3258.34",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 382.77340967311306,
-			"desc": 7440.4800000000005,
+			"desc": "7440.48",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 2.2895323647293813,
-			"desc": 88.5,
+			"desc": "88.50",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "AEROMIX CONVENIENCIAS EIRELI",
 			"name": "AEROMIX CONVENIENCIAS EIRELI",
 			"val": 0.1620838499786226,
-			"desc": 11.5,
+			"desc": "11.50",
 			"group": "AEROMIX CONVENIENCIAS EIRELI"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "LOCALIZA RENT A CAR S/A",
 			"name": "LOCALIZA RENT A CAR S/A",
 			"val": 27.305922146950184,
-			"desc": 719.3,
+			"desc": "719.30",
 			"group": "LOCALIZA RENT A CAR S/A"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "TAURUS BRAGA NASCIMENTO ADM DE BENS",
 			"name": "TAURUS BRAGA NASCIMENTO ADM DE BENS",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "TAURUS BRAGA NASCIMENTO ADM DE BENS"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "TESS ABREU DE LIMA CONFEITARIA",
 			"name": "TESS ABREU DE LIMA CONFEITARIA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "TESS ABREU DE LIMA CONFEITARIA"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "WJA PAPELARIA E LIVRARIA EIRELI - ME",
 			"name": "WJA PAPELARIA E LIVRARIA EIRELI - ME",
 			"val": 5.063179982630248,
-			"desc": 170.7,
+			"desc": "170.70",
 			"group": "WJA PAPELARIA E LIVRARIA EIRELI - ME"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "NOSSO ITALIANO RESTAURANTE LTDA",
 			"name": "NOSSO ITALIANO RESTAURANTE LTDA",
 			"val": 3.6821234259035056,
-			"desc": 130.9,
+			"desc": "130.90",
 			"group": "NOSSO ITALIANO RESTAURANTE LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 5.21584777828263,
-			"desc": 175,
+			"desc": "175.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "RILSTON RESTAURANTES LTDA",
 			"name": "RILSTON RESTAURANTES LTDA",
 			"val": 4.157449985239833,
-			"desc": 144.8,
+			"desc": "144.80",
 			"group": "RILSTON RESTAURANTES LTDA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 8.538155500200597,
-			"desc": 265.14,
+			"desc": "265.14",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)",
 			"name": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)",
 			"val": 3.016720644659447,
-			"desc": 111,
+			"desc": "111.00",
 			"group": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 1.1677128745582228,
-			"desc": 51.370000000000005,
+			"desc": "51.37",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "NOE DO NASCIMENTO NETO 09739456995",
 			"name": "NOE DO NASCIMENTO NETO 09739456995",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "NOE DO NASCIMENTO NETO 09739456995"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "ORIGINAL CAFE E BISCOITOS LTDA",
 			"name": "ORIGINAL CAFE E BISCOITOS LTDA",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "ORIGINAL CAFE E BISCOITOS LTDA"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "M21 AUTO POSTO E CONVENIENCIA LTDA",
 			"name": "M21 AUTO POSTO E CONVENIENCIA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "M21 AUTO POSTO E CONVENIENCIA LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"val": 4.932314467372667,
-			"desc": 167,
+			"desc": "167.00",
 			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 25.630443503066818,
-			"desc": 680.85,
+			"desc": "680.85",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 8.817841226194524,
-			"desc": 272.49,
+			"desc": "272.49",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{

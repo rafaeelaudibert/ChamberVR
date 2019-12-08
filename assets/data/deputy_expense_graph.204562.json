@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDILÁZIO JÚNIOR"
+			"name": "EDILÁZIO JÚNIOR",
+			"desc": "52044.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 561.6607512834595,
-			"desc": 10510.48,
+			"desc": "10510.48",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -126,7 +127,7 @@
 			"id": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 152.5462787817202,
-			"desc": 3266.88,
+			"desc": "3266.88",
 			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -145,7 +146,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 17.25282819742189,
-			"desc": 483.6599999999999,
+			"desc": "483.66",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 16.486979716620905,
-			"desc": 465.13,
+			"desc": "465.13",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 946.7290193842515,
-			"desc": 16856.49,
+			"desc": "16856.49",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.5458292587087248,
-			"desc": 64.33,
+			"desc": "64.33",
 			"group": "RAMAL"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 89.38614493814859,
-			"desc": 2033.4099999999999,
+			"desc": "2033.41",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "F DE A S CAMPOS EIRELI",
 			"name": "F DE A S CAMPOS EIRELI",
 			"val": 458.5727588561223,
-			"desc": 8754.220000000001,
+			"desc": "8754.22",
 			"group": "F DE A S CAMPOS EIRELI"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.7045070547146515,
-			"desc": 131.56,
+			"desc": "131.56",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "CNS COMBUSTIVEIS E DERIVADOS LTDA",
 			"name": "CNS COMBUSTIVEIS E DERIVADOS LTDA",
 			"val": 9.251590160765774,
-			"desc": 283.83,
+			"desc": "283.83",
 			"group": "CNS COMBUSTIVEIS E DERIVADOS LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 13.640702713966874,
-			"desc": 395.3,
+			"desc": "395.30",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "REV DE PETROLEO SAO MARCOS LTDA-ME",
 			"name": "REV DE PETROLEO SAO MARCOS LTDA-ME",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "REV DE PETROLEO SAO MARCOS LTDA-ME"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 31.841246434289832,
-			"desc": 822.08,
+			"desc": "822.08",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "MSP EMPREENDIMENTOS LTDA",
 			"name": "MSP EMPREENDIMENTOS LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "MSP EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 8.049011446661062,
-			"desc": 252.21,
+			"desc": "252.21",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )",
 			"name": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )",
 			"val": 60.3972713177485,
-			"desc": 1439.25,
+			"desc": "1439.25",
 			"group": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )"
 		},
 		{

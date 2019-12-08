@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GILDENEMYR"
+			"name": "GILDENEMYR",
+			"desc": "101891.62"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 5.073456699967119,
-			"desc": 170.99,
+			"desc": "170.99",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "C. G. DE SOUSA EIRELI - POSTO BOA SORTE",
 			"name": "C. G. DE SOUSA EIRELI - POSTO BOA SORTE",
 			"val": 7.778280354719408,
-			"desc": 245.01,
+			"desc": "245.01",
 			"group": "C. G. DE SOUSA EIRELI - POSTO BOA SORTE"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "POSTO COMERCIAL NORTE LTDA",
 			"name": "POSTO COMERCIAL NORTE LTDA",
 			"val": 5.791320508726476,
-			"desc": 191.06,
+			"desc": "191.06",
 			"group": "POSTO COMERCIAL NORTE LTDA"
 		},
 		{
@@ -62,7 +63,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 2432.052523286776,
-			"desc": 39791.030000000006,
+			"desc": "39791.03",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "LEVELS INTELIGENCIA E CONSULTORIA ESTRATEGICA LTDA",
 			"name": "LEVELS INTELIGENCIA E CONSULTORIA ESTRATEGICA LTDA",
 			"val": 698.565436916466,
-			"desc": 12800,
+			"desc": "12800.00",
 			"group": "LEVELS INTELIGENCIA E CONSULTORIA ESTRATEGICA LTDA"
 		},
 		{
@@ -244,7 +245,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 36.099584155232655,
-			"desc": 917.08,
+			"desc": "917.08",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "SOCIC HOTEL LTDA-ME",
 			"name": "SOCIC HOTEL LTDA-ME",
 			"val": 3.3821998207306887,
-			"desc": 122,
+			"desc": "122.00",
 			"group": "SOCIC HOTEL LTDA-ME"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "BENEDITO J DE MORAES",
 			"name": "BENEDITO J DE MORAES",
 			"val": 3.4832284838123164,
-			"desc": 125.01,
+			"desc": "125.01",
 			"group": "BENEDITO J DE MORAES"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "Movida Locação de Veículos LTDA",
 			"name": "Movida Locação de Veículos LTDA",
 			"val": 513.8177039409042,
-			"desc": 9699.31,
+			"desc": "9699.31",
 			"group": "Movida Locação de Veículos LTDA"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "ROMA TRUCK CENTER LTDA",
 			"name": "ROMA TRUCK CENTER LTDA",
 			"val": 29.56722004040705,
-			"desc": 770.77,
+			"desc": "770.77",
 			"group": "ROMA TRUCK CENTER LTDA"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 21.307587075309886,
-			"desc": 580.24,
+			"desc": "580.24",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.498445816672421,
-			"desc": 26.39,
+			"desc": "26.39",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 238.63029865342187,
-			"desc": 4870.11,
+			"desc": "4870.11",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "DELTTA COMBUSTIVEIS LTDA",
 			"name": "DELTTA COMBUSTIVEIS LTDA",
 			"val": 2.0880854313671353,
-			"desc": 82.09,
+			"desc": "82.09",
 			"group": "DELTTA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 104.67899997855785,
-			"desc": 2338.4,
+			"desc": "2338.40",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 30.472587667359203,
-			"desc": 791.25,
+			"desc": "791.25",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"name": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"val": 4.917842079241369,
-			"desc": 166.59,
+			"desc": "166.59",
 			"group": "POSTO CIDADE DO AUTOMOVEL LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.750602429154284,
-			"desc": 161.84,
+			"desc": "161.84",
 			"group": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "L S COMERCIO E SERVICOS LTDA SAO CRISTOVAO",
 			"name": "L S COMERCIO E SERVICOS LTDA SAO CRISTOVAO",
 			"val": 14.690321447744925,
-			"desc": 421.24,
+			"desc": "421.24",
 			"group": "L S COMERCIO E SERVICOS LTDA SAO CRISTOVAO"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9033697290692164,
-			"desc": 76.13000000000001,
+			"desc": "76.13",
 			"group": "RAMAL"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "LEAL COMERCIALIZACAO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "LEAL COMERCIALIZACAO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.932314467372667,
-			"desc": 167,
+			"desc": "167.00",
 			"group": "LEAL COMERCIALIZACAO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "POSTO BONAZO LTDA - ME",
 			"name": "POSTO BONAZO LTDA - ME",
 			"val": 5.2172708296457655,
-			"desc": 175.04,
+			"desc": "175.04",
 			"group": "POSTO BONAZO LTDA - ME"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "M F SALES MACEDO",
 			"name": "M F SALES MACEDO",
 			"val": 6.224617087414037,
-			"desc": 203.01,
+			"desc": "203.01",
 			"group": "M F SALES MACEDO"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 71.639978626554,
-			"desc": 1672.6,
+			"desc": "1672.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "S M F DE SOUSA GOMES",
 			"name": "S M F DE SOUSA GOMES",
 			"val": 7.032403072095334,
-			"desc": 225,
+			"desc": "225.00",
 			"group": "S M F DE SOUSA GOMES"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "AUTO POSTO CHAVES LTDA",
 			"name": "AUTO POSTO CHAVES LTDA",
 			"val": 2.338971521621579,
-			"desc": 90.06,
+			"desc": "90.06",
 			"group": "AUTO POSTO CHAVES LTDA"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "LIMA COMERCIAL - POSTO MARACANA",
 			"name": "LIMA COMERCIAL - POSTO MARACANA",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "LIMA COMERCIAL - POSTO MARACANA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.36942151945288115,
-			"desc": 21.02,
+			"desc": "21.02",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.1401468073631955,
-			"desc": 172.87,
+			"desc": "172.87",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "QUASAR LOCADORA DE VEICULOS LTDA",
 			"name": "QUASAR LOCADORA DE VEICULOS LTDA",
 			"val": 175.42898141997438,
-			"desc": 3700,
+			"desc": "3700.00",
 			"group": "QUASAR LOCADORA DE VEICULOS LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "LIMA COMERCIAL - POSTO CONFIANCA",
 			"name": "LIMA COMERCIAL - POSTO CONFIANCA",
 			"val": 2.1898756741243512,
-			"desc": 85.34,
+			"desc": "85.34",
 			"group": "LIMA COMERCIAL - POSTO CONFIANCA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "POSTO AMERICANO LTDA",
 			"name": "POSTO AMERICANO LTDA",
 			"val": 4.063118623137588,
-			"desc": 142.06,
+			"desc": "142.06",
 			"group": "POSTO AMERICANO LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 7.192592790032903,
-			"desc": 229.32,
+			"desc": "229.32",
 			"group": "CLARO S/A."
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"name": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"val": 596.6592792919424,
-			"desc": 11100,
+			"desc": "11100.00",
 			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "SPE MICHELANGELO OFFICE CONSTRUTORA LTDA",
 			"name": "SPE MICHELANGELO OFFICE CONSTRUTORA LTDA",
 			"val": 391.91022457783663,
-			"desc": 7600,
+			"desc": "7600.00",
 			"group": "SPE MICHELANGELO OFFICE CONSTRUTORA LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 56.65031729044155,
-			"desc": 1360.49,
+			"desc": "1360.49",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 6.892629420094176,
-			"desc": 221.22,
+			"desc": "221.22",
 			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "POSTO MAGNOLIA LTDA",
 			"name": "POSTO MAGNOLIA LTDA",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "POSTO MAGNOLIA LTDA"
 		},
 		{

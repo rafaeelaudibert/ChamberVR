@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DARCÍSIO PERONDI"
+			"name": "DARCÍSIO PERONDI",
+			"desc": "112564.53"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 34.664384319060275,
-			"desc": 885.2099999999999,
+			"desc": "885.21",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 2.681818319496771,
-			"desc": 100.75,
+			"desc": "100.75",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "SABOR DI CODORNA RESTAURANTE LTDA - ME",
 			"name": "SABOR DI CODORNA RESTAURANTE LTDA - ME",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "SABOR DI CODORNA RESTAURANTE LTDA - ME"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -105,7 +106,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 44.827341095107975,
-			"desc": 1108.07,
+			"desc": "1108.07",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -190,7 +191,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 84.638750786337,
-			"desc": 1937.6799999999998,
+			"desc": "1937.68",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "JORGE ANTONIO MENSCH",
 			"name": "JORGE ANTONIO MENSCH",
 			"val": 179.04268405561152,
-			"desc": 3767.88,
+			"desc": "3767.88",
 			"group": "JORGE ANTONIO MENSCH"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "SINAL ALUGUEL DE VEICULOS LTDA",
 			"name": "SINAL ALUGUEL DE VEICULOS LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "SINAL ALUGUEL DE VEICULOS LTDA"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 143.81585100200385,
-			"desc": 3100,
+			"desc": "3100.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"name": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"val": 16.568200737071134,
-			"desc": 467.1,
+			"desc": "467.10",
 			"group": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 156.54503639696392,
-			"desc": 3343,
+			"desc": "3343.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 4.33694435567191,
-			"desc": 149.99,
+			"desc": "149.99",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.814400588783747,
-			"desc": 219.10000000000002,
+			"desc": "219.10",
 			"group": "RAMAL"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "SUPREMA LOCADORA",
 			"name": "SUPREMA LOCADORA",
 			"val": 403.39286234947355,
-			"desc": 7800,
+			"desc": "7800.00",
 			"group": "SUPREMA LOCADORA"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "FLEURY&GODOY CONSULT. ASS. PROM. E MARKETING LTDA",
 			"name": "FLEURY&GODOY CONSULT. ASS. PROM. E MARKETING LTDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "FLEURY&GODOY CONSULT. ASS. PROM. E MARKETING LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.0163353999144904,
-			"desc": 46,
+			"desc": "46.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "NAPOLITANA COMERCIO DE ALIMENTOS LTDA",
 			"name": "NAPOLITANA COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.1146126107757628,
-			"desc": 49.5,
+			"desc": "49.50",
 			"group": "NAPOLITANA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 20.493155970475193,
-			"desc": 561.03,
+			"desc": "561.03",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 14.368036509025004,
-			"desc": 413.3,
+			"desc": "413.30",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
 			"name": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD",
 			"val": 0.5635257954347984,
-			"desc": 29,
+			"desc": "29.00",
 			"group": "C GOMES DOS SANTOS RESTAURANTES E LANCHONETES LTD"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 3.922195308519889,
-			"desc": 137.95,
+			"desc": "137.95",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.588390582254015,
-			"desc": 128.13,
+			"desc": "128.13",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "COOP DOS MOT PROF AUT DO AEROPORTO SEN SALGADO FILHO",
 			"name": "COOP DOS MOT PROF AUT DO AEROPORTO SEN SALGADO FILHO",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "COOP DOS MOT PROF AUT DO AEROPORTO SEN SALGADO FILHO"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "TELEFONICA BRASIL S.A. VIVO",
 			"name": "TELEFONICA BRASIL S.A. VIVO",
 			"val": 79.7864346059111,
-			"desc": 1839.26,
+			"desc": "1839.26",
 			"group": "TELEFONICA BRASIL S.A. VIVO"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "ASPERTAXI",
 			"name": "ASPERTAXI",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "ASPERTAXI"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "SUL EDITORA GRAFICA LTDA",
 			"name": "SUL EDITORA GRAFICA LTDA",
 			"val": 2446.033980727912,
-			"desc": 40000,
+			"desc": "40000.00",
 			"group": "SUL EDITORA GRAFICA LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "Sintaxi",
 			"name": "Sintaxi",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "Sintaxi"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": null,
-			"desc": -1023.8299999999999,
+			"desc": "-1023.83",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 65.57452831018884,
-			"desc": 1547.23,
+			"desc": "1547.23",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "HOTEL JARDIM EUROPA LTDA",
 			"name": "HOTEL JARDIM EUROPA LTDA",
 			"val": 9.75861111551131,
-			"desc": 297,
+			"desc": "297.00",
 			"group": "HOTEL JARDIM EUROPA LTDA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "BRPHONIA PROVEDOR IP LTDA - EPP",
 			"name": "BRPHONIA PROVEDOR IP LTDA - EPP",
 			"val": 4.160898429594481,
-			"desc": 144.9,
+			"desc": "144.90",
 			"group": "BRPHONIA PROVEDOR IP LTDA - EPP"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 10.008938404221368,
-			"desc": 303.47,
+			"desc": "303.47",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "GPARK LTDA",
 			"name": "GPARK LTDA",
 			"val": 1.625711903042683,
-			"desc": 67,
+			"desc": "67.00",
 			"group": "GPARK LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "RESTAURANTE DAS MINAS LTDA EPP",
 			"name": "RESTAURANTE DAS MINAS LTDA EPP",
 			"val": 2.2292174732379135,
-			"desc": 86.59,
+			"desc": "86.59",
 			"group": "RESTAURANTE DAS MINAS LTDA EPP"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "IMOBILIARIA SOLANGE VIEIRA LTDA",
 			"name": "IMOBILIARIA SOLANGE VIEIRA LTDA",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "IMOBILIARIA SOLANGE VIEIRA LTDA"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 38.15097907996352,
-			"desc": 962.39,
+			"desc": "962.39",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "Luagge Imoveis",
 			"name": "Luagge Imoveis",
 			"val": 265.34793596070614,
-			"desc": 5355.46,
+			"desc": "5355.46",
 			"group": "Luagge Imoveis"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "DEPARTAMENTO MUNICIPAL DE ENERGIA DE IJUI",
 			"name": "DEPARTAMENTO MUNICIPAL DE ENERGIA DE IJUI",
 			"val": 0.5019001400005754,
-			"desc": 26.53,
+			"desc": "26.53",
 			"group": "DEPARTAMENTO MUNICIPAL DE ENERGIA DE IJUI"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 6.738499170439001,
-			"desc": 217.04000000000002,
+			"desc": "217.04",
 			"group": "Oi S.A"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "LDGC Escola de Idiomas Ltda ME",
 			"name": "LDGC Escola de Idiomas Ltda ME",
 			"val": 58.52678222626104,
-			"desc": 1400,
+			"desc": "1400.00",
 			"group": "LDGC Escola de Idiomas Ltda ME"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.13670028768103262,
-			"desc": 10.2,
+			"desc": "10.20",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 27.602612855223917,
-			"desc": 726.08,
+			"desc": "726.08",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "Brphonia Povedor IP",
 			"name": "Brphonia Povedor IP",
 			"val": 1.1259371949257997,
-			"desc": 49.9,
+			"desc": "49.90",
 			"group": "Brphonia Povedor IP"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 3.3026195914814718,
-			"desc": 119.62,
+			"desc": "119.62",
 			"group": "OI S.A"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARÍLIA ARRAES"
+			"name": "MARÍLIA ARRAES",
+			"desc": "67883.16"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 95.25059003425955,
-			"desc": 2150.9500000000003,
+			"desc": "2150.95",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.3098425069188804,
-			"desc": 56.31,
+			"desc": "56.31",
 			"group": "RAMAL"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "Marca Empreendimentos Imobiliários LTDA.",
 			"name": "Marca Empreendimentos Imobiliários LTDA.",
 			"val": 35.329612288381334,
-			"desc": 900,
+			"desc": "900.00",
 			"group": "Marca Empreendimentos Imobiliários LTDA."
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1124.1654896710158,
-			"desc": 19700.189999999995,
+			"desc": "19700.19",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "POSTO XINGU LTDA",
 			"name": "POSTO XINGU LTDA",
 			"val": 6.124899478400625,
-			"desc": 200.27,
+			"desc": "200.27",
 			"group": "POSTO XINGU LTDA"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "POSTO SERTAO LTDA",
 			"name": "POSTO SERTAO LTDA",
 			"val": 8.990790839125584,
-			"desc": 277.02,
+			"desc": "277.02",
 			"group": "POSTO SERTAO LTDA"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "POSTO ENSEADA DO NORTE LTDA",
 			"name": "POSTO ENSEADA DO NORTE LTDA",
 			"val": 7.292950422535935,
-			"desc": 232.02,
+			"desc": "232.02",
 			"group": "POSTO ENSEADA DO NORTE LTDA"
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "PIANTAS COMERCIAL DE ALIMENTOS EIRELI",
 			"name": "PIANTAS COMERCIAL DE ALIMENTOS EIRELI",
 			"val": 4.095446404637238,
-			"desc": 143,
+			"desc": "143.00",
 			"group": "PIANTAS COMERCIAL DE ALIMENTOS EIRELI"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 57.29311662451698,
-			"desc": 1374.04,
+			"desc": "1374.04",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"name": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"val": 16.5743870456497,
-			"desc": 467.25,
+			"desc": "467.25",
 			"group": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "HELP LOCADORA EIRELI ME",
 			"name": "HELP LOCADORA EIRELI ME",
 			"val": 1244.05145498346,
-			"desc": 21600,
+			"desc": "21600.00",
 			"group": "HELP LOCADORA EIRELI ME"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "POSTO PETROTURBO LTDA",
 			"name": "POSTO PETROTURBO LTDA",
 			"val": 6.7373946409423935,
-			"desc": 217.01,
+			"desc": "217.01",
 			"group": "POSTO PETROTURBO LTDA"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "JLM RESTAURANTE LTDA EPP",
 			"name": "JLM RESTAURANTE LTDA EPP",
 			"val": 5.144762733524613,
-			"desc": 173,
+			"desc": "173.00",
 			"group": "JLM RESTAURANTE LTDA EPP"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 9.49061909011613,
-			"desc": 290.05,
+			"desc": "290.05",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "HELIO &amp;amp; LEONARDO COMBUSTIVEIS LTDA - EPP",
 			"name": "HELIO &amp;amp; LEONARDO COMBUSTIVEIS LTDA - EPP",
 			"val": 4.897026182414358,
-			"desc": 166,
+			"desc": "166.00",
 			"group": "HELIO &amp;amp; LEONARDO COMBUSTIVEIS LTDA - EPP"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 46.55840724726198,
-			"desc": 1145.44,
+			"desc": "1145.44",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"val": 6.074395333349283,
-			"desc": 198.88,
+			"desc": "198.88",
 			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 36.68686052038174,
-			"desc": 930.08,
+			"desc": "930.08",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "ALABAMA ALIMENTOS LTDA",
 			"name": "ALABAMA ALIMENTOS LTDA",
 			"val": 3.37449751485354,
-			"desc": 121.77,
+			"desc": "121.77",
 			"group": "ALABAMA ALIMENTOS LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "CEMOPEL-CM PETROLEO LTDA",
 			"name": "CEMOPEL-CM PETROLEO LTDA",
 			"val": 33.860735618769176,
-			"desc": 867.3,
+			"desc": "867.30",
 			"group": "CEMOPEL-CM PETROLEO LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 4.046281124263917,
-			"desc": 141.57,
+			"desc": "141.57",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "ARAUJO PETROLEO LTDA",
 			"name": "ARAUJO PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ARAUJO PETROLEO LTDA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "HIKARI ALIMENTOS LTDA",
 			"name": "HIKARI ALIMENTOS LTDA",
 			"val": 1.1344427841799327,
-			"desc": 50.2,
+			"desc": "50.20",
 			"group": "HIKARI ALIMENTOS LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "TRINCHEIRA PLANEJ. E GESTÃO ESTRATE LTDA",
 			"name": "TRINCHEIRA PLANEJ. E GESTÃO ESTRATE LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "TRINCHEIRA PLANEJ. E GESTÃO ESTRATE LTDA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 252.9301622381815,
-			"desc": 5130.4800000000005,
+			"desc": "5130.48",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "ALVARES E DUTRA COMBUSTIVEIS LTDA",
 			"name": "ALVARES E DUTRA COMBUSTIVEIS LTDA",
 			"val": 7.59173693288032,
-			"desc": 240.03,
+			"desc": "240.03",
 			"group": "ALVARES E DUTRA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 71.30033304506968,
-			"desc": 1665.6100000000001,
+			"desc": "1665.61",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA",
 			"name": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"name": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AGUAS CLARAS POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"name": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"val": 8.751144442962795,
-			"desc": 270.74,
+			"desc": "270.74",
 			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "PERA E PEREIRA COMERCIO DE ALIMENTOS LTDA",
 			"name": "PERA E PEREIRA COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.332941691720528,
-			"desc": 89.87,
+			"desc": "89.87",
 			"group": "PERA E PEREIRA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "POSTO CRISTAL LTDA",
 			"name": "POSTO CRISTAL LTDA",
 			"val": 6.847965511403397,
-			"desc": 220.01,
+			"desc": "220.01",
 			"group": "POSTO CRISTAL LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "DFM DERIVADOS DE PETROLEO LTDA",
 			"name": "DFM DERIVADOS DE PETROLEO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "DFM DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "ARLINDO DA FONSECA LINS &amp; CIA LTDA",
 			"name": "ARLINDO DA FONSECA LINS &amp; CIA LTDA",
 			"val": 1.130188692422516,
-			"desc": 50.05,
+			"desc": "50.05",
 			"group": "ARLINDO DA FONSECA LINS &amp; CIA LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "S B COMERCIO DE PETROLEO LTDA",
 			"name": "S B COMERCIO DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "S B COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA",
 			"name": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA",
 			"val": 2.0631421454351164,
-			"desc": 81.29,
+			"desc": "81.29",
 			"group": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "SAN REMI POSTO E SERVIÇOS LTDA",
 			"name": "SAN REMI POSTO E SERVIÇOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SAN REMI POSTO E SERVIÇOS LTDA"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS CACHOEIRA LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS CACHOEIRA LTDA",
 			"val": 5.482504917756929,
-			"desc": 182.47,
+			"desc": "182.47",
 			"group": "COMERCIO DE COMBUSTIVEIS CACHOEIRA LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "VITTORIA D'ITALIA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
 			"name": "VITTORIA D'ITALIA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
 			"val": 3.6868698669302313,
-			"desc": 131.04,
+			"desc": "131.04",
 			"group": "VITTORIA D'ITALIA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "POSTO URBANO III LTDA - EPP",
 			"name": "POSTO URBANO III LTDA - EPP",
 			"val": 5.094727879379158,
-			"desc": 171.59,
+			"desc": "171.59",
 			"group": "POSTO URBANO III LTDA - EPP"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "AUTO POSTO MOURA LTDA",
 			"name": "AUTO POSTO MOURA LTDA",
 			"val": 2.3377018913526664,
-			"desc": 90.02,
+			"desc": "90.02",
 			"group": "AUTO POSTO MOURA LTDA"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 30.934851604087097,
-			"desc": 801.68,
+			"desc": "801.68",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"name": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"val": 1.8972167758605074,
-			"desc": 75.93,
+			"desc": "75.93",
 			"group": "BIER FASS RESTAURANTE MUSEU LTDA"
 		},
 		{

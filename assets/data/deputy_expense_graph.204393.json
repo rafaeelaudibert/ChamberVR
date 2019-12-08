@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FREI ANASTACIO RIBEIRO"
+			"name": "FREI ANASTACIO RIBEIRO",
+			"desc": "40153.28"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 172.53968298402637,
-			"desc": 3645.63,
+			"desc": "3645.63",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "COMÉRCIO DE COMB. E LUB. VILHENA LTDA.",
 			"name": "COMÉRCIO DE COMB. E LUB. VILHENA LTDA.",
 			"val": 55.2067600216671,
-			"desc": 1330,
+			"desc": "1330.00",
 			"group": "COMÉRCIO DE COMB. E LUB. VILHENA LTDA."
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 19.8960919891931,
-			"desc": 546.89,
+			"desc": "546.89",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "ENEROIL BEIRA RIO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "ENEROIL BEIRA RIO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ENEROIL BEIRA RIO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "COMERCIAL DE COMBUSTVEIS CAJA LTDA",
 			"name": "COMERCIAL DE COMBUSTVEIS CAJA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "COMERCIAL DE COMBUSTVEIS CAJA LTDA"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "SERGIO RICARDO DOS SANTOS SILVA",
 			"name": "SERGIO RICARDO DOS SANTOS SILVA",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "SERGIO RICARDO DOS SANTOS SILVA"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 344.40607029814976,
-			"desc": 6766.730000000001,
+			"desc": "6766.73",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 55.48058165879009,
-			"desc": 1335.79,
+			"desc": "1335.79",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "AUGUSTO SERGIO SANTIAGO DE BRITO PEREIRA",
 			"name": "AUGUSTO SERGIO SANTIAGO DE BRITO PEREIRA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "AUGUSTO SERGIO SANTIAGO DE BRITO PEREIRA"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "ART & VIDEO PRODUCOES E STUDIO FOTOGRAFICO LTDA",
 			"name": "ART & VIDEO PRODUCOES E STUDIO FOTOGRAFICO LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "ART & VIDEO PRODUCOES E STUDIO FOTOGRAFICO LTDA"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "MOTOGAS IND.DE COMPRESSAO E COM.DE GAS NATURAL LTD",
 			"name": "MOTOGAS IND.DE COMPRESSAO E COM.DE GAS NATURAL LTD",
 			"val": 6.5532765454695925,
-			"desc": 212,
+			"desc": "212.00",
 			"group": "MOTOGAS IND.DE COMPRESSAO E COM.DE GAS NATURAL LTD"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "POSTO MILLENIUM",
 			"name": "POSTO MILLENIUM",
 			"val": 8.914762116637892,
-			"desc": 275.03,
+			"desc": "275.03",
 			"group": "POSTO MILLENIUM"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "POSTO CAJUEIRO COM. E DERIV. DE PETRÓLEO LTDA.",
 			"name": "POSTO CAJUEIRO COM. E DERIV. DE PETRÓLEO LTDA.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO CAJUEIRO COM. E DERIV. DE PETRÓLEO LTDA."
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.2684323466909084,
-			"desc": 54.88,
+			"desc": "54.88",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.6557898928200923,
-			"desc": 68,
+			"desc": "68.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "MAGAZINE COMERCIO DE PAPELARIA EIRELI-ME",
 			"name": "MAGAZINE COMERCIO DE PAPELARIA EIRELI-ME",
 			"val": 9.349874346629518,
-			"desc": 286.39,
+			"desc": "286.39",
 			"group": "MAGAZINE COMERCIO DE PAPELARIA EIRELI-ME"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "POUSADA NORDESTINA PATOENSE LTDA",
 			"name": "POUSADA NORDESTINA PATOENSE LTDA",
 			"val": 17.101229943568352,
-			"desc": 480,
+			"desc": "480.00",
 			"group": "POUSADA NORDESTINA PATOENSE LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "SEVERINO ALEXANDRE DE SOUZA SOBRINHO",
 			"name": "SEVERINO ALEXANDRE DE SOUZA SOBRINHO",
 			"val": 1.506274540721979,
-			"desc": 63,
+			"desc": "63.00",
 			"group": "SEVERINO ALEXANDRE DE SOUZA SOBRINHO"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "HOTEL JK LTDA",
 			"name": "HOTEL JK LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "HOTEL JK LTDA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "MARIA DAS DORES SILVA EPP",
 			"name": "MARIA DAS DORES SILVA EPP",
 			"val": 2.3529442111241203,
-			"desc": 90.5,
+			"desc": "90.50",
 			"group": "MARIA DAS DORES SILVA EPP"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "AUTO POSTO INDEPENDENCIA LTDA",
 			"name": "AUTO POSTO INDEPENDENCIA LTDA",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "AUTO POSTO INDEPENDENCIA LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "LEITURA ALVORADA COM. LIVROS LTD",
 			"name": "LEITURA ALVORADA COM. LIVROS LTD",
 			"val": 0.45709218670569474,
-			"desc": 24.7,
+			"desc": "24.70",
 			"group": "LEITURA ALVORADA COM. LIVROS LTD"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "OI MÓVEL S.A.",
 			"name": "OI MÓVEL S.A.",
 			"val": 0.5632737783441225,
-			"desc": 28.99,
+			"desc": "28.99",
 			"group": "OI MÓVEL S.A."
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.8199497812674144,
-			"desc": 38.83,
+			"desc": "38.83",
 			"group": "RAMAL"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "RUZEMBERGUE MORAIS DE ARAUJO ME",
 			"name": "RUZEMBERGUE MORAIS DE ARAUJO ME",
 			"val": 4.129876800830772,
-			"desc": 144,
+			"desc": "144.00",
 			"group": "RUZEMBERGUE MORAIS DE ARAUJO ME"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "AUTO POSTO PETER PAN 01 LTDA",
 			"name": "AUTO POSTO PETER PAN 01 LTDA",
 			"val": 4.589760294127073,
-			"desc": 157.25,
+			"desc": "157.25",
 			"group": "AUTO POSTO PETER PAN 01 LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 142.20907470340694,
-			"desc": 3069.1800000000003,
+			"desc": "3069.18",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "POSTO ALTERNATIVA DE COMBUSTÍVEL E SERVIÇOS LTDA",
 			"name": "POSTO ALTERNATIVA DE COMBUSTÍVEL E SERVIÇOS LTDA",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "POSTO ALTERNATIVA DE COMBUSTÍVEL E SERVIÇOS LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 0.39242998244008215,
-			"desc": 22,
+			"desc": "22.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "NEWLAND VEICULOS LTDA",
 			"name": "NEWLAND VEICULOS LTDA",
 			"val": 10.928267081563245,
-			"desc": 327.06,
+			"desc": "327.06",
 			"group": "NEWLAND VEICULOS LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.1180767249935197,
-			"desc": 83.05,
+			"desc": "83.05",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "GGG COMERCIO DE ALIMENTOS LTDA",
 			"name": "GGG COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.9004440694187564,
-			"desc": 41.8,
+			"desc": "41.80",
 			"group": "GGG COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 49.783261950760384,
-			"desc": 1214.66,
+			"desc": "1214.66",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "Churrascaria O Ribeiro",
 			"name": "Churrascaria O Ribeiro",
 			"val": 1.5957200475106317,
-			"desc": 66,
+			"desc": "66.00",
 			"group": "Churrascaria O Ribeiro"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "CAVALCANTI, ALDARIS, MEIRELES & TARGINO ADVOGADOS ASSOCIADOS",
 			"name": "CAVALCANTI, ALDARIS, MEIRELES & TARGINO ADVOGADOS ASSOCIADOS",
 			"val": 196.82309438804205,
-			"desc": 4100,
+			"desc": "4100.00",
 			"group": "CAVALCANTI, ALDARIS, MEIRELES & TARGINO ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "GRAFTEC - GRAFICA, INFORMATICA E SERVICOS TECNICOS LTDA",
 			"name": "GRAFTEC - GRAFICA, INFORMATICA E SERVICOS TECNICOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GRAFTEC - GRAFICA, INFORMATICA E SERVICOS TECNICOS LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 18.347228570466704,
-			"desc": 509.97,
+			"desc": "509.97",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"name": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"val": 4.811772806199507,
-			"desc": 163.58,
+			"desc": "163.58",
 			"group": "ROGERIO DE ALMEIDA TCHE GAROTO - ME"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "PARLAMENTOPB COMUNICAÇÃO LTDA",
 			"name": "PARLAMENTOPB COMUNICAÇÃO LTDA",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "PARLAMENTOPB COMUNICAÇÃO LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "FECHINE SILVA &amp; CIA LTDA",
 			"name": "FECHINE SILVA &amp; CIA LTDA",
 			"val": 3.9951416543461176,
-			"desc": 140.08,
+			"desc": "140.08",
 			"group": "FECHINE SILVA &amp; CIA LTDA"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "SITECNET INFORMÁTICA LTDA",
 			"name": "SITECNET INFORMÁTICA LTDA",
 			"val": 4.071025304505015,
-			"desc": 142.29,
+			"desc": "142.29",
 			"group": "SITECNET INFORMÁTICA LTDA"
 		},
 		{

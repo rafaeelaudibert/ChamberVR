@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SCHIAVINATO"
+			"name": "SCHIAVINATO",
+			"desc": "30530.51"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.5556682864321558,
-			"desc": 64.66,
+			"desc": "64.66",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 203.1784175038792,
-			"desc": 4218,
+			"desc": "4218.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 2.2216557237703953,
-			"desc": 86.35,
+			"desc": "86.35",
 			"group": "NET CLARO"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 192.40316773742668,
-			"desc": 4017.72,
+			"desc": "4017.72",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "AEROTRIO ALIMENTOS LIMITADA ME",
 			"name": "AEROTRIO ALIMENTOS LIMITADA ME",
 			"val": 1.7101433126651833,
-			"desc": 69.8,
+			"desc": "69.80",
 			"group": "AEROTRIO ALIMENTOS LIMITADA ME"
 		},
 		{
@@ -142,7 +143,7 @@
 			"id": "YUTAKA RESTAURANTE LTDA",
 			"name": "YUTAKA RESTAURANTE LTDA",
 			"val": 0.7178367514947388,
-			"desc": 34.99,
+			"desc": "34.99",
 			"group": "YUTAKA RESTAURANTE LTDA"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 35.01278922755792,
-			"desc": 892.96,
+			"desc": "892.96",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "REGINA MAURA GASPARETTO ARNT",
 			"name": "REGINA MAURA GASPARETTO ARNT",
 			"val": 82.52498586546598,
-			"desc": 1894.88,
+			"desc": "1894.88",
 			"group": "REGINA MAURA GASPARETTO ARNT"
 		},
 		{
@@ -205,7 +206,7 @@
 			"id": "IMPRIMA CARTUCHOS E INFORMATICA LTDA",
 			"name": "IMPRIMA CARTUCHOS E INFORMATICA LTDA",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "IMPRIMA CARTUCHOS E INFORMATICA LTDA"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "Zabini & Cia Ltda",
 			"name": "Zabini & Cia Ltda",
 			"val": 5.645077055995952,
-			"desc": 187,
+			"desc": "187.00",
 			"group": "Zabini & Cia Ltda"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "AUTO POSTO TS LTDA",
 			"name": "AUTO POSTO TS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO TS LTDA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
 			"name": "COPAGIFT COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.9802178832217169,
-			"desc": 44.7,
+			"desc": "44.70",
 			"group": "COPAGIFT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "COPEL TELECOMUNICACOES S.A.",
 			"name": "COPEL TELECOMUNICACOES S.A.",
 			"val": 4.3338228012070745,
-			"desc": 149.9,
+			"desc": "149.90",
 			"group": "COPEL TELECOMUNICACOES S.A."
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 1.4117760001711297,
-			"desc": 59.8,
+			"desc": "59.80",
 			"group": "ECT -  EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "Brixner Brixner Ltda Epp",
 			"name": "Brixner Brixner Ltda Epp",
 			"val": 6.592909452610287,
-			"desc": 213.08,
+			"desc": "213.08",
 			"group": "Brixner Brixner Ltda Epp"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 11.189231038259852,
-			"desc": 333.71,
+			"desc": "333.71",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "Francisco Pátio Comércio de Alimentos Ltda EPP",
 			"name": "Francisco Pátio Comércio de Alimentos Ltda EPP",
 			"val": 2.1974211512239092,
-			"desc": 85.58,
+			"desc": "85.58",
 			"group": "Francisco Pátio Comércio de Alimentos Ltda EPP"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 2.584910695747175,
-			"desc": 97.75,
+			"desc": "97.75",
 			"group": "OI S.A"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "RAFAEL PERIN TAVARES",
 			"name": "RAFAEL PERIN TAVARES",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "RAFAEL PERIN TAVARES"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A",
 			"name": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A",
 			"val": 2.819004309287015,
-			"desc": 104.97,
+			"desc": "104.97",
 			"group": "RESOLVEAI INTERMEDIACAO COMERCIAL E SERVIÇOS S.A"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "POSTO BOLINHA LTDA",
 			"name": "POSTO BOLINHA LTDA",
 			"val": 11.979823297433253,
-			"desc": 353.74,
+			"desc": "353.74",
 			"group": "POSTO BOLINHA LTDA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 15.019175590669516,
-			"desc": 429.31999999999994,
+			"desc": "429.32",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "MERCEARIA JABOTI CURITIBA LTDA",
 			"name": "MERCEARIA JABOTI CURITIBA LTDA",
 			"val": 0.1720782000346155,
-			"desc": 12,
+			"desc": "12.00",
 			"group": "MERCEARIA JABOTI CURITIBA LTDA"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "LIVRARIA BARAO LTDA",
 			"name": "LIVRARIA BARAO LTDA",
 			"val": 4.465890818533135,
-			"desc": 153.7,
+			"desc": "153.70",
 			"group": "LIVRARIA BARAO LTDA"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "MFT EMPREENDIMENTOS",
 			"name": "MFT EMPREENDIMENTOS",
 			"val": 1.0414644049070154,
-			"desc": 46.9,
+			"desc": "46.90",
 			"group": "MFT EMPREENDIMENTOS"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "ADALBERTO JOSE BORDIGNON",
 			"name": "ADALBERTO JOSE BORDIGNON",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "ADALBERTO JOSE BORDIGNON"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "AUTO POSTO CRIANCA LTDA",
 			"name": "AUTO POSTO CRIANCA LTDA",
 			"val": 11.239943162362483,
-			"desc": 335,
+			"desc": "335.00",
 			"group": "AUTO POSTO CRIANCA LTDA"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "DOM FRANCISCO RESTAURANTE",
 			"name": "DOM FRANCISCO RESTAURANTE",
 			"val": 3.9913698706725027,
-			"desc": 139.97,
+			"desc": "139.97",
 			"group": "DOM FRANCISCO RESTAURANTE"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "ECT - Emp. Bras. de Correios e Telegrafos",
 			"name": "ECT - Emp. Bras. de Correios e Telegrafos",
 			"val": 1.7787655734549914,
-			"desc": 72.06,
+			"desc": "72.06",
 			"group": "ECT - Emp. Bras. de Correios e Telegrafos"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "COMERCIO DER DE PETROLEO SABINO LTDA",
 			"name": "COMERCIO DER DE PETROLEO SABINO LTDA",
 			"val": 8.041098162887916,
-			"desc": 252,
+			"desc": "252.00",
 			"group": "COMERCIO DER DE PETROLEO SABINO LTDA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "KAWY COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "KAWY COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 13.044605223916363,
-			"desc": 380.46,
+			"desc": "380.46",
 			"group": "KAWY COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "HOTEL SAN JUAN LTDA.",
 			"name": "HOTEL SAN JUAN LTDA.",
 			"val": 12.175033690273427,
-			"desc": 358.66,
+			"desc": "358.66",
 			"group": "HOTEL SAN JUAN LTDA."
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "DFM DERIVADOS DE PETROLEO LTDA",
 			"name": "DFM DERIVADOS DE PETROLEO LTDA",
 			"val": 4.518172931123694,
-			"desc": 155.2,
+			"desc": "155.20",
 			"group": "DFM DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "YAMAGUCHI EMPREENDIMENTOS LTDA",
 			"name": "YAMAGUCHI EMPREENDIMENTOS LTDA",
 			"val": 153.75975379107345,
-			"desc": 3290,
+			"desc": "3290.00",
 			"group": "YAMAGUCHI EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 27.701153070191914,
-			"desc": 728.33,
+			"desc": "728.33",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "SERAVAT ASSESSORIA",
 			"name": "SERAVAT ASSESSORIA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "SERAVAT ASSESSORIA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "PH RESTAURANTE LTDA",
 			"name": "PH RESTAURANTE LTDA",
 			"val": 2.144684992703406,
-			"desc": 83.9,
+			"desc": "83.90",
 			"group": "PH RESTAURANTE LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "Victoria Villa Hotelaria LTDA",
 			"name": "Victoria Villa Hotelaria LTDA",
 			"val": 9.097139808828855,
-			"desc": 279.8,
+			"desc": "279.80",
 			"group": "Victoria Villa Hotelaria LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "AUTO POSTO SAO MARCOS LTDA",
 			"name": "AUTO POSTO SAO MARCOS LTDA",
 			"val": 5.302393458210368,
-			"desc": 177.43,
+			"desc": "177.43",
 			"group": "AUTO POSTO SAO MARCOS LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.824794109609436,
-			"desc": 163.95,
+			"desc": "163.95",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 74.88639622691937,
-			"desc": 1739.24,
+			"desc": "1739.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "AUTO POSTO TRANSYARA EIRELI",
 			"name": "AUTO POSTO TRANSYARA EIRELI",
 			"val": 8.734385219021094,
-			"desc": 270.3,
+			"desc": "270.30",
 			"group": "AUTO POSTO TRANSYARA EIRELI"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "LAR COOPERATIVA AGROINDUSTRIAL",
 			"name": "LAR COOPERATIVA AGROINDUSTRIAL",
 			"val": 8.6035015679461,
-			"desc": 266.86,
+			"desc": "266.86",
 			"group": "LAR COOPERATIVA AGROINDUSTRIAL"
 		},
 		{
@@ -847,7 +848,7 @@
 			"id": "AUTO POSTO COLOSSAL MERCES LTDA",
 			"name": "AUTO POSTO COLOSSAL MERCES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO COLOSSAL MERCES LTDA"
 		},
 		{
@@ -860,7 +861,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 4.841693790209678,
-			"desc": 164.43,
+			"desc": "164.43",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -873,7 +874,7 @@
 			"id": "RESTAURANTE BENDITO MANGIARE",
 			"name": "RESTAURANTE BENDITO MANGIARE",
 			"val": 3.787423806085366,
-			"desc": 134,
+			"desc": "134.00",
 			"group": "RESTAURANTE BENDITO MANGIARE"
 		},
 		{
@@ -886,7 +887,7 @@
 			"id": "AUTO POSTO HORIZONTE AZUL LTDA",
 			"name": "AUTO POSTO HORIZONTE AZUL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO HORIZONTE AZUL LTDA"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 0.7702009105084432,
-			"desc": 36.97,
+			"desc": "36.97",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "PIER 69 EIRELE ME",
 			"name": "PIER 69 EIRELE ME",
 			"val": 1.1157442322815398,
-			"desc": 49.54,
+			"desc": "49.54",
 			"group": "PIER 69 EIRELE ME"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "AUTO POSTO TOLECEMA LTDA",
 			"name": "AUTO POSTO TOLECEMA LTDA",
 			"val": 3.8832313895107866,
-			"desc": 136.81,
+			"desc": "136.81",
 			"group": "AUTO POSTO TOLECEMA LTDA"
 		},
 		{
@@ -938,7 +939,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 4.403263869021905,
-			"desc": 151.9,
+			"desc": "151.90",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -951,7 +952,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.03063019633400822,
-			"desc": 3.9,
+			"desc": "3.90",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -964,7 +965,7 @@
 			"id": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA",
 			"name": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA",
 			"val": 1.9178410900283187,
-			"desc": 76.6,
+			"desc": "76.60",
 			"group": "WERMUTH SERVICOS POSTAIS FRANQUEADOS LTDA"
 		},
 		{
@@ -977,7 +978,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 10.502606733070474,
-			"desc": 316.17,
+			"desc": "316.17",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -990,7 +991,7 @@
 			"id": "MAURO LANG GODINHO",
 			"name": "MAURO LANG GODINHO",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "MAURO LANG GODINHO"
 		},
 		{
@@ -1003,7 +1004,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.4565427390333205,
-			"desc": 61.32,
+			"desc": "61.32",
 			"group": "RAMAL"
 		},
 		{
@@ -1016,7 +1017,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 5.904767046565125,
-			"desc": 194.2,
+			"desc": "194.20",
 			"group": "Telefônica Brasil S/A."
 		},
 		{

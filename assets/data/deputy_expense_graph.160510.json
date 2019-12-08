@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIS TIBÉ"
+			"name": "LUIS TIBÉ",
+			"desc": "44659.57"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 20.6315270070366,
-			"desc": 564.3000000000001,
+			"desc": "564.30",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -132,7 +133,7 @@
 			"id": "telefonica brasil sa",
 			"name": "telefonica brasil sa",
 			"val": 30.075666021438618,
-			"desc": 782.28,
+			"desc": "782.28",
 			"group": "telefonica brasil sa"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 50.545078502906826,
-			"desc": 1230.94,
+			"desc": "1230.94",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 20.7772096591223,
-			"desc": 567.74,
+			"desc": "567.74",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -207,7 +208,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 20.137368920449166,
-			"desc": 552.61,
+			"desc": "552.61",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.214069038275871,
-			"desc": 174.95,
+			"desc": "174.95",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "MUNICÍPIO DE BELO HORIZONTE",
 			"name": "MUNICÍPIO DE BELO HORIZONTE",
 			"val": 23.54833041551065,
-			"desc": 632.66,
+			"desc": "632.66",
 			"group": "MUNICÍPIO DE BELO HORIZONTE"
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 48.675551924689074,
-			"desc": 1190.94,
+			"desc": "1190.94",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 6.47813488108044,
-			"desc": 209.95,
+			"desc": "209.95",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.5586517310999315,
-			"desc": 64.75999999999999,
+			"desc": "64.76",
 			"group": "RAMAL"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "JORNAL VISÃO",
 			"name": "JORNAL VISÃO",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "JORNAL VISÃO"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
 			"name": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
 			"val": 648.5277240959929,
-			"desc": 11968.18,
+			"desc": "11968.18",
 			"group": "JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "AUTO POSTO SUDOESTE LTDA",
 			"name": "AUTO POSTO SUDOESTE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO SUDOESTE LTDA"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 82.12015221414761,
-			"desc": 1886.67,
+			"desc": "1886.67",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"name": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"val": 346.2918776438817,
-			"desc": 6800,
+			"desc": "6800.00",
 			"group": "TRANSMOURA LOCADORA DE VEICULOS LTDA."
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 137.61557535133662,
-			"desc": 2980.88,
+			"desc": "2980.88",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": null,
-			"desc": -227.23000000000002,
+			"desc": "-227.23",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "AUTO POSTO RODOCHAVES LTDA",
 			"name": "AUTO POSTO RODOCHAVES LTDA",
 			"val": 5.190952930940959,
-			"desc": 174.3,
+			"desc": "174.30",
 			"group": "AUTO POSTO RODOCHAVES LTDA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 11.633629596231085,
-			"desc": 344.99,
+			"desc": "344.99",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "MUNICIPIO DE BELO HORIZONTE",
 			"name": "MUNICIPIO DE BELO HORIZONTE",
 			"val": 23.56595787185179,
-			"desc": 633.07,
+			"desc": "633.07",
 			"group": "MUNICIPIO DE BELO HORIZONTE"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 8.69707272153103,
-			"desc": 269.32,
+			"desc": "269.32",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "PORTOPETRO COMBUSTIVEIS LTDA",
 			"name": "PORTOPETRO COMBUSTIVEIS LTDA",
 			"val": 1.3648941193392705,
-			"desc": 58.2,
+			"desc": "58.20",
 			"group": "PORTOPETRO COMBUSTIVEIS LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "CONDOMINIO DO EDIFICIO MARBLE ARCH",
 			"name": "CONDOMINIO DO EDIFICIO MARBLE ARCH",
 			"val": 85.9596602746665,
-			"desc": 1964.37,
+			"desc": "1964.37",
 			"group": "CONDOMINIO DO EDIFICIO MARBLE ARCH"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "Segmento Digital",
 			"name": "Segmento Digital",
 			"val": 122.22120456156584,
-			"desc": 2682.76,
+			"desc": "2682.76",
 			"group": "Segmento Digital"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "POSTO PARADA OBRIGATORIA LTDA",
 			"name": "POSTO PARADA OBRIGATORIA LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "POSTO PARADA OBRIGATORIA LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "S & S Soluções em Ti LTDA",
 			"name": "S & S Soluções em Ti LTDA",
 			"val": 82.77755614445915,
-			"desc": 1900,
+			"desc": "1900.00",
 			"group": "S & S Soluções em Ti LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 34.33970921846908,
-			"desc": 877.98,
+			"desc": "877.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA",
 			"name": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "JORNAL DE LUZ - COMUNICAÇÃO E CULTURA"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "POSTO RIEGERT LTDA",
 			"name": "POSTO RIEGERT LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "POSTO RIEGERT LTDA"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "POSTO SOBRADINHO LTDA",
 			"name": "POSTO SOBRADINHO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO SOBRADINHO LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA",
 			"name": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "JMT CONSTRUCOES E EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "POSTO URBANO FERRAZ LTDA",
 			"name": "POSTO URBANO FERRAZ LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO URBANO FERRAZ LTDA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.13958253691213526,
-			"desc": 10.35,
+			"desc": "10.35",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{

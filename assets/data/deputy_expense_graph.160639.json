@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PROFESSORA DORINHA SEABRA REZENDE"
+			"name": "PROFESSORA DORINHA SEABRA REZENDE",
+			"desc": "54080.75"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 83.12447664623176,
-			"desc": 1907.0300000000002,
+			"desc": "1907.03",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 701.064759395557,
-			"desc": 12841.410000000003,
+			"desc": "12841.41",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -205,7 +206,7 @@
 			"id": "BOWL",
 			"name": "BOWL",
 			"val": 1.1372802827775348,
-			"desc": 50.3,
+			"desc": "50.30",
 			"group": "BOWL"
 		},
 		{
@@ -218,7 +219,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 8.769431938804857,
-			"desc": 271.21999999999997,
+			"desc": "271.22",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "INVIOLAVEL PALMAS TOCANTINS COMERCIO E MONITORAMENTO DE ALARMES ELETRONICO LTDA",
 			"name": "INVIOLAVEL PALMAS TOCANTINS COMERCIO E MONITORAMENTO DE ALARMES ELETRONICO LTDA",
 			"val": 34.65494910319507,
-			"desc": 885,
+			"desc": "885.00",
 			"group": "INVIOLAVEL PALMAS TOCANTINS COMERCIO E MONITORAMENTO DE ALARMES ELETRONICO LTDA"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "VULPES LTDA",
 			"name": "VULPES LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "VULPES LTDA"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.4229916484301124,
-			"desc": 92.69999999999999,
+			"desc": "92.70",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "MILHOMEM & CARDOSO LTDA - ME",
 			"name": "MILHOMEM & CARDOSO LTDA - ME",
 			"val": 323.682718458233,
-			"desc": 6400,
+			"desc": "6400.00",
 			"group": "MILHOMEM & CARDOSO LTDA - ME"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.977263007271352,
-			"desc": 223.51000000000002,
+			"desc": "223.51",
 			"group": "RAMAL"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "AUTO POSTO DE COMBUSTIVEL SAO SEBASTIAO LTDA",
 			"name": "AUTO POSTO DE COMBUSTIVEL SAO SEBASTIAO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DE COMBUSTIVEL SAO SEBASTIAO LTDA"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "SOUZA e VITAL LTDA",
 			"name": "SOUZA e VITAL LTDA",
 			"val": 26.977717510209388,
-			"desc": 711.79,
+			"desc": "711.79",
 			"group": "SOUZA e VITAL LTDA"
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 70.25137238229074,
-			"desc": 1644,
+			"desc": "1644.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "L B DE ANDRADE & CIA LTDA",
 			"name": "L B DE ANDRADE & CIA LTDA",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "L B DE ANDRADE & CIA LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 34.0839833691041,
-			"desc": 872.28,
+			"desc": "872.28",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "OI",
 			"name": "OI",
 			"val": 40.6397429249723,
-			"desc": 1016.9999999999999,
+			"desc": "1017.00",
 			"group": "OI"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 54.60996555940812,
-			"desc": 1317.37,
+			"desc": "1317.37",
 			"group": "CLARO S/A"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "MORRO AZUL COMERCIO DE PETROLEO LTDA",
 			"name": "MORRO AZUL COMERCIO DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MORRO AZUL COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "A M SERVIÇOS DE LOCAÇÕES E CONSTRUÇÕES LTDA - ME",
 			"name": "A M SERVIÇOS DE LOCAÇÕES E CONSTRUÇÕES LTDA - ME",
 			"val": 783.4766679670703,
-			"desc": 14200,
+			"desc": "14200.00",
 			"group": "A M SERVIÇOS DE LOCAÇÕES E CONSTRUÇÕES LTDA - ME"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 84.9736038421569,
-			"desc": 1944.4499999999998,
+			"desc": "1944.45",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "RAKA COMUNICACOES LTDA",
 			"name": "RAKA COMUNICACOES LTDA",
 			"val": 86.30892099141558,
-			"desc": 1971.42,
+			"desc": "1971.42",
 			"group": "RAKA COMUNICACOES LTDA"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 4.196095262619965,
-			"desc": 145.92,
+			"desc": "145.92",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 56.29533242296101,
-			"desc": 1353,
+			"desc": "1353.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 2.413421821837006,
-			"desc": 92.4,
+			"desc": "92.40",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 3.9242475510122676,
-			"desc": 138.01,
+			"desc": "138.01",
 			"group": "NET CLARO"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "AUTO POSTO G2 LTDA",
 			"name": "AUTO POSTO G2 LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO G2 LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 97.49015572148924,
-			"desc": 2195.64,
+			"desc": "2195.64",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 9.873421855603747,
-			"desc": 299.96999999999997,
+			"desc": "299.97",
 			"group": "CLARO S.A."
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"name": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "L B de Andrade & Cia Ltda - ME",
 			"name": "L B de Andrade & Cia Ltda - ME",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "L B de Andrade & Cia Ltda - ME"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 6.192567590805422,
-			"desc": 202.13,
+			"desc": "202.13",
 			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 20.872985288638798,
-			"desc": 570,
+			"desc": "570.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "ARCO IRIS PETROLEO COMERCIO E SERVICOS LTDA",
 			"name": "ARCO IRIS PETROLEO COMERCIO E SERVICOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ARCO IRIS PETROLEO COMERCIO E SERVICOS LTDA"
 		},
 		{

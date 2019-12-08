@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GENERAL PETERNELLI"
+			"name": "GENERAL PETERNELLI",
+			"desc": "26437.43"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 1.0923015018503257,
-			"desc": 48.71,
+			"desc": "48.71",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "AUTO POSTO OSCAR PORTO LT",
 			"name": "AUTO POSTO OSCAR PORTO LT",
 			"val": 35.42958558474308,
-			"desc": 902.22,
+			"desc": "902.22",
 			"group": "AUTO POSTO OSCAR PORTO LT"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 3.9553916457559013,
-			"desc": 138.92,
+			"desc": "138.92",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "SG NACOES LTDA ME",
 			"name": "SG NACOES LTDA ME",
 			"val": 290.04262268973326,
-			"desc": 5800,
+			"desc": "5800.00",
 			"group": "SG NACOES LTDA ME"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 11.958025436838879,
-			"desc": 353.19,
+			"desc": "353.19",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -226,7 +227,7 @@
 			"id": "AUTO POSTO LAGO NORTE LTDA",
 			"name": "AUTO POSTO LAGO NORTE LTDA",
 			"val": 10.648552770170228,
-			"desc": 319.90999999999997,
+			"desc": "319.91",
 			"group": "AUTO POSTO LAGO NORTE LTDA"
 		},
 		{
@@ -245,7 +246,7 @@
 			"id": "Kleber Henrique Ferreira 38301876883",
 			"name": "Kleber Henrique Ferreira 38301876883",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "Kleber Henrique Ferreira 38301876883"
 		},
 		{
@@ -258,7 +259,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 9.521033507981151,
-			"desc": 290.84000000000003,
+			"desc": "290.84",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 6.314326477668755,
-			"desc": 205.47,
+			"desc": "205.47",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 40.027000044538205,
-			"desc": 1003.5899999999999,
+			"desc": "1003.59",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "PREFEITURA DE SÃO PAULO",
 			"name": "PREFEITURA DE SÃO PAULO",
 			"val": 14.197913237263919,
-			"desc": 409.1,
+			"desc": "409.10",
 			"group": "PREFEITURA DE SÃO PAULO"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 2.435440796346047,
-			"desc": 93.09,
+			"desc": "93.09",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 6.327103867540832,
-			"desc": 205.82,
+			"desc": "205.82",
 			"group": "SABESP"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "José Nilton Queiroz dos Santos",
 			"name": "José Nilton Queiroz dos Santos",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "José Nilton Queiroz dos Santos"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "PIMENTA VERDE ALIMENTOS LTDA",
 			"name": "PIMENTA VERDE ALIMENTOS LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "PIMENTA VERDE ALIMENTOS LTDA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.9632686849940666,
-			"desc": 139.15,
+			"desc": "139.15",
 			"group": "RAMAL"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 52.744283593436826,
-			"desc": 1277.79,
+			"desc": "1277.79",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "ECT - CORREIOS E TELEGRAFOS",
 			"name": "ECT - CORREIOS E TELEGRAFOS",
 			"val": 6.067859319965562,
-			"desc": 198.7,
+			"desc": "198.70",
 			"group": "ECT - CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "SINDALESP - Sindicato dos Servidores Públicos da ALESP",
 			"name": "SINDALESP - Sindicato dos Servidores Públicos da ALESP",
 			"val": 561.0402717125156,
-			"desc": 10500,
+			"desc": "10500.00",
 			"group": "SINDALESP - Sindicato dos Servidores Públicos da ALESP"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "REAL PAPELARIA E LIVRARIA EIRELI",
 			"name": "REAL PAPELARIA E LIVRARIA EIRELI",
 			"val": 1.3211727850564436,
-			"desc": 56.7,
+			"desc": "56.70",
 			"group": "REAL PAPELARIA E LIVRARIA EIRELI"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"val": 8.685274069479687,
-			"desc": 269.01,
+			"desc": "269.01",
 			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 32.29598970992038,
-			"desc": 832.2900000000001,
+			"desc": "832.29",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 2.1782506985243595,
-			"desc": 84.97,
+			"desc": "84.97",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "ENEL - ELETROPAULO",
 			"name": "ENEL - ELETROPAULO",
 			"val": 4.9821296133095405,
-			"desc": 168.41,
+			"desc": "168.41",
 			"group": "ENEL - ELETROPAULO"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "MOLNAR & MENDES LTDA",
 			"name": "MOLNAR & MENDES LTDA",
 			"val": 0.8301776047105941,
-			"desc": 39.21,
+			"desc": "39.21",
 			"group": "MOLNAR & MENDES LTDA"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 57.399454609240394,
-			"desc": 1376.2800000000002,
+			"desc": "1376.28",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 1.7940032043307823,
-			"desc": 72.56,
+			"desc": "72.56",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "RODOSNACK LANCHONETE E RESTAURANTE",
 			"name": "RODOSNACK LANCHONETE E RESTAURANTE",
 			"val": 0.21953035343616675,
-			"desc": 14.3,
+			"desc": "14.30",
 			"group": "RODOSNACK LANCHONETE E RESTAURANTE"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "DOM BOSCO AUTO POSTO LTDA",
 			"name": "DOM BOSCO AUTO POSTO LTDA",
 			"val": 1.371910387663206,
-			"desc": 58.44,
+			"desc": "58.44",
 			"group": "DOM BOSCO AUTO POSTO LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "MAX PORTO DO GUARUJA AUTO POSTO EIRELI",
 			"name": "MAX PORTO DO GUARUJA AUTO POSTO EIRELI",
 			"val": 4.175386241681261,
-			"desc": 145.32,
+			"desc": "145.32",
 			"group": "MAX PORTO DO GUARUJA AUTO POSTO EIRELI"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "AUTO POSTO NOVO BROOKLIN LTDA",
 			"name": "AUTO POSTO NOVO BROOKLIN LTDA",
 			"val": 2.4760454701221306,
-			"desc": 94.36,
+			"desc": "94.36",
 			"group": "AUTO POSTO NOVO BROOKLIN LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "VIAÇAO COMETA S/A",
 			"name": "VIAÇAO COMETA S/A",
 			"val": 2.8968089967891237,
-			"desc": 107.35,
+			"desc": "107.35",
 			"group": "VIAÇAO COMETA S/A"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"val": 8.397804257317214,
-			"desc": 261.44,
+			"desc": "261.44",
 			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "GREENS FOODS LTDA",
 			"name": "GREENS FOODS LTDA",
 			"val": 0.4690155539008409,
-			"desc": 25.19,
+			"desc": "25.19",
 			"group": "GREENS FOODS LTDA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "Kalunga Comércio e Indústria Gráfica LTDA",
 			"name": "Kalunga Comércio e Indústria Gráfica LTDA",
 			"val": 3.621175056332799,
-			"desc": 129.1,
+			"desc": "129.10",
 			"group": "Kalunga Comércio e Indústria Gráfica LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 4.026706962752919,
-			"desc": 141,
+			"desc": "141.00",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{

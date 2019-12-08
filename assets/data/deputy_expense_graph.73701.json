@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BENEDITA DA SILVA"
+			"name": "BENEDITA DA SILVA",
+			"desc": "63170.79"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TECIDOS E ARMARINHO 253 COMERCIO E INDUSTRIA DE ARTIGOS DE AVIAMENTOS LTDA",
 			"name": "TECIDOS E ARMARINHO 253 COMERCIO E INDUSTRIA DE ARTIGOS DE AVIAMENTOS LTDA",
 			"val": 6.6266957403593825,
-			"desc": 214,
+			"desc": "214.00",
 			"group": "TECIDOS E ARMARINHO 253 COMERCIO E INDUSTRIA DE ARTIGOS DE AVIAMENTOS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 508.74491169383106,
-			"desc": 9612.92,
+			"desc": "9612.92",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "POSTO RESTAURANTE E LANCHONE FR BRANCO",
 			"name": "POSTO RESTAURANTE E LANCHONE FR BRANCO",
 			"val": 0.9719138282117833,
-			"desc": 44.4,
+			"desc": "44.40",
 			"group": "POSTO RESTAURANTE E LANCHONE FR BRANCO"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "POSTO MANE GARRINCHA DE BOTAFOGO LTDA",
 			"name": "POSTO MANE GARRINCHA DE BOTAFOGO LTDA",
 			"val": 0.95341045846317,
-			"desc": 43.73,
+			"desc": "43.73",
 			"group": "POSTO MANE GARRINCHA DE BOTAFOGO LTDA"
 		},
 		{
@@ -183,7 +184,7 @@
 			"id": "AUTO POSTO GNOMO",
 			"name": "AUTO POSTO GNOMO",
 			"val": 2.4229916484301124,
-			"desc": 92.69999999999999,
+			"desc": "92.70",
 			"group": "AUTO POSTO GNOMO"
 		},
 		{
@@ -202,7 +203,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 353.9728431168112,
-			"desc": 6935.340000000001,
+			"desc": "6935.34",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.723216200876401,
-			"desc": 161.06,
+			"desc": "161.06",
 			"group": "RAMAL"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 10.84288705249585,
-			"desc": 324.88,
+			"desc": "324.88",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 29.16637609722956,
-			"desc": 761.68,
+			"desc": "761.68",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "3HB COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
 			"name": "3HB COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
 			"val": 4.209218343353759,
-			"desc": 146.3,
+			"desc": "146.30",
 			"group": "3HB COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "POSTO DE LUBRIFICACAO COMODORO LTDA",
 			"name": "POSTO DE LUBRIFICACAO COMODORO LTDA",
 			"val": 15.962073491248903,
-			"desc": 452.37,
+			"desc": "452.37",
 			"group": "POSTO DE LUBRIFICACAO COMODORO LTDA"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.070037886581901,
-			"desc": 198.76,
+			"desc": "198.76",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.916144077321771,
-			"desc": 107.94,
+			"desc": "107.94",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -391,7 +392,7 @@
 			"id": "POSTO PALACIO GUANABARA LTDA",
 			"name": "POSTO PALACIO GUANABARA LTDA",
 			"val": 12.001229634435242,
-			"desc": 354.28,
+			"desc": "354.28",
 			"group": "POSTO PALACIO GUANABARA LTDA"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 18.494250961759196,
-			"desc": 513.49,
+			"desc": "513.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 19.14497298121653,
-			"desc": 529.03,
+			"desc": "529.03",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"name": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"val": 1.0748432434589845,
-			"desc": 48.09,
+			"desc": "48.09",
 			"group": "POSTO DE GASOLINA DAS AMERICAS LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "Agenda em Foco Empresa de Comunicação - EIRELI - ME",
 			"name": "Agenda em Foco Empresa de Comunicação - EIRELI - ME",
 			"val": 1132.9532328025637,
-			"desc": 19840,
+			"desc": "19840.00",
 			"group": "Agenda em Foco Empresa de Comunicação - EIRELI - ME"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "POSTO DE GASOLINA ARTE MODERNA LTDA",
 			"name": "POSTO DE GASOLINA ARTE MODERNA LTDA",
 			"val": 2.3066281018439465,
-			"desc": 89.04,
+			"desc": "89.04",
 			"group": "POSTO DE GASOLINA ARTE MODERNA LTDA"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 2.4709244623005384,
-			"desc": 94.19999999999999,
+			"desc": "94.20",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "POSTO GNV SELECAO LTDA",
 			"name": "POSTO GNV SELECAO LTDA",
 			"val": 0.8417768147032092,
-			"desc": 39.64,
+			"desc": "39.64",
 			"group": "POSTO GNV SELECAO LTDA"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "ADM PETROLEO E DERIVADOS LTDA",
 			"name": "ADM PETROLEO E DERIVADOS LTDA",
 			"val": 5.073456699967119,
-			"desc": 170.99,
+			"desc": "170.99",
 			"group": "ADM PETROLEO E DERIVADOS LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "BOX SERVICE COPIADORA LTDA",
 			"name": "BOX SERVICE COPIADORA LTDA",
 			"val": 0.6245701973429355,
-			"desc": 31.4,
+			"desc": "31.40",
 			"group": "BOX SERVICE COPIADORA LTDA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 1.5235042426419019,
-			"desc": 63.58,
+			"desc": "63.58",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 10.243736274807484,
-			"desc": 309.52,
+			"desc": "309.52",
 			"group": "Oi S.A"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 8.840342210218896,
-			"desc": 273.08,
+			"desc": "273.08",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "ATLT PARTICIPACOES LTDA",
 			"name": "ATLT PARTICIPACOES LTDA",
 			"val": 1061.684517330193,
-			"desc": 18703.46,
+			"desc": "18703.46",
 			"group": "ATLT PARTICIPACOES LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "Posto de Gasolina Bracarense Ltda.",
 			"name": "Posto de Gasolina Bracarense Ltda.",
 			"val": 1.968466594221953,
-			"desc": 78.24,
+			"desc": "78.24",
 			"group": "Posto de Gasolina Bracarense Ltda."
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"name": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"val": 4.1367676979910755,
-			"desc": 144.2,
+			"desc": "144.20",
 			"group": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "POSTO DE GASOLINA DUZENTOS LTDA",
 			"name": "POSTO DE GASOLINA DUZENTOS LTDA",
 			"val": 1.744098860637246,
-			"desc": 70.92,
+			"desc": "70.92",
 			"group": "POSTO DE GASOLINA DUZENTOS LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "AUTO POSTO GIROMANILHA LTDA",
 			"name": "AUTO POSTO GIROMANILHA LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "AUTO POSTO GIROMANILHA LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 3.6963653375156276,
-			"desc": 131.32,
+			"desc": "131.32",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "AUTO POSTO VIA IGUACU LTDA",
 			"name": "AUTO POSTO VIA IGUACU LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO VIA IGUACU LTDA"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "V3R BAR E RESTAURANTE EVENTOS LTDA",
 			"name": "V3R BAR E RESTAURANTE EVENTOS LTDA",
 			"val": 1.2687211880929155,
-			"desc": 54.89,
+			"desc": "54.89",
 			"group": "V3R BAR E RESTAURANTE EVENTOS LTDA"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A",
 			"name": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A",
 			"val": 29.28625530083227,
-			"desc": 764.4,
+			"desc": "764.40",
 			"group": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.328152965115487,
-			"desc": 56.94,
+			"desc": "56.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "AUTO POSTO AVENIDA CENTRAL DE IRAJA LTDA",
 			"name": "AUTO POSTO AVENIDA CENTRAL DE IRAJA LTDA",
 			"val": 1.130188692422516,
-			"desc": 50.05,
+			"desc": "50.05",
 			"group": "AUTO POSTO AVENIDA CENTRAL DE IRAJA LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "POSTO DE GASOLINA FHC LTDA",
 			"name": "POSTO DE GASOLINA FHC LTDA",
 			"val": 0.9943614010685031,
-			"desc": 45.21,
+			"desc": "45.21",
 			"group": "POSTO DE GASOLINA FHC LTDA"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"name": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"val": 2.6588363702668834,
-			"desc": 100.04,
+			"desc": "100.04",
 			"group": "AUTO POSTO ATERRO DO FLAMENGO LTDA"
 		},
 		{
@@ -881,7 +882,7 @@
 			"id": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA",
 			"name": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA",
 			"val": 0.8797266808486351,
-			"desc": 41.04,
+			"desc": "41.04",
 			"group": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "POSTO DE GASOLINA SHOW DE BOLA LTDA.",
 			"name": "POSTO DE GASOLINA SHOW DE BOLA LTDA.",
 			"val": 0.6343348025522207,
-			"desc": 31.78,
+			"desc": "31.78",
 			"group": "POSTO DE GASOLINA SHOW DE BOLA LTDA."
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "TAXI MOURISCO CENTER DE BOTAFOGO",
 			"name": "TAXI MOURISCO CENTER DE BOTAFOGO",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "TAXI MOURISCO CENTER DE BOTAFOGO"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"name": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "AUTO POSTO Z+Z 307 NORTE LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "POSTO RETIRO DOS BANDEIRANTES LTDA.",
 			"name": "POSTO RETIRO DOS BANDEIRANTES LTDA.",
 			"val": 6.329294622262644,
-			"desc": 205.88,
+			"desc": "205.88",
 			"group": "POSTO RETIRO DOS BANDEIRANTES LTDA."
 		},
 		{

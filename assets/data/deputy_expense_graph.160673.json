@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GIOVANI CHERINI"
+			"name": "GIOVANI CHERINI",
+			"desc": "44687.65"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DOS EUCALIPTOS LTDA",
 			"name": "POSTO DOS EUCALIPTOS LTDA",
 			"val": 7.777905180222519,
-			"desc": 245,
+			"desc": "245.00",
 			"group": "POSTO DOS EUCALIPTOS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 82.27496076174849,
-			"desc": 1889.81,
+			"desc": "1889.81",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "MATRIZ LOCAÇAO DE VEÍCULOS E SERVIÇOS LTDA ME",
 			"name": "MATRIZ LOCAÇAO DE VEÍCULOS E SERVIÇOS LTDA ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "MATRIZ LOCAÇAO DE VEÍCULOS E SERVIÇOS LTDA ME"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 15.693430242739943,
-			"desc": 445.82,
+			"desc": "445.82",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 24.724064142200103,
-			"desc": 659.93,
+			"desc": "659.93",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -154,7 +155,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 17.585160708705903,
-			"desc": 491.67,
+			"desc": "491.67",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -173,7 +174,7 @@
 			"id": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"name": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"val": 10.210706631091096,
-			"desc": 308.67,
+			"desc": "308.67",
 			"group": "DUDUSAN RESTAURANTE E FAST FOOD LTDA"
 		},
 		{
@@ -204,7 +205,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 616.3045195296356,
-			"desc": 11429.57,
+			"desc": "11429.57",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "ELF Locadora de Veículos Ltda",
 			"name": "ELF Locadora de Veículos Ltda",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "ELF Locadora de Veículos Ltda"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 18.269179892207394,
-			"desc": 508.1,
+			"desc": "508.10",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 61.18018753622903,
-			"desc": 1455.6399999999999,
+			"desc": "1455.64",
 			"group": "CEEE"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "Empresa Jornalistica Caldas Junior Ltda - Matriz",
 			"name": "Empresa Jornalistica Caldas Junior Ltda - Matriz",
 			"val": 32.58631657341721,
-			"desc": 838.8,
+			"desc": "838.80",
 			"group": "Empresa Jornalistica Caldas Junior Ltda - Matriz"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "Comercio de combustiveis Florestal LTDA",
 			"name": "Comercio de combustiveis Florestal LTDA",
 			"val": 11.101241210331047,
-			"desc": 331.47,
+			"desc": "331.47",
 			"group": "Comercio de combustiveis Florestal LTDA"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "RESTAURANTE BENNINGOBBI EIRELE ME",
 			"name": "RESTAURANTE BENNINGOBBI EIRELE ME",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "RESTAURANTE BENNINGOBBI EIRELE ME"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "ROVIN POSTOS DE SERVICOS LTDA",
 			"name": "ROVIN POSTOS DE SERVICOS LTDA",
 			"val": 29.87057896352662,
-			"desc": 777.64,
+			"desc": "777.64",
 			"group": "ROVIN POSTOS DE SERVICOS LTDA"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "ROJANE MARIA FERRONATTO",
 			"name": "ROJANE MARIA FERRONATTO",
 			"val": 0.7339018798576548,
-			"desc": 35.6,
+			"desc": "35.60",
 			"group": "ROJANE MARIA FERRONATTO"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS SIMAO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS SIMAO LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "COMERCIAL DE COMBUSTIVEIS SIMAO LTDA"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.8296387665686364,
-			"desc": 39.19,
+			"desc": "39.19",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "telefonica brasil sa",
 			"name": "telefonica brasil sa",
 			"val": 19.276779804157723,
-			"desc": 532.1700000000001,
+			"desc": "532.17",
 			"group": "telefonica brasil sa"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 14.235562030539404,
-			"desc": 410.03,
+			"desc": "410.03",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.5104874417806124,
-			"desc": 125.82,
+			"desc": "125.82",
 			"group": "RAMAL"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "RESTAURANTE RIMA SABORES EIRELI",
 			"name": "RESTAURANTE RIMA SABORES EIRELI",
 			"val": 1.784553522242696,
-			"desc": 72.25,
+			"desc": "72.25",
 			"group": "RESTAURANTE RIMA SABORES EIRELI"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 47.24547110504477,
-			"desc": 1160.23,
+			"desc": "1160.23",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "POSTO RADAR 4 ABAST DE COMB EIRELI",
 			"name": "POSTO RADAR 4 ABAST DE COMB EIRELI",
 			"val": 5.195219468690237,
-			"desc": 174.42,
+			"desc": "174.42",
 			"group": "POSTO RADAR 4 ABAST DE COMB EIRELI"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "COMERCIAL DE COMBUST&Iacute;VEIS RAMIRO LTDA.",
 			"name": "COMERCIAL DE COMBUST&Iacute;VEIS RAMIRO LTDA.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMERCIAL DE COMBUST&Iacute;VEIS RAMIRO LTDA."
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06",
 			"val": 6.840586739890988,
-			"desc": 219.81,
+			"desc": "219.81",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 4.6390880727885655,
-			"desc": 158.66,
+			"desc": "158.66",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "R2C COMUNICACAO E MERKETING LTDA",
 			"name": "R2C COMUNICACAO E MERKETING LTDA",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "R2C COMUNICACAO E MERKETING LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "Coop. Triticola de Espumoso Ltda",
 			"name": "Coop. Triticola de Espumoso Ltda",
 			"val": 1.076812038132786,
-			"desc": 48.16,
+			"desc": "48.16",
 			"group": "Coop. Triticola de Espumoso Ltda"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 10.283778479240217,
-			"desc": 310.55,
+			"desc": "310.55",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.2216446218175651,
-			"desc": 14.4,
+			"desc": "14.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "TDA COM. COMB. LTDA",
 			"name": "TDA COM. COMB. LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "TDA COM. COMB. LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 62.18965702334824,
-			"desc": 1476.74,
+			"desc": "1476.74",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA- GALO",
 			"name": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA- GALO",
 			"val": 3.888696713164008,
-			"desc": 136.97,
+			"desc": "136.97",
 			"group": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA- GALO"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "Promotora de Garagens Ltda - EPP",
 			"name": "Promotora de Garagens Ltda - EPP",
 			"val": 82.77755614445915,
-			"desc": 1900,
+			"desc": "1900.00",
 			"group": "Promotora de Garagens Ltda - EPP"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA - IMIGRANTES",
 			"name": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA - IMIGRANTES",
 			"val": 5.139081673735464,
-			"desc": 172.84,
+			"desc": "172.84",
 			"group": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA - IMIGRANTES"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP",
 			"name": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "AUTOSUL LOCADORA DE VEÍCULOS EIRELI - EPP"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "EOF Comunicação e Marketing Ltda",
 			"name": "EOF Comunicação e Marketing Ltda",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "EOF Comunicação e Marketing Ltda"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "RADIO SOLEDADE LTDA",
 			"name": "RADIO SOLEDADE LTDA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "RADIO SOLEDADE LTDA"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
 			"name": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
 			"val": 36.552145539496266,
-			"desc": 927.1,
+			"desc": "927.10",
 			"group": "RBS ZERO HORA EDITORA JORNALISTICA S-A"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "Bona Imóveis",
 			"name": "Bona Imóveis",
 			"val": 573.6967464051678,
-			"desc": 10713.57,
+			"desc": "10713.57",
 			"group": "Bona Imóveis"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 3.6512926624802278,
-			"desc": 129.99,
+			"desc": "129.99",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 80",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 80",
 			"val": 4.933373650841746,
-			"desc": 167.03,
+			"desc": "167.03",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 80"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "POSTO RUFFUS LTDA",
 			"name": "POSTO RUFFUS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO RUFFUS LTDA"
 		},
 		{

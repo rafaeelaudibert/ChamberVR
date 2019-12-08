@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RICARDO TEOBALDO"
+			"name": "RICARDO TEOBALDO",
+			"desc": "110183.54"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Telefonica Brasil S.A",
 			"name": "Telefonica Brasil S.A",
 			"val": 98.84074259416165,
-			"desc": 2222.54,
+			"desc": "2222.54",
 			"group": "Telefonica Brasil S.A"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"name": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO ARCO IRIS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "Companhia Energética de Pernambuco",
 			"name": "Companhia Energética de Pernambuco",
 			"val": 68.27347161798994,
-			"desc": 1603.16,
+			"desc": "1603.16",
 			"group": "Companhia Energética de Pernambuco"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1058.605050468748,
-			"desc": 18654.21,
+			"desc": "18654.21",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -279,7 +280,7 @@
 			"id": "RC LINS E MELLO E CIA",
 			"name": "RC LINS E MELLO E CIA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "RC LINS E MELLO E CIA"
 		},
 		{
@@ -292,7 +293,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 21.81139428849144,
-			"desc": 592.0799999999999,
+			"desc": "592.08",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 23.81634655422972,
-			"desc": 638.89,
+			"desc": "638.89",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 40.66946940082877,
-			"desc": 1017.65,
+			"desc": "1017.65",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "POSTO RECH LTDA",
 			"name": "POSTO RECH LTDA",
 			"val": 27.33653691742946,
-			"desc": 720,
+			"desc": "720.00",
 			"group": "POSTO RECH LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "RG DE BARROS VASCONCELOS BEZER",
 			"name": "RG DE BARROS VASCONCELOS BEZER",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "RG DE BARROS VASCONCELOS BEZER"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 28.16241353055512,
-			"desc": 738.85,
+			"desc": "738.85",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "AUTO POSTO BOA VIAGEM EIRELLI",
 			"name": "AUTO POSTO BOA VIAGEM EIRELLI",
 			"val": 37.197285907025474,
-			"desc": 941.36,
+			"desc": "941.36",
 			"group": "AUTO POSTO BOA VIAGEM EIRELLI"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "A DA S PEREIRA EIRELI PP",
 			"name": "A DA S PEREIRA EIRELI PP",
 			"val": 2179.5421371990333,
-			"desc": 36000,
+			"desc": "36000.00",
 			"group": "A DA S PEREIRA EIRELI PP"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "POSTO ILHEUS LTDA",
 			"name": "POSTO ILHEUS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO ILHEUS LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
 			"name": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "BASE SOLUÇÕES DE INTEGRAÇÃO EM TECNOLOGIA E INFORMATICA LTDA"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 35.01009040396302,
-			"desc": 892.9000000000001,
+			"desc": "892.90",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "T&D SERVIÇOS E LOCAÇÕES LTDA",
 			"name": "T&D SERVIÇOS E LOCAÇÕES LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "T&D SERVIÇOS E LOCAÇÕES LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "DELTTA COMBUSTIVEIS LTDA",
 			"name": "DELTTA COMBUSTIVEIS LTDA",
 			"val": 6.59033969397348,
-			"desc": 213.01,
+			"desc": "213.01",
 			"group": "DELTTA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "GRAPEL GRAVATA PETROLEO LTDA",
 			"name": "GRAPEL GRAVATA PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "GRAPEL GRAVATA PETROLEO LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9169168878308447,
-			"desc": 76.57,
+			"desc": "76.57",
 			"group": "RAMAL"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "BIONE REVENDEDORA DE PETROLEO",
 			"name": "BIONE REVENDEDORA DE PETROLEO",
 			"val": 601.1286020944946,
-			"desc": 11175.060000000001,
+			"desc": "11175.06",
 			"group": "BIONE REVENDEDORA DE PETROLEO"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 9.766337115358185,
-			"desc": 297.2,
+			"desc": "297.20",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 74.12996593595956,
-			"desc": 1723.74,
+			"desc": "1723.74",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 6.705005770501404,
-			"desc": 216.13,
+			"desc": "216.13",
 			"group": "telefonia Brasil S/A"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"name": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"val": 4.697605245786992,
-			"desc": 160.33,
+			"desc": "160.33",
 			"group": "NVM COMERCIO E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.7694028633880517,
-			"desc": 36.94,
+			"desc": "36.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "AUTO POSTO MADAGASCAR LTDA",
 			"name": "AUTO POSTO MADAGASCAR LTDA",
 			"val": 6.482530245514228,
-			"desc": 210.07,
+			"desc": "210.07",
 			"group": "AUTO POSTO MADAGASCAR LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 1.6089057694975502,
-			"desc": 66.44,
+			"desc": "66.44",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.3475998490906201,
-			"desc": 20.08,
+			"desc": "20.08",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{

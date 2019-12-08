@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "WLADIMIR GAROTINHO"
+			"name": "WLADIMIR GAROTINHO",
+			"desc": "54598.41"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO GRAFFITI DE CAMPOS LTDA",
 			"name": "POSTO GRAFFITI DE CAMPOS LTDA",
 			"val": 17.932817592036837,
-			"desc": 500.03,
+			"desc": "500.03",
 			"group": "POSTO GRAFFITI DE CAMPOS LTDA"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "POSTO DE LUBRIFICACAO COMODORO LTDA",
 			"name": "POSTO DE LUBRIFICACAO COMODORO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE LUBRIFICACAO COMODORO LTDA"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 19.616020727571577,
-			"desc": 540.2400000000001,
+			"desc": "540.24",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"name": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"val": 203.2771302756557,
-			"desc": 4219.83,
+			"desc": "4219.83",
 			"group": "PAULO OCTAVIO HOTEIS E TUR. LTDA."
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "MOTO TAXI CAMPISTA LTDA",
 			"name": "MOTO TAXI CAMPISTA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MOTO TAXI CAMPISTA LTDA"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1463.7194827011192,
-			"desc": 25042.90999999999,
+			"desc": "25042.91",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -401,7 +402,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 255.67736065805815,
-			"desc": 5180.34,
+			"desc": "5180.34",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "CAMPOS GAROUPA LTDA",
 			"name": "CAMPOS GAROUPA LTDA",
 			"val": 6.1176292568481765,
-			"desc": 200.07,
+			"desc": "200.07",
 			"group": "CAMPOS GAROUPA LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 106.44926418907977,
-			"desc": 2373.4,
+			"desc": "2373.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"name": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"val": 4.514684845162671,
-			"desc": 155.10000000000002,
+			"desc": "155.10",
 			"group": "MANHATTAN HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.0866648016484748,
-			"desc": 48.51,
+			"desc": "48.51",
 			"group": "RAMAL"
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"name": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.200251707078746,
-			"desc": 85.67,
+			"desc": "85.67",
 			"group": "MIT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "PATROPI DE CASIMIRO ALIMENTOS LTDA",
 			"name": "PATROPI DE CASIMIRO ALIMENTOS LTDA",
 			"val": 0.5635257954347984,
-			"desc": 29,
+			"desc": "29.00",
 			"group": "PATROPI DE CASIMIRO ALIMENTOS LTDA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "A3 Serviços de Publicidade e Comunicação LTDA",
 			"name": "A3 Serviços de Publicidade e Comunicação LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "A3 Serviços de Publicidade e Comunicação LTDA"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 5.443483384785028,
-			"desc": 181.38,
+			"desc": "181.38",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "PANTANAL-VEICULOS LTDA",
 			"name": "PANTANAL-VEICULOS LTDA",
 			"val": 32.639864939358176,
-			"desc": 840,
+			"desc": "840.00",
 			"group": "PANTANAL-VEICULOS LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "MSL COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "MSL COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "MSL COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "POSTO PARK TAMANDARE LTDA - ME",
 			"name": "POSTO PARK TAMANDARE LTDA - ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO PARK TAMANDARE LTDA - ME"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "ATRIUM COMERCIO DE ALIMENTOS LTDA ME",
 			"name": "ATRIUM COMERCIO DE ALIMENTOS LTDA ME",
 			"val": 0.6220049621560662,
-			"desc": 31.3,
+			"desc": "31.30",
 			"group": "ATRIUM COMERCIO DE ALIMENTOS LTDA ME"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "POSTO COMBUSTÍVEL GRUSSAÍ SOL E MAR",
 			"name": "POSTO COMBUSTÍVEL GRUSSAÍ SOL E MAR",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "POSTO COMBUSTÍVEL GRUSSAÍ SOL E MAR"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "JORGE RIBEIRO RANGEL",
 			"name": "JORGE RIBEIRO RANGEL",
 			"val": 213.0178654280516,
-			"desc": 4400,
+			"desc": "4400.00",
 			"group": "JORGE RIBEIRO RANGEL"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "SABOR RURAL",
 			"name": "SABOR RURAL",
 			"val": 0.5197320914006849,
-			"desc": 27.25,
+			"desc": "27.25",
 			"group": "SABOR RURAL"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.5466849954990942,
-			"desc": 28.33,
+			"desc": "28.33",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "POSTO WEB MAX DE COMBUSTIVEIS LTDA",
 			"name": "POSTO WEB MAX DE COMBUSTIVEIS LTDA",
 			"val": 2.658512888023484,
-			"desc": 100.03,
+			"desc": "100.03",
 			"group": "POSTO WEB MAX DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "OMEGA LOCADORA DE VEICULOS LTDA",
 			"name": "OMEGA LOCADORA DE VEICULOS LTDA",
 			"val": 58.28895568947835,
-			"desc": 1395,
+			"desc": "1395.00",
 			"group": "OMEGA LOCADORA DE VEICULOS LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{

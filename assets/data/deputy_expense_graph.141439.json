@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CHICO D'ANGELO"
+			"name": "CHICO D'ANGELO",
+			"desc": "41805.41"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 31.526339372126113,
-			"desc": 815,
+			"desc": "815.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 26.165092132428907,
-			"desc": 693.15,
+			"desc": "693.15",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "PROSERV SERVICOS LTDA",
 			"name": "PROSERV SERVICOS LTDA",
 			"val": 7.374112318427057,
-			"desc": 234.2,
+			"desc": "234.20",
 			"group": "PROSERV SERVICOS LTDA"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "Mata de Katende Producões Culturais",
 			"name": "Mata de Katende Producões Culturais",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "Mata de Katende Producões Culturais"
 		},
 		{
@@ -261,7 +262,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -292,7 +293,7 @@
 			"id": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"name": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"val": 6.931048762933898,
-			"desc": 222.26,
+			"desc": "222.26",
 			"group": "AUTO POSTO ATERRO DO FLAMENGO LTDA"
 		},
 		{
@@ -305,7 +306,7 @@
 			"id": "JR POSTO DE COMBUSTIVEIS",
 			"name": "JR POSTO DE COMBUSTIVEIS",
 			"val": 8.293306363040237,
-			"desc": 258.68,
+			"desc": "258.68",
 			"group": "JR POSTO DE COMBUSTIVEIS"
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "POSTO IATE COM. E SERV. LTDA",
 			"name": "POSTO IATE COM. E SERV. LTDA",
 			"val": 8.073134341077857,
-			"desc": 252.85,
+			"desc": "252.85",
 			"group": "POSTO IATE COM. E SERV. LTDA"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 8.00644235808081,
-			"desc": 251.08,
+			"desc": "251.08",
 			"group": "telefonia Brasil S/A"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "localiza rent car s/a",
 			"name": "localiza rent car s/a",
 			"val": 148.51275463714788,
-			"desc": 3189.9,
+			"desc": "3189.90",
 			"group": "localiza rent car s/a"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "Sifra ADM. de Imoveise COND. LTDA",
 			"name": "Sifra ADM. de Imoveise COND. LTDA",
 			"val": 39.17472622182653,
-			"desc": 984.9000000000001,
+			"desc": "984.90",
 			"group": "Sifra ADM. de Imoveise COND. LTDA"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA.",
 			"name": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA.",
 			"val": 74.93131915661785,
-			"desc": 1740.1599999999999,
+			"desc": "1740.16",
 			"group": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA."
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "TOP GLORIA",
 			"name": "TOP GLORIA",
 			"val": 8.546510135668196,
-			"desc": 265.36,
+			"desc": "265.36",
 			"group": "TOP GLORIA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 15.255367977452226,
-			"desc": 435.11,
+			"desc": "435.11",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "PREFEITURA MUNICIPAL DE NITEROI",
 			"name": "PREFEITURA MUNICIPAL DE NITEROI",
 			"val": 4.309208153282849,
-			"desc": 149.19,
+			"desc": "149.19",
 			"group": "PREFEITURA MUNICIPAL DE NITEROI"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "ALFREDO LUIZ MARTINS FONTES",
 			"name": "ALFREDO LUIZ MARTINS FONTES",
 			"val": 223.88049388330396,
-			"desc": 4600,
+			"desc": "4600.00",
 			"group": "ALFREDO LUIZ MARTINS FONTES"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 17.199377724442503,
-			"desc": 482.37,
+			"desc": "482.37",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 2.11838947259982,
-			"desc": 83.06,
+			"desc": "83.06",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "POSTO SANTA CLARA DE COPACABANA LTDA",
 			"name": "POSTO SANTA CLARA DE COPACABANA LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "POSTO SANTA CLARA DE COPACABANA LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 3.7126512984956275,
-			"desc": 131.8,
+			"desc": "131.80",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "CARLAN OLEO E COMBUSTIVEL LTDA ME",
 			"name": "CARLAN OLEO E COMBUSTIVEL LTDA ME",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CARLAN OLEO E COMBUSTIVEL LTDA ME"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "BERNARDINO E PEREIRA LTDA - ME",
 			"name": "BERNARDINO E PEREIRA LTDA - ME",
 			"val": 19.909159370492794,
-			"desc": 547.2,
+			"desc": "547.20",
 			"group": "BERNARDINO E PEREIRA LTDA - ME"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 148.51798744240247,
-			"desc": 3190,
+			"desc": "3190.00",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.392143033942021,
-			"desc": 151.57999999999998,
+			"desc": "151.58",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 41.799919538774894,
-			"desc": 1042.33,
+			"desc": "1042.33",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "AUTO POSTO NATU",
 			"name": "AUTO POSTO NATU",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "AUTO POSTO NATU"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "Real Toner Impressoras LTDA",
 			"name": "Real Toner Impressoras LTDA",
 			"val": 68.62367477687808,
-			"desc": 1610.4,
+			"desc": "1610.40",
 			"group": "Real Toner Impressoras LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "POSTO NOVO RIO LTDA",
 			"name": "POSTO NOVO RIO LTDA",
 			"val": 10.262394262540056,
-			"desc": 310,
+			"desc": "310.00",
 			"group": "POSTO NOVO RIO LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.7964430739663042,
-			"desc": 72.64,
+			"desc": "72.64",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 39.113699691993155,
-			"desc": 983.56,
+			"desc": "983.56",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "ALLPARK EMPREENDIMENTOS PARTICIPACÕES  E SERVIÇOS S/A",
 			"name": "ALLPARK EMPREENDIMENTOS PARTICIPACÕES  E SERVIÇOS S/A",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "ALLPARK EMPREENDIMENTOS PARTICIPACÕES  E SERVIÇOS S/A"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "TB COMERCIO DE ALIMENTOS LTDA",
 			"name": "TB COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "TB COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.9882561818263057,
-			"desc": 44.99,
+			"desc": "44.99",
 			"group": "RAMAL"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "MUNICIPIO DE NITEROI",
 			"name": "MUNICIPIO DE NITEROI",
 			"val": 4.309208153282849,
-			"desc": 149.19,
+			"desc": "149.19",
 			"group": "MUNICIPIO DE NITEROI"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 44.447538826325335,
-			"desc": 1099.85,
+			"desc": "1099.85",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "AMPLA ENERGIA E SERVIÇOS S.A",
 			"name": "AMPLA ENERGIA E SERVIÇOS S.A",
 			"val": 7.162150024523076,
-			"desc": 228.5,
+			"desc": "228.50",
 			"group": "AMPLA ENERGIA E SERVIÇOS S.A"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 52.236893700725616,
-			"desc": 1267,
+			"desc": "1267.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "GRÁFICA FENIX SERVIÇOS EIRELI - ME",
 			"name": "GRÁFICA FENIX SERVIÇOS EIRELI - ME",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "GRÁFICA FENIX SERVIÇOS EIRELI - ME"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.8104821741114279,
-			"desc": 73.1,
+			"desc": "73.10",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "AUTO POSTO SENTIDO DO MAR LTDA",
 			"name": "AUTO POSTO SENTIDO DO MAR LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO SENTIDO DO MAR LTDA"
 		},
 		{

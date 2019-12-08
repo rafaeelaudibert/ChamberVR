@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO GANIME"
+			"name": "PAULO GANIME",
+			"desc": "64403.75"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 1484.4536921518065,
-			"desc": 25365.590000000007,
+			"desc": "25365.59",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 323.5576321054923,
-			"desc": 6397.78,
+			"desc": "6397.78",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "JOSE RENATO FREITAS BAPTISTA 10713613769",
 			"name": "JOSE RENATO FREITAS BAPTISTA 10713613769",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JOSE RENATO FREITAS BAPTISTA 10713613769"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "Nauweb Comunicação e Internet Ltda",
 			"name": "Nauweb Comunicação e Internet Ltda",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "Nauweb Comunicação e Internet Ltda"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "TRANSFORMANDO TECNOLOGIA LTDA.",
 			"name": "TRANSFORMANDO TECNOLOGIA LTDA.",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "TRANSFORMANDO TECNOLOGIA LTDA."
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 97.49166089717433,
-			"desc": 2195.6699999999996,
+			"desc": "2195.67",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "TAM LINHAS AÉREAS S/A",
 			"name": "TAM LINHAS AÉREAS S/A",
 			"val": 166.73285682177809,
-			"desc": 3536.09,
+			"desc": "3536.09",
 			"group": "TAM LINHAS AÉREAS S/A"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 168.8007216421663,
-			"desc": 3575.1400000000003,
+			"desc": "3575.14",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 505.24254945450826,
-			"desc": 9553.23,
+			"desc": "9553.23",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 186.09643117473675,
-			"desc": 3900,
+			"desc": "3900.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "POSTO VICOM LTDA",
 			"name": "POSTO VICOM LTDA",
 			"val": 4.815643500527576,
-			"desc": 163.69,
+			"desc": "163.69",
 			"group": "POSTO VICOM LTDA"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.388483046774457,
-			"desc": 207.49999999999997,
+			"desc": "207.50",
 			"group": "RAMAL"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "TRANSFORMANDO TECNOLOGIA LTDA",
 			"name": "TRANSFORMANDO TECNOLOGIA LTDA",
 			"val": 149.0413592291165,
-			"desc": 3200,
+			"desc": "3200.00",
 			"group": "TRANSFORMANDO TECNOLOGIA LTDA"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 134.64745559184516,
-			"desc": 2923.67,
+			"desc": "2923.67",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 17.97570700113589,
-			"desc": 501.06,
+			"desc": "501.06",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 35.52688715741016,
-			"desc": 904.38,
+			"desc": "904.38",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 19.68167945935951,
-			"desc": 541.8,
+			"desc": "541.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "EXCLUSIVO POSTO E SERVIÇOS LTDA",
 			"name": "EXCLUSIVO POSTO E SERVIÇOS LTDA",
 			"val": 5.68644953203126,
-			"desc": 188.15,
+			"desc": "188.15",
 			"group": "EXCLUSIVO POSTO E SERVIÇOS LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "TRILHA DO TETROLEO COMB. E LUBRIF. LTDA",
 			"name": "TRILHA DO TETROLEO COMB. E LUBRIF. LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "TRILHA DO TETROLEO COMB. E LUBRIF. LTDA"
 		},
 		{

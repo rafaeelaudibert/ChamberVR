@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CLARISSA GAROTINHO"
+			"name": "CLARISSA GAROTINHO",
+			"desc": "88658.02"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 4621.796957111005,
-			"desc": 71640.29,
+			"desc": "71640.29",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 19.266281704667286,
-			"desc": 531.92,
+			"desc": "531.92",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "FRED RESTAURANTE LTDA",
 			"name": "FRED RESTAURANTE LTDA",
 			"val": 7.255016114268437,
-			"desc": 231,
+			"desc": "231.00",
 			"group": "FRED RESTAURANTE LTDA"
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "RESTAURANTE MADERO BRASILIA LT",
 			"name": "RESTAURANTE MADERO BRASILIA LT",
 			"val": 1.4000321077570248,
-			"desc": 59.4,
+			"desc": "59.40",
 			"group": "RESTAURANTE MADERO BRASILIA LT"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.583300025587264,
-			"desc": 97.69999999999999,
+			"desc": "97.70",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "POSTO DE LUBRIFICACAO SAO PEDRO LTDA",
 			"name": "POSTO DE LUBRIFICACAO SAO PEDRO LTDA",
 			"val": 4.165382002612453,
-			"desc": 145.03,
+			"desc": "145.03",
 			"group": "POSTO DE LUBRIFICACAO SAO PEDRO LTDA"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "SABORES DO BRASIL COMERCIO",
 			"name": "SABORES DO BRASIL COMERCIO",
 			"val": 0.6117625177209026,
-			"desc": 30.9,
+			"desc": "30.90",
 			"group": "SABORES DO BRASIL COMERCIO"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"name": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "OMEGA LOCADORA DE VEÍCULOS LTDA ME"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 13.050213378311053,
-			"desc": 380.6,
+			"desc": "380.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"name": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.6866773621987865,
-			"desc": 100.9,
+			"desc": "100.90",
 			"group": "MIT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.3660631014107685,
-			"desc": 58.24,
+			"desc": "58.24",
 			"group": "RAMAL"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 3.618807754603025,
-			"desc": 129.03,
+			"desc": "129.03",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 21.319060494830808,
-			"desc": 580.51,
+			"desc": "580.51",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 29.32284721860071,
-			"desc": 765.23,
+			"desc": "765.23",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "CESAR & MODESTO RESTAURANTE LTDA",
 			"name": "CESAR & MODESTO RESTAURANTE LTDA",
 			"val": 2.170401246267664,
-			"desc": 84.72,
+			"desc": "84.72",
 			"group": "CESAR & MODESTO RESTAURANTE LTDA"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 18.176991761193886,
-			"desc": 505.89,
+			"desc": "505.89",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "POSTO DE GASOLINA ARTE MODERNA LTDA",
 			"name": "POSTO DE GASOLINA ARTE MODERNA LTDA",
 			"val": 0.589842958993984,
-			"desc": 30.04,
+			"desc": "30.04",
 			"group": "POSTO DE GASOLINA ARTE MODERNA LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "AUTO BENDIX VOLKS LTDA",
 			"name": "AUTO BENDIX VOLKS LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "AUTO BENDIX VOLKS LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
 			"name": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
 			"val": 1.8609765005852332,
-			"desc": 74.75,
+			"desc": "74.75",
 			"group": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "GZ COMERCIO DE ALIMENTOS LTDA EPP",
 			"name": "GZ COMERCIO DE ALIMENTOS LTDA EPP",
 			"val": 0.8949843341094206,
-			"desc": 41.6,
+			"desc": "41.60",
 			"group": "GZ COMERCIO DE ALIMENTOS LTDA EPP"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "PANELINHAS DO BRASIL COZINHA E RESTAURANTE GBOJ LT",
 			"name": "PANELINHAS DO BRASIL COZINHA E RESTAURANTE GBOJ LT",
 			"val": 0.5359247630107077,
-			"desc": 27.9,
+			"desc": "27.90",
 			"group": "PANELINHAS DO BRASIL COZINHA E RESTAURANTE GBOJ LT"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "GZ COMERCIO DE ALIMENTOS LTDA",
 			"name": "GZ COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.9608599648801642,
-			"desc": 44,
+			"desc": "44.00",
 			"group": "GZ COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 18.69830759939871,
-			"desc": 518.37,
+			"desc": "518.37",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{

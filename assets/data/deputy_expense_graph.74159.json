@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ODAIR CUNHA"
+			"name": "ODAIR CUNHA",
+			"desc": "60606.35"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "RAJA RENT A CAR LTDA",
 			"name": "RAJA RENT A CAR LTDA",
 			"val": 339.11703923765157,
-			"desc": 6673.33,
+			"desc": "6673.33",
 			"group": "RAJA RENT A CAR LTDA"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 450.07601150128704,
-			"desc": 8607.99,
+			"desc": "8607.99",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "Autopista Fernão Dias",
 			"name": "Autopista Fernão Dias",
 			"val": 0.273530162834302,
-			"desc": 16.8,
+			"desc": "16.80",
 			"group": "Autopista Fernão Dias"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.9175330150941938,
-			"desc": 76.59,
+			"desc": "76.59",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "POSTO 3 LTDA",
 			"name": "POSTO 3 LTDA",
 			"val": 13.947234417163006,
-			"desc": 402.9,
+			"desc": "402.90",
 			"group": "POSTO 3 LTDA"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "MARINS MARINS E CIA LTDA",
 			"name": "MARINS MARINS E CIA LTDA",
 			"val": 15.602094809505411,
-			"desc": 443.59000000000003,
+			"desc": "443.59",
 			"group": "MARINS MARINS E CIA LTDA"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "AUTO POSTO LOPEZ LTDA",
 			"name": "AUTO POSTO LOPEZ LTDA",
 			"val": 301.23863320893435,
-			"desc": 6000.37,
+			"desc": "6000.37",
 			"group": "AUTO POSTO LOPEZ LTDA"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "AUTO POSTO SERV. NOVA OPÇÃO LTDA",
 			"name": "AUTO POSTO SERV. NOVA OPÇÃO LTDA",
 			"val": 12.194099545722311,
-			"desc": 359.14,
+			"desc": "359.14",
 			"group": "AUTO POSTO SERV. NOVA OPÇÃO LTDA"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.12342124551085625,
-			"desc": 9.5,
+			"desc": "9.50",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.2711914591394504,
-			"desc": 87.92,
+			"desc": "87.92",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 28.47025502041331,
-			"desc": 745.86,
+			"desc": "745.86",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "COM. DER. PETRÓLEO NOVO HORIZONTE LTDA- EPP",
 			"name": "COM. DER. PETRÓLEO NOVO HORIZONTE LTDA- EPP",
 			"val": 19.31625872059729,
-			"desc": 533.11,
+			"desc": "533.11",
 			"group": "COM. DER. PETRÓLEO NOVO HORIZONTE LTDA- EPP"
 		},
 		{
@@ -391,7 +392,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 38.4022027751557,
-			"desc": 967.92,
+			"desc": "967.92",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 487.73756624683386,
-			"desc": 9254.34,
+			"desc": "9254.34",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "locarnew veiculos ltda",
 			"name": "locarnew veiculos ltda",
 			"val": 881.4906544785555,
-			"desc": 15800,
+			"desc": "15800.00",
 			"group": "locarnew veiculos ltda"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "REDE DOM PEDRO DE POSTOS LTDA.",
 			"name": "REDE DOM PEDRO DE POSTOS LTDA.",
 			"val": 4.933020586230175,
-			"desc": 167.02,
+			"desc": "167.02",
 			"group": "REDE DOM PEDRO DE POSTOS LTDA."
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "HOTEL DIAS LTDA",
 			"name": "HOTEL DIAS LTDA",
 			"val": 10.652067961455824,
-			"desc": 320,
+			"desc": "320.00",
 			"group": "HOTEL DIAS LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.2538247291212487,
-			"desc": 15.899999999999999,
+			"desc": "15.90",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 76.38206962176466,
-			"desc": 1769.8400000000001,
+			"desc": "1769.84",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "LAZARO ROSA DOS SANTOS",
 			"name": "LAZARO ROSA DOS SANTOS",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "LAZARO ROSA DOS SANTOS"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "brito & rodrigues ltda",
 			"name": "brito & rodrigues ltda",
 			"val": 7.810929541599974,
-			"desc": 245.88,
+			"desc": "245.88",
 			"group": "brito & rodrigues ltda"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "AUTO POSTO J LIMA (Fantasia: Posto Maranata)",
 			"name": "AUTO POSTO J LIMA (Fantasia: Posto Maranata)",
 			"val": 2.660130356919444,
-			"desc": 100.08000000000001,
+			"desc": "100.08",
 			"group": "AUTO POSTO J LIMA (Fantasia: Posto Maranata)"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "COPASA",
 			"name": "COPASA",
 			"val": 1.804070941072759,
-			"desc": 72.89,
+			"desc": "72.89",
 			"group": "COPASA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "ADEGA EVENTOS EIRELI",
 			"name": "ADEGA EVENTOS EIRELI",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "ADEGA EVENTOS EIRELI"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "iara motta",
 			"name": "iara motta",
 			"val": 58.967508847000474,
-			"desc": 1409.26,
+			"desc": "1409.26",
 			"group": "iara motta"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "Hotelaria Accor Brasil S/A",
 			"name": "Hotelaria Accor Brasil S/A",
 			"val": 11.221463326714407,
-			"desc": 334.53,
+			"desc": "334.53",
 			"group": "Hotelaria Accor Brasil S/A"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.432934076600233,
-			"desc": 23.7,
+			"desc": "23.70",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.1140468699623096,
-			"desc": 49.480000000000004,
+			"desc": "49.48",
 			"group": "RAMAL"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 50.16869336637758,
-			"desc": 1222.9,
+			"desc": "1222.90",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.03338423211958382,
-			"desc": 4.1,
+			"desc": "4.10",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "COOPERATIVA DE TRANSPORTE INDIVIDUAL DE TAXI ESPECIAL DE CONFINS",
 			"name": "COOPERATIVA DE TRANSPORTE INDIVIDUAL DE TAXI ESPECIAL DE CONFINS",
 			"val": 4.095446404637238,
-			"desc": 143,
+			"desc": "143.00",
 			"group": "COOPERATIVA DE TRANSPORTE INDIVIDUAL DE TAXI ESPECIAL DE CONFINS"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "AUTO POSTO ESPERANÇA LTDA",
 			"name": "AUTO POSTO ESPERANÇA LTDA",
 			"val": 8.100283770242891,
-			"desc": 253.57,
+			"desc": "253.57",
 			"group": "AUTO POSTO ESPERANÇA LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "AUTO POSTO IRMÃOS FARIA",
 			"name": "AUTO POSTO IRMÃOS FARIA",
 			"val": 6.7373946409423935,
-			"desc": 217.01,
+			"desc": "217.01",
 			"group": "AUTO POSTO IRMÃOS FARIA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "AUTO POSTO ESPERANCA LTDA",
 			"name": "AUTO POSTO ESPERANCA LTDA",
 			"val": 7.559956424020105,
-			"desc": 239.18,
+			"desc": "239.18",
 			"group": "AUTO POSTO ESPERANCA LTDA"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.03295939636248,
-			"desc": 80.32,
+			"desc": "80.32",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "POSTO COELHO LTDA",
 			"name": "POSTO COELHO LTDA",
 			"val": 7.232713949081042,
-			"desc": 230.4,
+			"desc": "230.40",
 			"group": "POSTO COELHO LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "telefonica brasil sa",
 			"name": "telefonica brasil sa",
 			"val": 50.16869336637758,
-			"desc": 1222.9,
+			"desc": "1222.90",
 			"group": "telefonica brasil sa"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "Auto Posto Brandão III Ltda-ME",
 			"name": "Auto Posto Brandão III Ltda-ME",
 			"val": 2.658512888023484,
-			"desc": 100.03,
+			"desc": "100.03",
 			"group": "Auto Posto Brandão III Ltda-ME"
 		},
 		{

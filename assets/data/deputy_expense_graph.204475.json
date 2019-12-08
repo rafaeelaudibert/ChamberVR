@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "OTACI NASCIMENTO"
+			"name": "OTACI NASCIMENTO",
+			"desc": "150405.77"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1430.7837503709643,
-			"desc": 24529.570000000007,
+			"desc": "24529.57",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 75.31816292035568,
-			"desc": 1748.0799999999997,
+			"desc": "1748.08",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 71.38972264840847,
-			"desc": 1667.45,
+			"desc": "1667.45",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "CINTHYA LARA GADELHA PADILHA",
 			"name": "CINTHYA LARA GADELHA PADILHA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "CINTHYA LARA GADELHA PADILHA"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 20.28474965207492,
-			"desc": 556.1,
+			"desc": "556.10",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 83.64982979803426,
-			"desc": 1917.67,
+			"desc": "1917.67",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 366.85909456416624,
-			"desc": 7161.800000000001,
+			"desc": "7161.80",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "C V COMERCIO LTDA ME",
 			"name": "C V COMERCIO LTDA ME",
 			"val": 1582.2126893978293,
-			"desc": 26882.12,
+			"desc": "26882.12",
 			"group": "C V COMERCIO LTDA ME"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 10.06514937278902,
-			"desc": 304.92,
+			"desc": "304.92",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "REDE TROPICAL DE COMUNICAÇÃO LTDA",
 			"name": "REDE TROPICAL DE COMUNICAÇÃO LTDA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "REDE TROPICAL DE COMUNICAÇÃO LTDA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "PERIN LOCADORA DE VEÍCULOS LTDA",
 			"name": "PERIN LOCADORA DE VEÍCULOS LTDA",
 			"val": 2312.484193312062,
-			"desc": 38000,
+			"desc": "38000.00",
 			"group": "PERIN LOCADORA DE VEÍCULOS LTDA"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 14.338044462134114,
-			"desc": 412.56,
+			"desc": "412.56",
 			"group": "RAMAL"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 205.1481418426991,
-			"desc": 4254.5,
+			"desc": "4254.50",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "MUNICIPIO DE BOA VISTA",
 			"name": "MUNICIPIO DE BOA VISTA",
 			"val": 262.281664859964,
-			"desc": 5300,
+			"desc": "5300.00",
 			"group": "MUNICIPIO DE BOA VISTA"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 117.98067744232449,
-			"desc": 2600,
+			"desc": "2600.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{

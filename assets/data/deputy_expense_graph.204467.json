@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PROFESSORA ROSA NEIDE"
+			"name": "PROFESSORA ROSA NEIDE",
+			"desc": "40249.84"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 189.44658060518273,
-			"desc": 3962.58,
+			"desc": "3962.58",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 48.25363786321884,
-			"desc": 1181.89,
+			"desc": "1181.89",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "AUTO POSTO DRACENA LTDA",
 			"name": "AUTO POSTO DRACENA LTDA",
 			"val": 11.911671892452866,
-			"desc": 352.02,
+			"desc": "352.02",
 			"group": "AUTO POSTO DRACENA LTDA"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.2991124772155825,
-			"desc": 17.95,
+			"desc": "17.95",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "José Pérsio Rosa da Silva",
 			"name": "José Pérsio Rosa da Silva",
 			"val": 316.1967039755962,
-			"desc": 6267,
+			"desc": "6267.00",
 			"group": "José Pérsio Rosa da Silva"
 		},
 		{
@@ -142,7 +143,7 @@
 			"id": "LORIANA ANDRADE DA FONSECA",
 			"name": "LORIANA ANDRADE DA FONSECA",
 			"val": 69.26216524595509,
-			"desc": 1623.5899999999997,
+			"desc": "1623.59",
 			"group": "LORIANA ANDRADE DA FONSECA"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "AUTO POSTO VIA BRASIL LTDA",
 			"name": "AUTO POSTO VIA BRASIL LTDA",
 			"val": 10.8663777474256,
-			"desc": 325.48,
+			"desc": "325.48",
 			"group": "AUTO POSTO VIA BRASIL LTDA"
 		},
 		{
@@ -228,7 +229,7 @@
 			"id": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
 			"name": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
 			"val": 22.771256899102703,
-			"desc": 614.55,
+			"desc": "614.55",
 			"group": "COMERCIAL AMAZONIA DE PETROLEO LTDA"
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 17.687377100695066,
-			"desc": 494.13,
+			"desc": "494.13",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 10.366257418275207,
-			"desc": 312.66999999999996,
+			"desc": "312.67",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "PADRA E OLIVEIRA LTDA-ME",
 			"name": "PADRA E OLIVEIRA LTDA-ME",
 			"val": 2.7353382523341363,
-			"desc": 102.4,
+			"desc": "102.40",
 			"group": "PADRA E OLIVEIRA LTDA-ME"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 456.89994622684355,
-			"desc": 8725.45,
+			"desc": "8725.45",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 11.519566543746128,
-			"desc": 342.1,
+			"desc": "342.10",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.4790079879270477,
-			"desc": 62.08,
+			"desc": "62.08",
 			"group": "RAMAL"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "Castelo Branco Comercio de Combustiveis Ltda",
 			"name": "Castelo Branco Comercio de Combustiveis Ltda",
 			"val": 7.14396671758595,
-			"desc": 228.01,
+			"desc": "228.01",
 			"group": "Castelo Branco Comercio de Combustiveis Ltda"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "ZF INFORMATICA E PAPELARIA LTDA - EPP",
 			"name": "ZF INFORMATICA E PAPELARIA LTDA - EPP",
 			"val": 19.320039118845997,
-			"desc": 533.2,
+			"desc": "533.20",
 			"group": "ZF INFORMATICA E PAPELARIA LTDA - EPP"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "BRASTON HOTELS HOTELARIA E EVENTOS LTDA",
 			"name": "BRASTON HOTELS HOTELARIA E EVENTOS LTDA",
 			"val": 25.4785410717393,
-			"desc": 677.35,
+			"desc": "677.35",
 			"group": "BRASTON HOTELS HOTELARIA E EVENTOS LTDA"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "AUTO POSTO NORTAO ITAUBA LTDA",
 			"name": "AUTO POSTO NORTAO ITAUBA LTDA",
 			"val": 2.699965305722322,
-			"desc": 101.31,
+			"desc": "101.31",
 			"group": "AUTO POSTO NORTAO ITAUBA LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "GELLER AUTO POSTO LTDA",
 			"name": "GELLER AUTO POSTO LTDA",
 			"val": 2.5890991286972023,
-			"desc": 97.88,
+			"desc": "97.88",
 			"group": "GELLER AUTO POSTO LTDA"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "COMERCIO DERIVADOS DE PETROLEO BALDUINO",
 			"name": "COMERCIO DERIVADOS DE PETROLEO BALDUINO",
 			"val": 2.561731322483476,
-			"desc": 97.03,
+			"desc": "97.03",
 			"group": "COMERCIO DERIVADOS DE PETROLEO BALDUINO"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "AIGLAOIL SERVICOS AUTOMOTIVOS EIRELI - ME",
 			"name": "AIGLAOIL SERVICOS AUTOMOTIVOS EIRELI - ME",
 			"val": 12.782158353347937,
-			"desc": 373.9,
+			"desc": "373.90",
 			"group": "AIGLAOIL SERVICOS AUTOMOTIVOS EIRELI - ME"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "CM COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "CM COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 3.0691740751839336,
-			"desc": 112.59,
+			"desc": "112.59",
 			"group": "CM COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "DALETH VEICULOS LTDA EPP",
 			"name": "DALETH VEICULOS LTDA EPP",
 			"val": 123.1064318729325,
-			"desc": 2700,
+			"desc": "2700.00",
 			"group": "DALETH VEICULOS LTDA EPP"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "COMIDAS REGIONAIS DO BRASIL LTDA",
 			"name": "COMIDAS REGIONAIS DO BRASIL LTDA",
 			"val": 0.5584892436351303,
-			"desc": 28.8,
+			"desc": "28.80",
 			"group": "COMIDAS REGIONAIS DO BRASIL LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "LA ROCQUE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "LA ROCQUE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "LA ROCQUE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "Prefeitura Municipal de Cuiabá",
 			"name": "Prefeitura Municipal de Cuiabá",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "Prefeitura Municipal de Cuiabá"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 172.71651006218002,
-			"desc": 3648.9599999999996,
+			"desc": "3648.96",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 14.883945192864827,
-			"desc": 426,
+			"desc": "426.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "MANENTI E MANENTI LTDA",
 			"name": "MANENTI E MANENTI LTDA",
 			"val": 6.789701889394213,
-			"desc": 218.43,
+			"desc": "218.43",
 			"group": "MANENTI E MANENTI LTDA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.5990148954356846,
-			"desc": 66.11,
+			"desc": "66.11",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "AUTO POSTO POSITIVO LTDA",
 			"name": "AUTO POSTO POSITIVO LTDA",
 			"val": 7.628025320125683,
-			"desc": 241,
+			"desc": "241.00",
 			"group": "AUTO POSTO POSITIVO LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 65.99215186118374,
-			"desc": 1555.9,
+			"desc": "1555.90",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "LATAM AIRLINES GROUP S/A",
 			"name": "LATAM AIRLINES GROUP S/A",
 			"val": 22.840644619105024,
-			"desc": 616.17,
+			"desc": "616.17",
 			"group": "LATAM AIRLINES GROUP S/A"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "PETRUS COMERCIO DE COMBUSTIVEIS LTDA - ME",
 			"name": "PETRUS COMERCIO DE COMBUSTIVEIS LTDA - ME",
 			"val": 7.328676941276546,
-			"desc": 232.98,
+			"desc": "232.98",
 			"group": "PETRUS COMERCIO DE COMBUSTIVEIS LTDA - ME"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "TROPPO COMERCIO DE PRODUTOS ALIMENTICIOS EIRELI",
 			"name": "TROPPO COMERCIO DE PRODUTOS ALIMENTICIOS EIRELI",
 			"val": 0.7550621689973303,
-			"desc": 36.4,
+			"desc": "36.40",
 			"group": "TROPPO COMERCIO DE PRODUTOS ALIMENTICIOS EIRELI"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "AUTO POSTO NOVO CEU LTDA",
 			"name": "AUTO POSTO NOVO CEU LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO NOVO CEU LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.1469363460098365,
-			"desc": 50.64,
+			"desc": "50.64",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 11.99845447079402,
-			"desc": 354.21,
+			"desc": "354.21",
 			"group": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "MAKRO ATACADISTA S.A",
 			"name": "MAKRO ATACADISTA S.A",
 			"val": 5.111043985128908,
-			"desc": 172.05,
+			"desc": "172.05",
 			"group": "MAKRO ATACADISTA S.A"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "PETRO KF COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "PETRO KF COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 3.3832046539000227,
-			"desc": 122.03,
+			"desc": "122.03",
 			"group": "PETRO KF COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "Autolocadora Boulevard Ltda",
 			"name": "Autolocadora Boulevard Ltda",
 			"val": 38.72410779368419,
-			"desc": 975,
+			"desc": "975.00",
 			"group": "Autolocadora Boulevard Ltda"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JÚLIO CESAR"
+			"name": "JÚLIO CESAR",
+			"desc": "132560.02"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 2321.997213451083,
-			"desc": 38142.76,
+			"desc": "38142.76",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 7.9797104133246,
-			"desc": 250.36999999999998,
+			"desc": "250.37",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "PAG CONTAS LTDA",
 			"name": "PAG CONTAS LTDA",
 			"val": 924.6717746653558,
-			"desc": 16500,
+			"desc": "16500.00",
 			"group": "PAG CONTAS LTDA"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "BRASAO VIGILANCIA E SEGURANCA LTDA",
 			"name": "BRASAO VIGILANCIA E SEGURANCA LTDA",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "BRASAO VIGILANCIA E SEGURANCA LTDA"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 11.507734139857613,
-			"desc": 341.79999999999995,
+			"desc": "341.80",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 600.2632097266805,
-			"desc": 11160.529999999999,
+			"desc": "11160.53",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.087229439595175,
-			"desc": 226.48,
+			"desc": "226.48",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 31.661510401760918,
-			"desc": 818.04,
+			"desc": "818.04",
 			"group": "CLARO S.A."
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "EDITORA CAPITAL TERESINA LTDA",
 			"name": "EDITORA CAPITAL TERESINA LTDA",
 			"val": 33.71289120747694,
-			"desc": 864,
+			"desc": "864.00",
 			"group": "EDITORA CAPITAL TERESINA LTDA"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "AUTO LESTE LTDA",
 			"name": "AUTO LESTE LTDA",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "AUTO LESTE LTDA"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.542017481214427,
-			"desc": 238.7,
+			"desc": "238.70",
 			"group": "RAMAL"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA",
 			"name": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA",
 			"val": 1003.8837590128437,
-			"desc": 17777.010000000002,
+			"desc": "17777.01",
 			"group": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "VIVO",
 			"name": "VIVO",
 			"val": 193.64845221050257,
-			"desc": 4040.92,
+			"desc": "4040.92",
 			"group": "VIVO"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL",
 			"name": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL",
 			"val": 25.321106809942002,
-			"desc": 673.72,
+			"desc": "673.72",
 			"group": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 21.139818263788495,
-			"desc": 576.29,
+			"desc": "576.29",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 8.608823255042308,
-			"desc": 267,
+			"desc": "267.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "PORTAL AZ LIMITADA ME.",
 			"name": "PORTAL AZ LIMITADA ME.",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "PORTAL AZ LIMITADA ME."
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.1668578592148304,
-			"desc": 51.34,
+			"desc": "51.34",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "OI MÓVEL S/A",
 			"name": "OI MÓVEL S/A",
 			"val": 23.479555018493855,
-			"desc": 631.0600000000001,
+			"desc": "631.06",
 			"group": "OI MÓVEL S/A"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "WALDEMAR FERNANDES SOCIEDADE DE ADVOGADOS",
 			"name": "WALDEMAR FERNANDES SOCIEDADE DE ADVOGADOS",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "WALDEMAR FERNANDES SOCIEDADE DE ADVOGADOS"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "RR DE CARVALHO PUBLICIDADE",
 			"name": "RR DE CARVALHO PUBLICIDADE",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "RR DE CARVALHO PUBLICIDADE"
 		},
 		{

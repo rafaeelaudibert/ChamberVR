@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALEX SANTANA"
+			"name": "ALEX SANTANA",
+			"desc": "104905.77"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "S CRUZ DERIVADOS DE PETROLEO LTDA - EPP",
 			"name": "S CRUZ DERIVADOS DE PETROLEO LTDA - EPP",
 			"val": 6.7377628147822035,
-			"desc": 217.02,
+			"desc": "217.02",
 			"group": "S CRUZ DERIVADOS DE PETROLEO LTDA - EPP"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "NOVO RIO COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LT",
 			"name": "NOVO RIO COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LT",
 			"val": 7.255387893280798,
-			"desc": 231.01,
+			"desc": "231.01",
 			"group": "NOVO RIO COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LT"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 2206.08036084413,
-			"desc": 36400,
+			"desc": "36400.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 21.82076858648037,
-			"desc": 592.3,
+			"desc": "592.30",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 221.12361254326703,
-			"desc": 4549.33,
+			"desc": "4549.33",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -160,7 +161,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.7428108474067274,
-			"desc": 102.63,
+			"desc": "102.63",
 			"group": "RAMAL"
 		},
 		{
@@ -185,7 +186,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 150.13945479056005,
-			"desc": 3220.97,
+			"desc": "3220.97",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -228,7 +229,7 @@
 			"id": "AUTO POSTO DO NUCLEO LTDA",
 			"name": "AUTO POSTO DO NUCLEO LTDA",
 			"val": 131.76439954788273,
-			"desc": 2867.9800000000005,
+			"desc": "2867.98",
 			"group": "AUTO POSTO DO NUCLEO LTDA"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "CHURRASCARIA POTENCIA GRILL LTDA",
 			"name": "CHURRASCARIA POTENCIA GRILL LTDA",
 			"val": 3.096276291532086,
-			"desc": 113.41,
+			"desc": "113.41",
 			"group": "CHURRASCARIA POTENCIA GRILL LTDA"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "POSTO ITAMARATY COMERCIO E REPRESENTACOES LTDA",
 			"name": "POSTO ITAMARATY COMERCIO E REPRESENTACOES LTDA",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "POSTO ITAMARATY COMERCIO E REPRESENTACOES LTDA"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "COMERCIO DE PETROLEO RSSILVA LTDA",
 			"name": "COMERCIO DE PETROLEO RSSILVA LTDA",
 			"val": 6.251949378499248,
-			"desc": 203.76,
+			"desc": "203.76",
 			"group": "COMERCIO DE PETROLEO RSSILVA LTDA"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"name": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"val": 51.43856189774724,
-			"desc": 1250,
+			"desc": "1250.00",
 			"group": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 4.410911700280618,
-			"desc": 152.12,
+			"desc": "152.12",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 35.20716557009595,
-			"desc": 897.2800000000001,
+			"desc": "897.28",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 64.76416816193345,
-			"desc": 1530.39,
+			"desc": "1530.39",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 8.758382656660318,
-			"desc": 270.92999999999995,
+			"desc": "270.93",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 184.23328210907758,
-			"desc": 3865.1499999999996,
+			"desc": "3865.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 0.6892837327345619,
-			"desc": 33.9,
+			"desc": "33.90",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "TALITHA CATIELE SALES RENDEIRO PARANHOS 01934889571",
 			"name": "TALITHA CATIELE SALES RENDEIRO PARANHOS 01934889571",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "TALITHA CATIELE SALES RENDEIRO PARANHOS 01934889571"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "NOVOLESTE HOTEL LTDA",
 			"name": "NOVOLESTE HOTEL LTDA",
 			"val": 17.14263429317356,
-			"desc": 481,
+			"desc": "481.00",
 			"group": "NOVOLESTE HOTEL LTDA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "ML DOREA REIS COMUNICACAO E MARKETING",
 			"name": "ML DOREA REIS COMUNICACAO E MARKETING",
 			"val": 266.42905434632996,
-			"desc": 5375,
+			"desc": "5375.00",
 			"group": "ML DOREA REIS COMUNICACAO E MARKETING"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.1123499275059265,
-			"desc": 49.42,
+			"desc": "49.42",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "A M COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "A M COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "A M COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 152.04373974865314,
-			"desc": 3257.3,
+			"desc": "3257.30",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "PORTO NAPOLIS HOTEL LTDA",
 			"name": "PORTO NAPOLIS HOTEL LTDA",
 			"val": 8.20975475493063,
-			"desc": 256.47,
+			"desc": "256.47",
 			"group": "PORTO NAPOLIS HOTEL LTDA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "J A SOBRAL &amp; CIA LTDA",
 			"name": "J A SOBRAL &amp; CIA LTDA",
 			"val": 6.737026469761808,
-			"desc": 217,
+			"desc": "217.00",
 			"group": "J A SOBRAL &amp; CIA LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "ML DÓREA REIS COMUNICAÇÃO E MARKETING",
 			"name": "ML DÓREA REIS COMUNICAÇÃO E MARKETING",
 			"val": 575.8581086926599,
-			"desc": 10750,
+			"desc": "10750.00",
 			"group": "ML DÓREA REIS COMUNICAÇÃO E MARKETING"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "P J COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "P J COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 7.218222375526998,
-			"desc": 230.01,
+			"desc": "230.01",
 			"group": "P J COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 28.273912517361076,
-			"desc": 741.39,
+			"desc": "741.39",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "AUTO POSTO PRECIOSO DO OESTE LTDA",
 			"name": "AUTO POSTO PRECIOSO DO OESTE LTDA",
 			"val": 2.6578659408444105,
-			"desc": 100.01,
+			"desc": "100.01",
 			"group": "AUTO POSTO PRECIOSO DO OESTE LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "W4 HOTEL LTDA-ME",
 			"name": "W4 HOTEL LTDA-ME",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "W4 HOTEL LTDA-ME"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "ACS DERIVADOS DE PETROLEO LTDA",
 			"name": "ACS DERIVADOS DE PETROLEO LTDA",
 			"val": 2.6578659408444105,
-			"desc": 100.01,
+			"desc": "100.01",
 			"group": "ACS DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "POSTO SAO ROQUE LTDA",
 			"name": "POSTO SAO ROQUE LTDA",
 			"val": 3.99205561242791,
-			"desc": 139.99,
+			"desc": "139.99",
 			"group": "POSTO SAO ROQUE LTDA"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "DEUSREI - COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "DEUSREI - COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 5.652269344572396,
-			"desc": 187.2,
+			"desc": "187.20",
 			"group": "DEUSREI - COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "TRANSVALE DERIVADOS DE PETROLEO LTDA",
 			"name": "TRANSVALE DERIVADOS DE PETROLEO LTDA",
 			"val": 7.96616062498925,
-			"desc": 250.01,
+			"desc": "250.01",
 			"group": "TRANSVALE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "TKS COMERCIO DE ALIMENTOS LTDA.",
 			"name": "TKS COMERCIO DE ALIMENTOS LTDA.",
 			"val": 0.7370693658535077,
-			"desc": 35.72,
+			"desc": "35.72",
 			"group": "TKS COMERCIO DE ALIMENTOS LTDA."
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 63.763765464048475,
-			"desc": 1509.57,
+			"desc": "1509.57",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "LANCHONETE E RESTAURANTE ACACIA LTDA",
 			"name": "LANCHONETE E RESTAURANTE ACACIA LTDA",
 			"val": 0.9007172013641765,
-			"desc": 41.81,
+			"desc": "41.81",
 			"group": "LANCHONETE E RESTAURANTE ACACIA LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 2.011840614407687,
-			"desc": 79.64,
+			"desc": "79.64",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "ALMEIDA E SODRE COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "ALMEIDA E SODRE COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 3.707560850296172,
-			"desc": 131.65,
+			"desc": "131.65",
 			"group": "ALMEIDA E SODRE COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "HELINELSON SANTANA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "HELINELSON SANTANA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "HELINELSON SANTANA SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.100203308299744,
-			"desc": 226.83,
+			"desc": "226.83",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "KIMUKEKA RESTAURANTE FRUTOS DO MAR",
 			"name": "KIMUKEKA RESTAURANTE FRUTOS DO MAR",
 			"val": 3.0414465664689434,
-			"desc": 111.75,
+			"desc": "111.75",
 			"group": "KIMUKEKA RESTAURANTE FRUTOS DO MAR"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "J R G COMERCIO DE PETROLEO LTDA ME",
 			"name": "J R G COMERCIO DE PETROLEO LTDA ME",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "J R G COMERCIO DE PETROLEO LTDA ME"
 		},
 		{
@@ -896,7 +897,7 @@
 			"id": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG3",
 			"name": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG3",
 			"val": 7.593980919983062,
-			"desc": 240.09,
+			"desc": "240.09",
 			"group": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG3"
 		},
 		{
@@ -909,7 +910,7 @@
 			"id": "HP COMERCIO E DERIVADOS DE PET",
 			"name": "HP COMERCIO E DERIVADOS DE PET",
 			"val": 14.503906770309458,
-			"desc": 416.65,
+			"desc": "416.65",
 			"group": "HP COMERCIO E DERIVADOS DE PET"
 		},
 		{
@@ -928,7 +929,7 @@
 			"id": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 7.196677864157813,
-			"desc": 229.43,
+			"desc": "229.43",
 			"group": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEL - POSTO JAVI",
 			"name": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEL - POSTO JAVI",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEL - POSTO JAVI"
 		},
 		{
@@ -954,7 +955,7 @@
 			"id": "AUTO POSTO NEW POWER DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO NEW POWER DERIVADOS DE PETROLEO LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "AUTO POSTO NEW POWER DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -967,7 +968,7 @@
 			"id": "GRAFICA REAL",
 			"name": "GRAFICA REAL",
 			"val": 254.53648927831978,
-			"desc": 5159.64,
+			"desc": "5159.64",
 			"group": "GRAFICA REAL"
 		},
 		{

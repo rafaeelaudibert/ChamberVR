@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RONALDO MARTINS"
+			"name": "RONALDO MARTINS",
+			"desc": "78577.91"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 66.13286761416889,
-			"desc": 1558.8200000000002,
+			"desc": "1558.82",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -108,7 +109,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 228.14755073009195,
-			"desc": 4678.3099999999995,
+			"desc": "4678.31",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 36.56932088865869,
-			"desc": 927.48,
+			"desc": "927.48",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 35.94661475721199,
-			"desc": 913.69,
+			"desc": "913.69",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 127.18999897400508,
-			"desc": 2779.37,
+			"desc": "2779.37",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 28.5871676129646,
-			"desc": 748.52,
+			"desc": "748.52",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 257.7326824090057,
-			"desc": 5217.61,
+			"desc": "5217.61",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "CASABLANCA RENT A CAR LTDA",
 			"name": "CASABLANCA RENT A CAR LTDA",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "CASABLANCA RENT A CAR LTDA"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "DRA4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA4 DERIVADOS DE PETROLEO LTDA",
 			"val": 1.9610454922850216,
-			"desc": 78,
+			"desc": "78.00",
 			"group": "DRA4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "SERVI 100 COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "SERVI 100 COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "SERVI 100 COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.988360437334833,
-			"desc": 223.81,
+			"desc": "223.81",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 7.255759674791222,
-			"desc": 231.01999999999998,
+			"desc": "231.02",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "COMERCIAL F. SANTOS DERIVADOS DE PETROLEO LTDA",
 			"name": "COMERCIAL F. SANTOS DERIVADOS DE PETROLEO LTDA",
 			"val": 10.708721704988196,
-			"desc": 321.45,
+			"desc": "321.45",
 			"group": "COMERCIAL F. SANTOS DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "M S PETRÓLEO LTDA",
 			"name": "M S PETRÓLEO LTDA",
 			"val": 10.29661170807042,
-			"desc": 310.88,
+			"desc": "310.88",
 			"group": "M S PETRÓLEO LTDA"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "POSTO Z+Z HIDROLANDIA LTDA - EPP",
 			"name": "POSTO Z+Z HIDROLANDIA LTDA - EPP",
 			"val": 5.65730468033265,
-			"desc": 187.34,
+			"desc": "187.34",
 			"group": "POSTO Z+Z HIDROLANDIA LTDA - EPP"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "EDN PRODUÇÕES CULTURAIS E ARTÍSTICAS LTDA",
 			"name": "EDN PRODUÇÕES CULTURAIS E ARTÍSTICAS LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "EDN PRODUÇÕES CULTURAIS E ARTÍSTICAS LTDA"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "MACEDO & SOUZA LTDA",
 			"name": "MACEDO & SOUZA LTDA",
 			"val": 12.43233532088325,
-			"desc": 365.13,
+			"desc": "365.13",
 			"group": "MACEDO & SOUZA LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "HOTEL BEIRA RIO DE ITUMBIARA LTDA",
 			"name": "HOTEL BEIRA RIO DE ITUMBIARA LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "HOTEL BEIRA RIO DE ITUMBIARA LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "DI ANGELLIS MORAIS SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "DI ANGELLIS MORAIS SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "DI ANGELLIS MORAIS SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "REIS MAGOS COMERCIAL DE PETROLEO LTDA",
 			"name": "REIS MAGOS COMERCIAL DE PETROLEO LTDA",
 			"val": 5.934441652671614,
-			"desc": 195.02,
+			"desc": "195.02",
 			"group": "REIS MAGOS COMERCIAL DE PETROLEO LTDA"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.41736126475897006,
-			"desc": 23.049999999999997,
+			"desc": "23.05",
 			"group": "RAMAL"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 9.02826247286854,
-			"desc": 278,
+			"desc": "278.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO",
 			"val": 0.392666080619886,
-			"desc": 22.01,
+			"desc": "22.01",
 			"group": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "ACOPEL - AMERICO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "ACOPEL - AMERICO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.431430850607568,
-			"desc": 152.71,
+			"desc": "152.71",
 			"group": "ACOPEL - AMERICO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "AMORIM & AMORIM EMPREENDIMENTOS COMERCIAIS LTDA",
 			"name": "AMORIM & AMORIM EMPREENDIMENTOS COMERCIAIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AMORIM & AMORIM EMPREENDIMENTOS COMERCIAIS LTDA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 4.235135861306625,
-			"desc": 147.05,
+			"desc": "147.05",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 7.1617788759700085,
-			"desc": 228.49,
+			"desc": "228.49",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "Francisco C. T. Araújo - ME",
 			"name": "Francisco C. T. Araújo - ME",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "Francisco C. T. Araújo - ME"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "FP PETROLEO EIRELI",
 			"name": "FP PETROLEO EIRELI",
 			"val": 201.99206578789685,
-			"desc": 4196,
+			"desc": "4196.00",
 			"group": "FP PETROLEO EIRELI"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "AUTO POSTO 109 NORTE LTDA",
 			"name": "AUTO POSTO 109 NORTE LTDA",
 			"val": 13.571848714090466,
-			"desc": 393.59,
+			"desc": "393.59",
 			"group": "AUTO POSTO 109 NORTE LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "Posto Via Sul",
 			"name": "Posto Via Sul",
 			"val": 5.180644100310423,
-			"desc": 174.01,
+			"desc": "174.01",
 			"group": "Posto Via Sul"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "POSTO ECO",
 			"name": "POSTO ECO",
 			"val": 3.450289017854702,
-			"desc": 124.03,
+			"desc": "124.03",
 			"group": "POSTO ECO"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "AUTO POSTO GRAMADAO DE MERIDIANO LT",
 			"name": "AUTO POSTO GRAMADAO DE MERIDIANO LT",
 			"val": 10.305168317134754,
-			"desc": 311.1,
+			"desc": "311.10",
 			"group": "AUTO POSTO GRAMADAO DE MERIDIANO LT"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "TEX NET S C EM INFORMATICA LTD",
 			"name": "TEX NET S C EM INFORMATICA LTD",
 			"val": 10.648162202379346,
-			"desc": 319.9,
+			"desc": "319.90",
 			"group": "TEX NET S C EM INFORMATICA LTD"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.47414246973549606,
-			"desc": 25.4,
+			"desc": "25.40",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.417370819028275,
-			"desc": 180.65,
+			"desc": "180.65",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "SOBRAL & PALACIO PETROLEO LTDA",
 			"name": "SOBRAL & PALACIO PETROLEO LTDA",
 			"val": 3.560034130630597,
-			"desc": 127.29,
+			"desc": "127.29",
 			"group": "SOBRAL & PALACIO PETROLEO LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "M A B COSTA ME",
 			"name": "M A B COSTA ME",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "M A B COSTA ME"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.2768418663672809,
-			"desc": 16.95,
+			"desc": "16.95",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "ACOPEL - AMERICO COMERCIAL DE PETROLEO LTDA",
 			"name": "ACOPEL - AMERICO COMERCIAL DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ACOPEL - AMERICO COMERCIAL DE PETROLEO LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "LION PRODUCOES E SERVICOS LTDA ME",
 			"name": "LION PRODUCOES E SERVICOS LTDA ME",
 			"val": 513.8582384401199,
-			"desc": 9700,
+			"desc": "9700.00",
 			"group": "LION PRODUCOES E SERVICOS LTDA ME"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "POSTO SABADIN II LTDA",
 			"name": "POSTO SABADIN II LTDA",
 			"val": 4.3799840846792595,
-			"desc": 151.23,
+			"desc": "151.23",
 			"group": "POSTO SABADIN II LTDA"
 		},
 		{
@@ -896,7 +897,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{

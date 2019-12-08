@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FABIO REIS"
+			"name": "FABIO REIS",
+			"desc": "82687.01"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 974.0206564082589,
-			"desc": 17296.609999999993,
+			"desc": "17296.61",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "Telefônica Brasil S. A. VIVO/GVT",
 			"name": "Telefônica Brasil S. A. VIVO/GVT",
 			"val": 11.981408788978877,
-			"desc": 353.78,
+			"desc": "353.78",
 			"group": "Telefônica Brasil S. A. VIVO/GVT"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "JI VEICULOS E SERVIÇOS LTDA.",
 			"name": "JI VEICULOS E SERVIÇOS LTDA.",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "JI VEICULOS E SERVIÇOS LTDA."
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "AUTO POSTO ROCHA LTDA",
 			"name": "AUTO POSTO ROCHA LTDA",
 			"val": 364.42955294420744,
-			"desc": 7119.16,
+			"desc": "7119.16",
 			"group": "AUTO POSTO ROCHA LTDA"
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "MUNICIPIO DE LAGARTO",
 			"name": "MUNICIPIO DE LAGARTO",
 			"val": 14.275248123859706,
-			"desc": 411.01,
+			"desc": "411.01",
 			"group": "MUNICIPIO DE LAGARTO"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "CICERO JOSE MENDES LEITE",
 			"name": "CICERO JOSE MENDES LEITE",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "CICERO JOSE MENDES LEITE"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 60.96416967232334,
-			"desc": 1451.1200000000001,
+			"desc": "1451.12",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "Nicelma dos Santos Cursos e Treinamentos",
 			"name": "Nicelma dos Santos Cursos e Treinamentos",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "Nicelma dos Santos Cursos e Treinamentos"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"name": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"val": 7.440469016440987,
-			"desc": 235.97999999999996,
+			"desc": "235.98",
 			"group": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.8558396981812402,
-			"desc": 40.16,
+			"desc": "40.16",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"name": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"val": 24.873278419083938,
-			"desc": 663.3799999999999,
+			"desc": "663.38",
 			"group": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "JI VEICULOS E SERVICOS LTDA",
 			"name": "JI VEICULOS E SERVICOS LTDA",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "JI VEICULOS E SERVICOS LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 44.72796699598784,
-			"desc": 1105.92,
+			"desc": "1105.92",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 8.687176938499771,
-			"desc": 269.06,
+			"desc": "269.06",
 			"group": "CLARO S/A"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.92466854457004,
-			"desc": 194.75,
+			"desc": "194.75",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "ALDO DA SILVA FONTES",
 			"name": "ALDO DA SILVA FONTES",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "ALDO DA SILVA FONTES"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "POSTO ROSARIO LTDA",
 			"name": "POSTO ROSARIO LTDA",
 			"val": 4.26868857212286,
-			"desc": 148.02,
+			"desc": "148.02",
 			"group": "POSTO ROSARIO LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "POSTO CAMINHONEIRO 2",
 			"name": "POSTO CAMINHONEIRO 2",
 			"val": 6.143807445736703,
-			"desc": 200.79,
+			"desc": "200.79",
 			"group": "POSTO CAMINHONEIRO 2"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "COHAB CORRETORA HABITACIONAL LTDA",
 			"name": "COHAB CORRETORA HABITACIONAL LTDA",
 			"val": 160.2100436957849,
-			"desc": 3412.6,
+			"desc": "3412.60",
 			"group": "COHAB CORRETORA HABITACIONAL LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Minasnet LTDA ME",
 			"name": "Minasnet LTDA ME",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "Minasnet LTDA ME"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.486445082437301,
-			"desc": 154.29,
+			"desc": "154.29",
 			"group": "RAMAL"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 8.646467261878131,
-			"desc": 267.99,
+			"desc": "267.99",
 			"group": "NET CLARO"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA",
 			"name": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA",
 			"val": 6.995760013450232,
-			"desc": 224.01,
+			"desc": "224.01",
 			"group": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 9.07953144927936,
-			"desc": 279.34,
+			"desc": "279.34",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "GENTIL BARBOSA NEO OFFICE JARDINS",
 			"name": "GENTIL BARBOSA NEO OFFICE JARDINS",
 			"val": 29.049195498571276,
-			"desc": 759.02,
+			"desc": "759.02",
 			"group": "GENTIL BARBOSA NEO OFFICE JARDINS"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "COMERCIAL DE ALIMENTOS GRANO LTDA",
 			"name": "COMERCIAL DE ALIMENTOS GRANO LTDA",
 			"val": 15.277419042204768,
-			"desc": 435.65,
+			"desc": "435.65",
 			"group": "COMERCIAL DE ALIMENTOS GRANO LTDA"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "FINANCIAL SPACE CONSULTING LTDA",
 			"name": "FINANCIAL SPACE CONSULTING LTDA",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "FINANCIAL SPACE CONSULTING LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "POSTO MACAUBENSE II",
 			"name": "POSTO MACAUBENSE II",
 			"val": 2.9841272387640294,
-			"desc": 110.01,
+			"desc": "110.01",
 			"group": "POSTO MACAUBENSE II"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "FM TOBIAS BARRETO ALMEIDA REIS LTDA ME",
 			"name": "FM TOBIAS BARRETO ALMEIDA REIS LTDA ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "FM TOBIAS BARRETO ALMEIDA REIS LTDA ME"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "PREFEITURA MUNICIPAL DE ARACAJU",
 			"name": "PREFEITURA MUNICIPAL DE ARACAJU",
 			"val": 77.58276951692034,
-			"desc": 1794.36,
+			"desc": "1794.36",
 			"group": "PREFEITURA MUNICIPAL DE ARACAJU"
 		},
 		{

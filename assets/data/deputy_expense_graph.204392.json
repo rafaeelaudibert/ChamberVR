@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FRANCISCO JR."
+			"name": "FRANCISCO JR.",
+			"desc": "180610.06"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO Z+Z NOSSA SENHORA MEDALHA MILAGROSA LTDA",
 			"name": "POSTO Z+Z NOSSA SENHORA MEDALHA MILAGROSA LTDA",
 			"val": 1703.7321594789064,
-			"desc": 28756.7,
+			"desc": "28756.70",
 			"group": "POSTO Z+Z NOSSA SENHORA MEDALHA MILAGROSA LTDA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 5.663779570538815,
-			"desc": 187.52,
+			"desc": "187.52",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 37.22355234877845,
-			"desc": 941.9399999999999,
+			"desc": "941.94",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 7.028700609861054,
-			"desc": 224.9,
+			"desc": "224.90",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "PREFEITURA DE GOIÂNIA",
 			"name": "PREFEITURA DE GOIÂNIA",
 			"val": 248.50451593900675,
-			"desc": 5050.049999999999,
+			"desc": "5050.05",
 			"group": "PREFEITURA DE GOIÂNIA"
 		},
 		{
@@ -172,7 +173,7 @@
 			"id": "CENTER PRINT SERVIÇOS DE IMPRESSOES LTDA",
 			"name": "CENTER PRINT SERVIÇOS DE IMPRESSOES LTDA",
 			"val": 42.15192917272464,
-			"desc": 1050,
+			"desc": "1050.00",
 			"group": "CENTER PRINT SERVIÇOS DE IMPRESSOES LTDA"
 		},
 		{
@@ -209,7 +210,7 @@
 			"id": "POSTO COUTO",
 			"name": "POSTO COUTO",
 			"val": 4.568442479214439,
-			"desc": 156.64,
+			"desc": "156.64",
 			"group": "POSTO COUTO"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "SANEAGO",
 			"name": "SANEAGO",
 			"val": 33.76664441044224,
-			"desc": 865.2,
+			"desc": "865.20",
 			"group": "SANEAGO"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "CLARO",
 			"name": "CLARO",
 			"val": 96.80354122905293,
-			"desc": 2181.9500000000003,
+			"desc": "2181.95",
 			"group": "CLARO"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 12.085315187570227,
-			"desc": 356.4,
+			"desc": "356.40",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 75.34747771579231,
-			"desc": 1748.68,
+			"desc": "1748.68",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "MKT PRODUCAO E MARKETINK EIRELI",
 			"name": "MKT PRODUCAO E MARKETINK EIRELI",
 			"val": 1067.7230671172176,
-			"desc": 18800,
+			"desc": "18800.00",
 			"group": "MKT PRODUCAO E MARKETINK EIRELI"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 59.05655356370016,
-			"desc": 1411.13,
+			"desc": "1411.13",
 			"group": "RAMAL"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A",
 			"name": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A",
 			"val": 7.333144363110779,
-			"desc": 233.1,
+			"desc": "233.10",
 			"group": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "TV MIDIA LTDA-ME",
 			"name": "TV MIDIA LTDA-ME",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "TV MIDIA LTDA-ME"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "EMANUELLE TALONE",
 			"name": "EMANUELLE TALONE",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "EMANUELLE TALONE"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 152.6485900032601,
-			"desc": 3268.8300000000004,
+			"desc": "3268.83",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"val": 135.30216303938877,
-			"desc": 2936.3,
+			"desc": "2936.30",
 			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "AUTO POSTO CHAVES LTDA",
 			"name": "AUTO POSTO CHAVES LTDA",
 			"val": 56.25648343418149,
-			"desc": 1352.1800000000003,
+			"desc": "1352.18",
 			"group": "AUTO POSTO CHAVES LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "MUNICIPIO DE GOIANIA",
 			"name": "MUNICIPIO DE GOIANIA",
 			"val": 31.394788349656146,
-			"desc": 812.04,
+			"desc": "812.04",
 			"group": "MUNICIPIO DE GOIANIA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS RODODIESEL MORRINHOS LTDA-EPP",
 			"name": "COMERCIO DE COMBUSTIVEIS RODODIESEL MORRINHOS LTDA-EPP",
 			"val": 3.821480422407449,
-			"desc": 135,
+			"desc": "135.00",
 			"group": "COMERCIO DE COMBUSTIVEIS RODODIESEL MORRINHOS LTDA-EPP"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "POSTO ALPHA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "POSTO ALPHA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 6.918116034684263,
-			"desc": 221.91,
+			"desc": "221.91",
 			"group": "POSTO ALPHA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "POSTO XODO LTDA",
 			"name": "POSTO XODO LTDA",
 			"val": 5.824890095755018,
-			"desc": 191.99,
+			"desc": "191.99",
 			"group": "POSTO XODO LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "MARCELO VICENTE DOS SANTOS",
 			"name": "MARCELO VICENTE DOS SANTOS",
 			"val": 35.329612288381334,
-			"desc": 900,
+			"desc": "900.00",
 			"group": "MARCELO VICENTE DOS SANTOS"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "GYN LOCADORA LTDA ME",
 			"name": "GYN LOCADORA LTDA ME",
 			"val": 662.4401641340753,
-			"desc": 12200,
+			"desc": "12200.00",
 			"group": "GYN LOCADORA LTDA ME"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "HOTEL DIPLOMAT",
 			"name": "HOTEL DIPLOMAT",
 			"val": 3.7908275350519784,
-			"desc": 134.1,
+			"desc": "134.10",
 			"group": "HOTEL DIPLOMAT"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "CONFORT HOTEL LTDA - ME",
 			"name": "CONFORT HOTEL LTDA - ME",
 			"val": 14.23434736318893,
-			"desc": 410,
+			"desc": "410.00",
 			"group": "CONFORT HOTEL LTDA - ME"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "MESQUITA & OLIVEIRA ADVOGADOS ASSOCIADOS S/S",
 			"name": "MESQUITA & OLIVEIRA ADVOGADOS ASSOCIADOS S/S",
 			"val": 2149.7173077818466,
-			"desc": 35550,
+			"desc": "35550.00",
 			"group": "MESQUITA & OLIVEIRA ADVOGADOS ASSOCIADOS S/S"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "CELG DISTRIBUICAO S.A. - CELG D",
 			"name": "CELG DISTRIBUICAO S.A. - CELG D",
 			"val": 55.23843834230802,
-			"desc": 1330.67,
+			"desc": "1330.67",
 			"group": "CELG DISTRIBUICAO S.A. - CELG D"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "AUTO POSTO BR 060 LTDA",
 			"name": "AUTO POSTO BR 060 LTDA",
 			"val": 5.844032788167869,
-			"desc": 192.52,
+			"desc": "192.52",
 			"group": "AUTO POSTO BR 060 LTDA"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.9259039632430396,
-			"desc": 42.73,
+			"desc": "42.73",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "MARTINS E MAGALHAES ADVOGADOS ASSOCIADOS S/S",
 			"name": "MARTINS E MAGALHAES ADVOGADOS ASSOCIADOS S/S",
 			"val": 366.1866072594191,
-			"desc": 7150,
+			"desc": "7150.00",
 			"group": "MARTINS E MAGALHAES ADVOGADOS ASSOCIADOS S/S"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR",
 			"val": 1.2008504410313234,
-			"desc": 52.53,
+			"desc": "52.53",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.992510178547219,
-			"desc": 250.71,
+			"desc": "250.71",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 2.7411861169562477,
-			"desc": 102.58,
+			"desc": "102.58",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "DEMARCKI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "DEMARCKI SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "DEMARCKI SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "UNIVERSO ONLINE S/A",
 			"name": "UNIVERSO ONLINE S/A",
 			"val": 3.0022283686617293,
-			"desc": 110.56,
+			"desc": "110.56",
 			"group": "UNIVERSO ONLINE S/A"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "PAPELARIA TRIBUTARIA LTDA",
 			"name": "PAPELARIA TRIBUTARIA LTDA",
 			"val": 9.921019525948445,
-			"desc": 301.2,
+			"desc": "301.20",
 			"group": "PAPELARIA TRIBUTARIA LTDA"
 		},
 		{

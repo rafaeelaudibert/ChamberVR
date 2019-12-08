@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HERCULANO PASSOS"
+			"name": "HERCULANO PASSOS",
+			"desc": "146402.45"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1499.7387132506803,
-			"desc": 25603.229999999996,
+			"desc": "25603.23",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -192,7 +193,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 18.94453107336455,
-			"desc": 524.25,
+			"desc": "524.25",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 4.707075560281481,
-			"desc": 160.6,
+			"desc": "160.60",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 16.97833000036216,
-			"desc": 477.03,
+			"desc": "477.03",
 			"group": "RAMAL"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.4870020231426118,
-			"desc": 62.35,
+			"desc": "62.35",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -298,7 +299,7 @@
 			"id": "AUTO POSTO SOLAR DAS TERRAS LTDA",
 			"name": "AUTO POSTO SOLAR DAS TERRAS LTDA",
 			"val": 520.953767188246,
-			"desc": 9820.71,
+			"desc": "9820.71",
 			"group": "AUTO POSTO SOLAR DAS TERRAS LTDA"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "MARIA HILDA SILVA DE SOUZA",
 			"name": "MARIA HILDA SILVA DE SOUZA",
 			"val": 1466.673169027393,
-			"desc": 25088.899999999998,
+			"desc": "25088.90",
 			"group": "MARIA HILDA SILVA DE SOUZA"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "TIM S.A",
 			"name": "TIM S.A",
 			"val": 19.879653820878787,
-			"desc": 546.5,
+			"desc": "546.50",
 			"group": "TIM S.A"
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 22.76483335577713,
-			"desc": 614.4,
+			"desc": "614.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 254.81918237501702,
-			"desc": 5164.77,
+			"desc": "5164.77",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "POTERE PUBLICIDADE E MARKETING LTDA",
 			"name": "POTERE PUBLICIDADE E MARKETING LTDA",
 			"val": 2580.1610868500625,
-			"desc": 42000,
+			"desc": "42000.00",
 			"group": "POTERE PUBLICIDADE E MARKETING LTDA"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 20.32953791551214,
-			"desc": 557.16,
+			"desc": "557.16",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 19.320879219251438,
-			"desc": 533.22,
+			"desc": "533.22",
 			"group": "CLARO S/A"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.08460568094850067,
-			"desc": 7.3500000000000005,
+			"desc": "7.35",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "POSTO SHOPPING EIRELI",
 			"name": "POSTO SHOPPING EIRELI",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO SHOPPING EIRELI"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "residencial administração e gestão de propriedades imobiliarias ltda",
 			"name": "residencial administração e gestão de propriedades imobiliarias ltda",
 			"val": 413.28241234323076,
-			"desc": 7971.84,
+			"desc": "7971.84",
 			"group": "residencial administração e gestão de propriedades imobiliarias ltda"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "SOL PANAMBY AGROEMPRESARIAL LTDA",
 			"name": "SOL PANAMBY AGROEMPRESARIAL LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "SOL PANAMBY AGROEMPRESARIAL LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 6.257053172359403,
-			"desc": 203.9,
+			"desc": "203.90",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "Cafe Shopping Comercio De Alimentos Ltda.",
 			"name": "Cafe Shopping Comercio De Alimentos Ltda.",
 			"val": 0.34160840735160464,
-			"desc": 19.82,
+			"desc": "19.82",
 			"group": "Cafe Shopping Comercio De Alimentos Ltda."
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 0.7717974260880697,
-			"desc": 37.03,
+			"desc": "37.03",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 75.20922001736123,
-			"desc": 1745.85,
+			"desc": "1745.85",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "CAUE ANDRE PALMA RIGAMONTI 17749114858",
 			"name": "CAUE ANDRE PALMA RIGAMONTI 17749114858",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "CAUE ANDRE PALMA RIGAMONTI 17749114858"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 17.449397720499437,
-			"desc": 488.4,
+			"desc": "488.40",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "GASPARIN GASPARIN LTDA ME",
 			"name": "GASPARIN GASPARIN LTDA ME",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "GASPARIN GASPARIN LTDA ME"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "NEXTEL TELECOMUNICACOES LTDA.",
 			"name": "NEXTEL TELECOMUNICACOES LTDA.",
 			"val": 12.307776844496482,
-			"desc": 362,
+			"desc": "362.00",
 			"group": "NEXTEL TELECOMUNICACOES LTDA."
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 17.539477152088054,
-			"desc": 490.57,
+			"desc": "490.57",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.45151478217430063,
-			"desc": 24.47,
+			"desc": "24.47",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"name": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"val": 8.730576880684938,
-			"desc": 270.2,
+			"desc": "270.20",
 			"group": "COMPANHIA PIRATININGA DE FORCA E LUZ"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "ANDRE COSTA DESIGNER",
 			"name": "ANDRE COSTA DESIGNER",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "ANDRE COSTA DESIGNER"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 5.498267387202345,
-			"desc": 182.91,
+			"desc": "182.91",
 			"group": "CLARO S.A."
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.744098860637246,
-			"desc": 70.92,
+			"desc": "70.92",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.05883642728557286,
-			"desc": 5.8,
+			"desc": "5.80",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "''AUTO POSTO SOLAR DAS TERRAS LTDA''",
 			"name": "''AUTO POSTO SOLAR DAS TERRAS LTDA''",
 			"val": 57.97613363016087,
-			"desc": 1388.42,
+			"desc": "1388.42",
 			"group": "''AUTO POSTO SOLAR DAS TERRAS LTDA''"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "SHOWA ALIMENTACAO EIRELI",
 			"name": "SHOWA ALIMENTACAO EIRELI",
 			"val": 1.171419108599743,
-			"desc": 51.5,
+			"desc": "51.50",
 			"group": "SHOWA ALIMENTACAO EIRELI"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{

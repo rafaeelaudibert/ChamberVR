@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VICENTINHO JÚNIOR"
+			"name": "VICENTINHO JÚNIOR",
+			"desc": "213282.80"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 34.38145321009146,
-			"desc": 878.91,
+			"desc": "878.91",
 			"group": "RAMAL"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 7.877408517926028,
-			"desc": 247.64999999999998,
+			"desc": "247.65",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1475.671450410931,
-			"desc": 25228.96,
+			"desc": "25228.96",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 213.83022974433752,
-			"desc": 4414.99,
+			"desc": "4414.99",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "COMPANHIA DE SANEAMENTO DO TOCANTINS",
 			"name": "COMPANHIA DE SANEAMENTO DO TOCANTINS",
 			"val": 3.4563357842831803,
-			"desc": 124.21,
+			"desc": "124.21",
 			"group": "COMPANHIA DE SANEAMENTO DO TOCANTINS"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 32.828701732599946,
-			"desc": 844.23,
+			"desc": "844.23",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "DMD Gestão Administrativa LTDA - ME",
 			"name": "DMD Gestão Administrativa LTDA - ME",
 			"val": 10316.761785094779,
-			"desc": 150000,
+			"desc": "150000.00",
 			"group": "DMD Gestão Administrativa LTDA - ME"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "A.P JARDINS COMBUSTIVEIS LTDA",
 			"name": "A.P JARDINS COMBUSTIVEIS LTDA",
 			"val": 1140.9665277657336,
-			"desc": 19967.41,
+			"desc": "19967.41",
 			"group": "A.P JARDINS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 59.09417568310161,
-			"desc": 1411.9200000000003,
+			"desc": "1411.92",
 			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "CT COMUNICACAO & MARKETING LTDA",
 			"name": "CT COMUNICACAO & MARKETING LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "CT COMUNICACAO & MARKETING LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER",
 			"name": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER",
 			"val": 30.260557183928277,
-			"desc": 786.46,
+			"desc": "786.46",
 			"group": "CONDOMÍNIO COMERCIAL EDIFÍCIO OFFICE CENTER"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "Tropical Corretora de Imóveis e Construções LTDA",
 			"name": "Tropical Corretora de Imóveis e Construções LTDA",
 			"val": 99.21562571368439,
-			"desc": 2230,
+			"desc": "2230.00",
 			"group": "Tropical Corretora de Imóveis e Construções LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 15.986298879190352,
-			"desc": 452.96000000000004,
+			"desc": "452.96",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "Joedson Rodrigues Figueira",
 			"name": "Joedson Rodrigues Figueira",
 			"val": 92.70385834544928,
-			"desc": 2100,
+			"desc": "2100.00",
 			"group": "Joedson Rodrigues Figueira"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 13.27237349720001,
-			"desc": 386.14,
+			"desc": "386.14",
 			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "RAKA COMUNICACOES LTDA",
 			"name": "RAKA COMUNICACOES LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "RAKA COMUNICACOES LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 45.30929904517319,
-			"desc": 1118.49,
+			"desc": "1118.49",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.6072291074036436,
-			"desc": 213.47,
+			"desc": "213.47",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 19.05981749165125,
-			"desc": 527,
+			"desc": "527.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{

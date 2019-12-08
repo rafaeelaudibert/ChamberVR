@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FERNANDO RODOLFO"
+			"name": "FERNANDO RODOLFO",
+			"desc": "111345.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO NOGUEIRAO LTDA - ME",
 			"name": "POSTO NOGUEIRAO LTDA - ME",
 			"val": 195.6468039849078,
-			"desc": 4078.12,
+			"desc": "4078.12",
 			"group": "POSTO NOGUEIRAO LTDA - ME"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 187.1161772419984,
-			"desc": 3919.0600000000004,
+			"desc": "3919.06",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "POSTO PETROTURBO LTDA",
 			"name": "POSTO PETROTURBO LTDA",
 			"val": 24.320628203990346,
-			"desc": 650.59,
+			"desc": "650.59",
 			"group": "POSTO PETROTURBO LTDA"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "RPM REVENDEDORA DE PETROLEO MARACAJA",
 			"name": "RPM REVENDEDORA DE PETROLEO MARACAJA",
 			"val": 4.393532925298819,
-			"desc": 151.62,
+			"desc": "151.62",
 			"group": "RPM REVENDEDORA DE PETROLEO MARACAJA"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "PANORAMA HOTEL",
 			"name": "PANORAMA HOTEL",
 			"val": 26.899557608873405,
-			"desc": 710,
+			"desc": "710.00",
 			"group": "PANORAMA HOTEL"
 		},
 		{
@@ -148,7 +149,7 @@
 			"id": "HOTEIS PERNAMBUCO S/A",
 			"name": "HOTEIS PERNAMBUCO S/A",
 			"val": 20.069422352890832,
-			"desc": 551,
+			"desc": "551.00",
 			"group": "HOTEIS PERNAMBUCO S/A"
 		},
 		{
@@ -173,7 +174,7 @@
 			"id": "POSTO CEAKA MD COMBUSTIVEIS LTDA",
 			"name": "POSTO CEAKA MD COMBUSTIVEIS LTDA",
 			"val": 3.756469703265274,
-			"desc": 133.09,
+			"desc": "133.09",
 			"group": "POSTO CEAKA MD COMBUSTIVEIS LTDA"
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "Engemak Eireli ME",
 			"name": "Engemak Eireli ME",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "Engemak Eireli ME"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"name": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 44.694693616910605,
-			"desc": 1105.2,
+			"desc": "1105.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -249,7 +250,7 @@
 			"id": "RÁDIO LIBERDADE DE CARUARU LTDA",
 			"name": "RÁDIO LIBERDADE DE CARUARU LTDA",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "RÁDIO LIBERDADE DE CARUARU LTDA"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 14.759437333902065,
-			"desc": 422.94,
+			"desc": "422.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "Hotel Nordeste LTDA",
 			"name": "Hotel Nordeste LTDA",
 			"val": 3.516549081443958,
-			"desc": 126,
+			"desc": "126.00",
 			"group": "Hotel Nordeste LTDA"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "ANDRADE GODOY COMBUSTIVEIS LTDA",
 			"name": "ANDRADE GODOY COMBUSTIVEIS LTDA",
 			"val": 4.865648840542765,
-			"desc": 165.11,
+			"desc": "165.11",
 			"group": "ANDRADE GODOY COMBUSTIVEIS LTDA"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 39.55934351769663,
-			"desc": 993.34,
+			"desc": "993.34",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 13.766844165714598,
-			"desc": 398.43,
+			"desc": "398.43",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.644647173445144,
-			"desc": 319.81,
+			"desc": "319.81",
 			"group": "RAMAL"
 		},
 		{
@@ -388,7 +389,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 370.3036411354819,
-			"desc": 7222.210000000001,
+			"desc": "7222.21",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA",
 			"name": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA",
 			"val": 4.943614026635571,
-			"desc": 167.32,
+			"desc": "167.32",
 			"group": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "Katia Cristiane Cavalcante Pereira",
 			"name": "Katia Cristiane Cavalcante Pereira",
 			"val": 213.0178654280516,
-			"desc": 4400,
+			"desc": "4400.00",
 			"group": "Katia Cristiane Cavalcante Pereira"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "NOGUEIRA E NOGUEIRA PROJETOS E SERVICOS ADMINISTRATIVOS LTDA",
 			"name": "NOGUEIRA E NOGUEIRA PROJETOS E SERVICOS ADMINISTRATIVOS LTDA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "NOGUEIRA E NOGUEIRA PROJETOS E SERVICOS ADMINISTRATIVOS LTDA"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "CITI HOTEL EXPRESS LTDA",
 			"name": "CITI HOTEL EXPRESS LTDA",
 			"val": 6.042450443103051,
-			"desc": 198,
+			"desc": "198.00",
 			"group": "CITI HOTEL EXPRESS LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "JOSE GIOVANI DO CARMO BEZERRA - ME",
 			"name": "JOSE GIOVANI DO CARMO BEZERRA - ME",
 			"val": 4.581021830303942,
-			"desc": 157,
+			"desc": "157.00",
 			"group": "JOSE GIOVANI DO CARMO BEZERRA - ME"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "FM Rádio a Voz do Agreste LTDA",
 			"name": "FM Rádio a Voz do Agreste LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "FM Rádio a Voz do Agreste LTDA"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "VILA RICA HOTEL HOTEIS PERNAMBUCO S.A",
 			"name": "VILA RICA HOTEL HOTEIS PERNAMBUCO S.A",
 			"val": 9.118199010091839,
-			"desc": 280.35,
+			"desc": "280.35",
 			"group": "VILA RICA HOTEL HOTEIS PERNAMBUCO S.A"
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "Camilla Gomes Torres",
 			"name": "Camilla Gomes Torres",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "Camilla Gomes Torres"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "CONSTRUCIPE COMERCIO CONSTRUCOES E INCORPORACOES LTDA",
 			"name": "CONSTRUCIPE COMERCIO CONSTRUCOES E INCORPORACOES LTDA",
 			"val": 5.033783038780447,
-			"desc": 169.87,
+			"desc": "169.87",
 			"group": "CONSTRUCIPE COMERCIO CONSTRUCOES E INCORPORACOES LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 453.17370349695904,
-			"desc": 8661.33,
+			"desc": "8661.33",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "VERDEJANTE COMERCIAL LTDA",
 			"name": "VERDEJANTE COMERCIAL LTDA",
 			"val": 1.4790079879270477,
-			"desc": 62.08,
+			"desc": "62.08",
 			"group": "VERDEJANTE COMERCIAL LTDA"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "AUTO POSTO DE COMBUSTIVEIS REDE COMPANHIA LTDA",
 			"name": "AUTO POSTO DE COMBUSTIVEIS REDE COMPANHIA LTDA",
 			"val": 10.652067961455824,
-			"desc": 320,
+			"desc": "320.00",
 			"group": "AUTO POSTO DE COMBUSTIVEIS REDE COMPANHIA LTDA"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "CORREIOS - EMS DOCUMENTO",
 			"name": "CORREIOS - EMS DOCUMENTO",
 			"val": 3.685513652805624,
-			"desc": 131,
+			"desc": "131.00",
 			"group": "CORREIOS - EMS DOCUMENTO"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "GENESIS PROPAGANDA E COMUNICACAO EIRELI",
 			"name": "GENESIS PROPAGANDA E COMUNICACAO EIRELI",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "GENESIS PROPAGANDA E COMUNICACAO EIRELI"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "VIC POSTO EIRELI - ME",
 			"name": "VIC POSTO EIRELI - ME",
 			"val": 4.673765719077193,
-			"desc": 159.65,
+			"desc": "159.65",
 			"group": "VIC POSTO EIRELI - ME"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "RÁDIO CULTURA DO NORDESTE S/A",
 			"name": "RÁDIO CULTURA DO NORDESTE S/A",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "RÁDIO CULTURA DO NORDESTE S/A"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "COMERCIAL ALENCAR",
 			"name": "COMERCIAL ALENCAR",
 			"val": 5.154706642479226,
-			"desc": 173.28,
+			"desc": "173.28",
 			"group": "COMERCIAL ALENCAR"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "PETROSUL PETROLEO SUICO LTDA",
 			"name": "PETROSUL PETROLEO SUICO LTDA",
 			"val": 5.0745199707356035,
-			"desc": 171.02,
+			"desc": "171.02",
 			"group": "PETROSUL PETROLEO SUICO LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 22.12056735994667,
-			"desc": 599.33,
+			"desc": "599.33",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 7.711911244466795,
-			"desc": 243.24,
+			"desc": "243.24",
 			"group": "CLARO S/A"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.017461662459623058,
-			"desc": 2.87,
+			"desc": "2.87",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "DNYL HOTEL",
 			"name": "DNYL HOTEL",
 			"val": 9.777927571252414,
-			"desc": 297.5,
+			"desc": "297.50",
 			"group": "DNYL HOTEL"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "POSTO CRISTAL LTDA",
 			"name": "POSTO CRISTAL LTDA",
 			"val": 4.619488205744665,
-			"desc": 158.1,
+			"desc": "158.10",
 			"group": "POSTO CRISTAL LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 3.8555797856401846,
-			"desc": 136,
+			"desc": "136.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -847,7 +848,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 55.29896353048968,
-			"desc": 1331.95,
+			"desc": "1331.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -860,7 +861,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 3.3748323456220777,
-			"desc": 121.78,
+			"desc": "121.78",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -873,7 +874,7 @@
 			"id": "Telefônica Brasil S/A VIVO",
 			"name": "Telefônica Brasil S/A VIVO",
 			"val": 26.81094968543205,
-			"desc": 707.97,
+			"desc": "707.97",
 			"group": "Telefônica Brasil S/A VIVO"
 		},
 		{
@@ -886,7 +887,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 0.5234609970928188,
-			"desc": 27.4,
+			"desc": "27.40",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "Dom Quixote Filmes",
 			"name": "Dom Quixote Filmes",
 			"val": 196.82309438804205,
-			"desc": 4100,
+			"desc": "4100.00",
 			"group": "Dom Quixote Filmes"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "Suica do Agreste Empreendimentos LTDA-ME",
 			"name": "Suica do Agreste Empreendimentos LTDA-ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "Suica do Agreste Empreendimentos LTDA-ME"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -938,7 +939,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -951,7 +952,7 @@
 			"id": "A S L MARINHO COMERCIO E SERVIÇO GRAFICOS EIRELI ME",
 			"name": "A S L MARINHO COMERCIO E SERVIÇO GRAFICOS EIRELI ME",
 			"val": 578.82572749173,
-			"desc": 10800,
+			"desc": "10800.00",
 			"group": "A S L MARINHO COMERCIO E SERVIÇO GRAFICOS EIRELI ME"
 		},
 		{
@@ -964,7 +965,7 @@
 			"id": "Genesis Propaganda e Comunicação",
 			"name": "Genesis Propaganda e Comunicação",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "Genesis Propaganda e Comunicação"
 		},
 		{
@@ -977,7 +978,7 @@
 			"id": "CACULINHA COMBUSTIVEIS LTDA II",
 			"name": "CACULINHA COMBUSTIVEIS LTDA II",
 			"val": 6.3011876089341765,
-			"desc": 205.11,
+			"desc": "205.11",
 			"group": "CACULINHA COMBUSTIVEIS LTDA II"
 		},
 		{
@@ -990,7 +991,7 @@
 			"id": "JANGADA HOTEIS LIMITADA ME",
 			"name": "JANGADA HOTEIS LIMITADA ME",
 			"val": 4.095446404637238,
-			"desc": 143,
+			"desc": "143.00",
 			"group": "JANGADA HOTEIS LIMITADA ME"
 		},
 		{
@@ -1003,7 +1004,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 26.899557608873405,
-			"desc": 710,
+			"desc": "710.00",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO RAMOS"
+			"name": "PAULO RAMOS",
+			"desc": "51286.33"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 40.54189116766529,
-			"desc": 1014.86,
+			"desc": "1014.86",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "AUTO POSTO CURICICA LTDA",
 			"name": "AUTO POSTO CURICICA LTDA",
 			"val": 2.309796056469572,
-			"desc": 89.14,
+			"desc": "89.14",
 			"group": "AUTO POSTO CURICICA LTDA"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "LUBRIFICAÇÃO TECNICA LUBRITEC LTDA",
 			"name": "LUBRIFICAÇÃO TECNICA LUBRITEC LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "LUBRIFICAÇÃO TECNICA LUBRITEC LTDA"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "GUILHERME BALDAN CABRAL DOS SANTOS",
 			"name": "GUILHERME BALDAN CABRAL DOS SANTOS",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "GUILHERME BALDAN CABRAL DOS SANTOS"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1388.665839591177,
-			"desc": 23871.699999999997,
+			"desc": "23871.70",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "AUTO POSTO DO TRABALHO LTDA",
 			"name": "AUTO POSTO DO TRABALHO LTDA",
 			"val": 0.8199497812674144,
-			"desc": 38.83,
+			"desc": "38.83",
 			"group": "AUTO POSTO DO TRABALHO LTDA"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.00492131412586,
-			"desc": 45.59,
+			"desc": "45.59",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 67.39589357266972,
-			"desc": 1585,
+			"desc": "1585.00",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.6476604197175098,
-			"desc": 67.73,
+			"desc": "67.73",
 			"group": "RAMAL"
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 275.6605000983991,
-			"desc": 5541.549999999999,
+			"desc": "5541.55",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "POSTO DE GASOLINA VARONEL",
 			"name": "POSTO DE GASOLINA VARONEL",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "POSTO DE GASOLINA VARONEL"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "AUTO POSTO REZENDE RECREIO II LTDA",
 			"name": "AUTO POSTO REZENDE RECREIO II LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO REZENDE RECREIO II LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"name": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"val": 12.23184496096,
-			"desc": 360.09000000000003,
+			"desc": "360.09",
 			"group": "POSTO DE GASOLINA LORD BARRA SUL LTDA"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "POSTO MINI PRACA LTDA",
 			"name": "POSTO MINI PRACA LTDA",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "POSTO MINI PRACA LTDA"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "CARREFOUR COMERCIO  E INDUSTRIA",
 			"name": "CARREFOUR COMERCIO  E INDUSTRIA",
 			"val": 14.436560507741511,
-			"desc": 414.99,
+			"desc": "414.99",
 			"group": "CARREFOUR COMERCIO  E INDUSTRIA"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "POSTO DE GASOLINA SUL AMÉRICA LTDA.",
 			"name": "POSTO DE GASOLINA SUL AMÉRICA LTDA.",
 			"val": 7.1680887447657655,
-			"desc": 228.66,
+			"desc": "228.66",
 			"group": "POSTO DE GASOLINA SUL AMÉRICA LTDA."
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 49.09786285407143,
-			"desc": 1199.99,
+			"desc": "1199.99",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "RIO KARTUCHO COMERCIO DE INFORMATICA LTDA",
 			"name": "RIO KARTUCHO COMERCIO DE INFORMATICA LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "RIO KARTUCHO COMERCIO DE INFORMATICA LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "POSTO DE GASOLINA ARTE MODERNA LTDA",
 			"name": "POSTO DE GASOLINA ARTE MODERNA LTDA",
 			"val": 3.559359366073,
-			"desc": 127.27000000000001,
+			"desc": "127.27",
 			"group": "POSTO DE GASOLINA ARTE MODERNA LTDA"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "AUTO POSTO SENNA LTDA",
 			"name": "AUTO POSTO SENNA LTDA",
 			"val": 26.853285247496515,
-			"desc": 708.94,
+			"desc": "708.94",
 			"group": "AUTO POSTO SENNA LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "POSTO DE GASOLINA JB CAXIAS",
 			"name": "POSTO DE GASOLINA JB CAXIAS",
 			"val": 7.094642696959411,
-			"desc": 226.68,
+			"desc": "226.68",
 			"group": "POSTO DE GASOLINA JB CAXIAS"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "BATALHA PROMOCOES E REPRESENTACOES 1615 - EIRELI",
 			"name": "BATALHA PROMOCOES E REPRESENTACOES 1615 - EIRELI",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "BATALHA PROMOCOES E REPRESENTACOES 1615 - EIRELI"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "POSTO CATEDRAL LTDA",
 			"name": "POSTO CATEDRAL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO CATEDRAL LTDA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "POSTO MAC",
 			"name": "POSTO MAC",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "POSTO MAC"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 17.843330637572265,
-			"desc": 497.88,
+			"desc": "497.88",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "AUTO POSTO DE GASOLINA RECREIO LTDA",
 			"name": "AUTO POSTO DE GASOLINA RECREIO LTDA",
 			"val": 7.384172651915479,
-			"desc": 234.47,
+			"desc": "234.47",
 			"group": "AUTO POSTO DE GASOLINA RECREIO LTDA"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "P LOPES GNV POSTO DE SERVIÇOS LTDA",
 			"name": "P LOPES GNV POSTO DE SERVIÇOS LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "P LOPES GNV POSTO DE SERVIÇOS LTDA"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "POSTO REGINAS LTDA",
 			"name": "POSTO REGINAS LTDA",
 			"val": 1.2131719250161634,
-			"desc": 52.96,
+			"desc": "52.96",
 			"group": "POSTO REGINAS LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA",
 			"name": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "CENTRO AUTOMOTIVO LAGOA BARRA LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "LEAO VERMELHO COMBUSTIVEIS LTDA",
 			"name": "LEAO VERMELHO COMBUSTIVEIS LTDA",
 			"val": 0.7128453438138221,
-			"desc": 34.8,
+			"desc": "34.80",
 			"group": "LEAO VERMELHO COMBUSTIVEIS LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 11.113020508970871,
-			"desc": 331.77,
+			"desc": "331.77",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.853669291031194,
-			"desc": 164.77,
+			"desc": "164.77",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 14.439805233134257,
-			"desc": 415.07,
+			"desc": "415.07",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "AUTO POSTO ML RECREIO DOS BANDEIRANTES LTDA",
 			"name": "AUTO POSTO ML RECREIO DOS BANDEIRANTES LTDA",
 			"val": 7.987992310330735,
-			"desc": 250.59,
+			"desc": "250.59",
 			"group": "AUTO POSTO ML RECREIO DOS BANDEIRANTES LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.5311823898645298,
-			"desc": 27.71,
+			"desc": "27.71",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 5.205532234548094,
-			"desc": 174.71,
+			"desc": "174.71",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA",
 			"name": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA",
 			"val": 0.9256295750980643,
-			"desc": 42.72,
+			"desc": "42.72",
 			"group": "AUTO POSTO DO TRABALHO S/A AYRTON SENNA"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 112.1415477029134,
-			"desc": 2485.55,
+			"desc": "2485.55",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{

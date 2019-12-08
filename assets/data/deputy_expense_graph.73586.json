@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JÚLIO DELGADO"
+			"name": "JÚLIO DELGADO",
+			"desc": "51456.93"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "COOPERFINS",
 			"name": "COOPERFINS",
 			"val": 3.3821998207306887,
-			"desc": 122,
+			"desc": "122.00",
 			"group": "COOPERFINS"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 51.72064413529285,
-			"desc": 1256.0099999999998,
+			"desc": "1256.01",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "AUTO POSTO ROSELANCHE LTDA",
 			"name": "AUTO POSTO ROSELANCHE LTDA",
 			"val": 12.788152049178564,
-			"desc": 374.04999999999995,
+			"desc": "374.05",
 			"group": "AUTO POSTO ROSELANCHE LTDA"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 26.564508723934406,
-			"desc": 702.3199999999999,
+			"desc": "702.32",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -141,7 +142,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 2.509370065002685,
-			"desc": 95.39999999999998,
+			"desc": "95.40",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "POSTO CABRAL LTDA",
 			"name": "POSTO CABRAL LTDA",
 			"val": 22.85435374452042,
-			"desc": 616.49,
+			"desc": "616.49",
 			"group": "POSTO CABRAL LTDA"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "POSTO COLIBRI LTDA",
 			"name": "POSTO COLIBRI LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO COLIBRI LTDA"
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "posto tic tac mg 010 ltda",
 			"name": "posto tic tac mg 010 ltda",
 			"val": 4.833595016133642,
-			"desc": 164.2,
+			"desc": "164.20",
 			"group": "posto tic tac mg 010 ltda"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "ALOISIO MAZZOLI SCHMIDT",
 			"name": "ALOISIO MAZZOLI SCHMIDT",
 			"val": 356.71147052907446,
-			"desc": 6983.530000000001,
+			"desc": "6983.53",
 			"group": "ALOISIO MAZZOLI SCHMIDT"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "RESTAURANTE DAS MINAS LTDA",
 			"name": "RESTAURANTE DAS MINAS LTDA",
 			"val": 2.0413540252667866,
-			"desc": 80.59,
+			"desc": "80.59",
 			"group": "RESTAURANTE DAS MINAS LTDA"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 43.36968180840466,
-			"desc": 1076.48,
+			"desc": "1076.48",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "POSTO IGREJINHA LTDA",
 			"name": "POSTO IGREJINHA LTDA",
 			"val": 3.296278255233289,
-			"desc": 119.43,
+			"desc": "119.43",
 			"group": "POSTO IGREJINHA LTDA"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "LEAPHAR LOCADORA DE VEICULOS EIRELI",
 			"name": "LEAPHAR LOCADORA DE VEICULOS EIRELI",
 			"val": 1225.053807012048,
-			"desc": 21300,
+			"desc": "21300.00",
 			"group": "LEAPHAR LOCADORA DE VEICULOS EIRELI"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.244278756890245,
-			"desc": 117.87,
+			"desc": "117.87",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 5.454219495653422,
-			"desc": 181.68,
+			"desc": "181.68",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 61.39102639248111,
-			"desc": 1460.05,
+			"desc": "1460.05",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "AUTO POSTO LAZZAT LTDA",
 			"name": "AUTO POSTO LAZZAT LTDA",
 			"val": 6.923658242722526,
-			"desc": 222.06,
+			"desc": "222.06",
 			"group": "AUTO POSTO LAZZAT LTDA"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "POSTO RAJA F R LTDA",
 			"name": "POSTO RAJA F R LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO RAJA F R LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "POSTO GAUCHAO DE EWBANK DA CAMARA LTDA",
 			"name": "POSTO GAUCHAO DE EWBANK DA CAMARA LTDA",
 			"val": 2.9841272387640294,
-			"desc": 110.01,
+			"desc": "110.01",
 			"group": "POSTO GAUCHAO DE EWBANK DA CAMARA LTDA"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.5675232842561115,
-			"desc": 97.21,
+			"desc": "97.21",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 1.2632350014256564,
-			"desc": 54.699999999999996,
+			"desc": "54.70",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 61.30400420236018,
-			"desc": 1458.23,
+			"desc": "1458.23",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 100.48053269049223,
-			"desc": 2255.1499999999996,
+			"desc": "2255.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "POSTO GAUCHAO DE CARANDAI LTDA",
 			"name": "POSTO GAUCHAO DE CARANDAI LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO GAUCHAO DE CARANDAI LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.6642269917764632,
-			"desc": 68.28,
+			"desc": "68.28",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.996275321929613,
-			"desc": 250.81,
+			"desc": "250.81",
 			"group": "RAMAL"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "GO EDITORAÇÃO EIRELI",
 			"name": "GO EDITORAÇÃO EIRELI",
 			"val": 151.13664414712497,
-			"desc": 3240,
+			"desc": "3240.00",
 			"group": "GO EDITORAÇÃO EIRELI"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 11.006671151121825,
-			"desc": 329.06,
+			"desc": "329.06",
 			"group": "CLARO S/A"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "GO EDITORACAO LTDA",
 			"name": "GO EDITORACAO LTDA",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "GO EDITORACAO LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "POSTO DYSTAK LTDA",
 			"name": "POSTO DYSTAK LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "POSTO DYSTAK LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "POSTO CARRETAO",
 			"name": "POSTO CARRETAO",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "POSTO CARRETAO"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.7559467099830601,
-			"desc": 71.31,
+			"desc": "71.31",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 11.180192361301678,
-			"desc": 333.48,
+			"desc": "333.48",
 			"group": "NET CLARO"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 8.97817733925198,
-			"desc": 276.69,
+			"desc": "276.69",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "RODO POSTO SILVIO'S LTDA",
 			"name": "RODO POSTO SILVIO'S LTDA",
 			"val": 5.150089502644813,
-			"desc": 173.15,
+			"desc": "173.15",
 			"group": "RODO POSTO SILVIO'S LTDA"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "POSTO CURVA DO RETIRO LTDA",
 			"name": "POSTO CURVA DO RETIRO LTDA",
 			"val": 4.355333158255224,
-			"desc": 150.52,
+			"desc": "150.52",
 			"group": "POSTO CURVA DO RETIRO LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 7.33016604226595,
-			"desc": 233.02,
+			"desc": "233.02",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "POSTO NOVO MILENIO LTDA",
 			"name": "POSTO NOVO MILENIO LTDA",
 			"val": 4.061056363878659,
-			"desc": 142,
+			"desc": "142.00",
 			"group": "POSTO NOVO MILENIO LTDA"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "POSTO CENTRO CHOFERES LTDA.",
 			"name": "POSTO CENTRO CHOFERES LTDA.",
 			"val": 5.216559297369774,
-			"desc": 175.02,
+			"desc": "175.02",
 			"group": "POSTO CENTRO CHOFERES LTDA."
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 130.0367273604685,
-			"desc": 2834.55,
+			"desc": "2834.55",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "BELVEDERE COMBUSTIVEIS LTDA",
 			"name": "BELVEDERE COMBUSTIVEIS LTDA",
 			"val": 3.983142256617358,
-			"desc": 139.73,
+			"desc": "139.73",
 			"group": "BELVEDERE COMBUSTIVEIS LTDA"
 		},
 		{

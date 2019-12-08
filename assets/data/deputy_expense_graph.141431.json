@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FERNANDO COELHO FILHO"
+			"name": "FERNANDO COELHO FILHO",
+			"desc": "63756.00"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Posto Nota 10 Ltda",
 			"name": "Posto Nota 10 Ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto Nota 10 Ltda"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 291.84477430951995,
-			"desc": 5832.300000000001,
+			"desc": "5832.30",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 73.39431707836349,
-			"desc": 1708.65,
+			"desc": "1708.65",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -212,7 +213,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 82.9176880655267,
-			"desc": 1902.8400000000001,
+			"desc": "1902.84",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "POSTO LETICIA PEREIRA E SANTOS LTDA",
 			"name": "POSTO LETICIA PEREIRA E SANTOS LTDA",
 			"val": 135.24616627771974,
-			"desc": 2935.2199999999993,
+			"desc": "2935.22",
 			"group": "POSTO LETICIA PEREIRA E SANTOS LTDA"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "POSTO IPE LTDA",
 			"name": "POSTO IPE LTDA",
 			"val": 87.19585286142191,
-			"desc": 1989.3100000000002,
+			"desc": "1989.31",
 			"group": "POSTO IPE LTDA"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 3.1025609647861097,
-			"desc": 113.6,
+			"desc": "113.60",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 9.87612988618014,
-			"desc": 300.03999999999996,
+			"desc": "300.04",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 620.6962813904472,
-			"desc": 11503.12,
+			"desc": "11503.12",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 4.852260198280417,
-			"desc": 164.73,
+			"desc": "164.73",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 3.197381682051419,
-			"desc": 116.46,
+			"desc": "116.46",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 14.072505529508728,
-			"desc": 406,
+			"desc": "406.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "R. MENDES EMPREENDIMENTOS EIRELI EPP",
 			"name": "R. MENDES EMPREENDIMENTOS EIRELI EPP",
 			"val": 309.62471909980354,
-			"desc": 6150,
+			"desc": "6150.00",
 			"group": "R. MENDES EMPREENDIMENTOS EIRELI EPP"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 9.081062437550322,
-			"desc": 279.38,
+			"desc": "279.38",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 47.23756761161521,
-			"desc": 1160.06,
+			"desc": "1160.06",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "CJCM PETROLEO LTDA",
 			"name": "CJCM PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CJCM PETROLEO LTDA"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "EMERSON LUIZ LEITE DA SILVA",
 			"name": "EMERSON LUIZ LEITE DA SILVA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "EMERSON LUIZ LEITE DA SILVA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "R MENDES EMPREENDIMENTOS EIRELI",
 			"name": "R MENDES EMPREENDIMENTOS EIRELI",
 			"val": 351.9657058448599,
-			"desc": 6900,
+			"desc": "6900.00",
 			"group": "R MENDES EMPREENDIMENTOS EIRELI"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "UNIDAS S.A.",
 			"name": "UNIDAS S.A.",
 			"val": 85.1987292535105,
-			"desc": 1949,
+			"desc": "1949.00",
 			"group": "UNIDAS S.A."
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.632021179005481,
-			"desc": 67.21,
+			"desc": "67.21",
 			"group": "RAMAL"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.788557614446153,
-			"desc": 162.92,
+			"desc": "162.92",
 			"group": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "EMERSON LUIZ LEITE DA SILVA 05756760431",
 			"name": "EMERSON LUIZ LEITE DA SILVA 05756760431",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "EMERSON LUIZ LEITE DA SILVA 05756760431"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 79.47144495295059,
-			"desc": 1832.85,
+			"desc": "1832.85",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 55.47348600386655,
-			"desc": 1335.6399999999999,
+			"desc": "1335.64",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "AUTO POSTO DE COMBUSTIVEIS REDE COMPANHIA LTDA",
 			"name": "AUTO POSTO DE COMBUSTIVEIS REDE COMPANHIA LTDA",
 			"val": 14.098384998207846,
-			"desc": 406.64,
+			"desc": "406.64",
 			"group": "AUTO POSTO DE COMBUSTIVEIS REDE COMPANHIA LTDA"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "POSTO SUL LTDA",
 			"name": "POSTO SUL LTDA",
 			"val": 2.3380192893058442,
-			"desc": 90.03,
+			"desc": "90.03",
 			"group": "POSTO SUL LTDA"
 		},
 		{

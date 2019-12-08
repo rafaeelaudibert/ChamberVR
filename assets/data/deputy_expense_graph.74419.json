@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GONZAGA PATRIOTA"
+			"name": "GONZAGA PATRIOTA",
+			"desc": "33658.52"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 217.26826407812808,
-			"desc": 4478.37,
+			"desc": "4478.37",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "POSTO PAIZAO LTDA",
 			"name": "POSTO PAIZAO LTDA",
 			"val": 739.0683639228893,
-			"desc": 13469.53,
+			"desc": "13469.53",
 			"group": "POSTO PAIZAO LTDA"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 146.58047620385491,
-			"desc": 3152.95,
+			"desc": "3152.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -356,7 +357,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 41.26129347202601,
-			"desc": 1030.5799999999997,
+			"desc": "1030.58",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 15.98547760694762,
-			"desc": 452.94,
+			"desc": "452.94",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "raimundo borges viana filho",
 			"name": "raimundo borges viana filho",
 			"val": 67.15447988816743,
-			"desc": 1580,
+			"desc": "1580.00",
 			"group": "raimundo borges viana filho"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 20.49696287862506,
-			"desc": 561.12,
+			"desc": "561.12",
 			"group": "TIM S/A"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 99.1065630685429,
-			"desc": 2227.83,
+			"desc": "2227.83",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 34.16875292624432,
-			"desc": 874.17,
+			"desc": "874.17",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 104.54559353050814,
-			"desc": 2335.76,
+			"desc": "2335.76",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 15.249651665854914,
-			"desc": 434.97,
+			"desc": "434.97",
 			"group": "CLARO S/A"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 3.5576725340351714,
-			"desc": 127.22,
+			"desc": "127.22",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 20.018374784298306,
-			"desc": 549.79,
+			"desc": "549.79",
 			"group": "RAMAL"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 8.456942776735502,
-			"desc": 263,
+			"desc": "263.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "SALGUEIRO PLAZA HOTEL LTDA",
 			"name": "SALGUEIRO PLAZA HOTEL LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "SALGUEIRO PLAZA HOTEL LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 7.07907603371957,
-			"desc": 226.26,
+			"desc": "226.26",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 8.47856441865099,
-			"desc": 263.57,
+			"desc": "263.57",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 14.227869351283461,
-			"desc": 409.84,
+			"desc": "409.84",
 			"group": "NET CLARO"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "SILT SELF SERVICE EIRELI",
 			"name": "SILT SELF SERVICE EIRELI",
 			"val": 6.349015952066207,
-			"desc": 206.42,
+			"desc": "206.42",
 			"group": "SILT SELF SERVICE EIRELI"
 		},
 		{

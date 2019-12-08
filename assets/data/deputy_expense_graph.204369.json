@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CAROLINE DE TONI"
+			"name": "CAROLINE DE TONI",
+			"desc": "25201.34"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 452.27683828775093,
-			"desc": 8645.890000000001,
+			"desc": "8645.89",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -96,7 +97,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 1.4173597643298352,
-			"desc": 59.99,
+			"desc": "59.99",
 			"group": "TIM S/A"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -122,7 +123,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
 			"val": 15.62461548810553,
-			"desc": 444.14,
+			"desc": "444.14",
 			"group": "POSTO DE COMBUSTIVEIS 310 SUL LTDA"
 		},
 		{
@@ -141,7 +142,7 @@
 			"id": "FLEX HOTELARIA LTDA",
 			"name": "FLEX HOTELARIA LTDA",
 			"val": 1.536,
-			"desc": 64,
+			"desc": "64.00",
 			"group": "FLEX HOTELARIA LTDA"
 		},
 		{
@@ -160,7 +161,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.7643518346909455,
-			"desc": 36.75,
+			"desc": "36.75",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -179,7 +180,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 19.54239604004103,
-			"desc": 538.49,
+			"desc": "538.49",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -192,7 +193,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 9.20939953284409,
-			"desc": 282.73,
+			"desc": "282.73",
 			"group": "CLARO S.A"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 168.30007687056806,
-			"desc": 3565.6899999999996,
+			"desc": "3565.69",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.8539443433646228,
-			"desc": 40.09,
+			"desc": "40.09",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "CENTRO PROFISSIONAL CHAPECO",
 			"name": "CENTRO PROFISSIONAL CHAPECO",
 			"val": 24.597421844527084,
-			"desc": 657,
+			"desc": "657.00",
 			"group": "CENTRO PROFISSIONAL CHAPECO"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 5.051489245723388,
-			"desc": 170.37,
+			"desc": "170.37",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "HOTEL ALIANCA EXPRESS SA",
 			"name": "HOTEL ALIANCA EXPRESS SA",
 			"val": 5.002994498926757,
-			"desc": 169,
+			"desc": "169.00",
 			"group": "HOTEL ALIANCA EXPRESS SA"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 4.964103474905356,
-			"desc": 167.89999999999998,
+			"desc": "167.90",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "HOTEL ANTARES LTDA",
 			"name": "HOTEL ANTARES LTDA",
 			"val": 2.3053611014240376,
-			"desc": 89,
+			"desc": "89.00",
 			"group": "HOTEL ANTARES LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.678335283242111,
-			"desc": 33.480000000000004,
+			"desc": "33.48",
 			"group": "RAMAL"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "COOPERATIVA AGROINDUSTRIAL ALFA",
 			"name": "COOPERATIVA AGROINDUSTRIAL ALFA",
 			"val": 20.39209193507752,
-			"desc": 558.64,
+			"desc": "558.64",
 			"group": "COOPERATIVA AGROINDUSTRIAL ALFA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 5.66198088986889,
-			"desc": 187.47,
+			"desc": "187.47",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.8104821741114279,
-			"desc": 73.1,
+			"desc": "73.10",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.262886758854283,
-			"desc": 204.06,
+			"desc": "204.06",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 15.512051497058245,
-			"desc": 441.39,
+			"desc": "441.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "INTELIG",
 			"name": "INTELIG",
 			"val": 3.650954066625061,
-			"desc": 129.98,
+			"desc": "129.98",
 			"group": "INTELIG"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "AUTO POSTO GEMELLI LTDA",
 			"name": "AUTO POSTO GEMELLI LTDA",
 			"val": 11.805183591158523,
-			"desc": 349.33000000000004,
+			"desc": "349.33",
 			"group": "AUTO POSTO GEMELLI LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
 			"name": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
 			"val": 33.66810421816575,
-			"desc": 863,
+			"desc": "863.00",
 			"group": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 1.1574593802347575,
-			"desc": 51.010000000000005,
+			"desc": "51.01",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 0.34344984344224033,
-			"desc": 19.9,
+			"desc": "19.90",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
 			"name": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "AUTO POSTO DUQUE LTDA",
 			"name": "AUTO POSTO DUQUE LTDA",
 			"val": 5.14440764226176,
-			"desc": 172.99,
+			"desc": "172.99",
 			"group": "AUTO POSTO DUQUE LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "VERDE VALE SERVICOS LTDA - EPP",
 			"name": "VERDE VALE SERVICOS LTDA - EPP",
 			"val": 2.6252252215515255,
-			"desc": 99,
+			"desc": "99.00",
 			"group": "VERDE VALE SERVICOS LTDA - EPP"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "MHNET TELECOMUNICACOES EIRELI",
 			"name": "MHNET TELECOMUNICACOES EIRELI",
 			"val": 7.242005423457693,
-			"desc": 230.64999999999998,
+			"desc": "230.65",
 			"group": "MHNET TELECOMUNICACOES EIRELI"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "CONQUILHA RESTAURANTE EIRELI",
 			"name": "CONQUILHA RESTAURANTE EIRELI",
 			"val": 0.8490738155833022,
-			"desc": 39.91,
+			"desc": "39.91",
 			"group": "CONQUILHA RESTAURANTE EIRELI"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S/A",
 			"name": "HOTELARIA ACCOR BRASIL S/A",
 			"val": 13.037395176545537,
-			"desc": 380.28,
+			"desc": "380.28",
 			"group": "HOTELARIA ACCOR BRASIL S/A"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 28.151880796099416,
-			"desc": 738.6099999999999,
+			"desc": "738.61",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.644651078688309,
-			"desc": 67.63,
+			"desc": "67.63",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "IMOBILIÁRIA NOSTRA CASA LTDA",
 			"name": "IMOBILIÁRIA NOSTRA CASA LTDA",
 			"val": 160.8459384005568,
-			"desc": 3424.66,
+			"desc": "3424.66",
 			"group": "IMOBILIÁRIA NOSTRA CASA LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "Restaurante e e Chácara Dal Pizzol",
 			"name": "Restaurante e e Chácara Dal Pizzol",
 			"val": 0.8379973582119823,
-			"desc": 39.5,
+			"desc": "39.50",
 			"group": "Restaurante e e Chácara Dal Pizzol"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "LIOMAR JOSÉ FARIA JUNIOR",
 			"name": "LIOMAR JOSÉ FARIA JUNIOR",
 			"val": 1.0442627041153958,
-			"desc": 47,
+			"desc": "47.00",
 			"group": "LIOMAR JOSÉ FARIA JUNIOR"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA",
 			"name": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "SOCIEDADE JORNALISTICA DIÁRIO DO IGUAÇU LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "STANG & STANG",
 			"name": "STANG & STANG",
 			"val": 2.21094983736432,
-			"desc": 86.01,
+			"desc": "86.01",
 			"group": "STANG & STANG"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 53.587643561291145,
-			"desc": 1295.7,
+			"desc": "1295.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

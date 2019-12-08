@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AROLDO MARTINS"
+			"name": "AROLDO MARTINS",
+			"desc": "60133.75"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CONDOMINIO EMPRESARIAL CENTRO CIVICO",
 			"name": "CONDOMINIO EMPRESARIAL CENTRO CIVICO",
 			"val": 244.48421950857335,
-			"desc": 4976.87,
+			"desc": "4976.87",
 			"group": "CONDOMINIO EMPRESARIAL CENTRO CIVICO"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 127.94827289549625,
-			"desc": 2794.08,
+			"desc": "2794.08",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "AUTO POSTO SAIA VELHA LTDA",
 			"name": "AUTO POSTO SAIA VELHA LTDA",
 			"val": 83.94178508920815,
-			"desc": 1923.58,
+			"desc": "1923.58",
 			"group": "AUTO POSTO SAIA VELHA LTDA"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 304.5556619802468,
-			"desc": 6059.6,
+			"desc": "6059.60",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "SR OCIDENTAL COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA EPP",
 			"name": "SR OCIDENTAL COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SR OCIDENTAL COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 155.1134212149654,
-			"desc": 3315.77,
+			"desc": "3315.77",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "POSTO TREVISO",
 			"name": "POSTO TREVISO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO TREVISO"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "POSTO MARU S .A IV",
 			"name": "POSTO MARU S .A IV",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO MARU S .A IV"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "DENIS BATISTA MEDEIROS - ME",
 			"name": "DENIS BATISTA MEDEIROS - ME",
 			"val": 346.2918776438817,
-			"desc": 6800,
+			"desc": "6800.00",
 			"group": "DENIS BATISTA MEDEIROS - ME"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "COPEL TELECOMUNICACOES S.A.",
 			"name": "COPEL TELECOMUNICACOES S.A.",
 			"val": 2.857214350702478,
-			"desc": 106.14,
+			"desc": "106.14",
 			"group": "COPEL TELECOMUNICACOES S.A."
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "AUTO POSTO CURITIBANO LTDA",
 			"name": "AUTO POSTO CURITIBANO LTDA",
 			"val": 3.9581312364342707,
-			"desc": 139,
+			"desc": "139.00",
 			"group": "AUTO POSTO CURITIBANO LTDA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 28.64300603469243,
-			"desc": 749.79,
+			"desc": "749.79",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "POSTO DE COMB.VILA DOS VENTOS LTDA",
 			"name": "POSTO DE COMB.VILA DOS VENTOS LTDA",
 			"val": 24.150673585041577,
-			"desc": 646.65,
+			"desc": "646.65",
 			"group": "POSTO DE COMB.VILA DOS VENTOS LTDA"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
 			"name": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "MERCASA EMPREENDIMENTO IMOBILIÁRIO LTDA",
 			"name": "MERCASA EMPREENDIMENTO IMOBILIÁRIO LTDA",
 			"val": 382.2831013299905,
-			"desc": 7431.91,
+			"desc": "7431.91",
 			"group": "MERCASA EMPREENDIMENTO IMOBILIÁRIO LTDA"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 49.502810844109305,
-			"desc": 1208.6599999999999,
+			"desc": "1208.66",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "ROBASSA COM DE GASOLINA E PRODUTOS AGRICOLAS EPP LTDA",
 			"name": "ROBASSA COM DE GASOLINA E PRODUTOS AGRICOLAS EPP LTDA",
 			"val": 7.204477487040106,
-			"desc": 229.64,
+			"desc": "229.64",
 			"group": "ROBASSA COM DE GASOLINA E PRODUTOS AGRICOLAS EPP LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "NERIT TECNOLOGIA DA INFORMACAO LTDA",
 			"name": "NERIT TECNOLOGIA DA INFORMACAO LTDA",
 			"val": 150.82216887149528,
-			"desc": 3234,
+			"desc": "3234.00",
 			"group": "NERIT TECNOLOGIA DA INFORMACAO LTDA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "POSTO CANAL VENETO LTDA.",
 			"name": "POSTO CANAL VENETO LTDA.",
 			"val": 14.658622693463409,
-			"desc": 420.46,
+			"desc": "420.46",
 			"group": "POSTO CANAL VENETO LTDA."
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "CELSO TETU E CIA LTDA",
 			"name": "CELSO TETU E CIA LTDA",
 			"val": 4.339025565128298,
-			"desc": 150.05,
+			"desc": "150.05",
 			"group": "CELSO TETU E CIA LTDA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "AUTO POSTO AMF VALENTIM",
 			"name": "AUTO POSTO AMF VALENTIM",
 			"val": 9.952380170051322,
-			"desc": 302.01,
+			"desc": "302.01",
 			"group": "AUTO POSTO AMF VALENTIM"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 23.574987162486842,
-			"desc": 633.28,
+			"desc": "633.28",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.729663604775757,
-			"desc": 216.8,
+			"desc": "216.80",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "POSTO JATIUCA LTDA",
 			"name": "POSTO JATIUCA LTDA",
 			"val": 6.7189893420162905,
-			"desc": 216.51,
+			"desc": "216.51",
 			"group": "POSTO JATIUCA LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"name": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"val": 3.9444359431553178,
-			"desc": 138.6,
+			"desc": "138.60",
 			"group": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "SMART CATERING SERV. SOL. ALIM. LTDA",
 			"name": "SMART CATERING SERV. SOL. ALIM. LTDA",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "SMART CATERING SERV. SOL. ALIM. LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "LOJAS AMERICANAS S/A",
 			"name": "LOJAS AMERICANAS S/A",
 			"val": 5.421662128251023,
-			"desc": 180.77,
+			"desc": "180.77",
 			"group": "LOJAS AMERICANAS S/A"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA",
 			"name": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA",
 			"val": 0.2722076416210554,
-			"desc": 16.74,
+			"desc": "16.74",
 			"group": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "PARK CLUB DERIVADOS DE PETROLEO LTDA",
 			"name": "PARK CLUB DERIVADOS DE PETROLEO LTDA",
 			"val": 4.08237341996612,
-			"desc": 142.62,
+			"desc": "142.62",
 			"group": "PARK CLUB DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.05661815848121405,
-			"desc": 5.66,
+			"desc": "5.66",
 			"group": "RAMAL"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "ESCOLAR COMERCIO DE ARTIGOS ESPORTIVOS LTDA - ME",
 			"name": "ESCOLAR COMERCIO DE ARTIGOS ESPORTIVOS LTDA - ME",
 			"val": 29.123638606423036,
-			"desc": 760.71,
+			"desc": "760.71",
 			"group": "ESCOLAR COMERCIO DE ARTIGOS ESPORTIVOS LTDA - ME"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "RAMA AGENCIA DIGITAL LTDA",
 			"name": "RAMA AGENCIA DIGITAL LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "RAMA AGENCIA DIGITAL LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 21.210304666277313,
-			"desc": 577.95,
+			"desc": "577.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "TIC POSTO LTDA IV",
 			"name": "TIC POSTO LTDA IV",
 			"val": 6.991690119009665,
-			"desc": 223.9,
+			"desc": "223.90",
 			"group": "TIC POSTO LTDA IV"
 		},
 		{

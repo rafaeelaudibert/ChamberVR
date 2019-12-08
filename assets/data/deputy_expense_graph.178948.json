@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BETO ROSADO"
+			"name": "BETO ROSADO",
+			"desc": "95776.78"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 34.240533947568615,
-			"desc": 875.77,
+			"desc": "875.77",
 			"group": "CLARO S/A"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "AUTO POSTO MACEDO",
 			"name": "AUTO POSTO MACEDO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO MACEDO"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 38.545841099594064,
-			"desc": 971.08,
+			"desc": "971.08",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -87,7 +88,7 @@
 			"id": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO TIBAU COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -100,7 +101,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 14.17808168202523,
-			"desc": 408.61,
+			"desc": "408.61",
 			"group": "NET CLARO"
 		},
 		{
@@ -113,7 +114,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 322.6455377754242,
-			"desc": 6381.59,
+			"desc": "6381.59",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -156,7 +157,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 36.15871560981686,
-			"desc": 918.39,
+			"desc": "918.39",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 277.4941744799536,
-			"desc": 5574.57,
+			"desc": "5574.57",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -242,7 +243,7 @@
 			"id": "HOTEL SABINO PALACE LTDA.",
 			"name": "HOTEL SABINO PALACE LTDA.",
 			"val": 15.52268968825872,
-			"desc": 441.65,
+			"desc": "441.65",
 			"group": "HOTEL SABINO PALACE LTDA."
 		},
 		{
@@ -261,7 +262,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 69.75828123226472,
-			"desc": 1633.83,
+			"desc": "1633.83",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "ALTO POSTO PASSA E FICA EIRELI",
 			"name": "ALTO POSTO PASSA E FICA EIRELI",
 			"val": 12.971326015812181,
-			"desc": 378.63,
+			"desc": "378.63",
 			"group": "ALTO POSTO PASSA E FICA EIRELI"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "AUTO POSTO GOLDEN GAS NB LTDA",
 			"name": "AUTO POSTO GOLDEN GAS NB LTDA",
 			"val": 5.878727766436847,
-			"desc": 193.48,
+			"desc": "193.48",
 			"group": "AUTO POSTO GOLDEN GAS NB LTDA"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "POSTO SR COMBUSTIVEIS LTDA",
 			"name": "POSTO SR COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO SR COMBUSTIVEIS LTDA"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 435.34394600023495,
-			"desc": 8353.86,
+			"desc": "8353.86",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
 			"name": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA.",
 			"val": 1301.1873642892585,
-			"desc": 22500,
+			"desc": "22500.00",
 			"group": "CONFIE PRESTAÇÕES DE SERVIÇOS CONSTRUÇÕES LTDA."
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.984785184126971,
-			"desc": 110.03,
+			"desc": "110.03",
 			"group": "POSTO MONTE BELO II - COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 7.96616062498925,
-			"desc": 250.01,
+			"desc": "250.01",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.992133676867226,
-			"desc": 250.7,
+			"desc": "250.70",
 			"group": "RAMAL"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "2HC SOLUCOES INTEGRADAS LTDA",
 			"name": "2HC SOLUCOES INTEGRADAS LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "2HC SOLUCOES INTEGRADAS LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO",
 			"name": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO",
 			"val": 2.6136052489844688,
-			"desc": 98.64,
+			"desc": "98.64",
 			"group": "FCO ASSIS NETO POSTO IGUANA ENTRONCAMENTO"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "HSI DIST DE COMBUSTIVEIS LTDA",
 			"name": "HSI DIST DE COMBUSTIVEIS LTDA",
 			"val": 5.841504024938891,
-			"desc": 192.45,
+			"desc": "192.45",
 			"group": "HSI DIST DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "GP COBERTURA JORNALISTICA LTDA ME",
 			"name": "GP COBERTURA JORNALISTICA LTDA ME",
 			"val": 1301.1873642892585,
-			"desc": 22500,
+			"desc": "22500.00",
 			"group": "GP COBERTURA JORNALISTICA LTDA ME"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "POSTO SUMARE EIRELI",
 			"name": "POSTO SUMARE EIRELI",
 			"val": 276.17850105273436,
-			"desc": 5550.88,
+			"desc": "5550.88",
 			"group": "POSTO SUMARE EIRELI"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "POSTO 30 DE SETEMBRO",
 			"name": "POSTO 30 DE SETEMBRO",
 			"val": 4.337638076770334,
-			"desc": 150.01,
+			"desc": "150.01",
 			"group": "POSTO 30 DE SETEMBRO"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "FJR SERVICOS DE HOSPEDAGEM EIRELI",
 			"name": "FJR SERVICOS DE HOSPEDAGEM EIRELI",
 			"val": 6.224252764754364,
-			"desc": 203,
+			"desc": "203.00",
 			"group": "FJR SERVICOS DE HOSPEDAGEM EIRELI"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "ESTRELA GAS LTDA ME",
 			"name": "ESTRELA GAS LTDA ME",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ESTRELA GAS LTDA ME"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "ALTO POSTO PASSA E FICA LTDA",
 			"name": "ALTO POSTO PASSA E FICA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ALTO POSTO PASSA E FICA LTDA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME",
 			"name": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME",
 			"val": 8.200687875497946,
-			"desc": 256.23,
+			"desc": "256.23",
 			"group": "MIGUEL SOARES DE MOURA &amp; CIA LTDA - ME"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 2.681818319496771,
-			"desc": 100.75,
+			"desc": "100.75",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 8.988115058584109,
-			"desc": 276.95000000000005,
+			"desc": "276.95",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 9.571880150235225,
-			"desc": 292.15999999999997,
+			"desc": "292.16",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "L. FERNANDES DE OLIVEIRA",
 			"name": "L. FERNANDES DE OLIVEIRA",
 			"val": 2.6588363702668834,
-			"desc": 100.04,
+			"desc": "100.04",
 			"group": "L. FERNANDES DE OLIVEIRA"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "POSTOS EMAUS COMERCIO E SERVICO LTDA",
 			"name": "POSTOS EMAUS COMERCIO E SERVICO LTDA",
 			"val": 5.860292627977463,
-			"desc": 192.97,
+			"desc": "192.97",
 			"group": "POSTOS EMAUS COMERCIO E SERVICO LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "POSTO FREI DAMIAO LTDA",
 			"name": "POSTO FREI DAMIAO LTDA",
 			"val": 7.966536967624633,
-			"desc": 250.02,
+			"desc": "250.02",
 			"group": "POSTO FREI DAMIAO LTDA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "POSTO DE COMBUSTIVEIS SERRANO LTDA",
 			"name": "POSTO DE COMBUSTIVEIS SERRANO LTDA",
 			"val": 6.045353592887137,
-			"desc": 198.08,
+			"desc": "198.08",
 			"group": "POSTO DE COMBUSTIVEIS SERRANO LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 13.927042262220278,
-			"desc": 402.4,
+			"desc": "402.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

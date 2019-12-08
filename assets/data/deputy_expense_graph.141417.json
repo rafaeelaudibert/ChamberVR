@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDIO LOPES"
+			"name": "EDIO LOPES",
+			"desc": "141408.92"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 2095.866510107231,
-			"desc": 34736.22999999998,
+			"desc": "34736.23",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 54.22664684604625,
-			"desc": 1309.25,
+			"desc": "1309.25",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 222.46274655437082,
-			"desc": 4573.950000000001,
+			"desc": "4573.95",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "E.F.B. DE BRITO EIRELI - ME",
 			"name": "E.F.B. DE BRITO EIRELI - ME",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "E.F.B. DE BRITO EIRELI - ME"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 220.2178757460819,
-			"desc": 4532.669999999999,
+			"desc": "4532.67",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "RAMA AGENCIA DIGITAL LTDA",
 			"name": "RAMA AGENCIA DIGITAL LTDA",
 			"val": 856.895592196929,
-			"desc": 15400,
+			"desc": "15400.00",
 			"group": "RAMA AGENCIA DIGITAL LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "ORBITA COMUNICAÇÃO LTDA EPP",
 			"name": "ORBITA COMUNICAÇÃO LTDA EPP",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "ORBITA COMUNICAÇÃO LTDA EPP"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "KOTINSKI & CIA. LTDA",
 			"name": "KOTINSKI & CIA. LTDA",
 			"val": 945.0265598856078,
-			"desc": 16829,
+			"desc": "16829.00",
 			"group": "KOTINSKI & CIA. LTDA"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 5.681050816461584,
-			"desc": 188,
+			"desc": "188.00",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.583883659750979,
-			"desc": 239.82,
+			"desc": "239.82",
 			"group": "RAMAL"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "F M DA SILVA SEGURANCA",
 			"name": "F M DA SILVA SEGURANCA",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "F M DA SILVA SEGURANCA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "J R L DOS SANTOS - ME",
 			"name": "J R L DOS SANTOS - ME",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "J R L DOS SANTOS - ME"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "INDUSTRIA E COMERCIO IORIS LTDA.",
 			"name": "INDUSTRIA E COMERCIO IORIS LTDA.",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "INDUSTRIA E COMERCIO IORIS LTDA."
 		},
 		{

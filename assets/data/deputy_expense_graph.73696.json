@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ANGELA AMIN"
+			"name": "ANGELA AMIN",
+			"desc": "77761.46"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "BRISTOL HOTEL LTDA",
 			"name": "BRISTOL HOTEL LTDA",
 			"val": 74.56810993970117,
-			"desc": 1732.7199999999998,
+			"desc": "1732.72",
 			"group": "BRISTOL HOTEL LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "AUTO VIAÇÃO CATARINENSE",
 			"name": "AUTO VIAÇÃO CATARINENSE",
 			"val": 54.250713747851016,
-			"desc": 1309.7600000000002,
+			"desc": "1309.76",
 			"group": "AUTO VIAÇÃO CATARINENSE"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 13.275584961097005,
-			"desc": 386.22,
+			"desc": "386.22",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -152,7 +153,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 20.01036044553733,
-			"desc": 549.5999999999999,
+			"desc": "549.60",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -207,7 +208,7 @@
 			"id": "REAL EXPRESSO LTDA",
 			"name": "REAL EXPRESSO LTDA",
 			"val": 9.104796978978364,
-			"desc": 280,
+			"desc": "280.00",
 			"group": "REAL EXPRESSO LTDA"
 		},
 		{
@@ -220,7 +221,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 37.58877807222958,
-			"desc": 950,
+			"desc": "950.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 4.83641177029331,
-			"desc": 164.28,
+			"desc": "164.28",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.287322758966471,
-			"desc": 204.73,
+			"desc": "204.73",
 			"group": "RAMAL"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 32.48014163741825,
-			"desc": 836.4200000000001,
+			"desc": "836.42",
 			"group": "CLARO S.A"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "IBAGY IMÓVEIS",
 			"name": "IBAGY IMÓVEIS",
 			"val": 328.4866733725845,
-			"desc": 6485.200000000001,
+			"desc": "6485.20",
 			"group": "IBAGY IMÓVEIS"
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "CATARINENSE AUTO VIAÇÃO CATARINENSE",
 			"name": "CATARINENSE AUTO VIAÇÃO CATARINENSE",
 			"val": 9.066519384001374,
-			"desc": 279,
+			"desc": "279.00",
 			"group": "CATARINENSE AUTO VIAÇÃO CATARINENSE"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "KTR LOGISTICA E SERVICOS INTERNACIONAIS EIRELI",
 			"name": "KTR LOGISTICA E SERVICOS INTERNACIONAIS EIRELI",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "KTR LOGISTICA E SERVICOS INTERNACIONAIS EIRELI"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "AMK CARVALHO BOCAIUVA EIRELI",
 			"name": "AMK CARVALHO BOCAIUVA EIRELI",
 			"val": 3.0018991160415434,
-			"desc": 110.55,
+			"desc": "110.55",
 			"group": "AMK CARVALHO BOCAIUVA EIRELI"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.429715128940438,
-			"desc": 60.410000000000004,
+			"desc": "60.41",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "REAL EXPRESSO LIMITADA",
 			"name": "REAL EXPRESSO LIMITADA",
 			"val": 9.104796978978364,
-			"desc": 280,
+			"desc": "280.00",
 			"group": "REAL EXPRESSO LIMITADA"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "ECT - EMP. BRAS. CORREIOS E TELEGRAFOS",
 			"name": "ECT - EMP. BRAS. CORREIOS E TELEGRAFOS",
 			"val": 3.7398169663554595,
-			"desc": 132.6,
+			"desc": "132.60",
 			"group": "ECT - EMP. BRAS. CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 9.893927859214845,
-			"desc": 300.5,
+			"desc": "300.50",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "Industria e Com. Carimbos Center EPP",
 			"name": "Industria e Com. Carimbos Center EPP",
 			"val": 1.3008475025409032,
-			"desc": 56,
+			"desc": "56.00",
 			"group": "Industria e Com. Carimbos Center EPP"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "KTR LOGISTICA E SERVICOS INTERNACIONAIS EIRELI ME",
 			"name": "KTR LOGISTICA E SERVICOS INTERNACIONAIS EIRELI ME",
 			"val": 555.122709769298,
-			"desc": 10400,
+			"desc": "10400.00",
 			"group": "KTR LOGISTICA E SERVICOS INTERNACIONAIS EIRELI ME"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "HOTEL IBIS",
 			"name": "HOTEL IBIS",
 			"val": 6.634043609138527,
-			"desc": 214.2,
+			"desc": "214.20",
 			"group": "HOTEL IBIS"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 29.007358312128574,
-			"desc": 758.07,
+			"desc": "758.07",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 46.490643032796584,
-			"desc": 1143.98,
+			"desc": "1143.98",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.5865012995980985,
-			"desc": 239.89,
+			"desc": "239.89",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "TAM",
 			"name": "TAM",
 			"val": 32.66530387960699,
-			"desc": 840.57,
+			"desc": "840.57",
 			"group": "TAM"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "POSTO 109 SUL DERIV DE PET LTDA",
 			"name": "POSTO 109 SUL DERIV DE PET LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO 109 SUL DERIV DE PET LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "DANI DUARTE SILVA PAPELARIA ME",
 			"name": "DANI DUARTE SILVA PAPELARIA ME",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "DANI DUARTE SILVA PAPELARIA ME"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "EL SHALOM PAPELARIA E LIVRARIA LTDA",
 			"name": "EL SHALOM PAPELARIA E LIVRARIA LTDA",
 			"val": 5.98080272789688,
-			"desc": 196.3,
+			"desc": "196.30",
 			"group": "EL SHALOM PAPELARIA E LIVRARIA LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "DISK CAR LOCACAO DE VEICULOS SA",
 			"name": "DISK CAR LOCACAO DE VEICULOS SA",
 			"val": 256.761354884649,
-			"desc": 5200,
+			"desc": "5200.00",
 			"group": "DISK CAR LOCACAO DE VEICULOS SA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 14.948283278114273,
-			"desc": 427.58,
+			"desc": "427.58",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 114.94490377254861,
-			"desc": 2540.5699999999997,
+			"desc": "2540.57",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "POSTO Z11 LTDA",
 			"name": "POSTO Z11 LTDA",
 			"val": 5.110334441507607,
-			"desc": 172.03,
+			"desc": "172.03",
 			"group": "POSTO Z11 LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "RRBC SERCIÇOS DE MARKETING LTDA",
 			"name": "RRBC SERCIÇOS DE MARKETING LTDA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "RRBC SERCIÇOS DE MARKETING LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "AZUL LINHAS AÉREAS",
 			"name": "AZUL LINHAS AÉREAS",
 			"val": 66.66420886989586,
-			"desc": 1569.84,
+			"desc": "1569.84",
 			"group": "AZUL LINHAS AÉREAS"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "CONQUILHA RESTAURANTE EIRELI",
 			"name": "CONQUILHA RESTAURANTE EIRELI",
 			"val": 3.3320126600628415,
-			"desc": 120.5,
+			"desc": "120.50",
 			"group": "CONQUILHA RESTAURANTE EIRELI"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "RRBC SERVICOS DE MARKETING LTDA",
 			"name": "RRBC SERVICOS DE MARKETING LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "RRBC SERVICOS DE MARKETING LTDA"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "Centro Empresarial Barão do Rio Branco",
 			"name": "Centro Empresarial Barão do Rio Branco",
 			"val": 129.22045275062263,
-			"desc": 2818.74,
+			"desc": "2818.74",
 			"group": "Centro Empresarial Barão do Rio Branco"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "ILHA MAIS INFORMATICA LTDA EPP",
 			"name": "ILHA MAIS INFORMATICA LTDA EPP",
 			"val": 1.2085848243682944,
-			"desc": 52.8,
+			"desc": "52.80",
 			"group": "ILHA MAIS INFORMATICA LTDA EPP"
 		},
 		{
@@ -847,7 +848,7 @@
 			"id": "POSTO DE GASOLINA RANONI LTDA",
 			"name": "POSTO DE GASOLINA RANONI LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE GASOLINA RANONI LTDA"
 		},
 		{
@@ -860,7 +861,7 @@
 			"id": "BV PAPELARIA E INFORMATICA LTDA ME",
 			"name": "BV PAPELARIA E INFORMATICA LTDA ME",
 			"val": 23.236450339248652,
-			"desc": 625.4,
+			"desc": "625.40",
 			"group": "BV PAPELARIA E INFORMATICA LTDA ME"
 		},
 		{
@@ -873,7 +874,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -886,7 +887,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "GUSTAVO MORAES PENG",
 			"name": "GUSTAVO MORAES PENG",
 			"val": 3.7398169663554595,
-			"desc": 132.6,
+			"desc": "132.60",
 			"group": "GUSTAVO MORAES PENG"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 16.168747051587278,
-			"desc": 457.4,
+			"desc": "457.40",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "CORREIOS - EMS MERCADORIA",
 			"name": "CORREIOS - EMS MERCADORIA",
 			"val": 5.144762733524613,
-			"desc": 173,
+			"desc": "173.00",
 			"group": "CORREIOS - EMS MERCADORIA"
 		},
 		{

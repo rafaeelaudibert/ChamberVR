@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JÉSSICA SALES"
+			"name": "JÉSSICA SALES",
+			"desc": "236114.27"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CLAUDIO GOMES DA SILVA ME",
 			"name": "CLAUDIO GOMES DA SILVA ME",
 			"val": 1981.3435493307115,
-			"desc": 33000,
+			"desc": "33000.00",
 			"group": "CLAUDIO GOMES DA SILVA ME"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1591.8543713548997,
-			"desc": 27031.270000000004,
+			"desc": "27031.27",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "MARCOS A.S CORDEIRO",
 			"name": "MARCOS A.S CORDEIRO",
 			"val": 1304.1279276484347,
-			"desc": 22546.230000000003,
+			"desc": "22546.23",
 			"group": "MARCOS A.S CORDEIRO"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 43.33882334562815,
-			"desc": 1075.8099999999997,
+			"desc": "1075.81",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -411,7 +412,7 @@
 			"id": "AD. FIRMINO DA COSTA - ME",
 			"name": "AD. FIRMINO DA COSTA - ME",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "AD. FIRMINO DA COSTA - ME"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "TOTA & DONADONI ADVOGADOS ASSOCIADOS",
 			"name": "TOTA & DONADONI ADVOGADOS ASSOCIADOS",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "TOTA & DONADONI ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.066848239868208,
-			"desc": 225.93,
+			"desc": "225.93",
 			"group": "RAMAL"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "EMPRESA CRUZEIRENSE DE TELEC DE RADIO E TV LTDA",
 			"name": "EMPRESA CRUZEIRENSE DE TELEC DE RADIO E TV LTDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "EMPRESA CRUZEIRENSE DE TELEC DE RADIO E TV LTDA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "AEROBRAN TAXI AEREO LTDA - EPP",
 			"name": "AEROBRAN TAXI AEREO LTDA - EPP",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "AEROBRAN TAXI AEREO LTDA - EPP"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "OCIDENTAL FM RADIODIFUSÃO LTDA -ME",
 			"name": "OCIDENTAL FM RADIODIFUSÃO LTDA -ME",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "OCIDENTAL FM RADIODIFUSÃO LTDA -ME"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 465.36552691301017,
-			"desc": 8870.949999999999,
+			"desc": "8870.95",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 154.3148429200194,
-			"desc": 3300.57,
+			"desc": "3300.57",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "TOTA & DONADONIADVOGADOS ASSOCIADOS",
 			"name": "TOTA & DONADONIADVOGADOS ASSOCIADOS",
 			"val": 2073.648641960011,
-			"desc": 34400,
+			"desc": "34400.00",
 			"group": "TOTA & DONADONIADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 85.76601972594315,
-			"desc": 1960.46,
+			"desc": "1960.46",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "RAIMUNDO ADEMIR M. DE SOUZA",
 			"name": "RAIMUNDO ADEMIR M. DE SOUZA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "RAIMUNDO ADEMIR M. DE SOUZA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "FLAVIO BARROS MENDES 00234305240",
 			"name": "FLAVIO BARROS MENDES 00234305240",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "FLAVIO BARROS MENDES 00234305240"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "D.M. NASCIMENTO -ME  STUDIO LOTUS",
 			"name": "D.M. NASCIMENTO -ME  STUDIO LOTUS",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "D.M. NASCIMENTO -ME  STUDIO LOTUS"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 6.226074406477422,
-			"desc": 203.05,
+			"desc": "203.05",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

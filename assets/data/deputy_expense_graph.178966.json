@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GEOVANIA DE SÁ"
+			"name": "GEOVANIA DE SÁ",
+			"desc": "55958.86"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "STAR PRINT INFORMATICA EIRELI",
 			"name": "STAR PRINT INFORMATICA EIRELI",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "STAR PRINT INFORMATICA EIRELI"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "AUTO POSTO LINHA ANTA",
 			"name": "AUTO POSTO LINHA ANTA",
 			"val": 13.42984732216751,
-			"desc": 390.06,
+			"desc": "390.06",
 			"group": "AUTO POSTO LINHA ANTA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 11.641923373845831,
-			"desc": 345.2,
+			"desc": "345.20",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 7.547249097978013,
-			"desc": 238.84,
+			"desc": "238.84",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -105,7 +106,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 10.946685709782056,
-			"desc": 327.53,
+			"desc": "327.53",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -130,7 +131,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 542.5167978676158,
-			"desc": 10186.659999999998,
+			"desc": "10186.66",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -221,7 +222,7 @@
 			"id": "ECT",
 			"name": "ECT",
 			"val": 10.855414628101714,
-			"desc": 325.2,
+			"desc": "325.20",
 			"group": "ECT"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 68.89371095269992,
-			"desc": 1615.98,
+			"desc": "1615.98",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "POSTO CHILE",
 			"name": "POSTO CHILE",
 			"val": 13.87213775210086,
-			"desc": 401.03999999999996,
+			"desc": "401.04",
 			"group": "POSTO CHILE"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.2426140685366094,
-			"desc": 117.82,
+			"desc": "117.82",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "ASM CMERCIO DE ALIMENTOS EIRELI",
 			"name": "ASM CMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.39242998244008215,
-			"desc": 22,
+			"desc": "22.00",
 			"group": "ASM CMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "BERIMBAU PRODUÇÕES",
 			"name": "BERIMBAU PRODUÇÕES",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "BERIMBAU PRODUÇÕES"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "JORNAL A TRIBUNA LTDA.",
 			"name": "JORNAL A TRIBUNA LTDA.",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "JORNAL A TRIBUNA LTDA."
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.1047188959517027,
-			"desc": 49.15,
+			"desc": "49.15",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "JOÃO RAPHAEL MAFIOLETE MARCON",
 			"name": "JOÃO RAPHAEL MAFIOLETE MARCON",
 			"val": 146.42631502726047,
-			"desc": 3150,
+			"desc": "3150.00",
 			"group": "JOÃO RAPHAEL MAFIOLETE MARCON"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"name": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"val": 0.4190333066872962,
-			"desc": 23.12,
+			"desc": "23.12",
 			"group": "ROGERIO DE ALMEIDA TCHE GAROTO - ME"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 25.060699609581977,
-			"desc": 667.71,
+			"desc": "667.71",
 			"group": "CLARO S.A"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 15.618882578637788,
-			"desc": 444,
+			"desc": "444.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "AUTO POSTO DARIO",
 			"name": "AUTO POSTO DARIO",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "AUTO POSTO DARIO"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "DECORE PAPELARIA EIRELI",
 			"name": "DECORE PAPELARIA EIRELI",
 			"val": 17.169553555621054,
-			"desc": 481.65,
+			"desc": "481.65",
 			"group": "DECORE PAPELARIA EIRELI"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS J & J ROSSO LTDA - ME",
 			"name": "COMERCIO DE COMBUSTIVEIS J & J ROSSO LTDA - ME",
 			"val": 6.787490643614441,
-			"desc": 218.37,
+			"desc": "218.37",
 			"group": "COMERCIO DE COMBUSTIVEIS J & J ROSSO LTDA - ME"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "NC COMUNICACOES SA",
 			"name": "NC COMUNICACOES SA",
 			"val": 6.0351933848777275,
-			"desc": 197.8,
+			"desc": "197.80",
 			"group": "NC COMUNICACOES SA"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "POSTO LAURINDO LTDA - ME",
 			"name": "POSTO LAURINDO LTDA - ME",
 			"val": 7.33091060762018,
-			"desc": 233.04,
+			"desc": "233.04",
 			"group": "POSTO LAURINDO LTDA - ME"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "BRASIL LEASING",
 			"name": "BRASIL LEASING",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "BRASIL LEASING"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "DATAMOBI",
 			"name": "DATAMOBI",
 			"val": 28.520353725174242,
-			"desc": 747,
+			"desc": "747.00",
 			"group": "DATAMOBI"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.489815929036904,
-			"desc": 94.79,
+			"desc": "94.79",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "PETISQUEIRA SOBREIRO",
 			"name": "PETISQUEIRA SOBREIRO",
 			"val": 2.65430814405286,
-			"desc": 99.9,
+			"desc": "99.90",
 			"group": "PETISQUEIRA SOBREIRO"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.763289181577257,
-			"desc": 36.71,
+			"desc": "36.71",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 0.3603377665175424,
-			"desc": 20.63,
+			"desc": "20.63",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "AUTO POSTO COMERCIO DAROLT",
 			"name": "AUTO POSTO COMERCIO DAROLT",
 			"val": 12.626444561564142,
-			"desc": 370,
+			"desc": "370.00",
 			"group": "AUTO POSTO COMERCIO DAROLT"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "SOCIEDADE ABAST. SANTA BARBARA LTDA",
 			"name": "SOCIEDADE ABAST. SANTA BARBARA LTDA",
 			"val": 295.60806028971416,
-			"desc": 5899.69,
+			"desc": "5899.69",
 			"group": "SOCIEDADE ABAST. SANTA BARBARA LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "NAPOLI & CIA",
 			"name": "NAPOLI & CIA",
 			"val": 7.255016114268437,
-			"desc": 231,
+			"desc": "231.00",
 			"group": "NAPOLI & CIA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 48.957826492227426,
-			"desc": 1196.99,
+			"desc": "1196.99",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 3.9088594060442174,
-			"desc": 137.56,
+			"desc": "137.56",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "AUTO POSTO VALTELINO LTDA",
 			"name": "AUTO POSTO VALTELINO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO VALTELINO LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "ESTACAO DO GUARANA ALIMENTOS LTDA.",
 			"name": "ESTACAO DO GUARANA ALIMENTOS LTDA.",
 			"val": 0.5284402383527451,
-			"desc": 27.6,
+			"desc": "27.60",
 			"group": "ESTACAO DO GUARANA ALIMENTOS LTDA."
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "BULEBAR CAFÉ",
 			"name": "BULEBAR CAFÉ",
 			"val": 0.3342613730712554,
-			"desc": 19.5,
+			"desc": "19.50",
 			"group": "BULEBAR CAFÉ"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "CLIPPING EXPRESS - SERVICOS DE INFORMACAO LTDA",
 			"name": "CLIPPING EXPRESS - SERVICOS DE INFORMACAO LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "CLIPPING EXPRESS - SERVICOS DE INFORMACAO LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "CLIPPING EXPRESS - SERVIÇOS DE INFORMAÇÃO LTDA",
 			"name": "CLIPPING EXPRESS - SERVIÇOS DE INFORMAÇÃO LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "CLIPPING EXPRESS - SERVIÇOS DE INFORMAÇÃO LTDA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
 			"name": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
 			"val": 26.69402122790649,
-			"desc": 705.29,
+			"desc": "705.29",
 			"group": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA."
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "BOSS CARTUCHOS",
 			"name": "BOSS CARTUCHOS",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "BOSS CARTUCHOS"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.9170653612926913,
-			"desc": 137.8,
+			"desc": "137.80",
 			"group": "RAMAL"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "DN COMUNICACAO LTDA ME",
 			"name": "DN COMUNICACAO LTDA ME",
 			"val": 20.238283593947184,
-			"desc": 555,
+			"desc": "555.00",
 			"group": "DN COMUNICACAO LTDA ME"
 		},
 		{
@@ -889,7 +890,7 @@
 			"id": "BENDITO FRUTO",
 			"name": "BENDITO FRUTO",
 			"val": 0.3342613730712554,
-			"desc": 19.5,
+			"desc": "19.50",
 			"group": "BENDITO FRUTO"
 		},
 		{
@@ -902,7 +903,7 @@
 			"id": "RENDERIZE VIDEO PRODUCOES LTDA",
 			"name": "RENDERIZE VIDEO PRODUCOES LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "RENDERIZE VIDEO PRODUCOES LTDA"
 		},
 		{
@@ -915,7 +916,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 53.97236289885093,
-			"desc": 1303.86,
+			"desc": "1303.86",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -928,7 +929,7 @@
 			"id": "AUTO POSTO CHAMINÉ LTDA",
 			"name": "AUTO POSTO CHAMINÉ LTDA",
 			"val": 6.480332513835858,
-			"desc": 210.01,
+			"desc": "210.01",
 			"group": "AUTO POSTO CHAMINÉ LTDA"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "RESTAURANTE ZÉ DO CACUPE",
 			"name": "RESTAURANTE ZÉ DO CACUPE",
 			"val": 2.5189951191023687,
-			"desc": 95.7,
+			"desc": "95.70",
 			"group": "RESTAURANTE ZÉ DO CACUPE"
 		},
 		{
@@ -954,7 +955,7 @@
 			"id": "TIM CELULAR S/A",
 			"name": "TIM CELULAR S/A",
 			"val": 56.231375248603705,
-			"desc": 1351.65,
+			"desc": "1351.65",
 			"group": "TIM CELULAR S/A"
 		},
 		{
@@ -967,7 +968,7 @@
 			"id": "SLAVIERO EMPREENDIMENTOS HOTELEIROS",
 			"name": "SLAVIERO EMPREENDIMENTOS HOTELEIROS",
 			"val": 5.3409200091454085,
-			"desc": 178.51,
+			"desc": "178.51",
 			"group": "SLAVIERO EMPREENDIMENTOS HOTELEIROS"
 		},
 		{

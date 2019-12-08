@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALEX MANENTE"
+			"name": "ALEX MANENTE",
+			"desc": "66091.65"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
 			"name": "MUNICIPIO DE SAO BERNARDO DO CAMPO",
 			"val": 60.28271842498428,
-			"desc": 1436.8500000000001,
+			"desc": "1436.85",
 			"group": "MUNICIPIO DE SAO BERNARDO DO CAMPO"
 		},
 		{
@@ -84,7 +85,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.096,
-			"desc": 8,
+			"desc": "8.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 600.3995926090957,
-			"desc": 11162.82,
+			"desc": "11162.82",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 119.39422782086487,
-			"desc": 2627.62,
+			"desc": "2627.62",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -273,7 +274,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 51.43480818214622,
-			"desc": 1249.9199999999998,
+			"desc": "1249.92",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 53.47548953387908,
-			"desc": 1293.32,
+			"desc": "1293.32",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
 			"name": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME",
 			"val": 11.102419069709292,
-			"desc": 331.5,
+			"desc": "331.50",
 			"group": "MARUAN PRESTADORA DE SERVICOS POSTAIS LTDA - ME"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 125.22656393804186,
-			"desc": 2741.2400000000002,
+			"desc": "2741.24",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 208.37266194341652,
-			"desc": 4314.18,
+			"desc": "4314.18",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
 			"name": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO",
 			"val": 1363.3188447645362,
-			"desc": 23475,
+			"desc": "23475.00",
 			"group": "ANDRE SPIGARIOL - SERVIÇOS DE INFORMAÇÃO"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 52.58998876125153,
-			"desc": 1274.51,
+			"desc": "1274.51",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "Sky Serviços de Banda Larga Ltda",
 			"name": "Sky Serviços de Banda Larga Ltda",
 			"val": 14.82737192373662,
-			"desc": 424.60999999999996,
+			"desc": "424.61",
 			"group": "Sky Serviços de Banda Larga Ltda"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.534583849764156,
-			"desc": 316.99,
+			"desc": "316.99",
 			"group": "RAMAL"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "CENTRO EMPRESARIAL MEDITERRANEO",
 			"name": "CENTRO EMPRESARIAL MEDITERRANEO",
 			"val": 415.42094954914353,
-			"desc": 8008.95,
+			"desc": "8008.95",
 			"group": "CENTRO EMPRESARIAL MEDITERRANEO"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "SOLARYS SOLUCOES DIGITAIS LTDA",
 			"name": "SOLARYS SOLUCOES DIGITAIS LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 57.392333104411236,
-			"desc": 1376.13,
+			"desc": "1376.13",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 63.298723887923344,
-			"desc": 1499.88,
+			"desc": "1499.88",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "NOBILE RIBEIRAO PRETO",
 			"name": "NOBILE RIBEIRAO PRETO",
 			"val": 14.477531690986778,
-			"desc": 416,
+			"desc": "416.00",
 			"group": "NOBILE RIBEIRAO PRETO"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 44.23099766663907,
-			"desc": 1095.16,
+			"desc": "1095.16",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 0.44087982713129625,
-			"desc": 24.03,
+			"desc": "24.03",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
 			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
 			"val": 29.063730022144693,
-			"desc": 759.35,
+			"desc": "759.35",
 			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ..."
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 24.55378445067588,
-			"desc": 655.99,
+			"desc": "655.99",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{

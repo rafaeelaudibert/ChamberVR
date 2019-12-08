@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SIDNEY LEITE"
+			"name": "SIDNEY LEITE",
+			"desc": "80460.23"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 288.3697273295381,
-			"desc": 5770,
+			"desc": "5770.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 93.95809880123848,
-			"desc": 2125.1099999999997,
+			"desc": "2125.11",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1123.6816729535603,
-			"desc": 19692.489999999998,
+			"desc": "19692.49",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "CMKS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "CMKS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 14.074527153466793,
-			"desc": 406.05,
+			"desc": "406.05",
 			"group": "CMKS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 279.23615465397637,
-			"desc": 5605.92,
+			"desc": "5605.92",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 152.08045421926454,
-			"desc": 3258,
+			"desc": "3258.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 54.8891390949544,
-			"desc": 1323.28,
+			"desc": "1323.28",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "SP POSTO - COMERCIO DE COMBUSTIVEIS PARA VEICULO LTDA",
 			"name": "SP POSTO - COMERCIO DE COMBUSTIVEIS PARA VEICULO LTDA",
 			"val": 256.54077190986874,
-			"desc": 5196,
+			"desc": "5196.00",
 			"group": "SP POSTO - COMERCIO DE COMBUSTIVEIS PARA VEICULO LTDA"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1594.983525660343,
-			"desc": 27079.659999999996,
+			"desc": "27079.66",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "POSTO & MOTEL RODOBELO EIRELI EPP",
 			"name": "POSTO & MOTEL RODOBELO EIRELI EPP",
 			"val": 11.753763630307837,
-			"desc": 348.03,
+			"desc": "348.03",
 			"group": "POSTO & MOTEL RODOBELO EIRELI EPP"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 189.7964869319164,
-			"desc": 3969.1099999999997,
+			"desc": "3969.11",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "Posto Nota 10 Ltda",
 			"name": "Posto Nota 10 Ltda",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "Posto Nota 10 Ltda"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 5.827056769629093,
-			"desc": 192.05,
+			"desc": "192.05",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 46.5625848449031,
-			"desc": 1145.53,
+			"desc": "1145.53",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.519413009586918,
-			"desc": 183.5,
+			"desc": "183.50",
 			"group": "RAMAL"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 32.79074596585957,
-			"desc": 843.3800000000001,
+			"desc": "843.38",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.38752649522843,
-			"desc": 234.56,
+			"desc": "234.56",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 19.32423966416164,
-			"desc": 533.3,
+			"desc": "533.30",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 82.77755614445915,
-			"desc": 1900,
+			"desc": "1900.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PRETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PRETROLEO LTDA",
 			"val": 8.117258156682537,
-			"desc": 254.02,
+			"desc": "254.02",
 			"group": "AUTO SHOPPING DERIVADO DE PRETROLEO LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.2901646186042873,
-			"desc": 17.55,
+			"desc": "17.55",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS-FILIAL SAMAMBAIA",
 			"name": "PETRONORTE COMBUSTIVEIS-FILIAL SAMAMBAIA",
 			"val": 7.317882144744464,
-			"desc": 232.69,
+			"desc": "232.69",
 			"group": "PETRONORTE COMBUSTIVEIS-FILIAL SAMAMBAIA"
 		},
 		{

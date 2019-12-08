@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FLAVIANO MELO"
+			"name": "FLAVIANO MELO",
+			"desc": "177468.77"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1142.8238223206279,
-			"desc": 19996.929999999997,
+			"desc": "19996.93",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -198,7 +199,7 @@
 			"id": "R.S.FERREIRA RIBEIRO - ME",
 			"name": "R.S.FERREIRA RIBEIRO - ME",
 			"val": 2714.8379989806917,
-			"desc": 44000,
+			"desc": "44000.00",
 			"group": "R.S.FERREIRA RIBEIRO - ME"
 		},
 		{
@@ -229,7 +230,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.168370742372318,
-			"desc": 307.58,
+			"desc": "307.58",
 			"group": "RAMAL"
 		},
 		{
@@ -260,7 +261,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 78.37368237146977,
-			"desc": 1810.4900000000002,
+			"desc": "1810.49",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "T. M. PERES (ME)",
 			"name": "T. M. PERES (ME)",
 			"val": 6.3336764343989715,
-			"desc": 206,
+			"desc": "206.00",
 			"group": "T. M. PERES (ME)"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "RIO BRANCO AEROTAXI LTDA-EPP",
 			"name": "RIO BRANCO AEROTAXI LTDA-EPP",
 			"val": 714.9961653168015,
-			"desc": 13072,
+			"desc": "13072.00",
 			"group": "RIO BRANCO AEROTAXI LTDA-EPP"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "F. FACANHA DE ALMEIRA - ME",
 			"name": "F. FACANHA DE ALMEIRA - ME",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "F. FACANHA DE ALMEIRA - ME"
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ACRE",
 			"name": "COMPANHIA DE ELETRICIDADE DO ACRE",
 			"val": 126.88959719192337,
-			"desc": 2773.54,
+			"desc": "2773.54",
 			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "VIGIACRE VIGILANCIA PATRIMONIAL LTDA",
 			"name": "VIGIACRE VIGILANCIA PATRIMONIAL LTDA",
 			"val": 42.79528204549306,
-			"desc": 1064,
+			"desc": "1064.00",
 			"group": "VIGIACRE VIGILANCIA PATRIMONIAL LTDA"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.884353834544092,
-			"desc": 41.21,
+			"desc": "41.21",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 534.3880937181472,
-			"desc": 10048.86,
+			"desc": "10048.86",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 149.32457857347762,
-			"desc": 3205.4100000000003,
+			"desc": "3205.41",
 			"group": "Claro S.A"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 172.21103305563503,
-			"desc": 3639.44,
+			"desc": "3639.44",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "ALBUQUERQUE EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"name": "ALBUQUERQUE EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"val": 446.97964669724513,
-			"desc": 8554.64,
+			"desc": "8554.64",
 			"group": "ALBUQUERQUE EMPREENDIMENTOS IMOBILIÁRIOS LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "FABRICIO P. DE SOUZA",
 			"name": "FABRICIO P. DE SOUZA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "FABRICIO P. DE SOUZA"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "COMDEPE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "COMDEPE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2001.1290921288783,
-			"desc": 33300.52,
+			"desc": "33300.52",
 			"group": "COMDEPE COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "TAM LINHAS AEREAS SA RBR",
 			"name": "TAM LINHAS AEREAS SA RBR",
 			"val": 1.1109361298885592,
-			"desc": 49.37,
+			"desc": "49.37",
 			"group": "TAM LINHAS AEREAS SA RBR"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 22.271286247487044,
-			"desc": 602.86,
+			"desc": "602.86",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 39.7901302615061,
-			"desc": 998.4,
+			"desc": "998.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 35.31475408892983,
-			"desc": 899.67,
+			"desc": "899.67",
 			"group": "CLARO S.A."
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "Portosoft Comercio de Produtos de Informatica Ltda",
 			"name": "Portosoft Comercio de Produtos de Informatica Ltda",
 			"val": 3.8555797856401846,
-			"desc": 136,
+			"desc": "136.00",
 			"group": "Portosoft Comercio de Produtos de Informatica Ltda"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "ALDENOR DA S. E SILVA",
 			"name": "ALDENOR DA S. E SILVA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "ALDENOR DA S. E SILVA"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "ENARDE FERNANDES DE OLIVEIRA",
 			"name": "ENARDE FERNANDES DE OLIVEIRA",
 			"val": 75.41197444703784,
-			"desc": 1750,
+			"desc": "1750.00",
 			"group": "ENARDE FERNANDES DE OLIVEIRA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DAMIÃO FELICIANO"
+			"name": "DAMIÃO FELICIANO",
+			"desc": "132540.05"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 509.2226992405042,
-			"desc": 9621.06,
+			"desc": "9621.06",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -84,7 +85,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 974.571350946706,
-			"desc": 17305.479999999996,
+			"desc": "17305.48",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 120.25792209520964,
-			"desc": 2644.48,
+			"desc": "2644.48",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 117.85332589532854,
-			"desc": 2597.51,
+			"desc": "2597.51",
 			"group": "TIM S/A"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.7818463933533053,
-			"desc": 103.83,
+			"desc": "103.83",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "MAIS PROPAGANDA LTDA.",
 			"name": "MAIS PROPAGANDA LTDA.",
 			"val": 3602.0977401325167,
-			"desc": 57000,
+			"desc": "57000.00",
 			"group": "MAIS PROPAGANDA LTDA."
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 12.761782385903702,
-			"desc": 373.39,
+			"desc": "373.39",
 			"group": "RAMAL"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "S/A CORREIO BRAZILIENSE",
 			"name": "S/A CORREIO BRAZILIENSE",
 			"val": 28.900374475611596,
-			"desc": 755.64,
+			"desc": "755.64",
 			"group": "S/A CORREIO BRAZILIENSE"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "Suprema Locadora e Turismo Ltda",
 			"name": "Suprema Locadora e Turismo Ltda",
 			"val": 208.14665993455415,
-			"desc": 4310,
+			"desc": "4310.00",
 			"group": "Suprema Locadora e Turismo Ltda"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 4.860715595071068,
-			"desc": 164.97,
+			"desc": "164.97",
 			"group": "NET CLARO"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 36.979535173921924,
-			"desc": 936.55,
+			"desc": "936.55",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 9.724239848139005,
-			"desc": 296.11,
+			"desc": "296.11",
 			"group": "CLARO S/A"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 47.73716391083377,
-			"desc": 1170.8000000000002,
+			"desc": "1170.80",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "POSTO DE COMBUSTIVEL SHOPPING LTDA",
 			"name": "POSTO DE COMBUSTIVEL SHOPPING LTDA",
 			"val": 36.006620662506634,
-			"desc": 915.0200000000001,
+			"desc": "915.02",
 			"group": "POSTO DE COMBUSTIVEL SHOPPING LTDA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 17.320809396420913,
-			"desc": 485.3,
+			"desc": "485.30",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 21.90601108512338,
-			"desc": 594.3,
+			"desc": "594.30",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 1.453000546262735,
-			"desc": 61.2,
+			"desc": "61.20",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "BEZERRA E BEZERRA LTDA",
 			"name": "BEZERRA E BEZERRA LTDA",
 			"val": 653.7045291327731,
-			"desc": 12054.49,
+			"desc": "12054.49",
 			"group": "BEZERRA E BEZERRA LTDA"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "RICARDO JOSÉ DA COSTA DE MACEDO",
 			"name": "RICARDO JOSÉ DA COSTA DE MACEDO",
 			"val": 686.5052601090418,
-			"desc": 12600,
+			"desc": "12600.00",
 			"group": "RICARDO JOSÉ DA COSTA DE MACEDO"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "HS PETROLEO COMERCIO DE COMB LTDA-EPP",
 			"name": "HS PETROLEO COMERCIO DE COMB LTDA-EPP",
 			"val": 19.944994484437117,
-			"desc": 548.05,
+			"desc": "548.05",
 			"group": "HS PETROLEO COMERCIO DE COMB LTDA-EPP"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 55.48578520084576,
-			"desc": 1335.9,
+			"desc": "1335.90",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 21.41427529695939,
-			"desc": 582.75,
+			"desc": "582.75",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 70.86278507045463,
-			"desc": 1656.6000000000001,
+			"desc": "1656.60",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "ALAMO SEGURANÇA ELETRÔNICA",
 			"name": "ALAMO SEGURANÇA ELETRÔNICA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "ALAMO SEGURANÇA ELETRÔNICA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "Empresa Folha da Manhã S.A.",
 			"name": "Empresa Folha da Manhã S.A.",
 			"val": 67.60454830176633,
-			"desc": 1589.32,
+			"desc": "1589.32",
 			"group": "Empresa Folha da Manhã S.A."
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "QUADRAMARES COMERCIO DE COMB. LTDA",
 			"name": "QUADRAMARES COMERCIO DE COMB. LTDA",
 			"val": 6.9609909807066535,
-			"desc": 223.07,
+			"desc": "223.07",
 			"group": "QUADRAMARES COMERCIO DE COMB. LTDA"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "Energisa Paraíba Distribuidora de Energia S.A.",
 			"name": "Energisa Paraíba Distribuidora de Energia S.A.",
 			"val": 17.564809004755027,
-			"desc": 491.18,
+			"desc": "491.18",
 			"group": "Energisa Paraíba Distribuidora de Energia S.A."
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"val": 66.5942699737782,
-			"desc": 1568.39,
+			"desc": "1568.39",
 			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.5556682864321558,
-			"desc": 64.66,
+			"desc": "64.66",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"name": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
 		},
 		{

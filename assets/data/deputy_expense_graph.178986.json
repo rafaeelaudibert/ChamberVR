@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NILTO TATTO"
+			"name": "NILTO TATTO",
+			"desc": "65063.36"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 76.3967482864046,
-			"desc": 1770.14,
+			"desc": "1770.14",
 			"group": "Telefônia Brasil S/A"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "VISTAR PRESTACAO DE SERVICOS DE DIGITACAO LTDA",
 			"name": "VISTAR PRESTACAO DE SERVICOS DE DIGITACAO LTDA",
 			"val": 1525.2872962915308,
-			"desc": 26000,
+			"desc": "26000.00",
 			"group": "VISTAR PRESTACAO DE SERVICOS DE DIGITACAO LTDA"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 37.813728722086296,
-			"desc": 954.9599999999999,
+			"desc": "954.96",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -141,7 +142,7 @@
 			"id": "AUTO POSTO SABARA LT",
 			"name": "AUTO POSTO SABARA LT",
 			"val": 5.609852709977454,
-			"desc": 186.02,
+			"desc": "186.02",
 			"group": "AUTO POSTO SABARA LT"
 		},
 		{
@@ -154,7 +155,7 @@
 			"id": "SCHIAVON CENTRO AUTOMOTIVO LTDA",
 			"name": "SCHIAVON CENTRO AUTOMOTIVO LTDA",
 			"val": 31.83012082365264,
-			"desc": 821.83,
+			"desc": "821.83",
 			"group": "SCHIAVON CENTRO AUTOMOTIVO LTDA"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "CENTRO AUTOMOTIVO JARDIM MARAJOARA LTDA",
 			"name": "CENTRO AUTOMOTIVO JARDIM MARAJOARA LTDA",
 			"val": 3.2133356432189335,
-			"desc": 116.94,
+			"desc": "116.94",
 			"group": "CENTRO AUTOMOTIVO JARDIM MARAJOARA LTDA"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 98.18378990906879,
-			"desc": 2209.46,
+			"desc": "2209.46",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "FORMULA I AUTO POSTO LTDA",
 			"name": "FORMULA I AUTO POSTO LTDA",
 			"val": 5.532320803174425,
-			"desc": 183.86,
+			"desc": "183.86",
 			"group": "FORMULA I AUTO POSTO LTDA"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "JOAO JORGE FIGUEIREDO EMPREEND E PARTICIPACOES LTDA",
 			"name": "JOAO JORGE FIGUEIREDO EMPREEND E PARTICIPACOES LTDA",
 			"val": 502.88323278981676,
-			"desc": 9513,
+			"desc": "9513.00",
 			"group": "JOAO JORGE FIGUEIREDO EMPREEND E PARTICIPACOES LTDA"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 18.24831798497968,
-			"desc": 507.59999999999997,
+			"desc": "507.60",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "RODOPOSTO REGISTRO BUENOS AIRES LTDA",
 			"name": "RODOPOSTO REGISTRO BUENOS AIRES LTDA",
 			"val": 2.3405587036257787,
-			"desc": 90.11,
+			"desc": "90.11",
 			"group": "RODOPOSTO REGISTRO BUENOS AIRES LTDA"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "POSTO SUMMER DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO SUMMER DERIVADOS DE PETROLEO LTDA",
 			"val": 30.903802550600545,
-			"desc": 800.9799999999999,
+			"desc": "800.98",
 			"group": "POSTO SUMMER DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.7225709461113798,
-			"desc": 35.17,
+			"desc": "35.17",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "ERNANI ALUISIO AZEKA ME",
 			"name": "ERNANI ALUISIO AZEKA ME",
 			"val": 0.7020948515110543,
-			"desc": 34.39,
+			"desc": "34.39",
 			"group": "ERNANI ALUISIO AZEKA ME"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 4.349780685055761,
-			"desc": 150.35999999999999,
+			"desc": "150.36",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 7.499434836688737,
-			"desc": 237.56,
+			"desc": "237.56",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "AUTO POSTO VILA BUARQUE LTDA ME",
 			"name": "AUTO POSTO VILA BUARQUE LTDA ME",
 			"val": 3.9982280299545194,
-			"desc": 140.17,
+			"desc": "140.17",
 			"group": "AUTO POSTO VILA BUARQUE LTDA ME"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "FBWM Com Bebidas Alim LTDA",
 			"name": "FBWM Com Bebidas Alim LTDA",
 			"val": 1.8120091716768791,
-			"desc": 73.15,
+			"desc": "73.15",
 			"group": "FBWM Com Bebidas Alim LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "AUTO POSTO OURO VERDE DE REGISTRO LT",
 			"name": "AUTO POSTO OURO VERDE DE REGISTRO LT",
 			"val": 4.878337473104546,
-			"desc": 165.47,
+			"desc": "165.47",
 			"group": "AUTO POSTO OURO VERDE DE REGISTRO LT"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "ATTBRASIL TECNOLOGIA LOCAÇÃO E SOLUÇÕES EM INFORMÁTICA LTDA-EPP",
 			"name": "ATTBRASIL TECNOLOGIA LOCAÇÃO E SOLUÇÕES EM INFORMÁTICA LTDA-EPP",
 			"val": 38.95162072089008,
-			"desc": 980,
+			"desc": "980.00",
 			"group": "ATTBRASIL TECNOLOGIA LOCAÇÃO E SOLUÇÕES EM INFORMÁTICA LTDA-EPP"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "JOAO RODRIGUES DOS SANTOS FILHO",
 			"name": "JOAO RODRIGUES DOS SANTOS FILHO",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "JOAO RODRIGUES DOS SANTOS FILHO"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "Gold Inn Hotel",
 			"name": "Gold Inn Hotel",
 			"val": 3.281933255334581,
-			"desc": 119,
+			"desc": "119.00",
 			"group": "Gold Inn Hotel"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 23.696706747453558,
-			"desc": 636.11,
+			"desc": "636.11",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 84.17947750024696,
-			"desc": 1928.39,
+			"desc": "1928.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 68.33053608078522,
-			"desc": 1604.34,
+			"desc": "1604.34",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "AUTO POSTO 555 LTDA",
 			"name": "AUTO POSTO 555 LTDA",
 			"val": 5.862099650917087,
-			"desc": 193.02,
+			"desc": "193.02",
 			"group": "AUTO POSTO 555 LTDA"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "EASY TAXI SERVICOS LTDA.",
 			"name": "EASY TAXI SERVICOS LTDA.",
 			"val": 6.104545766285596,
-			"desc": 199.70999999999998,
+			"desc": "199.71",
 			"group": "EASY TAXI SERVICOS LTDA."
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "POUSADA GAMBOA ECO REFUGIO LTDA",
 			"name": "POUSADA GAMBOA ECO REFUGIO LTDA",
 			"val": 11.436771673147277,
-			"desc": 340,
+			"desc": "340.00",
 			"group": "POUSADA GAMBOA ECO REFUGIO LTDA"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "POSTO FIUZZA AUTO SERVICE LTDA",
 			"name": "POSTO FIUZZA AUTO SERVICE LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO FIUZZA AUTO SERVICE LTDA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "AUTO POSTO ALTINO II LTDA",
 			"name": "AUTO POSTO ALTINO II LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ALTINO II LTDA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"name": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"val": 4.805439863641638,
-			"desc": 163.39999999999998,
+			"desc": "163.40",
 			"group": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 8.800303199773122,
-			"desc": 272.03,
+			"desc": "272.03",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "RODOPOSTO CORAL LTDA",
 			"name": "RODOPOSTO CORAL LTDA",
 			"val": 7.886804099725285,
-			"desc": 247.89999999999998,
+			"desc": "247.90",
 			"group": "RODOPOSTO CORAL LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "POSTO DE SERVICOS 23 DE MAIO LTDA",
 			"name": "POSTO DE SERVICOS 23 DE MAIO LTDA",
 			"val": 7.590988956411867,
-			"desc": 240.01,
+			"desc": "240.01",
 			"group": "POSTO DE SERVICOS 23 DE MAIO LTDA"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 9.457139099307664,
-			"desc": 289.18,
+			"desc": "289.18",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "AUTO POSTO LUPERCIO DE ALMEIDA LT",
 			"name": "AUTO POSTO LUPERCIO DE ALMEIDA LT",
 			"val": 4.766060647900767,
-			"desc": 162.28,
+			"desc": "162.28",
 			"group": "AUTO POSTO LUPERCIO DE ALMEIDA LT"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "ELIZEU MASAHARU OHTA-EPP",
 			"name": "ELIZEU MASAHARU OHTA-EPP",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "ELIZEU MASAHARU OHTA-EPP"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "POSTO DAS FIGUEIRAS DE COMBUSTIVEIS DE RIBEIRAO P",
 			"name": "POSTO DAS FIGUEIRAS DE COMBUSTIVEIS DE RIBEIRAO P",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DAS FIGUEIRAS DE COMBUSTIVEIS DE RIBEIRAO P"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "AGUILAR e CIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "AGUILAR e CIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "AGUILAR e CIA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 4.588012417755038,
-			"desc": 157.2,
+			"desc": "157.20",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 0.39999807009702243,
-			"desc": 22.32,
+			"desc": "22.32",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -875,7 +876,7 @@
 			"id": "AUTO POSTO E SERVICOS AVENIDA IPORANGA LTDA",
 			"name": "AUTO POSTO E SERVICOS AVENIDA IPORANGA LTDA",
 			"val": 5.537341599657961,
-			"desc": 184,
+			"desc": "184.00",
 			"group": "AUTO POSTO E SERVICOS AVENIDA IPORANGA LTDA"
 		},
 		{
@@ -888,7 +889,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.3005575056951746,
-			"desc": 55.99,
+			"desc": "55.99",
 			"group": "RAMAL"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "BIGFORMS LTDA ME",
 			"name": "BIGFORMS LTDA ME",
 			"val": 637.8520207754136,
-			"desc": 11790,
+			"desc": "11790.00",
 			"group": "BIGFORMS LTDA ME"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 7.59024098956098,
-			"desc": 239.99,
+			"desc": "239.99",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -933,7 +934,7 @@
 			"id": "RODOPOSTO BANDEIRANTES JUNDIAI LTDA",
 			"name": "RODOPOSTO BANDEIRANTES JUNDIAI LTDA",
 			"val": 4.943614026635571,
-			"desc": 167.32,
+			"desc": "167.32",
 			"group": "RODOPOSTO BANDEIRANTES JUNDIAI LTDA"
 		},
 		{
@@ -946,7 +947,7 @@
 			"id": "SAVEGNAGO SUPERMERCADOS LTDA",
 			"name": "SAVEGNAGO SUPERMERCADOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SAVEGNAGO SUPERMERCADOS LTDA"
 		},
 		{

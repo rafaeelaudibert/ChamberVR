@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JHC"
+			"name": "JHC",
+			"desc": "169012.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 3.5671202527980177,
-			"desc": 127.5,
+			"desc": "127.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "POSTO DE GASOLINA DOS ANOES LTDA",
 			"name": "POSTO DE GASOLINA DOS ANOES LTDA",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "POSTO DE GASOLINA DOS ANOES LTDA"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1069.8122687970308,
-			"desc": 18833.389999999992,
+			"desc": "18833.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -194,7 +195,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 408.9876119431769,
-			"desc": 7897.259999999999,
+			"desc": "7897.26",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 27.392090881844013,
-			"desc": 721.27,
+			"desc": "721.27",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 889.1147385014849,
-			"desc": 15923.8,
+			"desc": "15923.80",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "D. RIBEIRO LEITE - EPP",
 			"name": "D. RIBEIRO LEITE - EPP",
 			"val": 2446.033980727912,
-			"desc": 40000,
+			"desc": "40000.00",
 			"group": "D. RIBEIRO LEITE - EPP"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 34.67876234365241,
-			"desc": 885.5300000000001,
+			"desc": "885.53",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "N L NORMANDE COMUNICACAO",
 			"name": "N L NORMANDE COMUNICACAO",
 			"val": 933.7247143458225,
-			"desc": 16646.4,
+			"desc": "16646.40",
 			"group": "N L NORMANDE COMUNICACAO"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 35.427333586638866,
-			"desc": 902.17,
+			"desc": "902.17",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "MAXI POSTO IV LTDA",
 			"name": "MAXI POSTO IV LTDA",
 			"val": 3.804446751055464,
-			"desc": 134.5,
+			"desc": "134.50",
 			"group": "MAXI POSTO IV LTDA"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "DALETH VEICULOS LTDA EPP",
 			"name": "DALETH VEICULOS LTDA EPP",
 			"val": 686.5052601090418,
-			"desc": 12600,
+			"desc": "12600.00",
 			"group": "DALETH VEICULOS LTDA EPP"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 15.541922505847335,
-			"desc": 442.11999999999995,
+			"desc": "442.12",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
 			"name": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.139524505195573,
-			"desc": 144.28,
+			"desc": "144.28",
 			"group": "RAMAL"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 2.1854759438353524,
-			"desc": 85.2,
+			"desc": "85.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "AUTO POSTO AVENIDA LTDA",
 			"name": "AUTO POSTO AVENIDA LTDA",
 			"val": 9.411753601661543,
-			"desc": 288,
+			"desc": "288.00",
 			"group": "AUTO POSTO AVENIDA LTDA"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 15.211277455059806,
-			"desc": 434.03,
+			"desc": "434.03",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"name": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"val": 2.3275485455154454,
-			"desc": 89.7,
+			"desc": "89.70",
 			"group": "AUTO POSTO Z+Z 307 NORTE LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.369140867336913,
-			"desc": 121.61,
+			"desc": "121.61",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 8.188223034708875,
-			"desc": 255.9,
+			"desc": "255.90",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 7.778655531571625,
-			"desc": 245.02,
+			"desc": "245.02",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{

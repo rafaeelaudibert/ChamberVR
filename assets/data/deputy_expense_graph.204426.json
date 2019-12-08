@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARLOS VERAS"
+			"name": "CARLOS VERAS",
+			"desc": "50692.98"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO LUPP II LTDA",
 			"name": "POSTO LUPP II LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO LUPP II LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 1.81873030217624,
-			"desc": 73.37,
+			"desc": "73.37",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "CONDOMÍNIO EMPRESARIAL ENGENHEIRO JOSÉ CAMILO BRITO",
 			"name": "CONDOMÍNIO EMPRESARIAL ENGENHEIRO JOSÉ CAMILO BRITO",
 			"val": 64.90316259655123,
-			"desc": 1533.28,
+			"desc": "1533.28",
 			"group": "CONDOMÍNIO EMPRESARIAL ENGENHEIRO JOSÉ CAMILO BRITO"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 80.38630270054855,
-			"desc": 1851.46,
+			"desc": "1851.46",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -93,7 +94,7 @@
 			"id": "POSTO M Z BEZERRA LTDA",
 			"name": "POSTO M Z BEZERRA LTDA",
 			"val": 8.43684483883589,
-			"desc": 262.47,
+			"desc": "262.47",
 			"group": "POSTO M Z BEZERRA LTDA"
 		},
 		{
@@ -106,7 +107,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 4.115755475454838,
-			"desc": 143.59,
+			"desc": "143.59",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 185.98624941846595,
-			"desc": 3897.9399999999996,
+			"desc": "3897.94",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "MOURA E SILVA COM. DE COMBUSTIVEIS LTDA EPP",
 			"name": "MOURA E SILVA COM. DE COMBUSTIVEIS LTDA EPP",
 			"val": 16.46554868938005,
-			"desc": 464.61,
+			"desc": "464.61",
 			"group": "MOURA E SILVA COM. DE COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 4.689540010281544,
-			"desc": 160.1,
+			"desc": "160.10",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 284.9063582274289,
-			"desc": 5707.84,
+			"desc": "5707.84",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "IMOBILIÁRIA PROLAR LTDA",
 			"name": "IMOBILIÁRIA PROLAR LTDA",
 			"val": 214.14409024496013,
-			"desc": 4420.780000000001,
+			"desc": "4420.78",
 			"group": "IMOBILIÁRIA PROLAR LTDA"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 18.766525051099187,
-			"desc": 520,
+			"desc": "520.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "RAQUEL BATISTA DE ALMEIDA 01716771102",
 			"name": "RAQUEL BATISTA DE ALMEIDA 01716771102",
 			"val": 32.3668720034986,
-			"desc": 833.8800000000001,
+			"desc": "833.88",
 			"group": "RAQUEL BATISTA DE ALMEIDA 01716771102"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "AUTO POSTO GAIBU LTDA",
 			"name": "AUTO POSTO GAIBU LTDA",
 			"val": 8.448599487536608,
-			"desc": 262.78,
+			"desc": "262.78",
 			"group": "AUTO POSTO GAIBU LTDA"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "B P M SERVICOS LTDA",
 			"name": "B P M SERVICOS LTDA",
 			"val": 204.90520114051125,
-			"desc": 4250,
+			"desc": "4250.00",
 			"group": "B P M SERVICOS LTDA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "POSTO ESPERANCA LTDA - ME",
 			"name": "POSTO ESPERANCA LTDA - ME",
 			"val": 4.337984943090071,
-			"desc": 150.02,
+			"desc": "150.02",
 			"group": "POSTO ESPERANCA LTDA - ME"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "IGUEP INCORPORADORA GUEDES PEREIRA LTDA",
 			"name": "IGUEP INCORPORADORA GUEDES PEREIRA LTDA",
 			"val": 7.106876797472356,
-			"desc": 227.01,
+			"desc": "227.01",
 			"group": "IGUEP INCORPORADORA GUEDES PEREIRA LTDA"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "PETROCAL PETROLEO CAVALCANTI",
 			"name": "PETROCAL PETROLEO CAVALCANTI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PETROCAL PETROLEO CAVALCANTI"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "CEMOPEL-CM PETROLEO LTDA",
 			"name": "CEMOPEL-CM PETROLEO LTDA",
 			"val": 10.000800815307697,
-			"desc": 303.26,
+			"desc": "303.26",
 			"group": "CEMOPEL-CM PETROLEO LTDA"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 128.91544908667214,
-			"desc": 2812.83,
+			"desc": "2812.83",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "AUTO POSTO AMIZADE LTDA.",
 			"name": "AUTO POSTO AMIZADE LTDA.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AMIZADE LTDA."
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "POSTO ALBATEX LTDA",
 			"name": "POSTO ALBATEX LTDA",
 			"val": 7.778280354719408,
-			"desc": 245.01,
+			"desc": "245.01",
 			"group": "POSTO ALBATEX LTDA"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "NVC COMERCIO DE COMBUSTIVEIS EIRELI",
 			"name": "NVC COMERCIO DE COMBUSTIVEIS EIRELI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "NVC COMERCIO DE COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "DIARIO DE PERNAMBUCO S A",
 			"name": "DIARIO DE PERNAMBUCO S A",
 			"val": 7.403925929771099,
-			"desc": 235,
+			"desc": "235.00",
 			"group": "DIARIO DE PERNAMBUCO S A"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "SV COMERCIO DE PETROLEO EIRELI",
 			"name": "SV COMERCIO DE PETROLEO EIRELI",
 			"val": 6.316151608572459,
-			"desc": 205.52,
+			"desc": "205.52",
 			"group": "SV COMERCIO DE PETROLEO EIRELI"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 17.363106524483705,
-			"desc": 486.31999999999994,
+			"desc": "486.32",
 			"group": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "MOGANO HOTEL",
 			"name": "MOGANO HOTEL",
 			"val": 15.749983984887383,
-			"desc": 447.2,
+			"desc": "447.20",
 			"group": "MOGANO HOTEL"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "Empresa Folha da Manha S.A.",
 			"name": "Empresa Folha da Manha S.A.",
 			"val": 5.372697091030891,
-			"desc": 179.4,
+			"desc": "179.40",
 			"group": "Empresa Folha da Manha S.A."
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 58.02223744777341,
-			"desc": 1389.39,
+			"desc": "1389.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"name": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"val": 25.6742975324437,
-			"desc": 681.86,
+			"desc": "681.86",
 			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "Posto Campus de Combustíveis Ltda",
 			"name": "Posto Campus de Combustíveis Ltda",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "Posto Campus de Combustíveis Ltda"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "EDITORA FOLHA DE PERNAMBUCO LTDA",
 			"name": "EDITORA FOLHA DE PERNAMBUCO LTDA",
 			"val": 8.419027305611248,
-			"desc": 262,
+			"desc": "262.00",
 			"group": "EDITORA FOLHA DE PERNAMBUCO LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "EDITORA GLOBO S/A",
 			"name": "EDITORA GLOBO S/A",
 			"val": 5.372697091030891,
-			"desc": 179.4,
+			"desc": "179.40",
 			"group": "EDITORA GLOBO S/A"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "AUTO POSTO BRASILINO LTDA",
 			"name": "AUTO POSTO BRASILINO LTDA",
 			"val": 7.777905180222519,
-			"desc": 245,
+			"desc": "245.00",
 			"group": "AUTO POSTO BRASILINO LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA",
 			"name": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA",
 			"val": 5.038739921709973,
-			"desc": 170.01,
+			"desc": "170.01",
 			"group": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTRDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "REMA PETROLEO LTDA",
 			"name": "REMA PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "REMA PETROLEO LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "S B COMERCIO DE PETROLEO LTDA",
 			"name": "S B COMERCIO DE PETROLEO LTDA",
 			"val": 6.104545766285597,
-			"desc": 199.71,
+			"desc": "199.71",
 			"group": "S B COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "RC LINS E MELLO E CIA",
 			"name": "RC LINS E MELLO E CIA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "RC LINS E MELLO E CIA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "POSTO APIPUCOS LTDA",
 			"name": "POSTO APIPUCOS LTDA",
 			"val": 7.444199225025486,
-			"desc": 236.08,
+			"desc": "236.08",
 			"group": "POSTO APIPUCOS LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)",
 			"name": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)",
 			"val": 23.215418039598713,
-			"desc": 624.91,
+			"desc": "624.91",
 			"group": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "PETRO JOQUEI COMBUSITIVEL LTDA",
 			"name": "PETRO JOQUEI COMBUSITIVEL LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "PETRO JOQUEI COMBUSITIVEL LTDA"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"name": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "EDITORA CONFIANCA LTDA",
 			"name": "EDITORA CONFIANCA LTDA",
 			"val": 20.415766927331724,
-			"desc": 559.2,
+			"desc": "559.20",
 			"group": "EDITORA CONFIANCA LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "YANG COMERCIO DE ALIMENTOS LTDA",
 			"name": "YANG COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.5306836291380728,
-			"desc": 27.69,
+			"desc": "27.69",
 			"group": "YANG COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 27.619690279952135,
-			"desc": 726.47,
+			"desc": "726.47",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "POSTO LEAO DA ILHA FILIAL",
 			"name": "POSTO LEAO DA ILHA FILIAL",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO LEAO DA ILHA FILIAL"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "CASA DO COMB. EIRELI ME",
 			"name": "CASA DO COMB. EIRELI ME",
 			"val": 7.263195829426956,
-			"desc": 231.22,
+			"desc": "231.22",
 			"group": "CASA DO COMB. EIRELI ME"
 		},
 		{
@@ -887,7 +888,7 @@
 			"id": "POSTO FERRARI LTDA",
 			"name": "POSTO FERRARI LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO FERRARI LTDA"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "EDITORA JORNAL DO COMMERCIO S/A",
 			"name": "EDITORA JORNAL DO COMMERCIO S/A",
 			"val": 13.186502401107695,
-			"desc": 384,
+			"desc": "384.00",
 			"group": "EDITORA JORNAL DO COMMERCIO S/A"
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "POSTO LEAO DA ILHA LTDA",
 			"name": "POSTO LEAO DA ILHA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO LEAO DA ILHA LTDA"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "LVS COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "LVS COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 8.412583863685203,
-			"desc": 261.83,
+			"desc": "261.83",
 			"group": "LVS COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"name": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"val": 18.766525051099187,
-			"desc": 520,
+			"desc": "520.00",
 			"group": "POSTO ARCO IRIS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -958,7 +959,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.4258890432507858,
-			"desc": 60.28,
+			"desc": "60.28",
 			"group": "RAMAL"
 		},
 		{
@@ -971,7 +972,7 @@
 			"id": "POSTO ILHEUS LTDA",
 			"name": "POSTO ILHEUS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ILHEUS LTDA"
 		},
 		{
@@ -984,7 +985,7 @@
 			"id": "AUTO POSTO ARIMATEIA LTDA - EPP",
 			"name": "AUTO POSTO ARIMATEIA LTDA - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ARIMATEIA LTDA - EPP"
 		},
 		{
@@ -997,7 +998,7 @@
 			"id": "AUTO POSTO MOURA LTDA",
 			"name": "AUTO POSTO MOURA LTDA",
 			"val": 7.227511407098736,
-			"desc": 230.26,
+			"desc": "230.26",
 			"group": "AUTO POSTO MOURA LTDA"
 		},
 		{
@@ -1010,7 +1011,7 @@
 			"id": "CCSGRAFICA E EDITORACOM. E REP. LTDA",
 			"name": "CCSGRAFICA E EDITORACOM. E REP. LTDA",
 			"val": 695.5486909583127,
-			"desc": 12750,
+			"desc": "12750.00",
 			"group": "CCSGRAFICA E EDITORACOM. E REP. LTDA"
 		},
 		{

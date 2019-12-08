@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CACÁ LEÃO"
+			"name": "CACÁ LEÃO",
+			"desc": "71399.92"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 31.79185207542706,
-			"desc": 820.97,
+			"desc": "820.97",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "SECRETARIA DE ESTADO DE FAZENDA DA BAHIA",
 			"name": "SECRETARIA DE ESTADO DE FAZENDA DA BAHIA",
 			"val": 16.563251890346663,
-			"desc": 466.98,
+			"desc": "466.98",
 			"group": "SECRETARIA DE ESTADO DE FAZENDA DA BAHIA"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 788.209065652081,
-			"desc": 14277.629999999997,
+			"desc": "14277.63",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -176,7 +177,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 51.86386088110941,
-			"desc": 1259.06,
+			"desc": "1259.06",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "COSTA DO ATLANTICO COMÉRCIO DE PRODUTOS DER DE PETROLEO TRAN",
 			"name": "COSTA DO ATLANTICO COMÉRCIO DE PRODUTOS DER DE PETROLEO TRAN",
 			"val": 5.975004952992258,
-			"desc": 196.14,
+			"desc": "196.14",
 			"group": "COSTA DO ATLANTICO COMÉRCIO DE PRODUTOS DER DE PETROLEO TRAN"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 7.7051659980585,
-			"desc": 243.06,
+			"desc": "243.06",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 112.93823141283141,
-			"desc": 2501.2,
+			"desc": "2501.20",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 36.736149235142406,
-			"desc": 931.17,
+			"desc": "931.17",
 			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -343,7 +344,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 16.10050520520698,
-			"desc": 455.74,
+			"desc": "455.74",
 			"group": "CLARO S.A."
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "SOLAR HOTEIS E TURISMO LTDA",
 			"name": "SOLAR HOTEIS E TURISMO LTDA",
 			"val": 15.496095867563469,
-			"desc": 441,
+			"desc": "441.00",
 			"group": "SOLAR HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 11.025106302745067,
-			"desc": 329.53,
+			"desc": "329.53",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "AUTO POSTO COMERCIAL GITIRANA LTDA",
 			"name": "AUTO POSTO COMERCIAL GITIRANA LTDA",
 			"val": 4.721461415774704,
-			"desc": 161.01,
+			"desc": "161.01",
 			"group": "AUTO POSTO COMERCIAL GITIRANA LTDA"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "POSTO VILAS DO ATLANTICO LTDA",
 			"name": "POSTO VILAS DO ATLANTICO LTDA",
 			"val": 2.8232461683550527,
-			"desc": 105.1,
+			"desc": "105.10",
 			"group": "POSTO VILAS DO ATLANTICO LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "PARDAL LOCAÇÕES DE VEÍCULOS E SERVIÇOS EIRELE ME",
 			"name": "PARDAL LOCAÇÕES DE VEÍCULOS E SERVIÇOS EIRELE ME",
 			"val": 900.7974768076804,
-			"desc": 16113.33,
+			"desc": "16113.33",
 			"group": "PARDAL LOCAÇÕES DE VEÍCULOS E SERVIÇOS EIRELE ME"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "MAX LOCADORA DE VEICULOS LTDA",
 			"name": "MAX LOCADORA DE VEICULOS LTDA",
 			"val": 117.98067744232449,
-			"desc": 2600,
+			"desc": "2600.00",
 			"group": "MAX LOCADORA DE VEICULOS LTDA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "CONDOMINIO MANHATTAN SQUARE WALL STREET",
 			"name": "CONDOMINIO MANHATTAN SQUARE WALL STREET",
 			"val": 193.69248066561184,
-			"desc": 4041.74,
+			"desc": "4041.74",
 			"group": "CONDOMINIO MANHATTAN SQUARE WALL STREET"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 6.8675243274993685,
-			"desc": 220.54,
+			"desc": "220.54",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.36436040126296,
-			"desc": 206.84,
+			"desc": "206.84",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 8.644945882242087,
-			"desc": 267.95,
+			"desc": "267.95",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "PHAB DERIVADOS DE PETROLEO LTDA",
 			"name": "PHAB DERIVADOS DE PETROLEO LTDA",
 			"val": 10.239072448808727,
-			"desc": 309.40000000000003,
+			"desc": "309.40",
 			"group": "PHAB DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "GDR SERVICOS DE COMUNICACAO E TECNOLOGIA DA INFORMACAO LTDA",
 			"name": "GDR SERVICOS DE COMUNICACAO E TECNOLOGIA DA INFORMACAO LTDA",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "GDR SERVICOS DE COMUNICACAO E TECNOLOGIA DA INFORMACAO LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "PNH COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "PNH COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 27.535190739235286,
-			"desc": 724.54,
+			"desc": "724.54",
 			"group": "PNH COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "WELLPARK - ESTACIONAMENTOS E SERVICOS LTDA.",
 			"name": "WELLPARK - ESTACIONAMENTOS E SERVICOS LTDA.",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "WELLPARK - ESTACIONAMENTOS E SERVICOS LTDA."
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 16.31521410128935,
-			"desc": 460.96,
+			"desc": "460.96",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "PARAISO COMERCIO DE DERIVADOS DO PETROLEO E SERVICOS LTDA",
 			"name": "PARAISO COMERCIO DE DERIVADOS DO PETROLEO E SERVICOS LTDA",
 			"val": 2.821288271871407,
-			"desc": 105.04,
+			"desc": "105.04",
 			"group": "PARAISO COMERCIO DE DERIVADOS DO PETROLEO E SERVICOS LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.0074250290338609,
-			"desc": 45.68,
+			"desc": "45.68",
 			"group": "RAMAL"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "ELDA ELBACHÁ PEREIRA",
 			"name": "ELDA ELBACHÁ PEREIRA",
 			"val": 519.794593867202,
-			"desc": 9801,
+			"desc": "9801.00",
 			"group": "ELDA ELBACHÁ PEREIRA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "ECT CORREIOS",
 			"name": "ECT CORREIOS",
 			"val": 10.206433192951685,
-			"desc": 308.56,
+			"desc": "308.56",
 			"group": "ECT CORREIOS"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "WF COMERCIAL DE PETROLEO LIMITADA",
 			"name": "WF COMERCIAL DE PETROLEO LIMITADA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "WF COMERCIAL DE PETROLEO LIMITADA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "AUTO POSTO FLOR DA CHAPADA LTDA",
 			"name": "AUTO POSTO FLOR DA CHAPADA LTDA",
 			"val": 10.068251827589302,
-			"desc": 305,
+			"desc": "305.00",
 			"group": "AUTO POSTO FLOR DA CHAPADA LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "CENTRAL PAPELARIA LTDA",
 			"name": "CENTRAL PAPELARIA LTDA",
 			"val": 2.6510743898515994,
-			"desc": 99.8,
+			"desc": "99.80",
 			"group": "CENTRAL PAPELARIA LTDA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 13.826135355288057,
-			"desc": 399.9,
+			"desc": "399.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "RODRIGUES TORRES C D PET LTDA",
 			"name": "RODRIGUES TORRES C D PET LTDA",
 			"val": 8.762192551699588,
-			"desc": 271.03,
+			"desc": "271.03",
 			"group": "RODRIGUES TORRES C D PET LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 11.832487072355004,
-			"desc": 350.02,
+			"desc": "350.02",
 			"group": "CLARO S/A"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "POSTO BOM SAMARITANO C. D. PETROLEO LTDA",
 			"name": "POSTO BOM SAMARITANO C. D. PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO BOM SAMARITANO C. D. PETROLEO LTDA"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "MARTINEZ & ZACARIAS ADVOGADOS ASSOCIADOS",
 			"name": "MARTINEZ & ZACARIAS ADVOGADOS ASSOCIADOS",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "MARTINEZ & ZACARIAS ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "HP COM.E DER. DE PET. LTDA",
 			"name": "HP COM.E DER. DE PET. LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "HP COM.E DER. DE PET. LTDA"
 		},
 		{

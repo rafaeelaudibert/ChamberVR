@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDUARDO BARBOSA"
+			"name": "EDUARDO BARBOSA",
+			"desc": "35273.07"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 1.0219109109185032,
-			"desc": 46.20000000000001,
+			"desc": "46.20",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -96,7 +97,7 @@
 			"id": "SOCIEDADE COMERCIAL CANAA -LTDA",
 			"name": "SOCIEDADE COMERCIAL CANAA -LTDA",
 			"val": 6.890783046093745,
-			"desc": 221.17,
+			"desc": "221.17",
 			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
 		},
 		{
@@ -121,7 +122,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.37831252911357993,
-			"desc": 21.4,
+			"desc": "21.40",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "REPROMAQ",
 			"name": "REPROMAQ",
 			"val": 2.6019928584811747,
-			"desc": 98.28,
+			"desc": "98.28",
 			"group": "REPROMAQ"
 		},
 		{
@@ -153,7 +154,7 @@
 			"id": "POSTO CLEARGEL",
 			"name": "POSTO CLEARGEL",
 			"val": 5.216559297369774,
-			"desc": 175.02,
+			"desc": "175.02",
 			"group": "POSTO CLEARGEL"
 		},
 		{
@@ -166,7 +167,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 2.5122570103763553,
-			"desc": 95.49000000000001,
+			"desc": "95.49",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -191,7 +192,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 60.30849081025899,
-			"desc": 1437.3899999999999,
+			"desc": "1437.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "LIBER COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"name": "LIBER COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"val": 85.33383393248593,
-			"desc": 1951.73,
+			"desc": "1951.73",
 			"group": "LIBER COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "Rawnet Informática LTDA ME",
 			"name": "Rawnet Informática LTDA ME",
 			"val": 12.220321140863241,
-			"desc": 359.8,
+			"desc": "359.80",
 			"group": "Rawnet Informática LTDA ME"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 13.6145251017049,
-			"desc": 394.65,
+			"desc": "394.65",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "Microtecnica Informatica Ltda",
 			"name": "Microtecnica Informatica Ltda",
 			"val": 17.598868546507624,
-			"desc": 492,
+			"desc": "492.00",
 			"group": "Microtecnica Informatica Ltda"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.1634972494633784,
-			"desc": 84.5,
+			"desc": "84.50",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "SMART CATERING SERV. SOL. ALIM. LTDA",
 			"name": "SMART CATERING SERV. SOL. ALIM. LTDA",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "SMART CATERING SERV. SOL. ALIM. LTDA"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.328620903480482,
-			"desc": 149.75,
+			"desc": "149.75",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "UNIDAS",
 			"name": "UNIDAS",
 			"val": 564.7409498355723,
-			"desc": 10562.49,
+			"desc": "10562.49",
 			"group": "UNIDAS"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 5.187397846994174,
-			"desc": 174.2,
+			"desc": "174.20",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "ANTONIO DE OLIVEIRA SOUZA",
 			"name": "ANTONIO DE OLIVEIRA SOUZA",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "ANTONIO DE OLIVEIRA SOUZA"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "DU CAFFIER CAFE E BUFFET LTDA EPP",
 			"name": "DU CAFFIER CAFE E BUFFET LTDA EPP",
 			"val": 0.23227552936425805,
-			"desc": 14.9,
+			"desc": "14.90",
 			"group": "DU CAFFIER CAFE E BUFFET LTDA EPP"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.0286081174227946,
-			"desc": 46.44,
+			"desc": "46.44",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 7.935308392256518,
-			"desc": 249.19,
+			"desc": "249.19",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.068254201574259,
-			"desc": 355.97,
+			"desc": "355.97",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "CRISTIANE OLIVEIRA BORGES 01525977601",
 			"name": "CRISTIANE OLIVEIRA BORGES 01525977601",
 			"val": 107.79665942876046,
-			"desc": 2400,
+			"desc": "2400.00",
 			"group": "CRISTIANE OLIVEIRA BORGES 01525977601"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "GREEN'S ALIMENTOS EIRELI",
 			"name": "GREEN'S ALIMENTOS EIRELI",
 			"val": 0.8011653875501061,
-			"desc": 38.13,
+			"desc": "38.13",
 			"group": "GREEN'S ALIMENTOS EIRELI"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 21.981909580104094,
-			"desc": 596.08,
+			"desc": "596.08",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 14.639932469679087,
-			"desc": 420,
+			"desc": "420.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.367439320946703,
-			"desc": 338.24,
+			"desc": "338.24",
 			"group": "RAMAL"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 30.002276063381093,
-			"desc": 780.62,
+			"desc": "780.62",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 15.375470441309847,
-			"desc": 438.05,
+			"desc": "438.05",
 			"group": "CLARO S.A"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "Carrefour Comércio e Industria LTDA",
 			"name": "Carrefour Comércio e Industria LTDA",
 			"val": 5.506867673215609,
-			"desc": 183.15,
+			"desc": "183.15",
 			"group": "Carrefour Comércio e Industria LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "MARTINICA CAFE BAR LTDA",
 			"name": "MARTINICA CAFE BAR LTDA",
 			"val": 2.4166111403910353,
-			"desc": 92.5,
+			"desc": "92.50",
 			"group": "MARTINICA CAFE BAR LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "GAZETA PARAMINENSE EMPRESA JORNALISTICA LTDA",
 			"name": "GAZETA PARAMINENSE EMPRESA JORNALISTICA LTDA",
 			"val": 9.450214088970784,
-			"desc": 289,
+			"desc": "289.00",
 			"group": "GAZETA PARAMINENSE EMPRESA JORNALISTICA LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "EMIVE",
 			"name": "EMIVE",
 			"val": 25.34191810114678,
-			"desc": 674.2,
+			"desc": "674.20",
 			"group": "EMIVE"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "FFBARROS ALIMENTACAO EIRELI",
 			"name": "FFBARROS ALIMENTACAO EIRELI",
 			"val": 1.7434916116590709,
-			"desc": 70.9,
+			"desc": "70.90",
 			"group": "FFBARROS ALIMENTACAO EIRELI"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 29.235123504054737,
-			"desc": 763.24,
+			"desc": "763.24",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "Diamond Pará de Minas",
 			"name": "Diamond Pará de Minas",
 			"val": 209.7237536457424,
-			"desc": 4339.16,
+			"desc": "4339.16",
 			"group": "Diamond Pará de Minas"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 2.0771671817928903,
-			"desc": 81.74,
+			"desc": "81.74",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "Águas de Pará de Minas",
 			"name": "Águas de Pará de Minas",
 			"val": 1.1748419286351977,
-			"desc": 51.62,
+			"desc": "51.62",
 			"group": "Águas de Pará de Minas"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "UNIDAS S.A.",
 			"name": "UNIDAS S.A.",
 			"val": 87.1740278267573,
-			"desc": 1988.87,
+			"desc": "1988.87",
 			"group": "UNIDAS S.A."
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "Oswaldo de Melo Pereira",
 			"name": "Oswaldo de Melo Pereira",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "Oswaldo de Melo Pereira"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "Serviços Auxiliares de Transp Aereo",
 			"name": "Serviços Auxiliares de Transp Aereo",
 			"val": 0.5234609970928188,
-			"desc": 27.4,
+			"desc": "27.40",
 			"group": "Serviços Auxiliares de Transp Aereo"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "Leonardo Guimarães Moreira Eireli",
 			"name": "Leonardo Guimarães Moreira Eireli",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "Leonardo Guimarães Moreira Eireli"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "FREDERICO MARINHO DE OLIVEIRA GONCALVES",
 			"name": "FREDERICO MARINHO DE OLIVEIRA GONCALVES",
 			"val": 72.97296941097044,
-			"desc": 1700,
+			"desc": "1700.00",
 			"group": "FREDERICO MARINHO DE OLIVEIRA GONCALVES"
 		},
 		{

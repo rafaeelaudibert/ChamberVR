@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUCIANO DUCCI"
+			"name": "LUCIANO DUCCI",
+			"desc": "36927.09"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.235837153359831,
-			"desc": 86.8,
+			"desc": "86.80",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "POSTO DE SERVICOS ACALANTO LTDA",
 			"name": "POSTO DE SERVICOS ACALANTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE SERVICOS ACALANTO LTDA"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 356.00432370168676,
-			"desc": 6971.090000000002,
+			"desc": "6971.09",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "AUTO POSTO INTERLAGOS LTDA",
 			"name": "AUTO POSTO INTERLAGOS LTDA",
 			"val": 4.482263497823448,
-			"desc": 154.17,
+			"desc": "154.17",
 			"group": "AUTO POSTO INTERLAGOS LTDA"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 70.72444079331335,
-			"desc": 1653.75,
+			"desc": "1653.75",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -244,7 +245,7 @@
 			"id": "CERONIZE COM DE COMBUSTIVEIS LTDA",
 			"name": "CERONIZE COM DE COMBUSTIVEIS LTDA",
 			"val": 5.394491612885819,
-			"desc": 180.01,
+			"desc": "180.01",
 			"group": "CERONIZE COM DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 23.43314485592321,
-			"desc": 629.98,
+			"desc": "629.98",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "AUTO POSTO ABAETE LTDA",
 			"name": "AUTO POSTO ABAETE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ABAETE LTDA"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "COPAGRA - COOPERATIVA AGROINDUSTRIAL DO NOROESTE PARANAENSE",
 			"name": "COPAGRA - COOPERATIVA AGROINDUSTRIAL DO NOROESTE PARANAENSE",
 			"val": 16.242783518228798,
-			"desc": 459.2,
+			"desc": "459.20",
 			"group": "COPAGRA - COOPERATIVA AGROINDUSTRIAL DO NOROESTE PARANAENSE"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 43.17121649974324,
-			"desc": 1072.17,
+			"desc": "1072.17",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "FLORIDA COMERCIO COMBUSTIVEIS LTDA",
 			"name": "FLORIDA COMERCIO COMBUSTIVEIS LTDA",
 			"val": 18.97428797617156,
-			"desc": 524.96,
+			"desc": "524.96",
 			"group": "FLORIDA COMERCIO COMBUSTIVEIS LTDA"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 398.3896391111917,
-			"desc": 7712.920000000001,
+			"desc": "7712.92",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "GISELLE BRUNOR PACHECO EBRAHIM",
 			"name": "GISELLE BRUNOR PACHECO EBRAHIM",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "GISELLE BRUNOR PACHECO EBRAHIM"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "AUTO POSTO ECOSOCIAL LTDA",
 			"name": "AUTO POSTO ECOSOCIAL LTDA",
 			"val": 7.553228668429595,
-			"desc": 239,
+			"desc": "239.00",
 			"group": "AUTO POSTO ECOSOCIAL LTDA"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "AUTO POSTO MUFFATO LTDA",
 			"name": "AUTO POSTO MUFFATO LTDA",
 			"val": 13.829766442311687,
-			"desc": 399.99,
+			"desc": "399.99",
 			"group": "AUTO POSTO MUFFATO LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "AUTO POSTO CRIANCA LTDA",
 			"name": "AUTO POSTO CRIANCA LTDA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "AUTO POSTO CRIANCA LTDA"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "POSTO SANTA ROSA LTDA",
 			"name": "POSTO SANTA ROSA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO SANTA ROSA LTDA"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "SERCOMTEL S/A",
 			"name": "SERCOMTEL S/A",
 			"val": 22.934914197968506,
-			"desc": 618.37,
+			"desc": "618.37",
 			"group": "SERCOMTEL S/A"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.1259371949257997,
-			"desc": 49.9,
+			"desc": "49.90",
 			"group": "RAMAL"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "POSTO CANAL ALPHA LTDA.",
 			"name": "POSTO CANAL ALPHA LTDA.",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "POSTO CANAL ALPHA LTDA."
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 79.13399437642956,
-			"desc": 1825.98,
+			"desc": "1825.98",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "LEONI LUCIA DAL-PRÁ",
 			"name": "LEONI LUCIA DAL-PRÁ",
 			"val": 43.5318433792596,
-			"desc": 1080,
+			"desc": "1080.00",
 			"group": "LEONI LUCIA DAL-PRÁ"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "GP SISTEMAS E SERVIÇOS LTDA",
 			"name": "GP SISTEMAS E SERVIÇOS LTDA",
 			"val": 36.231403387475304,
-			"desc": 920,
+			"desc": "920.00",
 			"group": "GP SISTEMAS E SERVIÇOS LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS NOROESTE LTDA - FRANQUEADO COSAN",
 			"name": "COMERCIAL DE COMBUSTIVEIS NOROESTE LTDA - FRANQUEADO COSAN",
 			"val": 6.768698898236652,
-			"desc": 217.86,
+			"desc": "217.86",
 			"group": "COMERCIAL DE COMBUSTIVEIS NOROESTE LTDA - FRANQUEADO COSAN"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "L C NICHELE DA ROCHA & FILHAS LTDA",
 			"name": "L C NICHELE DA ROCHA & FILHAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "L C NICHELE DA ROCHA & FILHAS LTDA"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "AUTO POSTO DURIGAN LTDA",
 			"name": "AUTO POSTO DURIGAN LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DURIGAN LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "Botini Goncalves e Cia Ltda",
 			"name": "Botini Goncalves e Cia Ltda",
 			"val": 11.734389526537205,
-			"desc": 347.53999999999996,
+			"desc": "347.54",
 			"group": "Botini Goncalves e Cia Ltda"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 30.087604865511384,
-			"desc": 782.55,
+			"desc": "782.55",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "AUTO POSTO COLOSSAL BATEL LTDA",
 			"name": "AUTO POSTO COLOSSAL BATEL LTDA",
 			"val": 5.073456699967119,
-			"desc": 170.99,
+			"desc": "170.99",
 			"group": "AUTO POSTO COLOSSAL BATEL LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "POSTOS PELANDA ESTRELA GUIA",
 			"name": "POSTOS PELANDA ESTRELA GUIA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTOS PELANDA ESTRELA GUIA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "AUTO POSTO R JUVEVE LTDA",
 			"name": "AUTO POSTO R JUVEVE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO R JUVEVE LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "PREFEITURA MUNICIPAL DE CURITIBA",
 			"name": "PREFEITURA MUNICIPAL DE CURITIBA",
 			"val": 40.992498674022656,
-			"desc": 1024.71,
+			"desc": "1024.71",
 			"group": "PREFEITURA MUNICIPAL DE CURITIBA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "AUTO POSTO POPULAR LTDA",
 			"name": "AUTO POSTO POPULAR LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO POPULAR LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "DINOSSAURO JARDIM COMERCIO DE COMB E LUB LTDA",
 			"name": "DINOSSAURO JARDIM COMERCIO DE COMB E LUB LTDA",
 			"val": 9.390608870160955,
-			"desc": 287.45,
+			"desc": "287.45",
 			"group": "DINOSSAURO JARDIM COMERCIO DE COMB E LUB LTDA"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "AUTO POSTO ITALIA CENTER LTDA",
 			"name": "AUTO POSTO ITALIA CENTER LTDA",
 			"val": 2.6588363702668834,
-			"desc": 100.04,
+			"desc": "100.04",
 			"group": "AUTO POSTO ITALIA CENTER LTDA"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "telefonia Brasil S/A",
 			"name": "telefonia Brasil S/A",
 			"val": 7.195563722843477,
-			"desc": 229.4,
+			"desc": "229.40",
 			"group": "telefonia Brasil S/A"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "AUTO POSTO CASTELAO LTDA",
 			"name": "AUTO POSTO CASTELAO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CASTELAO LTDA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "T ZONTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "T ZONTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.689917439031725,
-			"desc": 101,
+			"desc": "101.00",
 			"group": "T ZONTA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "Posto Farol do Parque Ltda",
 			"name": "Posto Farol do Parque Ltda",
 			"val": 4.59010988041185,
-			"desc": 157.26,
+			"desc": "157.26",
 			"group": "Posto Farol do Parque Ltda"
 		},
 		{

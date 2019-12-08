@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VITOR LIPPI"
+			"name": "VITOR LIPPI",
+			"desc": "43951.60"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Bruna Daipré Targa Fernandes",
 			"name": "Bruna Daipré Targa Fernandes",
 			"val": 655.6373744164977,
-			"desc": 12086.7,
+			"desc": "12086.70",
 			"group": "Bruna Daipré Targa Fernandes"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 32.72913419288762,
-			"desc": 842,
+			"desc": "842.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.24681103078897,
-			"desc": 175.87,
+			"desc": "175.87",
 			"group": "RAMAL"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "SERVIÇO DE ÁGUA E ESGODO DE SOROCABA",
 			"name": "SERVIÇO DE ÁGUA E ESGODO DE SOROCABA",
 			"val": 7.219336976554635,
-			"desc": 230.04000000000002,
+			"desc": "230.04",
 			"group": "SERVIÇO DE ÁGUA E ESGODO DE SOROCABA"
 		},
 		{
@@ -99,7 +100,7 @@
 			"id": "AUTO POSTO S3 AICAS LTDA",
 			"name": "AUTO POSTO S3 AICAS LTDA",
 			"val": 17.812126851215023,
-			"desc": 497.13,
+			"desc": "497.13",
 			"group": "AUTO POSTO S3 AICAS LTDA"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "AUTO POSTO CASTELINHO SOROCABA LTDA",
 			"name": "AUTO POSTO CASTELINHO SOROCABA LTDA",
 			"val": 33.648847868191886,
-			"desc": 862.5699999999999,
+			"desc": "862.57",
 			"group": "AUTO POSTO CASTELINHO SOROCABA LTDA"
 		},
 		{
@@ -167,7 +168,7 @@
 			"id": "CAMISA DEZ AUTO POSTO LTDA ME",
 			"name": "CAMISA DEZ AUTO POSTO LTDA ME",
 			"val": 3.116128872392294,
-			"desc": 114.01,
+			"desc": "114.01",
 			"group": "CAMISA DEZ AUTO POSTO LTDA ME"
 		},
 		{
@@ -180,7 +181,7 @@
 			"id": "RIBEIRO e SOUZA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "RIBEIRO e SOUZA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 17.304640233164413,
-			"desc": 484.90999999999997,
+			"desc": "484.91",
 			"group": "RIBEIRO e SOUZA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -211,7 +212,7 @@
 			"id": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"name": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"val": 24.09290328811837,
-			"desc": 645.31,
+			"desc": "645.31",
 			"group": "COMPANHIA PIRATININGA DE FORCA E LUZ"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "EMPRESA BRASILEIRO DE CORREIOS E TELEGRAFOS",
 			"name": "EMPRESA BRASILEIRO DE CORREIOS E TELEGRAFOS",
 			"val": 1.500340394685871,
-			"desc": 62.8,
+			"desc": "62.80",
 			"group": "EMPRESA BRASILEIRO DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -249,7 +250,7 @@
 			"id": "AUTO POSTO NETO LT",
 			"name": "AUTO POSTO NETO LT",
 			"val": 5.10997967472864,
-			"desc": 172.02,
+			"desc": "172.02",
 			"group": "AUTO POSTO NETO LT"
 		},
 		{
@@ -262,7 +263,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 6.77385673120548,
-			"desc": 218,
+			"desc": "218.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -305,7 +306,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 23.684230369091598,
-			"desc": 635.82,
+			"desc": "635.82",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 7.4139915734597865,
-			"desc": 235.26999999999998,
+			"desc": "235.27",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "PFC COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PFC COMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.797684982043425,
-			"desc": 38,
+			"desc": "38.00",
 			"group": "PFC COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "AUTO POSTO CORREA NETO SOROCABA LTDA",
 			"name": "AUTO POSTO CORREA NETO SOROCABA LTDA",
 			"val": 3.5236228697399916,
-			"desc": 126.21,
+			"desc": "126.21",
 			"group": "AUTO POSTO CORREA NETO SOROCABA LTDA"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "LUANA AUTO POSTO LTDA",
 			"name": "LUANA AUTO POSTO LTDA",
 			"val": 7.654975603541993,
-			"desc": 241.72,
+			"desc": "241.72",
 			"group": "LUANA AUTO POSTO LTDA"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "TECHLAN INFORMÁTICA",
 			"name": "TECHLAN INFORMÁTICA",
 			"val": 104.96204026706299,
-			"desc": 2344,
+			"desc": "2344.00",
 			"group": "TECHLAN INFORMÁTICA"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.0163353999144904,
-			"desc": 46,
+			"desc": "46.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 4.5775270878098695,
-			"desc": 156.9,
+			"desc": "156.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 18.240391205303442,
-			"desc": 507.41,
+			"desc": "507.41",
 			"group": "CLARO S.A."
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.517979061740464,
-			"desc": 183.45999999999998,
+			"desc": "183.46",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "CENTRO AUTOMOTIVO SOROCABA LTDA",
 			"name": "CENTRO AUTOMOTIVO SOROCABA LTDA",
 			"val": 15.341552394574384,
-			"desc": 437.22,
+			"desc": "437.22",
 			"group": "CENTRO AUTOMOTIVO SOROCABA LTDA"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 44.17561128123005,
-			"desc": 1093.96,
+			"desc": "1093.96",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "AUTO POSTO ZEQUINHA SOROCABA LTDA",
 			"name": "AUTO POSTO ZEQUINHA SOROCABA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ZEQUINHA SOROCABA LTDA"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.30702665636878,
-			"desc": 205.26999999999998,
+			"desc": "205.27",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 45.05437399632993,
-			"desc": 1112.98,
+			"desc": "1112.98",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "MARIA JOSE RODRIGUES DOS REIS VIEIRA",
 			"name": "MARIA JOSE RODRIGUES DOS REIS VIEIRA",
 			"val": 44.4544663570129,
-			"desc": 1100,
+			"desc": "1100.00",
 			"group": "MARIA JOSE RODRIGUES DOS REIS VIEIRA"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "UNICA TECNOLOGIA COMERCIAL LTDA.",
 			"name": "UNICA TECNOLOGIA COMERCIAL LTDA.",
 			"val": 19.84551814300945,
-			"desc": 545.69,
+			"desc": "545.69",
 			"group": "UNICA TECNOLOGIA COMERCIAL LTDA."
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 19.158820244058603,
-			"desc": 529.36,
+			"desc": "529.36",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "VALDEMARIN 4 COMERCIO DE COMBUSTIVEIS E DERIVADOS",
 			"name": "VALDEMARIN 4 COMERCIO DE COMBUSTIVEIS E DERIVADOS",
 			"val": 8.20975475493063,
-			"desc": 256.47,
+			"desc": "256.47",
 			"group": "VALDEMARIN 4 COMERCIO DE COMBUSTIVEIS E DERIVADOS"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 21.230266661136746,
-			"desc": 578.42,
+			"desc": "578.42",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "LINKS TECHNOLOGY INFORMATICA LTDA",
 			"name": "LINKS TECHNOLOGY INFORMATICA LTDA",
 			"val": 85.24821558736838,
-			"desc": 1950,
+			"desc": "1950.00",
 			"group": "LINKS TECHNOLOGY INFORMATICA LTDA"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "THAMARA ESPINDOLA DE PAULA",
 			"name": "THAMARA ESPINDOLA DE PAULA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "THAMARA ESPINDOLA DE PAULA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "AUTO POSTO DEZ SOROCABA LTDA",
 			"name": "AUTO POSTO DEZ SOROCABA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO DEZ SOROCABA LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "SUPER POSTO JC LT",
 			"name": "SUPER POSTO JC LT",
 			"val": 9.806911344940406,
-			"desc": 298.25,
+			"desc": "298.25",
 			"group": "SUPER POSTO JC LT"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "WRC RESTAURANTES LTDA",
 			"name": "WRC RESTAURANTES LTDA",
 			"val": 0.2669300118776579,
-			"desc": 16.5,
+			"desc": "16.50",
 			"group": "WRC RESTAURANTES LTDA"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "WE AUTO POSTO LTDA",
 			"name": "WE AUTO POSTO LTDA",
 			"val": 4.102329264465484,
-			"desc": 143.2,
+			"desc": "143.20",
 			"group": "WE AUTO POSTO LTDA"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "BERTOLAI E CARRIERI LTDA",
 			"name": "BERTOLAI E CARRIERI LTDA",
 			"val": 37.362164562229886,
-			"desc": 945,
+			"desc": "945.00",
 			"group": "BERTOLAI E CARRIERI LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "SANTO COMERCIO E IMPORTACAO DE PRODUTOSO ALIMENTI",
 			"name": "SANTO COMERCIO E IMPORTACAO DE PRODUTOSO ALIMENTI",
 			"val": 3.131692793122634,
-			"desc": 114.48,
+			"desc": "114.48",
 			"group": "SANTO COMERCIO E IMPORTACAO DE PRODUTOSO ALIMENTI"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "PLEWA ASSESSORIA E INFORMÁTICA LTDA",
 			"name": "PLEWA ASSESSORIA E INFORMÁTICA LTDA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "PLEWA ASSESSORIA E INFORMÁTICA LTDA"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "HDCN COMERCIO DE ALIMENTOS LTDA",
 			"name": "HDCN COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "HDCN COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "AUTO POSTO DUQUE REBOUCAS I LTDA ME",
 			"name": "AUTO POSTO DUQUE REBOUCAS I LTDA ME",
 			"val": 0.7015711560982343,
-			"desc": 34.37,
+			"desc": "34.37",
 			"group": "AUTO POSTO DUQUE REBOUCAS I LTDA ME"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "AUTO POSTO CAMPEAO LTDA",
 			"name": "AUTO POSTO CAMPEAO LTDA",
 			"val": 4.381720791490879,
-			"desc": 151.28,
+			"desc": "151.28",
 			"group": "AUTO POSTO CAMPEAO LTDA"
 		},
 		{
@@ -910,7 +911,7 @@
 			"id": "ANESIA TORRES PUBLICACOES",
 			"name": "ANESIA TORRES PUBLICACOES",
 			"val": 58.52678222626104,
-			"desc": 1400,
+			"desc": "1400.00",
 			"group": "ANESIA TORRES PUBLICACOES"
 		},
 		{
@@ -923,7 +924,7 @@
 			"id": "Empresa Brasileira de Correios e Telégrafos",
 			"name": "Empresa Brasileira de Correios e Telégrafos",
 			"val": 1.120272580598975,
-			"desc": 49.7,
+			"desc": "49.70",
 			"group": "Empresa Brasileira de Correios e Telégrafos"
 		},
 		{
@@ -936,7 +937,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 18.216613330284527,
-			"desc": 506.84,
+			"desc": "506.84",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -949,7 +950,7 @@
 			"id": "PROVOCARE EDITORA E COMUNICAÇÕES LTDA",
 			"name": "PROVOCARE EDITORA E COMUNICAÇÕES LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "PROVOCARE EDITORA E COMUNICAÇÕES LTDA"
 		},
 		{
@@ -962,7 +963,7 @@
 			"id": "Pimenta Publicidade Ltda",
 			"name": "Pimenta Publicidade Ltda",
 			"val": 219.163621651112,
-			"desc": 4513.27,
+			"desc": "4513.27",
 			"group": "Pimenta Publicidade Ltda"
 		},
 		{
@@ -975,7 +976,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -988,7 +989,7 @@
 			"id": "AUTO POSTO JULIO DE MESQUITA FILHO LTDA",
 			"name": "AUTO POSTO JULIO DE MESQUITA FILHO LTDA",
 			"val": 3.998913936495226,
-			"desc": 140.19,
+			"desc": "140.19",
 			"group": "AUTO POSTO JULIO DE MESQUITA FILHO LTDA"
 		},
 		{

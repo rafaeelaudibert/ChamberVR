@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDNA HENRIQUE"
+			"name": "EDNA HENRIQUE",
+			"desc": "80996.70"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA",
 			"name": "COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA",
 			"val": 3.0576165359023295,
-			"desc": 112.24,
+			"desc": "112.24",
 			"group": "COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 54.5674652301895,
-			"desc": 1316.47,
+			"desc": "1316.47",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "JEAN VILAR DOS SANTOS - ME",
 			"name": "JEAN VILAR DOS SANTOS - ME",
 			"val": 458.3273555562469,
-			"desc": 8750,
+			"desc": "8750.00",
 			"group": "JEAN VILAR DOS SANTOS - ME"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 2.5189951191023687,
-			"desc": 95.7,
+			"desc": "95.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 5.057865554492106,
-			"desc": 170.55,
+			"desc": "170.55",
 			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -130,7 +131,7 @@
 			"id": "W2K PUBLICIDADE LTDA",
 			"name": "W2K PUBLICIDADE LTDA",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "W2K PUBLICIDADE LTDA"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1125.963932053242,
-			"desc": 19728.81,
+			"desc": "19728.81",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 11.83209131363576,
-			"desc": 350.01,
+			"desc": "350.01",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 29.08090825332802,
-			"desc": 759.74,
+			"desc": "759.74",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 12.747002337063904,
-			"desc": 373.02000000000004,
+			"desc": "373.02",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 13.683808519853564,
-			"desc": 396.37,
+			"desc": "396.37",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "POSTO DE COMBUSTIVEIS CARIRI EXPRESSO BR",
 			"name": "POSTO DE COMBUSTIVEIS CARIRI EXPRESSO BR",
 			"val": 76.37766607959432,
-			"desc": 1769.75,
+			"desc": "1769.75",
 			"group": "POSTO DE COMBUSTIVEIS CARIRI EXPRESSO BR"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "BARROS COMERCIO DE COMBUSTIVEL E CONVENIENCIA LTDA",
 			"name": "BARROS COMERCIO DE COMBUSTIVEL E CONVENIENCIA LTDA",
 			"val": 3.317979507149053,
-			"desc": 120.08,
+			"desc": "120.08",
 			"group": "BARROS COMERCIO DE COMBUSTIVEL E CONVENIENCIA LTDA"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 19.496134456550866,
-			"desc": 537.39,
+			"desc": "537.39",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 250.10324051966322,
-			"desc": 5079.12,
+			"desc": "5079.12",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "COMERCIAL DE COMBUSTVEIS CAJA LTDA",
 			"name": "COMERCIAL DE COMBUSTVEIS CAJA LTDA",
 			"val": 4.1240207985117605,
-			"desc": 143.83,
+			"desc": "143.83",
 			"group": "COMERCIAL DE COMBUSTVEIS CAJA LTDA"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 7.336122842398308,
-			"desc": 233.18,
+			"desc": "233.18",
 			"group": "CLARO S.A."
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.9802178832217169,
-			"desc": 44.7,
+			"desc": "44.70",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.407497301822761,
-			"desc": 208.02,
+			"desc": "208.02",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 27.666549930087676,
-			"desc": 727.54,
+			"desc": "727.54",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "Geralda do Amaral",
 			"name": "Geralda do Amaral",
 			"val": 351.9657058448599,
-			"desc": 6900,
+			"desc": "6900.00",
 			"group": "Geralda do Amaral"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "AUTO POSTO AMIGAO",
 			"name": "AUTO POSTO AMIGAO",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "AUTO POSTO AMIGAO"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "GP COBERTURA JORNALISTICA LTDA ME",
 			"name": "GP COBERTURA JORNALISTICA LTDA ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "GP COBERTURA JORNALISTICA LTDA ME"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
 			"name": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
 			"val": 97.70893271402579,
-			"desc": 2200,
+			"desc": "2200.00",
 			"group": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "UNAI AUTO PECAS E MECANICA LTDA",
 			"name": "UNAI AUTO PECAS E MECANICA LTDA",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "UNAI AUTO PECAS E MECANICA LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.1020569726368485,
-			"desc": 226.88000000000002,
+			"desc": "226.88",
 			"group": "RAMAL"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"name": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"val": 23.036089956929445,
-			"desc": 620.73,
+			"desc": "620.73",
 			"group": "PAULO OCTAVIO HOTEIS E TUR. LTDA."
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 6.421031244341494,
-			"desc": 208.39,
+			"desc": "208.39",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 17.001081218082696,
-			"desc": 477.58000000000004,
+			"desc": "477.58",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 18.624264480987794,
-			"desc": 516.6,
+			"desc": "516.60",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{

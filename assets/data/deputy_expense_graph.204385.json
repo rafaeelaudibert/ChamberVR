@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VALDEVAN NOVENTA"
+			"name": "VALDEVAN NOVENTA",
+			"desc": "140706.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1758.778515894638,
-			"desc": 29602.24999999999,
+			"desc": "29602.25",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 997.9598246912734,
-			"desc": 17681.81,
+			"desc": "17681.81",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 567.5701590139001,
-			"desc": 10610.240000000002,
+			"desc": "10610.24",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.173661134425206,
-			"desc": 145.26999999999998,
+			"desc": "145.27",
 			"group": "RAMAL"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 58.52678222626104,
-			"desc": 1400,
+			"desc": "1400.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 1528.509357363947,
-			"desc": 26050,
+			"desc": "26050.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.269126592740915,
-			"desc": 16.6,
+			"desc": "16.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 5.006532099417101,
-			"desc": 169.1,
+			"desc": "169.10",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 26.28001093891467,
-			"desc": 695.79,
+			"desc": "695.79",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "GOL LINHAS ÁREAS S.A.",
 			"name": "GOL LINHAS ÁREAS S.A.",
 			"val": 8.512718330560615,
-			"desc": 264.47,
+			"desc": "264.47",
 			"group": "GOL LINHAS ÁREAS S.A."
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.02661115545439128,
-			"desc": 3.6,
+			"desc": "3.60",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"val": 36.62582508442724,
-			"desc": 928.73,
+			"desc": "928.73",
 			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 16.275701693737652,
-			"desc": 460,
+			"desc": "460.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.9873476532594525,
-			"desc": 78.85,
+			"desc": "78.85",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI",
 			"name": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI",
 			"val": 3244.8896797299767,
-			"desc": 51800,
+			"desc": "51800.00",
 			"group": "GOES SOUSA CONSULTORIA E ASSESSORIA NEGOCIOS EMPRESARIAS EIRELI"
 		},
 		{

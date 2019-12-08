@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LOESTER TRUTIS"
+			"name": "LOESTER TRUTIS",
+			"desc": "34892.13"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "ALBATROZ COMERCIAL DE PETROLEO LTDA",
 			"name": "ALBATROZ COMERCIAL DE PETROLEO LTDA",
 			"val": 4.650993559560851,
-			"desc": 159,
+			"desc": "159.00",
 			"group": "ALBATROZ COMERCIAL DE PETROLEO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.015475961598581948,
-			"desc": 2.7,
+			"desc": "2.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "AUTO POSTO FENNER LTDA",
 			"name": "AUTO POSTO FENNER LTDA",
 			"val": 19.10134089706512,
-			"desc": 527.99,
+			"desc": "527.99",
 			"group": "AUTO POSTO FENNER LTDA"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "LR PETROLEO LTDA",
 			"name": "LR PETROLEO LTDA",
 			"val": 128.98924205362357,
-			"desc": 2814.26,
+			"desc": "2814.26",
 			"group": "LR PETROLEO LTDA"
 		},
 		{
@@ -183,7 +184,7 @@
 			"id": "posto talisma",
 			"name": "posto talisma",
 			"val": 7.637381652530002,
-			"desc": 241.25,
+			"desc": "241.25",
 			"group": "posto talisma"
 		},
 		{
@@ -196,7 +197,7 @@
 			"id": "POSTO ALDO JATAI INDUSTRIAL LTDA",
 			"name": "POSTO ALDO JATAI INDUSTRIAL LTDA",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "POSTO ALDO JATAI INDUSTRIAL LTDA"
 		},
 		{
@@ -209,7 +210,7 @@
 			"id": "POSTO KATIA LOCATELLI LTDA",
 			"name": "POSTO KATIA LOCATELLI LTDA",
 			"val": 8.505886132303647,
-			"desc": 264.29,
+			"desc": "264.29",
 			"group": "POSTO KATIA LOCATELLI LTDA"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 7.83045248418791,
-			"desc": 246.39999999999998,
+			"desc": "246.40",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 635.9974248819668,
-			"desc": 11759.02,
+			"desc": "11759.02",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 31.63438203136643,
-			"desc": 817.43,
+			"desc": "817.43",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "GRAND PARK HOTEL LTDA",
 			"name": "GRAND PARK HOTEL LTDA",
 			"val": 9.68139395021406,
-			"desc": 295,
+			"desc": "295.00",
 			"group": "GRAND PARK HOTEL LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 278.1797323345633,
-			"desc": 5586.909999999999,
+			"desc": "5586.91",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "DIVISA AUTO POSTO LTDA",
 			"name": "DIVISA AUTO POSTO LTDA",
 			"val": 8.892236880300473,
-			"desc": 274.44,
+			"desc": "274.44",
 			"group": "DIVISA AUTO POSTO LTDA"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS DUAS NACOES LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS DUAS NACOES LTDA",
 			"val": 14.341286476549994,
-			"desc": 412.64,
+			"desc": "412.64",
 			"group": "COMERCIO DE COMBUSTIVEIS DUAS NACOES LTDA"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "UNIGAS COMERCIO DE COMBUSTÍVEIS LTDA.",
 			"name": "UNIGAS COMERCIO DE COMBUSTÍVEIS LTDA.",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "UNIGAS COMERCIO DE COMBUSTÍVEIS LTDA."
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "POSTO IMBIRUSSU LTDA",
 			"name": "POSTO IMBIRUSSU LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "POSTO IMBIRUSSU LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 21.672539618099083,
-			"desc": 588.8199999999999,
+			"desc": "588.82",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "J.H.H. HOTEIS LTDA FILIAL",
 			"name": "J.H.H. HOTEIS LTDA FILIAL",
 			"val": 32.32763938763801,
-			"desc": 833,
+			"desc": "833.00",
 			"group": "J.H.H. HOTEIS LTDA FILIAL"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "Auto Posto do Parque",
 			"name": "Auto Posto do Parque",
 			"val": 4.512243406356364,
-			"desc": 155.03,
+			"desc": "155.03",
 			"group": "Auto Posto do Parque"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 21.99129242469559,
-			"desc": 596.3,
+			"desc": "596.30",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "POSTO ACACIA LTDA",
 			"name": "POSTO ACACIA LTDA",
 			"val": 18.34848101119207,
-			"desc": 510,
+			"desc": "510.00",
 			"group": "POSTO ACACIA LTDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 30.19596336946603,
-			"desc": 785,
+			"desc": "785.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "IRMAOS CUNHA LTDA",
 			"name": "IRMAOS CUNHA LTDA",
 			"val": 13.718063332178001,
-			"desc": 397.22,
+			"desc": "397.22",
 			"group": "IRMAOS CUNHA LTDA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "POSTO OSHIRO LTDA.",
 			"name": "POSTO OSHIRO LTDA.",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "POSTO OSHIRO LTDA."
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "CENTRO COMERCIAL CAMPESTRE E SERVICOS LTDA",
 			"name": "CENTRO COMERCIAL CAMPESTRE E SERVICOS LTDA",
 			"val": 8.144426740350534,
-			"desc": 254.74,
+			"desc": "254.74",
 			"group": "CENTRO COMERCIAL CAMPESTRE E SERVICOS LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "POROROCA AUTO POSTO LTDA.",
 			"name": "POROROCA AUTO POSTO LTDA.",
 			"val": 6.007627216662334,
-			"desc": 197.04,
+			"desc": "197.04",
 			"group": "POROROCA AUTO POSTO LTDA."
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "posto serviços são marcos ltda",
 			"name": "posto serviços são marcos ltda",
 			"val": 18.70165500572734,
-			"desc": 518.45,
+			"desc": "518.45",
 			"group": "posto serviços são marcos ltda"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.874750903223417,
-			"desc": 193.37,
+			"desc": "193.37",
 			"group": "RAMAL"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "AUTO POSTO E SERVIÇOS KAUE LTDA",
 			"name": "AUTO POSTO E SERVIÇOS KAUE LTDA",
 			"val": 6.115448415311677,
-			"desc": 200.01,
+			"desc": "200.01",
 			"group": "AUTO POSTO E SERVIÇOS KAUE LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "POSTO DAS AGUAS LTDA",
 			"name": "POSTO DAS AGUAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DAS AGUAS LTDA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "POSTO VITORIA LTDA",
 			"name": "POSTO VITORIA LTDA",
 			"val": 33.060562135033756,
-			"desc": 849.42,
+			"desc": "849.42",
 			"group": "POSTO VITORIA LTDA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "LUCAS SAEZ CANASSA KAWAI",
 			"name": "LUCAS SAEZ CANASSA KAWAI",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "LUCAS SAEZ CANASSA KAWAI"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "TROKAR POSTOS DE SERVICOS",
 			"name": "TROKAR POSTOS DE SERVICOS",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "TROKAR POSTOS DE SERVICOS"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 28.792115785603002,
-			"desc": 753.18,
+			"desc": "753.18",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "28-MACEDO E SOUZA LTDA",
 			"name": "28-MACEDO E SOUZA LTDA",
 			"val": 4.357762673970168,
-			"desc": 150.59,
+			"desc": "150.59",
 			"group": "28-MACEDO E SOUZA LTDA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 3.4368571594889015,
-			"desc": 123.63,
+			"desc": "123.63",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "ANCELMO E PAULINO LTDA",
 			"name": "ANCELMO E PAULINO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ANCELMO E PAULINO LTDA"
 		},
 		{

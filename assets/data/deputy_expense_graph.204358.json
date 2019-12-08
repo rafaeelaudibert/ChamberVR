@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BETO PEREIRA"
+			"name": "BETO PEREIRA",
+			"desc": "81132.67"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 285.02608481216237,
-			"desc": 5709.99,
+			"desc": "5709.99",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "M R AUTO POSTO GOIANÃO LTDA",
 			"name": "M R AUTO POSTO GOIANÃO LTDA",
 			"val": 3.318981594426789,
-			"desc": 120.11,
+			"desc": "120.11",
 			"group": "M R AUTO POSTO GOIANÃO LTDA"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "ESTAÇÃO BAURU DE ALIMENTOS LTDA",
 			"name": "ESTAÇÃO BAURU DE ALIMENTOS LTDA",
 			"val": 1.9070629568973256,
-			"desc": 76.25,
+			"desc": "76.25",
 			"group": "ESTAÇÃO BAURU DE ALIMENTOS LTDA"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "CULTURA MS COMUNICAÇÕES EIRELLI - ME",
 			"name": "CULTURA MS COMUNICAÇÕES EIRELLI - ME",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "CULTURA MS COMUNICAÇÕES EIRELLI - ME"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "posto talisma",
 			"name": "posto talisma",
 			"val": 4.719706720275832,
-			"desc": 160.96,
+			"desc": "160.96",
 			"group": "posto talisma"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "RENTAL LOCADORA DE BENS E VEICULOS LTDA EPP",
 			"name": "RENTAL LOCADORA DE BENS E VEICULOS LTDA EPP",
 			"val": 955.620804562045,
-			"desc": 17000,
+			"desc": "17000.00",
 			"group": "RENTAL LOCADORA DE BENS E VEICULOS LTDA EPP"
 		},
 		{
@@ -258,7 +259,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 358.0732586033051,
-			"desc": 7007.4800000000005,
+			"desc": "7007.48",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "ANCELMO E PAULINO LTDA",
 			"name": "ANCELMO E PAULINO LTDA",
 			"val": 506.14653894201945,
-			"desc": 9568.64,
+			"desc": "9568.64",
 			"group": "ANCELMO E PAULINO LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 60.18202644844016,
-			"desc": 1434.74,
+			"desc": "1434.74",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "SOS ALARMES",
 			"name": "SOS ALARMES",
 			"val": 19.185678924835194,
-			"desc": 530,
+			"desc": "530.00",
 			"group": "SOS ALARMES"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "VIEIRA DE ASSIS E SILVA LTDA",
 			"name": "VIEIRA DE ASSIS E SILVA LTDA",
 			"val": 5.429888422248241,
-			"desc": 181,
+			"desc": "181.00",
 			"group": "VIEIRA DE ASSIS E SILVA LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.25926966198350393,
-			"desc": 16.15,
+			"desc": "16.15",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 22.96406121343566,
-			"desc": 619.05,
+			"desc": "619.05",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "IMAGETECH TECNOLOGIA EM INFORMATICA LTDA",
 			"name": "IMAGETECH TECNOLOGIA EM INFORMATICA LTDA",
 			"val": 263.38704008666843,
-			"desc": 5320,
+			"desc": "5320.00",
 			"group": "IMAGETECH TECNOLOGIA EM INFORMATICA LTDA"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 18.615063824347722,
-			"desc": 516.38,
+			"desc": "516.38",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "G e G AUTO POSTO LTDA",
 			"name": "G e G AUTO POSTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "G e G AUTO POSTO LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "ENERGISA   MS",
 			"name": "ENERGISA   MS",
 			"val": 7.650483029184609,
-			"desc": 241.6,
+			"desc": "241.60",
 			"group": "ENERGISA   MS"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "MUNICIPIO DE CAMPO GRANDE",
 			"name": "MUNICIPIO DE CAMPO GRANDE",
 			"val": 16.45071379158008,
-			"desc": 464.25,
+			"desc": "464.25",
 			"group": "MUNICIPIO DE CAMPO GRANDE"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.8938214336751824,
-			"desc": 137.12,
+			"desc": "137.12",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.094459994149403,
-			"desc": 279.73,
+			"desc": "279.73",
 			"group": "RAMAL"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"name": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO Z+Z 307 NORTE LTDA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "PREFEITURA MUNICIPAL DE CAMPO GRANDE",
 			"name": "PREFEITURA MUNICIPAL DE CAMPO GRANDE",
 			"val": 16.45071379158008,
-			"desc": 464.25,
+			"desc": "464.25",
 			"group": "PREFEITURA MUNICIPAL DE CAMPO GRANDE"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 47.43891898337182,
-			"desc": 1164.39,
+			"desc": "1164.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "aguas guarirobas",
 			"name": "aguas guarirobas",
 			"val": 1.9610454922850216,
-			"desc": 78,
+			"desc": "78.00",
 			"group": "aguas guarirobas"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "UP ADMINISTRADORA- ALLIA GRAN BRASILIA",
 			"name": "UP ADMINISTRADORA- ALLIA GRAN BRASILIA",
 			"val": 31.082160813066377,
-			"desc": 805,
+			"desc": "805.00",
 			"group": "UP ADMINISTRADORA- ALLIA GRAN BRASILIA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "SUPRIMAQ EQUIPAMENTOS PARA ESCRITORIO EIRELI.",
 			"name": "SUPRIMAQ EQUIPAMENTOS PARA ESCRITORIO EIRELI.",
 			"val": 1.0442627041153958,
-			"desc": 47,
+			"desc": "47.00",
 			"group": "SUPRIMAQ EQUIPAMENTOS PARA ESCRITORIO EIRELI."
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "JOBBS INFORMATICA LTDA ME",
 			"name": "JOBBS INFORMATICA LTDA ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JOBBS INFORMATICA LTDA ME"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "READY BEEF COM DE CARNES LTDA",
 			"name": "READY BEEF COM DE CARNES LTDA",
 			"val": 2.8199831174197714,
-			"desc": 105,
+			"desc": "105.00",
 			"group": "READY BEEF COM DE CARNES LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "ARF & MOREIRA LTDA",
 			"name": "ARF & MOREIRA LTDA",
 			"val": 9.488694544417323,
-			"desc": 290,
+			"desc": "290.00",
 			"group": "ARF & MOREIRA LTDA"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "FM PUBLICIDADE E MARKETING LTDA-ME",
 			"name": "FM PUBLICIDADE E MARKETING LTDA-ME",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "FM PUBLICIDADE E MARKETING LTDA-ME"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "AUTO POSTO GARAVELO CENTER LTDA",
 			"name": "AUTO POSTO GARAVELO CENTER LTDA",
 			"val": 4.582070324738115,
-			"desc": 157.03,
+			"desc": "157.03",
 			"group": "AUTO POSTO GARAVELO CENTER LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 7.864257150463948,
-			"desc": 247.3,
+			"desc": "247.30",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 26.735899304936506,
-			"desc": 706.25,
+			"desc": "706.25",
 			"group": "CLARO S.A."
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "ARF & MOREIRA LTDA ME",
 			"name": "ARF & MOREIRA LTDA ME",
 			"val": 9.488694544417323,
-			"desc": 290,
+			"desc": "290.00",
 			"group": "ARF & MOREIRA LTDA ME"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "POSTO ABOBRAO RIO DOCE LTDA",
 			"name": "POSTO ABOBRAO RIO DOCE LTDA",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "POSTO ABOBRAO RIO DOCE LTDA"
 		},
 		{

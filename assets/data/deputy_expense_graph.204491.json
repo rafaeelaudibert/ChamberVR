@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GILBERTO ABRAMO"
+			"name": "GILBERTO ABRAMO",
+			"desc": "33254.30"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO URBANO FERRAZ LTDA",
 			"name": "POSTO URBANO FERRAZ LTDA",
 			"val": 12.553859158352095,
-			"desc": 368.18,
+			"desc": "368.18",
 			"group": "POSTO URBANO FERRAZ LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA.",
 			"name": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA.",
 			"val": 7.309694379911822,
-			"desc": 232.47,
+			"desc": "232.47",
 			"group": "COOPERATIVA AGROPECUARIA DO VALE DO PARACATU LTDA."
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "POSTO CATALÃO LTDA",
 			"name": "POSTO CATALÃO LTDA",
 			"val": 4.781525751194997,
-			"desc": 162.72,
+			"desc": "162.72",
 			"group": "POSTO CATALÃO LTDA"
 		},
 		{
@@ -68,7 +69,7 @@
 			"id": "DRIVE CAR TRANSPORTES E COMBUSTIVEIS LTDA",
 			"name": "DRIVE CAR TRANSPORTES E COMBUSTIVEIS LTDA",
 			"val": 16.71303302017342,
-			"desc": 470.61,
+			"desc": "470.61",
 			"group": "DRIVE CAR TRANSPORTES E COMBUSTIVEIS LTDA"
 		},
 		{
@@ -93,7 +94,7 @@
 			"id": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"name": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"val": 14.193865705892701,
-			"desc": 409,
+			"desc": "409.00",
 			"group": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA"
 		},
 		{
@@ -106,7 +107,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 390.6443886872759,
-			"desc": 7577.920000000001,
+			"desc": "7577.92",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -209,7 +210,7 @@
 			"id": "POSTO TÚNEL LTDA",
 			"name": "POSTO TÚNEL LTDA",
 			"val": 5.395921179055962,
-			"desc": 180.05,
+			"desc": "180.05",
 			"group": "POSTO TÚNEL LTDA"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "POSTO S.R. LTDA - EPP",
 			"name": "POSTO S.R. LTDA - EPP",
 			"val": 49.90157014785075,
-			"desc": 1217.19,
+			"desc": "1217.19",
 			"group": "POSTO S.R. LTDA - EPP"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "ECO EMPREENDIMENTOS COMERCIAIS LTDA",
 			"name": "ECO EMPREENDIMENTOS COMERCIAIS LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "ECO EMPREENDIMENTOS COMERCIAIS LTDA"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 5.681050816461584,
-			"desc": 188,
+			"desc": "188.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 3.6184695865285885,
-			"desc": 129.02,
+			"desc": "129.02",
 			"group": "JJS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "POSTO ZEPPELIN LTDA",
 			"name": "POSTO ZEPPELIN LTDA",
 			"val": 15.845935585160673,
-			"desc": 449.54,
+			"desc": "449.54",
 			"group": "POSTO ZEPPELIN LTDA"
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.2036954291453843,
-			"desc": 116.65,
+			"desc": "116.65",
 			"group": "RAMAL"
 		},
 		{
@@ -348,7 +349,7 @@
 			"id": "POSTO AEL GRAND PRIX LTDA",
 			"name": "POSTO AEL GRAND PRIX LTDA",
 			"val": 6.111087043876401,
-			"desc": 199.89000000000001,
+			"desc": "199.89",
 			"group": "POSTO AEL GRAND PRIX LTDA"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "POSTO TROPICO LTDA",
 			"name": "POSTO TROPICO LTDA",
 			"val": 5.245030859681057,
-			"desc": 175.82,
+			"desc": "175.82",
 			"group": "POSTO TROPICO LTDA"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 4.980715476078755,
-			"desc": 168.37,
+			"desc": "168.37",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.7045070547146515,
-			"desc": 131.56,
+			"desc": "131.56",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 17.641661827269854,
-			"desc": 493.03,
+			"desc": "493.03",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.728627927655702,
-			"desc": 35.4,
+			"desc": "35.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "AUTO POSTO VEM K LTDA",
 			"name": "AUTO POSTO VEM K LTDA",
 			"val": 6.698751210036929,
-			"desc": 215.96,
+			"desc": "215.96",
 			"group": "AUTO POSTO VEM K LTDA"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "AUTO POSTO VISTA ALEGRE LTDA",
 			"name": "AUTO POSTO VISTA ALEGRE LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO VISTA ALEGRE LTDA"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 5.182776733145345,
-			"desc": 174.07,
+			"desc": "174.07",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "BARRABELA AUTO POSTO LTDA",
 			"name": "BARRABELA AUTO POSTO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BARRABELA AUTO POSTO LTDA"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "Art Letras Grafica e Editora LTDA - ME",
 			"name": "Art Letras Grafica e Editora LTDA - ME",
 			"val": 19.6059216896298,
-			"desc": 540,
+			"desc": "540.00",
 			"group": "Art Letras Grafica e Editora LTDA - ME"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "ARAUJO COMERCIO DERIVADOS DE PETROLEO LTDA",
 			"name": "ARAUJO COMERCIO DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ARAUJO COMERCIO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.20172494360060628,
-			"desc": 13.45,
+			"desc": "13.45",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 76.05432266541126,
-			"desc": 1763.1399999999999,
+			"desc": "1763.14",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "Eco Empreendimentos Comerciais LTDA",
 			"name": "Eco Empreendimentos Comerciais LTDA",
 			"val": 5.422377391155718,
-			"desc": 180.79,
+			"desc": "180.79",
 			"group": "Eco Empreendimentos Comerciais LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "Braz Petro Com. de Derivados de Petróleo",
 			"name": "Braz Petro Com. de Derivados de Petróleo",
 			"val": 7.433755257312752,
-			"desc": 235.8,
+			"desc": "235.80",
 			"group": "Braz Petro Com. de Derivados de Petróleo"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 3.39962294617082,
-			"desc": 122.52,
+			"desc": "122.52",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "POSTO DO PAPAI LTDA",
 			"name": "POSTO DO PAPAI LTDA",
 			"val": 1.779070130330457,
-			"desc": 72.07,
+			"desc": "72.07",
 			"group": "POSTO DO PAPAI LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "POSTO PIO XII LTDA",
 			"name": "POSTO PIO XII LTDA",
 			"val": 8.009831742558292,
-			"desc": 251.17,
+			"desc": "251.17",
 			"group": "POSTO PIO XII LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "CORREIOS - MALA DIRETA POSTAL BÁSICA",
 			"name": "CORREIOS - MALA DIRETA POSTAL BÁSICA",
 			"val": 150.29347119196103,
-			"desc": 3223.91,
+			"desc": "3223.91",
 			"group": "CORREIOS - MALA DIRETA POSTAL BÁSICA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "FREITAS & FREITAS LOCAÇÕES DE EQUIP E TRANSP LTDA",
 			"name": "FREITAS & FREITAS LOCAÇÕES DE EQUIP E TRANSP LTDA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "FREITAS & FREITAS LOCAÇÕES DE EQUIP E TRANSP LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 21.73002818275565,
-			"desc": 590.17,
+			"desc": "590.17",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "AUTO POSTO RIO BRANCO DE ANDRADAS",
 			"name": "AUTO POSTO RIO BRANCO DE ANDRADAS",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO RIO BRANCO DE ANDRADAS"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "COMERCIAL BEIRA RIO LTDA",
 			"name": "COMERCIAL BEIRA RIO LTDA",
 			"val": 12.813729049843424,
-			"desc": 374.69,
+			"desc": "374.69",
 			"group": "COMERCIAL BEIRA RIO LTDA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 40.562922527669194,
-			"desc": 1015.3199999999999,
+			"desc": "1015.32",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "AUTO POSTO DOM BOSCO LTDA",
 			"name": "AUTO POSTO DOM BOSCO LTDA",
 			"val": 6.282945230553026,
-			"desc": 204.61,
+			"desc": "204.61",
 			"group": "AUTO POSTO DOM BOSCO LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.4185554554592515,
-			"desc": 23.1,
+			"desc": "23.10",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "POSTO CURVA DO RETIRO LTDA",
 			"name": "POSTO CURVA DO RETIRO LTDA",
 			"val": 7.453525815692914,
-			"desc": 236.33,
+			"desc": "236.33",
 			"group": "POSTO CURVA DO RETIRO LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "POSTO FERNANDA LTDA",
 			"name": "POSTO FERNANDA LTDA",
 			"val": 8.494500707569081,
-			"desc": 263.99,
+			"desc": "263.99",
 			"group": "POSTO FERNANDA LTDA"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 36.911658666092436,
-			"desc": 935.05,
+			"desc": "935.05",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "COMBUSTIVEIS VALADARES LTDA",
 			"name": "COMBUSTIVEIS VALADARES LTDA",
 			"val": 8.194644009834585,
-			"desc": 256.07,
+			"desc": "256.07",
 			"group": "COMBUSTIVEIS VALADARES LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "POSTO RAJA F R LTDA",
 			"name": "POSTO RAJA F R LTDA",
 			"val": 3.787764159607842,
-			"desc": 134.01,
+			"desc": "134.01",
 			"group": "POSTO RAJA F R LTDA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "BELVEDERE COMBUSTIVEIS LTDA",
 			"name": "BELVEDERE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BELVEDERE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "POSTO PRISMA LTDA",
 			"name": "POSTO PRISMA LTDA",
 			"val": 4.970111195742678,
-			"desc": 168.07,
+			"desc": "168.07",
 			"group": "POSTO PRISMA LTDA"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "POSTO BRUNINHA LTDA",
 			"name": "POSTO BRUNINHA LTDA",
 			"val": 8.523347599557884,
-			"desc": 264.75,
+			"desc": "264.75",
 			"group": "POSTO BRUNINHA LTDA"
 		},
 		{
@@ -881,7 +882,7 @@
 			"id": "Posto Formula BR ltda",
 			"name": "Posto Formula BR ltda",
 			"val": 2.249085302321865,
-			"desc": 87.22,
+			"desc": "87.22",
 			"group": "Posto Formula BR ltda"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "POSTO CLEARGEL",
 			"name": "POSTO CLEARGEL",
 			"val": 5.964860659658453,
-			"desc": 195.86,
+			"desc": "195.86",
 			"group": "POSTO CLEARGEL"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "B&T COMERCIO DE ALIMENTOS LTDA",
 			"name": "B&T COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.5929662588931617,
-			"desc": 98,
+			"desc": "98.00",
 			"group": "B&T COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "POSTO ALTO DA RAJA LTDA",
 			"name": "POSTO ALTO DA RAJA LTDA",
 			"val": 5.969570223063085,
-			"desc": 195.99,
+			"desc": "195.99",
 			"group": "POSTO ALTO DA RAJA LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "EMPREENDIMENTOS BRITO LIMA LTDA",
 			"name": "EMPREENDIMENTOS BRITO LIMA LTDA",
 			"val": 6.674476123391826,
-			"desc": 215.3,
+			"desc": "215.30",
 			"group": "EMPREENDIMENTOS BRITO LIMA LTDA"
 		},
 		{
@@ -952,7 +953,7 @@
 			"id": "B2M ATACAREJOS DO BRASIL LTDA",
 			"name": "B2M ATACAREJOS DO BRASIL LTDA",
 			"val": 3.1323553349484,
-			"desc": 114.5,
+			"desc": "114.50",
 			"group": "B2M ATACAREJOS DO BRASIL LTDA"
 		},
 		{
@@ -965,7 +966,7 @@
 			"id": "ALMADA & CIA LIMITADA",
 			"name": "ALMADA & CIA LIMITADA",
 			"val": 1.868645607148764,
-			"desc": 75,
+			"desc": "75.00",
 			"group": "ALMADA & CIA LIMITADA"
 		},
 		{
@@ -978,7 +979,7 @@
 			"id": "OLIMPIA AUTO POSTO LTDA",
 			"name": "OLIMPIA AUTO POSTO LTDA",
 			"val": 6.012341284763143,
-			"desc": 197.17,
+			"desc": "197.17",
 			"group": "OLIMPIA AUTO POSTO LTDA"
 		},
 		{
@@ -991,7 +992,7 @@
 			"id": "RODO POSTO BELA VISTA LTDA",
 			"name": "RODO POSTO BELA VISTA LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "RODO POSTO BELA VISTA LTDA"
 		},
 		{
@@ -1004,7 +1005,7 @@
 			"id": "BIG POSTO AVENIDA LTDA",
 			"name": "BIG POSTO AVENIDA LTDA",
 			"val": 5.099692898231896,
-			"desc": 171.73,
+			"desc": "171.73",
 			"group": "BIG POSTO AVENIDA LTDA"
 		},
 		{
@@ -1017,7 +1018,7 @@
 			"id": "CENTRO AUTOMOTIVO DEL-REY LTDA",
 			"name": "CENTRO AUTOMOTIVO DEL-REY LTDA",
 			"val": 4.8269061266706315,
-			"desc": 164.01,
+			"desc": "164.01",
 			"group": "CENTRO AUTOMOTIVO DEL-REY LTDA"
 		},
 		{
@@ -1030,7 +1031,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 7.406162584846047,
-			"desc": 235.06,
+			"desc": "235.06",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HILDO ROCHA"
+			"name": "HILDO ROCHA",
+			"desc": "135774.40"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RS PRODUÇÕES",
 			"name": "RS PRODUÇÕES",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "RS PRODUÇÕES"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 80.8753907992643,
-			"desc": 1861.3999999999999,
+			"desc": "1861.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "LINDERLANDIO BARBOSA ME",
 			"name": "LINDERLANDIO BARBOSA ME",
 			"val": 4296.542091332122,
-			"desc": 67000,
+			"desc": "67000.00",
 			"group": "LINDERLANDIO BARBOSA ME"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "TOP 10 DE PETROLEO LTDA",
 			"name": "TOP 10 DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "TOP 10 DE PETROLEO LTDA"
 		},
 		{
@@ -99,7 +100,7 @@
 			"id": "AUTO POSTO AVENIDA LTDA",
 			"name": "AUTO POSTO AVENIDA LTDA",
 			"val": 10.262394262540056,
-			"desc": 310,
+			"desc": "310.00",
 			"group": "AUTO POSTO AVENIDA LTDA"
 		},
 		{
@@ -118,7 +119,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.895358393815764,
-			"desc": 326.21999999999997,
+			"desc": "326.22",
 			"group": "RAMAL"
 		},
 		{
@@ -143,7 +144,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1216.2193308060187,
-			"desc": 21160.36,
+			"desc": "21160.36",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -258,7 +259,7 @@
 			"id": "MERCADINHO CARONE LTDA - PLAZA",
 			"name": "MERCADINHO CARONE LTDA - PLAZA",
 			"val": 7.977451907711554,
-			"desc": 250.31,
+			"desc": "250.31",
 			"group": "MERCADINHO CARONE LTDA - PLAZA"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 322.27772489790596,
-			"desc": 6375.0599999999995,
+			"desc": "6375.06",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.8650615342627357,
-			"desc": 106.38,
+			"desc": "106.38",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 35.478683115848476,
-			"desc": 903.31,
+			"desc": "903.31",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "MERCADINHO CARONE LTDA - POSTO OLHO DAGUA",
 			"name": "MERCADINHO CARONE LTDA - POSTO OLHO DAGUA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "MERCADINHO CARONE LTDA - POSTO OLHO DAGUA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "ANDREYSON WALLACE DE OLIVEIRA BRAGA",
 			"name": "ANDREYSON WALLACE DE OLIVEIRA BRAGA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "ANDREYSON WALLACE DE OLIVEIRA BRAGA"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "EDINETE VIEIRA DA SILVA 00065320395",
 			"name": "EDINETE VIEIRA DA SILVA 00065320395",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "EDINETE VIEIRA DA SILVA 00065320395"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "ROMA TRUCK CENTER LTDA",
 			"name": "ROMA TRUCK CENTER LTDA",
 			"val": 40.78107938274884,
-			"desc": 1020.0899999999999,
+			"desc": "1020.09",
 			"group": "ROMA TRUCK CENTER LTDA"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 58.6914185404964,
-			"desc": 1403.46,
+			"desc": "1403.46",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "POSTO MAGNOLIA LTDA",
 			"name": "POSTO MAGNOLIA LTDA",
 			"val": 16.483682417053103,
-			"desc": 465.05,
+			"desc": "465.05",
 			"group": "POSTO MAGNOLIA LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "SOARES E FERNANDES LTDA",
 			"name": "SOARES E FERNANDES LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "SOARES E FERNANDES LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "AUTO POSTO RENASCENCA LTDA",
 			"name": "AUTO POSTO RENASCENCA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO RENASCENCA LTDA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "GONCALO AMADOR NONATO",
 			"name": "GONCALO AMADOR NONATO",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "GONCALO AMADOR NONATO"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "L S COMERCIO E SERVICOS LTDA VINHAIS",
 			"name": "L S COMERCIO E SERVICOS LTDA VINHAIS",
 			"val": 7.4714371464773714,
-			"desc": 236.81,
+			"desc": "236.81",
 			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "POSTO PERNAMBUCANO LTDA",
 			"name": "POSTO PERNAMBUCANO LTDA",
 			"val": 8.800303199773122,
-			"desc": 272.03,
+			"desc": "272.03",
 			"group": "POSTO PERNAMBUCANO LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "HOTEL SANPEDRO J.J LIMA ASSIS - ME",
 			"name": "HOTEL SANPEDRO J.J LIMA ASSIS - ME",
 			"val": 13.387242592798517,
-			"desc": 389,
+			"desc": "389.00",
 			"group": "HOTEL SANPEDRO J.J LIMA ASSIS - ME"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "A F LIMA NETO COMUNICAÇÃO E PROPAGANDA",
 			"name": "A F LIMA NETO COMUNICAÇÃO E PROPAGANDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "A F LIMA NETO COMUNICAÇÃO E PROPAGANDA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "C. A. MENDES FILHO EIRELI-ME",
 			"name": "C. A. MENDES FILHO EIRELI-ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "C. A. MENDES FILHO EIRELI-ME"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "SANCAO VERAS & CIA LTDA",
 			"name": "SANCAO VERAS & CIA LTDA",
 			"val": 12.508021506004779,
-			"desc": 367.03,
+			"desc": "367.03",
 			"group": "SANCAO VERAS & CIA LTDA"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.2563105268322943,
-			"desc": 54.459999999999994,
+			"desc": "54.46",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "FLORIDA SERVICOS DE TRANSMISSAO, TURISMO, COMUNICACAO, PUBLICIDADE E PROPAGANDA LTDA",
 			"name": "FLORIDA SERVICOS DE TRANSMISSAO, TURISMO, COMUNICACAO, PUBLICIDADE E PROPAGANDA LTDA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "FLORIDA SERVICOS DE TRANSMISSAO, TURISMO, COMUNICACAO, PUBLICIDADE E PROPAGANDA LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "NICOLAU DERIVADOS DE PETROLEO(03)",
 			"name": "NICOLAU DERIVADOS DE PETROLEO(03)",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "NICOLAU DERIVADOS DE PETROLEO(03)"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "POSTO MAIS AREINHA LTDA - ME",
 			"name": "POSTO MAIS AREINHA LTDA - ME",
 			"val": 6.850179347491627,
-			"desc": 220.07,
+			"desc": "220.07",
 			"group": "POSTO MAIS AREINHA LTDA - ME"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 223.88049388330396,
-			"desc": 4600,
+			"desc": "4600.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "ECODRIVE COMBUSTIVEIS LTDA",
 			"name": "ECODRIVE COMBUSTIVEIS LTDA",
 			"val": 10.65245854728293,
-			"desc": 320.01,
+			"desc": "320.01",
 			"group": "ECODRIVE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "G C ARCHER COMBUSTIVEIS E LUBRIFICANTES EIRELI",
 			"name": "G C ARCHER COMBUSTIVEIS E LUBRIFICANTES EIRELI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "G C ARCHER COMBUSTIVEIS E LUBRIFICANTES EIRELI"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 14.410605909944938,
-			"desc": 414.35,
+			"desc": "414.35",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "POSTO JOTA EME LTDA - ME",
 			"name": "POSTO JOTA EME LTDA - ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO JOTA EME LTDA - ME"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "JOSUE SOSTHENES DE OLIVEIRA SILVA",
 			"name": "JOSUE SOSTHENES DE OLIVEIRA SILVA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "JOSUE SOSTHENES DE OLIVEIRA SILVA"
 		},
 		{
@@ -846,7 +847,7 @@
 			"id": "GRAFICA E EDITORA SHALOM LTDA",
 			"name": "GRAFICA E EDITORA SHALOM LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "GRAFICA E EDITORA SHALOM LTDA"
 		},
 		{
@@ -859,7 +860,7 @@
 			"id": "Movida Locação de Veículos LTDA",
 			"name": "Movida Locação de Veículos LTDA",
 			"val": 223.88049388330396,
-			"desc": 4600,
+			"desc": "4600.00",
 			"group": "Movida Locação de Veículos LTDA"
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "MUNICIPIO DE FORTALEZA DOS NOGUEIRAS",
 			"name": "MUNICIPIO DE FORTALEZA DOS NOGUEIRAS",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "MUNICIPIO DE FORTALEZA DOS NOGUEIRAS"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "SUPER GAMES COMERCIAL LTDA",
 			"name": "SUPER GAMES COMERCIAL LTDA",
 			"val": 9.296492644319398,
-			"desc": 285,
+			"desc": "285.00",
 			"group": "SUPER GAMES COMERCIAL LTDA"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "R ALMEIDA DE SOUSA-ME",
 			"name": "R ALMEIDA DE SOUSA-ME",
 			"val": 7.740399641461377,
-			"desc": 244,
+			"desc": "244.00",
 			"group": "R ALMEIDA DE SOUSA-ME"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 223.88049388330396,
-			"desc": 4600,
+			"desc": "4600.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{

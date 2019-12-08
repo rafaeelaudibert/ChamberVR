@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "REGINALDO LOPES"
+			"name": "REGINALDO LOPES",
+			"desc": "77586.92"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 1039.1883487888733,
-			"desc": 18343.399999999998,
+			"desc": "18343.40",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 228.1868183141531,
-			"desc": 4679.03,
+			"desc": "4679.03",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 46.80495522141155,
-			"desc": 1150.75,
+			"desc": "1150.75",
 			"group": "CLARO S.A"
 		},
 		{
@@ -260,7 +261,7 @@
 			"id": "AUTO POSTO PORTUENSE LTDA",
 			"name": "AUTO POSTO PORTUENSE LTDA",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "AUTO POSTO PORTUENSE LTDA"
 		},
 		{
@@ -273,7 +274,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 75.83476547615822,
-			"desc": 1758.6500000000003,
+			"desc": "1758.65",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 86.49376604187744,
-			"desc": 1975.1499999999999,
+			"desc": "1975.15",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -401,7 +402,7 @@
 			"id": "POSTO PEQUENO PRINCIPE LTDA",
 			"name": "POSTO PEQUENO PRINCIPE LTDA",
 			"val": 7.142482634101835,
-			"desc": 227.97,
+			"desc": "227.97",
 			"group": "POSTO PEQUENO PRINCIPE LTDA"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 14.564794656638501,
-			"desc": 418.15,
+			"desc": "418.15",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.977632884186707,
-			"desc": 223.52,
+			"desc": "223.52",
 			"group": "RAMAL"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "locarnew veiculos ltda",
 			"name": "locarnew veiculos ltda",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "locarnew veiculos ltda"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "AUTO POSTO MANGUEIRAS LTDA",
 			"name": "AUTO POSTO MANGUEIRAS LTDA",
 			"val": 4.1288433044606325,
-			"desc": 143.97,
+			"desc": "143.97",
 			"group": "AUTO POSTO MANGUEIRAS LTDA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "POSTO TOCANTINS LTDA",
 			"name": "POSTO TOCANTINS LTDA",
 			"val": 755.6420970330659,
-			"desc": 13742.58,
+			"desc": "13742.58",
 			"group": "POSTO TOCANTINS LTDA"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "POSTO SOUZA LTDA",
 			"name": "POSTO SOUZA LTDA",
 			"val": 9.027115085876435,
-			"desc": 277.97,
+			"desc": "277.97",
 			"group": "POSTO SOUZA LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "RB IMOVEIS LTDA",
 			"name": "RB IMOVEIS LTDA",
 			"val": 623.4222705700074,
-			"desc": 11548.75,
+			"desc": "11548.75",
 			"group": "RB IMOVEIS LTDA"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 56.84520991731194,
-			"desc": 1364.6,
+			"desc": "1364.60",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "auto posto caputira",
 			"name": "auto posto caputira",
 			"val": 8.344776953361555,
-			"desc": 260.04,
+			"desc": "260.04",
 			"group": "auto posto caputira"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "telefonica brasil sa",
 			"name": "telefonica brasil sa",
 			"val": 22.69547256470775,
-			"desc": 612.78,
+			"desc": "612.78",
 			"group": "telefonica brasil sa"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
 			"name": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
 			"val": 418.12449706269405,
-			"desc": 8055.84,
+			"desc": "8055.84",
 			"group": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502",
 			"name": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502",
 			"val": 2.387929813991991,
-			"desc": 91.6,
+			"desc": "91.60",
 			"group": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 24.978006484465524,
-			"desc": 665.8,
+			"desc": "665.80",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "dourada parque hotel",
 			"name": "dourada parque hotel",
 			"val": 17.91075305384925,
-			"desc": 499.5,
+			"desc": "499.50",
 			"group": "dourada parque hotel"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "DIVINI'S LTDA",
 			"name": "DIVINI'S LTDA",
 			"val": 13.910891119415718,
-			"desc": 402,
+			"desc": "402.00",
 			"group": "DIVINI'S LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "são sebastião combustiveis e serviços ltda - epp",
 			"name": "são sebastião combustiveis e serviços ltda - epp",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "são sebastião combustiveis e serviços ltda - epp"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.03338423211958382,
-			"desc": 4.1,
+			"desc": "4.10",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.7598372974305946,
-			"desc": 36.58,
+			"desc": "36.58",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 19.6059216896298,
-			"desc": 540,
+			"desc": "540.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 22.148737997121763,
-			"desc": 599.99,
+			"desc": "599.99",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"name": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"val": 0.3274010423680353,
-			"desc": 19.2,
+			"desc": "19.20",
 			"group": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "AUTO POSTO TEOTE LTDA",
 			"name": "AUTO POSTO TEOTE LTDA",
 			"val": 8.154240505596036,
-			"desc": 255,
+			"desc": "255.00",
 			"group": "AUTO POSTO TEOTE LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "AUTO POSTO TURISTA LTDA",
 			"name": "AUTO POSTO TURISTA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO TURISTA LTDA"
 		},
 		{

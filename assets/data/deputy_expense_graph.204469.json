@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MANUEL MARCOS"
+			"name": "MANUEL MARCOS",
+			"desc": "107763.64"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ACRE",
 			"name": "COMPANHIA DE ELETRICIDADE DO ACRE",
 			"val": 30.635154360826,
-			"desc": 794.92,
+			"desc": "794.92",
 			"group": "COMPANHIA DE ELETRICIDADE DO ACRE"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 790.5026832858106,
-			"desc": 14315.240000000002,
+			"desc": "14315.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "CASTRO &CIA REPRESENTAÇÃO COMERCIO E SERVIÇOS LTDA",
 			"name": "CASTRO &CIA REPRESENTAÇÃO COMERCIO E SERVIÇOS LTDA",
 			"val": 334.96980816111585,
-			"desc": 6600,
+			"desc": "6600.00",
 			"group": "CASTRO &CIA REPRESENTAÇÃO COMERCIO E SERVIÇOS LTDA"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1585.3894254141803,
-			"desc": 26931.27,
+			"desc": "26931.27",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"name": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"val": 3.5948089560432104,
-			"desc": 128.32,
+			"desc": "128.32",
 			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.320651835975936,
-			"desc": 120.16,
+			"desc": "120.16",
 			"group": "RAMAL"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 38.606768950263486,
-			"desc": 972.4200000000001,
+			"desc": "972.42",
 			"group": "Claro S.A"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "LEANDRO DOMINGOS TEIXEIRA PINTO",
 			"name": "LEANDRO DOMINGOS TEIXEIRA PINTO",
 			"val": 569.0963732491756,
-			"desc": 10635.99,
+			"desc": "10635.99",
 			"group": "LEANDRO DOMINGOS TEIXEIRA PINTO"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "H PLUS ADMINISTRACAO E HOTELARIA LTDA - SCP PREMIER",
 			"name": "H PLUS ADMINISTRACAO E HOTELARIA LTDA - SCP PREMIER",
 			"val": 28.47640695164163,
-			"desc": 746,
+			"desc": "746.00",
 			"group": "H PLUS ADMINISTRACAO E HOTELARIA LTDA - SCP PREMIER"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 38.01839961001991,
-			"desc": 959.47,
+			"desc": "959.47",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "AGENCIA DE NOTICIAS CONTILNET LTDA - ME",
 			"name": "AGENCIA DE NOTICIAS CONTILNET LTDA - ME",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "AGENCIA DE NOTICIAS CONTILNET LTDA - ME"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "PEDRO DE SOUZA LIMA - TRANSLIMA",
 			"name": "PEDRO DE SOUZA LIMA - TRANSLIMA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "PEDRO DE SOUZA LIMA - TRANSLIMA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "JP DE CARVALHO DERIVADOS DE PETROLEO LTDA",
 			"name": "JP DE CARVALHO DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JP DE CARVALHO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "A & S DERIVADOS DE PETROLEO LTDA",
 			"name": "A & S DERIVADOS DE PETROLEO LTDA",
 			"val": 298.45567332569806,
-			"desc": 5950.63,
+			"desc": "5950.63",
 			"group": "A & S DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "MC CAVALCANTE OLIVEIRA",
 			"name": "MC CAVALCANTE OLIVEIRA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "MC CAVALCANTE OLIVEIRA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "AMORIM AMORIM EMPREENDIMENTOS COMERCIAIS LTDA",
 			"name": "AMORIM AMORIM EMPREENDIMENTOS COMERCIAIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AMORIM AMORIM EMPREENDIMENTOS COMERCIAIS LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "S. A. A. DE OLIVEIRA NETO",
 			"name": "S. A. A. DE OLIVEIRA NETO",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "S. A. A. DE OLIVEIRA NETO"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "RAIMUNDO ADEMIR M. DE SOUZA",
 			"name": "RAIMUNDO ADEMIR M. DE SOUZA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "RAIMUNDO ADEMIR M. DE SOUZA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "AMAZONIA 7 PRODUCOES LTDA",
 			"name": "AMAZONIA 7 PRODUCOES LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "AMAZONIA 7 PRODUCOES LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
 			"name": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
 			"val": 648.6368492640619,
-			"desc": 11970,
+			"desc": "11970.00",
 			"group": "KALLINY COMUNICACOES E TECNOLOGIA LTDA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.8304470458598855,
-			"desc": 39.22,
+			"desc": "39.22",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

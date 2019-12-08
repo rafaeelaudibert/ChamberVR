@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VICENTINHO"
+			"name": "VICENTINHO",
+			"desc": "49746.37"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1471.370910701837,
-			"desc": 25162.03,
+			"desc": "25162.03",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -138,7 +139,7 @@
 			"id": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"name": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"val": 4.301238571012459,
-			"desc": 148.95999999999998,
+			"desc": "148.96",
 			"group": "LOCAWEB SERVICOS DE INTERNET S.A."
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.497550778697944,
-			"desc": 182.89,
+			"desc": "182.89",
 			"group": "RAMAL"
 		},
 		{
@@ -176,7 +177,7 @@
 			"id": "Pif Assessoria Comercial LTDA-EPP",
 			"name": "Pif Assessoria Comercial LTDA-EPP",
 			"val": 8.165565981743176,
-			"desc": 255.3,
+			"desc": "255.30",
 			"group": "Pif Assessoria Comercial LTDA-EPP"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 4.511197131270027,
-			"desc": 155,
+			"desc": "155.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -262,7 +263,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 17.591806773523057,
-			"desc": 491.83000000000004,
+			"desc": "491.83",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "CONCESSIONARIA RODOVIA DOS TAMOIOS S.A.",
 			"name": "CONCESSIONARIA RODOVIA DOS TAMOIOS S.A.",
 			"val": 0.15614712185722682,
-			"desc": 11.2,
+			"desc": "11.20",
 			"group": "CONCESSIONARIA RODOVIA DOS TAMOIOS S.A."
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 60.21829258651964,
-			"desc": 1435.5,
+			"desc": "1435.50",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.4855211363276504,
-			"desc": 62.3,
+			"desc": "62.30",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 6.584833515390454,
-			"desc": 212.86,
+			"desc": "212.86",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 13.347064731074422,
-			"desc": 388,
+			"desc": "388.00",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "CONCESSIONARIA SPMAR",
 			"name": "CONCESSIONARIA SPMAR",
 			"val": 0.024011272550536485,
-			"desc": 3.4,
+			"desc": "3.40",
 			"group": "CONCESSIONARIA SPMAR"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"name": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 3.6573881466804488,
-			"desc": 130.17,
+			"desc": "130.17",
 			"group": "CLARO S/A"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "TIM S.A",
 			"name": "TIM S.A",
 			"val": 25.9536889509589,
-			"desc": 688.29,
+			"desc": "688.29",
 			"group": "TIM S.A"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "PIMENTA VERDE ALIMENTOS LTDA",
 			"name": "PIMENTA VERDE ALIMENTOS LTDA",
 			"val": 1.1600213833086728,
-			"desc": 51.1,
+			"desc": "51.10",
 			"group": "PIMENTA VERDE ALIMENTOS LTDA"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "PIANORO AUTO POSTO LTDA ME",
 			"name": "PIANORO AUTO POSTO LTDA ME",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PIANORO AUTO POSTO LTDA ME"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "VIAÇAO COMETA S/A",
 			"name": "VIAÇAO COMETA S/A",
 			"val": 1.2266626341069093,
-			"desc": 53.43,
+			"desc": "53.43",
 			"group": "VIAÇAO COMETA S/A"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "AUTO POSTO METROPOLE LTDA",
 			"name": "AUTO POSTO METROPOLE LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO METROPOLE LTDA"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.752730426166821,
-			"desc": 132.98,
+			"desc": "132.98",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "TB COMERCIO DE ALIMENTOS LTDA",
 			"name": "TB COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.211451434925162,
-			"desc": 52.9,
+			"desc": "52.90",
 			"group": "TB COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 81.54949514766585,
-			"desc": 1875.0900000000001,
+			"desc": "1875.09",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.184558667433412,
-			"desc": 201.91,
+			"desc": "201.91",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.688083448371302,
-			"desc": 215.67,
+			"desc": "215.67",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"name": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"val": 0.07860593781761292,
-			"desc": 7,
+			"desc": "7.00",
 			"group": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "ELIANE PICCININ DA CRUZ",
 			"name": "ELIANE PICCININ DA CRUZ",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "ELIANE PICCININ DA CRUZ"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 38.24908447138608,
-			"desc": 964.55,
+			"desc": "964.55",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "AB1 HOTELARIA EIRELI - EPP",
 			"name": "AB1 HOTELARIA EIRELI - EPP",
 			"val": 9.150757291651482,
-			"desc": 281.2,
+			"desc": "281.20",
 			"group": "AB1 HOTELARIA EIRELI - EPP"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "COMERCIAL PAPIROS LTDA",
 			"name": "COMERCIAL PAPIROS LTDA",
 			"val": 2.5929662588931617,
-			"desc": 98,
+			"desc": "98.00",
 			"group": "COMERCIAL PAPIROS LTDA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.2835217141017567,
-			"desc": 88.31,
+			"desc": "88.31",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "CONDOMINIO EDIFICIO PICCININ",
 			"name": "CONDOMINIO EDIFICIO PICCININ",
 			"val": 152.7461854238074,
-			"desc": 3270.69,
+			"desc": "3270.69",
 			"group": "CONDOMINIO EDIFICIO PICCININ"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 1.474273977718444,
-			"desc": 61.92,
+			"desc": "61.92",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "COOPERATIVA MISTA DE TRABALHO DOS MOTORISTAS AUTONOMOS DE TAXI ESPECIAL DE SP",
 			"name": "COOPERATIVA MISTA DE TRABALHO DOS MOTORISTAS AUTONOMOS DE TAXI ESPECIAL DE SP",
 			"val": 1.536,
-			"desc": 64,
+			"desc": "64.00",
 			"group": "COOPERATIVA MISTA DE TRABALHO DOS MOTORISTAS AUTONOMOS DE TAXI ESPECIAL DE SP"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "VIP AUTO POSTO LT",
 			"name": "VIP AUTO POSTO LT",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "VIP AUTO POSTO LT"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "SOCIEDADE RADIO DIFUSORA SANTA CRUZ LTDA",
 			"name": "SOCIEDADE RADIO DIFUSORA SANTA CRUZ LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "SOCIEDADE RADIO DIFUSORA SANTA CRUZ LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "RECANTO AUTO POSTO LT",
 			"name": "RECANTO AUTO POSTO LT",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "RECANTO AUTO POSTO LT"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "AUTO POSTO SAO BERNARDO LTDA",
 			"name": "AUTO POSTO SAO BERNARDO LTDA",
 			"val": 223.88267150241745,
-			"desc": 4600.04,
+			"desc": "4600.04",
 			"group": "AUTO POSTO SAO BERNARDO LTDA"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA",
 			"name": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA",
 			"val": 0.06691486608103636,
-			"desc": 6.3,
+			"desc": "6.30",
 			"group": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 20.87807216783972,
-			"desc": 570.12,
+			"desc": "570.12",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "INTERSUL",
 			"name": "INTERSUL",
 			"val": 3.17977911435649,
-			"desc": 115.93,
+			"desc": "115.93",
 			"group": "INTERSUL"
 		},
 		{
@@ -887,7 +888,7 @@
 			"id": "AUTO POSTO REGISTRO II LTDA",
 			"name": "AUTO POSTO REGISTRO II LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO REGISTRO II LTDA"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "LITORANEA TRANSPORTES COLETIVOS S/A.",
 			"name": "LITORANEA TRANSPORTES COLETIVOS S/A.",
 			"val": 0.6801579235881805,
-			"desc": 33.55,
+			"desc": "33.55",
 			"group": "LITORANEA TRANSPORTES COLETIVOS S/A."
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "J L FIGUEREDO e FILHOS LT",
 			"name": "J L FIGUEREDO e FILHOS LT",
 			"val": 4.416474912775385,
-			"desc": 152.28,
+			"desc": "152.28",
 			"group": "J L FIGUEREDO e FILHOS LT"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 3.6573881466804488,
-			"desc": 130.17,
+			"desc": "130.17",
 			"group": "NET CLARO"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"name": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"val": 0.17813285139423238,
-			"desc": 12.3,
+			"desc": "12.30",
 			"group": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP"
 		},
 		{

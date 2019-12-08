@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LAURIETE"
+			"name": "LAURIETE",
+			"desc": "74170.81"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "VANDERLEI ALVES DE LIMA ME",
 			"name": "VANDERLEI ALVES DE LIMA ME",
 			"val": 4.721110469505813,
-			"desc": 161,
+			"desc": "161.00",
 			"group": "VANDERLEI ALVES DE LIMA ME"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 18.512638571165276,
-			"desc": 513.93,
+			"desc": "513.93",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.55621868547829,
-			"desc": 239.07999999999998,
+			"desc": "239.08",
 			"group": "RAMAL"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 147.6882909927871,
-			"desc": 3174.1400000000003,
+			"desc": "3174.14",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -189,7 +190,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2096.299517104161,
-			"desc": 34742.77999999998,
+			"desc": "34742.78",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 10.08686909820764,
-			"desc": 305.48,
+			"desc": "305.48",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 181.57296073138284,
-			"desc": 3815.33,
+			"desc": "3815.33",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "COMIDAS REGIONAIS DO BRASIL LTDA",
 			"name": "COMIDAS REGIONAIS DO BRASIL LTDA",
 			"val": 1.5708931558999275,
-			"desc": 65.17,
+			"desc": "65.17",
 			"group": "COMIDAS REGIONAIS DO BRASIL LTDA"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "AMANDA LOCADORA DE VEÍCULOS LTDA ME",
 			"name": "AMANDA LOCADORA DE VEÍCULOS LTDA ME",
 			"val": 1153.0881346027502,
-			"desc": 20160,
+			"desc": "20160.00",
 			"group": "AMANDA LOCADORA DE VEÍCULOS LTDA ME"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA",
 			"name": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 1.324080482393055,
-			"desc": 56.8,
+			"desc": "56.80",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 28.89421217028811,
-			"desc": 755.5,
+			"desc": "755.50",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 87.4042109863007,
-			"desc": 1993.51,
+			"desc": "1993.51",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "Sabor Gaucho - Rest. Lanc. Ltda ME",
 			"name": "Sabor Gaucho - Rest. Lanc. Ltda ME",
 			"val": 0.793672319217893,
-			"desc": 37.85,
+			"desc": "37.85",
 			"group": "Sabor Gaucho - Rest. Lanc. Ltda ME"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 115.97739120695347,
-			"desc": 2560.8,
+			"desc": "2560.80",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "POSTO COSTA AZUL LTDA",
 			"name": "POSTO COSTA AZUL LTDA",
 			"val": 243.59013605744295,
-			"desc": 4960.58,
+			"desc": "4960.58",
 			"group": "POSTO COSTA AZUL LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 2.4946222283740713,
-			"desc": 94.94,
+			"desc": "94.94",
 			"group": "CLARO S.A"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 5.8194738845528065,
-			"desc": 191.84,
+			"desc": "191.84",
 			"group": "CLARO S/A."
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "TLPS COMERCIO DE ALIMENTOS LTDA",
 			"name": "TLPS COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.4042667786696707,
-			"desc": 22.5,
+			"desc": "22.50",
 			"group": "TLPS COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.3360953099018049,
-			"desc": 19.58,
+			"desc": "19.58",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{

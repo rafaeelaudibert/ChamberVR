@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROBERTO ALVES"
+			"name": "ROBERTO ALVES",
+			"desc": "99598.26"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"name": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"val": 24.788494672606706,
-			"desc": 661.4200000000001,
+			"desc": "661.42",
 			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Posto Ilha Bonita LTDA",
 			"name": "Posto Ilha Bonita LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto Ilha Bonita LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "RONALDO L. SARTORIO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "RONALDO L. SARTORIO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "RONALDO L. SARTORIO SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "FSPRJ LOC COMP E EQUIP INF LTDA",
 			"name": "FSPRJ LOC COMP E EQUIP INF LTDA",
 			"val": 265.98637690909214,
-			"desc": 5367,
+			"desc": "5367.00",
 			"group": "FSPRJ LOC COMP E EQUIP INF LTDA"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 41.23426787826441,
-			"desc": 1029.99,
+			"desc": "1029.99",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -160,7 +161,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 186.5843015247133,
-			"desc": 3909.12,
+			"desc": "3909.12",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "POSTO RETIRO DA SERRA LTDA",
 			"name": "POSTO RETIRO DA SERRA LTDA",
 			"val": 6.716781153623377,
-			"desc": 216.45,
+			"desc": "216.45",
 			"group": "POSTO RETIRO DA SERRA LTDA"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.432934076600233,
-			"desc": 23.7,
+			"desc": "23.70",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 23.39104117650829,
-			"desc": 629,
+			"desc": "629.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "Sanasa Campinas",
 			"name": "Sanasa Campinas",
 			"val": 17.91033677299056,
-			"desc": 499.48999999999995,
+			"desc": "499.49",
 			"group": "Sanasa Campinas"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "NIDOTTI & PAIVA TRANSPORTES, LOCACAO E TURISMO LTDA",
 			"name": "NIDOTTI & PAIVA TRANSPORTES, LOCACAO E TURISMO LTDA",
 			"val": 680.4820237218406,
-			"desc": 12500,
+			"desc": "12500.00",
 			"group": "NIDOTTI & PAIVA TRANSPORTES, LOCACAO E TURISMO LTDA"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS MORAES SALES LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS MORAES SALES LTDA",
 			"val": 5.753450765876089,
-			"desc": 190.01,
+			"desc": "190.01",
 			"group": "COMERCIO DE COMBUSTIVEIS MORAES SALES LTDA"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 12.976930275532636,
-			"desc": 378.77,
+			"desc": "378.77",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 31.733568975012783,
-			"desc": 819.66,
+			"desc": "819.66",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "Elieder de Oliveira-ME",
 			"name": "Elieder de Oliveira-ME",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "Elieder de Oliveira-ME"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 18.470016073966793,
-			"desc": 512.91,
+			"desc": "512.91",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "JJA PETRO AUTO POSTO LTDA",
 			"name": "JJA PETRO AUTO POSTO LTDA",
 			"val": 6.1176292568481765,
-			"desc": 200.07,
+			"desc": "200.07",
 			"group": "JJA PETRO AUTO POSTO LTDA"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "CYRO BALDIN",
 			"name": "CYRO BALDIN",
 			"val": 653.1945471775634,
-			"desc": 12045.99,
+			"desc": "12045.99",
 			"group": "CYRO BALDIN"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 103.44665866813892,
-			"desc": 2314,
+			"desc": "2314.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "BANTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "BANTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 7.590988956411867,
-			"desc": 240.01,
+			"desc": "240.01",
 			"group": "BANTA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "AUTO POSTO 2002 DE CAMPINAS LTDA",
 			"name": "AUTO POSTO 2002 DE CAMPINAS LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "AUTO POSTO 2002 DE CAMPINAS LTDA"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 2.093703886695219,
-			"desc": 82.27,
+			"desc": "82.27",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "SANTA BARBARA COMERCIO VAREJISTA DE COMBUSTIVEIS",
 			"name": "SANTA BARBARA COMERCIO VAREJISTA DE COMBUSTIVEIS",
 			"val": 3.949570898486795,
-			"desc": 138.75,
+			"desc": "138.75",
 			"group": "SANTA BARBARA COMERCIO VAREJISTA DE COMBUSTIVEIS"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "SER-INVEST INVESTIMENTOS E EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"name": "SER-INVEST INVESTIMENTOS E EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"val": 10.613018495163974,
-			"desc": 319,
+			"desc": "319.00",
 			"group": "SER-INVEST INVESTIMENTOS E EMPREENDIMENTOS IMOBILIARIOS LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "MACEDO & SOUZA LTDA",
 			"name": "MACEDO & SOUZA LTDA",
 			"val": 6.480698795580034,
-			"desc": 210.02,
+			"desc": "210.02",
 			"group": "MACEDO & SOUZA LTDA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "ANTONIO RODRIGO MACHADO ADVOCACIA ASSOCIADA",
 			"name": "ANTONIO RODRIGO MACHADO ADVOCACIA ASSOCIADA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "ANTONIO RODRIGO MACHADO ADVOCACIA ASSOCIADA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "RODA VIVA AUTO POSTO LT",
 			"name": "RODA VIVA AUTO POSTO LT",
 			"val": 9.875356153540668,
-			"desc": 300.02,
+			"desc": "300.02",
 			"group": "RODA VIVA AUTO POSTO LT"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.18368095815241,
-			"desc": 229.07999999999998,
+			"desc": "229.08",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"name": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
 			"val": 4.877984950012005,
-			"desc": 165.46,
+			"desc": "165.46",
 			"group": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.297173681594466,
-			"desc": 205,
+			"desc": "205.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 12.667945146615358,
-			"desc": 371.03999999999996,
+			"desc": "371.04",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "LUIZ ANTONIO MENUZZO e CIA LTDA",
 			"name": "LUIZ ANTONIO MENUZZO e CIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "LUIZ ANTONIO MENUZZO e CIA LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 12.881698562593906,
-			"desc": 376.39,
+			"desc": "376.39",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.687887073765089,
-			"desc": 131.07,
+			"desc": "131.07",
 			"group": "RAMAL"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.9469875248363313,
-			"desc": 108.88,
+			"desc": "108.88",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 1.462449403841882,
-			"desc": 61.52,
+			"desc": "61.52",
 			"group": "NET CLARO"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "JJS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 0.909191121345167,
-			"desc": 42.12,
+			"desc": "42.12",
 			"group": "CLARO S/A"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "MEL SERVICOS AUTOMOTIVOS LT",
 			"name": "MEL SERVICOS AUTOMOTIVOS LT",
 			"val": 6.849441391638623,
-			"desc": 220.05,
+			"desc": "220.05",
 			"group": "MEL SERVICOS AUTOMOTIVOS LT"
 		},
 		{

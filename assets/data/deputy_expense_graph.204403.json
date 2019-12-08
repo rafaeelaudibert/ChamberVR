@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARLON SANTOS"
+			"name": "MARLON SANTOS",
+			"desc": "70884.38"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 28.52474882758836,
-			"desc": 747.1,
+			"desc": "747.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 666.816252635478,
-			"desc": 12272.829999999998,
+			"desc": "12272.83",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "CONCEIÇÃO PALACE HOTEL LTDA",
 			"name": "CONCEIÇÃO PALACE HOTEL LTDA",
 			"val": 8.825849206842433,
-			"desc": 272.7,
+			"desc": "272.70",
 			"group": "CONCEIÇÃO PALACE HOTEL LTDA"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "POSTO DE COMBUSTIVEIS DAL RI LTDA",
 			"name": "POSTO DE COMBUSTIVEIS DAL RI LTDA",
 			"val": 32.605949824707984,
-			"desc": 839.24,
+			"desc": "839.24",
 			"group": "POSTO DE COMBUSTIVEIS DAL RI LTDA"
 		},
 		{
@@ -183,7 +184,7 @@
 			"id": "Marcelo Zacca Silva",
 			"name": "Marcelo Zacca Silva",
 			"val": 455.4206290596961,
-			"desc": 8700,
+			"desc": "8700.00",
 			"group": "Marcelo Zacca Silva"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS CORONEL BARROS LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS CORONEL BARROS LTDA",
 			"val": 2.5157861638869106,
-			"desc": 95.6,
+			"desc": "95.60",
 			"group": "COMERCIAL DE COMBUSTIVEIS CORONEL BARROS LTDA"
 		},
 		{
@@ -221,7 +222,7 @@
 			"id": "CARLOS MOLON &amp; CIA LTDA",
 			"name": "CARLOS MOLON &amp; CIA LTDA",
 			"val": 8.155750451455935,
-			"desc": 255.04,
+			"desc": "255.04",
 			"group": "CARLOS MOLON &amp; CIA LTDA"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 19.186518330500043,
-			"desc": 530.02,
+			"desc": "530.02",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"val": 31.51922691793955,
-			"desc": 814.84,
+			"desc": "814.84",
 			"group": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "ABASTECEDORA BIANCHI LTDA.",
 			"name": "ABASTECEDORA BIANCHI LTDA.",
 			"val": 3.787423806085366,
-			"desc": 134,
+			"desc": "134.00",
 			"group": "ABASTECEDORA BIANCHI LTDA."
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.3710563793500001,
-			"desc": 21.09,
+			"desc": "21.09",
 			"group": "RAMAL"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 848.2148883987915,
-			"desc": 15258.589999999997,
+			"desc": "15258.59",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 48.11805749958798,
-			"desc": 1178.98,
+			"desc": "1178.98",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 3.364454797222089,
-			"desc": 121.47,
+			"desc": "121.47",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "AUTOLOCADORA BONAUTO LOCALIZE LTDA.",
 			"name": "AUTOLOCADORA BONAUTO LOCALIZE LTDA.",
 			"val": 549.0925134452169,
-			"desc": 10298,
+			"desc": "10298.00",
 			"group": "AUTOLOCADORA BONAUTO LOCALIZE LTDA."
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "Hotel Century Ltda",
 			"name": "Hotel Century Ltda",
 			"val": 20.618827851011677,
-			"desc": 564,
+			"desc": "564.00",
 			"group": "Hotel Century Ltda"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "POSTO RS 239 DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO RS 239 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "POSTO RS 239 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "HOTEL SINUELO",
 			"name": "HOTEL SINUELO",
 			"val": 4.4067399281737,
-			"desc": 152,
+			"desc": "152.00",
 			"group": "HOTEL SINUELO"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "IRMAOS CANTARELLI LTDA",
 			"name": "IRMAOS CANTARELLI LTDA",
 			"val": 3.654340224908894,
-			"desc": 130.08,
+			"desc": "130.08",
 			"group": "IRMAOS CANTARELLI LTDA"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "COMOCA COOPERATIVA MOT. PROF. CACHOEIRA",
 			"name": "COMOCA COOPERATIVA MOT. PROF. CACHOEIRA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "COMOCA COOPERATIVA MOT. PROF. CACHOEIRA"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "JMP ADMINSTRAÇÃO E PARTICIPAÇÕES LTDA.",
 			"name": "JMP ADMINSTRAÇÃO E PARTICIPAÇÕES LTDA.",
 			"val": 660.7067654841776,
-			"desc": 12171.14,
+			"desc": "12171.14",
 			"group": "JMP ADMINSTRAÇÃO E PARTICIPAÇÕES LTDA."
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "TELEFONICA BRASIL S.A. VIVO",
 			"name": "TELEFONICA BRASIL S.A. VIVO",
 			"val": 15.5689351588373,
-			"desc": 442.78,
+			"desc": "442.78",
 			"group": "TELEFONICA BRASIL S.A. VIVO"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 74.93717887615203,
-			"desc": 1740.2800000000002,
+			"desc": "1740.28",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "AUTO POSTO GAUCHO LTDA",
 			"name": "AUTO POSTO GAUCHO LTDA",
 			"val": 8.344019735016852,
-			"desc": 260.02,
+			"desc": "260.02",
 			"group": "AUTO POSTO GAUCHO LTDA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "POSTO CABRAIS LTDA",
 			"name": "POSTO CABRAIS LTDA",
 			"val": 4.422386889006631,
-			"desc": 152.45,
+			"desc": "152.45",
 			"group": "POSTO CABRAIS LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "METRO COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "METRO COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "METRO COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "CHURRASCARIA ESPETO DE OURO LTDA",
 			"name": "CHURRASCARIA ESPETO DE OURO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CHURRASCARIA ESPETO DE OURO LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS LANDO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS LANDO LTDA",
 			"val": 6.3344067756469356,
-			"desc": 206.02,
+			"desc": "206.02",
 			"group": "COMERCIAL DE COMBUSTIVEIS LANDO LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "HOTEL IJUI LTDA",
 			"name": "HOTEL IJUI LTDA",
 			"val": 8.951811000283099,
-			"desc": 276,
+			"desc": "276.00",
 			"group": "HOTEL IJUI LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEL PESSANO E LIMA LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEL PESSANO E LIMA LTDA",
 			"val": 7.59173693288032,
-			"desc": 240.03,
+			"desc": "240.03",
 			"group": "COMERCIAL DE COMBUSTIVEL PESSANO E LIMA LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "RAABE COMBUSTIVEIS LTDA",
 			"name": "RAABE COMBUSTIVEIS LTDA",
 			"val": 9.104414100886558,
-			"desc": 279.99,
+			"desc": "279.99",
 			"group": "RAABE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 3.1422958795571994,
-			"desc": 114.8,
+			"desc": "114.80",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "AUTO POSTO SUDOESTE LTDA",
 			"name": "AUTO POSTO SUDOESTE LTDA",
 			"val": 3.6215132601769984,
-			"desc": 129.11,
+			"desc": "129.11",
 			"group": "AUTO POSTO SUDOESTE LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "VEBBER COMBUSTIVEIS LTDA",
 			"name": "VEBBER COMBUSTIVEIS LTDA",
 			"val": 8.344776953361555,
-			"desc": 260.04,
+			"desc": "260.04",
 			"group": "VEBBER COMBUSTIVEIS LTDA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 34.883271966889,
-			"desc": 890.08,
+			"desc": "890.08",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "ABAST TVT LTDA ME",
 			"name": "ABAST TVT LTDA ME",
 			"val": 6.117265776046968,
-			"desc": 200.06,
+			"desc": "200.06",
 			"group": "ABAST TVT LTDA ME"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS MINEIRO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS MINEIRO LTDA",
 			"val": 3.516549081443958,
-			"desc": 126,
+			"desc": "126.00",
 			"group": "COMERCIAL DE COMBUSTIVEIS MINEIRO LTDA"
 		},
 		{

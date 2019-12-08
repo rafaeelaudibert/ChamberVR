@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RUBENS BUENO"
+			"name": "RUBENS BUENO",
+			"desc": "59894.47"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RMZ FUKAMI COMERCIO DE COMBUSTIVEIS LTDA ME",
 			"name": "RMZ FUKAMI COMERCIO DE COMBUSTIVEIS LTDA ME",
 			"val": 17.677401652891216,
-			"desc": 493.89,
+			"desc": "493.89",
 			"group": "RMZ FUKAMI COMERCIO DE COMBUSTIVEIS LTDA ME"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1501.9581729683,
-			"desc": 25637.719999999994,
+			"desc": "25637.72",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 44.94153547001583,
-			"desc": 1110.54,
+			"desc": "1110.54",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "MAX D COMUNICAÇÃO LTDA - ME",
 			"name": "MAX D COMUNICAÇÃO LTDA - ME",
 			"val": 602.6142578100882,
-			"desc": 11200,
+			"desc": "11200.00",
 			"group": "MAX D COMUNICAÇÃO LTDA - ME"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 50.739007084641734,
-			"desc": 1235.08,
+			"desc": "1235.08",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "DOM FRANCISCO RESTAURANTE",
 			"name": "DOM FRANCISCO RESTAURANTE",
 			"val": 2.6077981042437828,
-			"desc": 98.46,
+			"desc": "98.46",
 			"group": "DOM FRANCISCO RESTAURANTE"
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 10.539654517625674,
-			"desc": 317.12,
+			"desc": "317.12",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "MACEDO CIA LTDA",
 			"name": "MACEDO CIA LTDA",
 			"val": 2.8526382727347963,
-			"desc": 106,
+			"desc": "106.00",
 			"group": "MACEDO CIA LTDA"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 106.11217738609032,
-			"desc": 2366.74,
+			"desc": "2366.74",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "INTELIG TELECOMUNICAÇÕES LTDA",
 			"name": "INTELIG TELECOMUNICAÇÕES LTDA",
 			"val": 61.072168464172215,
-			"desc": 1453.38,
+			"desc": "1453.38",
 			"group": "INTELIG TELECOMUNICAÇÕES LTDA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "POSTO TIO ZICO III LTDA",
 			"name": "POSTO TIO ZICO III LTDA",
 			"val": 4.928784080451668,
-			"desc": 166.9,
+			"desc": "166.90",
 			"group": "POSTO TIO ZICO III LTDA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "NOSSO ITALIANO RESTAURANTE LTDA",
 			"name": "NOSSO ITALIANO RESTAURANTE LTDA",
 			"val": 8.684893502110928,
-			"desc": 269,
+			"desc": "269.00",
 			"group": "NOSSO ITALIANO RESTAURANTE LTDA"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"name": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.5929662588931617,
-			"desc": 98,
+			"desc": "98.00",
 			"group": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "ECONORTE S/A",
 			"name": "ECONORTE S/A",
 			"val": 0.2581788776398352,
-			"desc": 16.1,
+			"desc": "16.10",
 			"group": "ECONORTE S/A"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"name": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"val": 4.563551798179819,
-			"desc": 156.5,
+			"desc": "156.50",
 			"group": "ZRC COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 23.28367377250058,
-			"desc": 626.5,
+			"desc": "626.50",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "RODOVIAS INTEGRADAS DO PARANA S/A",
 			"name": "RODOVIAS INTEGRADAS DO PARANA S/A",
 			"val": 0.6297061753758233,
-			"desc": 31.6,
+			"desc": "31.60",
 			"group": "RODOVIAS INTEGRADAS DO PARANA S/A"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "CLUBE DA CARNE COMERCIO DE ALIMENTOS EIRELI - ME",
 			"name": "CLUBE DA CARNE COMERCIO DE ALIMENTOS EIRELI - ME",
 			"val": 1.6648298955736254,
-			"desc": 68.3,
+			"desc": "68.30",
 			"group": "CLUBE DA CARNE COMERCIO DE ALIMENTOS EIRELI - ME"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 198.192158980181,
-			"desc": 4125.45,
+			"desc": "4125.45",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "AUTO POSTO ORTONA LTDA",
 			"name": "AUTO POSTO ORTONA LTDA",
 			"val": 19.694309112520795,
-			"desc": 542.0999999999999,
+			"desc": "542.10",
 			"group": "AUTO POSTO ORTONA LTDA"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.595102945984255,
-			"desc": 240.12,
+			"desc": "240.12",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "Antonia Dotto Ortega",
 			"name": "Antonia Dotto Ortega",
 			"val": 122.79827584374176,
-			"desc": 2694,
+			"desc": "2694.00",
 			"group": "Antonia Dotto Ortega"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.6446086167327985,
-			"desc": 99.6,
+			"desc": "99.60",
 			"group": "RAMAL"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "AUTO POSTO VERDE",
 			"name": "AUTO POSTO VERDE",
 			"val": 5.053614560097494,
-			"desc": 170.43,
+			"desc": "170.43",
 			"group": "AUTO POSTO VERDE"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "POUSADA SAO GERONIMO LTDA",
 			"name": "POUSADA SAO GERONIMO LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "POUSADA SAO GERONIMO LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "ML ALIMENTACAO E DIVERSOES SA",
 			"name": "ML ALIMENTACAO E DIVERSOES SA",
 			"val": 2.719752882093289,
-			"desc": 101.92,
+			"desc": "101.92",
 			"group": "ML ALIMENTACAO E DIVERSOES SA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "MANGIARE LANCHONETE E SORVETERIA LTDA:05408878000184",
 			"name": "MANGIARE LANCHONETE E SORVETERIA LTDA:05408878000184",
 			"val": 0.5862880000855648,
-			"desc": 29.9,
+			"desc": "29.90",
 			"group": "MANGIARE LANCHONETE E SORVETERIA LTDA:05408878000184"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "EXPRESSO LINE TOUR TRANSPORTES LTDA",
 			"name": "EXPRESSO LINE TOUR TRANSPORTES LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "EXPRESSO LINE TOUR TRANSPORTES LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"name": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"val": 30.684785488756493,
-			"desc": 796.0400000000001,
+			"desc": "796.04",
 			"group": "COMERCIAL DE COMBUSTÍVEL MAM LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "ANTONIO R. V. P DE GODOY E CIA LTDA",
 			"name": "ANTONIO R. V. P DE GODOY E CIA LTDA",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "ANTONIO R. V. P DE GODOY E CIA LTDA"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.37948531271612534,
-			"desc": 21.45,
+			"desc": "21.45",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "RIBEIRO E JACINTO LTDA",
 			"name": "RIBEIRO E JACINTO LTDA",
 			"val": 0.8245227461425108,
-			"desc": 39,
+			"desc": "39.00",
 			"group": "RIBEIRO E JACINTO LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.3905747302716422,
-			"desc": 122.25,
+			"desc": "122.25",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
 			"name": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
 			"val": 3.6448601007596344,
-			"desc": 129.8,
+			"desc": "129.80",
 			"group": "RESTAURANTE E BAR XIQUE XIQUE LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "TESSIER RESTAURANTE EIRELI EPP",
 			"name": "TESSIER RESTAURANTE EIRELI EPP",
 			"val": 2.377744280803976,
-			"desc": 91.28,
+			"desc": "91.28",
 			"group": "TESSIER RESTAURANTE EIRELI EPP"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "RESTAURANTE MADERO CABRAL LTDA",
 			"name": "RESTAURANTE MADERO CABRAL LTDA",
 			"val": 3.8146656692499925,
-			"desc": 134.8,
+			"desc": "134.80",
 			"group": "RESTAURANTE MADERO CABRAL LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "FERNANDA RIBEIRO BELO DA SILVA - ME",
 			"name": "FERNANDA RIBEIRO BELO DA SILVA - ME",
 			"val": 0.5761518798246973,
-			"desc": 29.5,
+			"desc": "29.50",
 			"group": "FERNANDA RIBEIRO BELO DA SILVA - ME"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "ARMAZEM URBANO EIRELI-ME",
 			"name": "ARMAZEM URBANO EIRELI-ME",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "ARMAZEM URBANO EIRELI-ME"
 		},
 		{

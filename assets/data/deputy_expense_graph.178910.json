@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOAQUIM PASSARINHO"
+			"name": "JOAQUIM PASSARINHO",
+			"desc": "45479.22"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 62.82205972445717,
-			"desc": 1489.94,
+			"desc": "1489.94",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -84,7 +85,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 303.6329638628729,
-			"desc": 6043.13,
+			"desc": "6043.13",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -145,7 +146,7 @@
 			"id": "IRMAOS TEIXEIRA LTDA",
 			"name": "IRMAOS TEIXEIRA LTDA",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "IRMAOS TEIXEIRA LTDA"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.0959455701128875,
-			"desc": 113.4,
+			"desc": "113.40",
 			"group": "RAMAL"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "CALIGRAFIA LTDA",
 			"name": "CALIGRAFIA LTDA",
 			"val": 47.23477817766929,
-			"desc": 1160,
+			"desc": "1160.00",
 			"group": "CALIGRAFIA LTDA"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 142.12414551319725,
-			"desc": 3067.55,
+			"desc": "3067.55",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "COM DE COMBUSTIVEIS LUBRIFICANTES LTDA",
 			"name": "COM DE COMBUSTIVEIS LUBRIFICANTES LTDA",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "COM DE COMBUSTIVEIS LUBRIFICANTES LTDA"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "POSTO ALCINDO CACELA LTDA",
 			"name": "POSTO ALCINDO CACELA LTDA",
 			"val": 14.465766238122344,
-			"desc": 415.71000000000004,
+			"desc": "415.71",
 			"group": "POSTO ALCINDO CACELA LTDA"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 5.413437522998357,
-			"desc": 180.54,
+			"desc": "180.54",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "POSTO JURUNAS LTDA",
 			"name": "POSTO JURUNAS LTDA",
 			"val": 9.87729049956422,
-			"desc": 300.07,
+			"desc": "300.07",
 			"group": "POSTO JURUNAS LTDA"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 74.86833018825193,
-			"desc": 1738.87,
+			"desc": "1738.87",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "Tim S.A.",
 			"name": "Tim S.A.",
 			"val": 13.255916246359678,
-			"desc": 385.73,
+			"desc": "385.73",
 			"group": "Tim S.A."
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "AUTO POSTO INDEPENDENCIA COMERCIO DE COMBUSTIVEL E SERVICOS",
 			"name": "AUTO POSTO INDEPENDENCIA COMERCIO DE COMBUSTIVEL E SERVICOS",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO INDEPENDENCIA COMERCIO DE COMBUSTIVEL E SERVICOS"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "CONDOMÍNIO EVOLUTION",
 			"name": "CONDOMÍNIO EVOLUTION",
 			"val": 69.32028460453239,
-			"desc": 1624.79,
+			"desc": "1624.79",
 			"group": "CONDOMÍNIO EVOLUTION"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "TECNEWS COMERCIO E SERVIÇOS LTDA - ME",
 			"name": "TECNEWS COMERCIO E SERVIÇOS LTDA - ME",
 			"val": 111.85915410032044,
-			"desc": 2480,
+			"desc": "2480.00",
 			"group": "TECNEWS COMERCIO E SERVIÇOS LTDA - ME"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "IDEIAS CONCRETAS ASSESSORIA",
 			"name": "IDEIAS CONCRETAS ASSESSORIA",
 			"val": 406.0553395615901,
-			"desc": 7846.3,
+			"desc": "7846.30",
 			"group": "IDEIAS CONCRETAS ASSESSORIA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.2684323466909084,
-			"desc": 54.88,
+			"desc": "54.88",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 39.164706218567524,
-			"desc": 984.6800000000001,
+			"desc": "984.68",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "REDE DE POSTO POMBAL LTDA",
 			"name": "REDE DE POSTO POMBAL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "REDE DE POSTO POMBAL LTDA"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "APIACAS HOTEIS E TURISMO S/A",
 			"name": "APIACAS HOTEIS E TURISMO S/A",
 			"val": 7.106506026460151,
-			"desc": 227,
+			"desc": "227.00",
 			"group": "APIACAS HOTEIS E TURISMO S/A"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 18.525594783242106,
-			"desc": 514.24,
+			"desc": "514.24",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 242.58610115908903,
-			"desc": 4942.280000000001,
+			"desc": "4942.28",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "POSTO VYDIA LTDA",
 			"name": "POSTO VYDIA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO VYDIA LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "ORM CABO ANANINDEUA LTDA",
 			"name": "ORM CABO ANANINDEUA LTDA",
 			"val": 8.951428952548637,
-			"desc": 275.99,
+			"desc": "275.99",
 			"group": "ORM CABO ANANINDEUA LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "PARANA COMERCIO DE COMBUSTIVEIS E SERVICOS AUTOMOT",
 			"name": "PARANA COMERCIO DE COMBUSTIVEIS E SERVICOS AUTOMOT",
 			"val": 6.116538823098268,
-			"desc": 200.04,
+			"desc": "200.04",
 			"group": "PARANA COMERCIO DE COMBUSTIVEIS E SERVICOS AUTOMOT"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "RTM ESTACIONAMENTOS LTDA",
 			"name": "RTM ESTACIONAMENTOS LTDA",
 			"val": 234.79331885752092,
-			"desc": 4800,
+			"desc": "4800.00",
 			"group": "RTM ESTACIONAMENTOS LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.16826590669656374,
-			"desc": 11.81,
+			"desc": "11.81",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"name": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"val": 10.670818114319413,
-			"desc": 320.48,
+			"desc": "320.48",
 			"group": "AUTO POSTO Z+Z 307 NORTE LTDA"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "SUPER POSTO PALMEIRA LTDA",
 			"name": "SUPER POSTO PALMEIRA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SUPER POSTO PALMEIRA LTDA"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "XINGU PRAIA HOTELARIA E TURISMO - EIRELI ME",
 			"name": "XINGU PRAIA HOTELARIA E TURISMO - EIRELI ME",
 			"val": 16.275701693737652,
-			"desc": 460,
+			"desc": "460.00",
 			"group": "XINGU PRAIA HOTELARIA E TURISMO - EIRELI ME"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "D&D ADMINISTRADORA DE HOTEIS E EVENTOS LTDA",
 			"name": "D&D ADMINISTRADORA DE HOTEIS E EVENTOS LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "D&D ADMINISTRADORA DE HOTEIS E EVENTOS LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "M F RODRIGUES JUNIOR",
 			"name": "M F RODRIGUES JUNIOR",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "M F RODRIGUES JUNIOR"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "POSTO 26 LTDA",
 			"name": "POSTO 26 LTDA",
 			"val": 5.7541717820763445,
-			"desc": 190.03,
+			"desc": "190.03",
 			"group": "POSTO 26 LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "AUTO POSTO UNIÃO",
 			"name": "AUTO POSTO UNIÃO",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO UNIÃO"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 127.37862346752867,
-			"desc": 2783.03,
+			"desc": "2783.03",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "PORTUGAL COMERCIO DE PRODUTOS DESCARTAVEIS LTDA",
 			"name": "PORTUGAL COMERCIO DE PRODUTOS DESCARTAVEIS LTDA",
 			"val": 5.376269144284951,
-			"desc": 179.5,
+			"desc": "179.50",
 			"group": "PORTUGAL COMERCIO DE PRODUTOS DESCARTAVEIS LTDA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.11782012609104313,
-			"desc": 9.2,
+			"desc": "9.20",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "AUTO POSTO MORADA DOS NOBRES LTDA",
 			"name": "AUTO POSTO MORADA DOS NOBRES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO MORADA DOS NOBRES LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSÉ MEDEIROS"
+			"name": "JOSÉ MEDEIROS",
+			"desc": "46738.52"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TRANSGANSO COMERCIO E TRANSPORTES LTDA.",
 			"name": "TRANSGANSO COMERCIO E TRANSPORTES LTDA.",
 			"val": 221.88392031413136,
-			"desc": 4563.3099999999995,
+			"desc": "4563.31",
 			"group": "TRANSGANSO COMERCIO E TRANSPORTES LTDA."
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 30.63825603966536,
-			"desc": 794.99,
+			"desc": "794.99",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.49869241218414717,
-			"desc": 26.4,
+			"desc": "26.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 13.92583084688955,
-			"desc": 402.37,
+			"desc": "402.37",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "AUTO POSTO CRIOLO LTDA",
 			"name": "AUTO POSTO CRIOLO LTDA",
 			"val": 38.18821950240223,
-			"desc": 963.21,
+			"desc": "963.21",
 			"group": "AUTO POSTO CRIOLO LTDA"
 		},
 		{
@@ -160,7 +161,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "99 POP"
 		},
 		{
@@ -173,7 +174,7 @@
 			"id": "VMA VENDAS E LOCAÇÕES DE IMOVEIS",
 			"name": "VMA VENDAS E LOCAÇÕES DE IMOVEIS",
 			"val": 359.00716672666516,
-			"desc": 7023.9,
+			"desc": "7023.90",
 			"group": "VMA VENDAS E LOCAÇÕES DE IMOVEIS"
 		},
 		{
@@ -192,7 +193,7 @@
 			"id": "TRANSGANSO COMERCIO E TRANSPORTES LTDA",
 			"name": "TRANSGANSO COMERCIO E TRANSPORTES LTDA",
 			"val": 456.2605030667719,
-			"desc": 8714.45,
+			"desc": "8714.45",
 			"group": "TRANSGANSO COMERCIO E TRANSPORTES LTDA"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "UBER",
 			"name": "UBER",
 			"val": 0.8420468851855152,
-			"desc": 39.65,
+			"desc": "39.65",
 			"group": "UBER"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 106.35207493426356,
-			"desc": 2371.48,
+			"desc": "2371.48",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 33.95485617007478,
-			"desc": 869.4,
+			"desc": "869.40",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "C.DE SOUZA E SOARES LTDA",
 			"name": "C.DE SOUZA E SOARES LTDA",
 			"val": 8.72867279160232,
-			"desc": 270.15,
+			"desc": "270.15",
 			"group": "C.DE SOUZA E SOARES LTDA"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.9511573209826494,
-			"desc": 77.68,
+			"desc": "77.68",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "RWR - Serviços de Taxi Ltda - ME",
 			"name": "RWR - Serviços de Taxi Ltda - ME",
 			"val": 2.928607039668982,
-			"desc": 108.32,
+			"desc": "108.32",
 			"group": "RWR - Serviços de Taxi Ltda - ME"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 684.5821436687411,
-			"desc": 12568.08,
+			"desc": "12568.08",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 2.1791929182868186,
-			"desc": 85,
+			"desc": "85.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.1248039013958337,
-			"desc": 49.86,
+			"desc": "49.86",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 2.5347277043203342,
-			"desc": 96.19000000000001,
+			"desc": "96.19",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "ADRIA VIAGENS E TURISMO LTDA ME",
 			"name": "ADRIA VIAGENS E TURISMO LTDA ME",
 			"val": 107.93352053814698,
-			"desc": 2402.7,
+			"desc": "2402.70",
 			"group": "ADRIA VIAGENS E TURISMO LTDA ME"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 14.11698945728381,
-			"desc": 407.09999999999997,
+			"desc": "407.10",
 			"group": "RAMAL"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.7571838156549913,
-			"desc": 36.48,
+			"desc": "36.48",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 162.6436886520139,
-			"desc": 3458.7299999999996,
+			"desc": "3458.73",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.929303597495235,
-			"desc": 377.58000000000004,
+			"desc": "377.58",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"name": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"val": 0.9608599648801642,
-			"desc": 44,
+			"desc": "44.00",
 			"group": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 1.1523381247759807,
-			"desc": 50.83,
+			"desc": "50.83",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.2581788776398352,
-			"desc": 16.1,
+			"desc": "16.10",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 6.8162442498474505,
-			"desc": 219.15,
+			"desc": "219.15",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.7302094303186231,
-			"desc": 35.46,
+			"desc": "35.46",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "COMERCIAL AMAZONIA DE PETROLEO EIRELI",
 			"name": "COMERCIAL AMAZONIA DE PETROLEO EIRELI",
 			"val": 9.795316527886273,
-			"desc": 297.95,
+			"desc": "297.95",
 			"group": "COMERCIAL AMAZONIA DE PETROLEO EIRELI"
 		},
 		{

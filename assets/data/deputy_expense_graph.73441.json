@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CELSO RUSSOMANNO"
+			"name": "CELSO RUSSOMANNO",
+			"desc": "30354.39"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 712.9997677109722,
-			"desc": 13038.98,
+			"desc": "13038.98",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "AUTO EIXO 208 NORTE LTDA",
 			"name": "AUTO EIXO 208 NORTE LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "AUTO EIXO 208 NORTE LTDA"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "AUTO POSTO BUG LT",
 			"name": "AUTO POSTO BUG LT",
 			"val": 149.62617870960037,
-			"desc": 3211.17,
+			"desc": "3211.17",
 			"group": "AUTO POSTO BUG LT"
 		},
 		{
@@ -218,7 +219,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 67.37706002860183,
-			"desc": 1584.6100000000001,
+			"desc": "1584.61",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.5155117599172455,
-			"desc": 27.08,
+			"desc": "27.08",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 19.75368130699089,
-			"desc": 543.51,
+			"desc": "543.51",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "Marly de Almeida Silva",
 			"name": "Marly de Almeida Silva",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "Marly de Almeida Silva"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.0310946339427325,
-			"desc": 80.26,
+			"desc": "80.26",
 			"group": "RAMAL"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.8558396981812402,
-			"desc": 40.16,
+			"desc": "40.16",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "POSTO DE SERVICO MUNDO NOVO LTDA",
 			"name": "POSTO DE SERVICO MUNDO NOVO LTDA",
 			"val": 6.1176292568481765,
-			"desc": 200.07,
+			"desc": "200.07",
 			"group": "POSTO DE SERVICO MUNDO NOVO LTDA"
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "HADCO COMERCIO DE ALIMENTOS LTDA.",
 			"name": "HADCO COMERCIO DE ALIMENTOS LTDA.",
 			"val": 0.4161676999572452,
-			"desc": 23,
+			"desc": "23.00",
 			"group": "HADCO COMERCIO DE ALIMENTOS LTDA."
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"name": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.921390701035167,
-			"desc": 108.1,
+			"desc": "108.10",
 			"group": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "AUTO POSTO AUSTRIA LTDA",
 			"name": "AUTO POSTO AUSTRIA LTDA",
 			"val": 11.930289854512512,
-			"desc": 352.49,
+			"desc": "352.49",
 			"group": "AUTO POSTO AUSTRIA LTDA"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "AUTO POSTO PETROPEN LTDA",
 			"name": "AUTO POSTO PETROPEN LTDA",
 			"val": 9.17221555849182,
-			"desc": 281.76,
+			"desc": "281.76",
 			"group": "AUTO POSTO PETROPEN LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.747972105707942,
-			"desc": 132.84,
+			"desc": "132.84",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA",
 			"name": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA",
 			"val": 0.373628152100511,
-			"desc": 21.2,
+			"desc": "21.20",
 			"group": "STARBUCKS BRASIL COMERCIO DE CAFES LTDA"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "AUTO POSTO ORIBA LTDA",
 			"name": "AUTO POSTO ORIBA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO ORIBA LTDA"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 208.10286799210567,
-			"desc": 4309.19,
+			"desc": "4309.19",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 1.3328096631645996,
-			"desc": 57.1,
+			"desc": "57.10",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "SHERATON MONTEVIDEO",
 			"name": "SHERATON MONTEVIDEO",
 			"val": 48.83696332922893,
-			"desc": 1194.4,
+			"desc": "1194.40",
 			"group": "SHERATON MONTEVIDEO"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "BK BRASIL OPERACAO E ASSESSORIA A RESTAURANTES S",
 			"name": "BK BRASIL OPERACAO E ASSESSORIA A RESTAURANTES S",
 			"val": 1.356131818222394,
-			"desc": 57.9,
+			"desc": "57.90",
 			"group": "BK BRASIL OPERACAO E ASSESSORIA A RESTAURANTES S"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 22.966204546521784,
-			"desc": 619.1,
+			"desc": "619.10",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "MILHO DOURADO RESTAURANTE E PADARIA LTDA",
 			"name": "MILHO DOURADO RESTAURANTE E PADARIA LTDA",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "MILHO DOURADO RESTAURANTE E PADARIA LTDA"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "LIRAL RESTAURANTES LTDA",
 			"name": "LIRAL RESTAURANTES LTDA",
 			"val": 2.621996692438864,
-			"desc": 98.9,
+			"desc": "98.90",
 			"group": "LIRAL RESTAURANTES LTDA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "RESTAURANTE AOYAMAS LTDA",
 			"name": "RESTAURANTE AOYAMAS LTDA",
 			"val": 2.767849406476844,
-			"desc": 103.4,
+			"desc": "103.40",
 			"group": "RESTAURANTE AOYAMAS LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "APLAUSO AUTO POSTO LT",
 			"name": "APLAUSO AUTO POSTO LT",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "APLAUSO AUTO POSTO LT"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "POSTO DO PAPAI ANCHIETA LTDA",
 			"name": "POSTO DO PAPAI ANCHIETA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DO PAPAI ANCHIETA LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "B2M ATACAREJOS DO BRASIL LTDA",
 			"name": "B2M ATACAREJOS DO BRASIL LTDA",
 			"val": 0.2777262838659493,
-			"desc": 16.99,
+			"desc": "16.99",
 			"group": "B2M ATACAREJOS DO BRASIL LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "COMPANHIA TRANSAMERICA DE HOTEIS SAO PAULO",
 			"name": "COMPANHIA TRANSAMERICA DE HOTEIS SAO PAULO",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "COMPANHIA TRANSAMERICA DE HOTEIS SAO PAULO"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "CENTRO AUTOMOTIVO ZAMBOTO LTDA",
 			"name": "CENTRO AUTOMOTIVO ZAMBOTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CENTRO AUTOMOTIVO ZAMBOTO LTDA"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 9.244684553822822,
-			"desc": 283.65,
+			"desc": "283.65",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "ALMANARA RESTAURANTES E LANCHONETES LTDA",
 			"name": "ALMANARA RESTAURANTES E LANCHONETES LTDA",
 			"val": 2.8559067910540294,
-			"desc": 106.1,
+			"desc": "106.10",
 			"group": "ALMANARA RESTAURANTES E LANCHONETES LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "GR SERVICOS E ALIMENTACAO LTDA",
 			"name": "GR SERVICOS E ALIMENTACAO LTDA",
 			"val": 1.0582725655828802,
-			"desc": 47.5,
+			"desc": "47.50",
 			"group": "GR SERVICOS E ALIMENTACAO LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "SPACE SETE COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
 			"name": "SPACE SETE COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
 			"val": 6.810713464210628,
-			"desc": 219,
+			"desc": "219.00",
 			"group": "SPACE SETE COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "FIORELLA LOJA DE CONVENIENCIA E DELIVERY EIRELI",
 			"name": "FIORELLA LOJA DE CONVENIENCIA E DELIVERY EIRELI",
 			"val": 0.2027639251168273,
-			"desc": 13.5,
+			"desc": "13.50",
 			"group": "FIORELLA LOJA DE CONVENIENCIA E DELIVERY EIRELI"
 		},
 		{
@@ -847,7 +848,7 @@
 			"id": "BRAVEST SOLUCOES EM ALIMENTACAO LTDA",
 			"name": "BRAVEST SOLUCOES EM ALIMENTACAO LTDA",
 			"val": 0.8496147543706114,
-			"desc": 39.93,
+			"desc": "39.93",
 			"group": "BRAVEST SOLUCOES EM ALIMENTACAO LTDA"
 		},
 		{
@@ -860,7 +861,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -873,7 +874,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -886,7 +887,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 2.6866773621987865,
-			"desc": 100.9,
+			"desc": "100.90",
 			"group": "SABESP"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "RIO NEGRO DERIVADOS DE PETROLEO LT",
 			"name": "RIO NEGRO DERIVADOS DE PETROLEO LT",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "RIO NEGRO DERIVADOS DE PETROLEO LT"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "E B DE CASTRO JUNIOR CAFETERIA E INFORMATICA",
 			"name": "E B DE CASTRO JUNIOR CAFETERIA E INFORMATICA",
 			"val": 0.440156400069231,
-			"desc": 24,
+			"desc": "24.00",
 			"group": "E B DE CASTRO JUNIOR CAFETERIA E INFORMATICA"
 		},
 		{

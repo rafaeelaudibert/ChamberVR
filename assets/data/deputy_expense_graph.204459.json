@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DANIELA DO WAGUINHO"
+			"name": "DANIELA DO WAGUINHO",
+			"desc": "63428.64"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1433.428704851307,
-			"desc": 24570.829999999994,
+			"desc": "24570.83",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 21.762825940229604,
-			"desc": 590.9399999999999,
+			"desc": "590.94",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 53.79033872116224,
-			"desc": 1300,
+			"desc": "1300.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.512577812309656,
-			"desc": 95.5,
+			"desc": "95.50",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 315.3826623342618,
-			"desc": 6252.5199999999995,
+			"desc": "6252.52",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.0556679989803044,
-			"desc": 81.05000000000001,
+			"desc": "81.05",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "AUTOMOBILE - LOCAÇÃO DE VEICULOS LTDA EPP",
 			"name": "AUTOMOBILE - LOCAÇÃO DE VEICULOS LTDA EPP",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "AUTOMOBILE - LOCAÇÃO DE VEICULOS LTDA EPP"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.392920233896037,
-			"desc": 122.32,
+			"desc": "122.32",
 			"group": "RAMAL"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "GS RIBEIRO PUBLICIDADE E PROPAGANDA",
 			"name": "GS RIBEIRO PUBLICIDADE E PROPAGANDA",
 			"val": 461.2357308561032,
-			"desc": 8800,
+			"desc": "8800.00",
 			"group": "GS RIBEIRO PUBLICIDADE E PROPAGANDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.405044246259553,
-			"desc": 235.03,
+			"desc": "235.03",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 11.0470766398331,
-			"desc": 330.09000000000003,
+			"desc": "330.09",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 3.821821204970239,
-			"desc": 135.01,
+			"desc": "135.01",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "GS RIBEIRO PUBLICIDADE E PROPAGANDA ME",
 			"name": "GS RIBEIRO PUBLICIDADE E PROPAGANDA ME",
 			"val": 461.2357308561032,
-			"desc": 8800,
+			"desc": "8800.00",
 			"group": "GS RIBEIRO PUBLICIDADE E PROPAGANDA ME"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 87.15567539148864,
-			"desc": 1988.5,
+			"desc": "1988.50",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 111.71874719972583,
-			"desc": 2477.24,
+			"desc": "2477.24",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "SMAFF COMBUSTIVEIS LTDA",
 			"name": "SMAFF COMBUSTIVEIS LTDA",
 			"val": 4.164692178363777,
-			"desc": 145.01,
+			"desc": "145.01",
 			"group": "SMAFF COMBUSTIVEIS LTDA"
 		},
 		{

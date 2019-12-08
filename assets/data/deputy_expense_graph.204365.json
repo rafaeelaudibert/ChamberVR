@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GILSON MARQUES"
+			"name": "GILSON MARQUES",
+			"desc": "19452.61"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 1.3962186845293059,
-			"desc": 59.27,
+			"desc": "59.27",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 1.097660756748689,
-			"desc": 48.9,
+			"desc": "48.90",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 19.090015268738043,
-			"desc": 527.72,
+			"desc": "527.72",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 17.809630830255085,
-			"desc": 497.07,
+			"desc": "497.07",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 180.9423377224209,
-			"desc": 3803.5099999999998,
+			"desc": "3803.51",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "CONFEITARIA TORTEN PARADIES",
 			"name": "CONFEITARIA TORTEN PARADIES",
 			"val": 0.6056313695166603,
-			"desc": 30.66,
+			"desc": "30.66",
 			"group": "CONFEITARIA TORTEN PARADIES"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 17.007286730197457,
-			"desc": 477.72999999999996,
+			"desc": "477.73",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "Ivanildo Francisco Dos Santos Terceiro",
 			"name": "Ivanildo Francisco Dos Santos Terceiro",
 			"val": 107.79665942876046,
-			"desc": 2400,
+			"desc": "2400.00",
 			"group": "Ivanildo Francisco Dos Santos Terceiro"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.089645885146655,
-			"desc": 82.14,
+			"desc": "82.14",
 			"group": "RAMAL"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "C.E.DR Rosa Cia LTDA-NE",
 			"name": "C.E.DR Rosa Cia LTDA-NE",
 			"val": 0.3228424910217125,
-			"desc": 19,
+			"desc": "19.00",
 			"group": "C.E.DR Rosa Cia LTDA-NE"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.3619650738242705,
-			"desc": 20.7,
+			"desc": "20.70",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 54.528745799212494,
-			"desc": 1315.65,
+			"desc": "1315.65",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "Officina Cafe e Coworking LTDA",
 			"name": "Officina Cafe e Coworking LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "Officina Cafe e Coworking LTDA"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "PIZZAIOLO PIZZARIA E RESTAURANTE LTDA",
 			"name": "PIZZAIOLO PIZZARIA E RESTAURANTE LTDA",
 			"val": 1.329898923229561,
-			"desc": 57,
+			"desc": "57.00",
 			"group": "PIZZAIOLO PIZZARIA E RESTAURANTE LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "HOTEL AXIAL LTDA",
 			"name": "HOTEL AXIAL LTDA",
 			"val": 7.366661377530067,
-			"desc": 234,
+			"desc": "234.00",
 			"group": "HOTEL AXIAL LTDA"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "Follesa Alimentos LTDA",
 			"name": "Follesa Alimentos LTDA",
 			"val": 0.8218322477153778,
-			"desc": 38.9,
+			"desc": "38.90",
 			"group": "Follesa Alimentos LTDA"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "RB HOTELARIA EIRELI",
 			"name": "RB HOTELARIA EIRELI",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "RB HOTELARIA EIRELI"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "MRB COMERCIO DE ALIMENTOS LTDA EPP",
 			"name": "MRB COMERCIO DE ALIMENTOS LTDA EPP",
 			"val": 2.172912608402044,
-			"desc": 84.8,
+			"desc": "84.80",
 			"group": "MRB COMERCIO DE ALIMENTOS LTDA EPP"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "LATAM AIRLINES GROUP S/A",
 			"name": "LATAM AIRLINES GROUP S/A",
 			"val": 28.536615989903048,
-			"desc": 747.37,
+			"desc": "747.37",
 			"group": "LATAM AIRLINES GROUP S/A"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "RESTAURANTE DAS MINAS LTDA",
 			"name": "RESTAURANTE DAS MINAS LTDA",
 			"val": 1.0532254997459953,
-			"desc": 47.32,
+			"desc": "47.32",
 			"group": "RESTAURANTE DAS MINAS LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "INTERNACIONAL RESTOURANTES DO BRASIL",
 			"name": "INTERNACIONAL RESTOURANTES DO BRASIL",
 			"val": 0.7391823161163712,
-			"desc": 35.8,
+			"desc": "35.80",
 			"group": "INTERNACIONAL RESTOURANTES DO BRASIL"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 65.08212211269885,
-			"desc": 1537,
+			"desc": "1537.00",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 39.32824985935726,
-			"desc": 988.27,
+			"desc": "988.27",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "RSNT MIWA RESTAURANTE LTDA",
 			"name": "RSNT MIWA RESTAURANTE LTDA",
 			"val": 1.4117760001711297,
-			"desc": 59.8,
+			"desc": "59.80",
 			"group": "RSNT MIWA RESTAURANTE LTDA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "R&C Empreendimentos Alimenticios Ltda",
 			"name": "R&C Empreendimentos Alimenticios Ltda",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "R&C Empreendimentos Alimenticios Ltda"
 		},
 		{

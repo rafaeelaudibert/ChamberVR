@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GIOVANI FELTES"
+			"name": "GIOVANI FELTES",
+			"desc": "48129.12"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 891.6945145253911,
-			"desc": 15965.669999999998,
+			"desc": "15965.67",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 26.90828926761956,
-			"desc": 710.2,
+			"desc": "710.20",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP",
 			"name": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP",
 			"val": 358.78532925058914,
-			"desc": 7020,
+			"desc": "7020.00",
 			"group": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 143.25937798599278,
-			"desc": 3089.33,
+			"desc": "3089.33",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "AUTO SERVICO LINDOLFO COLLOR LTDA F2",
 			"name": "AUTO SERVICO LINDOLFO COLLOR LTDA F2",
 			"val": 57.23615851332028,
-			"desc": 1372.8400000000001,
+			"desc": "1372.84",
 			"group": "AUTO SERVICO LINDOLFO COLLOR LTDA F2"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"name": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"val": 17.228793741955826,
-			"desc": 483.08,
+			"desc": "483.08",
 			"group": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "Telefonia Claro",
 			"name": "Telefonia Claro",
 			"val": 25.599186502708463,
-			"desc": 680.13,
+			"desc": "680.13",
 			"group": "Telefonia Claro"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "Parcom Consultoria em gestão Empresarial LTDA.",
 			"name": "Parcom Consultoria em gestão Empresarial LTDA.",
 			"val": 606.3005899783026,
-			"desc": 11261.859999999999,
+			"desc": "11261.86",
 			"group": "Parcom Consultoria em gestão Empresarial LTDA."
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "ABASTECEDORA CAMPO BOM LTDA",
 			"name": "ABASTECEDORA CAMPO BOM LTDA",
 			"val": 9.076086846529861,
-			"desc": 279.25,
+			"desc": "279.25",
 			"group": "ABASTECEDORA CAMPO BOM LTDA"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.8972384401502365,
-			"desc": 137.22,
+			"desc": "137.22",
 			"group": "RAMAL"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"name": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"val": 5.824890095755018,
-			"desc": 191.99,
+			"desc": "191.99",
 			"group": "ETNA COMERCIO A VAREJO DE COMB LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 13.07425169039763,
-			"desc": 381.2,
+			"desc": "381.20",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "ARGOS COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "ARGOS COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 6.853131275784017,
-			"desc": 220.15,
+			"desc": "220.15",
 			"group": "ARGOS COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "TELEFONICA BRASIL S.A. VIVO",
 			"name": "TELEFONICA BRASIL S.A. VIVO",
 			"val": 50.44673963202273,
-			"desc": 1228.8400000000001,
+			"desc": "1228.84",
 			"group": "TELEFONICA BRASIL S.A. VIVO"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "GARAGEM SIQUEIRA CAMPOS SOCIEDADE SIMPLES LTDA",
 			"name": "GARAGEM SIQUEIRA CAMPOS SOCIEDADE SIMPLES LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "GARAGEM SIQUEIRA CAMPOS SOCIEDADE SIMPLES LTDA"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.8558396981812402,
-			"desc": 40.16,
+			"desc": "40.16",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS ROTA DA PRAIA LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS ROTA DA PRAIA LTDA",
 			"val": 6.878598614353767,
-			"desc": 220.84,
+			"desc": "220.84",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS ROTA DA PRAIA LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP FUSION",
 			"name": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP FUSION",
 			"val": 29.630335602235526,
-			"desc": 772.2,
+			"desc": "772.20",
 			"group": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP FUSION"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "BELLER COMERCIO DE PAPEIS LTDA",
 			"name": "BELLER COMERCIO DE PAPEIS LTDA",
 			"val": 2.6866773621987865,
-			"desc": 100.9,
+			"desc": "100.90",
 			"group": "BELLER COMERCIO DE PAPEIS LTDA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 59.07655487913828,
-			"desc": 1411.5500000000002,
+			"desc": "1411.55",
 			"group": "CEEE"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 14.09878941105207,
-			"desc": 406.65,
+			"desc": "406.65",
 			"group": "CLARO S/A"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"name": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"val": 0.2614539078468495,
-			"desc": 16.25,
+			"desc": "16.25",
 			"group": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 4Z LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 4Z LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "POSTO DE COMBUSTIVEIS 4Z LTDA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "OLARIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "OLARIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.19885754238593,
-			"desc": 146,
+			"desc": "146.00",
 			"group": "OLARIA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "BENETTI COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "BENETTI COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 7.292950422535935,
-			"desc": 232.02,
+			"desc": "232.02",
 			"group": "BENETTI COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "ABAST AVENIDA LTDA",
 			"name": "ABAST AVENIDA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ABAST AVENIDA LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "Garagem Siqueira Campos SOC. S. LTDA",
 			"name": "Garagem Siqueira Campos SOC. S. LTDA",
 			"val": 7.377838158534095,
-			"desc": 234.3,
+			"desc": "234.30",
 			"group": "Garagem Siqueira Campos SOC. S. LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 6.078390026616256,
-			"desc": 198.99,
+			"desc": "198.99",
 			"group": "NET CLARO"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 26.79043933574546,
-			"desc": 707.5,
+			"desc": "707.50",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{

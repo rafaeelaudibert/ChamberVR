@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GUIGA PEIXOTO"
+			"name": "GUIGA PEIXOTO",
+			"desc": "17204.28"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CHURRASCARIA ESPETO DE OURO LTDA",
 			"name": "CHURRASCARIA ESPETO DE OURO LTDA",
 			"val": 3.716045478002543,
-			"desc": 131.9,
+			"desc": "131.90",
 			"group": "CHURRASCARIA ESPETO DE OURO LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 38.08014258142136,
-			"desc": 960.8299999999999,
+			"desc": "960.83",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 9.488309641247062,
-			"desc": 289.99,
+			"desc": "289.99",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
 			"name": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
 			"val": 0.008,
-			"desc": 2,
+			"desc": "2.00",
 			"group": "CONCESSIONARIA DO RODOANEL OESTE S.A."
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "EVERTHON MARCEL ELIAS",
 			"name": "EVERTHON MARCEL ELIAS",
 			"val": 0.7926028546027,
-			"desc": 37.81,
+			"desc": "37.81",
 			"group": "EVERTHON MARCEL ELIAS"
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"name": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"val": 0.2473207853360329,
-			"desc": 15.600000000000001,
+			"desc": "15.60",
 			"group": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 101.85792419267757,
-			"desc": 2282.5,
+			"desc": "2282.50",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "GELSON GUIOGI HAYASHIDA ME",
 			"name": "GELSON GUIOGI HAYASHIDA ME",
 			"val": 1.002696650444458,
-			"desc": 45.51,
+			"desc": "45.51",
 			"group": "GELSON GUIOGI HAYASHIDA ME"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "RODOVIA DAS COLINAS S/A",
 			"name": "RODOVIA DAS COLINAS S/A",
 			"val": 1.2028548841827995,
-			"desc": 52.6,
+			"desc": "52.60",
 			"group": "RODOVIA DAS COLINAS S/A"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 214.55613244271908,
-			"desc": 4428.38,
+			"desc": "4428.38",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 14.945024842712275,
-			"desc": 427.5,
+			"desc": "427.50",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CANTUCCI COMERCIO DE ALIMENTOS E VARIEDADES LTDA",
 			"name": "CANTUCCI COMERCIO DE ALIMENTOS E VARIEDADES LTDA",
 			"val": 1.2950495260214152,
-			"desc": 55.8,
+			"desc": "55.80",
 			"group": "CANTUCCI COMERCIO DE ALIMENTOS E VARIEDADES LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "LCA RESTAURANTES LTDA.",
 			"name": "LCA RESTAURANTES LTDA.",
 			"val": 0.797684982043425,
-			"desc": 38,
+			"desc": "38.00",
 			"group": "LCA RESTAURANTES LTDA."
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "MAR CAPITAL COMERCIO DE PESCADO LTDA",
 			"name": "MAR CAPITAL COMERCIO DE PESCADO LTDA",
 			"val": 0.46195215418319957,
-			"desc": 24.9,
+			"desc": "24.90",
 			"group": "MAR CAPITAL COMERCIO DE PESCADO LTDA"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 0.3069840916166369,
-			"desc": 18.299999999999997,
+			"desc": "18.30",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 1.7772429092243796,
-			"desc": 72.00999999999999,
+			"desc": "72.01",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"name": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"val": 2.5655924164452357,
-			"desc": 97.15,
+			"desc": "97.15",
 			"group": "ROGERIO DE ALMEIDA TCHE GAROTO - ME"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "TRIBALLY PROD. E SERV. ALIMENTARES LTDA ME",
 			"name": "TRIBALLY PROD. E SERV. ALIMENTARES LTDA ME",
 			"val": 2.406407520363833,
-			"desc": 92.18,
+			"desc": "92.18",
 			"group": "TRIBALLY PROD. E SERV. ALIMENTARES LTDA ME"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "MAIS SABOR RESTAURANTE LTDA",
 			"name": "MAIS SABOR RESTAURANTE LTDA",
 			"val": 0.8084020847360706,
-			"desc": 38.4,
+			"desc": "38.40",
 			"group": "MAIS SABOR RESTAURANTE LTDA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 37.46457500962672,
-			"desc": 947.26,
+			"desc": "947.26",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 29.51912125698006,
-			"desc": 769.68,
+			"desc": "769.68",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 1.2154665219308811,
-			"desc": 53.04,
+			"desc": "53.04",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.27044621126617246,
-			"desc": 16.66,
+			"desc": "16.66",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "AUTO POSTO LUPERCIO DE ALMEIDA LT",
 			"name": "AUTO POSTO LUPERCIO DE ALMEIDA LT",
 			"val": 2.1801351991516573,
-			"desc": 85.03,
+			"desc": "85.03",
 			"group": "AUTO POSTO LUPERCIO DE ALMEIDA LT"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 9.488309641247062,
-			"desc": 289.99,
+			"desc": "289.99",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "CELIA MARIA FONSECA",
 			"name": "CELIA MARIA FONSECA",
 			"val": 110.08401484139695,
-			"desc": 2445.08,
+			"desc": "2445.08",
 			"group": "CELIA MARIA FONSECA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 34.337913905438306,
-			"desc": 877.94,
+			"desc": "877.94",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "Ramos e Souza Empreendimentos Imobiliários Ltda ME",
 			"name": "Ramos e Souza Empreendimentos Imobiliários Ltda ME",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "Ramos e Souza Empreendimentos Imobiliários Ltda ME"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.9138437058827797,
-			"desc": 42.29,
+			"desc": "42.29",
 			"group": "RAMAL"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "HOTEL DEL FIOL LTDA",
 			"name": "HOTEL DEL FIOL LTDA",
 			"val": 29.35459381331078,
-			"desc": 765.95,
+			"desc": "765.95",
 			"group": "HOTEL DEL FIOL LTDA"
 		},
 		{

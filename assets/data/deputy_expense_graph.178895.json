@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MISAEL VARELLA"
+			"name": "MISAEL VARELLA",
+			"desc": "145730.67"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "COPIADORA SHEKINAH LTDA. - ME",
 			"name": "COPIADORA SHEKINAH LTDA. - ME",
 			"val": 1593.7121454498285,
-			"desc": 27060,
+			"desc": "27060.00",
 			"group": "COPIADORA SHEKINAH LTDA. - ME"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "PROJETO PLANALTO PAPELARIA DE MINAS LTDA",
 			"name": "PROJETO PLANALTO PAPELARIA DE MINAS LTDA",
 			"val": 993.0468217024144,
-			"desc": 17602.820000000003,
+			"desc": "17602.82",
 			"group": "PROJETO PLANALTO PAPELARIA DE MINAS LTDA"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 81.8579339793719,
-			"desc": 1881.3500000000001,
+			"desc": "1881.35",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "POSTO RIO BAHIA DE MURIAE LTDA",
 			"name": "POSTO RIO BAHIA DE MURIAE LTDA",
 			"val": 751.5705510774137,
-			"desc": 13675.55,
+			"desc": "13675.55",
 			"group": "POSTO RIO BAHIA DE MURIAE LTDA"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "TELEMAXIMO SISTEMAS CONSULTORIA E SERVIÇOS LTDA - ME",
 			"name": "TELEMAXIMO SISTEMAS CONSULTORIA E SERVIÇOS LTDA - ME",
 			"val": 2347.416775787602,
-			"desc": 38524,
+			"desc": "38524.00",
 			"group": "TELEMAXIMO SISTEMAS CONSULTORIA E SERVIÇOS LTDA - ME"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.12097900385254,
-			"desc": 172.32999999999998,
+			"desc": "172.33",
 			"group": "RAMAL"
 		},
 		{
@@ -443,7 +444,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.70286620796158,
-			"desc": 160.48,
+			"desc": "160.48",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 363.00692672721135,
-			"desc": 7094.180000000001,
+			"desc": "7094.18",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "ARAGÃO E FERNANDES SOCIEDADE DE ADVOGADOS",
 			"name": "ARAGÃO E FERNANDES SOCIEDADE DE ADVOGADOS",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "ARAGÃO E FERNANDES SOCIEDADE DE ADVOGADOS"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 3.733702256657732,
-			"desc": 132.42000000000002,
+			"desc": "132.42",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "CORREIOS - DOCUMENTO PRIORITÁRIO REGISTRADO",
 			"name": "CORREIOS - DOCUMENTO PRIORITÁRIO REGISTRADO",
 			"val": 0.6932011900435853,
-			"desc": 34.05,
+			"desc": "34.05",
 			"group": "CORREIOS - DOCUMENTO PRIORITÁRIO REGISTRADO"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.0227365515230184,
-			"desc": 3.3,
+			"desc": "3.30",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 99.79129601225166,
-			"desc": 2241.45,
+			"desc": "2241.45",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 122.38803448246105,
-			"desc": 2686.0099999999998,
+			"desc": "2686.01",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.00751509816700411,
-			"desc": 1.95,
+			"desc": "1.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "ENERGISA MINAS GERAIS - DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "ENERGISA MINAS GERAIS - DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 326.39852254066176,
-			"desc": 6448.179999999999,
+			"desc": "6448.18",
 			"group": "ENERGISA MINAS GERAIS - DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "W2 ARTES LTDA",
 			"name": "W2 ARTES LTDA",
 			"val": 893.8101942183736,
-			"desc": 16000,
+			"desc": "16000.00",
 			"group": "W2 ARTES LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.18422973216207272,
-			"desc": 12.6,
+			"desc": "12.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{

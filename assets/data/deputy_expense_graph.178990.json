@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SAMUEL MOREIRA"
+			"name": "SAMUEL MOREIRA",
+			"desc": "76977.41"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 678.717486362771,
-			"desc": 12470.69,
+			"desc": "12470.69",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -162,7 +163,7 @@
 			"id": "BENGALA S BAR LTDA ME",
 			"name": "BENGALA S BAR LTDA ME",
 			"val": 2.689917439031725,
-			"desc": 101,
+			"desc": "101.00",
 			"group": "BENGALA S BAR LTDA ME"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 60.31326360268429,
-			"desc": 1437.49,
+			"desc": "1437.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "VILA RICA PARK LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "VILA RICA PARK LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 426.4461887760841,
-			"desc": 8200,
+			"desc": "8200.00",
 			"group": "VILA RICA PARK LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "BOVINOS S FASI GRILL CHURR. XV DE NOVEMBRO LT",
 			"name": "BOVINOS S FASI GRILL CHURR. XV DE NOVEMBRO LT",
 			"val": 0.9888109456763332,
-			"desc": 45.01,
+			"desc": "45.01",
 			"group": "BOVINOS S FASI GRILL CHURR. XV DE NOVEMBRO LT"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 120.09702087709383,
-			"desc": 2641.34,
+			"desc": "2641.34",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "CENTRAL PARK DE ESTACIONAMENTOS",
 			"name": "CENTRAL PARK DE ESTACIONAMENTOS",
 			"val": 23.434004206335945,
-			"desc": 630,
+			"desc": "630.00",
 			"group": "CENTRAL PARK DE ESTACIONAMENTOS"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "PACK EXPRESS LTDA",
 			"name": "PACK EXPRESS LTDA",
 			"val": 6.002551081478778,
-			"desc": 196.9,
+			"desc": "196.90",
 			"group": "PACK EXPRESS LTDA"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "FUKUYA KANEMOTO e CIA LTDA",
 			"name": "FUKUYA KANEMOTO e CIA LTDA",
 			"val": 3.748991674158218,
-			"desc": 132.87,
+			"desc": "132.87",
 			"group": "FUKUYA KANEMOTO e CIA LTDA"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"name": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"val": 8.411446851807012,
-			"desc": 261.8,
+			"desc": "261.80",
 			"group": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "PORTAL DE POA AUTO POSTO LTDA",
 			"name": "PORTAL DE POA AUTO POSTO LTDA",
 			"val": 3.4835648299098434,
-			"desc": 125.02,
+			"desc": "125.02",
 			"group": "PORTAL DE POA AUTO POSTO LTDA"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "GR SERVICOS E ALIMENTACAO LTDA",
 			"name": "GR SERVICOS E ALIMENTACAO LTDA",
 			"val": 0.3573192643786829,
-			"desc": 20.5,
+			"desc": "20.50",
 			"group": "GR SERVICOS E ALIMENTACAO LTDA"
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 62.17768625030527,
-			"desc": 1476.49,
+			"desc": "1476.49",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -391,7 +392,7 @@
 			"id": "FORMULA AUTOMOTIVO LTDA",
 			"name": "FORMULA AUTOMOTIVO LTDA",
 			"val": 12.826919656498662,
-			"desc": 375.02,
+			"desc": "375.02",
 			"group": "FORMULA AUTOMOTIVO LTDA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.9865921982108785,
-			"desc": 44.92999999999999,
+			"desc": "44.93",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "SIX DISTRIBUIDORA E SERVIÇOS EIRELI ME",
 			"name": "SIX DISTRIBUIDORA E SERVIÇOS EIRELI ME",
 			"val": 190.16575086900662,
-			"desc": 3976,
+			"desc": "3976.00",
 			"group": "SIX DISTRIBUIDORA E SERVIÇOS EIRELI ME"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "CENTRO AUTOMOTIVO NHAMBIQUARAS LTDA",
 			"name": "CENTRO AUTOMOTIVO NHAMBIQUARAS LTDA",
 			"val": 7.646365138173363,
-			"desc": 241.49,
+			"desc": "241.49",
 			"group": "CENTRO AUTOMOTIVO NHAMBIQUARAS LTDA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.813482514368124,
-			"desc": 298.41999999999996,
+			"desc": "298.42",
 			"group": "RAMAL"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "BRISAMAR HOTEL",
 			"name": "BRISAMAR HOTEL",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BRISAMAR HOTEL"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "JLM RESTAURANTE LTDA EPP",
 			"name": "JLM RESTAURANTE LTDA EPP",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "JLM RESTAURANTE LTDA EPP"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "ELIZEU MASAHARU OHTA-EPP",
 			"name": "ELIZEU MASAHARU OHTA-EPP",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "ELIZEU MASAHARU OHTA-EPP"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "C2RI CONSULTORIA EM COMUNICACAO, REPUTACAO E IMAGEM LTDA.",
 			"name": "C2RI CONSULTORIA EM COMUNICACAO, REPUTACAO E IMAGEM LTDA.",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "C2RI CONSULTORIA EM COMUNICACAO, REPUTACAO E IMAGEM LTDA."
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "SOLARYS SOLUCOES DIGITAIS LTDA",
 			"name": "SOLARYS SOLUCOES DIGITAIS LTDA",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "RESTAURANTE DAS MINAS LTDA",
 			"name": "RESTAURANTE DAS MINAS LTDA",
 			"val": 1.2137455089070306,
-			"desc": 52.98,
+			"desc": "52.98",
 			"group": "RESTAURANTE DAS MINAS LTDA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "Captiva Empreendimentos e Participações Ltda",
 			"name": "Captiva Empreendimentos e Participações Ltda",
 			"val": 566.963329719928,
-			"desc": 10600,
+			"desc": "10600.00",
 			"group": "Captiva Empreendimentos e Participações Ltda"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "BEM ME QUER LANCHES LTDA",
 			"name": "BEM ME QUER LANCHES LTDA",
 			"val": 1.2080116333448419,
-			"desc": 52.78,
+			"desc": "52.78",
 			"group": "BEM ME QUER LANCHES LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "POSTO DE SERVICO JURUCE LTDA",
 			"name": "POSTO DE SERVICO JURUCE LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE SERVICO JURUCE LTDA"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "TELTON COMÉRCIO E SERVIÇOS LTD",
 			"name": "TELTON COMÉRCIO E SERVIÇOS LTD",
 			"val": 23.75651790595286,
-			"desc": 637.5,
+			"desc": "637.50",
 			"group": "TELTON COMÉRCIO E SERVIÇOS LTD"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "AUTO POSTO CENTRO EXPRESSO LTDA",
 			"name": "AUTO POSTO CENTRO EXPRESSO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CENTRO EXPRESSO LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "POSTO LARIDANY LTDA",
 			"name": "POSTO LARIDANY LTDA",
 			"val": 1.8689524715450359,
-			"desc": 75.01,
+			"desc": "75.01",
 			"group": "POSTO LARIDANY LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.933610740855613,
-			"desc": 547.78,
+			"desc": "547.78",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"name": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"val": 5.974280284075719,
-			"desc": 196.12,
+			"desc": "196.12",
 			"group": "LOCAWEB SERVICOS DE INTERNET S.A."
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "fator F inteligencia em comunicação ltda",
 			"name": "fator F inteligencia em comunicação ltda",
 			"val": 759.8000203126825,
-			"desc": 13811,
+			"desc": "13811.00",
 			"group": "fator F inteligencia em comunicação ltda"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
 			"name": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
 			"val": 3.970462680381329,
-			"desc": 139.36,
+			"desc": "139.36",
 			"group": "AUTO POSTO AGULHAS NEGRAS LTDA ME"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "BENGALA S BAR LTDA",
 			"name": "BENGALA S BAR LTDA",
 			"val": 1.5092429884640253,
-			"desc": 63.1,
+			"desc": "63.10",
 			"group": "BENGALA S BAR LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 15.397951255933766,
-			"desc": 438.6,
+			"desc": "438.60",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "AUTO POSTO AFONSO ARINOS LTDA",
 			"name": "AUTO POSTO AFONSO ARINOS LTDA",
 			"val": 0.4807489296074152,
-			"desc": 25.67,
+			"desc": "25.67",
 			"group": "AUTO POSTO AFONSO ARINOS LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "CENTRO AUTOMOTIVO MOREIRA GUIMARAES LTDA",
 			"name": "CENTRO AUTOMOTIVO MOREIRA GUIMARAES LTDA",
 			"val": 23.10986085369371,
-			"desc": 622.45,
+			"desc": "622.45",
 			"group": "CENTRO AUTOMOTIVO MOREIRA GUIMARAES LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "MEL SERVICOS AUTOMOTIVOS LT",
 			"name": "MEL SERVICOS AUTOMOTIVOS LT",
 			"val": 3.108516557424727,
-			"desc": 113.78,
+			"desc": "113.78",
 			"group": "MEL SERVICOS AUTOMOTIVOS LT"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "CHURRASCARIA NELORE",
 			"name": "CHURRASCARIA NELORE",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "CHURRASCARIA NELORE"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 7.06944178202333,
-			"desc": 226,
+			"desc": "226.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -896,7 +897,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.0526649582831245,
-			"desc": 47.3,
+			"desc": "47.30",
 			"group": "SINPETAXI"
 		},
 		{
@@ -909,7 +910,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 15.116616969830254,
-			"desc": 431.71,
+			"desc": "431.71",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -922,7 +923,7 @@
 			"id": "ESTACIONAMENTO MODELO EIRELI",
 			"name": "ESTACIONAMENTO MODELO EIRELI",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "ESTACIONAMENTO MODELO EIRELI"
 		},
 		{
@@ -935,7 +936,7 @@
 			"id": "DOM FRANCISCO RESTAURANTE",
 			"name": "DOM FRANCISCO RESTAURANTE",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "DOM FRANCISCO RESTAURANTE"
 		},
 		{
@@ -948,7 +949,7 @@
 			"id": "ESTAPAR",
 			"name": "ESTAPAR",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "ESTAPAR"
 		},
 		{
@@ -961,7 +962,7 @@
 			"id": "CHURRASC. E LANCHONETE CHIQUELERO",
 			"name": "CHURRASC. E LANCHONETE CHIQUELERO",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "CHURRASC. E LANCHONETE CHIQUELERO"
 		},
 		{
@@ -974,7 +975,7 @@
 			"id": "LAF HOTEL LTDA - ME",
 			"name": "LAF HOTEL LTDA - ME",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "LAF HOTEL LTDA - ME"
 		},
 		{

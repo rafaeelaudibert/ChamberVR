@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARCOS PEREIRA"
+			"name": "MARCOS PEREIRA",
+			"desc": "92116.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1615.2001757985668,
-			"desc": 27392.109999999993,
+			"desc": "27392.11",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 4.27491889066167,
-			"desc": 148.20000000000002,
+			"desc": "148.20",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "EDN - PRODUCOES CULTURAIS E ARTISTICAS LTDA.",
 			"name": "EDN - PRODUCOES CULTURAIS E ARTISTICAS LTDA.",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "EDN - PRODUCOES CULTURAIS E ARTISTICAS LTDA."
 		},
 		{
@@ -266,7 +267,7 @@
 			"id": "CENTRO AUTOMOTIVO MOSCATEL LTDA",
 			"name": "CENTRO AUTOMOTIVO MOSCATEL LTDA",
 			"val": 10.671990136688995,
-			"desc": 320.51,
+			"desc": "320.51",
 			"group": "CENTRO AUTOMOTIVO MOSCATEL LTDA"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 115.08622272116143,
-			"desc": 2543.34,
+			"desc": "2543.34",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "EMPRESA DE TRANSPORTE ANDORINHA",
 			"name": "EMPRESA DE TRANSPORTE ANDORINHA",
 			"val": 28.107560472287048,
-			"desc": 737.6000000000001,
+			"desc": "737.60",
 			"group": "EMPRESA DE TRANSPORTE ANDORINHA"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "CHIESA PARQUE INDUSTRIAL COMBUSTIVEIS LTDA",
 			"name": "CHIESA PARQUE INDUSTRIAL COMBUSTIVEIS LTDA",
 			"val": 5.103239743546482,
-			"desc": 171.83,
+			"desc": "171.83",
 			"group": "CHIESA PARQUE INDUSTRIAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.26868857212286,
-			"desc": 148.02,
+			"desc": "148.02",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 0.10136329637045748,
-			"desc": 8.3,
+			"desc": "8.30",
 			"group": "99 POP"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"name": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"val": 0.7075976983725116,
-			"desc": 34.6,
+			"desc": "34.60",
 			"group": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 8.54043393271092,
-			"desc": 265.2,
+			"desc": "265.20",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 10.851499565442213,
-			"desc": 325.1,
+			"desc": "325.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "EDN PRODUÇÕES CULTURAIS E ARTÍSTICAS LTDA",
 			"name": "EDN PRODUÇÕES CULTURAIS E ARTÍSTICAS LTDA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "EDN PRODUÇÕES CULTURAIS E ARTÍSTICAS LTDA"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "GROW UP GRAFICA E SOLUCOES MERCADOLOGICAS EIRELI",
 			"name": "GROW UP GRAFICA E SOLUCOES MERCADOLOGICAS EIRELI",
 			"val": 203.37746598256362,
-			"desc": 4221.6900000000005,
+			"desc": "4221.69",
 			"group": "GROW UP GRAFICA E SOLUCOES MERCADOLOGICAS EIRELI"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "AUTO POSTO DUQUE PIRATININS LTDA",
 			"name": "AUTO POSTO DUQUE PIRATININS LTDA",
 			"val": 5.759940348866393,
-			"desc": 190.19,
+			"desc": "190.19",
 			"group": "AUTO POSTO DUQUE PIRATININS LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "MICROEASY INFORMÁTICA E PLANEJAMENTO - ME",
 			"name": "MICROEASY INFORMÁTICA E PLANEJAMENTO - ME",
 			"val": 187.70172974713464,
-			"desc": 3930,
+			"desc": "3930.00",
 			"group": "MICROEASY INFORMÁTICA E PLANEJAMENTO - ME"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "CARLOS CAVALCANTE DE SOUSA",
 			"name": "CARLOS CAVALCANTE DE SOUSA",
 			"val": 614.5396268996396,
-			"desc": 11400,
+			"desc": "11400.00",
 			"group": "CARLOS CAVALCANTE DE SOUSA"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.275957399784496,
-			"desc": 148.23,
+			"desc": "148.23",
 			"group": "RAMAL"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "JOSE CARLOS DENADAI e CIA LTDA",
 			"name": "JOSE CARLOS DENADAI e CIA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "JOSE CARLOS DENADAI e CIA LTDA"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 51.73566814942649,
-			"desc": 1256.33,
+			"desc": "1256.33",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "POSTO DE SERVICOS INTER MARES LTDA",
 			"name": "POSTO DE SERVICOS INTER MARES LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "POSTO DE SERVICOS INTER MARES LTDA"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 43.03451318579493,
-			"desc": 1069.2,
+			"desc": "1069.20",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "CHARM RENT A CAR LTDA",
 			"name": "CHARM RENT A CAR LTDA",
 			"val": 168.8462901270062,
-			"desc": 3576,
+			"desc": "3576.00",
 			"group": "CHARM RENT A CAR LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "FELIX FAGUNDES POSTO AUTOMOTIVO LTDA",
 			"name": "FELIX FAGUNDES POSTO AUTOMOTIVO LTDA",
 			"val": 13.52516513246888,
-			"desc": 392.43,
+			"desc": "392.43",
 			"group": "FELIX FAGUNDES POSTO AUTOMOTIVO LTDA"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "CENTER PAPEIS COMERCIAL LTDA",
 			"name": "CENTER PAPEIS COMERCIAL LTDA",
 			"val": 13.292848217405233,
-			"desc": 386.65,
+			"desc": "386.65",
 			"group": "CENTER PAPEIS COMERCIAL LTDA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "BRISTOL HOTEL LTDA",
 			"name": "BRISTOL HOTEL LTDA",
 			"val": 65.22648215518674,
-			"desc": 1540,
+			"desc": "1540.00",
 			"group": "BRISTOL HOTEL LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "AUTO POSTO BONTORIM LTDA",
 			"name": "AUTO POSTO BONTORIM LTDA",
 			"val": 6.683669860225413,
-			"desc": 215.55,
+			"desc": "215.55",
 			"group": "AUTO POSTO BONTORIM LTDA"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 25.748999505113385,
-			"desc": 683.58,
+			"desc": "683.58",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "POSTO PEIXINHO PROMISSAO LTDA",
 			"name": "POSTO PEIXINHO PROMISSAO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO PEIXINHO PROMISSAO LTDA"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.015475961598581948,
-			"desc": 2.7,
+			"desc": "2.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.0907016401308722,
-			"desc": 7.7,
+			"desc": "7.70",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 12.242575246426682,
-			"desc": 360.36,
+			"desc": "360.36",
 			"group": "CLARO S.A."
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "AUTOPISTA REGIS BITTENCOURT S/A",
 			"name": "AUTOPISTA REGIS BITTENCOURT S/A",
 			"val": 0.021479320385441765,
-			"desc": 3.2,
+			"desc": "3.20",
 			"group": "AUTOPISTA REGIS BITTENCOURT S/A"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 2.0609617631239625,
-			"desc": 81.22,
+			"desc": "81.22",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "AUTO POSTO DUQUE PIRATININS LTDA ME",
 			"name": "AUTO POSTO DUQUE PIRATININS LTDA ME",
 			"val": 6.3713035551938155,
-			"desc": 207.03,
+			"desc": "207.03",
 			"group": "AUTO POSTO DUQUE PIRATININS LTDA ME"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "AUTO POSTO NOVO CENTRO LTDA",
 			"name": "AUTO POSTO NOVO CENTRO LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "AUTO POSTO NOVO CENTRO LTDA"
 		},
 		{

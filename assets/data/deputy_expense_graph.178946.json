@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SORAYA SANTOS"
+			"name": "SORAYA SANTOS",
+			"desc": "79487.73"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 371.48404570976095,
-			"desc": 7242.9000000000015,
+			"desc": "7242.90",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 59.47816206893918,
-			"desc": 1419.98,
+			"desc": "1419.98",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 175.5874767181519,
-			"desc": 3702.98,
+			"desc": "3702.98",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2506.673457854331,
-			"desc": 40905.24999999999,
+			"desc": "40905.25",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.5801587545819147,
-			"desc": 65.48,
+			"desc": "65.48",
 			"group": "RAMAL"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "COMTUDO MIDIA COMUNICAÇÃO",
 			"name": "COMTUDO MIDIA COMUNICAÇÃO",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "COMTUDO MIDIA COMUNICAÇÃO"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 59.47816206893918,
-			"desc": 1419.98,
+			"desc": "1419.98",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"val": 17.94489201366275,
-			"desc": 500.32000000000005,
+			"desc": "500.32",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.6856308945758394,
-			"desc": 33.76,
+			"desc": "33.76",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 81.55343609804805,
-			"desc": 1875.17,
+			"desc": "1875.17",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 24.577978333780575,
-			"desc": 656.55,
+			"desc": "656.55",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.896897814070718,
-			"desc": 376.77,
+			"desc": "376.77",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 4.4867935721389784,
-			"desc": 154.3,
+			"desc": "154.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.232997292863328,
-			"desc": 203.24,
+			"desc": "203.24",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 24.577978333780575,
-			"desc": 656.55,
+			"desc": "656.55",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 8.894527248227709,
-			"desc": 274.5,
+			"desc": "274.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ÁTILA LINS"
+			"name": "ÁTILA LINS",
+			"desc": "222877.08"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1204.7514411892948,
-			"desc": 20978.969999999998,
+			"desc": "20978.97",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 4118.091855729867,
-			"desc": 64442.919999999984,
+			"desc": "64442.92",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 20.409847875742127,
-			"desc": 559.0600000000001,
+			"desc": "559.06",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 45.697307215688724,
-			"desc": 1126.87,
+			"desc": "1126.87",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 76.45595521151242,
-			"desc": 1771.35,
+			"desc": "1771.35",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 40.39607639191682,
-			"desc": 1011.67,
+			"desc": "1011.67",
 			"group": "RAMAL"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "RICO TAXI AEREO LTDA",
 			"name": "RICO TAXI AEREO LTDA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "RICO TAXI AEREO LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "M.M. COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "M.M. COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 238.78858813419265,
-			"desc": 4873,
+			"desc": "4873.00",
 			"group": "M.M. COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"val": 0.7212553576175738,
-			"desc": 35.12,
+			"desc": "35.12",
 			"group": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 25.75247462378058,
-			"desc": 683.66,
+			"desc": "683.66",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 188.88353869790438,
-			"desc": 3952.07,
+			"desc": "3952.07",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 46.68375291365735,
-			"desc": 1148.14,
+			"desc": "1148.14",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "RIO PURUS TAXI AEREO",
 			"name": "RIO PURUS TAXI AEREO",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "RIO PURUS TAXI AEREO"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 111.78945715386277,
-			"desc": 2478.63,
+			"desc": "2478.63",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.098387669088184,
-			"desc": 82.42,
+			"desc": "82.42",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 69.70060806465175,
-			"desc": 1632.64,
+			"desc": "1632.64",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "AMAZONAVES TAXI AEREO LTDA",
 			"name": "AMAZONAVES TAXI AEREO LTDA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "AMAZONAVES TAXI AEREO LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "CTA - CLEITON TAXI AEREO LTDA",
 			"name": "CTA - CLEITON TAXI AEREO LTDA",
 			"val": 3638.318525485527,
-			"desc": 57525,
+			"desc": "57525.00",
 			"group": "CTA - CLEITON TAXI AEREO LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 25.75247462378058,
-			"desc": 683.66,
+			"desc": "683.66",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "TELEFONICA BRASIL S. A.",
 			"name": "TELEFONICA BRASIL S. A.",
 			"val": 24.837371012720535,
-			"desc": 662.55,
+			"desc": "662.55",
 			"group": "TELEFONICA BRASIL S. A."
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.05883642728557286,
-			"desc": 5.8,
+			"desc": "5.80",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 370.3800803823775,
-			"desc": 7223.55,
+			"desc": "7223.55",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{

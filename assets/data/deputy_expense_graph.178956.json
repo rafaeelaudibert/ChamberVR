@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARIANA CARVALHO"
+			"name": "MARIANA CARVALHO",
+			"desc": "130485.14"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 60.925467083611395,
-			"desc": 1450.31,
+			"desc": "1450.31",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1249.219819562079,
-			"desc": 21681.550000000003,
+			"desc": "21681.55",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -121,7 +122,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 23.292690422805343,
-			"desc": 626.71,
+			"desc": "626.71",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "WINDSOR ADM. DE HOTEIS E SERVIÇOS LTDA",
 			"name": "WINDSOR ADM. DE HOTEIS E SERVIÇOS LTDA",
 			"val": 258.8809567042495,
-			"desc": 5238.42,
+			"desc": "5238.42",
 			"group": "WINDSOR ADM. DE HOTEIS E SERVIÇOS LTDA"
 		},
 		{
@@ -201,7 +202,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 10.70129595844996,
-			"desc": 321.26,
+			"desc": "321.26",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 56.3607189021095,
-			"desc": 1354.3799999999999,
+			"desc": "1354.38",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "DALETH VEICULOS LTDA EPP",
 			"name": "DALETH VEICULOS LTDA EPP",
 			"val": 455.4206290596961,
-			"desc": 8700,
+			"desc": "8700.00",
 			"group": "DALETH VEICULOS LTDA EPP"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 104.1480030771904,
-			"desc": 2327.89,
+			"desc": "2327.89",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "L. F. DISTRIBUIDORA DE AUTOMOVEIS LTDA",
 			"name": "L. F. DISTRIBUIDORA DE AUTOMOVEIS LTDA",
 			"val": 461.2357308561032,
-			"desc": 8800,
+			"desc": "8800.00",
 			"group": "L. F. DISTRIBUIDORA DE AUTOMOVEIS LTDA"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 152.07258675963394,
-			"desc": 3257.85,
+			"desc": "3257.85",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 59.062268151652745,
-			"desc": 1411.25,
+			"desc": "1411.25",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "G3 Auto Posto Ltda Epp",
 			"name": "G3 Auto Posto Ltda Epp",
 			"val": 5.248947344398525,
-			"desc": 175.93,
+			"desc": "175.93",
 			"group": "G3 Auto Posto Ltda Epp"
 		},
 		{
@@ -443,7 +444,7 @@
 			"id": "M F Propaganda e Publicidade Ltda",
 			"name": "M F Propaganda e Publicidade Ltda",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "M F Propaganda e Publicidade Ltda"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "OBJETIVA ASSESSORIA E COMUNICACAO LTDA - EPP",
 			"name": "OBJETIVA ASSESSORIA E COMUNICACAO LTDA - EPP",
 			"val": 2004.4541178672168,
-			"desc": 33351,
+			"desc": "33351.00",
 			"group": "OBJETIVA ASSESSORIA E COMUNICACAO LTDA - EPP"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.7207292372085746,
-			"desc": 35.1,
+			"desc": "35.10",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "AUTO POSTO CATARINENSE LTDA",
 			"name": "AUTO POSTO CATARINENSE LTDA",
 			"val": 19.48772465478343,
-			"desc": 537.19,
+			"desc": "537.19",
 			"group": "AUTO POSTO CATARINENSE LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 3.196384938061011,
-			"desc": 116.43,
+			"desc": "116.43",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 29.87411359644398,
-			"desc": 777.7199999999999,
+			"desc": "777.72",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 1.8379981962261691,
-			"desc": 74,
+			"desc": "74.00",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 7.911239417755525,
-			"desc": 248.55,
+			"desc": "248.55",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 55.65563855644261,
-			"desc": 1339.49,
+			"desc": "1339.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"name": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"val": 73.04406927005483,
-			"desc": 1701.46,
+			"desc": "1701.46",
 			"group": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.87093522086272,
-			"desc": 165.26,
+			"desc": "165.26",
 			"group": "RAMAL"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 10.92199779925216,
-			"desc": 326.9,
+			"desc": "326.90",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "C. A. SOARES DA COSTA",
 			"name": "C. A. SOARES DA COSTA",
 			"val": 6.7035340397718395,
-			"desc": 216.09,
+			"desc": "216.09",
 			"group": "C. A. SOARES DA COSTA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "IRMAOS RUSSI LTDA",
 			"name": "IRMAOS RUSSI LTDA",
 			"val": 6.899646235934833,
-			"desc": 221.41,
+			"desc": "221.41",
 			"group": "IRMAOS RUSSI LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 12.368643827334289,
-			"desc": 363.53,
+			"desc": "363.53",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.316833146716587,
-			"desc": 149.41,
+			"desc": "149.41",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 84.67386191633474,
-			"desc": 1938.39,
+			"desc": "1938.39",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "C H DA COSTA RODRIGUES",
 			"name": "C H DA COSTA RODRIGUES",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "C H DA COSTA RODRIGUES"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "RF PAPELARIA E INFORMATICA EIRELI ME",
 			"name": "RF PAPELARIA E INFORMATICA EIRELI ME",
 			"val": 40.79434674450032,
-			"desc": 1020.38,
+			"desc": "1020.38",
 			"group": "RF PAPELARIA E INFORMATICA EIRELI ME"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "AUTO POSTO PETER PAN 01 LTDA",
 			"name": "AUTO POSTO PETER PAN 01 LTDA",
 			"val": 9.822760410786994,
-			"desc": 298.65999999999997,
+			"desc": "298.66",
 			"group": "AUTO POSTO PETER PAN 01 LTDA"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 3.912278260649086,
-			"desc": 137.66,
+			"desc": "137.66",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "METRO COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "METRO COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 4.204382860676479,
-			"desc": 146.16,
+			"desc": "146.16",
 			"group": "METRO COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "DANIELA BITTAR HOMSI HOTELARIA LTDA",
 			"name": "DANIELA BITTAR HOMSI HOTELARIA LTDA",
 			"val": 29.004275843734753,
-			"desc": 758,
+			"desc": "758.00",
 			"group": "DANIELA BITTAR HOMSI HOTELARIA LTDA"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 37.89721600273808,
-			"desc": 956.8,
+			"desc": "956.80",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{

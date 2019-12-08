@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "IGOR KANNÁRIO"
+			"name": "IGOR KANNÁRIO",
+			"desc": "39705.91"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 898.4855461162423,
-			"desc": 16075.839999999997,
+			"desc": "16075.84",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "LAGO AZUL DER DE PETROLEO",
 			"name": "LAGO AZUL DER DE PETROLEO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "LAGO AZUL DER DE PETROLEO"
 		},
 		{
@@ -212,7 +213,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 66.67192673893206,
-			"desc": 1570,
+			"desc": "1570.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "DOM FRANCISCO RESTAURANTE",
 			"name": "DOM FRANCISCO RESTAURANTE",
 			"val": 9.189080131798937,
-			"desc": 282.2,
+			"desc": "282.20",
 			"group": "DOM FRANCISCO RESTAURANTE"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "AUTO POSTO ALVORADA LTDA",
 			"name": "AUTO POSTO ALVORADA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO ALVORADA LTDA"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 361.44023367267386,
-			"desc": 7066.66,
+			"desc": "7066.66",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.900170951279031,
-			"desc": 41.790000000000006,
+			"desc": "41.79",
 			"group": "RAMAL"
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "AUTO POSTO GASOL LTDA",
 			"name": "AUTO POSTO GASOL LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO GASOL LTDA"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "BRASILIA GRILL BAR E RESTAURANTE LTDA",
 			"name": "BRASILIA GRILL BAR E RESTAURANTE LTDA",
 			"val": 91.50668140828385,
-			"desc": 2076,
+			"desc": "2076.00",
 			"group": "BRASILIA GRILL BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 45.11959394372881,
-			"desc": 1114.39,
+			"desc": "1114.39",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "858 GRILL COMERCIO DE ALIMENTOS EIRELI",
 			"name": "858 GRILL COMERCIO DE ALIMENTOS EIRELI",
 			"val": 24.74870977279412,
-			"desc": 660.5,
+			"desc": "660.50",
 			"group": "858 GRILL COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "TEREZINHA ROCHA ARAÚJO",
 			"name": "TEREZINHA ROCHA ARAÚJO",
 			"val": 78.79129342599221,
-			"desc": 1819,
+			"desc": "1819.00",
 			"group": "TEREZINHA ROCHA ARAÚJO"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 0.6879787639443057,
-			"desc": 33.85,
+			"desc": "33.85",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (RT BRASILIA ALVORADA)",
 			"name": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (RT BRASILIA ALVORADA)",
 			"val": 80.38827024587509,
-			"desc": 1851.5,
+			"desc": "1851.50",
 			"group": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (RT BRASILIA ALVORADA)"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 187.37681736271745,
-			"desc": 3923.93,
+			"desc": "3923.93",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "AUTO POSTO ITICAR LTDA - GAMA",
 			"name": "AUTO POSTO ITICAR LTDA - GAMA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO ITICAR LTDA - GAMA"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "BSB GRILL BAR E RESTAURANTE LTDA",
 			"name": "BSB GRILL BAR E RESTAURANTE LTDA",
 			"val": 3.016720644659447,
-			"desc": 111,
+			"desc": "111.00",
 			"group": "BSB GRILL BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 4.631036744782965,
-			"desc": 158.43,
+			"desc": "158.43",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 21.445741115019988,
-			"desc": 583.49,
+			"desc": "583.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
 			"name": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
 			"val": 8.167831321171459,
-			"desc": 255.36,
+			"desc": "255.36",
 			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "RWR - Serviços de Taxi Ltda - ME",
 			"name": "RWR - Serviços de Taxi Ltda - ME",
 			"val": 1.1856914613733471,
-			"desc": 52,
+			"desc": "52.00",
 			"group": "RWR - Serviços de Taxi Ltda - ME"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 28.220351607826792,
-			"desc": 740.17,
+			"desc": "740.17",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "JOSE BERNARDO PEREIRA-ME",
 			"name": "JOSE BERNARDO PEREIRA-ME",
 			"val": 0.8460996868844807,
-			"desc": 39.8,
+			"desc": "39.80",
 			"group": "JOSE BERNARDO PEREIRA-ME"
 		},
 		{

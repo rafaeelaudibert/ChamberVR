@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZ FLÁVIO GOMES"
+			"name": "LUIZ FLÁVIO GOMES",
+			"desc": "63984.99"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 211.56025168016365,
-			"desc": 4373.09,
+			"desc": "4373.09",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1468.9688898622414,
-			"desc": 25124.64,
+			"desc": "25124.64",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 136.49782430549007,
-			"desc": 2959.3500000000004,
+			"desc": "2959.35",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -212,7 +213,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 10.477657509246928,
-			"desc": 315.53000000000003,
+			"desc": "315.53",
 			"group": "99 POP"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 47.44915179053921,
-			"desc": 1164.6100000000001,
+			"desc": "1164.61",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 37.8822412366033,
-			"desc": 956.47,
+			"desc": "956.47",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.978237831989423,
-			"desc": 353.70000000000005,
+			"desc": "353.70",
 			"group": "RAMAL"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 18.13487906849719,
-			"desc": 504.88,
+			"desc": "504.88",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "KLAMT SERVICOS DE INFORMACAO LTDA",
 			"name": "KLAMT SERVICOS DE INFORMACAO LTDA",
 			"val": 182.51608799189754,
-			"desc": 3833,
+			"desc": "3833.00",
 			"group": "KLAMT SERVICOS DE INFORMACAO LTDA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "MAXETRON SERVIÇOS INFORMAÇÕES & REPRESENTAÇÕES LTD",
 			"name": "MAXETRON SERVIÇOS INFORMAÇÕES & REPRESENTAÇÕES LTD",
 			"val": 68.12067961455824,
-			"desc": 1600,
+			"desc": "1600.00",
 			"group": "MAXETRON SERVIÇOS INFORMAÇÕES & REPRESENTAÇÕES LTD"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "",
 			"name": "",
 			"val": 182.51608799189754,
-			"desc": 3833,
+			"desc": "3833.00",
 			"group": ""
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "POSTO BOLA PESADA LT",
 			"name": "POSTO BOLA PESADA LT",
 			"val": 7.590988956411867,
-			"desc": 240.01,
+			"desc": "240.01",
 			"group": "POSTO BOLA PESADA LT"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 124.22157063491044,
-			"desc": 2721.7,
+			"desc": "2721.70",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 4.154346726059862,
-			"desc": 144.71,
+			"desc": "144.71",
 			"group": "SAO JOAO POSTOS"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "AUTO POSTO BIRITIBA USSU LT",
 			"name": "AUTO POSTO BIRITIBA USSU LT",
 			"val": 5.371982718974878,
-			"desc": 179.38,
+			"desc": "179.38",
 			"group": "AUTO POSTO BIRITIBA USSU LT"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "GROENLANDIA AUTO POSTO LT",
 			"name": "GROENLANDIA AUTO POSTO LT",
 			"val": 101.80752908025502,
-			"desc": 2281.5,
+			"desc": "2281.50",
 			"group": "GROENLANDIA AUTO POSTO LT"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "AUTO POSTO SAO JOAO DE JAGUARIUNA LTDA",
 			"name": "AUTO POSTO SAO JOAO DE JAGUARIUNA LTDA",
 			"val": 7.177740542920639,
-			"desc": 228.92,
+			"desc": "228.92",
 			"group": "AUTO POSTO SAO JOAO DE JAGUARIUNA LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"name": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"val": 7.003900737312203,
-			"desc": 224.23,
+			"desc": "224.23",
 			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 31.20113071762502,
-			"desc": 807.68,
+			"desc": "807.68",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "R2 Diagramação e Serviços de Pre Impressão Ltda ME",
 			"name": "R2 Diagramação e Serviços de Pre Impressão Ltda ME",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "R2 Diagramação e Serviços de Pre Impressão Ltda ME"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "POSTO SOL DA DUTRA LTDA",
 			"name": "POSTO SOL DA DUTRA LTDA",
 			"val": 5.039448102165577,
-			"desc": 170.03,
+			"desc": "170.03",
 			"group": "POSTO SOL DA DUTRA LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 1.248239689211962,
-			"desc": 54.17999999999999,
+			"desc": "54.18",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "ANNA PREMIER AUTO POSTO LTDA",
 			"name": "ANNA PREMIER AUTO POSTO LTDA",
 			"val": 6.848334477528059,
-			"desc": 220.02,
+			"desc": "220.02",
 			"group": "ANNA PREMIER AUTO POSTO LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 17.7006787441191,
-			"desc": 494.45000000000005,
+			"desc": "494.45",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "AUTO POSTO AGULHAS NEGRAS LTDA",
 			"name": "AUTO POSTO AGULHAS NEGRAS LTDA",
 			"val": 3.652308476680778,
-			"desc": 130.02,
+			"desc": "130.02",
 			"group": "AUTO POSTO AGULHAS NEGRAS LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "NSA II POSTO DE ABASTECIMENTO E SERVICOS AUTOMOTI",
 			"name": "NSA II POSTO DE ABASTECIMENTO E SERVICOS AUTOMOTI",
 			"val": 5.81225332255065,
-			"desc": 191.64,
+			"desc": "191.64",
 			"group": "NSA II POSTO DE ABASTECIMENTO E SERVICOS AUTOMOTI"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 23.708753629820187,
-			"desc": 636.39,
+			"desc": "636.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
 			"name": "AUTO POSTO AGULHAS NEGRAS LTDA ME",
 			"val": 3.993770038951181,
-			"desc": 140.04,
+			"desc": "140.04",
 			"group": "AUTO POSTO AGULHAS NEGRAS LTDA ME"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 3.139313240602143,
-			"desc": 114.71,
+			"desc": "114.71",
 			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 3.655356158918034,
-			"desc": 130.11,
+			"desc": "130.11",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "RODOPOSTO BANDEIRANTES JUNDIAI LTDA",
 			"name": "RODOPOSTO BANDEIRANTES JUNDIAI LTDA",
 			"val": 5.398065624460577,
-			"desc": 180.11,
+			"desc": "180.11",
 			"group": "RODOPOSTO BANDEIRANTES JUNDIAI LTDA"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "CABIFY AGENCIA DE SERVICOS DE TRANSPORTE DE PASSAGEIROS LTDA.",
 			"name": "CABIFY AGENCIA DE SERVICOS DE TRANSPORTE DE PASSAGEIROS LTDA.",
 			"val": 1.014106599353969,
-			"desc": 45.92,
+			"desc": "45.92",
 			"group": "CABIFY AGENCIA DE SERVICOS DE TRANSPORTE DE PASSAGEIROS LTDA."
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 74.23630575525786,
-			"desc": 1725.92,
+			"desc": "1725.92",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "KLAMT SERVIÇOS DE INFORMAÇÃO LTDA ME",
 			"name": "KLAMT SERVIÇOS DE INFORMAÇÃO LTDA ME",
 			"val": 182.51608799189754,
-			"desc": 3833,
+			"desc": "3833.00",
 			"group": "KLAMT SERVIÇOS DE INFORMAÇÃO LTDA ME"
 		},
 		{

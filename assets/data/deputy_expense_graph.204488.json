@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CÉLIO STUDART"
+			"name": "CÉLIO STUDART",
+			"desc": "75495.98"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1718.9659828207136,
-			"desc": 28990.919999999995,
+			"desc": "28990.92",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -288,7 +289,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "CEU AZUL DERIVADOS DE PETROLEO LTDA",
 			"name": "CEU AZUL DERIVADOS DE PETROLEO LTDA",
 			"val": 9.104796978978364,
-			"desc": 280,
+			"desc": "280.00",
 			"group": "CEU AZUL DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 544.4703559147542,
-			"desc": 10219.75,
+			"desc": "10219.75",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"name": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"val": 19.614337511846365,
-			"desc": 540.2,
+			"desc": "540.20",
 			"group": "COMPANHIA ENERGÉTICA DO CEARÁ"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.817699308744846,
-			"desc": 104.93,
+			"desc": "104.93",
 			"group": "RAMAL"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 148.3688595839372,
-			"desc": 3187.1499999999996,
+			"desc": "3187.15",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 3.281933255334581,
-			"desc": 119,
+			"desc": "119.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "VALBA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "VALBA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "VALBA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "IMOBRÁS IMOBILIÁRIA",
 			"name": "IMOBRÁS IMOBILIÁRIA",
 			"val": 521.8366799207995,
-			"desc": 9835.720000000001,
+			"desc": "9835.72",
 			"group": "IMOBRÁS IMOBILIÁRIA"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "GANVAL COMERCIO DE COMBUSTIVEIS E DERIVADOS",
 			"name": "GANVAL COMERCIO DE COMBUSTIVEIS E DERIVADOS",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "GANVAL COMERCIO DE COMBUSTIVEIS E DERIVADOS"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 3.716045478002543,
-			"desc": 131.9,
+			"desc": "131.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 0.8525909502608527,
-			"desc": 40.04,
+			"desc": "40.04",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "JOHN FILMS",
 			"name": "JOHN FILMS",
 			"val": 515.0332744694134,
-			"desc": 9720,
+			"desc": "9720.00",
 			"group": "JOHN FILMS"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "VIDEOMAR REDE NORDESTE S/A",
 			"name": "VIDEOMAR REDE NORDESTE S/A",
 			"val": 8.745811514686123,
-			"desc": 270.6,
+			"desc": "270.60",
 			"group": "VIDEOMAR REDE NORDESTE S/A"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "DANIEL MAIA - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "DANIEL MAIA - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "DANIEL MAIA - SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 0.8786385287573658,
-			"desc": 41,
+			"desc": "41.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 28.862082575865404,
-			"desc": 754.77,
+			"desc": "754.77",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{

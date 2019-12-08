@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ADRIANA VENTURA"
+			"name": "ADRIANA VENTURA",
+			"desc": "32996.26"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UBER",
 			"name": "UBER",
 			"val": 3.4355143840191755,
-			"desc": 123.59,
+			"desc": "123.59",
 			"group": "UBER"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 41.29427649826848,
-			"desc": 1031.3,
+			"desc": "1031.30",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 57.316850956094136,
-			"desc": 1374.54,
+			"desc": "1374.54",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 28.261179775401153,
-			"desc": 741.1,
+			"desc": "741.10",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 114.98010433627071,
-			"desc": 2541.26,
+			"desc": "2541.26",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 131.8621427089022,
-			"desc": 2869.8700000000003,
+			"desc": "2869.87",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "PONTO 606 AEROPORTO DE CONGONHAS",
 			"name": "PONTO 606 AEROPORTO DE CONGONHAS",
 			"val": 0.9968607731027878,
-			"desc": 45.3,
+			"desc": "45.30",
 			"group": "PONTO 606 AEROPORTO DE CONGONHAS"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "ENEL",
 			"name": "ENEL",
 			"val": 3.4680976928629805,
-			"desc": 124.56,
+			"desc": "124.56",
 			"group": "ENEL"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.909416483773624,
-			"desc": 274.89,
+			"desc": "274.89",
 			"group": "RAMAL"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 1.776329406843429,
-			"desc": 71.98,
+			"desc": "71.98",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"val": 11.130692391712605,
-			"desc": 332.21999999999997,
+			"desc": "332.22",
 			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 9.753589632356688,
-			"desc": 296.87,
+			"desc": "296.87",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 67.07821213605756,
-			"desc": 1578.4199999999998,
+			"desc": "1578.42",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "RR CASAGRANDE COMUNICACAO LTDA - ME",
 			"name": "RR CASAGRANDE COMUNICACAO LTDA - ME",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "RR CASAGRANDE COMUNICACAO LTDA - ME"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 7.907103519816908,
-			"desc": 248.44,
+			"desc": "248.44",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "ITAMAR DE BRITO",
 			"name": "ITAMAR DE BRITO",
 			"val": 1.072312800138462,
-			"desc": 48,
+			"desc": "48.00",
 			"group": "ITAMAR DE BRITO"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "AUTO POSTO CARLU LT",
 			"name": "AUTO POSTO CARLU LT",
 			"val": 4.229259285146034,
-			"desc": 146.88,
+			"desc": "146.88",
 			"group": "AUTO POSTO CARLU LT"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "R.R. CASAGRANDE COMUNICACAO LTDA",
 			"name": "R.R. CASAGRANDE COMUNICACAO LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "R.R. CASAGRANDE COMUNICACAO LTDA"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 9.753589632356688,
-			"desc": 296.87,
+			"desc": "296.87",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "Port papelaria escritorio e informatica LTDA",
 			"name": "Port papelaria escritorio e informatica LTDA",
 			"val": 5.998925622307718,
-			"desc": 196.8,
+			"desc": "196.80",
 			"group": "Port papelaria escritorio e informatica LTDA"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 1.7065113401906646,
-			"desc": 69.68,
+			"desc": "69.68",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "EDITORA GLOBO S/A",
 			"name": "EDITORA GLOBO S/A",
 			"val": 1.414714389857181,
-			"desc": 59.9,
+			"desc": "59.90",
 			"group": "EDITORA GLOBO S/A"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 6.143443757627715,
-			"desc": 200.78,
+			"desc": "200.78",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "AUTO POSTO NUCLEO II LTDA",
 			"name": "AUTO POSTO NUCLEO II LTDA",
 			"val": 4.062431187132708,
-			"desc": 142.04,
+			"desc": "142.04",
 			"group": "AUTO POSTO NUCLEO II LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 2.398759011080835,
-			"desc": 91.94,
+			"desc": "91.94",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "MARE CLAUSUM PUBLICACOES LTDA",
 			"name": "MARE CLAUSUM PUBLICACOES LTDA",
 			"val": 4.504222820650365,
-			"desc": 154.8,
+			"desc": "154.80",
 			"group": "MARE CLAUSUM PUBLICACOES LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 1.0024186245161628,
-			"desc": 45.5,
+			"desc": "45.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "TIM S.A",
 			"name": "TIM S.A",
 			"val": 6.824725938416851,
-			"desc": 219.38,
+			"desc": "219.38",
 			"group": "TIM S.A"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "Adobe Systems Software Ireland Ltd",
 			"name": "Adobe Systems Software Ireland Ltd",
 			"val": 3.44928136995189,
-			"desc": 124,
+			"desc": "124.00",
 			"group": "Adobe Systems Software Ireland Ltd"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "GIACHETO LUCHESI & PERES DE SOUZA ADV",
 			"name": "GIACHETO LUCHESI & PERES DE SOUZA ADV",
 			"val": 765.6908177995502,
-			"desc": 13907.88,
+			"desc": "13907.88",
 			"group": "GIACHETO LUCHESI & PERES DE SOUZA ADV"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 2.6572190167461494,
-			"desc": 99.99,
+			"desc": "99.99",
 			"group": "TIM S/A"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "Kalunga Comercio Industria Grafica Ltda",
 			"name": "Kalunga Comercio Industria Grafica Ltda",
 			"val": 5.612727052105879,
-			"desc": 186.1,
+			"desc": "186.10",
 			"group": "Kalunga Comercio Industria Grafica Ltda"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "Empresa Folha da Manha S.A.",
 			"name": "Empresa Folha da Manha S.A.",
 			"val": 5.372697091030891,
-			"desc": 179.4,
+			"desc": "179.40",
 			"group": "Empresa Folha da Manha S.A."
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 1.776329406843429,
-			"desc": 71.98,
+			"desc": "71.98",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{

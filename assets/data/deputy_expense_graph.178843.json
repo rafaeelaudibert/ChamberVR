@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARX BELTRÃO"
+			"name": "MARX BELTRÃO",
+			"desc": "143756.06"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 122.86657711721638,
-			"desc": 2695.33,
+			"desc": "2695.33",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "L2 PUBLICIDADE E COMUNICACAO LTDA",
 			"name": "L2 PUBLICIDADE E COMUNICACAO LTDA",
 			"val": 2620.507614024096,
-			"desc": 42600,
+			"desc": "42600.00",
 			"group": "L2 PUBLICIDADE E COMUNICACAO LTDA"
 		},
 		{
@@ -139,7 +140,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 951.4147490532933,
-			"desc": 16932.13,
+			"desc": "16932.13",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1742.5399679771326,
-			"desc": 29353.039999999986,
+			"desc": "29353.04",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "SAO PAULO PRODUTOS DE PETROLEO LTDA",
 			"name": "SAO PAULO PRODUTOS DE PETROLEO LTDA",
 			"val": 40.92292751728997,
-			"desc": 1023.1899999999999,
+			"desc": "1023.19",
 			"group": "SAO PAULO PRODUTOS DE PETROLEO LTDA"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.654145714603317,
-			"desc": 159.09,
+			"desc": "159.09",
 			"group": "RAMAL"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 237.3692663932826,
-			"desc": 4847.08,
+			"desc": "4847.08",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "POSTO PONTA VERDE",
 			"name": "POSTO PONTA VERDE",
 			"val": 33.819063030898256,
-			"desc": 866.3699999999999,
+			"desc": "866.37",
 			"group": "POSTO PONTA VERDE"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 10.154781373875188,
-			"desc": 307.23,
+			"desc": "307.23",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 18.239974017744778,
-			"desc": 507.4,
+			"desc": "507.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "L2 PUBLICIDADE E COMUNICAÇÃO LTDA ME",
 			"name": "L2 PUBLICIDADE E COMUNICAÇÃO LTDA ME",
 			"val": 2600.328211257779,
-			"desc": 42300,
+			"desc": "42300.00",
 			"group": "L2 PUBLICIDADE E COMUNICAÇÃO LTDA ME"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 15.165162307246755,
-			"desc": 432.9,
+			"desc": "432.90",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "DIESEL DISTRIBUIDORA E SERVICOS LTDA",
 			"name": "DIESEL DISTRIBUIDORA E SERVICOS LTDA",
 			"val": 9.10671140035081,
-			"desc": 280.05,
+			"desc": "280.05",
 			"group": "DIESEL DISTRIBUIDORA E SERVICOS LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 14.131551561186168,
-			"desc": 407.46000000000004,
+			"desc": "407.46",
 			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 5.384486086536883,
-			"desc": 179.73,
+			"desc": "179.73",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "AAMM COMERCIAL DE COMBUSTIVEL LTDA",
 			"name": "AAMM COMERCIAL DE COMBUSTIVEL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AAMM COMERCIAL DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"name": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"val": 3.821480422407449,
-			"desc": 135,
+			"desc": "135.00",
 			"group": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "T DE F ROCHA E BARBOSA LTDA",
 			"name": "T DE F ROCHA E BARBOSA LTDA",
 			"val": 2.6594833520585235,
-			"desc": 100.06,
+			"desc": "100.06",
 			"group": "T DE F ROCHA E BARBOSA LTDA"
 		},
 		{

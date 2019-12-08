@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARLOS GOMES"
+			"name": "CARLOS GOMES",
+			"desc": "43234.14"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DE COMB MOINHOS LTDA",
 			"name": "POSTO DE COMB MOINHOS LTDA",
 			"val": 47.811174932907264,
-			"desc": 1172.39,
+			"desc": "1172.39",
 			"group": "POSTO DE COMB MOINHOS LTDA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 12.36744999939909,
-			"desc": 363.5,
+			"desc": "363.50",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 34.8212306595611,
-			"desc": 888.7,
+			"desc": "888.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "MARIANA P F DA SILVA",
 			"name": "MARIANA P F DA SILVA",
 			"val": 0.9059093270268318,
-			"desc": 42,
+			"desc": "42.00",
 			"group": "MARIANA P F DA SILVA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 309.2549333094075,
-			"desc": 6143.410000000001,
+			"desc": "6143.41",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -184,7 +185,7 @@
 			"id": "DILNEI MELO DE FREITAS ME",
 			"name": "DILNEI MELO DE FREITAS ME",
 			"val": 16.41816508074125,
-			"desc": 463.46,
+			"desc": "463.46",
 			"group": "DILNEI MELO DE FREITAS ME"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "TTS SOLUÇÕES EM TI LTDA",
 			"name": "TTS SOLUÇÕES EM TI LTDA",
 			"val": 215.8502165726376,
-			"desc": 4452.24,
+			"desc": "4452.24",
 			"group": "TTS SOLUÇÕES EM TI LTDA"
 		},
 		{
@@ -228,7 +229,7 @@
 			"id": "VIVENDAS HOTEL LTDA - ME",
 			"name": "VIVENDAS HOTEL LTDA - ME",
 			"val": 8.059940973415548,
-			"desc": 252.5,
+			"desc": "252.50",
 			"group": "VIVENDAS HOTEL LTDA - ME"
 		},
 		{
@@ -247,7 +248,7 @@
 			"id": "TELEFONICA BRASIL S.A. VIVO",
 			"name": "TELEFONICA BRASIL S.A. VIVO",
 			"val": 14.448323060596923,
-			"desc": 415.28,
+			"desc": "415.28",
 			"group": "TELEFONICA BRASIL S.A. VIVO"
 		},
 		{
@@ -266,7 +267,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 8.925836521298173,
-			"desc": 275.32,
+			"desc": "275.32",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -279,7 +280,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.105848880183887,
-			"desc": 49.19,
+			"desc": "49.19",
 			"group": "RAMAL"
 		},
 		{
@@ -298,7 +299,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "Premium Com de Suprimentos de Informatica Ltda",
 			"name": "Premium Com de Suprimentos de Informatica Ltda",
 			"val": 98.71313437578873,
-			"desc": 2220,
+			"desc": "2220.00",
 			"group": "Premium Com de Suprimentos de Informatica Ltda"
 		},
 		{
@@ -336,7 +337,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS LB LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS LB LTDA",
 			"val": 42.34436319130885,
-			"desc": 1054.19,
+			"desc": "1054.19",
 			"group": "COMERCIAL DE COMBUSTIVEIS LB LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"name": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"val": 32.91356188521944,
-			"desc": 846.1300000000001,
+			"desc": "846.13",
 			"group": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 6.529805350210975,
-			"desc": 211.36,
+			"desc": "211.36",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 162.75931345452466,
-			"desc": 3460.92,
+			"desc": "3460.92",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "NOSSA GARAGEM LTDA",
 			"name": "NOSSA GARAGEM LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "NOSSA GARAGEM LTDA"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "ROSARIO PARQUE",
 			"name": "ROSARIO PARQUE",
 			"val": 6.5532765454695925,
-			"desc": 212,
+			"desc": "212.00",
 			"group": "ROSARIO PARQUE"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 38.95253106870618,
-			"desc": 980.0200000000001,
+			"desc": "980.02",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "AMORIM AMORIM EMPREENDIMENTOS COMERCIAIS LTDA",
 			"name": "AMORIM AMORIM EMPREENDIMENTOS COMERCIAIS LTDA",
 			"val": 10.862853735993435,
-			"desc": 325.39,
+			"desc": "325.39",
 			"group": "AMORIM AMORIM EMPREENDIMENTOS COMERCIAIS LTDA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "POSTO BATOVI COMER. RS COMB DERIV. LTDA",
 			"name": "POSTO BATOVI COMER. RS COMB DERIV. LTDA",
 			"val": 7.414364409430204,
-			"desc": 235.28,
+			"desc": "235.28",
 			"group": "POSTO BATOVI COMER. RS COMB DERIV. LTDA"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "VMS RESTAURANTE LTDA",
 			"name": "VMS RESTAURANTE LTDA",
 			"val": 0.9882561818263057,
-			"desc": 44.99,
+			"desc": "44.99",
 			"group": "VMS RESTAURANTE LTDA"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "HOTEL ALEXANDRE- Fernandes & Pires Ltda",
 			"name": "HOTEL ALEXANDRE- Fernandes & Pires Ltda",
 			"val": 7.366661377530067,
-			"desc": 234,
+			"desc": "234.00",
 			"group": "HOTEL ALEXANDRE- Fernandes & Pires Ltda"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "ROSALDI HENTGES",
 			"name": "ROSALDI HENTGES",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "ROSALDI HENTGES"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS WALLAUER LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS WALLAUER LTDA",
 			"val": 7.535665440776693,
-			"desc": 238.53,
+			"desc": "238.53",
 			"group": "COMERCIO DE COMBUSTIVEIS WALLAUER LTDA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.242107915409624,
-			"desc": 203.49,
+			"desc": "203.49",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 21.608258758267596,
-			"desc": 587.31,
+			"desc": "587.31",
 			"group": "CEEE"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "GUARIDA SERVIÇOS",
 			"name": "GUARIDA SERVIÇOS",
 			"val": 553.4177047870864,
-			"desc": 10371.17,
+			"desc": "10371.17",
 			"group": "GUARIDA SERVIÇOS"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "Editora Marca Servicos Graficos Eireli",
 			"name": "Editora Marca Servicos Graficos Eireli",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "Editora Marca Servicos Graficos Eireli"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "PERSONAL HOTELARIA LTDA",
 			"name": "PERSONAL HOTELARIA LTDA",
 			"val": 25.021297376420996,
-			"desc": 666.8,
+			"desc": "666.80",
 			"group": "PERSONAL HOTELARIA LTDA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "JORGE ALBERTO DUARTE GRILL EIRELI EPP",
 			"name": "JORGE ALBERTO DUARTE GRILL EIRELI EPP",
 			"val": 0.2027639251168273,
-			"desc": 13.5,
+			"desc": "13.50",
 			"group": "JORGE ALBERTO DUARTE GRILL EIRELI EPP"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS MINEIRO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS MINEIRO LTDA",
 			"val": 7.735900564232958,
-			"desc": 243.88,
+			"desc": "243.88",
 			"group": "COMERCIAL DE COMBUSTIVEIS MINEIRO LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "POSTO E GARAGEM GRAND PRIX LTDA.",
 			"name": "POSTO E GARAGEM GRAND PRIX LTDA.",
 			"val": 6.0965521429526826,
-			"desc": 199.49,
+			"desc": "199.49",
 			"group": "POSTO E GARAGEM GRAND PRIX LTDA."
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "HOTEL VINOCAP LTDA",
 			"name": "HOTEL VINOCAP LTDA",
 			"val": 11.279274616214654,
-			"desc": 336,
+			"desc": "336.00",
 			"group": "HOTEL VINOCAP LTDA"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.624387100962278,
-			"desc": 158.24,
+			"desc": "158.24",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "CONJUNTO COMERCIAL OREL LTDA",
 			"name": "CONJUNTO COMERCIAL OREL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CONJUNTO COMERCIAL OREL LTDA"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 5.6145236167209065,
-			"desc": 186.15,
+			"desc": "186.15",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 8.922781336970885,
-			"desc": 275.24,
+			"desc": "275.24",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.6989926920196727,
-			"desc": 101.28,
+			"desc": "101.28",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "PALATUS COMERCIO ALIMENTOS LTDA EPP",
 			"name": "PALATUS COMERCIO ALIMENTOS LTDA EPP",
 			"val": 0.47414246973549606,
-			"desc": 25.4,
+			"desc": "25.40",
 			"group": "PALATUS COMERCIO ALIMENTOS LTDA EPP"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"name": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"val": 4.33694435567191,
-			"desc": 149.99,
+			"desc": "149.99",
 			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 4.2839204665809545,
-			"desc": 148.46,
+			"desc": "148.46",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "AUTO POSTO PETER PAN 01 LTDA",
 			"name": "AUTO POSTO PETER PAN 01 LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO PETER PAN 01 LTDA"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "A. P. DE AGUIAR AUTO MECANICA - ME",
 			"name": "A. P. DE AGUIAR AUTO MECANICA - ME",
 			"val": 3.0496950050818064,
-			"desc": 112,
+			"desc": "112.00",
 			"group": "A. P. DE AGUIAR AUTO MECANICA - ME"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "J AGUIAR COM DE COMB LTDA",
 			"name": "J AGUIAR COM DE COMB LTDA",
 			"val": 6.116902298130284,
-			"desc": 200.05,
+			"desc": "200.05",
 			"group": "J AGUIAR COM DE COMB LTDA"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -910,7 +911,7 @@
 			"id": "AUTO POSTO DF 180 LTDA",
 			"name": "AUTO POSTO DF 180 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DF 180 LTDA"
 		},
 		{
@@ -923,7 +924,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -936,7 +937,7 @@
 			"id": "WLE COMERCIO DE ALIMENTOS",
 			"name": "WLE COMERCIO DE ALIMENTOS",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "WLE COMERCIO DE ALIMENTOS"
 		},
 		{
@@ -949,7 +950,7 @@
 			"id": "AUTO POSTO BRAGA LTDA",
 			"name": "AUTO POSTO BRAGA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO BRAGA LTDA"
 		},
 		{
@@ -962,7 +963,7 @@
 			"id": "SUBWAY QA2",
 			"name": "SUBWAY QA2",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "SUBWAY QA2"
 		},
 		{
@@ -975,7 +976,7 @@
 			"id": "SOFTDESIGN - CONSULTORIA E SISTEMAS LTDA",
 			"name": "SOFTDESIGN - CONSULTORIA E SISTEMAS LTDA",
 			"val": 149.90479291432698,
-			"desc": 3216.49,
+			"desc": "3216.49",
 			"group": "SOFTDESIGN - CONSULTORIA E SISTEMAS LTDA"
 		},
 		{
@@ -988,7 +989,7 @@
 			"id": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME",
 			"name": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME",
 			"val": 0.728627927655702,
-			"desc": 35.4,
+			"desc": "35.40",
 			"group": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUCIO MOSQUINI"
+			"name": "LUCIO MOSQUINI",
+			"desc": "51984.68"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 327.5936164387649,
-			"desc": 6469.370000000001,
+			"desc": "6469.37",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "AUTO POSTO IRMAOS LEITE LTDA",
 			"name": "AUTO POSTO IRMAOS LEITE LTDA",
 			"val": 282.01485471354454,
-			"desc": 5655.89,
+			"desc": "5655.89",
 			"group": "AUTO POSTO IRMAOS LEITE LTDA"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
 			"name": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA",
 			"val": 5.781940130005372,
-			"desc": 190.8,
+			"desc": "190.80",
 			"group": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA"
 		},
 		{
@@ -266,7 +267,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 231.78304165874258,
-			"desc": 4744.920000000001,
+			"desc": "4744.92",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
 			"name": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"val": 2.0974507864876157,
-			"desc": 82.39,
+			"desc": "82.39",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "C. A. SOARES DA COSTA",
 			"name": "C. A. SOARES DA COSTA",
 			"val": 15.891475690151408,
-			"desc": 450.65,
+			"desc": "450.65",
 			"group": "C. A. SOARES DA COSTA"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "SOLIMOES TRANSPORTES DE PASSAGEIROS E CARGAS LTDA.",
 			"name": "SOLIMOES TRANSPORTES DE PASSAGEIROS E CARGAS LTDA.",
 			"val": 3.241948227477988,
-			"desc": 117.8,
+			"desc": "117.80",
 			"group": "SOLIMOES TRANSPORTES DE PASSAGEIROS E CARGAS LTDA."
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.286368570648639,
-			"desc": 88.4,
+			"desc": "88.40",
 			"group": "RAMAL"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 11.463179070629359,
-			"desc": 340.66999999999996,
+			"desc": "340.67",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 47.97925871011025,
-			"desc": 1176,
+			"desc": "1176.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "COMERCIO DE DERIVADOS DE PETROLEO PLANALTO EIRELI - ME",
 			"name": "COMERCIO DE DERIVADOS DE PETROLEO PLANALTO EIRELI - ME",
 			"val": 5.6145236167209065,
-			"desc": 186.15,
+			"desc": "186.15",
 			"group": "COMERCIO DE DERIVADOS DE PETROLEO PLANALTO EIRELI - ME"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 388.07888661415785,
-			"desc": 7533.150000000001,
+			"desc": "7533.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
 			"name": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "NUVEM COMUNICACAO DIGITAL EIRELI - ME"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"val": 7.494954286898931,
-			"desc": 237.44,
+			"desc": "237.44",
 			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.699361242074854,
-			"desc": 542.22,
+			"desc": "542.22",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "AUTO POSTO FAZENDINHA LTDA - EPP",
 			"name": "AUTO POSTO FAZENDINHA LTDA - EPP",
 			"val": 29.742922235677685,
-			"desc": 774.75,
+			"desc": "774.75",
 			"group": "AUTO POSTO FAZENDINHA LTDA - EPP"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 5.490385388054032,
-			"desc": 182.69,
+			"desc": "182.69",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 35.16036027409169,
-			"desc": 896.2399999999999,
+			"desc": "896.24",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.015475961598581948,
-			"desc": 2.7,
+			"desc": "2.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
 			"name": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "TRANSPORTES COLETIVO SERRA AZUL LTDA.",
 			"name": "TRANSPORTES COLETIVO SERRA AZUL LTDA.",
 			"val": 1.9610454922850216,
-			"desc": 78,
+			"desc": "78.00",
 			"group": "TRANSPORTES COLETIVO SERRA AZUL LTDA."
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "N. FERNANDES AGENCIA DE NOTICIAS ME",
 			"name": "N. FERNANDES AGENCIA DE NOTICIAS ME",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "N. FERNANDES AGENCIA DE NOTICIAS ME"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "EXATA SOLUÇÕES EM IMPRESSÃO",
 			"name": "EXATA SOLUÇÕES EM IMPRESSÃO",
 			"val": 0.8406966783904521,
-			"desc": 39.6,
+			"desc": "39.60",
 			"group": "EXATA SOLUÇÕES EM IMPRESSÃO"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "S C AZZI SERVICOS DE RESTAURANTE EIRELI",
 			"name": "S C AZZI SERVICOS DE RESTAURANTE EIRELI",
 			"val": 1.3217542431592118,
-			"desc": 56.72,
+			"desc": "56.72",
 			"group": "S C AZZI SERVICOS DE RESTAURANTE EIRELI"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "R & N COMERCIAL DE PAPEIS LTDA",
 			"name": "R & N COMERCIAL DE PAPEIS LTDA",
 			"val": 2.8722575309245415,
-			"desc": 106.6,
+			"desc": "106.60",
 			"group": "R & N COMERCIAL DE PAPEIS LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "AUTO POSTO MINUANO LTDA",
 			"name": "AUTO POSTO MINUANO LTDA",
 			"val": 7.441961070535152,
-			"desc": 236.02,
+			"desc": "236.02",
 			"group": "AUTO POSTO MINUANO LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "HOTEL CARIBE",
 			"name": "HOTEL CARIBE",
 			"val": 1.9919947164239646,
-			"desc": 79,
+			"desc": "79.00",
 			"group": "HOTEL CARIBE"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 64.69011478218466,
-			"desc": 1528.85,
+			"desc": "1528.85",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "3-DDIEX INFORMATICA E PAPELARIA",
 			"name": "3-DDIEX INFORMATICA E PAPELARIA",
 			"val": 5.301680360620032,
-			"desc": 177.41,
+			"desc": "177.41",
 			"group": "3-DDIEX INFORMATICA E PAPELARIA"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 65.39013097002659,
-			"desc": 1543.4,
+			"desc": "1543.40",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "COLIBRI PAPELARIA E ARMARINHO",
 			"name": "COLIBRI PAPELARIA E ARMARINHO",
 			"val": 0.32034045819212703,
-			"desc": 18.89,
+			"desc": "18.89",
 			"group": "COLIBRI PAPELARIA E ARMARINHO"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.827307598163667,
-			"desc": 219.45,
+			"desc": "219.45",
 			"group": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "ROBERTO GUTIERREZ DA ROCHA M.E.I",
 			"name": "ROBERTO GUTIERREZ DA ROCHA M.E.I",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "ROBERTO GUTIERREZ DA ROCHA M.E.I"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"name": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "DUDUSAN RESTAURANTE E FAST FOOD LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.8304470458598855,
-			"desc": 39.22,
+			"desc": "39.22",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.2106350756175215,
-			"desc": 86,
+			"desc": "86.00",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "MJS RESTAURANTES EIRELI - EPP",
 			"name": "MJS RESTAURANTES EIRELI - EPP",
 			"val": 1.0804699281801444,
-			"desc": 48.29,
+			"desc": "48.29",
 			"group": "MJS RESTAURANTES EIRELI - EPP"
 		},
 		{

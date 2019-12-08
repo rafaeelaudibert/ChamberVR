@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EVAIR VIEIRA DE MELO"
+			"name": "EVAIR VIEIRA DE MELO",
+			"desc": "96947.84"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 955.8495269793045,
-			"desc": 17003.69,
+			"desc": "17003.69",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 2.3993962488974407,
-			"desc": 91.96,
+			"desc": "91.96",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.305168317134754,
-			"desc": 311.1,
+			"desc": "311.10",
 			"group": "RAMAL"
 		},
 		{
@@ -176,7 +177,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 16.72252874101032,
-			"desc": 470.84000000000003,
+			"desc": "470.84",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 272.8544383520711,
-			"desc": 5490.9800000000005,
+			"desc": "5490.98",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -250,7 +251,7 @@
 			"id": "REGINA LUCIA RAIZER MOURA",
 			"name": "REGINA LUCIA RAIZER MOURA",
 			"val": 102.74024694165198,
-			"desc": 2300,
+			"desc": "2300.00",
 			"group": "REGINA LUCIA RAIZER MOURA"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 16.22756158134157,
-			"desc": 458.83,
+			"desc": "458.83",
 			"group": "Telefônia Brasil S/A"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 28.62102092134224,
-			"desc": 749.29,
+			"desc": "749.29",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "Prefeitura Municipal de Vitória",
 			"name": "Prefeitura Municipal de Vitória",
 			"val": 7.375230044591541,
-			"desc": 234.23,
+			"desc": "234.23",
 			"group": "Prefeitura Municipal de Vitória"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "AQUI CENTRO AUTOMOTIVO LTDA EPP4347",
 			"name": "AQUI CENTRO AUTOMOTIVO LTDA EPP4347",
 			"val": 795.6737966141013,
-			"desc": 14400,
+			"desc": "14400.00",
 			"group": "AQUI CENTRO AUTOMOTIVO LTDA EPP4347"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "PULSO CONTEUDO LTDA",
 			"name": "PULSO CONTEUDO LTDA",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "PULSO CONTEUDO LTDA"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 12.626444561564142,
-			"desc": 370,
+			"desc": "370.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "MAKRO ATACADISTA SA",
 			"name": "MAKRO ATACADISTA SA",
 			"val": 5.09153642959455,
-			"desc": 171.5,
+			"desc": "171.50",
 			"group": "MAKRO ATACADISTA SA"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 22.841929808880227,
-			"desc": 616.2,
+			"desc": "616.20",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "SIG COMERCIAL DE PAPEIS LTDA EPPI",
 			"name": "SIG COMERCIAL DE PAPEIS LTDA EPPI",
 			"val": 1.7271082261071105,
-			"desc": 70.36,
+			"desc": "70.36",
 			"group": "SIG COMERCIAL DE PAPEIS LTDA EPPI"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "AUTO POSTO ESMIG LTDA",
 			"name": "AUTO POSTO ESMIG LTDA",
 			"val": 590.9343063061841,
-			"desc": 11003.779999999999,
+			"desc": "11003.78",
 			"group": "AUTO POSTO ESMIG LTDA"
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"name": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"val": 171.7099456534628,
-			"desc": 3630,
+			"desc": "3630.00",
 			"group": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "MASTER TOWER",
 			"name": "MASTER TOWER",
 			"val": 58.74472177212395,
-			"desc": 1404.58,
+			"desc": "1404.58",
 			"group": "MASTER TOWER"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"name": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"val": 4.408478100136438,
-			"desc": 152.05,
+			"desc": "152.05",
 			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "IZA CARLA SILVA SANTA BRIGIDA - ME",
 			"name": "IZA CARLA SILVA SANTA BRIGIDA - ME",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "IZA CARLA SILVA SANTA BRIGIDA - ME"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "DEU IBOP PESQUISAS LTDA ME",
 			"name": "DEU IBOP PESQUISAS LTDA ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "DEU IBOP PESQUISAS LTDA ME"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA",
 			"name": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA",
 			"val": 3.44928136995189,
-			"desc": 124,
+			"desc": "124.00",
 			"group": "PPOSTOS ALEXANIA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 91.8337515354917,
-			"desc": 2082.56,
+			"desc": "2082.56",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"val": 31.076835005476706,
-			"desc": 804.88,
+			"desc": "804.88",
 			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "IZA CARLA SILVA SANTA BRIGIDA ME",
 			"name": "IZA CARLA SILVA SANTA BRIGIDA ME",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "IZA CARLA SILVA SANTA BRIGIDA ME"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "AUTO POSTO INFINITY DIVISA LTDA",
 			"name": "AUTO POSTO INFINITY DIVISA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO INFINITY DIVISA LTDA"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "FOLHA DA TERRA DAS MONTANHAS LTDA",
 			"name": "FOLHA DA TERRA DAS MONTANHAS LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "FOLHA DA TERRA DAS MONTANHAS LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "TAM LINHAS AEREAS SA VIX",
 			"name": "TAM LINHAS AEREAS SA VIX",
 			"val": 20.339257660914118,
-			"desc": 557.39,
+			"desc": "557.39",
 			"group": "TAM LINHAS AEREAS SA VIX"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "Eduardo Cassius de Souza Amaral",
 			"name": "Eduardo Cassius de Souza Amaral",
 			"val": 102.74024694165198,
-			"desc": 2300,
+			"desc": "2300.00",
 			"group": "Eduardo Cassius de Souza Amaral"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "AUTO POSTO COMERCIAL GITIRANA LTDA",
 			"name": "AUTO POSTO COMERCIAL GITIRANA LTDA",
 			"val": 3.7258910715151794,
-			"desc": 132.19,
+			"desc": "132.19",
 			"group": "AUTO POSTO COMERCIAL GITIRANA LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 11.320197546703314,
-			"desc": 337.03999999999996,
+			"desc": "337.04",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.2606376099012473,
-			"desc": 54.61,
+			"desc": "54.61",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "UNIAO TRANSP DE ENCOMENDAS E COM DE VEICULOS LTDA",
 			"name": "UNIAO TRANSP DE ENCOMENDAS E COM DE VEICULOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "UNIAO TRANSP DE ENCOMENDAS E COM DE VEICULOS LTDA"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 5.614882938944787,
-			"desc": 186.16,
+			"desc": "186.16",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 58.03316985409527,
-			"desc": 1389.62,
+			"desc": "1389.62",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{

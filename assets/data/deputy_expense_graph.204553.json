@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PASTOR SARGENTO ISIDÓRIO"
+			"name": "PASTOR SARGENTO ISIDÓRIO",
+			"desc": "127804.56"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 20.40646565138098,
-			"desc": 558.98,
+			"desc": "558.98",
 			"group": "RAMAL"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 188.8594348876675,
-			"desc": 3951.62,
+			"desc": "3951.62",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2218.728124082729,
-			"desc": 36590.49999999999,
+			"desc": "36590.50",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 50.69965277180675,
-			"desc": 1234.24,
+			"desc": "1234.24",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 27.416591219108657,
-			"desc": 721.8299999999999,
+			"desc": "721.83",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 67.42293757874268,
-			"desc": 1585.56,
+			"desc": "1585.56",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 29.56501347943592,
-			"desc": 770.72,
+			"desc": "770.72",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 24.114026386893,
-			"desc": 645.8,
+			"desc": "645.80",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "Luis Walter Coelho Filho",
 			"name": "Luis Walter Coelho Filho",
 			"val": 340.56992605922306,
-			"desc": 6699,
+			"desc": "6699.00",
 			"group": "Luis Walter Coelho Filho"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"name": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "Clássica Transportes e Logística Ltda",
 			"name": "Clássica Transportes e Logística Ltda",
 			"val": 2687.859865737808,
-			"desc": 43600,
+			"desc": "43600.00",
 			"group": "Clássica Transportes e Logística Ltda"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.8781086292700406,
-			"desc": 136.66,
+			"desc": "136.66",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "POSTO GAROUPA II",
 			"name": "POSTO GAROUPA II",
 			"val": 531.7742375998728,
-			"desc": 10004.509999999998,
+			"desc": "10004.51",
 			"group": "POSTO GAROUPA II"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 26.191204955746404,
-			"desc": 693.75,
+			"desc": "693.75",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 38.42810782451575,
-			"desc": 968.49,
+			"desc": "968.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 58.39739178525396,
-			"desc": 1397.28,
+			"desc": "1397.28",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 23.33863870572393,
-			"desc": 627.78,
+			"desc": "627.78",
 			"group": "CLARO S/A."
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 5.9786284740814075,
-			"desc": 196.24,
+			"desc": "196.24",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 300.389616515773,
-			"desc": 5985.2,
+			"desc": "5985.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "ARAUJO E PORTELA LTDA",
 			"name": "ARAUJO E PORTELA LTDA",
 			"val": 8.417890181358182,
-			"desc": 261.97,
+			"desc": "261.97",
 			"group": "ARAUJO E PORTELA LTDA"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 59.06369680784163,
-			"desc": 1411.28,
+			"desc": "1411.28",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "NET VIRTUA / CLARO",
 			"name": "NET VIRTUA / CLARO",
 			"val": 7.335005894101431,
-			"desc": 233.15,
+			"desc": "233.15",
 			"group": "NET VIRTUA / CLARO"
 		},
 		{

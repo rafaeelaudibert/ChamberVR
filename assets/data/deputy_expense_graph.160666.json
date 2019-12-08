@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FÉLIX MENDONÇA JÚNIOR"
+			"name": "FÉLIX MENDONÇA JÚNIOR",
+			"desc": "54504.16"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 188.09469441139203,
-			"desc": 3937.34,
+			"desc": "3937.34",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 44.075934935490864,
-			"desc": 1091.8,
+			"desc": "1091.80",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 522.9109411638144,
-			"desc": 9853.98,
+			"desc": "9853.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -249,7 +250,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 94.32155465098637,
-			"desc": 2132.38,
+			"desc": "2132.38",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 11.04158354121357,
-			"desc": 329.95,
+			"desc": "329.95",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": null,
-			"desc": -600.06,
+			"desc": "-600.06",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.1939623247603643,
-			"desc": 85.47,
+			"desc": "85.47",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "ANDRE LUIZ PEREIRA SANTOS SOARES - ME",
 			"name": "ANDRE LUIZ PEREIRA SANTOS SOARES - ME",
 			"val": 25.222713504218643,
-			"desc": 671.45,
+			"desc": "671.45",
 			"group": "ANDRE LUIZ PEREIRA SANTOS SOARES - ME"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "CONDOMINIO EMPRESARIAL MANOEL GOMES DE MENDONCA",
 			"name": "CONDOMINIO EMPRESARIAL MANOEL GOMES DE MENDONCA",
 			"val": 124.76717060700926,
-			"desc": 2732.31,
+			"desc": "2732.31",
 			"group": "CONDOMINIO EMPRESARIAL MANOEL GOMES DE MENDONCA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 33.42592274833572,
-			"desc": 857.5899999999999,
+			"desc": "857.59",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "SLG Comunicações Ltda",
 			"name": "SLG Comunicações Ltda",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "SLG Comunicações Ltda"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 5.753811272457751,
-			"desc": 190.02,
+			"desc": "190.02",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.5142716562828881,
-			"desc": 27.03,
+			"desc": "27.03",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "BM LOCACAO DE VEICULOS LTDA",
 			"name": "BM LOCACAO DE VEICULOS LTDA",
 			"val": 230.69526380452055,
-			"desc": 4725,
+			"desc": "4725.00",
 			"group": "BM LOCACAO DE VEICULOS LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.414080908005559,
-			"desc": 208.2,
+			"desc": "208.20",
 			"group": "RAMAL"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA",
 			"name": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA",
 			"val": 680.113551195481,
-			"desc": 12493.88,
+			"desc": "12493.88",
 			"group": "CCS COM DE COMBUSTVEIS E SERVICOS LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "CONNYCTEL CONSULTORIA E TELECOMUNICACOES LTDA",
 			"name": "CONNYCTEL CONSULTORIA E TELECOMUNICACOES LTDA",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "CONNYCTEL CONSULTORIA E TELECOMUNICACOES LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "E-MAIS CARTUCHOS E SUPRIMENTOS DE INFORMATICA EIRELI",
 			"name": "E-MAIS CARTUCHOS E SUPRIMENTOS DE INFORMATICA EIRELI",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "E-MAIS CARTUCHOS E SUPRIMENTOS DE INFORMATICA EIRELI"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "VL Veículos Ltda - EPP",
 			"name": "VL Veículos Ltda - EPP",
 			"val": 312.4317020040077,
-			"desc": 6200,
+			"desc": "6200.00",
 			"group": "VL Veículos Ltda - EPP"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "VL VEICULOS LTDA",
 			"name": "VL VEICULOS LTDA",
 			"val": 82.77755614445915,
-			"desc": 1900,
+			"desc": "1900.00",
 			"group": "VL VEICULOS LTDA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 5.941682382936217,
-			"desc": 195.22,
+			"desc": "195.22",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "RAMON MARGIOLLE PEREIRA DA SILVA 01199720500",
 			"name": "RAMON MARGIOLLE PEREIRA DA SILVA 01199720500",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "RAMON MARGIOLLE PEREIRA DA SILVA 01199720500"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 2.9759046933818167,
-			"desc": 109.76,
+			"desc": "109.76",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "POSTO TRANSICAO LTDA",
 			"name": "POSTO TRANSICAO LTDA",
 			"val": 4.941141946029138,
-			"desc": 167.25,
+			"desc": "167.25",
 			"group": "POSTO TRANSICAO LTDA"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "AUTO POSTO PRECIOSO DO OESTE LTDA II-",
 			"name": "AUTO POSTO PRECIOSO DO OESTE LTDA II-",
 			"val": 5.415225336898301,
-			"desc": 180.59,
+			"desc": "180.59",
 			"group": "AUTO POSTO PRECIOSO DO OESTE LTDA II-"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARLOS BEZERRA"
+			"name": "CARLOS BEZERRA",
+			"desc": "205037.26"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 299.63704831352044,
-			"desc": 5971.75,
+			"desc": "5971.75",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 15.205563151615353,
-			"desc": 433.89,
+			"desc": "433.89",
 			"group": "RAMAL"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "TIPO AGENCIA DE PUBLICIDADE LTDA ME",
 			"name": "TIPO AGENCIA DE PUBLICIDADE LTDA ME",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "TIPO AGENCIA DE PUBLICIDADE LTDA ME"
 		},
 		{
@@ -164,7 +165,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 929.9127894694302,
-			"desc": 16584.769999999997,
+			"desc": "16584.77",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 682.4854438112606,
-			"desc": 12533.270000000002,
+			"desc": "12533.27",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "MODERNA PRODUTOS IMPORTADOS E NACIONAIS LTDA",
 			"name": "MODERNA PRODUTOS IMPORTADOS E NACIONAIS LTDA",
 			"val": 2446.033980727912,
-			"desc": 40000,
+			"desc": "40000.00",
 			"group": "MODERNA PRODUTOS IMPORTADOS E NACIONAIS LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "MARKA GRAFICA E COPIADORA LTDA",
 			"name": "MARKA GRAFICA E COPIADORA LTDA",
 			"val": 4506.618844449975,
-			"desc": 70000,
+			"desc": "70000.00",
 			"group": "MARKA GRAFICA E COPIADORA LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 25.142124680589102,
-			"desc": 669.59,
+			"desc": "669.59",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.3666220347093784,
-			"desc": 20.900000000000002,
+			"desc": "20.90",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.03619459054881345,
-			"desc": 4.3,
+			"desc": "4.30",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 34.25085385684251,
-			"desc": 875.9999999999999,
+			"desc": "876.00",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "TIPO AGENCIA DE PUBLICIDADE LTDA",
 			"name": "TIPO AGENCIA DE PUBLICIDADE LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "TIPO AGENCIA DE PUBLICIDADE LTDA"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 103.15596134946986,
-			"desc": 2308.24,
+			"desc": "2308.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 23.62960143169613,
-			"desc": 634.55,
+			"desc": "634.55",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "CONSULTORES CIVITAS LTDA - ME",
 			"name": "CONSULTORES CIVITAS LTDA - ME",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "CONSULTORES CIVITAS LTDA - ME"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GUSTAVO FRUET"
+			"name": "GUSTAVO FRUET",
+			"desc": "47322.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.998805442620456,
-			"desc": 45.37,
+			"desc": "45.37",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "WJA PAPELARIA E LIVRARIA EIRELI - ME",
 			"name": "WJA PAPELARIA E LIVRARIA EIRELI - ME",
 			"val": 5.467822672655491,
-			"desc": 182.06,
+			"desc": "182.06",
 			"group": "WJA PAPELARIA E LIVRARIA EIRELI - ME"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1016.2799955727041,
-			"desc": 17976.069999999992,
+			"desc": "17976.07",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 21.174208788977463,
-			"desc": 577.1,
+			"desc": "577.10",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "AUTO POSTO OMS LTDA",
 			"name": "AUTO POSTO OMS LTDA",
 			"val": 36.80353746186208,
-			"desc": 932.6599999999999,
+			"desc": "932.66",
 			"group": "AUTO POSTO OMS LTDA"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "TIC POSTO LTDA II",
 			"name": "TIC POSTO LTDA II",
 			"val": 4.095790509310054,
-			"desc": 143.01,
+			"desc": "143.01",
 			"group": "TIC POSTO LTDA II"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 17.699847356383735,
-			"desc": 494.43000000000006,
+			"desc": "494.43",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "CONDOMÍNIO EDIFÍCIO COLOMBO",
 			"name": "CONDOMÍNIO EDIFÍCIO COLOMBO",
 			"val": 217.34752273718803,
-			"desc": 4479.83,
+			"desc": "4479.83",
 			"group": "CONDOMÍNIO EDIFÍCIO COLOMBO"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "MARIANA DOBROSINSKI RAGANHAN",
 			"name": "MARIANA DOBROSINSKI RAGANHAN",
 			"val": 174.8972192899889,
-			"desc": 3690,
+			"desc": "3690.00",
 			"group": "MARIANA DOBROSINSKI RAGANHAN"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "INDEPENDENCIA COMERCIO DE ARTIGOS DE PAPELARIA E EMBALAGENS",
 			"name": "INDEPENDENCIA COMERCIO DE ARTIGOS DE PAPELARIA E EMBALAGENS",
 			"val": 2.044775556836427,
-			"desc": 80.7,
+			"desc": "80.70",
 			"group": "INDEPENDENCIA COMERCIO DE ARTIGOS DE PAPELARIA E EMBALAGENS"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 219.00661152994994,
-			"desc": 4510.38,
+			"desc": "4510.38",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "CLARO NET S/A",
 			"name": "CLARO NET S/A",
 			"val": 12.014710135730565,
-			"desc": 354.62,
+			"desc": "354.62",
 			"group": "CLARO NET S/A"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 77.72343512604147,
-			"desc": 1797.23,
+			"desc": "1797.23",
 			"group": "CLARO S/A"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "TRANSPORTADORA LEAL LTDA",
 			"name": "TRANSPORTADORA LEAL LTDA",
 			"val": 86.48633180981945,
-			"desc": 1975,
+			"desc": "1975.00",
 			"group": "TRANSPORTADORA LEAL LTDA"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 1.072312800138462,
-			"desc": 48,
+			"desc": "48.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.807588540664721,
-			"desc": 104.62,
+			"desc": "104.62",
 			"group": "RAMAL"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "PAPELARIA E LIVRARIA J A LTDA",
 			"name": "PAPELARIA E LIVRARIA J A LTDA",
 			"val": 12.842110915659177,
-			"desc": 375.4,
+			"desc": "375.40",
 			"group": "PAPELARIA E LIVRARIA J A LTDA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S.A",
 			"name": "HOTELARIA ACCOR BRASIL S.A",
 			"val": 21.280393718377923,
-			"desc": 579.6,
+			"desc": "579.60",
 			"group": "HOTELARIA ACCOR BRASIL S.A"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 8.604261783015334,
-			"desc": 266.88,
+			"desc": "266.88",
 			"group": "NET"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 97.19368228636043,
-			"desc": 2189.73,
+			"desc": "2189.73",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.7523692643543,
-			"desc": 189.98,
+			"desc": "189.98",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "M P SILVEIRA INFORMATICA LTDA",
 			"name": "M P SILVEIRA INFORMATICA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "M P SILVEIRA INFORMATICA LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.4730908477152256,
-			"desc": 61.88,
+			"desc": "61.88",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.0907016401308722,
-			"desc": 7.7,
+			"desc": "7.70",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "PHOENIX AUTO POSTO LTDA",
 			"name": "PHOENIX AUTO POSTO LTDA",
 			"val": 5.388416529037778,
-			"desc": 179.83999999999997,
+			"desc": "179.84",
 			"group": "PHOENIX AUTO POSTO LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "Transportadora Leal Ltda",
 			"name": "Transportadora Leal Ltda",
 			"val": 297.0226066965497,
-			"desc": 5925,
+			"desc": "5925.00",
 			"group": "Transportadora Leal Ltda"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "COPEL DISTRIBUICAO S.A.",
 			"name": "COPEL DISTRIBUICAO S.A.",
 			"val": 2.8402228725506355,
-			"desc": 105.62,
+			"desc": "105.62",
 			"group": "COPEL DISTRIBUICAO S.A."
 		},
 		{

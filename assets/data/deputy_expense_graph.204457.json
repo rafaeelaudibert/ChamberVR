@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JUNINHO DO PNEU"
+			"name": "JUNINHO DO PNEU",
+			"desc": "61601.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 662.0425166994582,
-			"desc": 12193.380000000001,
+			"desc": "12193.38",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1270.475203948843,
-			"desc": 22016.639999999992,
+			"desc": "22016.64",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"name": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"val": 121.0535200433342,
-			"desc": 2660,
+			"desc": "2660.00",
 			"group": "OMEGA LOCADORA DE VEÍCULOS LTDA ME"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 13.090681005262946,
-			"desc": 381.61,
+			"desc": "381.61",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "M RIBEIRO COMBUSTIVEIS LTDA",
 			"name": "M RIBEIRO COMBUSTIVEIS LTDA",
 			"val": 45.31392708364297,
-			"desc": 1118.59,
+			"desc": "1118.59",
 			"group": "M RIBEIRO COMBUSTIVEIS LTDA"
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 12.195291284661968,
-			"desc": 359.16999999999996,
+			"desc": "359.17",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.9149390053656185,
-			"desc": 42.33,
+			"desc": "42.33",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "auto posto liderança de nova iguaçu",
 			"name": "auto posto liderança de nova iguaçu",
 			"val": 17.470978515429756,
-			"desc": 488.91999999999996,
+			"desc": "488.92",
 			"group": "auto posto liderança de nova iguaçu"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "POSTO DE GASOLINA DO NETINHO LTDA",
 			"name": "POSTO DE GASOLINA DO NETINHO LTDA",
 			"val": 31.48322290156411,
-			"desc": 814.03,
+			"desc": "814.03",
 			"group": "POSTO DE GASOLINA DO NETINHO LTDA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 45.24543738511966,
-			"desc": 1117.11,
+			"desc": "1117.11",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 150.3453373406065,
-			"desc": 3224.9,
+			"desc": "3224.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "AUTO POSTO PADDOCK CLUB",
 			"name": "AUTO POSTO PADDOCK CLUB",
 			"val": 14.547742913658368,
-			"desc": 417.73,
+			"desc": "417.73",
 			"group": "AUTO POSTO PADDOCK CLUB"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 27.320354334905243,
-			"desc": 719.63,
+			"desc": "719.63",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "POSTO DE GAS NATURAL LAMACAES LTDA",
 			"name": "POSTO DE GAS NATURAL LAMACAES LTDA",
 			"val": 6.993170044548988,
-			"desc": 223.94,
+			"desc": "223.94",
 			"group": "POSTO DE GAS NATURAL LAMACAES LTDA"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.2506632414356758,
-			"desc": 87.27000000000001,
+			"desc": "87.27",
 			"group": "RAMAL"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "AUTO POSTO VIA IGUACU LTDA",
 			"name": "AUTO POSTO VIA IGUACU LTDA",
 			"val": 8.38113386041896,
-			"desc": 261,
+			"desc": "261.00",
 			"group": "AUTO POSTO VIA IGUACU LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "TESSIER RESTAURANTE EIRELI EPP",
 			"name": "TESSIER RESTAURANTE EIRELI EPP",
 			"val": 3.253936361376744,
-			"desc": 118.16,
+			"desc": "118.16",
 			"group": "TESSIER RESTAURANTE EIRELI EPP"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI",
 			"name": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI",
 			"val": 27.320354334905243,
-			"desc": 719.63,
+			"desc": "719.63",
 			"group": "SEISELLES DISTRIBUICAO E LOGISTICA EIRELI"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
 			"name": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA",
 			"val": 22.788387380758763,
-			"desc": 614.95,
+			"desc": "614.95",
 			"group": "AUTO POSTO DE SERVIÇOS SHOPING MADUREIRA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "NOVO AUTO POSTO SANTA MONICA LTDA",
 			"name": "NOVO AUTO POSTO SANTA MONICA LTDA",
 			"val": 6.848334477528058,
-			"desc": 220.01999999999998,
+			"desc": "220.02",
 			"group": "NOVO AUTO POSTO SANTA MONICA LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA",
 			"name": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA",
 			"val": 3.422090742296588,
-			"desc": 123.19,
+			"desc": "123.19",
 			"group": "POSTO NOVA ESPERANCA DE NOVA IGUACU LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 35.329612288381334,
-			"desc": 900,
+			"desc": "900.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 12.99975070043388,
-			"desc": 379.34,
+			"desc": "379.34",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "AUTO POSTO DE SERVIÇOS VIA DUTRA",
 			"name": "AUTO POSTO DE SERVIÇOS VIA DUTRA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTO POSTO DE SERVIÇOS VIA DUTRA"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.0208430726676503,
-			"desc": 79.93,
+			"desc": "79.93",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"name": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"val": 8.948372645953071,
-			"desc": 275.91,
+			"desc": "275.91",
 			"group": "POSTO DE GASOLINA LORD BARRA SUL LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "RAIMUNDO E SANTOS COMERCIO DE PNEU",
 			"name": "RAIMUNDO E SANTOS COMERCIO DE PNEU",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "RAIMUNDO E SANTOS COMERCIO DE PNEU"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 7.62877377166475,
-			"desc": 241.02,
+			"desc": "241.02",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "AUTO POSTO DOM VITAL LTDA",
 			"name": "AUTO POSTO DOM VITAL LTDA",
 			"val": 7.292578391763512,
-			"desc": 232.01,
+			"desc": "232.01",
 			"group": "AUTO POSTO DOM VITAL LTDA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 18.58453824913424,
-			"desc": 515.65,
+			"desc": "515.65",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "agencia de turismo julitur LTDA-ME",
 			"name": "agencia de turismo julitur LTDA-ME",
 			"val": 197.13986186327546,
-			"desc": 4105.89,
+			"desc": "4105.89",
 			"group": "agencia de turismo julitur LTDA-ME"
 		},
 		{

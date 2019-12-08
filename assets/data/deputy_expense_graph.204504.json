@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CEZINHA DE MADUREIRA"
+			"name": "CEZINHA DE MADUREIRA",
+			"desc": "56127.34"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.97957203944654,
-			"desc": 548.87,
+			"desc": "548.87",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 608.9190410102368,
-			"desc": 11305.779999999999,
+			"desc": "11305.78",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 8.37469417127626,
-			"desc": 260.83,
+			"desc": "260.83",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -152,7 +153,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1015.4158430680379,
-			"desc": 17962.199999999997,
+			"desc": "17962.20",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"name": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"val": 0.14054608352735515,
-			"desc": 10.4,
+			"desc": "10.40",
 			"group": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
 			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ...",
 			"val": 1.1364289126307627,
-			"desc": 50.269999999999996,
+			"desc": "50.27",
 			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO ..."
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 0.7603681832332739,
-			"desc": 36.6,
+			"desc": "36.60",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 24.171802547247356,
-			"desc": 647.1400000000001,
+			"desc": "647.14",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 11.123623216249209,
-			"desc": 332.04,
+			"desc": "332.04",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"name": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA",
 			"val": 12.332437408183699,
-			"desc": 362.62,
+			"desc": "362.62",
 			"group": "SAO JOAO POSTOS DE ABASTECIMENTO E SERVICOS LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 21.944382889178172,
-			"desc": 595.2,
+			"desc": "595.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 2.6866773621987865,
-			"desc": 100.9,
+			"desc": "100.90",
 			"group": "SABESP"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 68.30442121331876,
-			"desc": 1603.8000000000002,
+			"desc": "1603.80",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 318.05263005452093,
-			"desc": 6300,
+			"desc": "6300.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.8310797298332333,
-			"desc": 105.34,
+			"desc": "105.34",
 			"group": "RAMAL"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "RICARDO DOMINGUEZ FEIJOO",
 			"name": "RICARDO DOMINGUEZ FEIJOO",
 			"val": 420.6720806421629,
-			"desc": 8100,
+			"desc": "8100.00",
 			"group": "RICARDO DOMINGUEZ FEIJOO"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 14.11294475438545,
-			"desc": 407,
+			"desc": "407.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 38.92385624421147,
-			"desc": 979.39,
+			"desc": "979.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 53.978494395762766,
-			"desc": 1303.99,
+			"desc": "1303.99",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 30.611228319952673,
-			"desc": 794.38,
+			"desc": "794.38",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "TUTOIA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "TUTOIA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 5.947475818545524,
-			"desc": 195.38,
+			"desc": "195.38",
 			"group": "TUTOIA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 6.104545766285597,
-			"desc": 199.71,
+			"desc": "199.71",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 52.974875491045786,
-			"desc": 1282.69,
+			"desc": "1282.69",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "REDE LK DE POSTOS LTDA",
 			"name": "REDE LK DE POSTOS LTDA",
 			"val": 3.1509146781660027,
-			"desc": 115.06,
+			"desc": "115.06",
 			"group": "REDE LK DE POSTOS LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 8.278175797052358,
-			"desc": 258.28,
+			"desc": "258.28",
 			"group": "CLARO S.A."
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.66307821647338,
-			"desc": 214.99,
+			"desc": "214.99",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "AUTO POSTO NOVO LUZ DA RADIAL LTDA",
 			"name": "AUTO POSTO NOVO LUZ DA RADIAL LTDA",
 			"val": 5.88849068762524,
-			"desc": 193.75,
+			"desc": "193.75",
 			"group": "AUTO POSTO NOVO LUZ DA RADIAL LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 40.77467461976075,
-			"desc": 1019.95,
+			"desc": "1019.95",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 4.238938956198138,
-			"desc": 147.16,
+			"desc": "147.16",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 7.726153732716583,
-			"desc": 243.62,
+			"desc": "243.62",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "AUTO POSTO RUDA LTDA",
 			"name": "AUTO POSTO RUDA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO RUDA LTDA"
 		},
 		{

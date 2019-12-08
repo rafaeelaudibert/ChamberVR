@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOÃO MARCELO SOUZA"
+			"name": "JOÃO MARCELO SOUZA",
+			"desc": "114994.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 283.65145978543615,
-			"desc": 5685.3,
+			"desc": "5685.30",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "TOSCANA EVENTOS GASTRONOMICOS LTDA",
 			"name": "TOSCANA EVENTOS GASTRONOMICOS LTDA",
 			"val": 2.5607661827686057,
-			"desc": 97,
+			"desc": "97.00",
 			"group": "TOSCANA EVENTOS GASTRONOMICOS LTDA"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "PEDRO IVO",
 			"name": "PEDRO IVO",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "PEDRO IVO"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 66.34158981767123,
-			"desc": 1563.15,
+			"desc": "1563.15",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "POSTO IPE LTDA ME",
 			"name": "POSTO IPE LTDA ME",
 			"val": 18.12153886438531,
-			"desc": 504.55999999999995,
+			"desc": "504.56",
 			"group": "POSTO IPE LTDA ME"
 		},
 		{
@@ -190,7 +191,7 @@
 			"id": "RESTAURANTE CHINABRAS LTDA",
 			"name": "RESTAURANTE CHINABRAS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "RESTAURANTE CHINABRAS LTDA"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "AUTO POSTO ALVORADA LTDA",
 			"name": "AUTO POSTO ALVORADA LTDA",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "AUTO POSTO ALVORADA LTDA"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "SENSEI COMERCIO DE ALIMENTOS LTDA ME",
 			"name": "SENSEI COMERCIO DE ALIMENTOS LTDA ME",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "SENSEI COMERCIO DE ALIMENTOS LTDA ME"
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 459.6644223196018,
-			"desc": 8772.99,
+			"desc": "8772.99",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "AUTO POSTO SAO FRANCISCO LTDA",
 			"name": "AUTO POSTO SAO FRANCISCO LTDA",
 			"val": 18.348898493696936,
-			"desc": 510.01,
+			"desc": "510.01",
 			"group": "AUTO POSTO SAO FRANCISCO LTDA"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.286368570648639,
-			"desc": 88.4,
+			"desc": "88.40",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 10.848759127194484,
-			"desc": 325.03,
+			"desc": "325.03",
 			"group": "CLARO S/A"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "POSSEIDON HOTEL LTDA",
 			"name": "POSSEIDON HOTEL LTDA",
 			"val": 9.334892809274477,
-			"desc": 286,
+			"desc": "286.00",
 			"group": "POSSEIDON HOTEL LTDA"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "HORUS SEGURANÇA",
 			"name": "HORUS SEGURANÇA",
 			"val": 1206.0805434250312,
-			"desc": 21000,
+			"desc": "21000.00",
 			"group": "HORUS SEGURANÇA"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "SMAFF COMBUSTIVEIS LTDA",
 			"name": "SMAFF COMBUSTIVEIS LTDA",
 			"val": 13.650772669259137,
-			"desc": 395.55,
+			"desc": "395.55",
 			"group": "SMAFF COMBUSTIVEIS LTDA"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "LIMONCELLO DELIVERY COMERCIO DE ALIMENTOS E BEBID",
 			"name": "LIMONCELLO DELIVERY COMERCIO DE ALIMENTOS E BEBID",
 			"val": 3.716045478002543,
-			"desc": 131.9,
+			"desc": "131.90",
 			"group": "LIMONCELLO DELIVERY COMERCIO DE ALIMENTOS E BEBID"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "Movida Locação de Veículos LTDA",
 			"name": "Movida Locação de Veículos LTDA",
 			"val": 677.4721344677716,
-			"desc": 12450,
+			"desc": "12450.00",
 			"group": "Movida Locação de Veículos LTDA"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 76.56165876765915,
-			"desc": 1773.51,
+			"desc": "1773.51",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 7.202991759114398,
-			"desc": 229.6,
+			"desc": "229.60",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 33.01766083424634,
-			"desc": 848.46,
+			"desc": "848.46",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 237.52911922005993,
-			"desc": 4850,
+			"desc": "4850.00",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "NICOLAU DERIVADOS DE PETROLEO(03)",
 			"name": "NICOLAU DERIVADOS DE PETROLEO(03)",
 			"val": 56.61807918384027,
-			"desc": 1359.8100000000002,
+			"desc": "1359.81",
 			"group": "NICOLAU DERIVADOS DE PETROLEO(03)"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "ESCUTEC",
 			"name": "ESCUTEC",
 			"val": 1269.4189994903459,
-			"desc": 22000,
+			"desc": "22000.00",
 			"group": "ESCUTEC"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 103.85963137208198,
-			"desc": 2322.18,
+			"desc": "2322.18",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA",
 			"name": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.4421480916699125,
-			"desc": 93.3,
+			"desc": "93.30",
 			"group": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "POSTO ICCAR LTDA",
 			"name": "POSTO ICCAR LTDA",
 			"val": 2.6578659408444105,
-			"desc": 100.01,
+			"desc": "100.01",
 			"group": "POSTO ICCAR LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "ALMEIDA MARANHAO EMPREENDIMENTOS HOTELEIROS LTDA",
 			"name": "ALMEIDA MARANHAO EMPREENDIMENTOS HOTELEIROS LTDA",
 			"val": 3.836819864839878,
-			"desc": 135.45,
+			"desc": "135.45",
 			"group": "ALMEIDA MARANHAO EMPREENDIMENTOS HOTELEIROS LTDA"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "M DO S PINHEIRO FIALHO - ME",
 			"name": "M DO S PINHEIRO FIALHO - ME",
 			"val": 4.826554115029463,
-			"desc": 164,
+			"desc": "164.00",
 			"group": "M DO S PINHEIRO FIALHO - ME"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.1180767249935197,
-			"desc": 83.05,
+			"desc": "83.05",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"name": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"val": 2.018359028506124,
-			"desc": 79.85,
+			"desc": "79.85",
 			"group": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "ROMA TRUCK CENTER LTDA",
 			"name": "ROMA TRUCK CENTER LTDA",
 			"val": 7.348783145733983,
-			"desc": 233.52,
+			"desc": "233.52",
 			"group": "ROMA TRUCK CENTER LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.075937712333291,
-			"desc": 171.06,
+			"desc": "171.06",
 			"group": "RAMAL"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "POSTO 109 SUL DERIV DE PET LTDA",
 			"name": "POSTO 109 SUL DERIV DE PET LTDA",
 			"val": 7.100574036079416,
-			"desc": 226.84,
+			"desc": "226.84",
 			"group": "POSTO 109 SUL DERIV DE PET LTDA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "DIMENSAO DISTRIBUIDORA LTDA",
 			"name": "DIMENSAO DISTRIBUIDORA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DIMENSAO DISTRIBUIDORA LTDA"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 28.14705344319919,
-			"desc": 738.5,
+			"desc": "738.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.04795014384051631,
-			"desc": 5.1,
+			"desc": "5.10",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 11.003141457471228,
-			"desc": 328.97,
+			"desc": "328.97",
 			"group": "NET CLARO"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "MARINOX COMERCIO LTDA ME",
 			"name": "MARINOX COMERCIO LTDA ME",
 			"val": 3.66856693020948,
-			"desc": 130.5,
+			"desc": "130.50",
 			"group": "MARINOX COMERCIO LTDA ME"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.774807063234027,
-			"desc": 71.93,
+			"desc": "71.93",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "MARINOX - COMERCIO LTDA",
 			"name": "MARINOX - COMERCIO LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "MARINOX - COMERCIO LTDA"
 		},
 		{
@@ -881,7 +882,7 @@
 			"id": "V.G.KERLLER",
 			"name": "V.G.KERLLER",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "V.G.KERLLER"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"name": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"val": 0.889530147648541,
-			"desc": 41.4,
+			"desc": "41.40",
 			"group": "MARIETTA COM. DE ALIMENTOS LTDA"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "POSTO MAGNOLIA LTDA",
 			"name": "POSTO MAGNOLIA LTDA",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "POSTO MAGNOLIA LTDA"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "RESTAURANTE ESTRELA DO MARANHAO LTDA",
 			"name": "RESTAURANTE ESTRELA DO MARANHAO LTDA",
 			"val": 9.797248876390897,
-			"desc": 298,
+			"desc": "298.00",
 			"group": "RESTAURANTE ESTRELA DO MARANHAO LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "Duvel Distribuidora de Veículos e Peças Ltda",
 			"name": "Duvel Distribuidora de Veículos e Peças Ltda",
 			"val": 391.91022457783663,
-			"desc": 7600,
+			"desc": "7600.00",
 			"group": "Duvel Distribuidora de Veículos e Peças Ltda"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DAVID MIRANDA"
+			"name": "DAVID MIRANDA",
+			"desc": "117232.12"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 2490.846039619833,
-			"desc": 40669.13999999999,
+			"desc": "40669.14",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 953.4205948241625,
-			"desc": 16964.5,
+			"desc": "16964.50",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP CULLINAN",
 			"name": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP CULLINAN",
 			"val": 47.280806127240304,
-			"desc": 1160.99,
+			"desc": "1160.99",
 			"group": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP CULLINAN"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.351271532886868,
-			"desc": 178.8,
+			"desc": "178.80",
 			"group": "RAMAL"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 3.197381682051419,
-			"desc": 116.46000000000001,
+			"desc": "116.46",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "COLOR SET INDUSTRIA GRAFICA LTDA",
 			"name": "COLOR SET INDUSTRIA GRAFICA LTDA",
 			"val": 400.5193984465178,
-			"desc": 7750,
+			"desc": "7750.00",
 			"group": "COLOR SET INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "Luiz Guilherme do Prado Silva",
 			"name": "Luiz Guilherme do Prado Silva",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "Luiz Guilherme do Prado Silva"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 69.03942181936519,
-			"desc": 1618.99,
+			"desc": "1618.99",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 5.645077055995952,
-			"desc": 187,
+			"desc": "187.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "Empresa Folha da Manhã S.A.",
 			"name": "Empresa Folha da Manhã S.A.",
 			"val": 50.96488954565166,
-			"desc": 1239.9,
+			"desc": "1239.90",
 			"group": "Empresa Folha da Manhã S.A."
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.7891249926199162,
-			"desc": 72.4,
+			"desc": "72.40",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "Bella Center Comercio de Ferragens Ltda",
 			"name": "Bella Center Comercio de Ferragens Ltda",
 			"val": 43.5249317329919,
-			"desc": 1079.85,
+			"desc": "1079.85",
 			"group": "Bella Center Comercio de Ferragens Ltda"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 0.2937375150262641,
-			"desc": 17.71,
+			"desc": "17.71",
 			"group": "99 POP"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "IGAB Administradora de Bens Ltda.",
 			"name": "IGAB Administradora de Bens Ltda.",
 			"val": 562.3405061261365,
-			"desc": 10521.96,
+			"desc": "10521.96",
 			"group": "IGAB Administradora de Bens Ltda."
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 94.95281737987968,
-			"desc": 2145,
+			"desc": "2145.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "UNITAXI DF",
 			"name": "UNITAXI DF",
 			"val": 0.27794747320502305,
-			"desc": 17,
+			"desc": "17.00",
 			"group": "UNITAXI DF"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.2877131306977536,
-			"desc": 17.44,
+			"desc": "17.44",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "LUIZ GUILHERME DO PRADO SILVA 15932330783",
 			"name": "LUIZ GUILHERME DO PRADO SILVA 15932330783",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "LUIZ GUILHERME DO PRADO SILVA 15932330783"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "Marivalda Triscila Oliveira dos Santos",
 			"name": "Marivalda Triscila Oliveira dos Santos",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "Marivalda Triscila Oliveira dos Santos"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "EDG EDITORA GRÁFICA",
 			"name": "EDG EDITORA GRÁFICA",
 			"val": 84.01194902461611,
-			"desc": 1925,
+			"desc": "1925.00",
 			"group": "EDG EDITORA GRÁFICA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "Paulo",
 			"name": "Paulo",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "Paulo"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 74.8497763511842,
-			"desc": 1738.49,
+			"desc": "1738.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.884353834544092,
-			"desc": 41.21,
+			"desc": "41.21",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "APEL GRAFICA E EDITORA LTDA",
 			"name": "APEL GRAFICA E EDITORA LTDA",
 			"val": 234.79331885752092,
-			"desc": 4800,
+			"desc": "4800.00",
 			"group": "APEL GRAFICA E EDITORA LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 7.321976477357082,
-			"desc": 232.8,
+			"desc": "232.80",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "MFPRINT COMERCIO E LOCACAO DE IMPRESSORAS EIRELI - ME",
 			"name": "MFPRINT COMERCIO E LOCACAO DE IMPRESSORAS EIRELI - ME",
 			"val": 32.02376894971044,
-			"desc": 826.18,
+			"desc": "826.18",
 			"group": "MFPRINT COMERCIO E LOCACAO DE IMPRESSORAS EIRELI - ME"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.4760982205233222,
-			"desc": 25.48,
+			"desc": "25.48",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"name": "AUTO POSTO ATERRO DO FLAMENGO LTDA",
 			"val": 8.410309859767253,
-			"desc": 261.77,
+			"desc": "261.77",
 			"group": "AUTO POSTO ATERRO DO FLAMENGO LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "Evelyn Melo & Samara Castro Advogadas",
 			"name": "Evelyn Melo & Samara Castro Advogadas",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "Evelyn Melo & Samara Castro Advogadas"
 		},
 		{

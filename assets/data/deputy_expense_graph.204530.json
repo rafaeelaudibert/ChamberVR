@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RODRIGO AGOSTINHO"
+			"name": "RODRIGO AGOSTINHO",
+			"desc": "22032.39"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "ELEFANTINHO PREMIUM LTDA",
 			"name": "ELEFANTINHO PREMIUM LTDA",
 			"val": 1.3266982787123636,
-			"desc": 56.89,
+			"desc": "56.89",
 			"group": "ELEFANTINHO PREMIUM LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CONC. RODOVIAS DO TIETÊ",
 			"name": "CONC. RODOVIAS DO TIETÊ",
 			"val": 1.0163353999144906,
-			"desc": 46.00000000000001,
+			"desc": "46.00",
 			"group": "CONC. RODOVIAS DO TIETÊ"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 2.381563098318411,
-			"desc": 91.4,
+			"desc": "91.40",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "RODOPOSTO BANDEIRANTES SUL LTDA",
 			"name": "RODOPOSTO BANDEIRANTES SUL LTDA",
 			"val": 3.628278275229842,
-			"desc": 129.31,
+			"desc": "129.31",
 			"group": "RODOPOSTO BANDEIRANTES SUL LTDA"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "AUTO POSTO ALAMEDA LTDA",
 			"name": "AUTO POSTO ALAMEDA LTDA",
 			"val": 6.96949618864324,
-			"desc": 223.29999999999998,
+			"desc": "223.30",
 			"group": "AUTO POSTO ALAMEDA LTDA"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "POSTO ARAUJO LEITE LTDA",
 			"name": "POSTO ARAUJO LEITE LTDA",
 			"val": 2.8206356836557203,
-			"desc": 105.02,
+			"desc": "105.02",
 			"group": "POSTO ARAUJO LEITE LTDA"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "Concessionária Auto Raposo Tavares S/A",
 			"name": "Concessionária Auto Raposo Tavares S/A",
 			"val": 0.1640728545711457,
-			"desc": 11.6,
+			"desc": "11.60",
 			"group": "Concessionária Auto Raposo Tavares S/A"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "POSTO NOSSA SENHORA DE FATIMA BAURU LTDA",
 			"name": "POSTO NOSSA SENHORA DE FATIMA BAURU LTDA",
 			"val": 5.573940213140641,
-			"desc": 185.02,
+			"desc": "185.02",
 			"group": "POSTO NOSSA SENHORA DE FATIMA BAURU LTDA"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "AUTO POSTO AEROPORTO BAURU LTDA",
 			"name": "AUTO POSTO AEROPORTO BAURU LTDA",
 			"val": 11.95010016709974,
-			"desc": 352.99,
+			"desc": "352.99",
 			"group": "AUTO POSTO AEROPORTO BAURU LTDA"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 68.1559733050209,
-			"desc": 1600.73,
+			"desc": "1600.73",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 628.8038148801554,
-			"desc": 11638.78,
+			"desc": "11638.78",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 8.210888206012838,
-			"desc": 256.5,
+			"desc": "256.50",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 66.49106394572078,
-			"desc": 1566.25,
+			"desc": "1566.25",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "PANDORA AUTOPOSTO LTDA.",
 			"name": "PANDORA AUTOPOSTO LTDA.",
 			"val": 3.0233113725415173,
-			"desc": 111.2,
+			"desc": "111.20",
 			"group": "PANDORA AUTOPOSTO LTDA."
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "CENTROVIAS S. RODOV. S/A",
 			"name": "CENTROVIAS S. RODOV. S/A",
 			"val": 2.5157861638869115,
-			"desc": 95.60000000000002,
+			"desc": "95.60",
 			"group": "CENTROVIAS S. RODOV. S/A"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 37.94940592501358,
-			"desc": 957.95,
+			"desc": "957.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 5.612727052105879,
-			"desc": 186.1,
+			"desc": "186.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "MC CARTUCHOS",
 			"name": "MC CARTUCHOS",
 			"val": 2.8804379799879443,
-			"desc": 106.85,
+			"desc": "106.85",
 			"group": "MC CARTUCHOS"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "E A TUSCHI COMBUSTIVEIS",
 			"name": "E A TUSCHI COMBUSTIVEIS",
 			"val": 7.478528599955549,
-			"desc": 237,
+			"desc": "237.00",
 			"group": "E A TUSCHI COMBUSTIVEIS"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.4843617641252935,
-			"desc": 210.12,
+			"desc": "210.12",
 			"group": "RAMAL"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "VIARONDON CONCESSIONARIA DE RODOVIA S/A",
 			"name": "VIARONDON CONCESSIONARIA DE RODOVIA S/A",
 			"val": 0.49869241218414717,
-			"desc": 26.4,
+			"desc": "26.40",
 			"group": "VIARONDON CONCESSIONARIA DE RODOVIA S/A"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.5484402411965275,
-			"desc": 28.4,
+			"desc": "28.40",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "AUTO POSTO FINO TRATO LTDA",
 			"name": "AUTO POSTO FINO TRATO LTDA",
 			"val": 11.770768674806337,
-			"desc": 348.46000000000004,
+			"desc": "348.46",
 			"group": "AUTO POSTO FINO TRATO LTDA"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "KALUNGA COM. E IND. GRÁFICA LTDA.",
 			"name": "KALUNGA COM. E IND. GRÁFICA LTDA.",
 			"val": 1.3473784872702605,
-			"desc": 57.6,
+			"desc": "57.60",
 			"group": "KALUNGA COM. E IND. GRÁFICA LTDA."
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"name": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"val": 2.197735630467938,
-			"desc": 85.59,
+			"desc": "85.59",
 			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "POSTO BAURU 10 LTDA",
 			"name": "POSTO BAURU 10 LTDA",
 			"val": 5.279224454265124,
-			"desc": 176.78,
+			"desc": "176.78",
 			"group": "POSTO BAURU 10 LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "ESTALEIRO CONSTRUÇÃO NAVAL AREALVA LTDA - ME",
 			"name": "ESTALEIRO CONSTRUÇÃO NAVAL AREALVA LTDA - ME",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "ESTALEIRO CONSTRUÇÃO NAVAL AREALVA LTDA - ME"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "GROENLANDIA AUTO POSTO LT",
 			"name": "GROENLANDIA AUTO POSTO LT",
 			"val": 4.695851771657102,
-			"desc": 160.28,
+			"desc": "160.28",
 			"group": "GROENLANDIA AUTO POSTO LT"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "CONCESSIONARIA AUTO RAPOSO TAVARES S.A.",
 			"name": "CONCESSIONARIA AUTO RAPOSO TAVARES S.A.",
 			"val": 0.20902011917637256,
-			"desc": 13.8,
+			"desc": "13.80",
 			"group": "CONCESSIONARIA AUTO RAPOSO TAVARES S.A."
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "DEPARTAMENTO DE AGUA E ESGOTO DE BAURU",
 			"name": "DEPARTAMENTO DE AGUA E ESGOTO DE BAURU",
 			"val": 5.580043141771468,
-			"desc": 185.19,
+			"desc": "185.19",
 			"group": "DEPARTAMENTO DE AGUA E ESGOTO DE BAURU"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "MAKRO ATACADISTA S A",
 			"name": "MAKRO ATACADISTA S A",
 			"val": 2.8693133971118536,
-			"desc": 106.51,
+			"desc": "106.51",
 			"group": "MAKRO ATACADISTA S A"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "RODOPOSTO MARISTELA LTDA.",
 			"name": "RODOPOSTO MARISTELA LTDA.",
 			"val": 6.188926999701349,
-			"desc": 202.03,
+			"desc": "202.03",
 			"group": "RODOPOSTO MARISTELA LTDA."
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 16.273232551897905,
-			"desc": 459.94,
+			"desc": "459.94",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "POSTO FRANCESCHETTI LTDA",
 			"name": "POSTO FRANCESCHETTI LTDA",
 			"val": 3.9239055001415495,
-			"desc": 138,
+			"desc": "138.00",
 			"group": "POSTO FRANCESCHETTI LTDA"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 72.8458842720788,
-			"desc": 1697.39,
+			"desc": "1697.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 2.413421821837006,
-			"desc": 92.4,
+			"desc": "92.40",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "AUTO POSTO PETRO-NUNO LTDA.",
 			"name": "AUTO POSTO PETRO-NUNO LTDA.",
 			"val": 1.566114238340389,
-			"desc": 65.01,
+			"desc": "65.01",
 			"group": "AUTO POSTO PETRO-NUNO LTDA."
 		},
 		{

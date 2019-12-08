@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DR. JAZIEL"
+			"name": "DR. JAZIEL",
+			"desc": "66192.68"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 981.1338941958218,
-			"desc": 17411.149999999998,
+			"desc": "17411.15",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -126,7 +127,7 @@
 			"id": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
 			"name": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
 			"val": 28.22561937974777,
-			"desc": 740.29,
+			"desc": "740.29",
 			"group": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 27.51417991316252,
-			"desc": 724.06,
+			"desc": "724.06",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 17.593883730382743,
-			"desc": 491.88000000000005,
+			"desc": "491.88",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "L C M DINIZ SERVICOS",
 			"name": "L C M DINIZ SERVICOS",
 			"val": 443.8104022810225,
-			"desc": 8500,
+			"desc": "8500.00",
 			"group": "L C M DINIZ SERVICOS"
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI",
 			"name": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI",
 			"val": 0.7023567243905076,
-			"desc": 34.4,
+			"desc": "34.40",
 			"group": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS EIRELI"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
 			"name": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA",
 			"val": 188.72927942332714,
-			"desc": 3949.1899999999996,
+			"desc": "3949.19",
 			"group": "SOUZA COMERCIO DE PETROLEO E SERVICOS LTDA"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 4.619838103113603,
-			"desc": 158.11,
+			"desc": "158.11",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "BRASIL 21 EVENTOS E HOTELARIA LTDA",
 			"name": "BRASIL 21 EVENTOS E HOTELARIA LTDA",
 			"val": 28.854600926302822,
-			"desc": 754.6,
+			"desc": "754.60",
 			"group": "BRASIL 21 EVENTOS E HOTELARIA LTDA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "HDCN COMERCIO DE ALIMENTOS LTDA",
 			"name": "HDCN COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.440156400069231,
-			"desc": 24,
+			"desc": "24.00",
 			"group": "HDCN COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "J C COMERCIO DE COMBUSTIVÉL LTDA",
 			"name": "J C COMERCIO DE COMBUSTIVÉL LTDA",
 			"val": 10.54199492960264,
-			"desc": 317.18,
+			"desc": "317.18",
 			"group": "J C COMERCIO DE COMBUSTIVÉL LTDA"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMERCIO DE COMBUSTIVEIS GERALDO CRUZ LTDA"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
 			"name": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "IGUACU NOVO BAR E RESTAURANTE",
 			"name": "IGUACU NOVO BAR E RESTAURANTE",
 			"val": 0.21111392156768968,
-			"desc": 13.9,
+			"desc": "13.90",
 			"group": "IGUACU NOVO BAR E RESTAURANTE"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 189.85650772475466,
-			"desc": 3970.23,
+			"desc": "3970.23",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "BECA COMERCIO DE ALIMENTOS LTDA.",
 			"name": "BECA COMERCIO DE ALIMENTOS LTDA.",
 			"val": 0.6490307786394058,
-			"desc": 32.35,
+			"desc": "32.35",
 			"group": "BECA COMERCIO DE ALIMENTOS LTDA."
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.3900704453089298,
-			"desc": 21.9,
+			"desc": "21.90",
 			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "ANTONIO ARNALDO SALES PROTASIO",
 			"name": "ANTONIO ARNALDO SALES PROTASIO",
 			"val": 6.262886758854283,
-			"desc": 204.06,
+			"desc": "204.06",
 			"group": "ANTONIO ARNALDO SALES PROTASIO"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 14.225035334415098,
-			"desc": 409.77,
+			"desc": "409.77",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "JF e FILHOS RESTAURANTE LTDA",
 			"name": "JF e FILHOS RESTAURANTE LTDA",
 			"val": 1.3339742422183063,
-			"desc": 57.14,
+			"desc": "57.14",
 			"group": "JF e FILHOS RESTAURANTE LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 376.7426538914525,
-			"desc": 7335,
+			"desc": "7335.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "POSTO BRASIL LTDA",
 			"name": "POSTO BRASIL LTDA",
 			"val": 3.349398741041111,
-			"desc": 121.02,
+			"desc": "121.02",
 			"group": "POSTO BRASIL LTDA"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.053488811581129,
-			"desc": 80.97999999999999,
+			"desc": "80.98",
 			"group": "RAMAL"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "JOÃO CLEMENTE POMPEU",
 			"name": "JOÃO CLEMENTE POMPEU",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "JOÃO CLEMENTE POMPEU"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 7.505409447182857,
-			"desc": 237.72,
+			"desc": "237.72",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA",
 			"name": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA",
 			"val": 0.7550621689973303,
-			"desc": 36.4,
+			"desc": "36.40",
 			"group": "DF CINCO ESTRELAS COMERCIAL DE ALIMENTOS LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 15.32520959379718,
-			"desc": 436.82000000000005,
+			"desc": "436.82",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 84.768323248723,
-			"desc": 1940.3,
+			"desc": "1940.30",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "Empada Conic",
 			"name": "Empada Conic",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "Empada Conic"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "MB ESTACIONAMENTOS LTDA",
 			"name": "MB ESTACIONAMENTOS LTDA",
 			"val": 0.04795014384051631,
-			"desc": 5.1,
+			"desc": "5.10",
 			"group": "MB ESTACIONAMENTOS LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "DL CONFEITARIA E COMERCIO LTDA",
 			"name": "DL CONFEITARIA E COMERCIO LTDA",
 			"val": 0.9094646933379146,
-			"desc": 42.13,
+			"desc": "42.13",
 			"group": "DL CONFEITARIA E COMERCIO LTDA"
 		},
 		{

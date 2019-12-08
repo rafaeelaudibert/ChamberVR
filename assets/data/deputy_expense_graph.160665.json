@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AUGUSTO COUTINHO"
+			"name": "AUGUSTO COUTINHO",
+			"desc": "54719.70"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 337.79143070321186,
-			"desc": 6649.900000000001,
+			"desc": "6649.90",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -84,7 +85,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 49.59627549024034,
-			"desc": 1210.6599999999999,
+			"desc": "1210.66",
 			"group": "NET CLARO"
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "PREFEITURA DA CIDADE DO RECIFE",
 			"name": "PREFEITURA DA CIDADE DO RECIFE",
 			"val": 45.75011899213489,
-			"desc": 1128.01,
+			"desc": "1128.01",
 			"group": "PREFEITURA DA CIDADE DO RECIFE"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 211.3528724937755,
-			"desc": 4369.26,
+			"desc": "4369.26",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -159,7 +160,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 11.503395972417566,
-			"desc": 341.68999999999994,
+			"desc": "341.69",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "K2HOST INTERNET LTDA",
 			"name": "K2HOST INTERNET LTDA",
 			"val": 5.173180825843677,
-			"desc": 173.8,
+			"desc": "173.80",
 			"group": "K2HOST INTERNET LTDA"
 		},
 		{
@@ -251,7 +252,7 @@
 			"id": "PETROVEL- PETROLEO VELOSO LTDA",
 			"name": "PETROVEL- PETROLEO VELOSO LTDA",
 			"val": 9.470221438144478,
-			"desc": 289.52,
+			"desc": "289.52",
 			"group": "PETROVEL- PETROLEO VELOSO LTDA"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 61.50436611926788,
-			"desc": 1462.42,
+			"desc": "1462.42",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
 			"name": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
 			"val": 170.64772744049097,
-			"desc": 3609.98,
+			"desc": "3609.98",
 			"group": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 33.43397738164498,
-			"desc": 857.77,
+			"desc": "857.77",
 			"group": "CLARO S/A"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 49.09599541764527,
-			"desc": 1199.95,
+			"desc": "1199.95",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "ALBUQUERQUE PNEUS LTDA.",
 			"name": "ALBUQUERQUE PNEUS LTDA.",
 			"val": 8.921635677440545,
-			"desc": 275.21,
+			"desc": "275.21",
 			"group": "ALBUQUERQUE PNEUS LTDA."
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457",
 			"name": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "ANTONIO CARLOS DE SOUZA DA SILVA 05486448457"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.7766338996213646,
-			"desc": 71.99,
+			"desc": "71.99",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "Companhia Energética de Pernambuco",
 			"name": "Companhia Energética de Pernambuco",
 			"val": 142.16426481469247,
-			"desc": 3068.32,
+			"desc": "3068.32",
 			"group": "Companhia Energética de Pernambuco"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "DERYO MIKAEL ARAUJO FERREIRA-ME",
 			"name": "DERYO MIKAEL ARAUJO FERREIRA-ME",
 			"val": 1.5897321266727615,
-			"desc": 65.8,
+			"desc": "65.80",
 			"group": "DERYO MIKAEL ARAUJO FERREIRA-ME"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 3.200372181555389,
-			"desc": 116.55,
+			"desc": "116.55",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "POSTO SUL LTDA",
 			"name": "POSTO SUL LTDA",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "POSTO SUL LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "RUPLAST INDUSTRIA E COMERCIO LTDA",
 			"name": "RUPLAST INDUSTRIA E COMERCIO LTDA",
 			"val": 280.3402104215403,
-			"desc": 5625.780000000001,
+			"desc": "5625.78",
 			"group": "RUPLAST INDUSTRIA E COMERCIO LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
 			"name": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
 			"val": 9.127390431836119,
-			"desc": 280.59,
+			"desc": "280.59",
 			"group": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 29.268622498477253,
-			"desc": 764,
+			"desc": "764.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 35.87714819388772,
-			"desc": 912.15,
+			"desc": "912.15",
 			"group": "Claro S.A"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "LEANX DO BRASIL",
 			"name": "LEANX DO BRASIL",
 			"val": 128.25356445252208,
-			"desc": 2800,
+			"desc": "2800.00",
 			"group": "LEANX DO BRASIL"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME",
 			"name": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "ANTONIO CARLOS DE SOUZA DA SILVA INFORMÁTICA ME"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "DEIVY JAROSLAVSKY RUSHANSKY",
 			"name": "DEIVY JAROSLAVSKY RUSHANSKY",
 			"val": 489.44177583581995,
-			"desc": 9283.48,
+			"desc": "9283.48",
 			"group": "DEIVY JAROSLAVSKY RUSHANSKY"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 1.6512727535182468,
-			"desc": 67.85,
+			"desc": "67.85",
 			"group": "CLARO S.A."
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 14.176462929205154,
-			"desc": 408.57,
+			"desc": "408.57",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR",
 			"name": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR",
 			"val": 14.135192374022115,
-			"desc": 407.55,
+			"desc": "407.55",
 			"group": "JOSE SIZENANDO HENRIQUES LYRA JUNIOR"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 9.194063604562297,
-			"desc": 282.33,
+			"desc": "282.33",
 			"group": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 8.913616589253225,
-			"desc": 275,
+			"desc": "275.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "POSTO LUPP LTDA",
 			"name": "POSTO LUPP LTDA",
 			"val": 96.02474184372753,
-			"desc": 2166.41,
+			"desc": "2166.41",
 			"group": "POSTO LUPP LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.71777567381477,
-			"desc": 189.01999999999998,
+			"desc": "189.02",
 			"group": "RAMAL"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
 			"name": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 10.509235127932056,
-			"desc": 316.34,
+			"desc": "316.34",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.05963341701788738,
-			"desc": 5.85,
+			"desc": "5.85",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "HS BEZZATO UTILIDADES DO LAR LTDAME",
 			"name": "HS BEZZATO UTILIDADES DO LAR LTDAME",
 			"val": 1.3211727850564436,
-			"desc": 56.7,
+			"desc": "56.70",
 			"group": "HS BEZZATO UTILIDADES DO LAR LTDAME"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "MAG PAPELARIA 02 LTDA",
 			"name": "MAG PAPELARIA 02 LTDA",
 			"val": 3.835115055777223,
-			"desc": 135.4,
+			"desc": "135.40",
 			"group": "MAG PAPELARIA 02 LTDA"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "W3 LOCADORA DE VEÍCULOS LTDA-ME",
 			"name": "W3 LOCADORA DE VEÍCULOS LTDA-ME",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "W3 LOCADORA DE VEÍCULOS LTDA-ME"
 		},
 		{

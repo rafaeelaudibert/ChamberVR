@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "TALÍRIA PETRONE"
+			"name": "TALÍRIA PETRONE",
+			"desc": "137882.11"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 769.4481747705594,
-			"desc": 13969.64,
+			"desc": "13969.64",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -132,7 +133,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2975.9666015042235,
-			"desc": 47856.14999999998,
+			"desc": "47856.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "Cruz & Advocados Associados",
 			"name": "Cruz & Advocados Associados",
 			"val": 1331.7791143409297,
-			"desc": 22980.53,
+			"desc": "22980.53",
 			"group": "Cruz & Advocados Associados"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 54.032737817055526,
-			"desc": 1305.14,
+			"desc": "1305.14",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA.",
 			"name": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA.",
 			"val": 7.3230931655861315,
-			"desc": 232.83,
+			"desc": "232.83",
 			"group": "CENTRO AUTOMOTIVO PACO DE SOUZA LTDA."
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "POSTO DE GASOLINA KING KONG",
 			"name": "POSTO DE GASOLINA KING KONG",
 			"val": 9.170682611990356,
-			"desc": 281.72,
+			"desc": "281.72",
 			"group": "POSTO DE GASOLINA KING KONG"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "LIGHT S.A",
 			"name": "LIGHT S.A",
 			"val": 35.126610776489414,
-			"desc": 895.49,
+			"desc": "895.49",
 			"group": "LIGHT S.A"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 167.11182399236603,
-			"desc": 3543.25,
+			"desc": "3543.25",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "MUNDIVOX COMUNICACOES LTDA",
 			"name": "MUNDIVOX COMUNICACOES LTDA",
 			"val": 51.751631679816114,
-			"desc": 1256.67,
+			"desc": "1256.67",
 			"group": "MUNDIVOX COMUNICACOES LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.500736224404363,
-			"desc": 154.70000000000002,
+			"desc": "154.70",
 			"group": "RAMAL"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 53.79033872116224,
-			"desc": 1300,
+			"desc": "1300.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "POSTO RESTAURANTE E LANCHONE FR BRANCO",
 			"name": "POSTO RESTAURANTE E LANCHONE FR BRANCO",
 			"val": 7.682312831514996,
-			"desc": 242.45,
+			"desc": "242.45",
 			"group": "POSTO RESTAURANTE E LANCHONE FR BRANCO"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 24.239084514667905,
-			"desc": 648.7,
+			"desc": "648.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "DANIELA OROFINO POUBEL 10302666702",
 			"name": "DANIELA OROFINO POUBEL 10302666702",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "DANIELA OROFINO POUBEL 10302666702"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "LOGICA TECNOLOGIA EIRELI",
 			"name": "LOGICA TECNOLOGIA EIRELI",
 			"val": 172.77173893035922,
-			"desc": 3650,
+			"desc": "3650.00",
 			"group": "LOGICA TECNOLOGIA EIRELI"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 29.753079492186924,
-			"desc": 774.98,
+			"desc": "774.98",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "BATALHA 1000 POSTO E SERVICOS LTDA",
 			"name": "BATALHA 1000 POSTO E SERVICOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BATALHA 1000 POSTO E SERVICOS LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "POSTO SUPER BRASIL LTDA",
 			"name": "POSTO SUPER BRASIL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO SUPER BRASIL LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "CORDEIRO BARROSO PETROLEO LTDA",
 			"name": "CORDEIRO BARROSO PETROLEO LTDA",
 			"val": 6.738867352255744,
-			"desc": 217.05,
+			"desc": "217.05",
 			"group": "CORDEIRO BARROSO PETROLEO LTDA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR",
 			"val": 22.887345254815465,
-			"desc": 617.26,
+			"desc": "617.26",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "POSTO DE GASOLINA SANTA ROSA DE ICARAI LTDA",
 			"name": "POSTO DE GASOLINA SANTA ROSA DE ICARAI LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE GASOLINA SANTA ROSA DE ICARAI LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "POSTO DE SERVIÇOS BRASIL LTDA.",
 			"name": "POSTO DE SERVIÇOS BRASIL LTDA.",
 			"val": 31.545010426704863,
-			"desc": 815.4200000000001,
+			"desc": "815.42",
 			"group": "POSTO DE SERVIÇOS BRASIL LTDA."
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "BSZA COMUNICAÇÃO VISUAL",
 			"name": "BSZA COMUNICAÇÃO VISUAL",
 			"val": 740.91627648858,
-			"desc": 13500,
+			"desc": "13500.00",
 			"group": "BSZA COMUNICAÇÃO VISUAL"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "DANIELLE FERREIRA DE ASSIS",
 			"name": "DANIELLE FERREIRA DE ASSIS",
 			"val": 686.5052601090418,
-			"desc": 12600,
+			"desc": "12600.00",
 			"group": "DANIELLE FERREIRA DE ASSIS"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "AUTO POSTO MARALEGRE LTDA",
 			"name": "AUTO POSTO MARALEGRE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO MARALEGRE LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "TIRADENTES POSTO DE GASOLINA E SERVIÇOS",
 			"name": "TIRADENTES POSTO DE GASOLINA E SERVIÇOS",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "TIRADENTES POSTO DE GASOLINA E SERVIÇOS"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "CRUZ & ADVOGADOS ASSOCIADOS",
 			"name": "CRUZ & ADVOGADOS ASSOCIADOS",
 			"val": 434.54926809529195,
-			"desc": 8340.13,
+			"desc": "8340.13",
 			"group": "CRUZ & ADVOGADOS ASSOCIADOS"
 		},
 		{

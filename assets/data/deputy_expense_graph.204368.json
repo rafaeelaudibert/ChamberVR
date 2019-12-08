@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FABIO SCHIOCHET"
+			"name": "FABIO SCHIOCHET",
+			"desc": "93323.62"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1198.3370604199708,
-			"desc": 20877.449999999997,
+			"desc": "20877.45",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -204,7 +205,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 171.80176569826776,
-			"desc": 3631.73,
+			"desc": "3631.73",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "R&C Empreendimentos Alimenticios Ltda",
 			"name": "R&C Empreendimentos Alimenticios Ltda",
 			"val": 0.6143203424879725,
-			"desc": 31,
+			"desc": "31.00",
 			"group": "R&C Empreendimentos Alimenticios Ltda"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 3.0068384531867487,
-			"desc": 110.70000000000005,
+			"desc": "110.70",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -261,7 +262,7 @@
 			"id": "POSTO MAIOCHI",
 			"name": "POSTO MAIOCHI",
 			"val": 53.5070597522585,
-			"desc": 1293.9900000000002,
+			"desc": "1293.99",
 			"group": "POSTO MAIOCHI"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 25.512818519874735,
-			"desc": 678.14,
+			"desc": "678.14",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "LOBE, GAMBA & ADVOGADOS ASSOCIADOS",
 			"name": "LOBE, GAMBA & ADVOGADOS ASSOCIADOS",
 			"val": 1206.0805434250312,
-			"desc": 21000,
+			"desc": "21000.00",
 			"group": "LOBE, GAMBA & ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 144.79684352578215,
-			"desc": 3118.8,
+			"desc": "3118.80",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "SAMAE JARAGUÁ DO SUL",
 			"name": "SAMAE JARAGUÁ DO SUL",
 			"val": 6.187470843230939,
-			"desc": 201.99,
+			"desc": "201.99",
 			"group": "SAMAE JARAGUÁ DO SUL"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "RUDNICK E CIA LTDA",
 			"name": "RUDNICK E CIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "RUDNICK E CIA LTDA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 1030.2401804220651,
-			"desc": 18200,
+			"desc": "18200.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "Otavio Joaquim Baratto de Azevedo",
 			"name": "Otavio Joaquim Baratto de Azevedo",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "Otavio Joaquim Baratto de Azevedo"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "Papelaria e Presentes Vapt Vupt Ltda",
 			"name": "Papelaria e Presentes Vapt Vupt Ltda",
 			"val": 4.207491296465398,
-			"desc": 146.25,
+			"desc": "146.25",
 			"group": "Papelaria e Presentes Vapt Vupt Ltda"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 11.320591126401471,
-			"desc": 337.05,
+			"desc": "337.05",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "Município de Jaraguá do Sul",
 			"name": "Município de Jaraguá do Sul",
 			"val": 15.625844001841045,
-			"desc": 444.16999999999996,
+			"desc": "444.17",
 			"group": "Município de Jaraguá do Sul"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "ATRIO HOTEIS S.A",
 			"name": "ATRIO HOTEIS S.A",
 			"val": 10.784970703603237,
-			"desc": 323.4,
+			"desc": "323.40",
 			"group": "ATRIO HOTEIS S.A"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.10406855533914497,
-			"desc": 8.45,
+			"desc": "8.45",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "POSTOS FLEX BAEPENDI LTDA",
 			"name": "POSTOS FLEX BAEPENDI LTDA",
 			"val": 370.04295986906226,
-			"desc": 7217.64,
+			"desc": "7217.64",
 			"group": "POSTOS FLEX BAEPENDI LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "MCK EMPREENDIMENTOS TURÍSTICOS E HOTELEIROS LTDA",
 			"name": "MCK EMPREENDIMENTOS TURÍSTICOS E HOTELEIROS LTDA",
 			"val": 31.290835989653335,
-			"desc": 809.7,
+			"desc": "809.70",
 			"group": "MCK EMPREENDIMENTOS TURÍSTICOS E HOTELEIROS LTDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "CELESC Distribuição S.A.",
 			"name": "CELESC Distribuição S.A.",
 			"val": 41.79028629605969,
-			"desc": 1042.1200000000001,
+			"desc": "1042.12",
 			"group": "CELESC Distribuição S.A."
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 49.07685463796996,
-			"desc": 1199.54,
+			"desc": "1199.54",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 7.283278431103674,
-			"desc": 231.76,
+			"desc": "231.76",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "AUTO POSTO TRADIÇÃO LTDA",
 			"name": "AUTO POSTO TRADIÇÃO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO TRADIÇÃO LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.784856555444917,
-			"desc": 37.519999999999996,
+			"desc": "37.52",
 			"group": "RAMAL"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "FAST VEICULOS LTDA",
 			"name": "FAST VEICULOS LTDA",
 			"val": 128.25356445252208,
-			"desc": 2800,
+			"desc": "2800.00",
 			"group": "FAST VEICULOS LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 15.864806144190668,
-			"desc": 450,
+			"desc": "450.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP CULLINAN",
 			"name": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP CULLINAN",
 			"val": 53.65834183616395,
-			"desc": 1297.2,
+			"desc": "1297.20",
 			"group": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP CULLINAN"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "OKLAHOMA COM&Eacute;RCIO DE COMBUST&Iacute;VEIS LTDA",
 			"name": "OKLAHOMA COM&Eacute;RCIO DE COMBUST&Iacute;VEIS LTDA",
 			"val": 2.403857616143543,
-			"desc": 92.1,
+			"desc": "92.10",
 			"group": "OKLAHOMA COM&Eacute;RCIO DE COMBUST&Iacute;VEIS LTDA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.47316471040744,
-			"desc": 94.27,
+			"desc": "94.27",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "GRANDE PARADA SUL COM. DE COMBUSTÍVEIS LTDA",
 			"name": "GRANDE PARADA SUL COM. DE COMBUSTÍVEIS LTDA",
 			"val": 6.39981756401072,
-			"desc": 207.81,
+			"desc": "207.81",
 			"group": "GRANDE PARADA SUL COM. DE COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "A & L CHURRASCARIA E PIZZARIA LTDA",
 			"name": "A & L CHURRASCARIA E PIZZARIA LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "A & L CHURRASCARIA E PIZZARIA LTDA"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 1.640138667452986,
-			"desc": 67.48,
+			"desc": "67.48",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "L A ZAGO SERV DE HOTELARIA",
 			"name": "L A ZAGO SERV DE HOTELARIA",
 			"val": 4.930549230704767,
-			"desc": 166.95,
+			"desc": "166.95",
 			"group": "L A ZAGO SERV DE HOTELARIA"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "HOTEL ITAJARA LTDA.",
 			"name": "HOTEL ITAJARA LTDA.",
 			"val": 7.89056273990378,
-			"desc": 248,
+			"desc": "248.00",
 			"group": "HOTEL ITAJARA LTDA."
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.969000294391873,
-			"desc": 109.55,
+			"desc": "109.55",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.5556682864321558,
-			"desc": 64.66,
+			"desc": "64.66",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{

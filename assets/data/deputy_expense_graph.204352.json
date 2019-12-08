@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CAMILO CAPIBERIBE"
+			"name": "CAMILO CAPIBERIBE",
+			"desc": "79996.82"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 7.186280092631338,
-			"desc": 229.15,
+			"desc": "229.15",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -150,7 +151,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 4.772386450005798,
-			"desc": 162.45999999999998,
+			"desc": "162.46",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -205,7 +206,7 @@
 			"id": "D. F PRODUTOS DA AMAZONIA EIRELI - ME",
 			"name": "D. F PRODUTOS DA AMAZONIA EIRELI - ME",
 			"val": 182.88983954854683,
-			"desc": 3840,
+			"desc": "3840.00",
 			"group": "D. F PRODUTOS DA AMAZONIA EIRELI - ME"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 323.682718458233,
-			"desc": 6400,
+			"desc": "6400.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -249,7 +250,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 509.24911371655264,
-			"desc": 9621.51,
+			"desc": "9621.51",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 361.96619112719907,
-			"desc": 7075.900000000001,
+			"desc": "7075.90",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 15.90706962355026,
-			"desc": 451.03,
+			"desc": "451.03",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "AUTO POSTO SANTA LUIZA LTDA - EPP",
 			"name": "AUTO POSTO SANTA LUIZA LTDA - EPP",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTO POSTO SANTA LUIZA LTDA - EPP"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "VERDE AMARELO POSTO DE SERVICOS LTDA",
 			"name": "VERDE AMARELO POSTO DE SERVICOS LTDA",
 			"val": 4.690241259453296,
-			"desc": 160.12,
+			"desc": "160.12",
 			"group": "VERDE AMARELO POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.546930986662332,
-			"desc": 417.71000000000004,
+			"desc": "417.71",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 47.78464124793772,
-			"desc": 1171.8200000000002,
+			"desc": "1171.82",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"name": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"val": 0.6658600237553158,
-			"desc": 33,
+			"desc": "33.00",
 			"group": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "MACHADO & ANDRADE LTDA",
 			"name": "MACHADO & ANDRADE LTDA",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "MACHADO & ANDRADE LTDA"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 12.423177174481514,
-			"desc": 364.9,
+			"desc": "364.90",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "UNITAXI DF",
 			"name": "UNITAXI DF",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "UNITAXI DF"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 10.216534411284796,
-			"desc": 308.82,
+			"desc": "308.82",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.8121540385334733,
-			"desc": 104.76,
+			"desc": "104.76",
 			"group": "RAMAL"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.463104804813732,
-			"desc": 153.62,
+			"desc": "153.62",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "CAPITAL IMÓVEIS LTDA",
 			"name": "CAPITAL IMÓVEIS LTDA",
 			"val": 98.14613412431989,
-			"desc": 2208.71,
+			"desc": "2208.71",
 			"group": "CAPITAL IMÓVEIS LTDA"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "GIORDANO SANTANA DE CASTRO",
 			"name": "GIORDANO SANTANA DE CASTRO",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "GIORDANO SANTANA DE CASTRO"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 14.064015096971056,
-			"desc": 405.79,
+			"desc": "405.79",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 57.31352808647966,
-			"desc": 1374.47,
+			"desc": "1374.47",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "LOCACERTO",
 			"name": "LOCACERTO",
 			"val": 256.20993077057125,
-			"desc": 5190,
+			"desc": "5190.00",
 			"group": "LOCACERTO"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 3.016720644659447,
-			"desc": 111,
+			"desc": "111.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "R & R SANTOS LTDA - ME",
 			"name": "R & R SANTOS LTDA - ME",
 			"val": 110.84211518622976,
-			"desc": 2460,
+			"desc": "2460.00",
 			"group": "R & R SANTOS LTDA - ME"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "R.F.M E SILVA-ME",
 			"name": "R.F.M E SILVA-ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "R.F.M E SILVA-ME"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.5685703069943421,
-			"desc": 29.2,
+			"desc": "29.20",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "D . F PRODUTOS DA AMAZONIA EIRELI",
 			"name": "D . F PRODUTOS DA AMAZONIA EIRELI",
 			"val": 52.84827184582329,
-			"desc": 1280,
+			"desc": "1280.00",
 			"group": "D . F PRODUTOS DA AMAZONIA EIRELI"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "QUINTELA & SA SERVIÇOS LTDA",
 			"name": "QUINTELA & SA SERVIÇOS LTDA",
 			"val": 374.74347786071843,
-			"desc": 7300,
+			"desc": "7300.00",
 			"group": "QUINTELA & SA SERVIÇOS LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "G.S.R VIEIRA",
 			"name": "G.S.R VIEIRA",
 			"val": 608.2762606596706,
-			"desc": 11295,
+			"desc": "11295.00",
 			"group": "G.S.R VIEIRA"
 		},
 		{

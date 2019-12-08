@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ELIAS VAZ"
+			"name": "ELIAS VAZ",
+			"desc": "30162.72"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 17.32080939642091,
-			"desc": 485.2999999999999,
+			"desc": "485.30",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "POSTO CACIQUE LTDA",
 			"name": "POSTO CACIQUE LTDA",
 			"val": 140.42037003377988,
-			"desc": 3034.83,
+			"desc": "3034.83",
 			"group": "POSTO CACIQUE LTDA"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"val": 3.2399508218865076,
-			"desc": 117.74,
+			"desc": "117.74",
 			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "ADERBAL CRESTANI",
 			"name": "ADERBAL CRESTANI",
 			"val": 2.1478186540536637,
-			"desc": 84,
+			"desc": "84.00",
 			"group": "ADERBAL CRESTANI"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 51.43621582203401,
-			"desc": 1249.9499999999998,
+			"desc": "1249.95",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "Conex Midia Comunicação Eireli",
 			"name": "Conex Midia Comunicação Eireli",
 			"val": 924.6717746653558,
-			"desc": 16500,
+			"desc": "16500.00",
 			"group": "Conex Midia Comunicação Eireli"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.3294517967602637,
-			"desc": 89.75999999999999,
+			"desc": "89.76",
 			"group": "RAMAL"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 79.42477261539305,
-			"desc": 1831.9,
+			"desc": "1831.90",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 10.391173047185934,
-			"desc": 313.31,
+			"desc": "313.31",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "URBS EMPREENDIMENTOS IMOBILIARIOS E CONSULTORIA LTDA",
 			"name": "URBS EMPREENDIMENTOS IMOBILIARIOS E CONSULTORIA LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "URBS EMPREENDIMENTOS IMOBILIARIOS E CONSULTORIA LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "GRILL SUL GRELHADOS E PIZZAS EIRELI ME",
 			"name": "GRILL SUL GRELHADOS E PIZZAS EIRELI ME",
 			"val": 3.1177840779739356,
-			"desc": 114.06,
+			"desc": "114.06",
 			"group": "GRILL SUL GRELHADOS E PIZZAS EIRELI ME"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "URBS EMPREENDIMENTOS MOBILIARIO",
 			"name": "URBS EMPREENDIMENTOS MOBILIARIO",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "URBS EMPREENDIMENTOS MOBILIARIO"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 0.6785956087660495,
-			"desc": 33.49,
+			"desc": "33.49",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 0.9802178832217169,
-			"desc": 44.7,
+			"desc": "44.70",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "Telefonia Vivo",
 			"name": "Telefonia Vivo",
 			"val": 11.353657928388316,
-			"desc": 337.89,
+			"desc": "337.89",
 			"group": "Telefonia Vivo"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 8.180669780742363,
-			"desc": 255.7,
+			"desc": "255.70",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 7.9544951486276,
-			"desc": 249.7,
+			"desc": "249.70",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"name": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"val": 39.58761375436301,
-			"desc": 993.96,
+			"desc": "993.96",
 			"group": "MANHATTAN HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "ABRIL COMUNICACOES SA EM RECUPERACAO JUDICIAL",
 			"name": "ABRIL COMUNICACOES SA EM RECUPERACAO JUDICIAL",
 			"val": 14.90145158082845,
-			"desc": 426.43,
+			"desc": "426.43",
 			"group": "ABRIL COMUNICACOES SA EM RECUPERACAO JUDICIAL"
 		},
 		{

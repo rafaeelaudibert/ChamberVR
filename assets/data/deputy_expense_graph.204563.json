@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSIMAR MARANHÃOZINHO"
+			"name": "JOSIMAR MARANHÃOZINHO",
+			"desc": "155310.42"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RN DA SILVA BARBOSA COMBUSTIVEL EIRELI",
 			"name": "RN DA SILVA BARBOSA COMBUSTIVEL EIRELI",
 			"val": 45.708888176126216,
-			"desc": 1127.12,
+			"desc": "1127.12",
 			"group": "RN DA SILVA BARBOSA COMBUSTIVEL EIRELI"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 88.85320781935901,
-			"desc": 2022.6900000000003,
+			"desc": "2022.69",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1513.8863102718312,
-			"desc": 25823.00999999999,
+			"desc": "25823.01",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 57.10375431091542,
-			"desc": 1370.05,
+			"desc": "1370.05",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "AUTO POSTO 314 NORTE",
 			"name": "AUTO POSTO 314 NORTE",
 			"val": 4.400135740598263,
-			"desc": 151.81,
+			"desc": "151.81",
 			"group": "AUTO POSTO 314 NORTE"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9907553387458596,
-			"desc": 78.96000000000001,
+			"desc": "78.96",
 			"group": "RAMAL"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "G3 Auto Posto Ltda Epp",
 			"name": "G3 Auto Posto Ltda Epp",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "G3 Auto Posto Ltda Epp"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "AUTO POSTO LAGO NORTE LTDA",
 			"name": "AUTO POSTO LAGO NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO LAGO NORTE LTDA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 184.75542317182098,
-			"desc": 3874.92,
+			"desc": "3874.92",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "BS COMERCIO DISTRIBUICAO E REPRESENTACAO DE DER",
 			"name": "BS COMERCIO DISTRIBUICAO E REPRESENTACAO DE DER",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "BS COMERCIO DISTRIBUICAO E REPRESENTACAO DE DER"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "MG Empreendimentos LTDA",
 			"name": "MG Empreendimentos LTDA",
 			"val": 1915.6203884367471,
-			"desc": 32000,
+			"desc": "32000.00",
 			"group": "MG Empreendimentos LTDA"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "INOP - INSTITUTO NACIONAL DE OPINIAO PUBLIC LTDA",
 			"name": "INOP - INSTITUTO NACIONAL DE OPINIAO PUBLIC LTDA",
 			"val": 863.1002477817296,
-			"desc": 15501,
+			"desc": "15501.00",
 			"group": "INOP - INSTITUTO NACIONAL DE OPINIAO PUBLIC LTDA"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "POSTO AMERICANO LTDA",
 			"name": "POSTO AMERICANO LTDA",
 			"val": 215.13637203813133,
-			"desc": 4439.08,
+			"desc": "4439.08",
 			"group": "POSTO AMERICANO LTDA"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 12.87969882585376,
-			"desc": 376.34,
+			"desc": "376.34",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 37.59104497557139,
-			"desc": 950.05,
+			"desc": "950.05",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "C O DA SILVA MELO E CIA LTDA",
 			"name": "C O DA SILVA MELO E CIA LTDA",
 			"val": 45.6106917874698,
-			"desc": 1125,
+			"desc": "1125.00",
 			"group": "C O DA SILVA MELO E CIA LTDA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 21.39471819681028,
-			"desc": 582.29,
+			"desc": "582.29",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "FOCO PRODUÇOES E PUBLICIDADE",
 			"name": "FOCO PRODUÇOES E PUBLICIDADE",
 			"val": 1218.726659439856,
-			"desc": 21200,
+			"desc": "21200.00",
 			"group": "FOCO PRODUÇOES E PUBLICIDADE"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "JOAS CONSULTORIA E MARKETING LTDA",
 			"name": "JOAS CONSULTORIA E MARKETING LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "JOAS CONSULTORIA E MARKETING LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 35.97413487665573,
-			"desc": 914.3,
+			"desc": "914.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "ALMEIDA COSTA E CIA LTDA",
 			"name": "ALMEIDA COSTA E CIA LTDA",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "ALMEIDA COSTA E CIA LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "GASPARIN SERVICOS ADMINISTRATIVOS EIRELI",
 			"name": "GASPARIN SERVICOS ADMINISTRATIVOS EIRELI",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "GASPARIN SERVICOS ADMINISTRATIVOS EIRELI"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 98.9040505259545,
-			"desc": 2223.8,
+			"desc": "2223.80",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "GASPARIN SERVICOS ADMINISTRATIVOS LTDA",
 			"name": "GASPARIN SERVICOS ADMINISTRATIVOS LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "GASPARIN SERVICOS ADMINISTRATIVOS LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
 		},
 		{

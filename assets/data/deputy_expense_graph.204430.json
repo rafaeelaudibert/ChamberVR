@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARGARETE COELHO"
+			"name": "MARGARETE COELHO",
+			"desc": "95578.48"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1602.1056810227303,
-			"desc": 27189.770000000004,
+			"desc": "27189.77",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -258,7 +259,7 @@
 			"id": "FCN X Carvalho Combustíveis Ltda",
 			"name": "FCN X Carvalho Combustíveis Ltda",
 			"val": 20.353204339158008,
-			"desc": 557.72,
+			"desc": "557.72",
 			"group": "FCN X Carvalho Combustíveis Ltda"
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 16.39015469165858,
-			"desc": 462.78,
+			"desc": "462.78",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 0.9879788191400762,
-			"desc": 44.98,
+			"desc": "44.98",
 			"group": "CLARO S.A"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "Lúcio Antônio Machado Vale",
 			"name": "Lúcio Antônio Machado Vale",
 			"val": 543.3042864952457,
-			"desc": 10200,
+			"desc": "10200.00",
 			"group": "Lúcio Antônio Machado Vale"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 12.686306543200352,
-			"desc": 371.5,
+			"desc": "371.50",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "CAPITAL SERVICOS LTDA",
 			"name": "CAPITAL SERVICOS LTDA",
 			"val": 376.6398155767864,
-			"desc": 7333.2,
+			"desc": "7333.20",
 			"group": "CAPITAL SERVICOS LTDA"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "Nossa Senhora de Fátima II",
 			"name": "Nossa Senhora de Fátima II",
 			"val": 26.01021778363228,
-			"desc": 689.59,
+			"desc": "689.59",
 			"group": "Nossa Senhora de Fátima II"
 		},
 		{
@@ -391,7 +392,7 @@
 			"id": "POSTO ROSARIO LTDA",
 			"name": "POSTO ROSARIO LTDA",
 			"val": 7.769276817084782,
-			"desc": 244.77,
+			"desc": "244.77",
 			"group": "POSTO ROSARIO LTDA"
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "Condomínio Edifício The Office Tower",
 			"name": "Condomínio Edifício The Office Tower",
 			"val": 179.27930199251648,
-			"desc": 3772.32,
+			"desc": "3772.32",
 			"group": "Condomínio Edifício The Office Tower"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA",
 			"name": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA",
 			"val": 19.607184035715242,
-			"desc": 540.03,
+			"desc": "540.03",
 			"group": "POSTO BLUE COM. DE COMB. E SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 10.747424230017812,
-			"desc": 322.44,
+			"desc": "322.44",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 17.363521263363197,
-			"desc": 486.33,
+			"desc": "486.33",
 			"group": "CLARO S.A."
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "POSTO NOSSA SENHORA APARECIDA",
 			"name": "POSTO NOSSA SENHORA APARECIDA",
 			"val": 18.81090314802984,
-			"desc": 521.06,
+			"desc": "521.06",
 			"group": "POSTO NOSSA SENHORA APARECIDA"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 7.458003121399323,
-			"desc": 236.45,
+			"desc": "236.45",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "J.A. GONÇALVES",
 			"name": "J.A. GONÇALVES",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "J.A. GONÇALVES"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 8.096512309928432,
-			"desc": 253.47,
+			"desc": "253.47",
 			"group": "CLARO S/A"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "Posto Mocha II",
 			"name": "Posto Mocha II",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "Posto Mocha II"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 25.124797643456304,
-			"desc": 669.19,
+			"desc": "669.19",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "GEORGIA NUNES ADVOGADOS ASSOCIADOS",
 			"name": "GEORGIA NUNES ADVOGADOS ASSOCIADOS",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "GEORGIA NUNES ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.0453823677363983,
-			"desc": 47.04,
+			"desc": "47.04",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "Secretaria Municipal de Finanças de Teresina",
 			"name": "Secretaria Municipal de Finanças de Teresina",
 			"val": 29.203391642978808,
-			"desc": 762.52,
+			"desc": "762.52",
 			"group": "Secretaria Municipal de Finanças de Teresina"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "Posto HD X",
 			"name": "Posto HD X",
 			"val": 8.70202115631427,
-			"desc": 269.45,
+			"desc": "269.45",
 			"group": "Posto HD X"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "Companhia Energética do Piauí",
 			"name": "Companhia Energética do Piauí",
 			"val": 60.07753570541008,
-			"desc": 1432.55,
+			"desc": "1432.55",
 			"group": "Companhia Energética do Piauí"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 19.566793734145108,
-			"desc": 539.07,
+			"desc": "539.07",
 			"group": "TIM S/A"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "COMERCIAL AGRICOLA SUSSUAPARA LTDA",
 			"name": "COMERCIAL AGRICOLA SUSSUAPARA LTDA",
 			"val": 8.45428797857004,
-			"desc": 262.93,
+			"desc": "262.93",
 			"group": "COMERCIAL AGRICOLA SUSSUAPARA LTDA"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 33.305576728912854,
-			"desc": 854.9,
+			"desc": "854.90",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "POSTO IMPERIAL - SERVICOS E COMERCIO LTDA",
 			"name": "POSTO IMPERIAL - SERVICOS E COMERCIO LTDA",
 			"val": 7.408399328301872,
-			"desc": 235.12,
+			"desc": "235.12",
 			"group": "POSTO IMPERIAL - SERVICOS E COMERCIO LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "LIVRARIA MARGARIDA DIST. E REP. DE LIVROS LTDA",
 			"name": "LIVRARIA MARGARIDA DIST. E REP. DE LIVROS LTDA",
 			"val": 11.001964924494645,
-			"desc": 328.94,
+			"desc": "328.94",
 			"group": "LIVRARIA MARGARIDA DIST. E REP. DE LIVROS LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "CAPITAL SERVIÇOS LTDA",
 			"name": "CAPITAL SERVIÇOS LTDA",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "CAPITAL SERVIÇOS LTDA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.2214931491081036,
-			"desc": 53.25,
+			"desc": "53.25",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 5.719216512656754,
-			"desc": 189.06,
+			"desc": "189.06",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 7.217479320719688,
-			"desc": 229.99,
+			"desc": "229.99",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.584337710055787,
-			"desc": 128.01,
+			"desc": "128.01",
 			"group": "RAMAL"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "O DIA AGENCIA LTDA",
 			"name": "O DIA AGENCIA LTDA",
 			"val": 15.250876567880798,
-			"desc": 435,
+			"desc": "435.00",
 			"group": "O DIA AGENCIA LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "POSTO SÃO RAIMUNDO",
 			"name": "POSTO SÃO RAIMUNDO",
 			"val": 7.591362943443948,
-			"desc": 240.02,
+			"desc": "240.02",
 			"group": "POSTO SÃO RAIMUNDO"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "Kandango Transporte e Turismo Ltda EPP",
 			"name": "Kandango Transporte e Turismo Ltda EPP",
 			"val": 6.078753197952745,
-			"desc": 199,
+			"desc": "199.00",
 			"group": "Kandango Transporte e Turismo Ltda EPP"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "KING PETROLEO LTDA",
 			"name": "KING PETROLEO LTDA",
 			"val": 8.952957156031358,
-			"desc": 276.03,
+			"desc": "276.03",
 			"group": "KING PETROLEO LTDA"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{

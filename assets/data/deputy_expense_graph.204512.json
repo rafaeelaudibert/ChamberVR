@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DELEGADO MARCELO FREITAS"
+			"name": "DELEGADO MARCELO FREITAS",
+			"desc": "27773.64"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 243.94630547858173,
-			"desc": 4967.07,
+			"desc": "4967.07",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "ETC",
 			"name": "ETC",
 			"val": 4.462408338944282,
-			"desc": 153.6,
+			"desc": "153.60",
 			"group": "ETC"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "BUZZ editora gráfica",
 			"name": "BUZZ editora gráfica",
 			"val": 111.0962872422756,
-			"desc": 2465,
+			"desc": "2465.00",
 			"group": "BUZZ editora gráfica"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 528.4212065198864,
-			"desc": 9947.589999999998,
+			"desc": "9947.59",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -219,7 +220,7 @@
 			"id": "SDM ALIMENTOS LTDA - EPP",
 			"name": "SDM ALIMENTOS LTDA - EPP",
 			"val": 1.8147582642091848,
-			"desc": 73.24000000000001,
+			"desc": "73.24",
 			"group": "SDM ALIMENTOS LTDA - EPP"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 8.889946588072148,
-			"desc": 274.38000000000005,
+			"desc": "274.38",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "Posto Fácil Ltda",
 			"name": "Posto Fácil Ltda",
 			"val": 12.802937982760666,
-			"desc": 374.41999999999996,
+			"desc": "374.42",
 			"group": "Posto Fácil Ltda"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 1.8083447091133675,
-			"desc": 73.03,
+			"desc": "73.03",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.12342124551085625,
-			"desc": 9.5,
+			"desc": "9.50",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "Expresso Unir Ltda",
 			"name": "Expresso Unir Ltda",
 			"val": 2.2800429416364314,
-			"desc": 88.19999999999999,
+			"desc": "88.20",
 			"group": "Expresso Unir Ltda"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "ANTARES COMBUSTIVEIS LTDA",
 			"name": "ANTARES COMBUSTIVEIS LTDA",
 			"val": 21.350934905950485,
-			"desc": 581.26,
+			"desc": "581.26",
 			"group": "ANTARES COMBUSTIVEIS LTDA"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 4.916077551939987,
-			"desc": 166.54,
+			"desc": "166.54",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "CABIFY AGENCIA DE SERVICOS DE TRANSPORTE DE PASSAGEIROS LTDA.",
 			"name": "CABIFY AGENCIA DE SERVICOS DE TRANSPORTE DE PASSAGEIROS LTDA.",
 			"val": 3.4277948756276344,
-			"desc": 123.36,
+			"desc": "123.36",
 			"group": "CABIFY AGENCIA DE SERVICOS DE TRANSPORTE DE PASSAGEIROS LTDA."
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "Ville Celestine Condo Hotel & Eventos LTDA",
 			"name": "Ville Celestine Condo Hotel & Eventos LTDA",
 			"val": 4.598501051583986,
-			"desc": 157.5,
+			"desc": "157.50",
 			"group": "Ville Celestine Condo Hotel & Eventos LTDA"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "POSTO CJ LTDA",
 			"name": "POSTO CJ LTDA",
 			"val": 7.106876797472356,
-			"desc": 227.01,
+			"desc": "227.01",
 			"group": "POSTO CJ LTDA"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "THANIUS HOTEL",
 			"name": "THANIUS HOTEL",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "THANIUS HOTEL"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "Taxi Service BH",
 			"name": "Taxi Service BH",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "Taxi Service BH"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "POSTO PERUAÇU LTDA",
 			"name": "POSTO PERUAÇU LTDA",
 			"val": 5.560301633265187,
-			"desc": 184.64,
+			"desc": "184.64",
 			"group": "POSTO PERUAÇU LTDA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "VILA FRANCISCA ALIMENTOS E BEBIDAS LTDA",
 			"name": "VILA FRANCISCA ALIMENTOS E BEBIDAS LTDA",
 			"val": 0.9078234669586412,
-			"desc": 42.07,
+			"desc": "42.07",
 			"group": "VILA FRANCISCA ALIMENTOS E BEBIDAS LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.7761945577450544,
-			"desc": 133.67,
+			"desc": "133.67",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "Posto de Gasolina big ben ltda",
 			"name": "Posto de Gasolina big ben ltda",
 			"val": 5.769315926293559,
-			"desc": 190.45,
+			"desc": "190.45",
 			"group": "Posto de Gasolina big ben ltda"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.1940782363099025,
-			"desc": 229.36,
+			"desc": "229.36",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "Armazém Geral Janaúba LTDA_ME",
 			"name": "Armazém Geral Janaúba LTDA_ME",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "Armazém Geral Janaúba LTDA_ME"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "SBF COMERCIO COMÉRCIO DE ALIMENTOS LT",
 			"name": "SBF COMERCIO COMÉRCIO DE ALIMENTOS LT",
 			"val": 0.781654968204041,
-			"desc": 37.4,
+			"desc": "37.40",
 			"group": "SBF COMERCIO COMÉRCIO DE ALIMENTOS LT"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "COMERCIAL CLAROS MONTES LTDA",
 			"name": "COMERCIAL CLAROS MONTES LTDA",
 			"val": 7.66620854311317,
-			"desc": 242.02,
+			"desc": "242.02",
 			"group": "COMERCIAL CLAROS MONTES LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "CASARAO DA VILA RESTAURANTE LTDA - ME",
 			"name": "CASARAO DA VILA RESTAURANTE LTDA - ME",
 			"val": 0.6879787639443057,
-			"desc": 33.85,
+			"desc": "33.85",
 			"group": "CASARAO DA VILA RESTAURANTE LTDA - ME"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "BERNARDINO E PEREIRA LTDA - ME",
 			"name": "BERNARDINO E PEREIRA LTDA - ME",
 			"val": 63.112616447967625,
-			"desc": 1496,
+			"desc": "1496.00",
 			"group": "BERNARDINO E PEREIRA LTDA - ME"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"name": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"val": 0.41092348511697024,
-			"desc": 22.78,
+			"desc": "22.78",
 			"group": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "Bar do Antonio LTDA",
 			"name": "Bar do Antonio LTDA",
 			"val": 2.483729916566249,
-			"desc": 94.6,
+			"desc": "94.60",
 			"group": "Bar do Antonio LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "Coop. e Prest. E Serv. de Mont. Autônomo de Taxi Convencional",
 			"name": "Coop. e Prest. E Serv. de Mont. Autônomo de Taxi Convencional",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "Coop. e Prest. E Serv. de Mont. Autônomo de Taxi Convencional"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.7204585653921174,
-			"desc": 132.03,
+			"desc": "132.03",
 			"group": "RAMAL"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "POSTO ESMERALDAS LTDA",
 			"name": "POSTO ESMERALDAS LTDA",
 			"val": 6.480698795580034,
-			"desc": 210.02,
+			"desc": "210.02",
 			"group": "POSTO ESMERALDAS LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "AZUL LINHAS AEREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AEREAS BRASILEIRAS S.A.",
 			"val": 52.850624776085894,
-			"desc": 1280.05,
+			"desc": "1280.05",
 			"group": "AZUL LINHAS AEREAS BRASILEIRAS S.A."
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "Navegação Confiança Ltda",
 			"name": "Navegação Confiança Ltda",
 			"val": 0.2494850986714678,
-			"desc": 15.7,
+			"desc": "15.70",
 			"group": "Navegação Confiança Ltda"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "POSTO  BANDEIRANTE COMERCIAL SALQUER LIMITADA",
 			"name": "POSTO  BANDEIRANTE COMERCIAL SALQUER LIMITADA",
 			"val": 4.358109762974221,
-			"desc": 150.6,
+			"desc": "150.60",
 			"group": "POSTO  BANDEIRANTE COMERCIAL SALQUER LIMITADA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 129.21838818750277,
-			"desc": 2818.7,
+			"desc": "2818.70",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "RABELO DERIVADOS DE PETROLEO LTDA",
 			"name": "RABELO DERIVADOS DE PETROLEO LTDA",
 			"val": 4.095446404637238,
-			"desc": 143,
+			"desc": "143.00",
 			"group": "RABELO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "Grill Norte Restaurante e Churrascaria",
 			"name": "Grill Norte Restaurante e Churrascaria",
 			"val": 0.797684982043425,
-			"desc": 38,
+			"desc": "38.00",
 			"group": "Grill Norte Restaurante e Churrascaria"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "CONFINS ADMINISTRACAO HOTELEIRA LTDA - ME",
 			"name": "CONFINS ADMINISTRACAO HOTELEIRA LTDA - ME",
 			"val": 1.329898923229561,
-			"desc": 57,
+			"desc": "57.00",
 			"group": "CONFINS ADMINISTRACAO HOTELEIRA LTDA - ME"
 		},
 		{

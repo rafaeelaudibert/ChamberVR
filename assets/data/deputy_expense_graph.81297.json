@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DRA. SORAYA MANATO"
+			"name": "DRA. SORAYA MANATO",
+			"desc": "99623.11"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1526.0818050477399,
-			"desc": 26012.329999999987,
+			"desc": "26012.33",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.445697671007178,
-			"desc": 153.12,
+			"desc": "153.12",
 			"group": "RAMAL"
 		},
 		{
@@ -343,7 +344,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 6.296443913213447,
-			"desc": 204.98,
+			"desc": "204.98",
 			"group": "CLARO S/A"
 		},
 		{
@@ -356,7 +357,7 @@
 			"id": "ALAN FARDIN SIMONATO",
 			"name": "ALAN FARDIN SIMONATO",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "ALAN FARDIN SIMONATO"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "MILANO CONSTRUCOES E SERVICOS LTDA",
 			"name": "MILANO CONSTRUCOES E SERVICOS LTDA",
 			"val": 2831.4192160078373,
-			"desc": 45725,
+			"desc": "45725.00",
 			"group": "MILANO CONSTRUCOES E SERVICOS LTDA"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 59.49341264491711,
-			"desc": 1420.3,
+			"desc": "1420.30",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.591999396808146,
-			"desc": 97.97,
+			"desc": "97.97",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "ROMEU EMERICK",
 			"name": "ROMEU EMERICK",
 			"val": 284.9776367476059,
-			"desc": 5709.12,
+			"desc": "5709.12",
 			"group": "ROMEU EMERICK"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "RADIO MARATAIZES FM LTDA - EPP",
 			"name": "RADIO MARATAIZES FM LTDA - EPP",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "RADIO MARATAIZES FM LTDA - EPP"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "RADIO CULTURA DE CASTELO FM LTDA",
 			"name": "RADIO CULTURA DE CASTELO FM LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "RADIO CULTURA DE CASTELO FM LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 26.874237637359517,
-			"desc": 709.42,
+			"desc": "709.42",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 296.3160936685559,
-			"desc": 5912.360000000001,
+			"desc": "5912.36",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "GFC COMUNICACOES EIRELI - ME",
 			"name": "GFC COMUNICACOES EIRELI - ME",
 			"val": 87.52776170661268,
-			"desc": 1996,
+			"desc": "1996.00",
 			"group": "GFC COMUNICACOES EIRELI - ME"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 28.6900606403245,
-			"desc": 750.86,
+			"desc": "750.86",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "EBR NET SERVIÇOS LTDA",
 			"name": "EBR NET SERVIÇOS LTDA",
 			"val": 7.148419210979448,
-			"desc": 228.13,
+			"desc": "228.13",
 			"group": "EBR NET SERVIÇOS LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.17409166089154202,
-			"desc": 12.1,
+			"desc": "12.10",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.4730908477152256,
-			"desc": 61.88,
+			"desc": "61.88",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "SERVICO AUTONOMO DE AGUA E ESGOTO",
 			"name": "SERVICO AUTONOMO DE AGUA E ESGOTO",
 			"val": 1.4662907488145167,
-			"desc": 61.650000000000006,
+			"desc": "61.65",
 			"group": "SERVICO AUTONOMO DE AGUA E ESGOTO"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"val": 10.248400369284004,
-			"desc": 309.64,
+			"desc": "309.64",
 			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "CORREIOS - EMS MERCADORIA COM AR",
 			"name": "CORREIOS - EMS MERCADORIA COM AR",
 			"val": 4.138490672488443,
-			"desc": 144.25,
+			"desc": "144.25",
 			"group": "CORREIOS - EMS MERCADORIA COM AR"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 3.115797846459122,
-			"desc": 114,
+			"desc": "114.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

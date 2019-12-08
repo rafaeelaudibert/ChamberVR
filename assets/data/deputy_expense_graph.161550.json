@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EMIDINHO MADEIRA"
+			"name": "EMIDINHO MADEIRA",
+			"desc": "51299.91"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 517.6503444803767,
-			"desc": 9764.53,
+			"desc": "9764.53",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "RENOVIAS CONCESSIONARIA S/A",
 			"name": "RENOVIAS CONCESSIONARIA S/A",
 			"val": 3.198710743408894,
-			"desc": 116.49999999999999,
+			"desc": "116.50",
 			"group": "RENOVIAS CONCESSIONARIA S/A"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "AUTO POSTO PRIMOS LTDA",
 			"name": "AUTO POSTO PRIMOS LTDA",
 			"val": 386.82391401994545,
-			"desc": 7511.24,
+			"desc": "7511.24",
 			"group": "AUTO POSTO PRIMOS LTDA"
 		},
 		{
@@ -266,7 +267,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.609852709977454,
-			"desc": 186.02,
+			"desc": "186.02",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 249.05986317518952,
-			"desc": 5060.150000000001,
+			"desc": "5060.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 3.683818484268841,
-			"desc": 130.95,
+			"desc": "130.95",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "ANTONIO MARQUES BUENO",
 			"name": "ANTONIO MARQUES BUENO",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "ANTONIO MARQUES BUENO"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 11.54205229262803,
-			"desc": 342.67,
+			"desc": "342.67",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 4.939376277675025,
-			"desc": 167.2,
+			"desc": "167.20",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "AUTOJA RENT-CAR LTDA",
 			"name": "AUTOJA RENT-CAR LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "AUTOJA RENT-CAR LTDA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 45.955406758731264,
-			"desc": 1132.44,
+			"desc": "1132.44",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 6.296079033245802,
-			"desc": 204.97,
+			"desc": "204.97",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "LOJAS AMERICANAS S/A",
 			"name": "LOJAS AMERICANAS S/A",
 			"val": 5.065660309445935,
-			"desc": 170.77,
+			"desc": "170.77",
 			"group": "LOJAS AMERICANAS S/A"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "NHA CHICA PROVEDOR DE INTERNET RESENDENET LTDA",
 			"name": "NHA CHICA PROVEDOR DE INTERNET RESENDENET LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "NHA CHICA PROVEDOR DE INTERNET RESENDENET LTDA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "CONCESSIONARIA DA RODOVIA MG-050 S/A",
 			"name": "CONCESSIONARIA DA RODOVIA MG-050 S/A",
 			"val": 1.0498629834047817,
-			"desc": 47.199999999999996,
+			"desc": "47.20",
 			"group": "CONCESSIONARIA DA RODOVIA MG-050 S/A"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "PPR AUTO POSTO LTDA",
 			"name": "PPR AUTO POSTO LTDA",
 			"val": 3.6858526997298524,
-			"desc": 131.01,
+			"desc": "131.01",
 			"group": "PPR AUTO POSTO LTDA"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 188.92103410154323,
-			"desc": 3952.77,
+			"desc": "3952.77",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 6.0529752479940235,
-			"desc": 198.28999999999996,
+			"desc": "198.29",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.495668824670183,
-			"desc": 366.72,
+			"desc": "366.72",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "AUTO POSTO SANTA LUCIA LTDA",
 			"name": "AUTO POSTO SANTA LUCIA LTDA",
 			"val": 1.130188692422516,
-			"desc": 50.05,
+			"desc": "50.05",
 			"group": "AUTO POSTO SANTA LUCIA LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "CG ALIMENTOS LTDA - EPP",
 			"name": "CG ALIMENTOS LTDA - EPP",
 			"val": 0.5414252570522178,
-			"desc": 28.12,
+			"desc": "28.12",
 			"group": "CG ALIMENTOS LTDA - EPP"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.905654937875228,
-			"desc": 107.62,
+			"desc": "107.62",
 			"group": "RAMAL"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.23977497759133606,
-			"desc": 15.25,
+			"desc": "15.25",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.8709489728508766,
-			"desc": 106.56,
+			"desc": "106.56",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "TERRAÇO ZAPP PAPELARIA LTDA",
 			"name": "TERRAÇO ZAPP PAPELARIA LTDA",
 			"val": 0.18831728154176708,
-			"desc": 12.8,
+			"desc": "12.80",
 			"group": "TERRAÇO ZAPP PAPELARIA LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.07674092976953885,
-			"desc": 6.89,
+			"desc": "6.89",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 6.378978738108931,
-			"desc": 207.24,
+			"desc": "207.24",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "PICORO AUTO POSTO LTDA",
 			"name": "PICORO AUTO POSTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PICORO AUTO POSTO LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.00751509816700411,
-			"desc": 1.95,
+			"desc": "1.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{

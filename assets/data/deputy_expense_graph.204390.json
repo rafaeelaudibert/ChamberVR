@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PROFESSOR ALCIDES"
+			"name": "PROFESSOR ALCIDES",
+			"desc": "289061.35"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "JUSTINIANO E JUSTINIANO LTDA",
 			"name": "JUSTINIANO E JUSTINIANO LTDA",
 			"val": 2580.188640168278,
-			"desc": 42000.41,
+			"desc": "42000.41",
 			"group": "JUSTINIANO E JUSTINIANO LTDA"
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "JAYME E JAYME DE CASTRO PREST DE SERV LTDA",
 			"name": "JAYME E JAYME DE CASTRO PREST DE SERV LTDA",
 			"val": 4642.865601669184,
-			"desc": 71940,
+			"desc": "71940.00",
 			"group": "JAYME E JAYME DE CASTRO PREST DE SERV LTDA"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 11.020006830999852,
-			"desc": 329.3999999999999,
+			"desc": "329.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "SOL G.V.COELHO COMUNICAÇÃO E MARKETING",
 			"name": "SOL G.V.COELHO COMUNICAÇÃO E MARKETING",
 			"val": 4078.885356416137,
-			"desc": 63880,
+			"desc": "63880.00",
 			"group": "SOL G.V.COELHO COMUNICAÇÃO E MARKETING"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 23.662291003714962,
-			"desc": 635.31,
+			"desc": "635.31",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 24.441923663797713,
-			"desc": 653.4,
+			"desc": "653.40",
 			"group": "RAMAL"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 382.8935639333098,
-			"desc": 7442.580000000001,
+			"desc": "7442.58",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 8.927746079626063,
-			"desc": 275.37,
+			"desc": "275.37",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 41.26724852596956,
-			"desc": 1030.71,
+			"desc": "1030.71",
 			"group": "CLARO S/A."
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 320.73704849787526,
-			"desc": 6347.7,
+			"desc": "6347.70",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR",
 			"val": 26.78389385868631,
-			"desc": 707.35,
+			"desc": "707.35",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PAGAMENTO LTDA.- SEM PARAR"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 1.055468153200466,
-			"desc": 47.4,
+			"desc": "47.40",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "MBI Baiocchi Imoveis Condominios",
 			"name": "MBI Baiocchi Imoveis Condominios",
 			"val": 4733.428230311053,
-			"desc": 73227.13,
+			"desc": "73227.13",
 			"group": "MBI Baiocchi Imoveis Condominios"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.9018098671367829,
-			"desc": 41.849999999999994,
+			"desc": "41.85",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 11.475005744048206,
-			"desc": 340.97,
+			"desc": "340.97",
 			"group": "CLARO S.A."
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "THIAGO DE OLIVEIRA CAMPOS DOS REIS",
 			"name": "THIAGO DE OLIVEIRA CAMPOS DOS REIS",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "THIAGO DE OLIVEIRA CAMPOS DOS REIS"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "SEM PARAR",
 			"name": "SEM PARAR",
 			"val": 4.952444265029256,
-			"desc": 167.57,
+			"desc": "167.57",
 			"group": "SEM PARAR"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 23.83916351432817,
-			"desc": 639.4200000000001,
+			"desc": "639.42",
 			"group": "CLARO S/A"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 73.13806853423984,
-			"desc": 1703.39,
+			"desc": "1703.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "JAYME & JAYME DE CASTRO PRESTADORA DE SERVICOS LTDA",
 			"name": "JAYME & JAYME DE CASTRO PRESTADORA DE SERVICOS LTDA",
 			"val": 649.8361320769441,
-			"desc": 11990,
+			"desc": "11990.00",
 			"group": "JAYME & JAYME DE CASTRO PRESTADORA DE SERVICOS LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 20.720023308100814,
-			"desc": 566.39,
+			"desc": "566.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{

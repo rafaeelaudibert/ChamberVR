@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALENCAR SANTANA BRAGA"
+			"name": "ALENCAR SANTANA BRAGA",
+			"desc": "34056.93"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 40.75454608667473,
-			"desc": 1019.51,
+			"desc": "1019.51",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 726.0012713815332,
-			"desc": 13253.879999999997,
+			"desc": "13253.88",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -205,7 +206,7 @@
 			"id": "Jocilene Carneiro da Silva Soares",
 			"name": "Jocilene Carneiro da Silva Soares",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "Jocilene Carneiro da Silva Soares"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
 			"name": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
 			"val": 0.7049763750353873,
-			"desc": 34.5,
+			"desc": "34.50",
 			"group": "LAGO PRODUTOS ALIMENTICIOS LTDA ME"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "EMP.BRAS.DE CORREIOS E TELÉGRAFOS",
 			"name": "EMP.BRAS.DE CORREIOS E TELÉGRAFOS",
 			"val": 4.886446466359034,
-			"desc": 165.7,
+			"desc": "165.70",
 			"group": "EMP.BRAS.DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -262,7 +263,7 @@
 			"id": "CHURRASCARIA VITAL BRASIL LTDA - EPP",
 			"name": "CHURRASCARIA VITAL BRASIL LTDA - EPP",
 			"val": 2.1898756741243512,
-			"desc": 85.34,
+			"desc": "85.34",
 			"group": "CHURRASCARIA VITAL BRASIL LTDA - EPP"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "Izilda Marques do Nascimento Neves",
 			"name": "Izilda Marques do Nascimento Neves",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "Izilda Marques do Nascimento Neves"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"val": 6.074395333349283,
-			"desc": 198.88,
+			"desc": "198.88",
 			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 0.9289231234878071,
-			"desc": 42.84,
+			"desc": "42.84",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 10.078335641815897,
-			"desc": 305.26,
+			"desc": "305.26",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "POSTO DE SERVICOS SAO JOAQUIM LT",
 			"name": "POSTO DE SERVICOS SAO JOAQUIM LT",
 			"val": 3.585688595356117,
-			"desc": 128.05,
+			"desc": "128.05",
 			"group": "POSTO DE SERVICOS SAO JOAQUIM LT"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 28.8889303134539,
-			"desc": 755.38,
+			"desc": "755.38",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "REQUINTE RESTAURANTE LTDA.-EPP",
 			"name": "REQUINTE RESTAURANTE LTDA.-EPP",
 			"val": 2.6737227798539296,
-			"desc": 100.5,
+			"desc": "100.50",
 			"group": "REQUINTE RESTAURANTE LTDA.-EPP"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 15.809432870070516,
-			"desc": 448.65,
+			"desc": "448.65",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "VIOLA BRASILEIRA CHURRASCARIA LTDA",
 			"name": "VIOLA BRASILEIRA CHURRASCARIA LTDA",
 			"val": 0.46195215418319957,
-			"desc": 24.9,
+			"desc": "24.90",
 			"group": "VIOLA BRASILEIRA CHURRASCARIA LTDA"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 1.1546137849619993,
-			"desc": 50.910000000000004,
+			"desc": "50.91",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "AUTO POSTO PORTAL DE GUARULHOS LTDA",
 			"name": "AUTO POSTO PORTAL DE GUARULHOS LTDA",
 			"val": 12.310958508602095,
-			"desc": 362.08,
+			"desc": "362.08",
 			"group": "AUTO POSTO PORTAL DE GUARULHOS LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "IRMAOS MARINHO LTDA",
 			"name": "IRMAOS MARINHO LTDA",
 			"val": 0.9791100028579698,
-			"desc": 44.66,
+			"desc": "44.66",
 			"group": "IRMAOS MARINHO LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 17.71647599788006,
-			"desc": 494.83,
+			"desc": "494.83",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 26.63078218195176,
-			"desc": 703.84,
+			"desc": "703.84",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "EDP São Paulo Distribuição de Energia S.A",
 			"name": "EDP São Paulo Distribuição de Energia S.A",
 			"val": 7.159923171091128,
-			"desc": 228.44,
+			"desc": "228.44",
 			"group": "EDP São Paulo Distribuição de Energia S.A"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "Moraes Petran Serviços e Locações de Artigos",
 			"name": "Moraes Petran Serviços e Locações de Artigos",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "Moraes Petran Serviços e Locações de Artigos"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.330024896261893,
-			"desc": 205.9,
+			"desc": "205.90",
 			"group": "RAMAL"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "AUTO POSTO EMIRADOS COMBUSTIVEIS E CONVENIENCIAS",
 			"name": "AUTO POSTO EMIRADOS COMBUSTIVEIS E CONVENIENCIAS",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO EMIRADOS COMBUSTIVEIS E CONVENIENCIAS"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.5110498872012126,
-			"desc": 26.9,
+			"desc": "26.90",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "ART ESFIHA COMERCIO DE ALIMENTOS LTDA",
 			"name": "ART ESFIHA COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.9147606798639516,
-			"desc": 76.5,
+			"desc": "76.50",
 			"group": "ART ESFIHA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "RESTAURANTE JAPONES E TEMAKERIA LTDA ME",
 			"name": "RESTAURANTE JAPONES E TEMAKERIA LTDA ME",
 			"val": 2.1760524234868637,
-			"desc": 84.9,
+			"desc": "84.90",
 			"group": "RESTAURANTE JAPONES E TEMAKERIA LTDA ME"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 107.68414231380207,
-			"desc": 2397.78,
+			"desc": "2397.78",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.072312800138462,
-			"desc": 48,
+			"desc": "48.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "PONTO 606 AEROPORTO DE CONGONHAS",
 			"name": "PONTO 606 AEROPORTO DE CONGONHAS",
 			"val": 1.9301702545340296,
-			"desc": 77,
+			"desc": "77.00",
 			"group": "PONTO 606 AEROPORTO DE CONGONHAS"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "Paulo Guilherme Zvmpik",
 			"name": "Paulo Guilherme Zvmpik",
 			"val": 0.6632660633363808,
-			"desc": 32.9,
+			"desc": "32.90",
 			"group": "Paulo Guilherme Zvmpik"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "Rádio Táxi Alvorada Ltda",
 			"name": "Rádio Táxi Alvorada Ltda",
 			"val": 0.48884573068667353,
-			"desc": 26,
+			"desc": "26.00",
 			"group": "Rádio Táxi Alvorada Ltda"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "QUATRO G S RESTAURANTE LTDA",
 			"name": "QUATRO G S RESTAURANTE LTDA",
 			"val": 0.9913080173175906,
-			"desc": 45.1,
+			"desc": "45.10",
 			"group": "QUATRO G S RESTAURANTE LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "CABRAL & NUNES LTDA - ME",
 			"name": "CABRAL & NUNES LTDA - ME",
 			"val": 1.5855426687578138,
-			"desc": 65.66,
+			"desc": "65.66",
 			"group": "CABRAL & NUNES LTDA - ME"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 7.4132459088775535,
-			"desc": 235.25,
+			"desc": "235.25",
 			"group": "SABESP"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "G3 ALIMENTOS LTDA.",
 			"name": "G3 ALIMENTOS LTDA.",
 			"val": 4.732693587577506,
-			"desc": 161.33,
+			"desc": "161.33",
 			"group": "G3 ALIMENTOS LTDA."
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"name": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"val": 1.6449519744141157,
-			"desc": 67.64,
+			"desc": "67.64",
 			"group": "BIER FASS RESTAURANTE MUSEU LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 41.03461385421393,
-			"desc": 1025.63,
+			"desc": "1025.63",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 5.6555062768006135,
-			"desc": 187.29,
+			"desc": "187.29",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{

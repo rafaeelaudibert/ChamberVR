@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FAUSTO PINATO"
+			"name": "FAUSTO PINATO",
+			"desc": "109664.45"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 139.07836289056291,
-			"desc": 3009.0299999999997,
+			"desc": "3009.03",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2441.6435632908588,
-			"desc": 39934.38999999997,
+			"desc": "39934.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 39.8120307720552,
-			"desc": 998.8799999999999,
+			"desc": "998.88",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 1525.2872962915308,
-			"desc": 26000,
+			"desc": "26000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 335.11055508702293,
-			"desc": 6602.49,
+			"desc": "6602.49",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 69.79172426763671,
-			"desc": 1634.52,
+			"desc": "1634.52",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 29.349302442863934,
-			"desc": 765.83,
+			"desc": "765.83",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "POSTO CACIQUE LTDA",
 			"name": "POSTO CACIQUE LTDA",
 			"val": 2.3377018913526664,
-			"desc": 90.02,
+			"desc": "90.02",
 			"group": "POSTO CACIQUE LTDA"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 45.61995461351696,
-			"desc": 1125.2,
+			"desc": "1125.20",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
 			"name": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE",
 			"val": 1009.2576683125324,
-			"desc": 17863.33,
+			"desc": "17863.33",
 			"group": "BARROS & SERRA SERVICOS EXECUTIVOS RENT A CAR EIRE"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "VIEIRA E FILHOS ARACATUBA LTDA",
 			"name": "VIEIRA E FILHOS ARACATUBA LTDA",
 			"val": 24.23175145340986,
-			"desc": 648.53,
+			"desc": "648.53",
 			"group": "VIEIRA E FILHOS ARACATUBA LTDA"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9141446883215871,
-			"desc": 76.48,
+			"desc": "76.48",
 			"group": "RAMAL"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.183132183555499,
-			"desc": 174.07999999999998,
+			"desc": "174.08",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "AUTO POSTO INVICTO LTDA",
 			"name": "AUTO POSTO INVICTO LTDA",
 			"val": 4.9358451998493855,
-			"desc": 167.1,
+			"desc": "167.10",
 			"group": "AUTO POSTO INVICTO LTDA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "AUTO POSTO S3 BANDEIRANTES LTDA",
 			"name": "AUTO POSTO S3 BANDEIRANTES LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO S3 BANDEIRANTES LTDA"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "POSTO PRATAO LTDA",
 			"name": "POSTO PRATAO LTDA",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "POSTO PRATAO LTDA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"name": "POLAR DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POLAR DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "AUTO POSTO TALISMA VILA JAGUARA LTDA",
 			"name": "AUTO POSTO TALISMA VILA JAGUARA LTDA",
 			"val": 9.757066008790328,
-			"desc": 296.96000000000004,
+			"desc": "296.96",
 			"group": "AUTO POSTO TALISMA VILA JAGUARA LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
 			"name": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
 			"val": 254.7965878881075,
-			"desc": 5164.360000000001,
+			"desc": "5164.36",
 			"group": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 15.704902924124154,
-			"desc": 446.09999999999997,
+			"desc": "446.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "telefonica brasil sa",
 			"name": "telefonica brasil sa",
 			"val": 26.54750740852293,
-			"desc": 701.93,
+			"desc": "701.93",
 			"group": "telefonica brasil sa"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 13.594795292905621,
-			"desc": 394.16,
+			"desc": "394.16",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "AUTO POSTO MEDICINE BOW LT",
 			"name": "AUTO POSTO MEDICINE BOW LT",
 			"val": 6.482530245514228,
-			"desc": 210.07,
+			"desc": "210.07",
 			"group": "AUTO POSTO MEDICINE BOW LT"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "AUTO POSTO S3 AICAS LTDA",
 			"name": "AUTO POSTO S3 AICAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO S3 AICAS LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 9.488309641247062,
-			"desc": 289.99,
+			"desc": "289.99",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{

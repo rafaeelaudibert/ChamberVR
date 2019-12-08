@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALCEU MOREIRA"
+			"name": "ALCEU MOREIRA",
+			"desc": "50492.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"name": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"val": 3.074129229500791,
-			"desc": 112.74,
+			"desc": "112.74",
 			"group": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "AUTO POSTO DE COMBUSTIVEIS RENASCENCA LTDA",
 			"name": "AUTO POSTO DE COMBUSTIVEIS RENASCENCA LTDA",
 			"val": 209.39591037956794,
-			"desc": 4333.1,
+			"desc": "4333.10",
 			"group": "AUTO POSTO DE COMBUSTIVEIS RENASCENCA LTDA"
 		},
 		{
@@ -193,7 +194,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 477.35248232909953,
-			"desc": 9076.57,
+			"desc": "9076.57",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "Galeteria Vebber Ltda",
 			"name": "Galeteria Vebber Ltda",
 			"val": 1.625711903042683,
-			"desc": 67,
+			"desc": "67.00",
 			"group": "Galeteria Vebber Ltda"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "3A COML DE COMB LTDA",
 			"name": "3A COML DE COMB LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "3A COML DE COMB LTDA"
 		},
 		{
@@ -299,7 +300,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 7.6332646819938725,
-			"desc": 241.14,
+			"desc": "241.14",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -324,7 +325,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.997335048476207,
-			"desc": 168.84,
+			"desc": "168.84",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.2065437838224367,
-			"desc": 85.87,
+			"desc": "85.87",
 			"group": "RAMAL"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "RESTAURANTES JOHANN EIRELI EPP",
 			"name": "RESTAURANTES JOHANN EIRELI EPP",
 			"val": 0.5761518798246973,
-			"desc": 29.5,
+			"desc": "29.50",
 			"group": "RESTAURANTES JOHANN EIRELI EPP"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 25.328477249947426,
-			"desc": 673.89,
+			"desc": "673.89",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "SERRANA COMERCIO DE ALIMENTOS LTDA",
 			"name": "SERRANA COMERCIO DE ALIMENTOS LTDA",
 			"val": 3.6448601007596344,
-			"desc": 129.8,
+			"desc": "129.80",
 			"group": "SERRANA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 52.91274621002731,
-			"desc": 1281.37,
+			"desc": "1281.37",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "RONALDO TRAJANO RODRIGUES",
 			"name": "RONALDO TRAJANO RODRIGUES",
 			"val": 210.3752570596111,
-			"desc": 4351.2,
+			"desc": "4351.20",
 			"group": "RONALDO TRAJANO RODRIGUES"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 3.377511162330645,
-			"desc": 121.86,
+			"desc": "121.86",
 			"group": "Oi S.A"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 31.137200199981915,
-			"desc": 806.24,
+			"desc": "806.24",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP",
 			"name": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "Noschang Artes Graficas Ltda",
 			"name": "Noschang Artes Graficas Ltda",
 			"val": 512.2135878995902,
-			"desc": 9672,
+			"desc": "9672.00",
 			"group": "Noschang Artes Graficas Ltda"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "Prefeitura de Porto Alegre",
 			"name": "Prefeitura de Porto Alegre",
 			"val": 6.131807256489159,
-			"desc": 200.46,
+			"desc": "200.46",
 			"group": "Prefeitura de Porto Alegre"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 18.368103911716435,
-			"desc": 510.47,
+			"desc": "510.47",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "RADIO MAGIA LTDA",
 			"name": "RADIO MAGIA LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "RADIO MAGIA LTDA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "COMPANHIA RIOGRANDENSE DE SANEAMENTO",
 			"name": "COMPANHIA RIOGRANDENSE DE SANEAMENTO",
 			"val": 1.1117843734113895,
-			"desc": 49.4,
+			"desc": "49.40",
 			"group": "COMPANHIA RIOGRANDENSE DE SANEAMENTO"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 89.47616002007902,
-			"desc": 2035.2199999999998,
+			"desc": "2035.22",
 			"group": "Telefônia Brasil S/A"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 22.95977461718024,
-			"desc": 618.9499999999999,
+			"desc": "618.95",
 			"group": "CEEE"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "OI S/A",
 			"name": "OI S/A",
 			"val": 3.4633922474956114,
-			"desc": 124.42,
+			"desc": "124.42",
 			"group": "OI S/A"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.688819083861844,
-			"desc": 215.69,
+			"desc": "215.69",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "JOÃO JOELSON LIPERT DA SILVA",
 			"name": "JOÃO JOELSON LIPERT DA SILVA",
 			"val": 566.8448150353412,
-			"desc": 10598,
+			"desc": "10598.00",
 			"group": "JOÃO JOELSON LIPERT DA SILVA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS BECKER LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS BECKER LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS BECKER LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "maxipred-assessoria predial lt",
 			"name": "maxipred-assessoria predial lt",
 			"val": 47.11856769382339,
-			"desc": 1157.5,
+			"desc": "1157.50",
 			"group": "maxipred-assessoria predial lt"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 3.4593597321212988,
-			"desc": 124.3,
+			"desc": "124.30",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "JORGE ALBERTO DUARTE GRILL EIRELI EPP",
 			"name": "JORGE ALBERTO DUARTE GRILL EIRELI EPP",
 			"val": 0.48884573068667353,
-			"desc": 26,
+			"desc": "26.00",
 			"group": "JORGE ALBERTO DUARTE GRILL EIRELI EPP"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "EDUARDO BORTOLOTTI COSTA",
 			"name": "EDUARDO BORTOLOTTI COSTA",
 			"val": 1.097660756748689,
-			"desc": 48.9,
+			"desc": "48.90",
 			"group": "EDUARDO BORTOLOTTI COSTA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "combate sistemas de segurança  eletrônica e serviços ltda",
 			"name": "combate sistemas de segurança  eletrônica e serviços ltda",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "combate sistemas de segurança  eletrônica e serviços ltda"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "AMANDA NUNES DE AGUIAR & CIA LTDA - ME",
 			"name": "AMANDA NUNES DE AGUIAR & CIA LTDA - ME",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "AMANDA NUNES DE AGUIAR & CIA LTDA - ME"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "CARMEM LUCIA DIEL PEDRUZZI",
 			"name": "CARMEM LUCIA DIEL PEDRUZZI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CARMEM LUCIA DIEL PEDRUZZI"
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "RADIO OSORIO LTDA - ME",
 			"name": "RADIO OSORIO LTDA - ME",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "RADIO OSORIO LTDA - ME"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "COMPANHIA ESTADUAL DE DISTRIBUICAO DE ENERGIA ELETRICA - CEEE-D",
 			"name": "COMPANHIA ESTADUAL DE DISTRIBUICAO DE ENERGIA ELETRICA - CEEE-D",
 			"val": 2.3494498790536458,
-			"desc": 90.39,
+			"desc": "90.39",
 			"group": "COMPANHIA ESTADUAL DE DISTRIBUICAO DE ENERGIA ELETRICA - CEEE-D"
 		},
 		{
@@ -866,7 +867,7 @@
 			"id": "RESTAURANTE E LANCHERIA SEVERGNINI LTDA ME",
 			"name": "RESTAURANTE E LANCHERIA SEVERGNINI LTDA ME",
 			"val": 0.9195964591434094,
-			"desc": 42.5,
+			"desc": "42.50",
 			"group": "RESTAURANTE E LANCHERIA SEVERGNINI LTDA ME"
 		},
 		{
@@ -879,7 +880,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -892,7 +893,7 @@
 			"id": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"name": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
 		},
 		{
@@ -905,7 +906,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 56.7949387941578,
-			"desc": 1363.54,
+			"desc": "1363.54",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -918,7 +919,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS EMBOABA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS EMBOABA",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS EMBOABA"
 		},
 		{

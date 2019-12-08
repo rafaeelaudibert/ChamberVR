@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "WOLNEY QUEIROZ"
+			"name": "WOLNEY QUEIROZ",
+			"desc": "74108.31"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 9.758997397049278,
-			"desc": 297.01,
+			"desc": "297.01",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 1098.3911505568087,
-			"desc": 19289.600000000002,
+			"desc": "19289.60",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "COMPESA",
 			"name": "COMPESA",
 			"val": 6.646169948145984,
-			"desc": 214.53,
+			"desc": "214.53",
 			"group": "COMPESA"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.9731069411667488,
-			"desc": 78.39,
+			"desc": "78.39",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1114.4146059182988,
-			"desc": 19544.95,
+			"desc": "19544.95",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
 			"name": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "LIBRE COMUNICAÇÃO E MARKETING EIRELI"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.709171293254798,
-			"desc": 34.66,
+			"desc": "34.66",
 			"group": "RAMAL"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "NUNES COMERCIO VAREJISTA DE D. DO PETROLEO EIRELI",
 			"name": "NUNES COMERCIO VAREJISTA DE D. DO PETROLEO EIRELI",
 			"val": 553.4697411135232,
-			"desc": 10372.05,
+			"desc": "10372.05",
 			"group": "NUNES COMERCIO VAREJISTA DE D. DO PETROLEO EIRELI"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"name": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"val": 4.711285430031284,
-			"desc": 160.72,
+			"desc": "160.72",
 			"group": "ZRC COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 15.852909171124645,
-			"desc": 449.71,
+			"desc": "449.71",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.4855211363276504,
-			"desc": 62.3,
+			"desc": "62.30",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 17.270649436629313,
-			"desc": 484.09000000000003,
+			"desc": "484.09",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "AUTO POSTO CARRETEIRO LTDA",
 			"name": "AUTO POSTO CARRETEIRO LTDA",
 			"val": 26.116356216643297,
-			"desc": 692.03,
+			"desc": "692.03",
 			"group": "AUTO POSTO CARRETEIRO LTDA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "Companhia Energética de Pernambuco",
 			"name": "Companhia Energética de Pernambuco",
 			"val": 4.522010255133684,
-			"desc": 155.31,
+			"desc": "155.31",
 			"group": "Companhia Energética de Pernambuco"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 20.106557490483816,
-			"desc": 551.88,
+			"desc": "551.88",
 			"group": "CLARO S/A"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.8815405240222984,
-			"desc": 75.42,
+			"desc": "75.42",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "CTL CONSTRUÇÃO E TERRAPLANAGEM LTDA",
 			"name": "CTL CONSTRUÇÃO E TERRAPLANAGEM LTDA",
 			"val": 334.43852326355994,
-			"desc": 6590.6,
+			"desc": "6590.60",
 			"group": "CTL CONSTRUÇÃO E TERRAPLANAGEM LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"name": "POSTO ARCO IRIS COMBUSTIVEIS LTDA",
 			"val": 8.004182871852272,
-			"desc": 251.02,
+			"desc": "251.02",
 			"group": "POSTO ARCO IRIS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 18.726344326689038,
-			"desc": 519.04,
+			"desc": "519.04",
 			"group": "Claro S.A"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"name": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"val": 9.296492644319398,
-			"desc": 285,
+			"desc": "285.00",
 			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BOSCO COSTA"
+			"name": "BOSCO COSTA",
+			"desc": "124847.01"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 416.9331040485237,
-			"desc": 8035.179999999999,
+			"desc": "8035.18",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -126,7 +127,7 @@
 			"id": "Mega Posto J. Francisco LTDA",
 			"name": "Mega Posto J. Francisco LTDA",
 			"val": 461.68027522497175,
-			"desc": 8807.64,
+			"desc": "8807.64",
 			"group": "Mega Posto J. Francisco LTDA"
 		},
 		{
@@ -145,7 +146,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 541.260212686767,
-			"desc": 10165.369999999999,
+			"desc": "10165.37",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "LUCIVAL DA SILVA NAZARETH",
 			"name": "LUCIVAL DA SILVA NAZARETH",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "LUCIVAL DA SILVA NAZARETH"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "PRADO CASTELLI VASCONCELOS SOCIEDADE DE ADVOGADOS",
 			"name": "PRADO CASTELLI VASCONCELOS SOCIEDADE DE ADVOGADOS",
 			"val": 602.6142578100882,
-			"desc": 11200,
+			"desc": "11200.00",
 			"group": "PRADO CASTELLI VASCONCELOS SOCIEDADE DE ADVOGADOS"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "LOC - CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
 			"name": "LOC - CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
 			"val": 1376.412451940105,
-			"desc": 23680,
+			"desc": "23680.00",
 			"group": "LOC - CONSTRUÇÕES E EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.580322852392383,
-			"desc": 156.98,
+			"desc": "156.98",
 			"group": "RAMAL"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "AUTO POSTO M & C LTDA",
 			"name": "AUTO POSTO M & C LTDA",
 			"val": 20.45043971826232,
-			"desc": 560.02,
+			"desc": "560.02",
 			"group": "AUTO POSTO M & C LTDA"
 		},
 		{
@@ -391,7 +392,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 179.8144681103681,
-			"desc": 3782.3599999999997,
+			"desc": "3782.36",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "CRUZ & CRUZ COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "CRUZ & CRUZ COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CRUZ & CRUZ COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "POSTO ROSARIO LTDA",
 			"name": "POSTO ROSARIO LTDA",
 			"val": 26.11070004648944,
-			"desc": 691.9,
+			"desc": "691.90",
 			"group": "POSTO ROSARIO LTDA"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "MORRO AZUL COMERCIO DE PETROLEO LTDA",
 			"name": "MORRO AZUL COMERCIO DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "MORRO AZUL COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "PETROX COMERCIAL LTDA (BEIRA MAR)",
 			"name": "PETROX COMERCIAL LTDA (BEIRA MAR)",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PETROX COMERCIAL LTDA (BEIRA MAR)"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "MINAS BR COMBUSTIVEIS LTDA",
 			"name": "MINAS BR COMBUSTIVEIS LTDA",
 			"val": 23.96491745174647,
-			"desc": 642.34,
+			"desc": "642.34",
 			"group": "MINAS BR COMBUSTIVEIS LTDA"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 25.636521763527423,
-			"desc": 680.99,
+			"desc": "680.99",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "PAULA EMILY DEODATO FRANCO",
 			"name": "PAULA EMILY DEODATO FRANCO",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "PAULA EMILY DEODATO FRANCO"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 23.719080094846234,
-			"desc": 636.63,
+			"desc": "636.63",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 8.268721008337279,
-			"desc": 258.03,
+			"desc": "258.03",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "HM LOCADORA",
 			"name": "HM LOCADORA",
 			"val": 740.91627648858,
-			"desc": 13500,
+			"desc": "13500.00",
 			"group": "HM LOCADORA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"name": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"val": 7.1124386676425795,
-			"desc": 227.16,
+			"desc": "227.16",
 			"group": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA",
 			"name": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA",
 			"val": 13.836625481067532,
-			"desc": 400.16,
+			"desc": "400.16",
 			"group": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "LOC - COMÉRCIO TRANSPORTE E SERVIÇOS LTDA",
 			"name": "LOC - COMÉRCIO TRANSPORTE E SERVIÇOS LTDA",
 			"val": 418.3644273389102,
-			"desc": 8060,
+			"desc": "8060.00",
 			"group": "LOC - COMÉRCIO TRANSPORTE E SERVIÇOS LTDA"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "PREFEITURA MUNICIPAL DE ARACAJU",
 			"name": "PREFEITURA MUNICIPAL DE ARACAJU",
 			"val": 8.994613559818793,
-			"desc": 277.12,
+			"desc": "277.12",
 			"group": "PREFEITURA MUNICIPAL DE ARACAJU"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "ALAN EMERSON PITA TAVARES 90384083153",
 			"name": "ALAN EMERSON PITA TAVARES 90384083153",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "ALAN EMERSON PITA TAVARES 90384083153"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "MEGA POSTO J. FRANCISCO",
 			"name": "MEGA POSTO J. FRANCISCO",
 			"val": 257.1810630078891,
-			"desc": 5207.61,
+			"desc": "5207.61",
 			"group": "MEGA POSTO J. FRANCISCO"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 7.180710669896801,
-			"desc": 229,
+			"desc": "229.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "ALAN EMERSON PITA TAVARES",
 			"name": "ALAN EMERSON PITA TAVARES",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "ALAN EMERSON PITA TAVARES"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 14.08140094066233,
-			"desc": 406.22,
+			"desc": "406.22",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 03)",
 			"name": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 03)",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 03)"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 08)",
 			"name": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 08)",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 08)"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.9721063479502785,
-			"desc": 196.06,
+			"desc": "196.06",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "LOC CONSTRUCOES E EMPREENDIMENTOS LTDA",
 			"name": "LOC CONSTRUCOES E EMPREENDIMENTOS LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "LOC CONSTRUCOES E EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 01)",
 			"name": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 01)",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ALPHA COMERCIAL DE COMBUSTIVEIS LTDA ( FILIAL 01)"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "GENTIL BARBOSA NEO OFFICE JARDINS",
 			"name": "GENTIL BARBOSA NEO OFFICE JARDINS",
 			"val": 10.93022632492899,
-			"desc": 327.11,
+			"desc": "327.11",
 			"group": "GENTIL BARBOSA NEO OFFICE JARDINS"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"name": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"val": 7.592110924720882,
-			"desc": 240.04,
+			"desc": "240.04",
 			"group": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 5.540569579176046,
-			"desc": 184.09,
+			"desc": "184.09",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{

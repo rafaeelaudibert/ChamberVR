@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PROFESSOR ISRAEL BATISTA"
+			"name": "PROFESSOR ISRAEL BATISTA",
+			"desc": "61328.59"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 201.3937498546225,
-			"desc": 4184.9,
+			"desc": "4184.90",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 66.75634707238318,
-			"desc": 1571.75,
+			"desc": "1571.75",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "EL SHALOM PAPELARIA E LIVRARIA LTDA",
 			"name": "EL SHALOM PAPELARIA E LIVRARIA LTDA",
 			"val": 35.07171933916006,
-			"desc": 894.27,
+			"desc": "894.27",
 			"group": "EL SHALOM PAPELARIA E LIVRARIA LTDA"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "GIGA DIGITAL TECNOLOGIA E MARKETING LTDA",
 			"name": "GIGA DIGITAL TECNOLOGIA E MARKETING LTDA",
 			"val": 144.5985049409756,
-			"desc": 3115,
+			"desc": "3115.00",
 			"group": "GIGA DIGITAL TECNOLOGIA E MARKETING LTDA"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 79.88080919160502,
-			"desc": 1841.18,
+			"desc": "1841.18",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 73.13806853423984,
-			"desc": 1703.39,
+			"desc": "1703.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.442195733749527,
-			"desc": 314.62,
+			"desc": "314.62",
 			"group": "RAMAL"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 405.4675034823033,
-			"desc": 7836.080000000001,
+			"desc": "7836.08",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "BT PAULISTA HOTEIS LTDA",
 			"name": "BT PAULISTA HOTEIS LTDA",
 			"val": 35.756744984275635,
-			"desc": 909.48,
+			"desc": "909.48",
 			"group": "BT PAULISTA HOTEIS LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "EHTL RESERVAS ONLINE DE HOTEIS LTDA",
 			"name": "EHTL RESERVAS ONLINE DE HOTEIS LTDA",
 			"val": 11.486045346876848,
-			"desc": 341.25,
+			"desc": "341.25",
 			"group": "EHTL RESERVAS ONLINE DE HOTEIS LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "BGH SA BRAZIL HOSPITALITY GROUP",
 			"name": "BGH SA BRAZIL HOSPITALITY GROUP",
 			"val": 25.428653026005072,
-			"desc": 676.2,
+			"desc": "676.20",
 			"group": "BGH SA BRAZIL HOSPITALITY GROUP"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 7.966913312568141,
-			"desc": 250.03,
+			"desc": "250.03",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "SUPREMA LOCADORA",
 			"name": "SUPREMA LOCADORA",
 			"val": 759.1314116897198,
-			"desc": 13800,
+			"desc": "13800.00",
 			"group": "SUPREMA LOCADORA"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.452503151104637,
-			"desc": 209.25,
+			"desc": "209.25",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "J R M DA SILVA SERVICOS ADMINISTRATIVOS",
 			"name": "J R M DA SILVA SERVICOS ADMINISTRATIVOS",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "J R M DA SILVA SERVICOS ADMINISTRATIVOS"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 5.489310688401666,
-			"desc": 182.66,
+			"desc": "182.66",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "AUTO POSTO GOLDEN GAS LAGO LTDA",
 			"name": "AUTO POSTO GOLDEN GAS LAGO LTDA",
 			"val": 6.443718237967084,
-			"desc": 209.01,
+			"desc": "209.01",
 			"group": "AUTO POSTO GOLDEN GAS LAGO LTDA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "AUTO POSTO RAMALHO LTDA",
 			"name": "AUTO POSTO RAMALHO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO RAMALHO LTDA"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "MULT PAPELARIA E SUPRIMENTOS DE INFORMATICA LTDA ME",
 			"name": "MULT PAPELARIA E SUPRIMENTOS DE INFORMATICA LTDA ME",
 			"val": 3.716045478002543,
-			"desc": 131.9,
+			"desc": "131.90",
 			"group": "MULT PAPELARIA E SUPRIMENTOS DE INFORMATICA LTDA ME"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 6.1765511273797875,
-			"desc": 201.69,
+			"desc": "201.69",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 9.816188452470334,
-			"desc": 298.49,
+			"desc": "298.49",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 5.1280770534136595,
-			"desc": 172.53,
+			"desc": "172.53",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
 			"name": "NUVEM COMUNICACAO DIGITAL EIRELI - ME",
 			"val": 893.8101942183736,
-			"desc": 16000,
+			"desc": "16000.00",
 			"group": "NUVEM COMUNICACAO DIGITAL EIRELI - ME"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "ROTA 406 COMBUSTIVEIS LTDA",
 			"name": "ROTA 406 COMBUSTIVEIS LTDA",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "ROTA 406 COMBUSTIVEIS LTDA"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.70286620796158,
-			"desc": 160.48,
+			"desc": "160.48",
 			"group": "JJS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "AUTO POSTO 305 SUL LTDA",
 			"name": "AUTO POSTO 305 SUL LTDA",
 			"val": 6.137261499641415,
-			"desc": 200.61,
+			"desc": "200.61",
 			"group": "AUTO POSTO 305 SUL LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S/A",
 			"name": "HOTELARIA ACCOR BRASIL S/A",
 			"val": 11.880386032556583,
-			"desc": 351.23,
+			"desc": "351.23",
 			"group": "HOTELARIA ACCOR BRASIL S/A"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "POSTO PETROMINAS LTDA",
 			"name": "POSTO PETROMINAS LTDA",
 			"val": 6.78601653261288,
-			"desc": 218.33,
+			"desc": "218.33",
 			"group": "POSTO PETROMINAS LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "AUTO POSTO AVENIDA LTDA",
 			"name": "AUTO POSTO AVENIDA LTDA",
 			"val": 5.299541145921928,
-			"desc": 177.35,
+			"desc": "177.35",
 			"group": "AUTO POSTO AVENIDA LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA",
 			"name": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA",
 			"val": 3.5465422887867373,
-			"desc": 126.89,
+			"desc": "126.89",
 			"group": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA"
 		},
 		{

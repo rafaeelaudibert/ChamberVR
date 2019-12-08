@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CORONEL CHRISÓSTOMO"
+			"name": "CORONEL CHRISÓSTOMO",
+			"desc": "68922.03"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 10.76932433826455,
-			"desc": 323,
+			"desc": "323.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -150,7 +151,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "AUTO POSTO CATARINENSE LTDA",
 			"name": "AUTO POSTO CATARINENSE LTDA",
 			"val": 5.283857153311673,
-			"desc": 176.91,
+			"desc": "176.91",
 			"group": "AUTO POSTO CATARINENSE LTDA"
 		},
 		{
@@ -212,7 +213,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 0.6143203424879725,
-			"desc": 31,
+			"desc": "31.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "CAMPOS &amp; LUNA LTDA - EPP",
 			"name": "CAMPOS &amp; LUNA LTDA - EPP",
 			"val": 0.589588908282265,
-			"desc": 30.03,
+			"desc": "30.03",
 			"group": "CAMPOS &amp; LUNA LTDA - EPP"
 		},
 		{
@@ -244,7 +245,7 @@
 			"id": "AUTO POSTO DOURADAO LTDA",
 			"name": "AUTO POSTO DOURADAO LTDA",
 			"val": 0.9888109456763332,
-			"desc": 45.01,
+			"desc": "45.01",
 			"group": "AUTO POSTO DOURADAO LTDA"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "AUTO POSTO PICANCO EIRELI",
 			"name": "AUTO POSTO PICANCO EIRELI",
 			"val": 5.645077055995952,
-			"desc": 187,
+			"desc": "187.00",
 			"group": "AUTO POSTO PICANCO EIRELI"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 17.9324012499785,
-			"desc": 500.02,
+			"desc": "500.02",
 			"group": "POSTO ROSA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "SCHONS & SCHONS LTDA",
 			"name": "SCHONS & SCHONS LTDA",
 			"val": 10.809228210904111,
-			"desc": 324.02,
+			"desc": "324.02",
 			"group": "SCHONS & SCHONS LTDA"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 335.14164449619767,
-			"desc": 6603.040000000001,
+			"desc": "6603.04",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "PORTELAUTO VEICULOS LTDA ME",
 			"name": "PORTELAUTO VEICULOS LTDA ME",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "PORTELAUTO VEICULOS LTDA ME"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "FABIANO DA SILVA COUTINHO ME",
 			"name": "FABIANO DA SILVA COUTINHO ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "FABIANO DA SILVA COUTINHO ME"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
 			"name": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "CENTRAL DE JORNALISMO, PRODUCAO, MARKETING E ASSESSORIA LTDA"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
 			"name": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "MILANEZ E SILVA NEGÓCIOS IMOBILIÁRIOS LTDA-ME"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP",
 			"name": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "SOL DISTRIBUIDORA DE COMBUSTIVEIS EIRELI EPP"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 107.42874210148769,
-			"desc": 2392.74,
+			"desc": "2392.74",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "UNITAXI DF",
 			"name": "UNITAXI DF",
 			"val": 1.329898923229561,
-			"desc": 57,
+			"desc": "57.00",
 			"group": "UNITAXI DF"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "AUTO POSTO ALTERNATIVO EIRELI EPP",
 			"name": "AUTO POSTO ALTERNATIVO EIRELI EPP",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "AUTO POSTO ALTERNATIVO EIRELI EPP"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 9.875743018898707,
-			"desc": 300.03000000000003,
+			"desc": "300.03",
 			"group": "W. J. J. COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 11.044330047682259,
-			"desc": 330.02,
+			"desc": "330.02",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
 			"name": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "EMPRESA JORNALÍSTICA EXTRA DE RONDÔNIA LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 55.177920259455014,
-			"desc": 1329.39,
+			"desc": "1329.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
 			"name": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "ASSOCIACAO DOS TAXISTAS DO SETOR DE INDUSTRIA E ABASTECIMENTO DO DISTRITO FEDERAL-ASSOSIA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.6104052130834106,
-			"desc": 66.49,
+			"desc": "66.49",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME",
 			"name": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "CEU ASSESSORIA E PUBLICAÇÕES EIRELI - ME"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "WK PRODUTORA",
 			"name": "WK PRODUTORA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "WK PRODUTORA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "C. G. DOS SANTOS &amp; CIA LTDA - ME",
 			"name": "C. G. DOS SANTOS &amp; CIA LTDA - ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "C. G. DOS SANTOS &amp; CIA LTDA - ME"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME",
 			"name": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "VOZ DE RONDONIA PUBLICIDADES E PROPAGANDA LTDA ME"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 28.349005090609854,
-			"desc": 743.1,
+			"desc": "743.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO PENTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.1925520619606158,
-			"desc": 52.24,
+			"desc": "52.24",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "INFORMANAHORA",
 			"name": "INFORMANAHORA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "INFORMANAHORA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "AUTO POSTO IRMAOS BATISTA LTDA",
 			"name": "AUTO POSTO IRMAOS BATISTA LTDA",
 			"val": 6.99021023470861,
-			"desc": 223.86,
+			"desc": "223.86",
 			"group": "AUTO POSTO IRMAOS BATISTA LTDA"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "AUTO POSTO FAZENDINHA LTDA - EPP",
 			"name": "AUTO POSTO FAZENDINHA LTDA - EPP",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "AUTO POSTO FAZENDINHA LTDA - EPP"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "B.W.M. AUTO POSTO LTDA",
 			"name": "B.W.M. AUTO POSTO LTDA",
 			"val": 8.135369239305058,
-			"desc": 254.5,
+			"desc": "254.50",
 			"group": "B.W.M. AUTO POSTO LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "ROYAL COMBUSTIVEIS LTDA",
 			"name": "ROYAL COMBUSTIVEIS LTDA",
 			"val": 4.688488163558117,
-			"desc": 160.07,
+			"desc": "160.07",
 			"group": "ROYAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "A. M. SOTO - ME",
 			"name": "A. M. SOTO - ME",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "A. M. SOTO - ME"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.5106530913725313,
-			"desc": 95.44,
+			"desc": "95.44",
 			"group": "RAMAL"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "R.B RAPOSO - ME",
 			"name": "R.B RAPOSO - ME",
 			"val": 20.28052494573708,
-			"desc": 556,
+			"desc": "556.00",
 			"group": "R.B RAPOSO - ME"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "NELSON CANEDO ADVOGADO ASSOCIADOS",
 			"name": "NELSON CANEDO ADVOGADO ASSOCIADOS",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "NELSON CANEDO ADVOGADO ASSOCIADOS"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "CANDEIAS AUTO POSTO LTDA",
 			"name": "CANDEIAS AUTO POSTO LTDA",
 			"val": 6.630002147887262,
-			"desc": 214.09,
+			"desc": "214.09",
 			"group": "CANDEIAS AUTO POSTO LTDA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "HUDSON EDUARDO PESSOA 07437614642",
 			"name": "HUDSON EDUARDO PESSOA 07437614642",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "HUDSON EDUARDO PESSOA 07437614642"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "ELIANE ALMEIDA ARAÚJO LEITE",
 			"name": "ELIANE ALMEIDA ARAÚJO LEITE",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "ELIANE ALMEIDA ARAÚJO LEITE"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 1.0442627041153958,
-			"desc": 47,
+			"desc": "47.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -902,7 +903,7 @@
 			"id": "CMP COMUNICACAO E ASSESSORIA LTDA",
 			"name": "CMP COMUNICACAO E ASSESSORIA LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "CMP COMUNICACAO E ASSESSORIA LTDA"
 		},
 		{
@@ -921,7 +922,7 @@
 			"id": "POSTO DE GASOLINA RANONI LTDA",
 			"name": "POSTO DE GASOLINA RANONI LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE GASOLINA RANONI LTDA"
 		},
 		{
@@ -934,7 +935,7 @@
 			"id": "RESTAURANTE LA-VARANDA LTDA - ME",
 			"name": "RESTAURANTE LA-VARANDA LTDA - ME",
 			"val": 4.4067399281737,
-			"desc": 152,
+			"desc": "152.00",
 			"group": "RESTAURANTE LA-VARANDA LTDA - ME"
 		},
 		{
@@ -947,7 +948,7 @@
 			"id": "NOGUEIRA E CIA LTDA",
 			"name": "NOGUEIRA E CIA LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "NOGUEIRA E CIA LTDA"
 		},
 		{
@@ -960,7 +961,7 @@
 			"id": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
 			"name": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "RUBENS COITINHO DOS SANTOS - TUDORONDONIA"
 		},
 		{

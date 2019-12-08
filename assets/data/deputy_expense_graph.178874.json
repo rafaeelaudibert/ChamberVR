@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SERGIO VIDIGAL"
+			"name": "SERGIO VIDIGAL",
+			"desc": "76632.80"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 33.868353810900636,
-			"desc": 867.47,
+			"desc": "867.47",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 14.165536938884076,
-			"desc": 408.3,
+			"desc": "408.30",
 			"group": "RAMAL"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 26.720630383223625,
-			"desc": 705.9,
+			"desc": "705.90",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "O JUNIO DE OLIVEIRA CONECTAR STILLO",
 			"name": "O JUNIO DE OLIVEIRA CONECTAR STILLO",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "O JUNIO DE OLIVEIRA CONECTAR STILLO"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 81.12891214363223,
-			"desc": 1866.5500000000002,
+			"desc": "1866.55",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.47813488108044,
-			"desc": 209.95,
+			"desc": "209.95",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "POSTO MARLIN LTDA",
 			"name": "POSTO MARLIN LTDA",
 			"val": 697.1679397960808,
-			"desc": 12776.84,
+			"desc": "12776.84",
 			"group": "POSTO MARLIN LTDA"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"val": 56.67544541014715,
-			"desc": 1361.02,
+			"desc": "1361.02",
 			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 447.96493614540935,
-			"desc": 8571.62,
+			"desc": "8571.62",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 8.001923468385304,
-			"desc": 250.96,
+			"desc": "250.96",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 4.0421591457707295,
-			"desc": 141.45,
+			"desc": "141.45",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"name": "MOVIDA LOCAÇÃO DE VEICULOS",
 			"val": 226.19370783267019,
-			"desc": 4642.47,
+			"desc": "4642.47",
 			"group": "MOVIDA LOCAÇÃO DE VEICULOS"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 44.794059643657455,
-			"desc": 1107.35,
+			"desc": "1107.35",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 9.189080131798937,
-			"desc": 282.2,
+			"desc": "282.20",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 22.602602094235095,
-			"desc": 610.6099999999999,
+			"desc": "610.61",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 5.488952461502584,
-			"desc": 182.65,
+			"desc": "182.65",
 			"group": "Oi S.A"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 24.797144541406638,
-			"desc": 661.6200000000001,
+			"desc": "661.62",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 58.26945849631302,
-			"desc": 1394.59,
+			"desc": "1394.59",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "CONECTAR STILLO",
 			"name": "CONECTAR STILLO",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "CONECTAR STILLO"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "ANILDO HOFFMAN",
 			"name": "ANILDO HOFFMAN",
 			"val": 186.09643117473675,
-			"desc": 3900,
+			"desc": "3900.00",
 			"group": "ANILDO HOFFMAN"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "CONDOMINIO ENSEADA TRADE CENTER",
 			"name": "CONDOMINIO ENSEADA TRADE CENTER",
 			"val": 26.366673562799086,
-			"desc": 697.78,
+			"desc": "697.78",
 			"group": "CONDOMINIO ENSEADA TRADE CENTER"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.0907016401308722,
-			"desc": 7.7,
+			"desc": "7.70",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "CONDOMINIO DO EDIFICIO ATIVE CENTRO EMPRESARIAL",
 			"name": "CONDOMINIO DO EDIFICIO ATIVE CENTRO EMPRESARIAL",
 			"val": 67.31138841464463,
-			"desc": 1583.25,
+			"desc": "1583.25",
 			"group": "CONDOMINIO DO EDIFICIO ATIVE CENTRO EMPRESARIAL"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CENTRAL CARTUCHOS LTDA - ME",
 			"name": "CENTRAL CARTUCHOS LTDA - ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CENTRAL CARTUCHOS LTDA - ME"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "GFC COMUNICACOES EIRELI - ME",
 			"name": "GFC COMUNICACOES EIRELI - ME",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "GFC COMUNICACOES EIRELI - ME"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 1.324080482393055,
-			"desc": 56.8,
+			"desc": "56.80",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 10.320339057458447,
-			"desc": 311.49,
+			"desc": "311.49",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "THIAGO MORENO FARIA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "THIAGO MORENO FARIA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "THIAGO MORENO FARIA SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "REPUBLICA MARKETING E CONSULTORIA LTDA",
 			"name": "REPUBLICA MARKETING E CONSULTORIA LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "REPUBLICA MARKETING E CONSULTORIA LTDA"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 4.8635345085668815,
-			"desc": 165.05,
+			"desc": "165.05",
 			"group": "OI S.A"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 1.691390981811295,
-			"desc": 69.18,
+			"desc": "69.18",
 			"group": "Telefônica Brasil S/A."
 		},
 		{

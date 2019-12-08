@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AIRTON FALEIRO"
+			"name": "AIRTON FALEIRO",
+			"desc": "53656.61"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 663.9564601529532,
-			"desc": 12225.239999999998,
+			"desc": "12225.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "SMAFF COMBUSTIVEIS LTDA",
 			"name": "SMAFF COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SMAFF COMBUSTIVEIS LTDA"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "MAR TROPICAL COMERCIO E REPRESENTACAO LTDA",
 			"name": "MAR TROPICAL COMERCIO E REPRESENTACAO LTDA",
 			"val": 0.895802941318422,
-			"desc": 41.63,
+			"desc": "41.63",
 			"group": "MAR TROPICAL COMERCIO E REPRESENTACAO LTDA"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 38.83875586149669,
-			"desc": 977.52,
+			"desc": "977.52",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 243.64171996676956,
-			"desc": 4961.5199999999995,
+			"desc": "4961.52",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "COOPERTAXI",
 			"name": "COOPERTAXI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "COOPERTAXI"
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "COOPERATIVA DE TÁXI DO AEROPORTO",
 			"name": "COOPERATIVA DE TÁXI DO AEROPORTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "COOPERATIVA DE TÁXI DO AEROPORTO"
 		},
 		{
@@ -336,7 +337,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 9.32567492682806,
-			"desc": 285.76,
+			"desc": "285.76",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "FERNANDES E SANTOS TRANSP. E COM. DE COMBUSTIVEIS",
 			"name": "FERNANDES E SANTOS TRANSP. E COM. DE COMBUSTIVEIS",
 			"val": 6.4821639500327155,
-			"desc": 210.06,
+			"desc": "210.06",
 			"group": "FERNANDES E SANTOS TRANSP. E COM. DE COMBUSTIVEIS"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "SR SAO PAULO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SR SAO PAULO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SR SAO PAULO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -387,7 +388,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 436.3767008644653,
-			"desc": 8371.7,
+			"desc": "8371.70",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "HOTEL GRÃO PARÁ HOTELARIA E TURISMO LTDA",
 			"name": "HOTEL GRÃO PARÁ HOTELARIA E TURISMO LTDA",
 			"val": 11.338303984116562,
-			"desc": 337.5,
+			"desc": "337.50",
 			"group": "HOTEL GRÃO PARÁ HOTELARIA E TURISMO LTDA"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 15.739736916801489,
-			"desc": 446.95,
+			"desc": "446.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 91.37558777971196,
-			"desc": 2073.37,
+			"desc": "2073.37",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "AGN IMP E EXP DE ARTIGOS PARA O LAR LTDA EPP",
 			"name": "AGN IMP E EXP DE ARTIGOS PARA O LAR LTDA EPP",
 			"val": 0.23419947155126117,
-			"desc": 14.99,
+			"desc": "14.99",
 			"group": "AGN IMP E EXP DE ARTIGOS PARA O LAR LTDA EPP"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 11.901374149710254,
-			"desc": 351.76,
+			"desc": "351.76",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "SINTAXI - SINDICATO DOS TAXISTAS DE ALTAMIRA",
 			"name": "SINTAXI - SINDICATO DOS TAXISTAS DE ALTAMIRA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SINTAXI - SINDICATO DOS TAXISTAS DE ALTAMIRA"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "MAXIMO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 12.612880719287931,
-			"desc": 369.65999999999997,
+			"desc": "369.66",
 			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "POSTO EXEMPLO COMERCIO LTDA",
 			"name": "POSTO EXEMPLO COMERCIO LTDA",
 			"val": 7.032403072095334,
-			"desc": 225,
+			"desc": "225.00",
 			"group": "POSTO EXEMPLO COMERCIO LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "FABRIZIO M SANTOS",
 			"name": "FABRIZIO M SANTOS",
 			"val": 4.668509247581986,
-			"desc": 159.5,
+			"desc": "159.50",
 			"group": "FABRIZIO M SANTOS"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 59.24421328026857,
-			"desc": 1415.07,
+			"desc": "1415.07",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "MIZUNO KAY & CIA LTDA",
 			"name": "MIZUNO KAY & CIA LTDA",
 			"val": 4.998749829091649,
-			"desc": 168.88,
+			"desc": "168.88",
 			"group": "MIZUNO KAY & CIA LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.6434475811264075,
-			"desc": 67.59,
+			"desc": "67.59",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "GUARUCOOP",
 			"name": "GUARUCOOP",
 			"val": 3.5354169961639497,
-			"desc": 126.56,
+			"desc": "126.56",
 			"group": "GUARUCOOP"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "AUTO POSTO AVENIDA LTDA",
 			"name": "AUTO POSTO AVENIDA LTDA",
 			"val": 15.45641998827573,
-			"desc": 440.03,
+			"desc": "440.03",
 			"group": "AUTO POSTO AVENIDA LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "SP ATACADISTA DE ARMARINHO LTDA",
 			"name": "SP ATACADISTA DE ARMARINHO LTDA",
 			"val": 2.0765435426835555,
-			"desc": 81.72,
+			"desc": "81.72",
 			"group": "SP ATACADISTA DE ARMARINHO LTDA"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "JJS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.6517210944516236,
-			"desc": 99.82,
+			"desc": "99.82",
 			"group": "RAMAL"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "IRMAOS OLIVI LTDA 1506",
 			"name": "IRMAOS OLIVI LTDA 1506",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "IRMAOS OLIVI LTDA 1506"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "AUTO POSTO MOGNO JACUNDA LTDA",
 			"name": "AUTO POSTO MOGNO JACUNDA LTDA",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "AUTO POSTO MOGNO JACUNDA LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "E A AGUIAR",
 			"name": "E A AGUIAR",
 			"val": 2.6578659408444105,
-			"desc": 100.01,
+			"desc": "100.01",
 			"group": "E A AGUIAR"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 32.03312082990243,
-			"desc": 826.39,
+			"desc": "826.39",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "R C JESUS COMERCIO E SERVIÇOS LTDA ME",
 			"name": "R C JESUS COMERCIO E SERVIÇOS LTDA ME",
 			"val": 831.1353402004992,
-			"desc": 14980,
+			"desc": "14980.00",
 			"group": "R C JESUS COMERCIO E SERVIÇOS LTDA ME"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "AUTO POSTO SÃO JOÃO LTDA",
 			"name": "AUTO POSTO SÃO JOÃO LTDA",
 			"val": 4.338678687269308,
-			"desc": 150.04,
+			"desc": "150.04",
 			"group": "AUTO POSTO SÃO JOÃO LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "HOTEL GRAO PARA HOTELARIA E TURISMO LTDA",
 			"name": "HOTEL GRAO PARA HOTELARIA E TURISMO LTDA",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "HOTEL GRAO PARA HOTELARIA E TURISMO LTDA"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 59.24421328026857,
-			"desc": 1415.07,
+			"desc": "1415.07",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 55.441793265567185,
-			"desc": 1334.97,
+			"desc": "1334.97",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.332712112939144,
-			"desc": 178.28,
+			"desc": "178.28",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{

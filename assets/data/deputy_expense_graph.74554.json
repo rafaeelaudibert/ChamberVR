@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSÉ ROCHA"
+			"name": "JOSÉ ROCHA",
+			"desc": "90193.18"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "VIACAO NOVO HORIZONTE LTDA SSA",
 			"name": "VIACAO NOVO HORIZONTE LTDA SSA",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "VIACAO NOVO HORIZONTE LTDA SSA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 26.66479828722452,
-			"desc": 704.6200000000001,
+			"desc": "704.62",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 698.581126944984,
-			"desc": 12800.259999999998,
+			"desc": "12800.26",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 38.75322120640961,
-			"desc": 975.6400000000001,
+			"desc": "975.64",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 39.423039399915936,
-			"desc": 990.35,
+			"desc": "990.35",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "PRAIA DO FORTE COMBUSTIVEIS LTDA",
 			"name": "PRAIA DO FORTE COMBUSTIVEIS LTDA",
 			"val": 34.45059015401921,
-			"desc": 880.45,
+			"desc": "880.45",
 			"group": "PRAIA DO FORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -245,7 +246,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 277.11424108770126,
-			"desc": 5567.73,
+			"desc": "5567.73",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -288,7 +289,7 @@
 			"id": "ALEGRIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "ALEGRIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 11.201808110440107,
-			"desc": 334.03,
+			"desc": "334.03",
 			"group": "ALEGRIA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "ATACADAO DO PAPEL EIRELI",
 			"name": "ATACADAO DO PAPEL EIRELI",
 			"val": 12.595330190734359,
-			"desc": 369.22,
+			"desc": "369.22",
 			"group": "ATACADAO DO PAPEL EIRELI"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 14.651308781591167,
-			"desc": 420.28000000000003,
+			"desc": "420.28",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"name": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"val": 16.26870590917531,
-			"desc": 459.83000000000004,
+			"desc": "459.83",
 			"group": "HIPER POSTO CAMINHO DAS ARVORES LTDA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "POSTO DE SERVICOS RIBEIRO LTDA",
 			"name": "POSTO DE SERVICOS RIBEIRO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE SERVICOS RIBEIRO LTDA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 61.599550351869695,
-			"desc": 1464.41,
+			"desc": "1464.41",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 12.3610831584159,
-			"desc": 363.34000000000003,
+			"desc": "363.34",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "Vou de Taxi",
 			"name": "Vou de Taxi",
 			"val": 0.9333175378087608,
-			"desc": 43,
+			"desc": "43.00",
 			"group": "Vou de Taxi"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "POSTO JACUIPE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "POSTO JACUIPE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 14.579818447275349,
-			"desc": 418.52,
+			"desc": "418.52",
 			"group": "POSTO JACUIPE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "MP COMERCIO DE COMBUSTIVEIS LT",
 			"name": "MP COMERCIO DE COMBUSTIVEIS LT",
 			"val": 14.892494511429929,
-			"desc": 426.21000000000004,
+			"desc": "426.21",
 			"group": "MP COMERCIO DE COMBUSTIVEIS LT"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "CIL COMERCIO DE INFORMATICA LTDA",
 			"name": "CIL COMERCIO DE INFORMATICA LTDA",
 			"val": 13.664872138411233,
-			"desc": 395.9,
+			"desc": "395.90",
 			"group": "CIL COMERCIO DE INFORMATICA LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.365171307698678,
-			"desc": 233.96,
+			"desc": "233.96",
 			"group": "RAMAL"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "POSTO DE COMBUSTIVEIS AGRADO LTDA",
 			"name": "POSTO DE COMBUSTIVEIS AGRADO LTDA",
 			"val": 12.967723435160066,
-			"desc": 378.54,
+			"desc": "378.54",
 			"group": "POSTO DE COMBUSTIVEIS AGRADO LTDA"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "GS REVENDEDORA DE COMBUSTIVEIS",
 			"name": "GS REVENDEDORA DE COMBUSTIVEIS",
 			"val": 6.822144407564297,
-			"desc": 219.31,
+			"desc": "219.31",
 			"group": "GS REVENDEDORA DE COMBUSTIVEIS"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "CENTER GRILL RESTAURANTE",
 			"name": "CENTER GRILL RESTAURANTE",
 			"val": 4.502130818152616,
-			"desc": 154.74,
+			"desc": "154.74",
 			"group": "CENTER GRILL RESTAURANTE"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 5.478923391707459,
-			"desc": 182.37,
+			"desc": "182.37",
 			"group": "NET CLARO"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "GRACA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
 			"name": "GRACA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
 			"val": 4.766763457927667,
-			"desc": 162.3,
+			"desc": "162.30",
 			"group": "GRACA - ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "POSTO JEQUITAIA LTDA",
 			"name": "POSTO JEQUITAIA LTDA",
 			"val": 7.025368613234106,
-			"desc": 224.81,
+			"desc": "224.81",
 			"group": "POSTO JEQUITAIA LTDA"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 2.257923889141315,
-			"desc": 87.5,
+			"desc": "87.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "Ponto da Impressão Ltda",
 			"name": "Ponto da Impressão Ltda",
 			"val": 3149.2210404361676,
-			"desc": 50400,
+			"desc": "50400.00",
 			"group": "Ponto da Impressão Ltda"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "MUNICIPIO DE SALVADOR",
 			"name": "MUNICIPIO DE SALVADOR",
 			"val": 89.20962302881892,
-			"desc": 2029.86,
+			"desc": "2029.86",
 			"group": "MUNICIPIO DE SALVADOR"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 6.666019365009187,
-			"desc": 215.07,
+			"desc": "215.07",
 			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "Transcootour Cooperativa Mista de Trabalho e Consumo dos Motoristas Autônomos de Turismo do RJ",
 			"name": "Transcootour Cooperativa Mista de Trabalho e Consumo dos Motoristas Autônomos de Turismo do RJ",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "Transcootour Cooperativa Mista de Trabalho e Consumo dos Motoristas Autônomos de Turismo do RJ"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "POSTO COMB PITANGUEIRAS LTDA",
 			"name": "POSTO COMB PITANGUEIRAS LTDA",
 			"val": 5.150799795199656,
-			"desc": 173.17,
+			"desc": "173.17",
 			"group": "POSTO COMB PITANGUEIRAS LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "ADALGISIO PIRES NETO",
 			"name": "ADALGISIO PIRES NETO",
 			"val": 50.73525891277188,
-			"desc": 1235,
+			"desc": "1235.00",
 			"group": "ADALGISIO PIRES NETO"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "POSTO DE COMBUSTIVEIS JAGUARIB",
 			"name": "POSTO DE COMBUSTIVEIS JAGUARIB",
 			"val": 7.57079722983212,
-			"desc": 239.47,
+			"desc": "239.47",
 			"group": "POSTO DE COMBUSTIVEIS JAGUARIB"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "táxi coometa",
 			"name": "táxi coometa",
 			"val": 9.13926443807898,
-			"desc": 280.9,
+			"desc": "280.90",
 			"group": "táxi coometa"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 7.153243156543347,
-			"desc": 228.26,
+			"desc": "228.26",
 			"group": "CLARO S/A"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
 			"name": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
 			"val": 74.91667006671244,
-			"desc": 1739.86,
+			"desc": "1739.86",
 			"group": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "PETROBRASDISTRIBUIDORASA",
 			"name": "PETROBRASDISTRIBUIDORASA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PETROBRASDISTRIBUIDORASA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "AEROPREST COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AEROPREST COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 67.5359552343272,
-			"desc": 1587.9,
+			"desc": "1587.90",
 			"group": "AEROPREST COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "HP COM DERIV DE PETROLEO LTDA",
 			"name": "HP COM DERIV DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "HP COM DERIV DE PETROLEO LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "Editora Flora e Artes Visuais",
 			"name": "Editora Flora e Artes Visuais",
 			"val": 46.770123470825986,
-			"desc": 1150,
+			"desc": "1150.00",
 			"group": "Editora Flora e Artes Visuais"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "POSTO SIMPATIA LTDA",
 			"name": "POSTO SIMPATIA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO SIMPATIA LTDA"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "MP COMERCIO DE COMB LTDA",
 			"name": "MP COMERCIO DE COMB LTDA",
 			"val": 8.563222563394186,
-			"desc": 265.8,
+			"desc": "265.80",
 			"group": "MP COMERCIO DE COMB LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "CONDOMINIO CENTRO EMPRESARIAL PREVINOR",
 			"name": "CONDOMINIO CENTRO EMPRESARIAL PREVINOR",
 			"val": 35.123011043974955,
-			"desc": 895.41,
+			"desc": "895.41",
 			"group": "CONDOMINIO CENTRO EMPRESARIAL PREVINOR"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "AUTO POSTO VILA MARIANA LTDA",
 			"name": "AUTO POSTO VILA MARIANA LTDA",
 			"val": 7.218222375526998,
-			"desc": 230.01,
+			"desc": "230.01",
 			"group": "AUTO POSTO VILA MARIANA LTDA"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "POSTO GUARDIANI LTDA",
 			"name": "POSTO GUARDIANI LTDA",
 			"val": 5.6181169784353955,
-			"desc": 186.25,
+			"desc": "186.25",
 			"group": "POSTO GUARDIANI LTDA"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "HP COM.E DER. DE PET. LTDA",
 			"name": "HP COM.E DER. DE PET. LTDA",
 			"val": 7.9244009614452615,
-			"desc": 248.9,
+			"desc": "248.90",
 			"group": "HP COM.E DER. DE PET. LTDA"
 		},
 		{

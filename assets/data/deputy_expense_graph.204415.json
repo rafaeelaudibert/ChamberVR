@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NEREU CRISPIM"
+			"name": "NEREU CRISPIM",
+			"desc": "23853.15"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTOPISTA REGIS BITTENCOURT S/A",
 			"name": "AUTOPISTA REGIS BITTENCOURT S/A",
 			"val": 0.3274010423680353,
-			"desc": 19.2,
+			"desc": "19.20",
 			"group": "AUTOPISTA REGIS BITTENCOURT S/A"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 36",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 36",
 			"val": 7.291834337680667,
-			"desc": 231.99,
+			"desc": "231.99",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 36"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "Dalla Vecchia",
 			"name": "Dalla Vecchia",
 			"val": 2.5929662588931617,
-			"desc": 98,
+			"desc": "98.00",
 			"group": "Dalla Vecchia"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "RITTER VEICULOS LTDA",
 			"name": "RITTER VEICULOS LTDA",
 			"val": 369.0368983070507,
-			"desc": 7200,
+			"desc": "7200.00",
 			"group": "RITTER VEICULOS LTDA"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "ENTREVIAS",
 			"name": "ENTREVIAS",
 			"val": 0.35964076842117854,
-			"desc": 20.6,
+			"desc": "20.60",
 			"group": "ENTREVIAS"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"name": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"val": 2.787382922746694,
-			"desc": 104,
+			"desc": "104.00",
 			"group": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 6.8114508680486265,
-			"desc": 219.02,
+			"desc": "219.02",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 3.6039325951762557,
-			"desc": 128.59,
+			"desc": "128.59",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "SANTANNA 2",
 			"name": "SANTANNA 2",
 			"val": 3.6519698675084267,
-			"desc": 130.01,
+			"desc": "130.01",
 			"group": "SANTANNA 2"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.291273169148959,
-			"desc": 119.28,
+			"desc": "119.28",
 			"group": "RAMAL"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA",
 			"name": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA",
 			"val": 7.219336976554634,
-			"desc": 230.04,
+			"desc": "230.04",
 			"group": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "AUTO PISTA LITORAL SUL S.A.",
 			"name": "AUTO PISTA LITORAL SUL S.A.",
 			"val": 0.5135278502336545,
-			"desc": 26.999999999999996,
+			"desc": "27.00",
 			"group": "AUTO PISTA LITORAL SUL S.A."
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "CANOAS PARQUE HOTEL",
 			"name": "CANOAS PARQUE HOTEL",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "CANOAS PARQUE HOTEL"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "SUSIN & BISOTTO LTDA",
 			"name": "SUSIN & BISOTTO LTDA",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "SUSIN & BISOTTO LTDA"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "MOVING VINCI PARK",
 			"name": "MOVING VINCI PARK",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "MOVING VINCI PARK"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 0.652907815693699,
-			"desc": 32.5,
+			"desc": "32.50",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "PIT STOP POSTO DE AUTO SERVIcO LTDA",
 			"name": "PIT STOP POSTO DE AUTO SERVIcO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "PIT STOP POSTO DE AUTO SERVIcO LTDA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 24.73444090367671,
-			"desc": 660.17,
+			"desc": "660.17",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "AUTO POSTO SOLAR LTDA",
 			"name": "AUTO POSTO SOLAR LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO SOLAR LTDA"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "POSTO DE COMBUSTIVEIS JARDIM DO LAGO LTDA - EPP",
 			"name": "POSTO DE COMBUSTIVEIS JARDIM DO LAGO LTDA - EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DE COMBUSTIVEIS JARDIM DO LAGO LTDA - EPP"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "AUTOVIAS S/A",
 			"name": "AUTOVIAS S/A",
 			"val": 0.22588515349717106,
-			"desc": 14.6,
+			"desc": "14.60",
 			"group": "AUTOVIAS S/A"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "ABAST DE COMB RODOLLO LTDA",
 			"name": "ABAST DE COMB RODOLLO LTDA",
 			"val": 2.836303857634432,
-			"desc": 105.5,
+			"desc": "105.50",
 			"group": "ABAST DE COMB RODOLLO LTDA"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"name": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"val": 0.6971224606557997,
-			"desc": 34.2,
+			"desc": "34.20",
 			"group": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 30.10750413351554,
-			"desc": 783,
+			"desc": "783.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"name": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.86318213214034,
-			"desc": 165.04,
+			"desc": "165.04",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "POSTO ANTARES LTDA",
 			"name": "POSTO ANTARES LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO ANTARES LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.9556167193652312,
-			"desc": 43.81,
+			"desc": "43.81",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"name": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"val": 0.23870076464821835,
-			"desc": 15.2,
+			"desc": "15.20",
 			"group": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "MARTA HELENA SANSONOVVISKI ME",
 			"name": "MARTA HELENA SANSONOVVISKI ME",
 			"val": 0.27794747320502305,
-			"desc": 17,
+			"desc": "17.00",
 			"group": "MARTA HELENA SANSONOVVISKI ME"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "POSTO ROTA 118 DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO ROTA 118 DERIVADOS DE PETROLEO LTDA",
 			"val": 9.260031241587468,
-			"desc": 284.05,
+			"desc": "284.05",
 			"group": "POSTO ROTA 118 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"val": 4.338678687269308,
-			"desc": 150.04,
+			"desc": "150.04",
 			"group": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "Ritter Veículos Ltda",
 			"name": "Ritter Veículos Ltda",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "Ritter Veículos Ltda"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "POSTO PERDIGÃO LTDA",
 			"name": "POSTO PERDIGÃO LTDA",
 			"val": 3.7921891471501477,
-			"desc": 134.14,
+			"desc": "134.14",
 			"group": "POSTO PERDIGÃO LTDA"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "POSTO VILA NOVA LTDA",
 			"name": "POSTO VILA NOVA LTDA",
 			"val": 4.497598606717097,
-			"desc": 154.61,
+			"desc": "154.61",
 			"group": "POSTO VILA NOVA LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 11.051000491502005,
-			"desc": 330.19,
+			"desc": "330.19",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
 			"name": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
 			"val": 2.658512888023484,
-			"desc": 100.03,
+			"desc": "100.03",
 			"group": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "CONDOR AUTO POSTO SAO JOSE LTDA",
 			"name": "CONDOR AUTO POSTO SAO JOSE LTDA",
 			"val": 4.149520076115824,
-			"desc": 144.57,
+			"desc": "144.57",
 			"group": "CONDOR AUTO POSTO SAO JOSE LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "POSTO DE COMBUSTIVEIS APOLO III LTDA",
 			"name": "POSTO DE COMBUSTIVEIS APOLO III LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE COMBUSTIVEIS APOLO III LTDA"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "Jacir Flores dos Santos",
 			"name": "Jacir Flores dos Santos",
 			"val": 0.6918949464100461,
-			"desc": 34,
+			"desc": "34.00",
 			"group": "Jacir Flores dos Santos"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "Fernando Crispim",
 			"name": "Fernando Crispim",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "Fernando Crispim"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "NP IMOVEIS LTDA",
 			"name": "NP IMOVEIS LTDA",
 			"val": 24.326238194874044,
-			"desc": 650.72,
+			"desc": "650.72",
 			"group": "NP IMOVEIS LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
 			"name": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
 			"val": 9.03629470480712,
-			"desc": 278.21,
+			"desc": "278.21",
 			"group": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA"
 		},
 		{
@@ -889,7 +890,7 @@
 			"id": "LSC EIRELI",
 			"name": "LSC EIRELI",
 			"val": 5.281362554528299,
-			"desc": 176.84,
+			"desc": "176.84",
 			"group": "LSC EIRELI"
 		},
 		{
@@ -902,7 +903,7 @@
 			"id": "POSTO 4 IRMAOS JL LTDA",
 			"name": "POSTO 4 IRMAOS JL LTDA",
 			"val": 4.268342480338143,
-			"desc": 148.01,
+			"desc": "148.01",
 			"group": "POSTO 4 IRMAOS JL LTDA"
 		},
 		{
@@ -915,7 +916,7 @@
 			"id": "PHENIX COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "PHENIX COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 4.897731608124605,
-			"desc": 166.02,
+			"desc": "166.02",
 			"group": "PHENIX COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -928,7 +929,7 @@
 			"id": "POSTO CENTER",
 			"name": "POSTO CENTER",
 			"val": 7.96616062498925,
-			"desc": 250.01,
+			"desc": "250.01",
 			"group": "POSTO CENTER"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.05100703802512774,
-			"desc": 5.3,
+			"desc": "5.30",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -954,7 +955,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.4278914729819928,
-			"desc": 23.49,
+			"desc": "23.49",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -967,7 +968,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 34.48291925429059,
-			"desc": 881.17,
+			"desc": "881.17",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{

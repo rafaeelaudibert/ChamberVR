@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO AZI"
+			"name": "PAULO AZI",
+			"desc": "72824.28"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 458.26571581444676,
-			"desc": 8748.94,
+			"desc": "8748.94",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 279.1249932691824,
-			"desc": 5603.919999999999,
+			"desc": "5603.92",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "A B PUBLICIDADE LTDA-ME",
 			"name": "A B PUBLICIDADE LTDA-ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "A B PUBLICIDADE LTDA-ME"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.3907956585218657,
-			"desc": 91.69,
+			"desc": "91.69",
 			"group": "RAMAL"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "AGDA MARIA OLIVEIRA RODRIGUES",
 			"name": "AGDA MARIA OLIVEIRA RODRIGUES",
 			"val": 496.8179245752243,
-			"desc": 9409.5,
+			"desc": "9409.50",
 			"group": "AGDA MARIA OLIVEIRA RODRIGUES"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 10.877733872100038,
-			"desc": 325.77000000000004,
+			"desc": "325.77",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "POSTO DE COMBUSTIVEIS LTDA. EPP",
 			"name": "POSTO DE COMBUSTIVEIS LTDA. EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE COMBUSTIVEIS LTDA. EPP"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 22.97434942475733,
-			"desc": 619.29,
+			"desc": "619.29",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 35.155410121055645,
-			"desc": 896.13,
+			"desc": "896.13",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 388.5973646918374,
-			"desc": 7542.199999999999,
+			"desc": "7542.20",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
 			"name": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
 			"val": 27.33653691742946,
-			"desc": 720,
+			"desc": "720.00",
 			"group": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
 			"name": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
 			"val": 63.469533217482535,
-			"desc": 1503.44,
+			"desc": "1503.44",
 			"group": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 2.6413765989763722,
-			"desc": 99.5,
+			"desc": "99.50",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 18.207436894037286,
-			"desc": 506.62,
+			"desc": "506.62",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7",
 			"name": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "JMF COMERCIO DE COMBUSTIVEIS LTDA - PSG7"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "POSTO KALILANDIA LTDA",
 			"name": "POSTO KALILANDIA LTDA",
 			"val": 18.386894135329356,
-			"desc": 510.91999999999996,
+			"desc": "510.92",
 			"group": "POSTO KALILANDIA LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 20.009516852978567,
-			"desc": 549.58,
+			"desc": "549.58",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 35.15361008472468,
-			"desc": 896.09,
+			"desc": "896.09",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 38.21047484866103,
-			"desc": 963.7,
+			"desc": "963.70",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "Posto Nota 10 Ltda",
 			"name": "Posto Nota 10 Ltda",
 			"val": 6.575290917761838,
-			"desc": 212.6,
+			"desc": "212.60",
 			"group": "Posto Nota 10 Ltda"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 6.45726230909766,
-			"desc": 209.38,
+			"desc": "209.38",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "CARVALHO DA SILVA SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 59.17657226957052,
-			"desc": 1413.65,
+			"desc": "1413.65",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "AUTO POSTO CRIOLO LTDA",
 			"name": "AUTO POSTO CRIOLO LTDA",
 			"val": 8.01661106975357,
-			"desc": 251.35,
+			"desc": "251.35",
 			"group": "AUTO POSTO CRIOLO LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA",
 			"name": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "FONTES MARKETING, COMUNICACAO & ESTRATEGIA LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "CATANA COM DE COM E LUB LTDA",
 			"name": "CATANA COM DE COM E LUB LTDA",
 			"val": 6.115448415311677,
-			"desc": 200.01,
+			"desc": "200.01",
 			"group": "CATANA COM DE COM E LUB LTDA"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "PETROBRASDISTRIBUIDORASA",
 			"name": "PETROBRASDISTRIBUIDORASA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PETROBRASDISTRIBUIDORASA"
 		},
 		{

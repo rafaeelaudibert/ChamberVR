@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUISA CANZIANI"
+			"name": "LUISA CANZIANI",
+			"desc": "47484.26"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 26.59938712749348,
-			"desc": 703.1199999999999,
+			"desc": "703.12",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1160.6494550803438,
-			"desc": 20280.049999999996,
+			"desc": "20280.05",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 63.26466381084422,
-			"desc": 1499.17,
+			"desc": "1499.17",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "ATRIO HOTEIS S.A",
 			"name": "ATRIO HOTEIS S.A",
 			"val": 46.0601745059593,
-			"desc": 1134.6999999999998,
+			"desc": "1134.70",
 			"group": "ATRIO HOTEIS S.A"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 333.6338305790867,
-			"desc": 6576.360000000001,
+			"desc": "6576.36",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "SERCOMTEL S/A",
 			"name": "SERCOMTEL S/A",
 			"val": 98.51321507535738,
-			"desc": 2216.02,
+			"desc": "2216.02",
 			"group": "SERCOMTEL S/A"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 2.8788016198810418,
-			"desc": 106.8,
+			"desc": "106.80",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.47220456733365,
-			"desc": 94.24,
+			"desc": "94.24",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "CESAR AUGUSTO GOMES FILHO",
 			"name": "CESAR AUGUSTO GOMES FILHO",
 			"val": 128.37219383896138,
-			"desc": 2802.3,
+			"desc": "2802.30",
 			"group": "CESAR AUGUSTO GOMES FILHO"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "Ana Luisa Pereira",
 			"name": "Ana Luisa Pereira",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "Ana Luisa Pereira"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
 			"name": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME",
 			"val": 44.4544663570129,
-			"desc": 1100,
+			"desc": "1100.00",
 			"group": "TAZZA COMERCIO DE MAQUINAS E INSUMOS EIRELI ME"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "APYS ESPAÇO COLABORATIVO LTDA-ME",
 			"name": "APYS ESPAÇO COLABORATIVO LTDA-ME",
 			"val": 243.0096136351158,
-			"desc": 4950,
+			"desc": "4950.00",
 			"group": "APYS ESPAÇO COLABORATIVO LTDA-ME"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.83689774787749,
-			"desc": 219.70999999999998,
+			"desc": "219.71",
 			"group": "RAMAL"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 9.943861222730398,
-			"desc": 301.79,
+			"desc": "301.79",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{

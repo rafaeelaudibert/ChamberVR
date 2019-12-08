@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GELSON AZEVEDO"
+			"name": "GELSON AZEVEDO",
+			"desc": "59869.70"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1471.4692083033954,
-			"desc": 25163.55999999999,
+			"desc": "25163.56",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "GALAPAGOS CENTRO AUTOMOTIVO LTDA",
 			"name": "GALAPAGOS CENTRO AUTOMOTIVO LTDA",
 			"val": 63.36541049846545,
-			"desc": 1501.27,
+			"desc": "1501.27",
 			"group": "GALAPAGOS CENTRO AUTOMOTIVO LTDA"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 26.41720558484582,
-			"desc": 698.94,
+			"desc": "698.94",
 			"group": "CLARO S/A"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "JR LOCAÇÕES DE VEÍCULOS E MAQUINAS ENRELI  EP",
 			"name": "JR LOCAÇÕES DE VEÍCULOS E MAQUINAS ENRELI  EP",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "JR LOCAÇÕES DE VEÍCULOS E MAQUINAS ENRELI  EP"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.3550854515298645,
-			"desc": 121.19,
+			"desc": "121.19",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "FUJICHIMA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "FUJICHIMA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "FUJICHIMA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "SEM PARAR",
 			"name": "SEM PARAR",
 			"val": 17.734353868556912,
-			"desc": 495.26,
+			"desc": "495.26",
 			"group": "SEM PARAR"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 26.599823140790363,
-			"desc": 703.13,
+			"desc": "703.13",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "A C F SOARES  DOS SANTOS BAR E RESTAURANTE ME",
 			"name": "A C F SOARES  DOS SANTOS BAR E RESTAURANTE ME",
 			"val": 12.586556060945144,
-			"desc": 369,
+			"desc": "369.00",
 			"group": "A C F SOARES  DOS SANTOS BAR E RESTAURANTE ME"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"name": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"val": 10.272113663561774,
-			"desc": 310.25,
+			"desc": "310.25",
 			"group": "POSTO DE GASOLINA LORD BARRA SUL LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.574208370977362,
-			"desc": 127.71,
+			"desc": "127.71",
 			"group": "RAMAL"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "Alexandre Victorino de Oliveira",
 			"name": "Alexandre Victorino de Oliveira",
 			"val": 420.6720806421629,
-			"desc": 8100,
+			"desc": "8100.00",
 			"group": "Alexandre Victorino de Oliveira"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 46.53055763935162,
-			"desc": 1144.84,
+			"desc": "1144.84",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 169.69906443047057,
-			"desc": 3592.09,
+			"desc": "3592.09",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "EST COMERCIO E PARTICIPAÇÕES LTDA",
 			"name": "EST COMERCIO E PARTICIPAÇÕES LTDA",
 			"val": 1.75837856165983,
-			"desc": 71.39,
+			"desc": "71.39",
 			"group": "EST COMERCIO E PARTICIPAÇÕES LTDA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "AUTO POSTO PICA PAU LTDA",
 			"name": "AUTO POSTO PICA PAU LTDA",
 			"val": 12.99014149762397,
-			"desc": 379.1,
+			"desc": "379.10",
 			"group": "AUTO POSTO PICA PAU LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "CT BOUCHERIE PRODUTOS ALIMENTICIO LTDA",
 			"name": "CT BOUCHERIE PRODUTOS ALIMENTICIO LTDA",
 			"val": 2.083093160810724,
-			"desc": 81.93,
+			"desc": "81.93",
 			"group": "CT BOUCHERIE PRODUTOS ALIMENTICIO LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "SANTOS DUPAO LTDA",
 			"name": "SANTOS DUPAO LTDA",
 			"val": 0.6918949464100461,
-			"desc": 34,
+			"desc": "34.00",
 			"group": "SANTOS DUPAO LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "MATTAR E MATTAR AUTO POSTO LTDA",
 			"name": "MATTAR E MATTAR AUTO POSTO LTDA",
 			"val": 23.808167507002896,
-			"desc": 638.7,
+			"desc": "638.70",
 			"group": "MATTAR E MATTAR AUTO POSTO LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 9.82817303106032,
-			"desc": 298.8,
+			"desc": "298.80",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 0.7233604961439909,
-			"desc": 35.2,
+			"desc": "35.20",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 9.02673262769772,
-			"desc": 277.96,
+			"desc": "277.96",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.31036950964456983,
-			"desc": 18.45,
+			"desc": "18.45",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "LANCHONETE E RESTAURANTE KNOPP DE MERITI LTDA",
 			"name": "LANCHONETE E RESTAURANTE KNOPP DE MERITI LTDA",
 			"val": 0.9333175378087608,
-			"desc": 43,
+			"desc": "43.00",
 			"group": "LANCHONETE E RESTAURANTE KNOPP DE MERITI LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "POSTO DE GASOLINA RECREIOMAR LTDA",
 			"name": "POSTO DE GASOLINA RECREIOMAR LTDA",
 			"val": 10.591939301673523,
-			"desc": 318.46,
+			"desc": "318.46",
 			"group": "POSTO DE GASOLINA RECREIOMAR LTDA"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "AUTOMOBILE - LOCAÇÃO DE VEICULOS LTDA EPP",
 			"name": "AUTOMOBILE - LOCAÇÃO DE VEICULOS LTDA EPP",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "AUTOMOBILE - LOCAÇÃO DE VEICULOS LTDA EPP"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "TESSIER RESTAURANTE EIRELI EPP",
 			"name": "TESSIER RESTAURANTE EIRELI EPP",
 			"val": 2.1653798302366756,
-			"desc": 84.56,
+			"desc": "84.56",
 			"group": "TESSIER RESTAURANTE EIRELI EPP"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "POSTO MAP RECREIO LTDA",
 			"name": "POSTO MAP RECREIO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO MAP RECREIO LTDA"
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 11.79489736221196,
-			"desc": 349.07,
+			"desc": "349.07",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "MIZUNO E KAY E CIA LTDA",
 			"name": "MIZUNO E KAY E CIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MIZUNO E KAY E CIA LTDA"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "RLT VIDAL COMERCIO DE ALIMENTOS LTDA EP",
 			"name": "RLT VIDAL COMERCIO DE ALIMENTOS LTDA EP",
 			"val": 3.4795289814936092,
-			"desc": 124.9,
+			"desc": "124.90",
 			"group": "RLT VIDAL COMERCIO DE ALIMENTOS LTDA EP"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA",
 			"name": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA",
 			"val": 8.507783894209531,
-			"desc": 264.34,
+			"desc": "264.34",
 			"group": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
 			"name": "ALTIS LOCADORA DE VEÍCULOS - EIRELI",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "ALTIS LOCADORA DE VEÍCULOS - EIRELI"
 		},
 		{

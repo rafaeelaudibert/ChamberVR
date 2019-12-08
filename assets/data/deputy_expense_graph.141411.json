@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DAGOBERTO NOGUEIRA"
+			"name": "DAGOBERTO NOGUEIRA",
+			"desc": "117874.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 477.54274747719506,
-			"desc": 9079.83,
+			"desc": "9079.83",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -204,7 +205,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 55.28288583475178,
-			"desc": 1331.61,
+			"desc": "1331.61",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 57.52718293586038,
-			"desc": 1378.97,
+			"desc": "1378.97",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "MARCHIORI & MARCHIORI LTDA ME",
 			"name": "MARCHIORI & MARCHIORI LTDA ME",
 			"val": 578.82572749173,
-			"desc": 10800,
+			"desc": "10800.00",
 			"group": "MARCHIORI & MARCHIORI LTDA ME"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 479.4130744085711,
-			"desc": 9111.87,
+			"desc": "9111.87",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 8.897962942017827,
-			"desc": 274.59000000000003,
+			"desc": "274.59",
 			"group": "CLARO S/A"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 3.1694897499061505,
-			"desc": 115.62,
+			"desc": "115.62",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 90.5680183835282,
-			"desc": 2057.16,
+			"desc": "2057.16",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 80.54913393424675,
-			"desc": 1854.77,
+			"desc": "1854.77",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 271.55691166937095,
-			"desc": 5467.58,
+			"desc": "5467.58",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "POSTO LIBERDADE LOCATELLI LTDA.",
 			"name": "POSTO LIBERDADE LOCATELLI LTDA.",
 			"val": 329.50975979613537,
-			"desc": 6503.33,
+			"desc": "6503.33",
 			"group": "POSTO LIBERDADE LOCATELLI LTDA."
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 7.282534501458149,
-			"desc": 231.74,
+			"desc": "231.74",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "RENTAL LOCADORA DE BENS E VEICULOS LTDA EPP",
 			"name": "RENTAL LOCADORA DE BENS E VEICULOS LTDA EPP",
 			"val": 555.122709769298,
-			"desc": 10400,
+			"desc": "10400.00",
 			"group": "RENTAL LOCADORA DE BENS E VEICULOS LTDA EPP"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "LR PETROLEO LTDA",
 			"name": "LR PETROLEO LTDA",
 			"val": 10.847584680290561,
-			"desc": 325,
+			"desc": "325.00",
 			"group": "LR PETROLEO LTDA"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "Ana Leonor Schimidt",
 			"name": "Ana Leonor Schimidt",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "Ana Leonor Schimidt"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"name": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"val": 2.0382442938606307,
-			"desc": 80.49000000000001,
+			"desc": "80.49",
 			"group": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "posto gabbi centro sul",
 			"name": "posto gabbi centro sul",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "posto gabbi centro sul"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "pereira § goes advogados",
 			"name": "pereira § goes advogados",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "pereira § goes advogados"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 57.95474658895823,
-			"desc": 1387.97,
+			"desc": "1387.97",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 42.77550602571912,
-			"desc": 1063.5700000000002,
+			"desc": "1063.57",
 			"group": "CLARO S.A."
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "posto mandala ltda",
 			"name": "posto mandala ltda",
 			"val": 2.148758886460518,
-			"desc": 84.03,
+			"desc": "84.03",
 			"group": "posto mandala ltda"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.343569733447313,
-			"desc": 233.38,
+			"desc": "233.38",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 6.308121557902083,
-			"desc": 205.3,
+			"desc": "205.30",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 51.864800148135,
-			"desc": 1259.08,
+			"desc": "1259.08",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.47220456733365,
-			"desc": 94.24,
+			"desc": "94.24",
 			"group": "RAMAL"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "RENTAL LOCADORA DE BENS E VEICULOS LTDA",
 			"name": "RENTAL LOCADORA DE BENS E VEICULOS LTDA",
 			"val": 555.122709769298,
-			"desc": 10400,
+			"desc": "10400.00",
 			"group": "RENTAL LOCADORA DE BENS E VEICULOS LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "L F ARAUJO COMERCIO DE ALIMENTOS EIRELI",
 			"name": "L F ARAUJO COMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "L F ARAUJO COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "TAM LINHAS AEREAS SA",
 			"name": "TAM LINHAS AEREAS SA",
 			"val": 45.76772439541928,
-			"desc": 1128.39,
+			"desc": "1128.39",
 			"group": "TAM LINHAS AEREAS SA"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.877032724937088,
-			"desc": 247.64,
+			"desc": "247.64",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "aguas guarirobas",
 			"name": "aguas guarirobas",
 			"val": 0.7550621689973303,
-			"desc": 36.4,
+			"desc": "36.40",
 			"group": "aguas guarirobas"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "Gênesis  Comercio e Tecnologia - Eireli ME",
 			"name": "Gênesis  Comercio e Tecnologia - Eireli ME",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "Gênesis  Comercio e Tecnologia - Eireli ME"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 42.95122575168128,
-			"desc": 1067.39,
+			"desc": "1067.39",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{

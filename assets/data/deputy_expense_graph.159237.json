@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ASSIS CARVALHO"
+			"name": "ASSIS CARVALHO",
+			"desc": "81748.25"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 98.55992619619785,
-			"desc": 2216.95,
+			"desc": "2216.95",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -78,7 +79,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 990.2705949478069,
-			"desc": 17558.17,
+			"desc": "17558.17",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -175,7 +176,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 171.44459655695007,
-			"desc": 3625,
+			"desc": "3625.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -194,7 +195,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 199.62674773782467,
-			"desc": 4152.099999999999,
+			"desc": "4152.10",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 21.58485076332833,
-			"desc": 586.76,
+			"desc": "586.76",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -250,7 +251,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 82.88561345894463,
-			"desc": 1902.19,
+			"desc": "1902.19",
 			"group": "CLARO S.A."
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "Companhia Energética do Piauí",
 			"name": "Companhia Energética do Piauí",
 			"val": 103.42142124351325,
-			"desc": 2313.5,
+			"desc": "2313.50",
 			"group": "Companhia Energética do Piauí"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 5.038031754831878,
-			"desc": 169.99,
+			"desc": "169.99",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 488.59428364078286,
-			"desc": 9268.99,
+			"desc": "9268.99",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "AGUAS DE TERESINA SAN. SPE SA",
 			"name": "AGUAS DE TERESINA SAN. SPE SA",
 			"val": 13.679376312382235,
-			"desc": 396.26,
+			"desc": "396.26",
 			"group": "AGUAS DE TERESINA SAN. SPE SA"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "FRANCISCO AVELINO DA SILVA",
 			"name": "FRANCISCO AVELINO DA SILVA",
 			"val": 14.11456261853216,
-			"desc": 407.03999999999996,
+			"desc": "407.04",
 			"group": "FRANCISCO AVELINO DA SILVA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 22.92762811817114,
-			"desc": 618.1999999999998,
+			"desc": "618.20",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "MULTISOFT INFORMATICA LTDA",
 			"name": "MULTISOFT INFORMATICA LTDA",
 			"val": 107.17846880492455,
-			"desc": 2387.8,
+			"desc": "2387.80",
 			"group": "MULTISOFT INFORMATICA LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.8784501170718575,
-			"desc": 136.67000000000002,
+			"desc": "136.67",
 			"group": "RAMAL"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "VIVO",
 			"name": "VIVO",
 			"val": 13.829766442311687,
-			"desc": 399.99,
+			"desc": "399.99",
 			"group": "VIVO"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "JOSÉ MARIA",
 			"name": "JOSÉ MARIA",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "JOSÉ MARIA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 15.020398229271741,
-			"desc": 429.35,
+			"desc": "429.35",
 			"group": "Telefônia Brasil S/A"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA",
 			"name": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA",
 			"val": 4.985311622516573,
-			"desc": 168.5,
+			"desc": "168.50",
 			"group": "ART  CORES COMERCIO E SERVIÇO DE INFORMATICA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 10.237129267238894,
-			"desc": 309.35,
+			"desc": "309.35",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "TELEFONICA BRASIL S. A.",
 			"name": "TELEFONICA BRASIL S. A.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "TELEFONICA BRASIL S. A."
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "ROCHA FILHO",
 			"name": "ROCHA FILHO",
 			"val": 520.323868404223,
-			"desc": 9810,
+			"desc": "9810.00",
 			"group": "ROCHA FILHO"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "JOAO BATISTA SILVA BARROSO EIRELI - ME",
 			"name": "JOAO BATISTA SILVA BARROSO EIRELI - ME",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "JOAO BATISTA SILVA BARROSO EIRELI - ME"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 1.813536366466548,
-			"desc": 73.2,
+			"desc": "73.20",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 14.163109080934365,
-			"desc": 408.24,
+			"desc": "408.24",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "PIPEL PICOS PETROLEO LTDA",
 			"name": "PIPEL PICOS PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PIPEL PICOS PETROLEO LTDA"
 		},
 		{

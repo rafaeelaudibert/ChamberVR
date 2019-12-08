@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROSANA VALLE"
+			"name": "ROSANA VALLE",
+			"desc": "55969.57"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"name": "COMPANHIA PIRATININGA DE FORCA E LUZ",
 			"val": 18.206185604531715,
-			"desc": 506.59000000000003,
+			"desc": "506.59",
 			"group": "COMPANHIA PIRATININGA DE FORCA E LUZ"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE VEICULOS RODOVIARIOS DA BAIXADA SANTISTA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE VEICULOS RODOVIARIOS DA BAIXADA SANTISTA",
 			"val": 15.455193095803402,
-			"desc": 440,
+			"desc": "440.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE VEICULOS RODOVIARIOS DA BAIXADA SANTISTA"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"name": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"val": 2.8287946147932277,
-			"desc": 105.27,
+			"desc": "105.27",
 			"group": "ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 1056.6864686458548,
-			"desc": 18623.520000000008,
+			"desc": "18623.52",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 171.2296929605126,
-			"desc": 3620.9500000000003,
+			"desc": "3620.95",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "VIAÇAO COMETA S/A",
 			"name": "VIAÇAO COMETA S/A",
 			"val": 0.624313591025256,
-			"desc": 31.39,
+			"desc": "31.39",
 			"group": "VIAÇAO COMETA S/A"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.726153732716583,
-			"desc": 243.62,
+			"desc": "243.62",
 			"group": "RAMAL"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "COOPER RADIO TAXI",
 			"name": "COOPER RADIO TAXI",
 			"val": 54.73418129121791,
-			"desc": 1320,
+			"desc": "1320.00",
 			"group": "COOPER RADIO TAXI"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 33.96830435432659,
-			"desc": 869.7,
+			"desc": "869.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "ELUX SS EXPRESSO LUXO SÃO PAULO SANTOS",
 			"name": "ELUX SS EXPRESSO LUXO SÃO PAULO SANTOS",
 			"val": 0.5197320914006849,
-			"desc": 27.25,
+			"desc": "27.25",
 			"group": "ELUX SS EXPRESSO LUXO SÃO PAULO SANTOS"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "M.R.V. DA COSTA GUEDES PUBLICIDADE",
 			"name": "M.R.V. DA COSTA GUEDES PUBLICIDADE",
 			"val": 484.91164177129235,
-			"desc": 9206,
+			"desc": "9206.00",
 			"group": "M.R.V. DA COSTA GUEDES PUBLICIDADE"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "PORTO SEGURO COMPANHIA DE SEGUROS GERAIS",
 			"name": "PORTO SEGURO COMPANHIA DE SEGUROS GERAIS",
 			"val": 3.492647918139604,
-			"desc": 125.29,
+			"desc": "125.29",
 			"group": "PORTO SEGURO COMPANHIA DE SEGUROS GERAIS"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 6.004001347218436,
-			"desc": 196.94,
+			"desc": "196.94",
 			"group": "SINPETAXI"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 41.1930461532787,
-			"desc": 1029.0900000000001,
+			"desc": "1029.09",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "ENGEPLUS CONSTRUTORA E INCORPORADORA",
 			"name": "ENGEPLUS CONSTRUTORA E INCORPORADORA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "ENGEPLUS CONSTRUTORA E INCORPORADORA"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 10.994513915696258,
-			"desc": 328.75,
+			"desc": "328.75",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 30.273831823627056,
-			"desc": 786.76,
+			"desc": "786.76",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "ASSOCIAÇÃO OND'AZUL",
 			"name": "ASSOCIAÇÃO OND'AZUL",
 			"val": 0.3492162594514327,
-			"desc": 20.15,
+			"desc": "20.15",
 			"group": "ASSOCIAÇÃO OND'AZUL"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 7.742274357498472,
-			"desc": 244.05,
+			"desc": "244.05",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "ALEXANDRE MORGADO ME / MORGATEC INFORMATICA",
 			"name": "ALEXANDRE MORGADO ME / MORGATEC INFORMATICA",
 			"val": 61.627773802954316,
-			"desc": 1465,
+			"desc": "1465.00",
 			"group": "ALEXANDRE MORGADO ME / MORGATEC INFORMATICA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S/A",
 			"name": "HOTELARIA ACCOR BRASIL S/A",
 			"val": 47.602207355951926,
-			"desc": 1167.9,
+			"desc": "1167.90",
 			"group": "HOTELARIA ACCOR BRASIL S/A"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "BRASIL HOSPEDAGENS E TURISMO EIRELI EPP",
 			"name": "BRASIL HOSPEDAGENS E TURISMO EIRELI EPP",
 			"val": 11.357988997853512,
-			"desc": 338,
+			"desc": "338.00",
 			"group": "BRASIL HOSPEDAGENS E TURISMO EIRELI EPP"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "FM IMPRESSOS PERSONALIZADOS LTDA",
 			"name": "FM IMPRESSOS PERSONALIZADOS LTDA",
 			"val": 7.400943860524869,
-			"desc": 234.92,
+			"desc": "234.92",
 			"group": "FM IMPRESSOS PERSONALIZADOS LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "PAPELARIA LUIZA LTDA.",
 			"name": "PAPELARIA LUIZA LTDA.",
 			"val": 14.879874298737844,
-			"desc": 425.9,
+			"desc": "425.90",
 			"group": "PAPELARIA LUIZA LTDA."
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "FALASANTOS MULTIMIDIA LTDA",
 			"name": "FALASANTOS MULTIMIDIA LTDA",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "FALASANTOS MULTIMIDIA LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "DIOGO DE ARAUJO LADARIO 21330974816",
 			"name": "DIOGO DE ARAUJO LADARIO 21330974816",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "DIOGO DE ARAUJO LADARIO 21330974816"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.6418043961149928,
-			"desc": 32.07,
+			"desc": "32.07",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 13.24106673971796,
-			"desc": 385.36,
+			"desc": "385.36",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "TC GRAFICA E EDITORA LTDA EPP",
 			"name": "TC GRAFICA E EDITORA LTDA EPP",
 			"val": 29.092361049326083,
-			"desc": 760,
+			"desc": "760.00",
 			"group": "TC GRAFICA E EDITORA LTDA EPP"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 88.09016831101582,
-			"desc": 2007.33,
+			"desc": "2007.33",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "LORES COMERCIAL LTDA",
 			"name": "LORES COMERCIAL LTDA",
 			"val": 0.46487258922986086,
-			"desc": 25.02,
+			"desc": "25.02",
 			"group": "LORES COMERCIAL LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "ALEXANDRE MORGADO ME (MORGATEC INFORMÁTICA)",
 			"name": "ALEXANDRE MORGADO ME (MORGATEC INFORMÁTICA)",
 			"val": 75.6563323126473,
-			"desc": 1755,
+			"desc": "1755.00",
 			"group": "ALEXANDRE MORGADO ME (MORGATEC INFORMÁTICA)"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.068127182167311,
-			"desc": 81.45,
+			"desc": "81.45",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{

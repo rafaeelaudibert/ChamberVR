@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SUBTENENTE GONZAGA"
+			"name": "SUBTENENTE GONZAGA",
+			"desc": "26511.43"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RIO JORDÃO HOTEL",
 			"name": "RIO JORDÃO HOTEL",
 			"val": 1.9919947164239646,
-			"desc": 79,
+			"desc": "79.00",
 			"group": "RIO JORDÃO HOTEL"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 0.39007044530892987,
-			"desc": 21.900000000000002,
+			"desc": "21.90",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "Auto Posto Mendonça Ltda",
 			"name": "Auto Posto Mendonça Ltda",
 			"val": 15.677861798470417,
-			"desc": 445.44,
+			"desc": "445.44",
 			"group": "Auto Posto Mendonça Ltda"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "AUTO POSTO MACPETRO LTDA",
 			"name": "AUTO POSTO MACPETRO LTDA",
 			"val": 12.189729960012233,
-			"desc": 359.03,
+			"desc": "359.03",
 			"group": "AUTO POSTO MACPETRO LTDA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "POSTO PICA PAU LTDA",
 			"name": "POSTO PICA PAU LTDA",
 			"val": 8.394015155248871,
-			"desc": 261.34,
+			"desc": "261.34",
 			"group": "POSTO PICA PAU LTDA"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "Auto Posto Nazaro Realeza Ltda",
 			"name": "Auto Posto Nazaro Realeza Ltda",
 			"val": 3.3821998207306887,
-			"desc": 122,
+			"desc": "122.00",
 			"group": "Auto Posto Nazaro Realeza Ltda"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.9168563042010219,
-			"desc": 42.4,
+			"desc": "42.40",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -204,7 +205,7 @@
 			"id": "VAP AUTO POSTO LTDA",
 			"name": "VAP AUTO POSTO LTDA",
 			"val": 9.439443136762923,
-			"desc": 288.72,
+			"desc": "288.72",
 			"group": "VAP AUTO POSTO LTDA"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "POSTO DE SERVICOS CAFE DA TERRA EIRELI",
 			"name": "POSTO DE SERVICOS CAFE DA TERRA EIRELI",
 			"val": 2.917783500304636,
-			"desc": 107.99,
+			"desc": "107.99",
 			"group": "POSTO DE SERVICOS CAFE DA TERRA EIRELI"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "Autopista Fernão Dias",
 			"name": "Autopista Fernão Dias",
 			"val": 0.3274010423680353,
-			"desc": 19.2,
+			"desc": "19.20",
 			"group": "Autopista Fernão Dias"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "Restaurante e Churrascaria Victoria'S",
 			"name": "Restaurante e Churrascaria Victoria'S",
 			"val": 0.15221499122004106,
-			"desc": 11,
+			"desc": "11.00",
 			"group": "Restaurante e Churrascaria Victoria'S"
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "POSTO ESTACAO BH LTDA",
 			"name": "POSTO ESTACAO BH LTDA",
 			"val": 3.663485067258768,
-			"desc": 130.35,
+			"desc": "130.35",
 			"group": "POSTO ESTACAO BH LTDA"
 		},
 		{
@@ -336,7 +337,7 @@
 			"id": "SOLFANG - SOLUCOES EM INFORMATICA EIRELI",
 			"name": "SOLFANG - SOLUCOES EM INFORMATICA EIRELI",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "SOLFANG - SOLUCOES EM INFORMATICA EIRELI"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 90.31857298577386,
-			"desc": 2052.1499999999996,
+			"desc": "2052.15",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "CONCESSIONARIA AEROPORTO",
 			"name": "CONCESSIONARIA AEROPORTO",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "CONCESSIONARIA AEROPORTO"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.2430906430251984,
-			"desc": 87.03,
+			"desc": "87.03",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "TARGET RENT A CAR LTDA",
 			"name": "TARGET RENT A CAR LTDA",
 			"val": 146.217308390951,
-			"desc": 3146,
+			"desc": "3146.00",
 			"group": "TARGET RENT A CAR LTDA"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "AUTO POSTO TIGRAO MURIAE LTDA",
 			"name": "AUTO POSTO TIGRAO MURIAE LTDA",
 			"val": 6.705741651886986,
-			"desc": 216.15,
+			"desc": "216.15",
 			"group": "AUTO POSTO TIGRAO MURIAE LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "Irmãos Bessa Imóveis Ltda",
 			"name": "Irmãos Bessa Imóveis Ltda",
 			"val": 56.81675398075589,
-			"desc": 1364,
+			"desc": "1364.00",
 			"group": "Irmãos Bessa Imóveis Ltda"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.33014195205063784,
-			"desc": 19.32,
+			"desc": "19.32",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "NOVASOC COMERCIAL LTDA",
 			"name": "NOVASOC COMERCIAL LTDA",
 			"val": 3.944778244376604,
-			"desc": 138.61,
+			"desc": "138.61",
 			"group": "NOVASOC COMERCIAL LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "Montes claros executivo ltda",
 			"name": "Montes claros executivo ltda",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "Montes claros executivo ltda"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "COPA EMBALAGENS LTDA EPP",
 			"name": "COPA EMBALAGENS LTDA EPP",
 			"val": 6.187834878063451,
-			"desc": 202,
+			"desc": "202.00",
 			"group": "COPA EMBALAGENS LTDA EPP"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "ASS DOS SERVIDORES DA CAMARA DOS DEPUTADOS",
 			"name": "ASS DOS SERVIDORES DA CAMARA DOS DEPUTADOS",
 			"val": 0.5419257956648612,
-			"desc": 28.14,
+			"desc": "28.14",
 			"group": "ASS DOS SERVIDORES DA CAMARA DOS DEPUTADOS"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "SAFERTAXI",
 			"name": "SAFERTAXI",
 			"val": 1.356131818222394,
-			"desc": 57.9,
+			"desc": "57.90",
 			"group": "SAFERTAXI"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "POSTO ODEON LTDA",
 			"name": "POSTO ODEON LTDA",
 			"val": 3.4832284838123164,
-			"desc": 125.01,
+			"desc": "125.01",
 			"group": "POSTO ODEON LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "POSTO PASSOS & MONTEIRO LTDA",
 			"name": "POSTO PASSOS & MONTEIRO LTDA",
 			"val": 3.124406164602808,
-			"desc": 114.26,
+			"desc": "114.26",
 			"group": "POSTO PASSOS & MONTEIRO LTDA"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "Algar - Telecom",
 			"name": "Algar - Telecom",
 			"val": 15.414712271008165,
-			"desc": 439.01,
+			"desc": "439.01",
 			"group": "Algar - Telecom"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CHURRASCARIA BEIRA RIO II",
 			"name": "CHURRASCARIA BEIRA RIO II",
 			"val": 0.34344984344224033,
-			"desc": 19.9,
+			"desc": "19.90",
 			"group": "CHURRASCARIA BEIRA RIO II"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "AUTO POSTO TIGRÃO MANHMAÇU LTDA",
 			"name": "AUTO POSTO TIGRÃO MANHMAÇU LTDA",
 			"val": 4.3928379720072535,
-			"desc": 151.6,
+			"desc": "151.60",
 			"group": "AUTO POSTO TIGRÃO MANHMAÇU LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.17469663095217752,
-			"desc": 12.13,
+			"desc": "12.13",
 			"group": "RAMAL"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "ORATORIO RESTAURANTE BAR LTDA",
 			"name": "ORATORIO RESTAURANTE BAR LTDA",
 			"val": 0.6866742213565799,
-			"desc": 33.8,
+			"desc": "33.80",
 			"group": "ORATORIO RESTAURANTE BAR LTDA"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "POSTO PROFETAS DE CONGONHAS LTDA",
 			"name": "POSTO PROFETAS DE CONGONHAS LTDA",
 			"val": 5.541645628780559,
-			"desc": 184.12,
+			"desc": "184.12",
 			"group": "POSTO PROFETAS DE CONGONHAS LTDA"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "CEMIG",
 			"name": "CEMIG",
 			"val": 45.36530177412646,
-			"desc": 1119.7,
+			"desc": "1119.70",
 			"group": "CEMIG"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "Israel Pinheiro de Siqueira",
 			"name": "Israel Pinheiro de Siqueira",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "Israel Pinheiro de Siqueira"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 37.187776152070505,
-			"desc": 941.15,
+			"desc": "941.15",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "Future Serviçes Ltda-EPP",
 			"name": "Future Serviçes Ltda-EPP",
 			"val": 15.825837325395275,
-			"desc": 449.05,
+			"desc": "449.05",
 			"group": "Future Serviçes Ltda-EPP"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "DNA Distribuidora S/A",
 			"name": "DNA Distribuidora S/A",
 			"val": 1.4000321077570248,
-			"desc": 59.4,
+			"desc": "59.40",
 			"group": "DNA Distribuidora S/A"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "AUTO POSTO SALVATERRA LTDA",
 			"name": "AUTO POSTO SALVATERRA LTDA",
 			"val": 7.728777722211651,
-			"desc": 243.69,
+			"desc": "243.69",
 			"group": "AUTO POSTO SALVATERRA LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "POSTO MG LTDA",
 			"name": "POSTO MG LTDA",
 			"val": 4.009204509163423,
-			"desc": 140.49,
+			"desc": "140.49",
 			"group": "POSTO MG LTDA"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "TIM S.A",
 			"name": "TIM S.A",
 			"val": 7.419211500206022,
-			"desc": 235.41,
+			"desc": "235.41",
 			"group": "TIM S.A"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "Infinidades Supermercado Serviços e Distribuidora de Var. Ltda",
 			"name": "Infinidades Supermercado Serviços e Distribuidora de Var. Ltda",
 			"val": 2.599413359711055,
-			"desc": 98.19999999999999,
+			"desc": "98.20",
 			"group": "Infinidades Supermercado Serviços e Distribuidora de Var. Ltda"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "AUTO POSTO GIANELLI LTDA",
 			"name": "AUTO POSTO GIANELLI LTDA",
 			"val": 6.888198232083087,
-			"desc": 221.1,
+			"desc": "221.10",
 			"group": "AUTO POSTO GIANELLI LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "Hotel Regional JF Ltda",
 			"name": "Hotel Regional JF Ltda",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "Hotel Regional JF Ltda"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "REAL HOTEL LTDA",
 			"name": "REAL HOTEL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "REAL HOTEL LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "Internacional Neal Company Alimentação S.A",
 			"name": "Internacional Neal Company Alimentação S.A",
 			"val": 0.23227552936425805,
-			"desc": 14.9,
+			"desc": "14.90",
 			"group": "Internacional Neal Company Alimentação S.A"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "Benjamim e Pereira Goumert Ltda-Me",
 			"name": "Benjamim e Pereira Goumert Ltda-Me",
 			"val": 0.28171286945873847,
-			"desc": 17.17,
+			"desc": "17.17",
 			"group": "Benjamim e Pereira Goumert Ltda-Me"
 		},
 		{
@@ -833,7 +834,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 26.351429016564644,
-			"desc": 697.43,
+			"desc": "697.43",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -846,7 +847,7 @@
 			"id": "Transcootour Cooperativa Mista de Trabalho e Consumo dos Motoristas Autônomos de Turismo do RJ",
 			"name": "Transcootour Cooperativa Mista de Trabalho e Consumo dos Motoristas Autônomos de Turismo do RJ",
 			"val": 0.7709990981130845,
-			"desc": 37,
+			"desc": "37.00",
 			"group": "Transcootour Cooperativa Mista de Trabalho e Consumo dos Motoristas Autônomos de Turismo do RJ"
 		},
 		{
@@ -859,7 +860,7 @@
 			"id": "COMERCIAL BI LTDA",
 			"name": "COMERCIAL BI LTDA",
 			"val": 4.901258945199639,
-			"desc": 166.12,
+			"desc": "166.12",
 			"group": "COMERCIAL BI LTDA"
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "RADIO TAXI SHALOM LTDA - EPP",
 			"name": "RADIO TAXI SHALOM LTDA - EPP",
 			"val": 0.1328771237954945,
-			"desc": 10,
+			"desc": "10.00",
 			"group": "RADIO TAXI SHALOM LTDA - EPP"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "ZILENE ALVES DE SOUZA",
 			"name": "ZILENE ALVES DE SOUZA",
 			"val": 13.431053358499788,
-			"desc": 390.09000000000003,
+			"desc": "390.09",
 			"group": "ZILENE ALVES DE SOUZA"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "PEREIRA E VALE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "PEREIRA E VALE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 5.731825934618052,
-			"desc": 189.41,
+			"desc": "189.41",
 			"group": "PEREIRA E VALE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -917,7 +918,7 @@
 			"id": "VILA SASDELLI LTDA-EPP",
 			"name": "VILA SASDELLI LTDA-EPP",
 			"val": 0.2984395891300368,
-			"desc": 17.92,
+			"desc": "17.92",
 			"group": "VILA SASDELLI LTDA-EPP"
 		},
 		{
@@ -930,7 +931,7 @@
 			"id": "Sesc Bom Despacho",
 			"name": "Sesc Bom Despacho",
 			"val": 4.19885754238593,
-			"desc": 146,
+			"desc": "146.00",
 			"group": "Sesc Bom Despacho"
 		},
 		{
@@ -943,7 +944,7 @@
 			"id": "Posto Baluarte Ltda",
 			"name": "Posto Baluarte Ltda",
 			"val": 3.8235251818928937,
-			"desc": 135.06,
+			"desc": "135.06",
 			"group": "Posto Baluarte Ltda"
 		},
 		{
@@ -956,7 +957,7 @@
 			"id": "AUTO POSTO MORADA LTDA",
 			"name": "AUTO POSTO MORADA LTDA",
 			"val": 8.151220722508363,
-			"desc": 254.92,
+			"desc": "254.92",
 			"group": "AUTO POSTO MORADA LTDA"
 		},
 		{
@@ -969,7 +970,7 @@
 			"id": "CMK INTERMEDIACAO DE NEGOCIOS LTDA",
 			"name": "CMK INTERMEDIACAO DE NEGOCIOS LTDA",
 			"val": 1.625711903042683,
-			"desc": 67,
+			"desc": "67.00",
 			"group": "CMK INTERMEDIACAO DE NEGOCIOS LTDA"
 		},
 		{
@@ -982,7 +983,7 @@
 			"id": "GZ COMERCIO DE ALIMENTOS LTDA",
 			"name": "GZ COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.6840664173124981,
-			"desc": 33.7,
+			"desc": "33.70",
 			"group": "GZ COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -995,7 +996,7 @@
 			"id": "RESTAURANTE PICANHA DO SUL",
 			"name": "RESTAURANTE PICANHA DO SUL",
 			"val": 4.122987506665473,
-			"desc": 143.8,
+			"desc": "143.80",
 			"group": "RESTAURANTE PICANHA DO SUL"
 		},
 		{
@@ -1008,7 +1009,7 @@
 			"id": "POSTO ESTRADÃO LTDA",
 			"name": "POSTO ESTRADÃO LTDA",
 			"val": 5.287421143112534,
-			"desc": 177.01,
+			"desc": "177.01",
 			"group": "POSTO ESTRADÃO LTDA"
 		},
 		{
@@ -1021,7 +1022,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 27.309858111581573,
-			"desc": 719.39,
+			"desc": "719.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -1034,7 +1035,7 @@
 			"id": "RADIO TAXI ALVORADA LTDA",
 			"name": "RADIO TAXI ALVORADA LTDA",
 			"val": 0.1328771237954945,
-			"desc": 10,
+			"desc": "10.00",
 			"group": "RADIO TAXI ALVORADA LTDA"
 		},
 		{
@@ -1047,7 +1048,7 @@
 			"id": "POSTO CN LTDA",
 			"name": "POSTO CN LTDA",
 			"val": 3.6140738087100974,
-			"desc": 128.89,
+			"desc": "128.89",
 			"group": "POSTO CN LTDA"
 		},
 		{
@@ -1060,7 +1061,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -1073,7 +1074,7 @@
 			"id": "IRMAOS BESSA IMOVEIS LTDA",
 			"name": "IRMAOS BESSA IMOVEIS LTDA",
 			"val": 172.87317332477653,
-			"desc": 3651.91,
+			"desc": "3651.91",
 			"group": "IRMAOS BESSA IMOVEIS LTDA"
 		},
 		{
@@ -1086,7 +1087,7 @@
 			"id": "Auto Posto Hallas Ltda",
 			"name": "Auto Posto Hallas Ltda",
 			"val": 3.315975462360441,
-			"desc": 120.02,
+			"desc": "120.02",
 			"group": "Auto Posto Hallas Ltda"
 		},
 		{

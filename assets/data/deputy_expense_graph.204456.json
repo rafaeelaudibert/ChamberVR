@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GUTEMBERG REIS"
+			"name": "GUTEMBERG REIS",
+			"desc": "70515.34"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.918962545263565,
-			"desc": 275.14,
+			"desc": "275.14",
 			"group": "RAMAL"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 556.2945397410194,
-			"desc": 10419.81,
+			"desc": "10419.81",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 25.64520528086796,
-			"desc": 681.19,
+			"desc": "681.19",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -171,7 +172,7 @@
 			"id": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
 			"name": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT",
 			"val": 260.7326625129341,
-			"desc": 5271.96,
+			"desc": "5271.96",
 			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICANTES LT"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 46.86162089449532,
-			"desc": 1151.97,
+			"desc": "1151.97",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 29.83832763275314,
-			"desc": 776.9100000000001,
+			"desc": "776.91",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 576.0106116344742,
-			"desc": 10752.57,
+			"desc": "10752.57",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "PLACAR IMOBILIARIA LTDA",
 			"name": "PLACAR IMOBILIARIA LTDA",
 			"val": 838.5529251433688,
-			"desc": 15101.05,
+			"desc": "15101.05",
 			"group": "PLACAR IMOBILIARIA LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 126.80252995868841,
-			"desc": 2771.8500000000004,
+			"desc": "2771.85",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 435.12052010710914,
-			"desc": 8350,
+			"desc": "8350.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.8104821741114279,
-			"desc": 73.1,
+			"desc": "73.10",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 134.45675281819402,
-			"desc": 2919.99,
+			"desc": "2919.99",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "H PLUS ADMINISTRACAO E HOTELARIA LTDA",
 			"name": "H PLUS ADMINISTRACAO E HOTELARIA LTDA",
 			"val": 86.83184515665013,
-			"desc": 1981.97,
+			"desc": "1981.97",
 			"group": "H PLUS ADMINISTRACAO E HOTELARIA LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.4544231832612287,
-			"desc": 24.59,
+			"desc": "24.59",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "CWM TRANSPORTE EXECUTIVO LTDA",
 			"name": "CWM TRANSPORTE EXECUTIVO LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "CWM TRANSPORTE EXECUTIVO LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 13.829766442311687,
-			"desc": 399.99,
+			"desc": "399.99",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 163.58739922478085,
-			"desc": 3476.6000000000004,
+			"desc": "3476.60",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA",
 			"name": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA",
 			"val": 7.465466078478158,
-			"desc": 236.65,
+			"desc": "236.65",
 			"group": "CHAPEU DO SOL POSTO DE GASOLINA E LUBRIFICACAO LTDA"
 		},
 		{

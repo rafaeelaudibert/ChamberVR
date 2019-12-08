@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOÃO DANIEL"
+			"name": "JOÃO DANIEL",
+			"desc": "124568.64"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 368.93596371093565,
-			"desc": 7198.2300000000005,
+			"desc": "7198.23",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "P&M PUBLICIDADE E MARKETING LTDA",
 			"name": "P&M PUBLICIDADE E MARKETING LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "P&M PUBLICIDADE E MARKETING LTDA"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "HB IMOBILIARIA LTDA",
 			"name": "HB IMOBILIARIA LTDA",
 			"val": 494.1653162067929,
-			"desc": 9364.2,
+			"desc": "9364.20",
 			"group": "HB IMOBILIARIA LTDA"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "POSTO VALADARES LTDA",
 			"name": "POSTO VALADARES LTDA",
 			"val": 642.2413430382671,
-			"desc": 11863.29,
+			"desc": "11863.29",
 			"group": "POSTO VALADARES LTDA"
 		},
 		{
@@ -177,7 +178,7 @@
 			"id": "AR PAPELARIA INFORMATICA E PRESENTES LTDA",
 			"name": "AR PAPELARIA INFORMATICA E PRESENTES LTDA",
 			"val": 57.00648896145564,
-			"desc": 1368,
+			"desc": "1368.00",
 			"group": "AR PAPELARIA INFORMATICA E PRESENTES LTDA"
 		},
 		{
@@ -202,7 +203,7 @@
 			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"val": 69.78590796680673,
-			"desc": 1634.4,
+			"desc": "1634.40",
 			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -215,7 +216,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 23.786645257334975,
-			"desc": 638.2,
+			"desc": "638.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 199.2767567802462,
-			"desc": 4145.6,
+			"desc": "4145.60",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 578.0718255121665,
-			"desc": 10787.3,
+			"desc": "10787.30",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "Formulando Soluções em Informática",
 			"name": "Formulando Soluções em Informática",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "Formulando Soluções em Informática"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 119.76247684336191,
-			"desc": 2634.8099999999995,
+			"desc": "2634.81",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.905982640453938,
-			"desc": 107.63,
+			"desc": "107.63",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "FABIO NUNES DE MENEZES 83209697515",
 			"name": "FABIO NUNES DE MENEZES 83209697515",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "FABIO NUNES DE MENEZES 83209697515"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "MG Fotografia e Comunicação LTDA ME",
 			"name": "MG Fotografia e Comunicação LTDA ME",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "MG Fotografia e Comunicação LTDA ME"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"name": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"val": 99.4921063287123,
-			"desc": 2235.5,
+			"desc": "2235.50",
 			"group": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 239.96922426976985,
-			"desc": 4894.55,
+			"desc": "4894.55",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "EMPRESA GRAFICA JORNAL DA CIDADE LTDA",
 			"name": "EMPRESA GRAFICA JORNAL DA CIDADE LTDA",
 			"val": 72.97296941097044,
-			"desc": 1700,
+			"desc": "1700.00",
 			"group": "EMPRESA GRAFICA JORNAL DA CIDADE LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "Locasin - Locação e serviços de transportes ltda me",
 			"name": "Locasin - Locação e serviços de transportes ltda me",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "Locasin - Locação e serviços de transportes ltda me"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "Araxá Comunicação Criativa Eireli ME",
 			"name": "Araxá Comunicação Criativa Eireli ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "Araxá Comunicação Criativa Eireli ME"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 33.39773324897509,
-			"desc": 856.9599999999999,
+			"desc": "856.96",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "ASSOCIAÇÃO DE RADIODIFUSAO COM DA CIDADE FEIRA NOVA SE",
 			"name": "ASSOCIAÇÃO DE RADIODIFUSAO COM DA CIDADE FEIRA NOVA SE",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "ASSOCIAÇÃO DE RADIODIFUSAO COM DA CIDADE FEIRA NOVA SE"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 23.06310750435043,
-			"desc": 621.36,
+			"desc": "621.36",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 39.489589427197465,
-			"desc": 991.8100000000001,
+			"desc": "991.81",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "KARLA AMANDA SILVA MATOS",
 			"name": "KARLA AMANDA SILVA MATOS",
 			"val": 74.19142646121497,
-			"desc": 1725,
+			"desc": "1725.00",
 			"group": "KARLA AMANDA SILVA MATOS"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.240890363934252,
-			"desc": 230.62,
+			"desc": "230.62",
 			"group": "RAMAL"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 11.762068036688753,
-			"desc": 348.24,
+			"desc": "348.24",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "POSTO CAMINHO DO MAR",
 			"name": "POSTO CAMINHO DO MAR",
 			"val": 297.2562821270562,
-			"desc": 5929.18,
+			"desc": "5929.18",
 			"group": "POSTO CAMINHO DO MAR"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.0453823677363983,
-			"desc": 47.04,
+			"desc": "47.04",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "Alexandre César da S.Teixeira",
 			"name": "Alexandre César da S.Teixeira",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "Alexandre César da S.Teixeira"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 22.67835024555498,
-			"desc": 612.38,
+			"desc": "612.38",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "W Brasil Full Service",
 			"name": "W Brasil Full Service",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "W Brasil Full Service"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "Telefônica Brasil S/A VIVO",
 			"name": "Telefônica Brasil S/A VIVO",
 			"val": 11.213993836155982,
-			"desc": 334.34,
+			"desc": "334.34",
 			"group": "Telefônica Brasil S/A VIVO"
 		},
 		{

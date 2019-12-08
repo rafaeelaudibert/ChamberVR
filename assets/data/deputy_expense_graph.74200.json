@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GASTÃO VIEIRA"
+			"name": "GASTÃO VIEIRA",
+			"desc": "100249.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1702.4162520156156,
-			"desc": 28736.459999999992,
+			"desc": "28736.46",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 802.8764143578388,
-			"desc": 14517.979999999998,
+			"desc": "14517.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 14.04865305154909,
-			"desc": 405.41,
+			"desc": "405.41",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.441961070535152,
-			"desc": 236.02,
+			"desc": "236.02",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 18.02819027018312,
-			"desc": 502.32000000000005,
+			"desc": "502.32",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.4356045657914334,
-			"desc": 60.61,
+			"desc": "60.61",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 40.92201219414638,
-			"desc": 1023.1700000000001,
+			"desc": "1023.17",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.7456171254606025,
-			"desc": 70.97,
+			"desc": "70.97",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 30.59262064150244,
-			"desc": 793.96,
+			"desc": "793.96",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "ITEVALDO RIBAMAR SOARES COSTA JUNIOR",
 			"name": "ITEVALDO RIBAMAR SOARES COSTA JUNIOR",
 			"val": 2113.3094222249874,
-			"desc": 35000,
+			"desc": "35000.00",
 			"group": "ITEVALDO RIBAMAR SOARES COSTA JUNIOR"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "CORREIOS - MERCADORIA ECONÔMICA",
 			"name": "CORREIOS - MERCADORIA ECONÔMICA",
 			"val": 20.534190367856645,
-			"desc": 562,
+			"desc": "562.00",
 			"group": "CORREIOS - MERCADORIA ECONÔMICA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 33.92303118098555,
-			"desc": 868.69,
+			"desc": "868.69",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "POLIANA BATISTA DE OLIVEIRA 02087532141",
 			"name": "POLIANA BATISTA DE OLIVEIRA 02087532141",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "POLIANA BATISTA DE OLIVEIRA 02087532141"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 1.6575972834228427,
-			"desc": 68.06,
+			"desc": "68.06",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 58.7428179965111,
-			"desc": 1404.54,
+			"desc": "1404.54",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 15.802051536489467,
-			"desc": 448.46999999999997,
+			"desc": "448.47",
 			"group": "RAMAL"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 18.41153367124187,
-			"desc": 511.51,
+			"desc": "511.51",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 116.60509215808933,
-			"desc": 2573.09,
+			"desc": "2573.09",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 7.778655531571625,
-			"desc": 245.02,
+			"desc": "245.02",
 			"group": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 6.904817123409665,
-			"desc": 221.55,
+			"desc": "221.55",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HEITOR SCHUCH"
+			"name": "HEITOR SCHUCH",
+			"desc": "42624.70"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 381.28721303321134,
-			"desc": 7414.499999999997,
+			"desc": "7414.50",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "BMF HOTEL E TURISMO LTDA.",
 			"name": "BMF HOTEL E TURISMO LTDA.",
 			"val": 10.925916047751492,
-			"desc": 327,
+			"desc": "327.00",
 			"group": "BMF HOTEL E TURISMO LTDA."
 		},
 		{
@@ -145,7 +146,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 50.42332866629999,
-			"desc": 1228.3400000000001,
+			"desc": "1228.34",
 			"group": "CEEE"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "GOSTUNATUS RESTAURANTE LTDA",
 			"name": "GOSTUNATUS RESTAURANTE LTDA",
 			"val": 1.536,
-			"desc": 64,
+			"desc": "64.00",
 			"group": "GOSTUNATUS RESTAURANTE LTDA"
 		},
 		{
@@ -189,7 +190,7 @@
 			"id": "PFLUG COMERCIO DE COMBUSTIVEIS EIRELI-UNIVERSITARI",
 			"name": "PFLUG COMERCIO DE COMBUSTIVEIS EIRELI-UNIVERSITARI",
 			"val": 29.614444929441753,
-			"desc": 771.8399999999999,
+			"desc": "771.84",
 			"group": "PFLUG COMERCIO DE COMBUSTIVEIS EIRELI-UNIVERSITARI"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "ABASTECEDORA TRES AMIGOS LTDA MTZ",
 			"name": "ABASTECEDORA TRES AMIGOS LTDA MTZ",
 			"val": 6.056605058744512,
-			"desc": 198.39,
+			"desc": "198.39",
 			"group": "ABASTECEDORA TRES AMIGOS LTDA MTZ"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "Telefônica Brasil S/A GVT/VIVO",
 			"name": "Telefônica Brasil S/A GVT/VIVO",
 			"val": 18.077774549859086,
-			"desc": 503.51,
+			"desc": "503.51",
 			"group": "Telefônica Brasil S/A GVT/VIVO"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "Edificio Comercial e Residencial Montreal",
 			"name": "Edificio Comercial e Residencial Montreal",
 			"val": 34.034209085575846,
-			"desc": 871.1700000000001,
+			"desc": "871.17",
 			"group": "Edificio Comercial e Residencial Montreal"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.05562380472893,
-			"desc": 526.9,
+			"desc": "526.90",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "IMOBILIARIA BENDER LTDA",
 			"name": "IMOBILIARIA BENDER LTDA",
 			"val": 180.6036387362279,
-			"desc": 3797.16,
+			"desc": "3797.16",
 			"group": "IMOBILIARIA BENDER LTDA"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "AUTO POSTO BOA VIAGEM LTDA",
 			"name": "AUTO POSTO BOA VIAGEM LTDA",
 			"val": 4.68673515779195,
-			"desc": 160.02,
+			"desc": "160.02",
 			"group": "AUTO POSTO BOA VIAGEM LTDA"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 212.38508665037935,
-			"desc": 4388.32,
+			"desc": "4388.32",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 16.72954773401471,
-			"desc": 471.01,
+			"desc": "471.01",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 28.69181986169986,
-			"desc": 750.9,
+			"desc": "750.90",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"val": 24.2157921502863,
-			"desc": 648.16,
+			"desc": "648.16",
 			"group": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "RESTAURANTE CLUBE ESPANHOL LTDA",
 			"name": "RESTAURANTE CLUBE ESPANHOL LTDA",
 			"val": 1.2143191363673982,
-			"desc": 53,
+			"desc": "53.00",
 			"group": "RESTAURANTE CLUBE ESPANHOL LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.554968423002438,
-			"desc": 28.66,
+			"desc": "28.66",
 			"group": "RAMAL"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "ABAST DE COMB ROMADER LTDA",
 			"name": "ABAST DE COMB ROMADER LTDA",
 			"val": 4.502130818152616,
-			"desc": 154.74,
+			"desc": "154.74",
 			"group": "ABAST DE COMB ROMADER LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "SAFERTAXI",
 			"name": "SAFERTAXI",
 			"val": 1.3774689683983325,
-			"desc": 58.63,
+			"desc": "58.63",
 			"group": "SAFERTAXI"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
 			"name": "RBS ZERO HORA EDITORA JORNALISTICA S-A",
 			"val": 2.172912608402044,
-			"desc": 84.8,
+			"desc": "84.80",
 			"group": "RBS ZERO HORA EDITORA JORNALISTICA S-A"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 10",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 10",
 			"val": 25.056369343646285,
-			"desc": 667.61,
+			"desc": "667.61",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 10"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "E. AMES & CIA LTDA - EPP",
 			"name": "E. AMES & CIA LTDA - EPP",
 			"val": 6.971715163432422,
-			"desc": 223.36,
+			"desc": "223.36",
 			"group": "E. AMES & CIA LTDA - EPP"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "ZANON HOTEL",
 			"name": "ZANON HOTEL",
 			"val": 5.573222280782071,
-			"desc": 185,
+			"desc": "185.00",
 			"group": "ZANON HOTEL"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 0.5434279034472905,
-			"desc": 28.200000000000045,
+			"desc": "28.20",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "Conceito Negocios Imobiliarios Ltda - Epp",
 			"name": "Conceito Negocios Imobiliarios Ltda - Epp",
 			"val": 358.2711694496985,
-			"desc": 7010.96,
+			"desc": "7010.96",
 			"group": "Conceito Negocios Imobiliarios Ltda - Epp"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 19.25242525163773,
-			"desc": 531.5899999999999,
+			"desc": "531.59",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "SOCIEDADE RADIO INTEGRACAO LTDA",
 			"name": "SOCIEDADE RADIO INTEGRACAO LTDA",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "SOCIEDADE RADIO INTEGRACAO LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "M PIACENTINI & CIA LTDA",
 			"name": "M PIACENTINI & CIA LTDA",
 			"val": 0.8786385287573658,
-			"desc": 41,
+			"desc": "41.00",
 			"group": "M PIACENTINI & CIA LTDA"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 16.21234136626828,
-			"desc": 458.46000000000004,
+			"desc": "458.46",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "COMERCIAL BUFFON COMBUSTIVEIS E TRANSPORTES LIMITADA",
 			"name": "COMERCIAL BUFFON COMBUSTIVEIS E TRANSPORTES LIMITADA",
 			"val": 7.714534603469659,
-			"desc": 243.31,
+			"desc": "243.31",
 			"group": "COMERCIAL BUFFON COMBUSTIVEIS E TRANSPORTES LIMITADA"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"name": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"val": 184.23221338907786,
-			"desc": 3865.13,
+			"desc": "3865.13",
 			"group": "CREDITO REAL, IMO. E CONDOMÍNIOS SA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 15.18434087892832,
-			"desc": 433.37,
+			"desc": "433.37",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "Cootraero",
 			"name": "Cootraero",
 			"val": 2.116513091207179,
-			"desc": 83,
+			"desc": "83.00",
 			"group": "Cootraero"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "GENESIS COMUNICACAO VISUAL E INFORMATICA LTDA - ME",
 			"name": "GENESIS COMUNICACAO VISUAL E INFORMATICA LTDA - ME",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "GENESIS COMUNICACAO VISUAL E INFORMATICA LTDA - ME"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
 			"name": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
 			"val": 7.706664875246664,
-			"desc": 243.1,
+			"desc": "243.10",
 			"group": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "OFICIAL DESENVOLVIMENTO DE WEB SITES LTDA - ME",
 			"name": "OFICIAL DESENVOLVIMENTO DE WEB SITES LTDA - ME",
 			"val": 52.142903648083255,
-			"desc": 1265,
+			"desc": "1265.00",
 			"group": "OFICIAL DESENVOLVIMENTO DE WEB SITES LTDA - ME"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "CASTELLI E CASTELLI RESTAURANTE LTDA",
 			"name": "CASTELLI E CASTELLI RESTAURANTE LTDA",
 			"val": 0.9885335573393415,
-			"desc": 45,
+			"desc": "45.00",
 			"group": "CASTELLI E CASTELLI RESTAURANTE LTDA"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 4.655897038817664,
-			"desc": 159.14,
+			"desc": "159.14",
 			"group": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "RESTAURANTE SAN REMO",
 			"name": "RESTAURANTE SAN REMO",
 			"val": 0.32968483435179147,
-			"desc": 19.3,
+			"desc": "19.30",
 			"group": "RESTAURANTE SAN REMO"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "Hotel Ouro Preto",
 			"name": "Hotel Ouro Preto",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "Hotel Ouro Preto"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "RADIO GERACAO FM LTDA - ME",
 			"name": "RADIO GERACAO FM LTDA - ME",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "RADIO GERACAO FM LTDA - ME"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "Empresa Jornalistica Caldas Junior Ltda - Matriz",
 			"name": "Empresa Jornalistica Caldas Junior Ltda - Matriz",
 			"val": 13.138380476409475,
-			"desc": 382.8,
+			"desc": "382.80",
 			"group": "Empresa Jornalistica Caldas Junior Ltda - Matriz"
 		},
 		{
@@ -881,7 +882,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 9.728873276971159,
-			"desc": 296.23,
+			"desc": "296.23",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "Telefônica Brasil S. A. VIVO/GVT",
 			"name": "Telefônica Brasil S. A. VIVO/GVT",
 			"val": 5.572504360900863,
-			"desc": 184.98,
+			"desc": "184.98",
 			"group": "Telefônica Brasil S. A. VIVO/GVT"
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "POSTOS DE COMBUSTIVEIS HC EIRELI",
 			"name": "POSTOS DE COMBUSTIVEIS HC EIRELI",
 			"val": 7.669953333319587,
-			"desc": 242.12,
+			"desc": "242.12",
 			"group": "POSTOS DE COMBUSTIVEIS HC EIRELI"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "OFICIAL AGENCIA DE COMUNICACAO LTDA",
 			"name": "OFICIAL AGENCIA DE COMUNICACAO LTDA",
 			"val": 52.142903648083255,
-			"desc": 1265,
+			"desc": "1265.00",
 			"group": "OFICIAL AGENCIA DE COMUNICACAO LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 2.983469314383835,
-			"desc": 109.99,
+			"desc": "109.99",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{

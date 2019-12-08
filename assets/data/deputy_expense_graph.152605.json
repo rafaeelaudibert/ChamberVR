@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GLAUBER BRAGA"
+			"name": "GLAUBER BRAGA",
+			"desc": "42542.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Telefonica Brasil S.A.",
 			"name": "Telefonica Brasil S.A.",
 			"val": 112.66072772811371,
-			"desc": 2495.75,
+			"desc": "2495.75",
 			"group": "Telefonica Brasil S.A."
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 9.080679687384048,
-			"desc": 279.37,
+			"desc": "279.37",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "ENERGISA NOVA FRIBURGO - DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "ENERGISA NOVA FRIBURGO - DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 8.28914510133789,
-			"desc": 258.57,
+			"desc": "258.57",
 			"group": "ENERGISA NOVA FRIBURGO - DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 236.47438777800636,
-			"desc": 4830.7300000000005,
+			"desc": "4830.73",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -147,7 +148,7 @@
 			"id": "AGUAS DE NOVA FRIBURGO",
 			"name": "AGUAS DE NOVA FRIBURGO",
 			"val": 18.253324583612194,
-			"desc": 507.72,
+			"desc": "507.72",
 			"group": "AGUAS DE NOVA FRIBURGO"
 		},
 		{
@@ -172,7 +173,7 @@
 			"id": "POSTO DE GASOLINA BOA VIAGEM DE FRIBURGO LTDA",
 			"name": "POSTO DE GASOLINA BOA VIAGEM DE FRIBURGO LTDA",
 			"val": 201.28219080135517,
-			"desc": 4182.83,
+			"desc": "4182.83",
 			"group": "POSTO DE GASOLINA BOA VIAGEM DE FRIBURGO LTDA"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "VICTOR MANUEL MORADO RICO",
 			"name": "VICTOR MANUEL MORADO RICO",
 			"val": 345.37181251127106,
-			"desc": 6783.77,
+			"desc": "6783.77",
 			"group": "VICTOR MANUEL MORADO RICO"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "RADIO SOCIEDADE DE FRIBURGO",
 			"name": "RADIO SOCIEDADE DE FRIBURGO",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "RADIO SOCIEDADE DE FRIBURGO"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 2.649457729552716,
-			"desc": 99.75,
+			"desc": "99.75",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 2.586521513497378,
-			"desc": 97.8,
+			"desc": "97.80",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 108.54809027306676,
-			"desc": 2414.82,
+			"desc": "2414.82",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "DT DESIGN LTDA - ME",
 			"name": "DT DESIGN LTDA - ME",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "DT DESIGN LTDA - ME"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 3.8521679347003834,
-			"desc": 135.9,
+			"desc": "135.90",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "ESTACIONAMENTOS CINELANDIA S.A.",
 			"name": "ESTACIONAMENTOS CINELANDIA S.A.",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "ESTACIONAMENTOS CINELANDIA S.A."
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 28.13213313208251,
-			"desc": 738.16,
+			"desc": "738.16",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 28.870444680976398,
-			"desc": 754.96,
+			"desc": "754.96",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "CONCESSIONARIA ROTA 116 S/A",
 			"name": "CONCESSIONARIA ROTA 116 S/A",
 			"val": 0.8596325189028654,
-			"desc": 40.3,
+			"desc": "40.30",
 			"group": "CONCESSIONARIA ROTA 116 S/A"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO",
 			"name": "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO",
 			"val": 1.942202735785151,
-			"desc": 77.39,
+			"desc": "77.39",
 			"group": "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "LEONARDO DA SILVEIRA",
 			"name": "LEONARDO DA SILVEIRA",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "LEONARDO DA SILVEIRA"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"name": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"val": 0.3228424910217125,
-			"desc": 19,
+			"desc": "19.00",
 			"group": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.8788016198810418,
-			"desc": 106.8,
+			"desc": "106.80",
 			"group": "RAMAL"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 1.093147416086142,
-			"desc": 48.74,
+			"desc": "48.74",
 			"group": "SINPETAXI"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "MUNICIPIO DE NOVA FRIBURGO",
 			"name": "MUNICIPIO DE NOVA FRIBURGO",
 			"val": 22.171789816746532,
-			"desc": 600.53,
+			"desc": "600.53",
 			"group": "MUNICIPIO DE NOVA FRIBURGO"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "CENTRO NORTE FM STEREO LTDA",
 			"name": "CENTRO NORTE FM STEREO LTDA",
 			"val": 267.812863745865,
-			"desc": 5400,
+			"desc": "5400.00",
 			"group": "CENTRO NORTE FM STEREO LTDA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 23.247611234757557,
-			"desc": 625.6600000000001,
+			"desc": "625.66",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 114.1952361315926,
-			"desc": 2525.87,
+			"desc": "2525.87",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "Vou de Taxi",
 			"name": "Vou de Taxi",
 			"val": 1.476640684975945,
-			"desc": 62,
+			"desc": "62.00",
 			"group": "Vou de Taxi"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "GENEVE COMERCIO E SERVIÇOS LTDA-ME",
 			"name": "GENEVE COMERCIO E SERVIÇOS LTDA-ME",
 			"val": 12.826120178074865,
-			"desc": 375,
+			"desc": "375.00",
 			"group": "GENEVE COMERCIO E SERVIÇOS LTDA-ME"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 0.1328771237954945,
-			"desc": 10,
+			"desc": "10.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "AUTOPISTA FLUMINENSE S/A",
 			"name": "AUTOPISTA FLUMINENSE S/A",
 			"val": 0.15221499122004106,
-			"desc": 11,
+			"desc": "11.00",
 			"group": "AUTOPISTA FLUMINENSE S/A"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 2.1018234442449035,
-			"desc": 82.53,
+			"desc": "82.53",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "WELLINGTON DO M SILVA",
 			"name": "WELLINGTON DO M SILVA",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "WELLINGTON DO M SILVA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NELSON BARBUDO"
+			"name": "NELSON BARBUDO",
+			"desc": "33398.09"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CHAVEIRO ASAS IMP.E COM.DE C.,P. E MAT. ELET.P/VEIC. AUTOMOT",
 			"name": "CHAVEIRO ASAS IMP.E COM.DE C.,P. E MAT. ELET.P/VEIC. AUTOMOT",
 			"val": 0.9885335573393415,
-			"desc": 45,
+			"desc": "45.00",
 			"group": "CHAVEIRO ASAS IMP.E COM.DE C.,P. E MAT. ELET.P/VEIC. AUTOMOT"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "BOM CLIMA COM DE COMB E LUBRIF LTDA",
 			"name": "BOM CLIMA COM DE COMB E LUBRIF LTDA",
 			"val": 7.854865066462539,
-			"desc": 247.05,
+			"desc": "247.05",
 			"group": "BOM CLIMA COM DE COMB E LUBRIF LTDA"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "Agência de Notícia Confresa Eireli",
 			"name": "Agência de Notícia Confresa Eireli",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "Agência de Notícia Confresa Eireli"
 		},
 		{
@@ -68,7 +69,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -105,7 +106,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.4825558054663954,
-			"desc": 124.99000000000001,
+			"desc": "124.99",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -130,7 +131,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 344.5743772841283,
-			"desc": 6769.700000000001,
+			"desc": "6769.70",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -245,7 +246,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 10.260061779382895,
-			"desc": 309.94,
+			"desc": "309.94",
 			"group": "CLARO S/A."
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 15.098672224034999,
-			"desc": 431.27,
+			"desc": "431.27",
 			"group": "RAMAL"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 86.34955367894688,
-			"desc": 1972.2400000000002,
+			"desc": "1972.24",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 16.082422849798903,
-			"desc": 455.3,
+			"desc": "455.30",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 79.64833432193831,
-			"desc": 1836.4499999999998,
+			"desc": "1836.45",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 15.336649332513401,
-			"desc": 437.1,
+			"desc": "437.10",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 25.361864105789234,
-			"desc": 674.66,
+			"desc": "674.66",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 255.350482452544,
-			"desc": 5174.410000000001,
+			"desc": "5174.41",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 25.636955931344886,
-			"desc": 681,
+			"desc": "681.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"name": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 41.14953926026644,
-			"desc": 1028.1399999999999,
+			"desc": "1028.14",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 17.322053253142712,
-			"desc": 485.3299999999999,
+			"desc": "485.33",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "PARADISE AUTO POSTO CUIABA LTDA",
 			"name": "PARADISE AUTO POSTO CUIABA LTDA",
 			"val": 5.063179982630248,
-			"desc": 170.7,
+			"desc": "170.70",
 			"group": "PARADISE AUTO POSTO CUIABA LTDA"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 30.340657528440385,
-			"desc": 788.27,
+			"desc": "788.27",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "AEROPORTO GRILL",
 			"name": "AEROPORTO GRILL",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AEROPORTO GRILL"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 2.079038268531395,
-			"desc": 81.8,
+			"desc": "81.80",
 			"group": "CLARO S/A"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 6.4711763636262765,
-			"desc": 209.76,
+			"desc": "209.76",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 4.510150889691446,
-			"desc": 154.97,
+			"desc": "154.97",
 			"group": "CLARO S.A"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.704970819418624,
-			"desc": 160.54,
+			"desc": "160.54",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "SEDNA PALACE HOTEL LTDA",
 			"name": "SEDNA PALACE HOTEL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "SEDNA PALACE HOTEL LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "SLAVIERO VINHOS E SUCOS LTDA ME",
 			"name": "SLAVIERO VINHOS E SUCOS LTDA ME",
 			"val": 2.0385552347529066,
-			"desc": 80.5,
+			"desc": "80.50",
 			"group": "SLAVIERO VINHOS E SUCOS LTDA ME"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 8.659019958025725,
-			"desc": 268.32,
+			"desc": "268.32",
 			"group": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "TRANSGANSO COMERCIO E TRANSPORTES LTDA",
 			"name": "TRANSGANSO COMERCIO E TRANSPORTES LTDA",
 			"val": 13.076255129189855,
-			"desc": 381.25,
+			"desc": "381.25",
 			"group": "TRANSGANSO COMERCIO E TRANSPORTES LTDA"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "RANZAN GRAF LTDA - EPP",
 			"name": "RANZAN GRAF LTDA - EPP",
 			"val": 2.754838217199486,
-			"desc": 103,
+			"desc": "103.00",
 			"group": "RANZAN GRAF LTDA - EPP"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "J.T.HOTEL E RESTAURANTE LTDA",
 			"name": "J.T.HOTEL E RESTAURANTE LTDA",
 			"val": 13.427435289449393,
-			"desc": 390,
+			"desc": "390.00",
 			"group": "J.T.HOTEL E RESTAURANTE LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS CARMELITANO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS CARMELITANO LTDA",
 			"val": 6.841324569801702,
-			"desc": 219.83,
+			"desc": "219.83",
 			"group": "COMERCIO DE COMBUSTIVEIS CARMELITANO LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 29.290222847849478,
-			"desc": 764.49,
+			"desc": "764.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "Posto Garbugio Ltda",
 			"name": "Posto Garbugio Ltda",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "Posto Garbugio Ltda"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "ESTILO LIVRARIA E PAPELARIA LTDA EPP",
 			"name": "ESTILO LIVRARIA E PAPELARIA LTDA EPP",
 			"val": 17.628365496549755,
-			"desc": 492.71,
+			"desc": "492.71",
 			"group": "ESTILO LIVRARIA E PAPELARIA LTDA EPP"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "RODOMAX COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "RODOMAX COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.116538823098268,
-			"desc": 200.04,
+			"desc": "200.04",
 			"group": "RODOMAX COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "NATIVAS BUFFET E RESTAURANTE EIRELI",
 			"name": "NATIVAS BUFFET E RESTAURANTE EIRELI",
 			"val": 1.547915510559341,
-			"desc": 64.4,
+			"desc": "64.40",
 			"group": "NATIVAS BUFFET E RESTAURANTE EIRELI"
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "POSTO 10 LIMITADA",
 			"name": "POSTO 10 LIMITADA",
 			"val": 6.576024898616639,
-			"desc": 212.62,
+			"desc": "212.62",
 			"group": "POSTO 10 LIMITADA"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"val": 72.12131001331939,
-			"desc": 1682.5,
+			"desc": "1682.50",
 			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "ANA LUCIA DIAS PEDROSO",
 			"name": "ANA LUCIA DIAS PEDROSO",
 			"val": 6.406765845493388,
-			"desc": 208,
+			"desc": "208.00",
 			"group": "ANA LUCIA DIAS PEDROSO"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "AUTO POSTO MASUT VII LTDA",
 			"name": "AUTO POSTO MASUT VII LTDA",
 			"val": 6.716781153623377,
-			"desc": 216.45,
+			"desc": "216.45",
 			"group": "AUTO POSTO MASUT VII LTDA"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 12.190921645920495,
-			"desc": 359.06,
+			"desc": "359.06",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{

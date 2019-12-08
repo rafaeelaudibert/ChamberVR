@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AGUINALDO RIBEIRO"
+			"name": "AGUINALDO RIBEIRO",
+			"desc": "64577.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 107.29042589113762,
-			"desc": 2390.0099999999998,
+			"desc": "2390.01",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -150,7 +151,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 65.76379707385865,
-			"desc": 1551.16,
+			"desc": "1551.16",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -211,7 +212,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1153.1082842533217,
-			"desc": 20160.32,
+			"desc": "20160.32",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 596.9819062936131,
-			"desc": 11105.42,
+			"desc": "11105.42",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 4.11609981772466,
-			"desc": 143.6,
+			"desc": "143.60",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "AUTO POSTO CRIOLO LTDA",
 			"name": "AUTO POSTO CRIOLO LTDA",
 			"val": 7.668829871227082,
-			"desc": 242.09,
+			"desc": "242.09",
 			"group": "AUTO POSTO CRIOLO LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.642545047598725,
-			"desc": 67.56,
+			"desc": "67.56",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 4.42343029252535,
-			"desc": 152.48,
+			"desc": "152.48",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.10288588688789,
-			"desc": 480.0399999999999,
+			"desc": "480.04",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"name": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"val": 56.96142078474043,
-			"desc": 1367.05,
+			"desc": "1367.05",
 			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"name": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"val": 813.999477835132,
-			"desc": 14700,
+			"desc": "14700.00",
 			"group": "NOVITTA RENT A CAR TRANSPORTE LTDA ME"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.2468764654704794,
-			"desc": 87.15,
+			"desc": "87.15",
 			"group": "RAMAL"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "GP COBERTURA JORNALISTICA LTDA ME",
 			"name": "GP COBERTURA JORNALISTICA LTDA ME",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "GP COBERTURA JORNALISTICA LTDA ME"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 10.872251418934031,
-			"desc": 325.63,
+			"desc": "325.63",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 39.661947761372424,
-			"desc": 995.59,
+			"desc": "995.59",
 			"group": "NET CLARO"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 75.3631127591559,
-			"desc": 1749,
+			"desc": "1749.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 50.06715902303591,
-			"desc": 1220.73,
+			"desc": "1220.73",
 			"group": "CLARO S/A"
 		},
 		{

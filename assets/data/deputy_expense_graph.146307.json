@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NERI GELLER"
+			"name": "NERI GELLER",
+			"desc": "34639.19"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CONCESSIONARIA ROTA DO OESTE S.A.",
 			"name": "CONCESSIONARIA ROTA DO OESTE S.A.",
 			"val": 4.960569985406813,
-			"desc": 167.80000000000004,
+			"desc": "167.80",
 			"group": "CONCESSIONARIA ROTA DO OESTE S.A."
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.370938100944766,
-			"desc": 207.02,
+			"desc": "207.02",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "PETRO KF COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "PETRO KF COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "PETRO KF COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 149.53035136565663,
-			"desc": 3209.34,
+			"desc": "3209.34",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "HOTEL GRAN ODARA LTDA",
 			"name": "HOTEL GRAN ODARA LTDA",
 			"val": 50.09569868766694,
-			"desc": 1221.3400000000001,
+			"desc": "1221.34",
 			"group": "HOTEL GRAN ODARA LTDA"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 15.643044421549344,
-			"desc": 444.59000000000003,
+			"desc": "444.59",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "OI FIXO",
 			"name": "OI FIXO",
 			"val": 4.793832441779602,
-			"desc": 163.07,
+			"desc": "163.07",
 			"group": "OI FIXO"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 70.71521884873509,
-			"desc": 1653.56,
+			"desc": "1653.56",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 47.68596860826881,
-			"desc": 1169.7,
+			"desc": "1169.70",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "ORIGINAL PAPELARIA E SERVICOS PP",
 			"name": "ORIGINAL PAPELARIA E SERVICOS PP",
 			"val": 21.424905034703556,
-			"desc": 583,
+			"desc": "583.00",
 			"group": "ORIGINAL PAPELARIA E SERVICOS PP"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "LIDER PRINT LOCADORA DE IMPRESSORAS LTDA - ME",
 			"name": "LIDER PRINT LOCADORA DE IMPRESSORAS LTDA - ME",
 			"val": 4.090629363074909,
-			"desc": 142.86,
+			"desc": "142.86",
 			"group": "LIDER PRINT LOCADORA DE IMPRESSORAS LTDA - ME"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "AUTO POSTO TIBIRISSA LTDA",
 			"name": "AUTO POSTO TIBIRISSA LTDA",
 			"val": 69.15611061309956,
-			"desc": 1621.3999999999999,
+			"desc": "1621.40",
 			"group": "AUTO POSTO TIBIRISSA LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "Rota do Oeste",
 			"name": "Rota do Oeste",
 			"val": 0.37362815210051104,
-			"desc": 21.200000000000003,
+			"desc": "21.20",
 			"group": "Rota do Oeste"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 31.858158202675856,
-			"desc": 822.46,
+			"desc": "822.46",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "ANDREA MELLO PONCIONI",
 			"name": "ANDREA MELLO PONCIONI",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "ANDREA MELLO PONCIONI"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "PANTANAL COMERCIO DE PRODUTOS ALIMENTICIOS LTDA - EPP",
 			"name": "PANTANAL COMERCIO DE PRODUTOS ALIMENTICIOS LTDA - EPP",
 			"val": 0.9785561401940448,
-			"desc": 44.64,
+			"desc": "44.64",
 			"group": "PANTANAL COMERCIO DE PRODUTOS ALIMENTICIOS LTDA - EPP"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "BOM CLIMA COM DE COMB E LUBRIF LTDA",
 			"name": "BOM CLIMA COM DE COMB E LUBRIF LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BOM CLIMA COM DE COMB E LUBRIF LTDA"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 90.73435444332789,
-			"desc": 2060.5,
+			"desc": "2060.50",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 12.054766241520786,
-			"desc": 355.63,
+			"desc": "355.63",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "KIRST COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "KIRST COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 10.182350776284066,
-			"desc": 307.94,
+			"desc": "307.94",
 			"group": "KIRST COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 3.219321312453645,
-			"desc": 117.12,
+			"desc": "117.12",
 			"group": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "JDO LOCADORA DE VEICULOS EIRELI - ME",
 			"name": "JDO LOCADORA DE VEICULOS EIRELI - ME",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "JDO LOCADORA DE VEICULOS EIRELI - ME"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 1.6518749282830951,
-			"desc": 67.87,
+			"desc": "67.87",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "UP - COMUNICAÇÃO & MARKETING DIGITAL",
 			"name": "UP - COMUNICAÇÃO & MARKETING DIGITAL",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "UP - COMUNICAÇÃO & MARKETING DIGITAL"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.5891335273573257,
-			"desc": 65.78,
+			"desc": "65.78",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.611904873648543,
-			"desc": 66.54,
+			"desc": "66.54",
 			"group": "RAMAL"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "CONCORDE CONSTRUTORA E EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"name": "CONCORDE CONSTRUTORA E EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "CONCORDE CONSTRUTORA E EMPREENDIMENTOS IMOBILIÁRIOS LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "R C Comercio De Combustiveis Ltda",
 			"name": "R C Comercio De Combustiveis Ltda",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "R C Comercio De Combustiveis Ltda"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "Titania com. e serviço de tecnologia da inf.Ltda",
 			"name": "Titania com. e serviço de tecnologia da inf.Ltda",
 			"val": 5.603026943303028,
-			"desc": 185.83,
+			"desc": "185.83",
 			"group": "Titania com. e serviço de tecnologia da inf.Ltda"
 		},
 		{

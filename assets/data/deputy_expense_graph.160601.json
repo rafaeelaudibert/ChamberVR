@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PR. MARCO FELICIANO"
+			"name": "PR. MARCO FELICIANO",
+			"desc": "109606.13"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 1501.1782105203285,
-			"desc": 25625.600000000006,
+			"desc": "25625.60",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -210,7 +211,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 404.5588672224631,
-			"desc": 7820.280000000002,
+			"desc": "7820.28",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 702.7249624138701,
-			"desc": 12868.91,
+			"desc": "12868.91",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 25.28035708261434,
-			"desc": 672.78,
+			"desc": "672.78",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 217.37575251183011,
-			"desc": 4480.35,
+			"desc": "4480.35",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 44.72796699598784,
-			"desc": 1105.92,
+			"desc": "1105.92",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.5926108296051105,
-			"desc": 185.54000000000002,
+			"desc": "185.54",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.3709547477775486,
-			"desc": 150.96999999999997,
+			"desc": "150.97",
 			"group": "RAMAL"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 717.2174359077793,
-			"desc": 13108.729999999998,
+			"desc": "13108.73",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.796666788457029,
-			"desc": 245.5,
+			"desc": "245.50",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 157.16581862632304,
-			"desc": 3354.8,
+			"desc": "3354.80",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "FERNANDO IGNACIO VIEIRA-ME",
 			"name": "FERNANDO IGNACIO VIEIRA-ME",
 			"val": 1915.6203884367471,
-			"desc": 32000,
+			"desc": "32000.00",
 			"group": "FERNANDO IGNACIO VIEIRA-ME"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "A. ALVES COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "A. ALVES COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 53.198511567979544,
-			"desc": 1287.44,
+			"desc": "1287.44",
 			"group": "A. ALVES COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "AUTO POSTO 109 NORTE LTDA",
 			"name": "AUTO POSTO 109 NORTE LTDA",
 			"val": 7.564815844813316,
-			"desc": 239.31,
+			"desc": "239.31",
 			"group": "AUTO POSTO 109 NORTE LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 149.0413592291165,
-			"desc": 3200,
+			"desc": "3200.00",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 149.0413592291165,
-			"desc": 3200,
+			"desc": "3200.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{

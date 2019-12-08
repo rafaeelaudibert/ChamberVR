@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARLOS CHIODINI"
+			"name": "CARLOS CHIODINI",
+			"desc": "39426.58"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "REDE FURNAS COMERCIO DE COMBUSTIVIES",
 			"name": "REDE FURNAS COMERCIO DE COMBUSTIVIES",
 			"val": 7.218593906694096,
-			"desc": 230.02,
+			"desc": "230.02",
 			"group": "REDE FURNAS COMERCIO DE COMBUSTIVIES"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "HOTEL FAZENDA TRÊS FIGUEIRAS",
 			"name": "HOTEL FAZENDA TRÊS FIGUEIRAS",
 			"val": 22.79052879655744,
-			"desc": 615,
+			"desc": "615.00",
 			"group": "HOTEL FAZENDA TRÊS FIGUEIRAS"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 392.58973215494797,
-			"desc": 7611.85,
+			"desc": "7611.85",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -152,7 +153,7 @@
 			"id": "Posto Agripel Ltda",
 			"name": "Posto Agripel Ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto Agripel Ltda"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "L&T COMERCIO DE ALIMENTOS E BEBIDAS LTDA ME",
 			"name": "L&T COMERCIO DE ALIMENTOS E BEBIDAS LTDA ME",
 			"val": 0.24257235096047053,
-			"desc": 15.38,
+			"desc": "15.38",
 			"group": "L&T COMERCIO DE ALIMENTOS E BEBIDAS LTDA ME"
 		},
 		{
@@ -178,7 +179,7 @@
 			"id": "CLICZOOM PROPAGANDA E PUBLICIDADE LTDA - EPP",
 			"name": "CLICZOOM PROPAGANDA E PUBLICIDADE LTDA - EPP",
 			"val": 71.51362434757425,
-			"desc": 1670,
+			"desc": "1670.00",
 			"group": "CLICZOOM PROPAGANDA E PUBLICIDADE LTDA - EPP"
 		},
 		{
@@ -191,7 +192,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 2.9210627469942865,
-			"desc": 108.09,
+			"desc": "108.09",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.2538247291212487,
-			"desc": 15.899999999999999,
+			"desc": "15.90",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 25.610473245689228,
-			"desc": 680.39,
+			"desc": "680.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 244.24598668689862,
-			"desc": 4972.53,
+			"desc": "4972.53",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "RB HOTELARIA EIRELI",
 			"name": "RB HOTELARIA EIRELI",
 			"val": 15.484641771157479,
-			"desc": 440.72,
+			"desc": "440.72",
 			"group": "RB HOTELARIA EIRELI"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "HOTEL 10 -J&O.RAVANELLO LTDA",
 			"name": "HOTEL 10 -J&O.RAVANELLO LTDA",
 			"val": 16.605322755060136,
-			"desc": 468,
+			"desc": "468.00",
 			"group": "HOTEL 10 -J&O.RAVANELLO LTDA"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "POSTO MIME LTDA",
 			"name": "POSTO MIME LTDA",
 			"val": 23.856816109484253,
-			"desc": 639.83,
+			"desc": "639.83",
 			"group": "POSTO MIME LTDA"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "BRASIL LEASING",
 			"name": "BRASIL LEASING",
 			"val": 259.5201358562578,
-			"desc": 5250,
+			"desc": "5250.00",
 			"group": "BRASIL LEASING"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9839408533337646,
-			"desc": 78.74000000000001,
+			"desc": "78.74",
 			"group": "RAMAL"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "CHARME ESTUDIO DO BEM ESTAR LTDA- ME",
 			"name": "CHARME ESTUDIO DO BEM ESTAR LTDA- ME",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "CHARME ESTUDIO DO BEM ESTAR LTDA- ME"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 98.87239604493267,
-			"desc": 2223.17,
+			"desc": "2223.17",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.418836293245204,
-			"desc": 208.33,
+			"desc": "208.33",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "POSTO AGRICOPEL LTDA",
 			"name": "POSTO AGRICOPEL LTDA",
 			"val": 49.385072585788116,
-			"desc": 1206.1399999999999,
+			"desc": "1206.14",
 			"group": "POSTO AGRICOPEL LTDA"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"name": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA",
 			"val": 15.2753771146086,
-			"desc": 435.6,
+			"desc": "435.60",
 			"group": "ST. PAUL PLAZA HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)",
 			"name": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)",
 			"val": 25.0126385052591,
-			"desc": 666.6,
+			"desc": "666.60",
 			"group": "MANHATTAN HOTEIS E TURISMO LTDA-(FILIAL)"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.018506581641229,
-			"desc": 197.34,
+			"desc": "197.34",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 10.652067961455824,
-			"desc": 320,
+			"desc": "320.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "RESTAURANTE PIMENTA MALAGUETA LTDA",
 			"name": "RESTAURANTE PIMENTA MALAGUETA LTDA",
 			"val": 0.4125907745796027,
-			"desc": 22.85,
+			"desc": "22.85",
 			"group": "RESTAURANTE PIMENTA MALAGUETA LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "NOVARA SERVIÇOS LTDA",
 			"name": "NOVARA SERVIÇOS LTDA",
 			"val": 9.122794572821155,
-			"desc": 280.47,
+			"desc": "280.47",
 			"group": "NOVARA SERVIÇOS LTDA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 0.7375975065759769,
-			"desc": 35.74,
+			"desc": "35.74",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "AUTO POSTO RIO NEGRINHO LTDA",
 			"name": "AUTO POSTO RIO NEGRINHO LTDA",
 			"val": 9.321450452725319,
-			"desc": 285.65,
+			"desc": "285.65",
 			"group": "AUTO POSTO RIO NEGRINHO LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "Algers Rest. e Churrascaria Ltda.",
 			"name": "Algers Rest. e Churrascaria Ltda.",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "Algers Rest. e Churrascaria Ltda."
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "Rozinete da Silva Alveas",
 			"name": "Rozinete da Silva Alveas",
 			"val": 0.9885335573393415,
-			"desc": 45,
+			"desc": "45.00",
 			"group": "Rozinete da Silva Alveas"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 9.894314816823895,
-			"desc": 300.51,
+			"desc": "300.51",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "POSTO DE COMBUSTÍEIS V&H LTDA",
 			"name": "POSTO DE COMBUSTÍEIS V&H LTDA",
 			"val": 7.630270703473878,
-			"desc": 241.06,
+			"desc": "241.06",
 			"group": "POSTO DE COMBUSTÍEIS V&H LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "MJH BACH LTDA",
 			"name": "MJH BACH LTDA",
 			"val": 0.31625420598539994,
-			"desc": 18.71,
+			"desc": "18.71",
 			"group": "MJH BACH LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "POSTO MAURO RAMOS",
 			"name": "POSTO MAURO RAMOS",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO MAURO RAMOS"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "SB CHURRASCARIA LTDA",
 			"name": "SB CHURRASCARIA LTDA",
 			"val": 3.684496538465337,
-			"desc": 130.97,
+			"desc": "130.97",
 			"group": "SB CHURRASCARIA LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "ANDREA CARDOSO COMERCIO DE IMÓVEIS LTDA - ME",
 			"name": "ANDREA CARDOSO COMERCIO DE IMÓVEIS LTDA - ME",
 			"val": 189.03513165796517,
-			"desc": 3954.9,
+			"desc": "3954.90",
 			"group": "ANDREA CARDOSO COMERCIO DE IMÓVEIS LTDA - ME"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "ML ALIMENTACAO E DIVERSOES SA",
 			"name": "ML ALIMENTACAO E DIVERSOES SA",
 			"val": 2.647194648130752,
-			"desc": 99.68,
+			"desc": "99.68",
 			"group": "ML ALIMENTACAO E DIVERSOES SA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "RSTAURANTE LAPEVI LTDA",
 			"name": "RSTAURANTE LAPEVI LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "RSTAURANTE LAPEVI LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "J & U COMERCIO DE ALIMENTOS LTDA",
 			"name": "J & U COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.6063971718873205,
-			"desc": 30.69,
+			"desc": "30.69",
 			"group": "J & U COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "HARVEST ADMINISTRACAO DE BENS LTDA",
 			"name": "HARVEST ADMINISTRACAO DE BENS LTDA",
 			"val": 5.603745392286165,
-			"desc": 185.85,
+			"desc": "185.85",
 			"group": "HARVEST ADMINISTRACAO DE BENS LTDA"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "RUDNICK E CIA LTDA",
 			"name": "RUDNICK E CIA LTDA",
 			"val": 0.6973840138702262,
-			"desc": 34.21,
+			"desc": "34.21",
 			"group": "RUDNICK E CIA LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "posto agricopel ltda",
 			"name": "posto agricopel ltda",
 			"val": 6.779752032751439,
-			"desc": 218.16,
+			"desc": "218.16",
 			"group": "posto agricopel ltda"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.2282241990926894,
-			"desc": 14.71,
+			"desc": "14.71",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 5.147603583696847,
-			"desc": 173.08,
+			"desc": "173.08",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -903,7 +904,7 @@
 			"id": "SCHENKEL HOTEL",
 			"name": "SCHENKEL HOTEL",
 			"val": 3.821480422407449,
-			"desc": 135,
+			"desc": "135.00",
 			"group": "SCHENKEL HOTEL"
 		},
 		{
@@ -916,7 +917,7 @@
 			"id": "IRMAOS MARINHO LTDA - EPP",
 			"name": "IRMAOS MARINHO LTDA - EPP",
 			"val": 2.3364323636526114,
-			"desc": 89.98,
+			"desc": "89.98",
 			"group": "IRMAOS MARINHO LTDA - EPP"
 		},
 		{
@@ -929,7 +930,7 @@
 			"id": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
 			"name": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
 			"val": 1.2384506168813934,
-			"desc": 53.84,
+			"desc": "53.84",
 			"group": "RESTAURANTE E BAR XIQUE XIQUE LTDA"
 		},
 		{
@@ -942,7 +943,7 @@
 			"id": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA",
 			"name": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA",
 			"val": 102.74024694165198,
-			"desc": 2300,
+			"desc": "2300.00",
 			"group": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA"
 		},
 		{
@@ -955,7 +956,7 @@
 			"id": "LATINOAMERICANA CURITIBA ADMINISTRACAO DE HOTEIS LTDA",
 			"name": "LATINOAMERICANA CURITIBA ADMINISTRACAO DE HOTEIS LTDA",
 			"val": 16.002725393918823,
-			"desc": 453.36,
+			"desc": "453.36",
 			"group": "LATINOAMERICANA CURITIBA ADMINISTRACAO DE HOTEIS LTDA"
 		},
 		{
@@ -968,7 +969,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 34.735831706040855,
-			"desc": 886.8,
+			"desc": "886.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -981,7 +982,7 @@
 			"id": "GETCON TECNOLOGIA DA INFORMAÇÃO EIRELI ME",
 			"name": "GETCON TECNOLOGIA DA INFORMAÇÃO EIRELI ME",
 			"val": 18.21202504326185,
-			"desc": 506.73,
+			"desc": "506.73",
 			"group": "GETCON TECNOLOGIA DA INFORMAÇÃO EIRELI ME"
 		},
 		{

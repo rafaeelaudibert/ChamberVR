@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EMANUEL PINHEIRO NETO"
+			"name": "EMANUEL PINHEIRO NETO",
+			"desc": "38458.57"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "ABRITTA POSTOS DE SERVICOS LTDA",
 			"name": "ABRITTA POSTOS DE SERVICOS LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "ABRITTA POSTOS DE SERVICOS LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 643.1112533202709,
-			"desc": 11877.810000000001,
+			"desc": "11877.81",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "America Auto Posto Ltda F01",
 			"name": "America Auto Posto Ltda F01",
 			"val": 92.30661833626952,
-			"desc": 2092.04,
+			"desc": "2092.04",
 			"group": "America Auto Posto Ltda F01"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "AUTO POSTO PORTO LTDA",
 			"name": "AUTO POSTO PORTO LTDA",
 			"val": 7.478528599955549,
-			"desc": 237,
+			"desc": "237.00",
 			"group": "AUTO POSTO PORTO LTDA"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "MATRIX POSTOS DE COMBUSTIVEIS LTDA ME",
 			"name": "MATRIX POSTOS DE COMBUSTIVEIS LTDA ME",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "MATRIX POSTOS DE COMBUSTIVEIS LTDA ME"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.022322630934348,
-			"desc": 111.16999999999999,
+			"desc": "111.17",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "WIT - IMPRESSOS E ETIQUETAS LTDA - ME",
 			"name": "WIT - IMPRESSOS E ETIQUETAS LTDA - ME",
 			"val": 29.974870578898784,
-			"desc": 780,
+			"desc": "780.00",
 			"group": "WIT - IMPRESSOS E ETIQUETAS LTDA - ME"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "AUTO POSTO MIRELLI LTDA",
 			"name": "AUTO POSTO MIRELLI LTDA",
 			"val": 2.4658050227596604,
-			"desc": 94.04,
+			"desc": "94.04",
 			"group": "AUTO POSTO MIRELLI LTDA"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "CMKS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "CMKS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "CMKS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 99.31716041783629,
-			"desc": 2232.02,
+			"desc": "2232.02",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 32.64432774993011,
-			"desc": 840.1,
+			"desc": "840.10",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "LEBLON COMERCIO E TRANSPORTE DE COMBUSTIVEIS LTDA",
 			"name": "LEBLON COMERCIO E TRANSPORTE DE COMBUSTIVEIS LTDA",
 			"val": 3.416052547354538,
-			"desc": 123.01,
+			"desc": "123.01",
 			"group": "LEBLON COMERCIO E TRANSPORTE DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "LEBLON COMÉRCIO E TRANSPORTE DE COMBUSTÍVEIS LTDA.",
 			"name": "LEBLON COMÉRCIO E TRANSPORTE DE COMBUSTÍVEIS LTDA.",
 			"val": 2.337384499810042,
-			"desc": 90.01,
+			"desc": "90.01",
 			"group": "LEBLON COMÉRCIO E TRANSPORTE DE COMBUSTÍVEIS LTDA."
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 15.864806144190668,
-			"desc": 450,
+			"desc": "450.00",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 142.5123595499018,
-			"desc": 3075,
+			"desc": "3075.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 91.64776560954391,
-			"desc": 2078.83,
+			"desc": "2078.83",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 17.954885372054814,
-			"desc": 500.55999999999995,
+			"desc": "500.56",
 			"group": "RAMAL"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"name": "MANHATTAN HOTEIS E TURISMO LTDA",
 			"val": 25.298563471556598,
-			"desc": 673.2,
+			"desc": "673.20",
 			"group": "MANHATTAN HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
 			"name": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 74.89372042605646,
-			"desc": 1739.3899999999999,
+			"desc": "1739.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "REDE DE POSTOS 3R LTDA",
 			"name": "REDE DE POSTOS 3R LTDA",
 			"val": 3.5553111597068763,
-			"desc": 127.15,
+			"desc": "127.15",
 			"group": "REDE DE POSTOS 3R LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "MIRASSOL PALACE HOTEL",
 			"name": "MIRASSOL PALACE HOTEL",
 			"val": 11.752577346221429,
-			"desc": 348,
+			"desc": "348.00",
 			"group": "MIRASSOL PALACE HOTEL"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "JAURU HOTEL",
 			"name": "JAURU HOTEL",
 			"val": 15.169242607906687,
-			"desc": 433,
+			"desc": "433.00",
 			"group": "JAURU HOTEL"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "DFM DERIVADOS DE PETROLEO LTDA",
 			"name": "DFM DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "DFM DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "AUTO POSTO BOLA SETE LTDA",
 			"name": "AUTO POSTO BOLA SETE LTDA",
 			"val": 8.960980772994759,
-			"desc": 276.24,
+			"desc": "276.24",
 			"group": "AUTO POSTO BOLA SETE LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "AUTO POSTO DO NUCLEO LTDA",
 			"name": "AUTO POSTO DO NUCLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO DO NUCLEO LTDA"
 		},
 		{

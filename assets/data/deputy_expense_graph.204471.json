@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARA ROCHA"
+			"name": "MARA ROCHA",
+			"desc": "89227.33"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 117.5623614335445,
-			"desc": 2591.82,
+			"desc": "2591.82",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -96,7 +97,7 @@
 			"id": "AMAZONIA 7 PRODUCOES LTDA",
 			"name": "AMAZONIA 7 PRODUCOES LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "AMAZONIA 7 PRODUCOES LTDA"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "D. B. DE SOUSA EIRELI",
 			"name": "D. B. DE SOUSA EIRELI",
 			"val": 11.489199762675439,
-			"desc": 341.33,
+			"desc": "341.33",
 			"group": "D. B. DE SOUSA EIRELI"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1105.457028344579,
-			"desc": 19402.24,
+			"desc": "19402.24",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "E.A.DE ANDRADE-ME",
 			"name": "E.A.DE ANDRADE-ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "E.A.DE ANDRADE-ME"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 11.11969613984463,
-			"desc": 331.94000000000005,
+			"desc": "331.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 80.67115671656873,
-			"desc": 1857.2500000000002,
+			"desc": "1857.25",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.025641034006699,
-			"desc": 169.64,
+			"desc": "169.64",
 			"group": "RAMAL"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "JPH JOÃO PAULO HOTEL",
 			"name": "JPH JOÃO PAULO HOTEL",
 			"val": 7.521095755413294,
-			"desc": 238.14,
+			"desc": "238.14",
 			"group": "JPH JOÃO PAULO HOTEL"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "AD. FIRMINO DA COSTA - ME",
 			"name": "AD. FIRMINO DA COSTA - ME",
 			"val": 561.0402717125156,
-			"desc": 10500,
+			"desc": "10500.00",
 			"group": "AD. FIRMINO DA COSTA - ME"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "A S MENEZES",
 			"name": "A S MENEZES",
 			"val": 499.1905276090411,
-			"desc": 9450,
+			"desc": "9450.00",
 			"group": "A S MENEZES"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 12.666348658905271,
-			"desc": 371,
+			"desc": "371.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "A & S DERIVADOS DE PETROLEO LTDA",
 			"name": "A & S DERIVADOS DE PETROLEO LTDA",
 			"val": 11.894641609792703,
-			"desc": 351.59000000000003,
+			"desc": "351.59",
 			"group": "A & S DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "Sisnetti Integradora De Soluções Ltda -",
 			"name": "Sisnetti Integradora De Soluções Ltda -",
 			"val": 95.7036867585192,
-			"desc": 2160,
+			"desc": "2160.00",
 			"group": "Sisnetti Integradora De Soluções Ltda -"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "A DIRECTCAR LOCADORA EIRELI - ME",
 			"name": "A DIRECTCAR LOCADORA EIRELI - ME",
 			"val": 98.71313437578873,
-			"desc": 2220,
+			"desc": "2220.00",
 			"group": "A DIRECTCAR LOCADORA EIRELI - ME"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "ROSIANE LUCIA LIMA DOS SANTOS 02541214464",
 			"name": "ROSIANE LUCIA LIMA DOS SANTOS 02541214464",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "ROSIANE LUCIA LIMA DOS SANTOS 02541214464"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "MAURO JOSÉ DE CASTRO",
 			"name": "MAURO JOSÉ DE CASTRO",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "MAURO JOSÉ DE CASTRO"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "DIANA AGÊNCIA DE COMUNICAÇÃO",
 			"name": "DIANA AGÊNCIA DE COMUNICAÇÃO",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "DIANA AGÊNCIA DE COMUNICAÇÃO"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 158.08059314497123,
-			"desc": 3372.1800000000003,
+			"desc": "3372.18",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 85.24821558736838,
-			"desc": 1950,
+			"desc": "1950.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
 			"name": "KALLINY COMUNICACOES E TECNOLOGIA LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "KALLINY COMUNICACOES E TECNOLOGIA LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "M D M COMERCIO DE COMBUSTIVEIS EIRELI - EPP",
 			"name": "M D M COMERCIO DE COMBUSTIVEIS EIRELI - EPP",
 			"val": 207.30665684632248,
-			"desc": 4294.46,
+			"desc": "4294.46",
 			"group": "M D M COMERCIO DE COMBUSTIVEIS EIRELI - EPP"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "CLAUDIO GOMES DA SILVA ME",
 			"name": "CLAUDIO GOMES DA SILVA ME",
 			"val": 484.5609877666079,
-			"desc": 9200,
+			"desc": "9200.00",
 			"group": "CLAUDIO GOMES DA SILVA ME"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "KAMBO TECNOLOGIA LTDA",
 			"name": "KAMBO TECNOLOGIA LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "KAMBO TECNOLOGIA LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "KAMBÔ TECNOLOGIA LTDA",
 			"name": "KAMBÔ TECNOLOGIA LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "KAMBÔ TECNOLOGIA LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 13.121142066288272,
-			"desc": 382.37,
+			"desc": "382.37",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "AUTO POSTO YACO",
 			"name": "AUTO POSTO YACO",
 			"val": 7.643744812615315,
-			"desc": 241.42000000000002,
+			"desc": "241.42",
 			"group": "AUTO POSTO YACO"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.353764897924188,
-			"desc": 206.55,
+			"desc": "206.55",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 171.3968379445844,
-			"desc": 3624.1,
+			"desc": "3624.10",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "EMIDIO SOUTO PEREIRA",
 			"name": "EMIDIO SOUTO PEREIRA",
 			"val": 20.928100905450638,
-			"desc": 571.3,
+			"desc": "571.30",
 			"group": "EMIDIO SOUTO PEREIRA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "PROGRESSO DO ACRE COMUNICAÇÕES LTDA ME",
 			"name": "PROGRESSO DO ACRE COMUNICAÇÕES LTDA ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "PROGRESSO DO ACRE COMUNICAÇÕES LTDA ME"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "MAURO JOSE DE CASTRO 02812470640",
 			"name": "MAURO JOSE DE CASTRO 02812470640",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "MAURO JOSE DE CASTRO 02812470640"
 		},
 		{

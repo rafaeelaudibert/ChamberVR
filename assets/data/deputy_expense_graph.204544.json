@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALEXANDRE FROTA"
+			"name": "ALEXANDRE FROTA",
+			"desc": "61360.70"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 427.3007788482312,
-			"desc": 8214.79,
+			"desc": "8214.79",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "R RUGGIERO RESTAURANTE",
 			"name": "R RUGGIERO RESTAURANTE",
 			"val": 4.445001581427849,
-			"desc": 153.1,
+			"desc": "153.10",
 			"group": "R RUGGIERO RESTAURANTE"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 111.5788666687915,
-			"desc": 2474.4900000000002,
+			"desc": "2474.49",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "Prompt Brasil Solucoes Em Tecnologia De Informacao Eireli",
 			"name": "Prompt Brasil Solucoes Em Tecnologia De Informacao Eireli",
 			"val": 67.16220371340219,
-			"desc": 1580.1599999999999,
+			"desc": "1580.16",
 			"group": "Prompt Brasil Solucoes Em Tecnologia De Informacao Eireli"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 827.4571338992172,
-			"desc": 14919.94,
+			"desc": "14919.94",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 4.676919992404885,
-			"desc": 159.74,
+			"desc": "159.74",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.8245227461425108,
-			"desc": 39,
+			"desc": "39.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "AUTO POSTO SANTA RITA LTDA",
 			"name": "AUTO POSTO SANTA RITA LTDA",
 			"val": 3.993084255977387,
-			"desc": 140.02,
+			"desc": "140.02",
 			"group": "AUTO POSTO SANTA RITA LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 63.72871884120697,
-			"desc": 1508.84,
+			"desc": "1508.84",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 25.61915574583846,
-			"desc": 680.59,
+			"desc": "680.59",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "GUERATO E PRADO SOCIEDADE DE ADVOGADOS",
 			"name": "GUERATO E PRADO SOCIEDADE DE ADVOGADOS",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "GUERATO E PRADO SOCIEDADE DE ADVOGADOS"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"val": 18.97596458636232,
-			"desc": 525,
+			"desc": "525.00",
 			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "ECT",
 			"name": "ECT",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "ECT"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 65.17835839051645,
-			"desc": 1539,
+			"desc": "1539.00",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "ENEL - ELETROPAULO",
 			"name": "ENEL - ELETROPAULO",
 			"val": 3.227970096865776,
-			"desc": 117.38,
+			"desc": "117.38",
 			"group": "ENEL - ELETROPAULO"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "MAGS SOLUÇÕES GRÁFICAS LTDA ME",
 			"name": "MAGS SOLUÇÕES GRÁFICAS LTDA ME",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "MAGS SOLUÇÕES GRÁFICAS LTDA ME"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 37.95621389373354,
-			"desc": 958.1,
+			"desc": "958.10",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.208527512763074,
-			"desc": 146.28,
+			"desc": "146.28",
 			"group": "RAMAL"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 42.70790721222127,
-			"desc": 1062.1000000000001,
+			"desc": "1062.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 7.042401000918672,
-			"desc": 225.27,
+			"desc": "225.27",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "Armando Rodrigues Maduro Júnior",
 			"name": "Armando Rodrigues Maduro Júnior",
 			"val": 466.0090111147996,
-			"desc": 8882,
+			"desc": "8882.00",
 			"group": "Armando Rodrigues Maduro Júnior"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
 			"name": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
 			"val": 4.504920184642002,
-			"desc": 154.82,
+			"desc": "154.82",
 			"group": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "Roca & Teixeira Sociedade de Advogados",
 			"name": "Roca & Teixeira Sociedade de Advogados",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "Roca & Teixeira Sociedade de Advogados"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 5.609852709977454,
-			"desc": 186.02,
+			"desc": "186.02",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
 			"name": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 4.3803314184108,
-			"desc": 151.24,
+			"desc": "151.24",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "RECANTO DA GLORIA COMERCIO VAREJISTA DE COMBUSTIV",
 			"name": "RECANTO DA GLORIA COMERCIO VAREJISTA DE COMBUSTIV",
 			"val": 6.370938100944766,
-			"desc": 207.02,
+			"desc": "207.02",
 			"group": "RECANTO DA GLORIA COMERCIO VAREJISTA DE COMBUSTIV"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "D & A ALIMENTOS LTDA",
 			"name": "D & A ALIMENTOS LTDA",
 			"val": 1.1231043083663992,
-			"desc": 49.8,
+			"desc": "49.80",
 			"group": "D & A ALIMENTOS LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "LEC REFEICOES LTDA EPP",
 			"name": "LEC REFEICOES LTDA EPP",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "LEC REFEICOES LTDA EPP"
 		},
 		{

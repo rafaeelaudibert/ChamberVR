@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CHARLES FERNANDES"
+			"name": "CHARLES FERNANDES",
+			"desc": "106691.75"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "FAGUNDES SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "FAGUNDES SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "FAGUNDES SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 124.58304898817896,
-			"desc": 2728.73,
+			"desc": "2728.73",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 8.13272771413548,
-			"desc": 254.43,
+			"desc": "254.43",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "FGF ALIMENTOS LTDA",
 			"name": "FGF ALIMENTOS LTDA",
 			"val": 8.97015174899696,
-			"desc": 276.48,
+			"desc": "276.48",
 			"group": "FGF ALIMENTOS LTDA"
 		},
 		{
@@ -141,7 +142,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 43.3213226009661,
-			"desc": 1075.4299999999998,
+			"desc": "1075.43",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -178,7 +179,7 @@
 			"id": "AUTO POSTO CARDOZO LTDA",
 			"name": "AUTO POSTO CARDOZO LTDA",
 			"val": 25.900217023510777,
-			"desc": 687.0600000000001,
+			"desc": "687.06",
 			"group": "AUTO POSTO CARDOZO LTDA"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "POSTO PRETOLINE LTDA",
 			"name": "POSTO PRETOLINE LTDA",
 			"val": 7.965031610932789,
-			"desc": 249.98,
+			"desc": "249.98",
 			"group": "POSTO PRETOLINE LTDA"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 279.3767797045273,
-			"desc": 5608.450000000001,
+			"desc": "5608.45",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "AMIL COMERCIO DE COMBUSTIVEIS LTDA - EPP",
 			"name": "AMIL COMERCIO DE COMBUSTIVEIS LTDA - EPP",
 			"val": 17.101229943568352,
-			"desc": 480,
+			"desc": "480.00",
 			"group": "AMIL COMERCIO DE COMBUSTIVEIS LTDA - EPP"
 		},
 		{
@@ -278,7 +279,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 1.9403508451704874,
-			"desc": 77.33,
+			"desc": "77.33",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "OSVALDINO GOMES DE CARVALHO",
 			"name": "OSVALDINO GOMES DE CARVALHO",
 			"val": 5.681050816461584,
-			"desc": 188,
+			"desc": "188.00",
 			"group": "OSVALDINO GOMES DE CARVALHO"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "4M COMERCIO DE ALIMENTOS LTDA",
 			"name": "4M COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.375198908152388,
-			"desc": 91.2,
+			"desc": "91.20",
 			"group": "4M COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -317,7 +318,7 @@
 			"id": "ELCI FARIAS DO COUTO - III",
 			"name": "ELCI FARIAS DO COUTO - III",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ELCI FARIAS DO COUTO - III"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 13.584327841958558,
-			"desc": 393.9,
+			"desc": "393.90",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "AUTO POSTO PRECIOSO DO OESTE LTDA",
 			"name": "AUTO POSTO PRECIOSO DO OESTE LTDA",
 			"val": 16.07091717381527,
-			"desc": 455.02,
+			"desc": "455.02",
 			"group": "AUTO POSTO PRECIOSO DO OESTE LTDA"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "POSTO MODELO LTDA",
 			"name": "POSTO MODELO LTDA",
 			"val": 24.643229141572515,
-			"desc": 658.06,
+			"desc": "658.06",
 			"group": "POSTO MODELO LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "POSTO GRUTA DA LAPA LTDA IV",
 			"name": "POSTO GRUTA DA LAPA LTDA IV",
 			"val": 33.2684537958628,
-			"desc": 854.0699999999999,
+			"desc": "854.07",
 			"group": "POSTO GRUTA DA LAPA LTDA IV"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 181.7133057822136,
-			"desc": 3817.9600000000005,
+			"desc": "3817.96",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "POSTO GRUTA DA LAPA LTDA III",
 			"name": "POSTO GRUTA DA LAPA LTDA III",
 			"val": 7.181453226842955,
-			"desc": 229.02,
+			"desc": "229.02",
 			"group": "POSTO GRUTA DA LAPA LTDA III"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "DOISMAISUM EMPREENDIMENTOS GASTRNOM. LTDA",
 			"name": "DOISMAISUM EMPREENDIMENTOS GASTRNOM. LTDA",
 			"val": 1.8379981962261691,
-			"desc": 74,
+			"desc": "74.00",
 			"group": "DOISMAISUM EMPREENDIMENTOS GASTRNOM. LTDA"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "POSTO GUARUJA LTDA",
 			"name": "POSTO GUARUJA LTDA",
 			"val": 154.28490408055794,
-			"desc": 3300,
+			"desc": "3300.00",
 			"group": "POSTO GUARUJA LTDA"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.729048113646352,
-			"desc": 321.97,
+			"desc": "321.97",
 			"group": "RAMAL"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "POSTO GRUTA DA LAPA LTDA",
 			"name": "POSTO GRUTA DA LAPA LTDA",
 			"val": 22.751558702650946,
-			"desc": 614.09,
+			"desc": "614.09",
 			"group": "POSTO GRUTA DA LAPA LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "POSTO ROSARIO LTDA",
 			"name": "POSTO ROSARIO LTDA",
 			"val": 62.69935899165804,
-			"desc": 1487.38,
+			"desc": "1487.38",
 			"group": "POSTO ROSARIO LTDA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "POSTO GUANAMBI LTDA",
 			"name": "POSTO GUANAMBI LTDA",
 			"val": 8.270233680634854,
-			"desc": 258.07,
+			"desc": "258.07",
 			"group": "POSTO GUANAMBI LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "OLIVA PARALELA RESTAURANTE LTDA.",
 			"name": "OLIVA PARALELA RESTAURANTE LTDA.",
 			"val": 1.4908534112879441,
-			"desc": 62.48,
+			"desc": "62.48",
 			"group": "OLIVA PARALELA RESTAURANTE LTDA."
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 24.07479948376136,
-			"desc": 644.89,
+			"desc": "644.89",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "ELCI FARIAS DO COUTO - IV",
 			"name": "ELCI FARIAS DO COUTO - IV",
 			"val": 7.403925929771099,
-			"desc": 235,
+			"desc": "235.00",
 			"group": "ELCI FARIAS DO COUTO - IV"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "PRATICA BRINDES, COPIADORA E GRAFICA RAPIDA LTDA",
 			"name": "PRATICA BRINDES, COPIADORA E GRAFICA RAPIDA LTDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "PRATICA BRINDES, COPIADORA E GRAFICA RAPIDA LTDA"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "ADRIANA OLIVEIRA DA SILVA -ME",
 			"name": "ADRIANA OLIVEIRA DA SILVA -ME",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "ADRIANA OLIVEIRA DA SILVA -ME"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "TB COMERCIO DE ALIMENTOS LTDA",
 			"name": "TB COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "TB COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "RAVENA AUTO POSTO LTDA",
 			"name": "RAVENA AUTO POSTO LTDA",
 			"val": 0.8517790873202832,
-			"desc": 40.01,
+			"desc": "40.01",
 			"group": "RAVENA AUTO POSTO LTDA"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "Posto Rota do Sol LTDA",
 			"name": "Posto Rota do Sol LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Posto Rota do Sol LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "ROSARIO RESTAURANTE E LANCHONETE LTDA EPP",
 			"name": "ROSARIO RESTAURANTE E LANCHONETE LTDA EPP",
 			"val": 2.1246458826368437,
-			"desc": 83.25999999999999,
+			"desc": "83.26",
 			"group": "ROSARIO RESTAURANTE E LANCHONETE LTDA EPP"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "MACAUBENSE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MACAUBENSE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 1.129054705774567,
-			"desc": 50.01,
+			"desc": "50.01",
 			"group": "MACAUBENSE COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "UMBURANA SERVICOS DE COMUNICACAO E MARKETING EIRELI",
 			"name": "UMBURANA SERVICOS DE COMUNICACAO E MARKETING EIRELI",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "UMBURANA SERVICOS DE COMUNICACAO E MARKETING EIRELI"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.336357968466462,
-			"desc": 120.63,
+			"desc": "120.63",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "UMBURANA SERVIÇOS DE COMUNICAÇÃO E MARKETING EIRELI",
 			"name": "UMBURANA SERVIÇOS DE COMUNICAÇÃO E MARKETING EIRELI",
 			"val": 1112.3458748921566,
-			"desc": 19512,
+			"desc": "19512.00",
 			"group": "UMBURANA SERVIÇOS DE COMUNICAÇÃO E MARKETING EIRELI"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "RANCHO ALEGRE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "RANCHO ALEGRE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "RANCHO ALEGRE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "POSTO VILASBOAS LTDA - EPP",
 			"name": "POSTO VILASBOAS LTDA - EPP",
 			"val": 7.778655531571625,
-			"desc": 245.02,
+			"desc": "245.02",
 			"group": "POSTO VILASBOAS LTDA - EPP"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "POSTO ITA GUANABARA",
 			"name": "POSTO ITA GUANABARA",
 			"val": 168.05166236485147,
-			"desc": 3561,
+			"desc": "3561.00",
 			"group": "POSTO ITA GUANABARA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 20.534190367856645,
-			"desc": 562,
+			"desc": "562.00",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "JOAQUIM JOSE PEREIRA",
 			"name": "JOAQUIM JOSE PEREIRA",
 			"val": 426.4461887760841,
-			"desc": 8200,
+			"desc": "8200.00",
 			"group": "JOAQUIM JOSE PEREIRA"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "AUTO POSTO VILA MARIANA LTDA",
 			"name": "AUTO POSTO VILA MARIANA LTDA",
 			"val": 7.405044246259553,
-			"desc": 235.03,
+			"desc": "235.03",
 			"group": "AUTO POSTO VILA MARIANA LTDA"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "AUTO POSTO MORADA DOS NOBRES LTDA",
 			"name": "AUTO POSTO MORADA DOS NOBRES LTDA",
 			"val": 7.758774406295586,
-			"desc": 244.49,
+			"desc": "244.49",
 			"group": "AUTO POSTO MORADA DOS NOBRES LTDA"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 5.763906689155526,
-			"desc": 190.3,
+			"desc": "190.30",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{

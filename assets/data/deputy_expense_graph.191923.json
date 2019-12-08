@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FLÁVIO NOGUEIRA"
+			"name": "FLÁVIO NOGUEIRA",
+			"desc": "134449.68"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1135.9514564075475,
-			"desc": 19887.68,
+			"desc": "19887.68",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "AGUAS DE TERESINA SAN. SPE SA",
 			"name": "AGUAS DE TERESINA SAN. SPE SA",
 			"val": 9.63201599573729,
-			"desc": 293.72,
+			"desc": "293.72",
 			"group": "AGUAS DE TERESINA SAN. SPE SA"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 399.9696293350453,
-			"desc": 7740.43,
+			"desc": "7740.43",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -296,7 +297,7 @@
 			"id": "PAPELARIA E LIVRARIA J A LTDA",
 			"name": "PAPELARIA E LIVRARIA J A LTDA",
 			"val": 13.33340764427242,
-			"desc": 387.65999999999997,
+			"desc": "387.66",
 			"group": "PAPELARIA E LIVRARIA J A LTDA"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "TIM",
 			"name": "TIM",
 			"val": 11.943760422121196,
-			"desc": 352.83000000000004,
+			"desc": "352.83",
 			"group": "TIM"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.854230782764764,
-			"desc": 425.27,
+			"desc": "425.27",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "mirante locadora limitada",
 			"name": "mirante locadora limitada",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "mirante locadora limitada"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "JUNCO COMERCIAL LTDA",
 			"name": "JUNCO COMERCIAL LTDA",
 			"val": 440.9120641607235,
-			"desc": 8450,
+			"desc": "8450.00",
 			"group": "JUNCO COMERCIAL LTDA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 17.729780254628967,
-			"desc": 495.15,
+			"desc": "495.15",
 			"group": "CLARO S.A."
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.7969553314183884,
-			"desc": 134.28,
+			"desc": "134.28",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "R/A GESTÃO EMPRESARIAL",
 			"name": "R/A GESTÃO EMPRESARIAL",
 			"val": 1915.6203884367471,
-			"desc": 32000,
+			"desc": "32000.00",
 			"group": "R/A GESTÃO EMPRESARIAL"
 		},
 		{
@@ -509,7 +510,7 @@
 			"id": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )",
 			"name": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )",
 			"val": 59.10989200735959,
-			"desc": 1412.25,
+			"desc": "1412.25",
 			"group": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "FCN X Carvalho Combustíveis Ltda",
 			"name": "FCN X Carvalho Combustíveis Ltda",
 			"val": 31.618373078051405,
-			"desc": 817.0699999999999,
+			"desc": "817.07",
 			"group": "FCN X Carvalho Combustíveis Ltda"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "NOVA ALIANÇA ATACADO LTDA - EPP 2",
 			"name": "NOVA ALIANÇA ATACADO LTDA - EPP 2",
 			"val": 0.6268804805233519,
-			"desc": 31.49,
+			"desc": "31.49",
 			"group": "NOVA ALIANÇA ATACADO LTDA - EPP 2"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "AUTO POSTO TREVO",
 			"name": "AUTO POSTO TREVO",
 			"val": 7.126160390475659,
-			"desc": 227.53,
+			"desc": "227.53",
 			"group": "AUTO POSTO TREVO"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 22.570086545331648,
-			"desc": 609.85,
+			"desc": "609.85",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "ARAUJO & MELO ADVOCACIA E CONSULTORIA JURIDICA",
 			"name": "ARAUJO & MELO ADVOCACIA E CONSULTORIA JURIDICA",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "ARAUJO & MELO ADVOCACIA E CONSULTORIA JURIDICA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 14.124674783292496,
-			"desc": 407.28999999999996,
+			"desc": "407.29",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.5333947487953212,
-			"desc": 126.5,
+			"desc": "126.50",
 			"group": "RAMAL"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.6856308945758394,
-			"desc": 33.76,
+			"desc": "33.76",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 89.1862552068862,
-			"desc": 2029.39,
+			"desc": "2029.39",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "ARAÚJO & MELO ADVOCACIA E CONSULTORIA JÚRIDICA",
 			"name": "ARAÚJO & MELO ADVOCACIA E CONSULTORIA JÚRIDICA",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "ARAÚJO & MELO ADVOCACIA E CONSULTORIA JÚRIDICA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "BRASAO VIGILANCIA E SEGURANCA LTDA",
 			"name": "BRASAO VIGILANCIA E SEGURANCA LTDA",
 			"val": 1329.8267510315359,
-			"desc": 22949.89,
+			"desc": "22949.89",
 			"group": "BRASAO VIGILANCIA E SEGURANCA LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "PETROLEO SAO PAULO LTDA",
 			"name": "PETROLEO SAO PAULO LTDA",
 			"val": 3.921511261151786,
-			"desc": 137.93,
+			"desc": "137.93",
 			"group": "PETROLEO SAO PAULO LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 6.007264616536182,
-			"desc": 197.03,
+			"desc": "197.03",
 			"group": "TIM S/A"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 5.264617249780089,
-			"desc": 176.37,
+			"desc": "176.37",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 8.186712311730062,
-			"desc": 255.86,
+			"desc": "255.86",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "PRIMUS COMBUSTIVEIS LTDA",
 			"name": "PRIMUS COMBUSTIVEIS LTDA",
 			"val": 17.225893303484888,
-			"desc": 483.01,
+			"desc": "483.01",
 			"group": "PRIMUS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "SP ATACADISTA DE ARMARINHO LTDA",
 			"name": "SP ATACADISTA DE ARMARINHO LTDA",
 			"val": 12.598919825525556,
-			"desc": 369.31,
+			"desc": "369.31",
 			"group": "SP ATACADISTA DE ARMARINHO LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "POSTO IGUATEMI",
 			"name": "POSTO IGUATEMI",
 			"val": 7.285882263291778,
-			"desc": 231.83,
+			"desc": "231.83",
 			"group": "POSTO IGUATEMI"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 1.1657179961316806,
-			"desc": 51.3,
+			"desc": "51.30",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{

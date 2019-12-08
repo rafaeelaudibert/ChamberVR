@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AJ ALBUQUERQUE"
+			"name": "AJ ALBUQUERQUE",
+			"desc": "97265.35"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 34.38773774376971,
-			"desc": 879.05,
+			"desc": "879.05",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 1057.091540811337,
-			"desc": 18630,
+			"desc": "18630.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1008.9531736657018,
-			"desc": 17858.44,
+			"desc": "17858.44",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 94.0825675439841,
-			"desc": 2127.6,
+			"desc": "2127.60",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -333,7 +334,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 68.09167254089859,
-			"desc": 1599.4,
+			"desc": "1599.40",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "Xerez Saldanha Vasconcelos & Ciro Gomes Advogados",
 			"name": "Xerez Saldanha Vasconcelos & Ciro Gomes Advogados",
 			"val": 1206.0805434250312,
-			"desc": 21000,
+			"desc": "21000.00",
 			"group": "Xerez Saldanha Vasconcelos & Ciro Gomes Advogados"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "JC COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "JC COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 31.49300131031746,
-			"desc": 814.25,
+			"desc": "814.25",
 			"group": "JC COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "ESTOK COMERCIO E REPRESENTACOES S/A",
 			"name": "ESTOK COMERCIO E REPRESENTACOES S/A",
 			"val": 13.487752066757771,
-			"desc": 391.5,
+			"desc": "391.50",
 			"group": "ESTOK COMERCIO E REPRESENTACOES S/A"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 18.95668463132939,
-			"desc": 524.54,
+			"desc": "524.54",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.5717075641499907,
-			"desc": 97.33999999999999,
+			"desc": "97.34",
 			"group": "RAMAL"
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "J C COMERCIO DE COMBUSTIVÉL LTDA",
 			"name": "J C COMERCIO DE COMBUSTIVÉL LTDA",
 			"val": 8.210888206012838,
-			"desc": 256.5,
+			"desc": "256.50",
 			"group": "J C COMERCIO DE COMBUSTIVÉL LTDA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 182.9891630648189,
-			"desc": 3841.86,
+			"desc": "3841.86",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "F. ARMANDO COSTA",
 			"name": "F. ARMANDO COSTA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "F. ARMANDO COSTA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 8.180669780742363,
-			"desc": 255.7,
+			"desc": "255.70",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "TAM LINHAS AEREAS SA",
 			"name": "TAM LINHAS AEREAS SA",
 			"val": 68.02399442119562,
-			"desc": 1598,
+			"desc": "1598.00",
 			"group": "TAM LINHAS AEREAS SA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "DINAMICA COMERCIO DE PAPELARIA LTDA",
 			"name": "DINAMICA COMERCIO DE PAPELARIA LTDA",
 			"val": 4.483308843461067,
-			"desc": 154.2,
+			"desc": "154.20",
 			"group": "DINAMICA COMERCIO DE PAPELARIA LTDA"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 20.66666613289457,
-			"desc": 565.1300000000001,
+			"desc": "565.13",
 			"group": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "POSTO MK 406 NORTE LTDA",
 			"name": "POSTO MK 406 NORTE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO MK 406 NORTE LTDA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "POSTO SAO DOMINGOS LTDA",
 			"name": "POSTO SAO DOMINGOS LTDA",
 			"val": 3.78810451743655,
-			"desc": 134.02,
+			"desc": "134.02",
 			"group": "POSTO SAO DOMINGOS LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 21.764529878103716,
-			"desc": 590.98,
+			"desc": "590.98",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "STILO COMERCIO DE PAPELARIA E INFORMATICA EIRELI",
 			"name": "STILO COMERCIO DE PAPELARIA E INFORMATICA EIRELI",
 			"val": 1.8379981962261691,
-			"desc": 74,
+			"desc": "74.00",
 			"group": "STILO COMERCIO DE PAPELARIA E INFORMATICA EIRELI"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 16.513773217923763,
-			"desc": 465.78,
+			"desc": "465.78",
 			"group": "TIM S/A"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.831034147023916,
-			"desc": 424.7,
+			"desc": "424.70",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "F.ARMANDO COSTA - ME",
 			"name": "F.ARMANDO COSTA - ME",
 			"val": 893.8101942183736,
-			"desc": 16000,
+			"desc": "16000.00",
 			"group": "F.ARMANDO COSTA - ME"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 9.194063604562299,
-			"desc": 282.33000000000004,
+			"desc": "282.33",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "SOBRAL & PALACIO PETROLEO",
 			"name": "SOBRAL & PALACIO PETROLEO",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "SOBRAL & PALACIO PETROLEO"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{

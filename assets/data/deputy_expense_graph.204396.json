@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VERMELHO"
+			"name": "VERMELHO",
+			"desc": "81942.42"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO SUL LTDA",
 			"name": "AUTO POSTO SUL LTDA",
 			"val": 11.905730751726932,
-			"desc": 351.87,
+			"desc": "351.87",
 			"group": "AUTO POSTO SUL LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "AUTO POSTO DORIGONI LTDA",
 			"name": "AUTO POSTO DORIGONI LTDA",
 			"val": 138.77684672372376,
-			"desc": 3003.2299999999996,
+			"desc": "3003.23",
 			"group": "AUTO POSTO DORIGONI LTDA"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 4.622287486879079,
-			"desc": 158.18,
+			"desc": "158.18",
 			"group": "NET"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "LOMBARDIA COMERCIAL LTDA",
 			"name": "LOMBARDIA COMERCIAL LTDA",
 			"val": 2.868332116681142,
-			"desc": 106.48,
+			"desc": "106.48",
 			"group": "LOMBARDIA COMERCIAL LTDA"
 		},
 		{
@@ -99,7 +100,7 @@
 			"id": "Zazen Restaurante Ltda ME",
 			"name": "Zazen Restaurante Ltda ME",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "Zazen Restaurante Ltda ME"
 		},
 		{
@@ -112,7 +113,7 @@
 			"id": "JESSICA SENHORI DE ARAUJO 01030250146",
 			"name": "JESSICA SENHORI DE ARAUJO 01030250146",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "JESSICA SENHORI DE ARAUJO 01030250146"
 		},
 		{
@@ -131,7 +132,7 @@
 			"id": "KAITEN SUSHI GASTRONOMIA JAPONESA EIRELI ME",
 			"name": "KAITEN SUSHI GASTRONOMIA JAPONESA EIRELI ME",
 			"val": 6.370207200809441,
-			"desc": 207,
+			"desc": "207.00",
 			"group": "KAITEN SUSHI GASTRONOMIA JAPONESA EIRELI ME"
 		},
 		{
@@ -150,7 +151,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -163,7 +164,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 182.60845116154164,
-			"desc": 3834.73,
+			"desc": "3834.73",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 7.043141662556215,
-			"desc": 225.29,
+			"desc": "225.29",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.959834485579409,
-			"desc": 276.21000000000004,
+			"desc": "276.21",
 			"group": "RAMAL"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "DUMOND ADMINISTRADORA DE BENS LTDA",
 			"name": "DUMOND ADMINISTRADORA DE BENS LTDA",
 			"val": 115.01479580465136,
-			"desc": 2541.94,
+			"desc": "2541.94",
 			"group": "DUMOND ADMINISTRADORA DE BENS LTDA"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "Monterosso Comercio de Alimentos Eireli - Epp",
 			"name": "Monterosso Comercio de Alimentos Eireli - Epp",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "Monterosso Comercio de Alimentos Eireli - Epp"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "RESTAURANTE ELDORADO GRILL LTDA - ME",
 			"name": "RESTAURANTE ELDORADO GRILL LTDA - ME",
 			"val": 2.7597163645382383,
-			"desc": 103.15,
+			"desc": "103.15",
 			"group": "RESTAURANTE ELDORADO GRILL LTDA - ME"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "CONDOMÍNIO EDIF. VICTÓRIA BUILING",
 			"name": "CONDOMÍNIO EDIF. VICTÓRIA BUILING",
 			"val": 44.539453666542286,
-			"desc": 1101.8400000000001,
+			"desc": "1101.84",
 			"group": "CONDOMÍNIO EDIF. VICTÓRIA BUILING"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "JLM RESTAURANTE LTDA EPP",
 			"name": "JLM RESTAURANTE LTDA EPP",
 			"val": 1.1799791759479923,
-			"desc": 51.8,
+			"desc": "51.80",
 			"group": "JLM RESTAURANTE LTDA EPP"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 24.16490305878505,
-			"desc": 646.9799999999999,
+			"desc": "646.98",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "Saint Germain Comercio de Alimentos Ltda",
 			"name": "Saint Germain Comercio de Alimentos Ltda",
 			"val": 0.781654968204041,
-			"desc": 37.4,
+			"desc": "37.40",
 			"group": "Saint Germain Comercio de Alimentos Ltda"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "TOC NA CUCA REVISTARIA , PAPELARIA E CONVENIENCIAS LTDA ME",
 			"name": "TOC NA CUCA REVISTARIA , PAPELARIA E CONVENIENCIAS LTDA ME",
 			"val": 1.3590515908695968,
-			"desc": 58,
+			"desc": "58.00",
 			"group": "TOC NA CUCA REVISTARIA , PAPELARIA E CONVENIENCIAS LTDA ME"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "CELSIANE MERI ESCORSIN",
 			"name": "CELSIANE MERI ESCORSIN",
 			"val": 1.1259371949257997,
-			"desc": 49.9,
+			"desc": "49.90",
 			"group": "CELSIANE MERI ESCORSIN"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 249.86614835757857,
-			"desc": 5074.81,
+			"desc": "5074.81",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "KIELTO S.A.",
 			"name": "KIELTO S.A.",
 			"val": 6.227896119251702,
-			"desc": 203.1,
+			"desc": "203.10",
 			"group": "KIELTO S.A."
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 0.7845896718173271,
-			"desc": 37.51,
+			"desc": "37.51",
 			"group": "CLARO S.A"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "HARUE LOCAÇÃO DE VEÍCULOS LTDA ME",
 			"name": "HARUE LOCAÇÃO DE VEÍCULOS LTDA ME",
 			"val": 686.5052601090418,
-			"desc": 12600,
+			"desc": "12600.00",
 			"group": "HARUE LOCAÇÃO DE VEÍCULOS LTDA ME"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "MADYMOLL S.A.",
 			"name": "MADYMOLL S.A.",
 			"val": 2.7155340867666706,
-			"desc": 101.79,
+			"desc": "101.79",
 			"group": "MADYMOLL S.A."
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "LIDER POSTO DE SERVICOS LTDA",
 			"name": "LIDER POSTO DE SERVICOS LTDA",
 			"val": 5.312378189827441,
-			"desc": 177.71,
+			"desc": "177.71",
 			"group": "LIDER POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "Mocellin & Consolli Imóveis e Emp. Imobiliários Ltda",
 			"name": "Mocellin & Consolli Imóveis e Emp. Imobiliários Ltda",
 			"val": 174.8307600112123,
-			"desc": 3688.75,
+			"desc": "3688.75",
 			"group": "Mocellin & Consolli Imóveis e Emp. Imobiliários Ltda"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "AUTO POSTO OMS LTDA",
 			"name": "AUTO POSTO OMS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO OMS LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 289.772668202877,
-			"desc": 5795.16,
+			"desc": "5795.16",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 7.956000246643606,
-			"desc": 249.74,
+			"desc": "249.74",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "AETATIS S.A.",
 			"name": "AETATIS S.A.",
 			"val": 11.635604238294246,
-			"desc": 345.04,
+			"desc": "345.04",
 			"group": "AETATIS S.A."
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "EDITORA NOVAPRESS LTDA",
 			"name": "EDITORA NOVAPRESS LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "EDITORA NOVAPRESS LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "TROPPO PRESTO PIZZAS E MASSAS LTDA",
 			"name": "TROPPO PRESTO PIZZAS E MASSAS LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "TROPPO PRESTO PIZZAS E MASSAS LTDA"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "DIOGO LUIZ DRANSKI/DRANSKI DESIGN",
 			"name": "DIOGO LUIZ DRANSKI/DRANSKI DESIGN",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "DIOGO LUIZ DRANSKI/DRANSKI DESIGN"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "201910Silvana Maria Canal Marketing e Consultoria",
 			"name": "201910Silvana Maria Canal Marketing e Consultoria",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "201910Silvana Maria Canal Marketing e Consultoria"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "AUTO POSTO POTENZA LTDA",
 			"name": "AUTO POSTO POTENZA LTDA",
 			"val": 16.215220734292743,
-			"desc": 458.53,
+			"desc": "458.53",
 			"group": "AUTO POSTO POTENZA LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "ELTO MARONEZI & CIA LTDA",
 			"name": "ELTO MARONEZI & CIA LTDA",
 			"val": 1.7738937533327368,
-			"desc": 71.9,
+			"desc": "71.90",
 			"group": "ELTO MARONEZI & CIA LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "AUTO POSTO PETER PAN 01 LTDA",
 			"name": "AUTO POSTO PETER PAN 01 LTDA",
 			"val": 7.3588389512790675,
-			"desc": 233.79,
+			"desc": "233.79",
 			"group": "AUTO POSTO PETER PAN 01 LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "Silvana Maria Canal Marketing e Consultoria",
 			"name": "Silvana Maria Canal Marketing e Consultoria",
 			"val": 329.3218240728827,
-			"desc": 6500,
+			"desc": "6500.00",
 			"group": "Silvana Maria Canal Marketing e Consultoria"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "RESTAURANTE REI DA MASSA BOLONHA LTDA",
 			"name": "RESTAURANTE REI DA MASSA BOLONHA LTDA",
 			"val": 3.8555797856401846,
-			"desc": 136,
+			"desc": "136.00",
 			"group": "RESTAURANTE REI DA MASSA BOLONHA LTDA"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "EUCLIDES FERLA E CIA LTDA",
 			"name": "EUCLIDES FERLA E CIA LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "EUCLIDES FERLA E CIA LTDA"
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "AUTO POSTO ORTONA LTDA",
 			"name": "AUTO POSTO ORTONA LTDA",
 			"val": 7.33575052382439,
-			"desc": 233.17,
+			"desc": "233.17",
 			"group": "AUTO POSTO ORTONA LTDA"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "Condomínio Empresarial Pedro Basso",
 			"name": "Condomínio Empresarial Pedro Basso",
 			"val": 28.34812668355504,
-			"desc": 743.08,
+			"desc": "743.08",
 			"group": "Condomínio Empresarial Pedro Basso"
 		},
 		{
@@ -866,7 +867,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 41.65819791401422,
-			"desc": 1039.24,
+			"desc": "1039.24",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -879,7 +880,7 @@
 			"id": "EBYSMER S.A.",
 			"name": "EBYSMER S.A.",
 			"val": 6.90518649205431,
-			"desc": 221.56,
+			"desc": "221.56",
 			"group": "EBYSMER S.A."
 		},
 		{
@@ -892,7 +893,7 @@
 			"id": "CHURRASCARIA POTENCIA GRILL LTDA",
 			"name": "CHURRASCARIA POTENCIA GRILL LTDA",
 			"val": 2.976562376185831,
-			"desc": 109.78,
+			"desc": "109.78",
 			"group": "CHURRASCARIA POTENCIA GRILL LTDA"
 		},
 		{
@@ -905,7 +906,7 @@
 			"id": "JUMBO Comercio de Utilidades Ltda.",
 			"name": "JUMBO Comercio de Utilidades Ltda.",
 			"val": 2.8141110110757586,
-			"desc": 104.82,
+			"desc": "104.82",
 			"group": "JUMBO Comercio de Utilidades Ltda."
 		},
 		{
@@ -918,7 +919,7 @@
 			"id": "AUTO POSTO LUSTOSA LTDA",
 			"name": "AUTO POSTO LUSTOSA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO LUSTOSA LTDA"
 		},
 		{
@@ -931,7 +932,7 @@
 			"id": "HOTEL LAGO DOURADO LTDA",
 			"name": "HOTEL LAGO DOURADO LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "HOTEL LAGO DOURADO LTDA"
 		},
 		{
@@ -944,7 +945,7 @@
 			"id": "ESTOK COMERCIO E REPRESENTACOES S/A",
 			"name": "ESTOK COMERCIO E REPRESENTACOES S/A",
 			"val": 7.169573525793639,
-			"desc": 228.7,
+			"desc": "228.70",
 			"group": "ESTOK COMERCIO E REPRESENTACOES S/A"
 		},
 		{
@@ -957,7 +958,7 @@
 			"id": "TRAIRA SEM ESPINHA",
 			"name": "TRAIRA SEM ESPINHA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "TRAIRA SEM ESPINHA"
 		},
 		{
@@ -970,7 +971,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 0.37878156174390354,
-			"desc": 21.42,
+			"desc": "21.42",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -983,7 +984,7 @@
 			"id": "GREENS FOODS LTDA",
 			"name": "GREENS FOODS LTDA",
 			"val": 1.355839895746724,
-			"desc": 57.89,
+			"desc": "57.89",
 			"group": "GREENS FOODS LTDA"
 		},
 		{
@@ -996,7 +997,7 @@
 			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.294619541530867,
-			"desc": 204.93,
+			"desc": "204.93",
 			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -1009,7 +1010,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{

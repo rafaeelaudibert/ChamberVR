@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RAIMUNDO COSTA"
+			"name": "RAIMUNDO COSTA",
+			"desc": "47562.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "JOSIMARIA DOS SANTOS",
 			"name": "JOSIMARIA DOS SANTOS",
 			"val": 543.3042864952457,
-			"desc": 10200,
+			"desc": "10200.00",
 			"group": "JOSIMARIA DOS SANTOS"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "POSTO SEGURO IV DERIVADOS DE PETROLEO LTDA.",
 			"name": "POSTO SEGURO IV DERIVADOS DE PETROLEO LTDA.",
 			"val": 4.806847085367111,
-			"desc": 163.44,
+			"desc": "163.44",
 			"group": "POSTO SEGURO IV DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1000.7689698761426,
-			"desc": 17726.96,
+			"desc": "17726.96",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "REST. SUAN LOUN",
 			"name": "REST. SUAN LOUN",
 			"val": 1.2863603223297235,
-			"desc": 55.5,
+			"desc": "55.50",
 			"group": "REST. SUAN LOUN"
 		},
 		{
@@ -297,7 +298,7 @@
 			"id": "AZULAO COMERCIO DE COMBUSTIVEIS EIRELI",
 			"name": "AZULAO COMERCIO DE COMBUSTIVEIS EIRELI",
 			"val": 13.429043305343225,
-			"desc": 390.03999999999996,
+			"desc": "390.04",
 			"group": "AZULAO COMERCIO DE COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 6.57125421716628,
-			"desc": 212.49,
+			"desc": "212.49",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{
@@ -329,7 +330,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 407.80262045066405,
-			"desc": 7876.670000000001,
+			"desc": "7876.67",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 5.068495171416139,
-			"desc": 170.85,
+			"desc": "170.85",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA",
 			"name": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA",
 			"val": 5.039094010240687,
-			"desc": 170.02,
+			"desc": "170.02",
 			"group": "TAGUACENTRO COMER. DE DERIV. DE PETROLEO LTDA"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 27.912382953228985,
-			"desc": 733.1500000000001,
+			"desc": "733.15",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.20588726591337397,
-			"desc": 13.65,
+			"desc": "13.65",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "FLAMINGO COM COMB LUB SERVICOS LTDA",
 			"name": "FLAMINGO COM COMB LUB SERVICOS LTDA",
 			"val": 4.395270375129759,
-			"desc": 151.67,
+			"desc": "151.67",
 			"group": "FLAMINGO COM COMB LUB SERVICOS LTDA"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "PETRO UNA COMERCIAL LTDA ME",
 			"name": "PETRO UNA COMERCIAL LTDA ME",
 			"val": 9.049683790465776,
-			"desc": 278.56,
+			"desc": "278.56",
 			"group": "PETRO UNA COMERCIAL LTDA ME"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"name": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"val": 1.6467575278886115,
-			"desc": 67.7,
+			"desc": "67.70",
 			"group": "MARIETTA COM. DE ALIMENTOS LTDA"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "MARIA BONITA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "MAGGRI COMERCIO E REPRESENTACOES LTDA - ME",
 			"name": "MAGGRI COMERCIO E REPRESENTACOES LTDA - ME",
 			"val": 12.918100463151411,
-			"desc": 377.3,
+			"desc": "377.30",
 			"group": "MAGGRI COMERCIO E REPRESENTACOES LTDA - ME"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "PETROTRANS TRANSPORTES QUIMICOS E PETROQUIMICOS LTD",
 			"name": "PETROTRANS TRANSPORTES QUIMICOS E PETROQUIMICOS LTD",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "PETROTRANS TRANSPORTES QUIMICOS E PETROQUIMICOS LTD"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 3.290272282514629,
-			"desc": 119.25,
+			"desc": "119.25",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "I C PEREIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "I C PEREIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.322008735054593,
-			"desc": 177.98,
+			"desc": "177.98",
 			"group": "I C PEREIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "T BORGES DE QUEIROZ & CIA LTDA - ME",
 			"name": "T BORGES DE QUEIROZ & CIA LTDA - ME",
 			"val": 2.528625600276924,
-			"desc": 96,
+			"desc": "96.00",
 			"group": "T BORGES DE QUEIROZ & CIA LTDA - ME"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 38.431743775865165,
-			"desc": 968.57,
+			"desc": "968.57",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA",
 			"name": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA",
 			"val": 6.1907472595572495,
-			"desc": 202.08,
+			"desc": "202.08",
 			"group": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 6.903339674879563,
-			"desc": 221.51,
+			"desc": "221.51",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 7.684560291591208,
-			"desc": 242.51,
+			"desc": "242.51",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 4.865648840542765,
-			"desc": 165.11,
+			"desc": "165.11",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 9.145776828219885,
-			"desc": 281.07,
+			"desc": "281.07",
 			"group": "3L COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS PENIEL LTDA - ME",
 			"name": "COMERCIO DE COMBUSTIVEIS PENIEL LTDA - ME",
 			"val": 7.218593906694096,
-			"desc": 230.02,
+			"desc": "230.02",
 			"group": "COMERCIO DE COMBUSTIVEIS PENIEL LTDA - ME"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 25.07022649884335,
-			"desc": 667.93,
+			"desc": "667.93",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "INTERNACIONAL TRAVESSIAS SALVADOR S.A",
 			"name": "INTERNACIONAL TRAVESSIAS SALVADOR S.A",
 			"val": 3.685513652805624,
-			"desc": 131,
+			"desc": "131.00",
 			"group": "INTERNACIONAL TRAVESSIAS SALVADOR S.A"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"name": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"val": 7.128014943778526,
-			"desc": 227.58,
+			"desc": "227.58",
 			"group": "HIPER POSTO CAMINHO DAS ARVORES LTDA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.20172494360060628,
-			"desc": 13.45,
+			"desc": "13.45",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "ALIANCA CONSULTORIA EMPRESARIAL EIRELI",
 			"name": "ALIANCA CONSULTORIA EMPRESARIAL EIRELI",
 			"val": 26.899557608873405,
-			"desc": 710,
+			"desc": "710.00",
 			"group": "ALIANCA CONSULTORIA EMPRESARIAL EIRELI"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 25.958036819990085,
-			"desc": 688.39,
+			"desc": "688.39",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.322044987472724,
-			"desc": 56.73,
+			"desc": "56.73",
 			"group": "RAMAL"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "PORTAL DA ILHA DISTRIBUIDORA DE COMBUSTIVEIS LTDA",
 			"name": "PORTAL DA ILHA DISTRIBUIDORA DE COMBUSTIVEIS LTDA",
 			"val": 8.813265656530179,
-			"desc": 272.37,
+			"desc": "272.37",
 			"group": "PORTAL DA ILHA DISTRIBUIDORA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "MIRACI DA SILVA ALVES OLIVEIRA",
 			"name": "MIRACI DA SILVA ALVES OLIVEIRA",
 			"val": 6.163087024715315,
-			"desc": 201.32,
+			"desc": "201.32",
 			"group": "MIRACI DA SILVA ALVES OLIVEIRA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "CEU 070 COMBUSTIVEIS LTDA",
 			"name": "CEU 070 COMBUSTIVEIS LTDA",
 			"val": 4.6779714818825395,
-			"desc": 159.77,
+			"desc": "159.77",
 			"group": "CEU 070 COMBUSTIVEIS LTDA"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "Raimundo Reis",
 			"name": "Raimundo Reis",
 			"val": 102.74024694165198,
-			"desc": 2300,
+			"desc": "2300.00",
 			"group": "Raimundo Reis"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "MIGUEL ABDON PRAZERES & CIA LT",
 			"name": "MIGUEL ABDON PRAZERES & CIA LT",
 			"val": 6.194752082516166,
-			"desc": 202.19,
+			"desc": "202.19",
 			"group": "MIGUEL ABDON PRAZERES & CIA LT"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "Foco profissional Ltda",
 			"name": "Foco profissional Ltda",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "Foco profissional Ltda"
 		},
 		{

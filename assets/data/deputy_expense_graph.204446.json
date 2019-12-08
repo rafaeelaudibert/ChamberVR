@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PROFESSOR JOZIEL"
+			"name": "PROFESSOR JOZIEL",
+			"desc": "88318.72"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 1005.9939383899828,
-			"desc": 17810.909999999996,
+			"desc": "17810.91",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -180,7 +181,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 80.48124244526204,
-			"desc": 1853.3899999999999,
+			"desc": "1853.39",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 12.546683199315922,
-			"desc": 368,
+			"desc": "368.00",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 783.0841893501339,
-			"desc": 14193.56,
+			"desc": "14193.56",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "CASARAO DA VILA RESTAURANTE LTDA - ME",
 			"name": "CASARAO DA VILA RESTAURANTE LTDA - ME",
 			"val": 13.70234511377591,
-			"desc": 396.83,
+			"desc": "396.83",
 			"group": "CASARAO DA VILA RESTAURANTE LTDA - ME"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 5.1280770534136595,
-			"desc": 172.53,
+			"desc": "172.53",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 552.5195547780304,
-			"desc": 10355.98,
+			"desc": "10355.98",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "CG ALIMENTOS LTDA - EPP",
 			"name": "CG ALIMENTOS LTDA - EPP",
 			"val": 2.5949001420378592,
-			"desc": 98.06,
+			"desc": "98.06",
 			"group": "CG ALIMENTOS LTDA - EPP"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "VANDERLEI ALVES DE LIMA ME",
 			"name": "VANDERLEI ALVES DE LIMA ME",
 			"val": 0.6495474854170522,
-			"desc": 32.37,
+			"desc": "32.37",
 			"group": "VANDERLEI ALVES DE LIMA ME"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 13.973085599956075,
-			"desc": 403.54,
+			"desc": "403.54",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "LIGHT S.A",
 			"name": "LIGHT S.A",
 			"val": 1.171419108599743,
-			"desc": 51.5,
+			"desc": "51.50",
 			"group": "LIGHT S.A"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"name": "ROGERIO DE ALMEIDA TCHE GAROTO - ME",
 			"val": 0.5635257954347984,
-			"desc": 29,
+			"desc": "29.00",
 			"group": "ROGERIO DE ALMEIDA TCHE GAROTO - ME"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.342806505034871,
-			"desc": 206.25,
+			"desc": "206.25",
 			"group": "RAMAL"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "DFM DERIVADOS DE PETROLEO LTDA",
 			"name": "DFM DERIVADOS DE PETROLEO LTDA",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "DFM DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "Mario Slerca Junior",
 			"name": "Mario Slerca Junior",
 			"val": 83.70070446928143,
-			"desc": 1918.7,
+			"desc": "1918.70",
 			"group": "Mario Slerca Junior"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 1.4232411622432213,
-			"desc": 60.19,
+			"desc": "60.19",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "R2 MUSIC GRAVAÇÕES E EVENTOS LTDA",
 			"name": "R2 MUSIC GRAVAÇÕES E EVENTOS LTDA",
 			"val": 1189.0257425680527,
-			"desc": 20730,
+			"desc": "20730.00",
 			"group": "R2 MUSIC GRAVAÇÕES E EVENTOS LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 6.184194658318664,
-			"desc": 201.9,
+			"desc": "201.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "Mario Slerca Neto",
 			"name": "Mario Slerca Neto",
 			"val": 214.68626667524055,
-			"desc": 4430.78,
+			"desc": "4430.78",
 			"group": "Mario Slerca Neto"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "R2 MUSIC GRAVACOES E EVENTOS LTDA.",
 			"name": "R2 MUSIC GRAVACOES E EVENTOS LTDA.",
 			"val": 801.7783862278003,
-			"desc": 14500,
+			"desc": "14500.00",
 			"group": "R2 MUSIC GRAVACOES E EVENTOS LTDA."
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "IGUACU NOVO BAR E RESTAURANTE",
 			"name": "IGUACU NOVO BAR E RESTAURANTE",
 			"val": 0.7146835887415961,
-			"desc": 34.87,
+			"desc": "34.87",
 			"group": "IGUACU NOVO BAR E RESTAURANTE"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.604079932432907,
-			"desc": 240.36,
+			"desc": "240.36",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{

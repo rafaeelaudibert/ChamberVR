@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FELÍCIO LATERÇA"
+			"name": "FELÍCIO LATERÇA",
+			"desc": "26572.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.452705424786134,
-			"desc": 61.190000000000005,
+			"desc": "61.19",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Antonio Cássio Naclério Pagnano Filho",
 			"name": "Antonio Cássio Naclério Pagnano Filho",
 			"val": 37.29964608191924,
-			"desc": 943.62,
+			"desc": "943.62",
 			"group": "Antonio Cássio Naclério Pagnano Filho"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"name": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"val": 12.528745525117614,
-			"desc": 367.55,
+			"desc": "367.55",
 			"group": "WMS SUPERMERCADOS DO BRASIL LTDA"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "MCK BAR E RESTAURANTE LTDA",
 			"name": "MCK BAR E RESTAURANTE LTDA",
 			"val": 10.691135461465036,
-			"desc": 321,
+			"desc": "321.00",
 			"group": "MCK BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -135,7 +136,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 454.2804820780019,
-			"desc": 8680.380000000003,
+			"desc": "8680.38",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 24.368102086825377,
-			"desc": 651.69,
+			"desc": "651.69",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "AUTO POSTO DOMINGUES DE SA LTDA",
 			"name": "AUTO POSTO DOMINGUES DE SA LTDA",
 			"val": 17.679064180796644,
-			"desc": 493.92999999999995,
+			"desc": "493.93",
 			"group": "AUTO POSTO DOMINGUES DE SA LTDA"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 224.74680008057555,
-			"desc": 4615.91,
+			"desc": "4615.91",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 4.26488177697463,
-			"desc": 147.91,
+			"desc": "147.91",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "CANTINA DO MIMO SAO FRANCISCO LTDA ME",
 			"name": "CANTINA DO MIMO SAO FRANCISCO LTDA ME",
 			"val": 3.2675972219869176,
-			"desc": 118.57,
+			"desc": "118.57",
 			"group": "CANTINA DO MIMO SAO FRANCISCO LTDA ME"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "Enfoque Artes Ltda - Matriz",
 			"name": "Enfoque Artes Ltda - Matriz",
 			"val": 6.35047711586847,
-			"desc": 206.46,
+			"desc": "206.46",
 			"group": "Enfoque Artes Ltda - Matriz"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 5.862099650917087,
-			"desc": 193.02,
+			"desc": "193.02",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 20.786106979782712,
-			"desc": 567.95,
+			"desc": "567.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "AB1 HOTELARIA EIRELI - EPP",
 			"name": "AB1 HOTELARIA EIRELI - EPP",
 			"val": 5.0490098664077525,
-			"desc": 170.3,
+			"desc": "170.30",
 			"group": "AB1 HOTELARIA EIRELI - EPP"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "POSTO DE GASOLINA SANTA ROSA DE ICARAI LTDA",
 			"name": "POSTO DE GASOLINA SANTA ROSA DE ICARAI LTDA",
 			"val": 9.15458865337924,
-			"desc": 281.3,
+			"desc": "281.30",
 			"group": "POSTO DE GASOLINA SANTA ROSA DE ICARAI LTDA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "LAMSA",
 			"name": "LAMSA",
 			"val": 0.08720671786825555,
-			"desc": 7.5,
+			"desc": "7.50",
 			"group": "LAMSA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 1.3783469641460706,
-			"desc": 58.66,
+			"desc": "58.66",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "CONCESSIONARIA PONTE RIO-NITEROI S.A. - ECOPONTE",
 			"name": "CONCESSIONARIA PONTE RIO-NITEROI S.A. - ECOPONTE",
 			"val": 0.7023567243905076,
-			"desc": 34.4,
+			"desc": "34.40",
 			"group": "CONCESSIONARIA PONTE RIO-NITEROI S.A. - ECOPONTE"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.807171418694724,
-			"desc": 134.57999999999998,
+			"desc": "134.58",
 			"group": "RAMAL"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "CONFORT SUITES",
 			"name": "CONFORT SUITES",
 			"val": 3.107523844464157,
-			"desc": 113.75,
+			"desc": "113.75",
 			"group": "CONFORT SUITES"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "LANCHONETE CORUJAO DO CADEG LTDA",
 			"name": "LANCHONETE CORUJAO DO CADEG LTDA",
 			"val": 3.2153306887650337,
-			"desc": 117,
+			"desc": "117.00",
 			"group": "LANCHONETE CORUJAO DO CADEG LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "AUTO SERVICO CACHOEIRA LTDA",
 			"name": "AUTO SERVICO CACHOEIRA LTDA",
 			"val": 11.5704631635015,
-			"desc": 343.39,
+			"desc": "343.39",
 			"group": "AUTO SERVICO CACHOEIRA LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "EXPRESSO DO SUL S.A",
 			"name": "EXPRESSO DO SUL S.A",
 			"val": 3.066201536047667,
-			"desc": 112.5,
+			"desc": "112.50",
 			"group": "EXPRESSO DO SUL S.A"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "Rodrigues Assessoria ECEM",
 			"name": "Rodrigues Assessoria ECEM",
 			"val": 48.57714742185874,
-			"desc": 1188.83,
+			"desc": "1188.83",
 			"group": "Rodrigues Assessoria ECEM"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "PLANALTO BITTAR HOTEL LTDA",
 			"name": "PLANALTO BITTAR HOTEL LTDA",
 			"val": 4.714092297134735,
-			"desc": 160.8,
+			"desc": "160.80",
 			"group": "PLANALTO BITTAR HOTEL LTDA"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "SUBWAY QA2 RESTAURENTE",
 			"name": "SUBWAY QA2 RESTAURENTE",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "SUBWAY QA2 RESTAURENTE"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "AUTOPISTA FLUMINENSE S/A",
 			"name": "AUTOPISTA FLUMINENSE S/A",
 			"val": 1.4323649034204518,
-			"desc": 60.5,
+			"desc": "60.50",
 			"group": "AUTOPISTA FLUMINENSE S/A"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "DFM DERIVADOS DE PETROLEO LTDA",
 			"name": "DFM DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "DFM DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "WM RESTAURANTE E CHOPERIA LTDA",
 			"name": "WM RESTAURANTE E CHOPERIA LTDA",
 			"val": 1.9629003687650783,
-			"desc": 78.06,
+			"desc": "78.06",
 			"group": "WM RESTAURANTE E CHOPERIA LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "ANDRADE E URIAS LTDA",
 			"name": "ANDRADE E URIAS LTDA",
 			"val": 6.377151202175207,
-			"desc": 207.19,
+			"desc": "207.19",
 			"group": "ANDRADE E URIAS LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 18.702491868440752,
-			"desc": 518.47,
+			"desc": "518.47",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "AUTO POSTO DO NUCLEO LTDA",
 			"name": "AUTO POSTO DO NUCLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DO NUCLEO LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "soter sociedade técnica de engenharia",
 			"name": "soter sociedade técnica de engenharia",
 			"val": 2.428097847984157,
-			"desc": 92.86,
+			"desc": "92.86",
 			"group": "soter sociedade técnica de engenharia"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 3.199707591439814,
-			"desc": 116.53,
+			"desc": "116.53",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "smart veículos ltda-ME",
 			"name": "smart veículos ltda-ME",
 			"val": 102.74024694165198,
-			"desc": 2300,
+			"desc": "2300.00",
 			"group": "smart veículos ltda-ME"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "Cia de Concessão Rod. Juiz e Fora",
 			"name": "Cia de Concessão Rod. Juiz e Fora",
 			"val": 0.1640728545711457,
-			"desc": 11.6,
+			"desc": "11.60",
 			"group": "Cia de Concessão Rod. Juiz e Fora"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "SMART VEICULOS LTDA",
 			"name": "SMART VEICULOS LTDA",
 			"val": 72.32415336132077,
-			"desc": 1686.67,
+			"desc": "1686.67",
 			"group": "SMART VEICULOS LTDA"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "WORKING PLUS COMERCIO E SERVICOS LTDA",
 			"name": "WORKING PLUS COMERCIO E SERVICOS LTDA",
 			"val": 16.540984282882196,
-			"desc": 466.44,
+			"desc": "466.44",
 			"group": "WORKING PLUS COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 24.90875909103645,
-			"desc": 664.2,
+			"desc": "664.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

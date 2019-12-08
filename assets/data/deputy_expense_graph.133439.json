@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ANDRÉ FIGUEIREDO"
+			"name": "ANDRÉ FIGUEIREDO",
+			"desc": "107095.19"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1044.758949864218,
-			"desc": 18432.62,
+			"desc": "18432.62",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 7.403553162519445,
-			"desc": 234.99,
+			"desc": "234.99",
 			"group": "CLARO S.A."
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 397.3297376371504,
-			"desc": 7694.459999999999,
+			"desc": "7694.46",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 41.145875753091126,
-			"desc": 1028.06,
+			"desc": "1028.06",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 297.5324659231386,
-			"desc": 5934.119999999999,
+			"desc": "5934.12",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 10.387279482470312,
-			"desc": 313.21000000000004,
+			"desc": "313.21",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 39.88504208364094,
-			"desc": 1000.48,
+			"desc": "1000.48",
 			"group": "CLARO S/A"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "CONFORT HOTEL JRX SANTOS ME",
 			"name": "CONFORT HOTEL JRX SANTOS ME",
 			"val": 11.634024521298432,
-			"desc": 345,
+			"desc": "345.00",
 			"group": "CONFORT HOTEL JRX SANTOS ME"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "consult web",
 			"name": "consult web",
 			"val": 18.318425245871477,
-			"desc": 509.28,
+			"desc": "509.28",
 			"group": "consult web"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "FLAVIO DE MOURA PINTO",
 			"name": "FLAVIO DE MOURA PINTO",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "FLAVIO DE MOURA PINTO"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.8558396981812402,
-			"desc": 40.16,
+			"desc": "40.16",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "CARLOS EDUARDO MACIEL PEREIRA - ADV ASSOCIADOS",
 			"name": "CARLOS EDUARDO MACIEL PEREIRA - ADV ASSOCIADOS",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "CARLOS EDUARDO MACIEL PEREIRA - ADV ASSOCIADOS"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 3.1857557800759846,
-			"desc": 116.11,
+			"desc": "116.11",
 			"group": "Telefônia Brasil S/A"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "A.ALEXANDRE E CIA",
 			"name": "A.ALEXANDRE E CIA",
 			"val": 6.848703446275562,
-			"desc": 220.03,
+			"desc": "220.03",
 			"group": "A.ALEXANDRE E CIA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "CASABLANCA RENT A CAR LTDA",
 			"name": "CASABLANCA RENT A CAR LTDA",
 			"val": 845.3442629772496,
-			"desc": 15211.8,
+			"desc": "15211.80",
 			"group": "CASABLANCA RENT A CAR LTDA"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 38.29951060394211,
-			"desc": 965.6600000000001,
+			"desc": "965.66",
 			"group": "TIM S/A"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 36.75514318262602,
-			"desc": 931.59,
+			"desc": "931.59",
 			"group": "NET CLARO"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "lima e marques ltda",
 			"name": "lima e marques ltda",
 			"val": 4.45892623505729,
-			"desc": 153.5,
+			"desc": "153.50",
 			"group": "lima e marques ltda"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "COMERCIO DO VALE DE REMANSO LTDA - EPP",
 			"name": "COMERCIO DO VALE DE REMANSO LTDA - EPP",
 			"val": 6.958402710728912,
-			"desc": 223,
+			"desc": "223.00",
 			"group": "COMERCIO DO VALE DE REMANSO LTDA - EPP"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"name": "COMPANHIA ENERGÉTICA DO CEARÁ",
 			"val": 45.372707658697486,
-			"desc": 1119.86,
+			"desc": "1119.86",
 			"group": "COMPANHIA ENERGÉTICA DO CEARÁ"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
 			"name": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "LIBRE COMUNICAÇÃO E MARKETING EIRELI"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "M C LEMOS & CIA LTDA",
 			"name": "M C LEMOS & CIA LTDA",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "M C LEMOS & CIA LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES, GALEÃO LTDA",
 			"name": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES, GALEÃO LTDA",
 			"val": 7.668080908417248,
-			"desc": 242.07,
+			"desc": "242.07",
 			"group": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES, GALEÃO LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "ALVORADA COMBUSTÍVEL LTDA",
 			"name": "ALVORADA COMBUSTÍVEL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ALVORADA COMBUSTÍVEL LTDA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "CRUZ & CRUZ COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "CRUZ & CRUZ COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "CRUZ & CRUZ COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "ORGANIZACAO HELIO MEIRELES PETROLEO LTDA",
 			"name": "ORGANIZACAO HELIO MEIRELES PETROLEO LTDA",
 			"val": 299.5111710620318,
-			"desc": 5969.5,
+			"desc": "5969.50",
 			"group": "ORGANIZACAO HELIO MEIRELES PETROLEO LTDA"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "POSTO IRMAOS LEITAO LTDA",
 			"name": "POSTO IRMAOS LEITAO LTDA",
 			"val": 7.96841871542161,
-			"desc": 250.07,
+			"desc": "250.07",
 			"group": "POSTO IRMAOS LEITAO LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "COPY MITA COMERCIO REPRES E SERVIÇOS LTDA",
 			"name": "COPY MITA COMERCIO REPRES E SERVIÇOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COPY MITA COMERCIO REPRES E SERVIÇOS LTDA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "arena leme hotel",
 			"name": "arena leme hotel",
 			"val": 46.312465234248,
-			"desc": 1140.14,
+			"desc": "1140.14",
 			"group": "arena leme hotel"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "SJ ADMIMINSTRAÇÃO DE  IMOVEIS LTDA",
 			"name": "SJ ADMIMINSTRAÇÃO DE  IMOVEIS LTDA",
 			"val": 554.8175136643791,
-			"desc": 10394.84,
+			"desc": "10394.84",
 			"group": "SJ ADMIMINSTRAÇÃO DE  IMOVEIS LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.135999675254508,
-			"desc": 114.61,
+			"desc": "114.61",
 			"group": "RAMAL"
 		},
 		{

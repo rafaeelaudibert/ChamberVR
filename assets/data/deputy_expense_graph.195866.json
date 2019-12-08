@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VAIDON OLIVEIRA"
+			"name": "VAIDON OLIVEIRA",
+			"desc": "196203.56"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "LIDER POSTO DE SERVICOS LTDA",
 			"name": "LIDER POSTO DE SERVICOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "LIDER POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 162.09048995435742,
-			"desc": 3448.25,
+			"desc": "3448.25",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 101.74756219247226,
-			"desc": 2280.31,
+			"desc": "2280.31",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -176,7 +177,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 936.2372348993496,
-			"desc": 16687.01,
+			"desc": "16687.01",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -273,7 +274,7 @@
 			"id": "POSTO ABN LTDA - EPP",
 			"name": "POSTO ABN LTDA - EPP",
 			"val": 6.516607715268863,
-			"desc": 211,
+			"desc": "211.00",
 			"group": "POSTO ABN LTDA - EPP"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 63.08288300751451,
-			"desc": 1495.3799999999999,
+			"desc": "1495.38",
 			"group": "CLARO S.A."
 		},
 		{
@@ -317,7 +318,7 @@
 			"id": "J C COMERCIO E DERIVADO",
 			"name": "J C COMERCIO E DERIVADO",
 			"val": 7.822192004061427,
-			"desc": 246.18,
+			"desc": "246.18",
 			"group": "J C COMERCIO E DERIVADO"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "FRANCISCO GOMES FILHO",
 			"name": "FRANCISCO GOMES FILHO",
 			"val": 967.4038251193666,
-			"desc": 17190,
+			"desc": "17190.00",
 			"group": "FRANCISCO GOMES FILHO"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 682.6299843720313,
-			"desc": 12535.669999999998,
+			"desc": "12535.67",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "KG COMERCIO E COMBUSTIVEIS LTDA",
 			"name": "KG COMERCIO E COMBUSTIVEIS LTDA",
 			"val": 28.001838299058612,
-			"desc": 735.19,
+			"desc": "735.19",
 			"group": "KG COMERCIO E COMBUSTIVEIS LTDA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 21.981909580104094,
-			"desc": 596.08,
+			"desc": "596.08",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "BONFIM SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "BONFIM SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 2782.374728578517,
-			"desc": 45000,
+			"desc": "45000.00",
 			"group": "BONFIM SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "G3 Auto Posto Ltda Epp",
 			"name": "G3 Auto Posto Ltda Epp",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "G3 Auto Posto Ltda Epp"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "POSTO PRAINHA",
 			"name": "POSTO PRAINHA",
 			"val": 9.2968765458578,
-			"desc": 285.01,
+			"desc": "285.01",
 			"group": "POSTO PRAINHA"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "REDE PLUS BRASIL DE COMUNICACAO LTDA.",
 			"name": "REDE PLUS BRASIL DE COMUNICACAO LTDA.",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "REDE PLUS BRASIL DE COMUNICACAO LTDA."
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.753750176955101,
-			"desc": 133.01000000000002,
+			"desc": "133.01",
 			"group": "RAMAL"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 4.844159003117789,
-			"desc": 164.5,
+			"desc": "164.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "CIRLENE MARIA FERREIRA DE SOUSA",
 			"name": "CIRLENE MARIA FERREIRA DE SOUSA",
 			"val": 943.2308667635942,
-			"desc": 16800,
+			"desc": "16800.00",
 			"group": "CIRLENE MARIA FERREIRA DE SOUSA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "POSTO CAMPEAO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "POSTO CAMPEAO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 7.814308058664999,
-			"desc": 245.97,
+			"desc": "245.97",
 			"group": "POSTO CAMPEAO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "REDE PLUS BRASIL DE COMUNICACAO LTDA. - ME",
 			"name": "REDE PLUS BRASIL DE COMUNICACAO LTDA. - ME",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "REDE PLUS BRASIL DE COMUNICACAO LTDA. - ME"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "DATA CENSUM PESQUISAS,ESTUDOS E PROJETOS",
 			"name": "DATA CENSUM PESQUISAS,ESTUDOS E PROJETOS",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "DATA CENSUM PESQUISAS,ESTUDOS E PROJETOS"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "JONAS DE MELO LOPES",
 			"name": "JONAS DE MELO LOPES",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "JONAS DE MELO LOPES"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{

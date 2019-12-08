@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JUNIO AMARAL"
+			"name": "JUNIO AMARAL",
+			"desc": "17434.99"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 369.0368983070507,
-			"desc": 7200,
+			"desc": "7200.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 6.16599784978501,
-			"desc": 201.40000000000012,
+			"desc": "201.40",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 51.214798311893084,
-			"desc": 1245.23,
+			"desc": "1245.23",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.8981395252338715,
-			"desc": 75.96000000000001,
+			"desc": "75.96",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "CARREFOUR COMÉRCIO E INDÚSTRIA LTDA",
 			"name": "CARREFOUR COMÉRCIO E INDÚSTRIA LTDA",
 			"val": 7.4169743298937005,
-			"desc": 235.35,
+			"desc": "235.35",
 			"group": "CARREFOUR COMÉRCIO E INDÚSTRIA LTDA"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 12.066270560461222,
-			"desc": 355.91999999999996,
+			"desc": "355.92",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 17.06190694686677,
-			"desc": 479.05,
+			"desc": "479.05",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -397,7 +398,7 @@
 			"id": "L.R.I.- COM DE PROD DE DERIV DE PETROLEO LTDA",
 			"name": "L.R.I.- COM DE PROD DE DERIV DE PETROLEO LTDA",
 			"val": 6.480332513835858,
-			"desc": 210.01,
+			"desc": "210.01",
 			"group": "L.R.I.- COM DE PROD DE DERIV DE PETROLEO LTDA"
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 62.160448766281355,
-			"desc": 1476.13,
+			"desc": "1476.13",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "ANDRADE E URIAS LTDA",
 			"name": "ANDRADE E URIAS LTDA",
 			"val": 12.303004539641687,
-			"desc": 361.88,
+			"desc": "361.88",
 			"group": "ANDRADE E URIAS LTDA"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "JOÃO MODESTO CLAVER",
 			"name": "JOÃO MODESTO CLAVER",
 			"val": 15.04770697500915,
-			"desc": 430.02,
+			"desc": "430.02",
 			"group": "JOÃO MODESTO CLAVER"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.059927540522566,
-			"desc": 112.31,
+			"desc": "112.31",
 			"group": "RAMAL"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 34.48336829348241,
-			"desc": 881.18,
+			"desc": "881.18",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.8324899137320025,
-			"desc": 73.82,
+			"desc": "73.82",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 0.10316508141715099,
-			"desc": 8.4,
+			"desc": "8.40",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "POSTO JM LTDA",
 			"name": "POSTO JM LTDA",
 			"val": 5.972830981553527,
-			"desc": 196.08,
+			"desc": "196.08",
 			"group": "POSTO JM LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 6.859035635596438,
-			"desc": 220.31,
+			"desc": "220.31",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "POSTO TREVO LTDA",
 			"name": "POSTO TREVO LTDA",
 			"val": 11.436771673147277,
-			"desc": 340,
+			"desc": "340.00",
 			"group": "POSTO TREVO LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "POSTO ESMERALDAS LTDA",
 			"name": "POSTO ESMERALDAS LTDA",
 			"val": 7.742649307800045,
-			"desc": 244.06,
+			"desc": "244.06",
 			"group": "POSTO ESMERALDAS LTDA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 32.57739280855056,
-			"desc": 838.6,
+			"desc": "838.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "AUTO POSTO MACPETRO LTDA",
 			"name": "AUTO POSTO MACPETRO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO MACPETRO LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "POSTO TELEFERICO LTDA",
 			"name": "POSTO TELEFERICO LTDA",
 			"val": 7.656098800854106,
-			"desc": 241.75,
+			"desc": "241.75",
 			"group": "POSTO TELEFERICO LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"val": 6.419567932531977,
-			"desc": 208.35,
+			"desc": "208.35",
 			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "AUTO POSTO ENSEADA AZUL",
 			"name": "AUTO POSTO ENSEADA AZUL",
 			"val": 8.15499547400024,
-			"desc": 255.02,
+			"desc": "255.02",
 			"group": "AUTO POSTO ENSEADA AZUL"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "POSTO CANECAO LTDA",
 			"name": "POSTO CANECAO LTDA",
 			"val": 7.591362943443948,
-			"desc": 240.02,
+			"desc": "240.02",
 			"group": "POSTO CANECAO LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"name": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"val": 5.899340924293495,
-			"desc": 194.05,
+			"desc": "194.05",
 			"group": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"name": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"val": 7.232713949081042,
-			"desc": 230.4,
+			"desc": "230.40",
 			"group": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.6565299885108105,
-			"desc": 32.64,
+			"desc": "32.64",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "POSTO CRUZEIRO LTDA",
 			"name": "POSTO CRUZEIRO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO CRUZEIRO LTDA"
 		},
 		{

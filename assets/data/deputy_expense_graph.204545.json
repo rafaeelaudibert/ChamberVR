@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALÊ SILVA"
+			"name": "ALÊ SILVA",
+			"desc": "78680.52"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 487.99544457988435,
-			"desc": 9258.75,
+			"desc": "9258.75",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -84,7 +85,7 @@
 			"id": "SABOR DE CASA RESTAURANTE LTDA ME",
 			"name": "SABOR DE CASA RESTAURANTE LTDA ME",
 			"val": 1.7769384004153859,
-			"desc": 72,
+			"desc": "72.00",
 			"group": "SABOR DE CASA RESTAURANTE LTDA ME"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "POSTO AVIEN LTDA",
 			"name": "POSTO AVIEN LTDA",
 			"val": 3.485583003415686,
-			"desc": 125.08,
+			"desc": "125.08",
 			"group": "POSTO AVIEN LTDA"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 3.3654588767524096,
-			"desc": 121.5,
+			"desc": "121.50",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.674172422532345,
-			"desc": 33.32,
+			"desc": "33.32",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -142,7 +143,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 7.928914144732686,
-			"desc": 249.02,
+			"desc": "249.02",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -197,7 +198,7 @@
 			"id": "AP MAGALHAES & CIA LTDA",
 			"name": "AP MAGALHAES & CIA LTDA",
 			"val": 44.0828561077074,
-			"desc": 1091.95,
+			"desc": "1091.95",
 			"group": "AP MAGALHAES & CIA LTDA"
 		},
 		{
@@ -258,7 +259,7 @@
 			"id": "POSTO AUTO GIRO - LTDA",
 			"name": "POSTO AUTO GIRO - LTDA",
 			"val": 4.164692178363777,
-			"desc": 145.01,
+			"desc": "145.01",
 			"group": "POSTO AUTO GIRO - LTDA"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "AUTO POSTO PORTAL DE MINAS LTDA",
 			"name": "AUTO POSTO PORTAL DE MINAS LTDA",
 			"val": 4.2967349308361795,
-			"desc": 148.83,
+			"desc": "148.83",
 			"group": "AUTO POSTO PORTAL DE MINAS LTDA"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.7880603574879259,
-			"desc": 37.64,
+			"desc": "37.64",
 			"group": "RAMAL"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 16.60697285448611,
-			"desc": 468.04,
+			"desc": "468.04",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -322,7 +323,7 @@
 			"id": "PREFEITURA MUNICIPAL DE IPATINGA",
 			"name": "PREFEITURA MUNICIPAL DE IPATINGA",
 			"val": 23.78922780797198,
-			"desc": 638.26,
+			"desc": "638.26",
 			"group": "PREFEITURA MUNICIPAL DE IPATINGA"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "PIZZARIA BOCAS LTDA",
 			"name": "PIZZARIA BOCAS LTDA",
 			"val": 0.32420878656566887,
-			"desc": 19.06,
+			"desc": "19.06",
 			"group": "PIZZARIA BOCAS LTDA"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "POSTO NOVA ERA LTDA",
 			"name": "POSTO NOVA ERA LTDA",
 			"val": 12.193702302622702,
-			"desc": 359.13,
+			"desc": "359.13",
 			"group": "POSTO NOVA ERA LTDA"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "AUTO POSTO REDE SOUZA LTDA",
 			"name": "AUTO POSTO REDE SOUZA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO REDE SOUZA LTDA"
 		},
 		{
@@ -392,7 +393,7 @@
 			"id": "A P MAGALHÃES & CIA LTDA",
 			"name": "A P MAGALHÃES & CIA LTDA",
 			"val": 19.808019040697364,
-			"desc": 544.8,
+			"desc": "544.80",
 			"group": "A P MAGALHÃES & CIA LTDA"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "MURALHA EXPRESSO COMERCIO DE ALIMENTOS EIRELI",
 			"name": "MURALHA EXPRESSO COMERCIO DE ALIMENTOS EIRELI",
 			"val": 1.4958921966712853,
-			"desc": 62.64999999999999,
+			"desc": "62.65",
 			"group": "MURALHA EXPRESSO COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "COMERCIAL CARAÇA DE COMBUSTÍVEL AUTOMOTIVOS",
 			"name": "COMERCIAL CARAÇA DE COMBUSTÍVEL AUTOMOTIVOS",
 			"val": 4.055901355935582,
-			"desc": 141.85,
+			"desc": "141.85",
 			"group": "COMERCIAL CARAÇA DE COMBUSTÍVEL AUTOMOTIVOS"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 1.2849130301598504,
-			"desc": 55.45,
+			"desc": "55.45",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "COMERCIAL BARAO DE COMBUSTIVEIS AUTOMOTIVOS LTDA",
 			"name": "COMERCIAL BARAO DE COMBUSTIVEIS AUTOMOTIVOS LTDA",
 			"val": 4.234098736005686,
-			"desc": 147.02,
+			"desc": "147.02",
 			"group": "COMERCIAL BARAO DE COMBUSTIVEIS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "Posto Veraneio",
 			"name": "Posto Veraneio",
 			"val": 6.700590706506767,
-			"desc": 216.01,
+			"desc": "216.01",
 			"group": "Posto Veraneio"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "COMBUSTÍVEIS BOM JESUS LTDA",
 			"name": "COMBUSTÍVEIS BOM JESUS LTDA",
 			"val": 3.416052547354538,
-			"desc": 123.01,
+			"desc": "123.01",
 			"group": "COMBUSTÍVEIS BOM JESUS LTDA"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "COPASA",
 			"name": "COPASA",
 			"val": 2.2282720444045956,
-			"desc": 86.56,
+			"desc": "86.56",
 			"group": "COPASA"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA",
 			"name": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA",
 			"val": 2.6572190167461494,
-			"desc": 99.99,
+			"desc": "99.99",
 			"group": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "KMF - VEÍCULOS LTDA",
 			"name": "KMF - VEÍCULOS LTDA",
 			"val": 153.9346093841965,
-			"desc": 3293.33,
+			"desc": "3293.33",
 			"group": "KMF - VEÍCULOS LTDA"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.093127760387121,
-			"desc": 406.51,
+			"desc": "406.51",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 3.4039807196526195,
-			"desc": 122.65,
+			"desc": "122.65",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "ALLEX IMOVEIS LTDA",
 			"name": "ALLEX IMOVEIS LTDA",
 			"val": 335.3089665832407,
-			"desc": 6606,
+			"desc": "6606.00",
 			"group": "ALLEX IMOVEIS LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "POSTO RESTAURANTE MAR DOCE - LTDA",
 			"name": "POSTO RESTAURANTE MAR DOCE - LTDA",
 			"val": 3.1340117777048127,
-			"desc": 114.55,
+			"desc": "114.55",
 			"group": "POSTO RESTAURANTE MAR DOCE - LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 4.061056363878659,
-			"desc": 142,
+			"desc": "142.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "HJ Consultoria LTDA ME",
 			"name": "HJ Consultoria LTDA ME",
 			"val": 620.5099270730785,
-			"desc": 11500,
+			"desc": "11500.00",
 			"group": "HJ Consultoria LTDA ME"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 22.012618813198195,
-			"desc": 596.8000000000001,
+			"desc": "596.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "POSTO UNIVERSAL LTDA",
 			"name": "POSTO UNIVERSAL LTDA",
 			"val": 3.315975462360441,
-			"desc": 120.02,
+			"desc": "120.02",
 			"group": "POSTO UNIVERSAL LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "POSTO FURACÃO LTDA.",
 			"name": "POSTO FURACÃO LTDA.",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "POSTO FURACÃO LTDA."
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "POSTO KOBU LTDA",
 			"name": "POSTO KOBU LTDA",
 			"val": 2.9841272387640294,
-			"desc": 110.01,
+			"desc": "110.01",
 			"group": "POSTO KOBU LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "MUNICIPIO DE IPATINGA",
 			"name": "MUNICIPIO DE IPATINGA",
 			"val": 10.43440397137684,
-			"desc": 314.42,
+			"desc": "314.42",
 			"group": "MUNICIPIO DE IPATINGA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "PETROL COMBUSTÍVEIS CORONEL FABRICIANO LTDA",
 			"name": "PETROL COMBUSTÍVEIS CORONEL FABRICIANO LTDA",
 			"val": 4.654145714603317,
-			"desc": 159.09,
+			"desc": "159.09",
 			"group": "PETROL COMBUSTÍVEIS CORONEL FABRICIANO LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME",
 			"name": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME",
 			"val": 0.44957773374077364,
-			"desc": 24.39,
+			"desc": "24.39",
 			"group": "PANELINHAS CNB COMERICIO DE ALIMENTOS LTDA ME"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 7.751648824162833,
-			"desc": 244.3,
+			"desc": "244.30",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "EME COMERCIO DE ALIMENTOS LTDA ME",
 			"name": "EME COMERCIO DE ALIMENTOS LTDA ME",
 			"val": 1.4503447926160074,
-			"desc": 61.11,
+			"desc": "61.11",
 			"group": "EME COMERCIO DE ALIMENTOS LTDA ME"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "FRATELLI MOVEIS EIRELI",
 			"name": "FRATELLI MOVEIS EIRELI",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "FRATELLI MOVEIS EIRELI"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "FRATELLI MÓVEIS EIRELI",
 			"name": "FRATELLI MÓVEIS EIRELI",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "FRATELLI MÓVEIS EIRELI"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "CARNE DE SOL 111 LTDA",
 			"name": "CARNE DE SOL 111 LTDA",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "CARNE DE SOL 111 LTDA"
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "CONSULTING - CONSULTORIA EM MARKETING DIGITAL EIRELI",
 			"name": "CONSULTING - CONSULTORIA EM MARKETING DIGITAL EIRELI",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "CONSULTING - CONSULTORIA EM MARKETING DIGITAL EIRELI"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "POSTO ASA BRANCA LTDA",
 			"name": "POSTO ASA BRANCA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ASA BRANCA LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.683579974627856,
-			"desc": 159.93,
+			"desc": "159.93",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 8.00531260462258,
-			"desc": 251.05,
+			"desc": "251.05",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -910,7 +911,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 19.481838049208935,
-			"desc": 537.05,
+			"desc": "537.05",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -923,7 +924,7 @@
 			"id": "com. de combustiveis melo viana ltda",
 			"name": "com. de combustiveis melo viana ltda",
 			"val": 4.6657061289292665,
-			"desc": 159.42,
+			"desc": "159.42",
 			"group": "com. de combustiveis melo viana ltda"
 		},
 		{
@@ -936,7 +937,7 @@
 			"id": "IRMÃOS THOMAZ LTDA",
 			"name": "IRMÃOS THOMAZ LTDA",
 			"val": 3.584675424619646,
-			"desc": 128.02,
+			"desc": "128.02",
 			"group": "IRMÃOS THOMAZ LTDA"
 		},
 		{
@@ -949,7 +950,7 @@
 			"id": "HERIC DRUMMOND DE LIMA E SILVA",
 			"name": "HERIC DRUMMOND DE LIMA E SILVA",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "HERIC DRUMMOND DE LIMA E SILVA"
 		},
 		{
@@ -962,7 +963,7 @@
 			"id": "COMERCIAL DE COMBUSTÍVEIS CARAVELAS LTDA",
 			"name": "COMERCIAL DE COMBUSTÍVEIS CARAVELAS LTDA",
 			"val": 4.576828183439542,
-			"desc": 156.88,
+			"desc": "156.88",
 			"group": "COMERCIAL DE COMBUSTÍVEIS CARAVELAS LTDA"
 		},
 		{
@@ -975,7 +976,7 @@
 			"id": "PACTUM ELETRICIDADE EIRELI",
 			"name": "PACTUM ELETRICIDADE EIRELI",
 			"val": 123.1064318729325,
-			"desc": 2700,
+			"desc": "2700.00",
 			"group": "PACTUM ELETRICIDADE EIRELI"
 		},
 		{
@@ -988,7 +989,7 @@
 			"id": "Posto Caxuxa JL Ltda",
 			"name": "Posto Caxuxa JL Ltda",
 			"val": 4.270072978245584,
-			"desc": 148.06,
+			"desc": "148.06",
 			"group": "Posto Caxuxa JL Ltda"
 		},
 		{

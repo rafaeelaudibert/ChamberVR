@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ALEXANDRE LEITE"
+			"name": "ALEXANDRE LEITE",
+			"desc": "66430.64"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 218.36944493521327,
-			"desc": 4498.65,
+			"desc": "4498.65",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -180,7 +181,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 18.368521447377994,
-			"desc": 510.48,
+			"desc": "510.48",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -193,7 +194,7 @@
 			"id": "PORTO VANILA CAFFE",
 			"name": "PORTO VANILA CAFFE",
 			"val": 0.2590514335613573,
-			"desc": 16.14,
+			"desc": "16.14",
 			"group": "PORTO VANILA CAFFE"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "EXPOUY S.A",
 			"name": "EXPOUY S.A",
 			"val": 2.6394376666746417,
-			"desc": 99.44,
+			"desc": "99.44",
 			"group": "EXPOUY S.A"
 		},
 		{
@@ -219,7 +220,7 @@
 			"id": "RESTAURANTE GARCIA",
 			"name": "RESTAURANTE GARCIA",
 			"val": 4.03391695172738,
-			"desc": 141.21,
+			"desc": "141.21",
 			"group": "RESTAURANTE GARCIA"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 42.78424414332905,
-			"desc": 1063.76,
+			"desc": "1063.76",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 17.93115223072823,
-			"desc": 499.99,
+			"desc": "499.99",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "LUNIMEL S.A",
 			"name": "LUNIMEL S.A",
 			"val": 1.1004831294465809,
-			"desc": 49,
+			"desc": "49.00",
 			"group": "LUNIMEL S.A"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.237199081936752,
-			"desc": 175.6,
+			"desc": "175.60",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.397299981127995,
-			"desc": 364.25,
+			"desc": "364.25",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 43.50880502600117,
-			"desc": 1079.5,
+			"desc": "1079.50",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1869.9170191980036,
-			"desc": 31302.98999999999,
+			"desc": "31302.99",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "PORTO VANILA CAFÉ",
 			"name": "PORTO VANILA CAFÉ",
 			"val": 0.1290770445697316,
-			"desc": 9.8,
+			"desc": "9.80",
 			"group": "PORTO VANILA CAFÉ"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 17.93115223072823,
-			"desc": 499.99,
+			"desc": "499.99",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.41425930154188634,
-			"desc": 22.92,
+			"desc": "22.92",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "SHERATON MONTEVIDEO",
 			"name": "SHERATON MONTEVIDEO",
 			"val": 91.51615279564159,
-			"desc": 2076.19,
+			"desc": "2076.19",
 			"group": "SHERATON MONTEVIDEO"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "LOGGOS JORNAIS, REVISTAS E PUBLICAÇÕES LTDA",
 			"name": "LOGGOS JORNAIS, REVISTAS E PUBLICAÇÕES LTDA",
 			"val": 109.31831861735337,
-			"desc": 2430,
+			"desc": "2430.00",
 			"group": "LOGGOS JORNAIS, REVISTAS E PUBLICAÇÕES LTDA"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA",
 			"name": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA",
 			"val": 0.07287431080317976,
-			"desc": 6.66,
+			"desc": "6.66",
 			"group": "ANCAR GESTAO DE EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"name": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO CIDADE DO AUTOMOVEL LTDA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 192.109135662863,
-			"desc": 4012.24,
+			"desc": "4012.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.740859884122193,
-			"desc": 270.46999999999997,
+			"desc": "270.47",
 			"group": "RAMAL"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 31.19313859214756,
-			"desc": 807.5,
+			"desc": "807.50",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.33884974949603824,
-			"desc": 19.7,
+			"desc": "19.70",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 4.4867935721389784,
-			"desc": 154.3,
+			"desc": "154.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "AOG LOCACAO DE VEICULOS EIRELI",
 			"name": "AOG LOCACAO DE VEICULOS EIRELI",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "AOG LOCACAO DE VEICULOS EIRELI"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "HD IMAGENS AGENCIA E PUBLICIDADE",
 			"name": "HD IMAGENS AGENCIA E PUBLICIDADE",
 			"val": 312.4317020040077,
-			"desc": 6200,
+			"desc": "6200.00",
 			"group": "HD IMAGENS AGENCIA E PUBLICIDADE"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 17.93115223072823,
-			"desc": 499.99,
+			"desc": "499.99",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "GARCIA PARRILLA CLASSIC BAR",
 			"name": "GARCIA PARRILLA CLASSIC BAR",
 			"val": 4.461363668318359,
-			"desc": 153.57,
+			"desc": "153.57",
 			"group": "GARCIA PARRILLA CLASSIC BAR"
 		},
 		{

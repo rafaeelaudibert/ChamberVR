@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ARNALDO JARDIM"
+			"name": "ARNALDO JARDIM",
+			"desc": "71111.22"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO DUQUE REBOUCAS I LTDA ME",
 			"name": "AUTO POSTO DUQUE REBOUCAS I LTDA ME",
 			"val": 11.259213425520798,
-			"desc": 335.49,
+			"desc": "335.49",
 			"group": "AUTO POSTO DUQUE REBOUCAS I LTDA ME"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 18.2854541510934,
-			"desc": 508.49,
+			"desc": "508.49",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "EQUIPA MAQUINAS E UTENSILIOS PARA ESCRITORIOS LTDA",
 			"name": "EQUIPA MAQUINAS E UTENSILIOS PARA ESCRITORIOS LTDA",
 			"val": 80.93544085905337,
-			"desc": 1862.62,
+			"desc": "1862.62",
 			"group": "EQUIPA MAQUINAS E UTENSILIOS PARA ESCRITORIOS LTDA"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.4076686875492816,
-			"desc": 122.75999999999999,
+			"desc": "122.76",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -105,7 +106,7 @@
 			"id": "MARCEL MESSIAS DOS SANTOS INFORMATICA - ME",
 			"name": "MARCEL MESSIAS DOS SANTOS INFORMATICA - ME",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "MARCEL MESSIAS DOS SANTOS INFORMATICA - ME"
 		},
 		{
@@ -118,7 +119,7 @@
 			"id": "AUTO POSTO SAN MARTIN II LTDA",
 			"name": "AUTO POSTO SAN MARTIN II LTDA",
 			"val": 18.60084569170772,
-			"desc": 516.04,
+			"desc": "516.04",
 			"group": "AUTO POSTO SAN MARTIN II LTDA"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "AUTO POSTO GOMES e BRAIDOTTI LTDA",
 			"name": "AUTO POSTO GOMES e BRAIDOTTI LTDA",
 			"val": 2.85231145083713,
-			"desc": 105.99,
+			"desc": "105.99",
 			"group": "AUTO POSTO GOMES e BRAIDOTTI LTDA"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "CENTRO AUTOMOTIVO PETROBRAS LTDA",
 			"name": "CENTRO AUTOMOTIVO PETROBRAS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CENTRO AUTOMOTIVO PETROBRAS LTDA"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"name": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -194,7 +195,7 @@
 			"id": "POSTO TREVO SERTAOZINHO LTDA",
 			"name": "POSTO TREVO SERTAOZINHO LTDA",
 			"val": 17.92865422339116,
-			"desc": 499.92999999999995,
+			"desc": "499.93",
 			"group": "POSTO TREVO SERTAOZINHO LTDA"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "RODOPOSTO TURMALINA LTDA",
 			"name": "RODOPOSTO TURMALINA LTDA",
 			"val": 2.497186147365856,
-			"desc": 95.02,
+			"desc": "95.02",
 			"group": "RODOPOSTO TURMALINA LTDA"
 		},
 		{
@@ -244,7 +245,7 @@
 			"id": "NEVADA RENT A CAR LTDA",
 			"name": "NEVADA RENT A CAR LTDA",
 			"val": 188.77266361963888,
-			"desc": 3950,
+			"desc": "3950.00",
 			"group": "NEVADA RENT A CAR LTDA"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "AUTO POSTO LG LT",
 			"name": "AUTO POSTO LG LT",
 			"val": 2.6983443113728756,
-			"desc": 101.26,
+			"desc": "101.26",
 			"group": "AUTO POSTO LG LT"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 178.35804790563213,
-			"desc": 3755.03,
+			"desc": "3755.03",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "CENTRO AUT OLIMPIA BANDEIRANTES LTDA",
 			"name": "CENTRO AUT OLIMPIA BANDEIRANTES LTDA",
 			"val": 3.5249704867077742,
-			"desc": 126.25,
+			"desc": "126.25",
 			"group": "CENTRO AUT OLIMPIA BANDEIRANTES LTDA"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 943.8054571560715,
-			"desc": 16809.28,
+			"desc": "16809.28",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "POSTO BOLA PESADA LT",
 			"name": "POSTO BOLA PESADA LT",
 			"val": 3.382869704780743,
-			"desc": 122.02,
+			"desc": "122.02",
 			"group": "POSTO BOLA PESADA LT"
 		},
 		{
@@ -430,7 +431,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 33.94633929568527,
-			"desc": 869.21,
+			"desc": "869.21",
 			"group": "RAMAL"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 2.0759199318208195,
-			"desc": 81.7,
+			"desc": "81.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "POSTO CENTENARIO 900 PIRACICABA LTDA",
 			"name": "POSTO CENTENARIO 900 PIRACICABA LTDA",
 			"val": 3.315975462360441,
-			"desc": 120.02,
+			"desc": "120.02",
 			"group": "POSTO CENTENARIO 900 PIRACICABA LTDA"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 203.6035083651357,
-			"desc": 4225.88,
+			"desc": "4225.88",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "POSTO MONTE CARLO EIRELI",
 			"name": "POSTO MONTE CARLO EIRELI",
 			"val": 3.24927355612644,
-			"desc": 118.02,
+			"desc": "118.02",
 			"group": "POSTO MONTE CARLO EIRELI"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 23.493738029832283,
-			"desc": 631.39,
+			"desc": "631.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 37.68128004957465,
-			"desc": 952.0400000000001,
+			"desc": "952.04",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "MARCEL MESSIAS DOS SANTOS INFORMATICA",
 			"name": "MARCEL MESSIAS DOS SANTOS INFORMATICA",
 			"val": 26.847174487006537,
-			"desc": 708.8,
+			"desc": "708.80",
 			"group": "MARCEL MESSIAS DOS SANTOS INFORMATICA"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 55.73561660897181,
-			"desc": 1341.18,
+			"desc": "1341.18",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "AUTO POSTO CALDEIRAO II LTDA",
 			"name": "AUTO POSTO CALDEIRAO II LTDA",
 			"val": 5.844032788167869,
-			"desc": 192.52,
+			"desc": "192.52",
 			"group": "AUTO POSTO CALDEIRAO II LTDA"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 24.283951190114955,
-			"desc": 649.74,
+			"desc": "649.74",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "SEP- COMERCIO E REPRESENTAÇÃO LTDA",
 			"name": "SEP- COMERCIO E REPRESENTAÇÃO LTDA",
 			"val": 7.180710669896801,
-			"desc": 229,
+			"desc": "229.00",
 			"group": "SEP- COMERCIO E REPRESENTAÇÃO LTDA"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "POSTO 9 AUTO SERVICE LT",
 			"name": "POSTO 9 AUTO SERVICE LT",
 			"val": 3.1761275013297383,
-			"desc": 115.82,
+			"desc": "115.82",
 			"group": "POSTO 9 AUTO SERVICE LT"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "SCB ADMINISTRACAO DE BENS LTDA",
 			"name": "SCB ADMINISTRACAO DE BENS LTDA",
 			"val": 1525.2872962915308,
-			"desc": 26000,
+			"desc": "26000.00",
 			"group": "SCB ADMINISTRACAO DE BENS LTDA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"name": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"val": 14.021168206886536,
-			"desc": 404.73,
+			"desc": "404.73",
 			"group": "LOCAWEB SERVICOS DE INTERNET S.A."
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "AUTO POSTO DUQUE DUMONT VILLARES LTDA ME",
 			"name": "AUTO POSTO DUQUE DUMONT VILLARES LTDA ME",
 			"val": 3.822502782918511,
-			"desc": 135.03,
+			"desc": "135.03",
 			"group": "AUTO POSTO DUQUE DUMONT VILLARES LTDA ME"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "POSTO ANTONIO MARTINEZ JUNIOR LTDA",
 			"name": "POSTO ANTONIO MARTINEZ JUNIOR LTDA",
 			"val": 8.032432391807955,
-			"desc": 251.76999999999998,
+			"desc": "251.77",
 			"group": "POSTO ANTONIO MARTINEZ JUNIOR LTDA"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "EXPRESSO MAIS",
 			"name": "EXPRESSO MAIS",
 			"val": 35.996694103174555,
-			"desc": 914.8,
+			"desc": "914.80",
 			"group": "EXPRESSO MAIS"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 79.6291693385808,
-			"desc": 1836.06,
+			"desc": "1836.06",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "AUTO POSTO RIFAINAO LTDA",
 			"name": "AUTO POSTO RIFAINAO LTDA",
 			"val": 6.149263112175934,
-			"desc": 200.94,
+			"desc": "200.94",
 			"group": "AUTO POSTO RIFAINAO LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "PORTAL VILA DAS BELEZAS AUTO POSTO LTDA",
 			"name": "PORTAL VILA DAS BELEZAS AUTO POSTO LTDA",
 			"val": 3.4886105750723915,
-			"desc": 125.17,
+			"desc": "125.17",
 			"group": "PORTAL VILA DAS BELEZAS AUTO POSTO LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 8.695930826461568,
-			"desc": 269.29,
+			"desc": "269.29",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "AUTO POSTO RELIX LTDA",
 			"name": "AUTO POSTO RELIX LTDA",
 			"val": 2.211264605820548,
-			"desc": 86.02,
+			"desc": "86.02",
 			"group": "AUTO POSTO RELIX LTDA"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.8558396981812402,
-			"desc": 40.16,
+			"desc": "40.16",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 24.725793567473026,
-			"desc": 659.97,
+			"desc": "659.97",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.0079815491592055,
-			"desc": 45.7,
+			"desc": "45.70",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E",
 			"name": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E",
 			"val": 2.9768912254730937,
-			"desc": 109.79,
+			"desc": "109.79",
 			"group": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 9.488309641247062,
-			"desc": 289.99,
+			"desc": "289.99",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{

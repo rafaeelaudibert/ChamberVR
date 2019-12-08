@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ZÉ NETO"
+			"name": "ZÉ NETO",
+			"desc": "46717.00"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 555.9224409314637,
-			"desc": 10413.519999999999,
+			"desc": "10413.52",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "J MARTINS DERIVADOS DE PETROLEO LTDA",
 			"name": "J MARTINS DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "J MARTINS DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 52.348295497007925,
-			"desc": 1269.37,
+			"desc": "1269.37",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 18.800016801661297,
-			"desc": 520.8,
+			"desc": "520.80",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -153,7 +154,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 6.345363238274998,
-			"desc": 206.32,
+			"desc": "206.32",
 			"group": "OI S.A"
 		},
 		{
@@ -166,7 +167,7 @@
 			"id": "TRAIRA SEM ESPINHA",
 			"name": "TRAIRA SEM ESPINHA",
 			"val": 3.1801111090525813,
-			"desc": 115.94,
+			"desc": "115.94",
 			"group": "TRAIRA SEM ESPINHA"
 		},
 		{
@@ -179,7 +180,7 @@
 			"id": "CONCESSIONARIA BAHIA NORTE S.A.",
 			"name": "CONCESSIONARIA BAHIA NORTE S.A.",
 			"val": 0.4281313520576979,
-			"desc": 23.5,
+			"desc": "23.50",
 			"group": "CONCESSIONARIA BAHIA NORTE S.A."
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 3.960528596244201,
-			"desc": 139.07,
+			"desc": "139.07",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -259,7 +260,7 @@
 			"id": "VIA BAHIA",
 			"name": "VIA BAHIA",
 			"val": 1.0051994540761935,
-			"desc": 45.59999999999999,
+			"desc": "45.60",
 			"group": "VIA BAHIA"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "ÂNGELA MARIA LINS PESSOA DE SOUZA",
 			"name": "ÂNGELA MARIA LINS PESSOA DE SOUZA",
 			"val": 484.94086395718347,
-			"desc": 9206.5,
+			"desc": "9206.50",
 			"group": "ÂNGELA MARIA LINS PESSOA DE SOUZA"
 		},
 		{
@@ -387,7 +388,7 @@
 			"id": "CEDRO EDITORA GRAFICA LTDA",
 			"name": "CEDRO EDITORA GRAFICA LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "CEDRO EDITORA GRAFICA LTDA"
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 118.10292741294461,
-			"desc": 2602.39,
+			"desc": "2602.39",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 178.3660383051767,
-			"desc": 3755.18,
+			"desc": "3755.18",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 51.890161050729894,
-			"desc": 1259.62,
+			"desc": "1259.62",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A.",
 			"name": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A.",
 			"val": 10.924348727171562,
-			"desc": 326.96000000000004,
+			"desc": "326.96",
 			"group": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A."
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 24.84385985903839,
-			"desc": 662.7,
+			"desc": "662.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.1440583429451134,
-			"desc": 83.88000000000001,
+			"desc": "83.88",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 20.602743575401565,
-			"desc": 563.62,
+			"desc": "563.62",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.265685883272863,
-			"desc": 176.4,
+			"desc": "176.40",
 			"group": "RAMAL"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "Luiza Conceição Carneiro Gomes",
 			"name": "Luiza Conceição Carneiro Gomes",
 			"val": 438.0154333817971,
-			"desc": 8400,
+			"desc": "8400.00",
 			"group": "Luiza Conceição Carneiro Gomes"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "AUTO VIACAO CAMURUJIPE LTDA",
 			"name": "AUTO VIACAO CAMURUJIPE LTDA",
 			"val": 0.4466750019037818,
-			"desc": 24.27,
+			"desc": "24.27",
 			"group": "AUTO VIACAO CAMURUJIPE LTDA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "EMPRESA EDITORA A TARDE S.A",
 			"name": "EMPRESA EDITORA A TARDE S.A",
 			"val": 24.727090645608957,
-			"desc": 660,
+			"desc": "660.00",
 			"group": "EMPRESA EDITORA A TARDE S.A"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "7895646000187UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "7895646000187UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.1311642036758023,
-			"desc": 9.91,
+			"desc": "9.91",
 			"group": "7895646000187UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 1.1344427841799325,
-			"desc": 50.199999999999996,
+			"desc": "50.20",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 11.67273528452352,
-			"desc": 345.98,
+			"desc": "345.98",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 3.1310302714603195,
-			"desc": 114.46,
+			"desc": "114.46",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 121.59925786324006,
-			"desc": 2670.64,
+			"desc": "2670.64",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "JPC COMUNICACOES LTDA - ME",
 			"name": "JPC COMUNICACOES LTDA - ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "JPC COMUNICACOES LTDA - ME"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 5.461378491362519,
-			"desc": 181.88,
+			"desc": "181.88",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "B M M EMPREENDIMENTOS TURISTICOS LTDA",
 			"name": "B M M EMPREENDIMENTOS TURISTICOS LTDA",
 			"val": 18.390234859036497,
-			"desc": 511,
+			"desc": "511.00",
 			"group": "B M M EMPREENDIMENTOS TURISTICOS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "PANDA COMERCIO DE DERIVADOS DE PETROLEO LTDA EPP",
 			"name": "PANDA COMERCIO DE DERIVADOS DE PETROLEO LTDA EPP",
 			"val": 4.337638076770334,
-			"desc": 150.01,
+			"desc": "150.01",
 			"group": "PANDA COMERCIO DE DERIVADOS DE PETROLEO LTDA EPP"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "Omega Bahia Com. de Alimentos e Vestuários Eireli",
 			"name": "Omega Bahia Com. de Alimentos e Vestuários Eireli",
 			"val": 1.6711624240281817,
-			"desc": 68.51,
+			"desc": "68.51",
 			"group": "Omega Bahia Com. de Alimentos e Vestuários Eireli"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.10989079564086389,
-			"desc": 8.77,
+			"desc": "8.77",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "Via x criação e produções LTDA",
 			"name": "Via x criação e produções LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "Via x criação e produções LTDA"
 		},
 		{

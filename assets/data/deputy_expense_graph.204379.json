@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ACÁCIO FAVACHO"
+			"name": "ACÁCIO FAVACHO",
+			"desc": "100076.53"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DE PETROLEO SAMAMBAIA LTDA",
 			"name": "POSTO DE PETROLEO SAMAMBAIA LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "POSTO DE PETROLEO SAMAMBAIA LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "POSTO E RESTAURANTE SÃO PAULO LTDA",
 			"name": "POSTO E RESTAURANTE SÃO PAULO LTDA",
 			"val": 20.662008735714345,
-			"desc": 565.02,
+			"desc": "565.02",
 			"group": "POSTO E RESTAURANTE SÃO PAULO LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.2823085600641613,
-			"desc": 55.36,
+			"desc": "55.36",
 			"group": "RAMAL"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "TRAVEL TO AMAZON EIRELI - EPP",
 			"name": "TRAVEL TO AMAZON EIRELI - EPP",
 			"val": 2379.1850945497963,
-			"desc": 39000,
+			"desc": "39000.00",
 			"group": "TRAVEL TO AMAZON EIRELI - EPP"
 		},
 		{
@@ -111,7 +112,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1035.65510582838,
-			"desc": 18286.79,
+			"desc": "18286.79",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -292,7 +293,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 62.36685299830186,
-			"desc": 1480.44,
+			"desc": "1480.44",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "LINHA DIRETA",
 			"name": "LINHA DIRETA",
 			"val": 3.1877483599528893,
-			"desc": 116.16999999999999,
+			"desc": "116.17",
 			"group": "LINHA DIRETA"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 40.97739330329691,
-			"desc": 1024.3799999999999,
+			"desc": "1024.38",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "MIGUEL AUTO POSTO LTDA",
 			"name": "MIGUEL AUTO POSTO LTDA",
 			"val": 10.888699819882442,
-			"desc": 326.05,
+			"desc": "326.05",
 			"group": "MIGUEL AUTO POSTO LTDA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "ABRITTA POSTOS DE SERVICOS LTDA",
 			"name": "ABRITTA POSTOS DE SERVICOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ABRITTA POSTOS DE SERVICOS LTDA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
 			"name": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "MM COMERCIAL DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"name": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "NENENS CHOPP COM VAREJ DE COMB IND E AGROP LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "AUTO POSTO G SUL LTDA",
 			"name": "AUTO POSTO G SUL LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "AUTO POSTO G SUL LTDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 31.742021500470745,
-			"desc": 819.85,
+			"desc": "819.85",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "NATULINO BATISTA BASTOS MEI",
 			"name": "NATULINO BATISTA BASTOS MEI",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "NATULINO BATISTA BASTOS MEI"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO",
 			"name": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO",
 			"val": 3.6526470902915076,
-			"desc": 130.03,
+			"desc": "130.03",
 			"group": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "AUTO POSTO QS 09 EIRELI",
 			"name": "AUTO POSTO QS 09 EIRELI",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "AUTO POSTO QS 09 EIRELI"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 7.33947382091764,
-			"desc": 233.27,
+			"desc": "233.27",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 136.59279549072255,
-			"desc": 2961.1800000000003,
+			"desc": "2961.18",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 7.076111464853626,
-			"desc": 226.18,
+			"desc": "226.18",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
 			"name": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE",
 			"val": 740.91627648858,
-			"desc": 13500,
+			"desc": "13500.00",
 			"group": "E. VIEGAS FERREIRA EIRELI LTDA - LOCASERVICE"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "AUTO POSTO GOLDEN GAS NB LTDA",
 			"name": "AUTO POSTO GOLDEN GAS NB LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO GOLDEN GAS NB LTDA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 66.8890303093688,
-			"desc": 1574.5,
+			"desc": "1574.50",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.9768204114590622,
-			"desc": 78.50999999999999,
+			"desc": "78.51",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 12.180594182061782,
-			"desc": 358.8,
+			"desc": "358.80",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "AUTO POSTO CEILANDIA NORTE LTDA",
 			"name": "AUTO POSTO CEILANDIA NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CEILANDIA NORTE LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FLORDELIS"
+			"name": "FLORDELIS",
+			"desc": "80844.43"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 11.214780068983805,
-			"desc": 334.36,
+			"desc": "334.36",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "OSORIO'S POSTO E SERVIÇOS LTDA",
 			"name": "OSORIO'S POSTO E SERVIÇOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "OSORIO'S POSTO E SERVIÇOS LTDA"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -87,7 +88,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 638.3962764225627,
-			"desc": 11799.09,
+			"desc": "11799.09",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -202,7 +203,7 @@
 			"id": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
 			"name": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA",
 			"val": 1766.8537560075545,
-			"desc": 29726.110000000004,
+			"desc": "29726.11",
 			"group": "BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTO LTDA"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 466.97118248335687,
-			"desc": 8898.520000000002,
+			"desc": "8898.52",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.21995288517140038,
-			"desc": 14.32,
+			"desc": "14.32",
 			"group": "RAMAL"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 23.607237908617975,
-			"desc": 634.03,
+			"desc": "634.03",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "FACTOTUM FACTOTUM ASSESSORIA",
 			"name": "FACTOTUM FACTOTUM ASSESSORIA",
 			"val": 1390.6955068862087,
-			"desc": 23903.44,
+			"desc": "23903.44",
 			"group": "FACTOTUM FACTOTUM ASSESSORIA"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "POSTO UM AF SOUZA",
 			"name": "POSTO UM AF SOUZA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO UM AF SOUZA"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 8.54043393271092,
-			"desc": 265.2,
+			"desc": "265.20",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "Telefonica Brasil S.A.",
 			"name": "Telefonica Brasil S.A.",
 			"val": 12.62205606227293,
-			"desc": 369.89,
+			"desc": "369.89",
 			"group": "Telefonica Brasil S.A."
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "ESTILO LIVRARIA E PAPELARIA LTDA EPP",
 			"name": "ESTILO LIVRARIA E PAPELARIA LTDA EPP",
 			"val": 7.895449319997468,
-			"desc": 248.13,
+			"desc": "248.13",
 			"group": "ESTILO LIVRARIA E PAPELARIA LTDA EPP"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "AUTO POSTO DOMINGUES DE SA LTDA",
 			"name": "AUTO POSTO DOMINGUES DE SA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO DOMINGUES DE SA LTDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 16.76464800769351,
-			"desc": 471.86,
+			"desc": "471.86",
 			"group": "CLARO S/A"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "POSTO LUCKAREM LTDA",
 			"name": "POSTO LUCKAREM LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO LUCKAREM LTDA"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "posto de gasolina midas da alameda ltda - me",
 			"name": "posto de gasolina midas da alameda ltda - me",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "posto de gasolina midas da alameda ltda - me"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"val": 3.073138106452425,
-			"desc": 112.71,
+			"desc": "112.71",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "Posto de Gasolina Bracarense Ltda.",
 			"name": "Posto de Gasolina Bracarense Ltda.",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "Posto de Gasolina Bracarense Ltda."
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "LIGHT S.A",
 			"name": "LIGHT S.A",
 			"val": 25.77853973531398,
-			"desc": 684.26,
+			"desc": "684.26",
 			"group": "LIGHT S.A"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "POSTO ABREU LTDA",
 			"name": "POSTO ABREU LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO ABREU LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "GLAMOUR POSTO DE SERVIÇOS LTDA",
 			"name": "GLAMOUR POSTO DE SERVIÇOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "GLAMOUR POSTO DE SERVIÇOS LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "NITGAS DO BRASIL POSTO DE GAS NATURAL VEICULA",
 			"name": "NITGAS DO BRASIL POSTO DE GAS NATURAL VEICULA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "NITGAS DO BRASIL POSTO DE GAS NATURAL VEICULA"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "POSTO DE GASOLINA MARANATHA LTDA",
 			"name": "POSTO DE GASOLINA MARANATHA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE GASOLINA MARANATHA LTDA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "MEU POSTO GASOLINA E SERVIÇOS LTDA",
 			"name": "MEU POSTO GASOLINA E SERVIÇOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MEU POSTO GASOLINA E SERVIÇOS LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "BOUSQUET 2005 PARTICIPACOES E INVESTIMENTOS LTDA",
 			"name": "BOUSQUET 2005 PARTICIPACOES E INVESTIMENTOS LTDA",
 			"val": 2.4805276363555655,
-			"desc": 94.5,
+			"desc": "94.50",
 			"group": "BOUSQUET 2005 PARTICIPACOES E INVESTIMENTOS LTDA"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "CENTRO AUTOMOTIVO PENDOTIBA",
 			"name": "CENTRO AUTOMOTIVO PENDOTIBA",
 			"val": 17.43321422080916,
-			"desc": 488.01,
+			"desc": "488.01",
 			"group": "CENTRO AUTOMOTIVO PENDOTIBA"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "POSTO IATE COM. E SERV. LTDA",
 			"name": "POSTO IATE COM. E SERV. LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO IATE COM. E SERV. LTDA"
 		},
 		{

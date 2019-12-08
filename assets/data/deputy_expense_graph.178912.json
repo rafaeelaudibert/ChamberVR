@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PEDRO CUNHA LIMA"
+			"name": "PEDRO CUNHA LIMA",
+			"desc": "78579.31"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 7.530061279832205,
-			"desc": 238.38,
+			"desc": "238.38",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 595.1909837810167,
-			"desc": 11075.330000000002,
+			"desc": "11075.33",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 76.91900988273555,
-			"desc": 1780.81,
+			"desc": "1780.81",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 80.26137378968477,
-			"desc": 1848.92,
+			"desc": "1848.92",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "A SOUZA FECHINE E CIA LTDA",
 			"name": "A SOUZA FECHINE E CIA LTDA",
 			"val": 40.497546374647705,
-			"desc": 1013.89,
+			"desc": "1013.89",
 			"group": "A SOUZA FECHINE E CIA LTDA"
 		},
 		{
@@ -388,7 +389,7 @@
 			"id": "EMPRESA DE TELEVISÃO JOÃO PESSOA",
 			"name": "EMPRESA DE TELEVISÃO JOÃO PESSOA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "EMPRESA DE TELEVISÃO JOÃO PESSOA"
 		},
 		{
@@ -401,7 +402,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1085.3145144262585,
-			"desc": 19080.979999999996,
+			"desc": "19080.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 206.45401281058537,
-			"desc": 4278.68,
+			"desc": "4278.68",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.340369739977678,
-			"desc": 120.75,
+			"desc": "120.75",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "SB COMERCIO DE COMBUSTIVEIS PLANALTO LTDA",
 			"name": "SB COMERCIO DE COMBUSTIVEIS PLANALTO LTDA",
 			"val": 7.591362943443948,
-			"desc": 240.02,
+			"desc": "240.02",
 			"group": "SB COMERCIO DE COMBUSTIVEIS PLANALTO LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.608698022559368,
-			"desc": 213.51,
+			"desc": "213.51",
 			"group": "RAMAL"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "GP COBERTURA JORNALISTICA LTDA ME",
 			"name": "GP COBERTURA JORNALISTICA LTDA ME",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "GP COBERTURA JORNALISTICA LTDA ME"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 7.032403072095334,
-			"desc": 225,
+			"desc": "225.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "Múltipla Comunicação, Serviços e Consultoria LTDA",
 			"name": "Múltipla Comunicação, Serviços e Consultoria LTDA",
 			"val": 1654.5915911526054,
-			"desc": 28000,
+			"desc": "28000.00",
 			"group": "Múltipla Comunicação, Serviços e Consultoria LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS COSTINHA LTDA ME",
 			"name": "COMERCIAL DE COMBUSTIVEIS COSTINHA LTDA ME",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "COMERCIAL DE COMBUSTIVEIS COSTINHA LTDA ME"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "POSTO ALMIRANTE COM. VAREJISTA DE COMBUSTIVEIS E LUBRIFICANT",
 			"name": "POSTO ALMIRANTE COM. VAREJISTA DE COMBUSTIVEIS E LUBRIFICANT",
 			"val": 5.145117828123178,
-			"desc": 173.01,
+			"desc": "173.01",
 			"group": "POSTO ALMIRANTE COM. VAREJISTA DE COMBUSTIVEIS E LUBRIFICANT"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "AGUA FRIA REVENDEDOR DE COMBUSTIVEIS LIMITADA",
 			"name": "AGUA FRIA REVENDEDOR DE COMBUSTIVEIS LIMITADA",
 			"val": 6.698383318758921,
-			"desc": 215.95,
+			"desc": "215.95",
 			"group": "AGUA FRIA REVENDEDOR DE COMBUSTIVEIS LIMITADA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "WM COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "WM COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 7.032032814328464,
-			"desc": 224.99,
+			"desc": "224.99",
 			"group": "WM COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "DJ COMBUSTIVEIS LTDA",
 			"name": "DJ COMBUSTIVEIS LTDA",
 			"val": 5.005117018257937,
-			"desc": 169.06,
+			"desc": "169.06",
 			"group": "DJ COMBUSTIVEIS LTDA"
 		},
 		{

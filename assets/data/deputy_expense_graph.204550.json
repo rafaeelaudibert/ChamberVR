@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JÚNIOR MANO"
+			"name": "JÚNIOR MANO",
+			"desc": "136046.45"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1323.2303530021254,
-			"desc": 22846.339999999993,
+			"desc": "22846.34",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -210,7 +211,7 @@
 			"id": "DATAINFO PESQUISA E CONSULTORIA S/S LTDA - EPP",
 			"name": "DATAINFO PESQUISA E CONSULTORIA S/S LTDA - EPP",
 			"val": 3121.9280948873625,
-			"desc": 50000,
+			"desc": "50000.00",
 			"group": "DATAINFO PESQUISA E CONSULTORIA S/S LTDA - EPP"
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 462.1574465483602,
-			"desc": 8815.839999999998,
+			"desc": "8815.84",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 15.243527334847485,
-			"desc": 434.81999999999994,
+			"desc": "434.82",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -429,7 +430,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 56.410001031279336,
-			"desc": 1355.42,
+			"desc": "1355.42",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"val": 4.304703355154939,
-			"desc": 149.06,
+			"desc": "149.06",
 			"group": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "HOTEL PHENICIA LTDA.",
 			"name": "HOTEL PHENICIA LTDA.",
 			"val": 23.950270922930073,
-			"desc": 642,
+			"desc": "642.00",
 			"group": "HOTEL PHENICIA LTDA."
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 13.182491413237942,
-			"desc": 383.9,
+			"desc": "383.90",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 7.210420800747844,
-			"desc": 229.8,
+			"desc": "229.80",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.293524952311936,
-			"desc": 204.9,
+			"desc": "204.90",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA",
 			"name": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "TERRAL TAXI AEREO LTDA EPP",
 			"name": "TERRAL TAXI AEREO LTDA EPP",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "TERRAL TAXI AEREO LTDA EPP"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "S. A. ATACADISTA DE ALIMENTOS LTDA-02",
 			"name": "S. A. ATACADISTA DE ALIMENTOS LTDA-02",
 			"val": 1.081032859885307,
-			"desc": 48.31,
+			"desc": "48.31",
 			"group": "S. A. ATACADISTA DE ALIMENTOS LTDA-02"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "HELIO PRATES COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
 			"name": "HELIO PRATES COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "HELIO PRATES COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.008427481800651,
-			"desc": 79.53,
+			"desc": "79.53",
 			"group": "RAMAL"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "RÁDIO VALE DO RIO POTY LTDA",
 			"name": "RÁDIO VALE DO RIO POTY LTDA",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "RÁDIO VALE DO RIO POTY LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 10.51625400300125,
-			"desc": 316.52,
+			"desc": "316.52",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "CEARÁSAT COMUNICAÇÃO LTDA",
 			"name": "CEARÁSAT COMUNICAÇÃO LTDA",
 			"val": 237.52911922005993,
-			"desc": 4850,
+			"desc": "4850.00",
 			"group": "CEARÁSAT COMUNICAÇÃO LTDA"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "ANTUNES ADVOGADOS ASSOCIADOS",
 			"name": "ANTUNES ADVOGADOS ASSOCIADOS",
 			"val": 170.11844915352535,
-			"desc": 3600,
+			"desc": "3600.00",
 			"group": "ANTUNES ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 92.20534009688332,
-			"desc": 2090.01,
+			"desc": "2090.01",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "MIKAEL PINHEIRO DE OLIVEIRA - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "MIKAEL PINHEIRO DE OLIVEIRA - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "MIKAEL PINHEIRO DE OLIVEIRA - SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VAVÁ MARTINS"
+			"name": "VAVÁ MARTINS",
+			"desc": "46744.59"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "METROPOLITAN TOWER",
 			"name": "METROPOLITAN TOWER",
 			"val": 44.16545793430097,
-			"desc": 1093.74,
+			"desc": "1093.74",
 			"group": "METROPOLITAN TOWER"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "POSTO ICCAR LTDA",
 			"name": "POSTO ICCAR LTDA",
 			"val": 40.55194949410457,
-			"desc": 1015.0799999999999,
+			"desc": "1015.08",
 			"group": "POSTO ICCAR LTDA"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 238.8406231688269,
-			"desc": 4873.95,
+			"desc": "4873.95",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 9.647443155178717,
-			"desc": 294.12,
+			"desc": "294.12",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.8022367965303865,
-			"desc": 38.17,
+			"desc": "38.17",
 			"group": "RAMAL"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 8.018117687947058,
-			"desc": 251.39,
+			"desc": "251.39",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 61.57037161592739,
-			"desc": 1463.8,
+			"desc": "1463.80",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "COIMBRA COMBUSTIVEIS EIRELI",
 			"name": "COIMBRA COMBUSTIVEIS EIRELI",
 			"val": 15.911584001787764,
-			"desc": 451.14,
+			"desc": "451.14",
 			"group": "COIMBRA COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "PREFEITURA DE BELÉM",
 			"name": "PREFEITURA DE BELÉM",
 			"val": 13.301280113176286,
-			"desc": 386.86,
+			"desc": "386.86",
 			"group": "PREFEITURA DE BELÉM"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 298.63296389311216,
-			"desc": 5953.8,
+			"desc": "5953.80",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 613.6445173984322,
-			"desc": 11385,
+			"desc": "11385.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 68.46789819513924,
-			"desc": 1607.1799999999998,
+			"desc": "1607.18",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "VMS RESTAURANTE LTDA",
 			"name": "VMS RESTAURANTE LTDA",
 			"val": 0.8027725917481482,
-			"desc": 38.19,
+			"desc": "38.19",
 			"group": "VMS RESTAURANTE LTDA"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "ROSEMAEY ALVES ARAUJOEPP",
 			"name": "ROSEMAEY ALVES ARAUJOEPP",
 			"val": 3.39895259011126,
-			"desc": 122.5,
+			"desc": "122.50",
 			"group": "ROSEMAEY ALVES ARAUJOEPP"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 42.93098175765893,
-			"desc": 1066.95,
+			"desc": "1066.95",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
 			"name": "SAÍDA SUL POSTOS E SERVIÇOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SAÍDA SUL POSTOS E SERVIÇOS LTDA"
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "AUTO POSTO DO NUCLEO LTDA",
 			"name": "AUTO POSTO DO NUCLEO LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTO POSTO DO NUCLEO LTDA"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.6123833263701854,
-			"desc": 128.84,
+			"desc": "128.84",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 7.017224608092256,
-			"desc": 224.59,
+			"desc": "224.59",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "RESTAURANTE VEGETARIANO BOA SAUDE",
 			"name": "RESTAURANTE VEGETARIANO BOA SAUDE",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "RESTAURANTE VEGETARIANO BOA SAUDE"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "HOTEL VÉRTICE LTDA",
 			"name": "HOTEL VÉRTICE LTDA",
 			"val": 29.092361049326083,
-			"desc": 760,
+			"desc": "760.00",
 			"group": "HOTEL VÉRTICE LTDA"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "AUTO POSTO CRISTALINO",
 			"name": "AUTO POSTO CRISTALINO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO CRISTALINO"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 4.31613988820637,
-			"desc": 149.39,
+			"desc": "149.39",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 6.962470049038656,
-			"desc": 223.11,
+			"desc": "223.11",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 6.625961012790619,
-			"desc": 213.98,
+			"desc": "213.98",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S.A",
 			"name": "HOTELARIA ACCOR BRASIL S.A",
 			"val": 98.7879891331161,
-			"desc": 2221.49,
+			"desc": "2221.49",
 			"group": "HOTELARIA ACCOR BRASIL S.A"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"name": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"val": 4.68673515779195,
-			"desc": 160.02,
+			"desc": "160.02",
 			"group": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 25.436894620979366,
-			"desc": 676.39,
+			"desc": "676.39",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.2197707671313678,
-			"desc": 53.19,
+			"desc": "53.19",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.0903281167330137,
-			"desc": 48.64,
+			"desc": "48.64",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 0.8377275064858213,
-			"desc": 39.49,
+			"desc": "39.49",
 			"group": "CLARO S.A."
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 6.391042220422515,
-			"desc": 207.57,
+			"desc": "207.57",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "POSTO BG 03 - POSTO PINHEIRO I",
 			"name": "POSTO BG 03 - POSTO PINHEIRO I",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO BG 03 - POSTO PINHEIRO I"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "AUTO POSTO DA ILHA LTDA",
 			"name": "AUTO POSTO DA ILHA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO DA ILHA LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"name": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.367247230379588,
-			"desc": 90.95,
+			"desc": "90.95",
 			"group": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "LAVIDETOX FOR LIFE GASTRONOMIA FUNCIONAL EIRELI",
 			"name": "LAVIDETOX FOR LIFE GASTRONOMIA FUNCIONAL EIRELI",
 			"val": 3.516549081443958,
-			"desc": 126,
+			"desc": "126.00",
 			"group": "LAVIDETOX FOR LIFE GASTRONOMIA FUNCIONAL EIRELI"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "LORENA COMERCIO DE PRODUTOS DE PETROLEO",
 			"name": "LORENA COMERCIO DE PRODUTOS DE PETROLEO",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "LORENA COMERCIO DE PRODUTOS DE PETROLEO"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "O. MATOS EDIFICACOES LTDA",
 			"name": "O. MATOS EDIFICACOES LTDA",
 			"val": 133.42131134486664,
-			"desc": 2900,
+			"desc": "2900.00",
 			"group": "O. MATOS EDIFICACOES LTDA"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "LOCALIZA HERTZ",
 			"name": "LOCALIZA HERTZ",
 			"val": 45.27273935543554,
-			"desc": 1117.7,
+			"desc": "1117.70",
 			"group": "LOCALIZA HERTZ"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "UNIAO MISS NORTE BRAS DOS ADV DO SET DIA-MOV DE REFORMA",
 			"name": "UNIAO MISS NORTE BRAS DOS ADV DO SET DIA-MOV DE REFORMA",
 			"val": 0.4391921673288677,
-			"desc": 23.96,
+			"desc": "23.96",
 			"group": "UNIAO MISS NORTE BRAS DOS ADV DO SET DIA-MOV DE REFORMA"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "MIGUEL C. REGO",
 			"name": "MIGUEL C. REGO",
 			"val": 6.053338215975267,
-			"desc": 198.3,
+			"desc": "198.30",
 			"group": "MIGUEL C. REGO"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "AUTO POSTO CARIPI",
 			"name": "AUTO POSTO CARIPI",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO CARIPI"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO PARK SANTA MARIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME",
 			"name": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PH COMERCIO DERIVADOS DE PETROLEO EIRELI ME"
 		},
 		{
@@ -910,7 +911,7 @@
 			"id": "O.MATOS EDIFICAÇÕES LTDA",
 			"name": "O.MATOS EDIFICAÇÕES LTDA",
 			"val": 133.42131134486664,
-			"desc": 2900,
+			"desc": "2900.00",
 			"group": "O.MATOS EDIFICAÇÕES LTDA"
 		},
 		{
@@ -923,7 +924,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 28.436861469132413,
-			"desc": 745.1,
+			"desc": "745.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -936,7 +937,7 @@
 			"id": "ARMAZEM BELEM ALIMENTOS",
 			"name": "ARMAZEM BELEM ALIMENTOS",
 			"val": 1.4648131210469777,
-			"desc": 61.6,
+			"desc": "61.60",
 			"group": "ARMAZEM BELEM ALIMENTOS"
 		},
 		{
@@ -949,7 +950,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"val": 2.5061629225994073,
-			"desc": 95.3,
+			"desc": "95.30",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A"
 		},
 		{
@@ -962,7 +963,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 52.711821189696224,
-			"desc": 1277.1,
+			"desc": "1277.10",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -975,7 +976,7 @@
 			"id": "POSTO DE GASOLINA PIT STOP LTDA",
 			"name": "POSTO DE GASOLINA PIT STOP LTDA",
 			"val": 2.6578659408444105,
-			"desc": 100.01,
+			"desc": "100.01",
 			"group": "POSTO DE GASOLINA PIT STOP LTDA"
 		},
 		{
@@ -988,7 +989,7 @@
 			"id": "OVIDIO DA SILVEIRA GASPARETTO COMERECIO EIRELI",
 			"name": "OVIDIO DA SILVEIRA GASPARETTO COMERECIO EIRELI",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "OVIDIO DA SILVEIRA GASPARETTO COMERECIO EIRELI"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FLÁVIA MORAIS"
+			"name": "FLÁVIA MORAIS",
+			"desc": "150998.28"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 9.659401363202155,
-			"desc": 294.43,
+			"desc": "294.43",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "DUAILIBE ADVOGADOS ASSOCIADOS S/S",
 			"name": "DUAILIBE ADVOGADOS ASSOCIADOS S/S",
 			"val": 4668.181961329114,
-			"desc": 72300,
+			"desc": "72300.00",
 			"group": "DUAILIBE ADVOGADOS ASSOCIADOS S/S"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 67.98194086948823,
-			"desc": 1597.1299999999999,
+			"desc": "1597.13",
 			"group": "RAMAL"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 163.7722955779903,
-			"desc": 3480.1,
+			"desc": "3480.10",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -135,7 +136,7 @@
 			"id": "OLIVEIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "OLIVEIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.852342615484491,
-			"desc": 192.75,
+			"desc": "192.75",
 			"group": "OLIVEIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -148,7 +149,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.6856308945758394,
-			"desc": 33.76,
+			"desc": "33.76",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -161,7 +162,7 @@
 			"id": "DELTTA COMBUSTIVEIS LTDA",
 			"name": "DELTTA COMBUSTIVEIS LTDA",
 			"val": 13.542870371760891,
-			"desc": 392.87,
+			"desc": "392.87",
 			"group": "DELTTA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -180,7 +181,7 @@
 			"id": "AUTO POSTO CHAFARIZ LTDA",
 			"name": "AUTO POSTO CHAFARIZ LTDA",
 			"val": 25.55404526871773,
-			"desc": 679.09,
+			"desc": "679.09",
 			"group": "AUTO POSTO CHAFARIZ LTDA"
 		},
 		{
@@ -211,7 +212,7 @@
 			"id": "POSTO SAO ROQUE LTDA",
 			"name": "POSTO SAO ROQUE LTDA",
 			"val": 9.027880008461919,
-			"desc": 277.99,
+			"desc": "277.99",
 			"group": "POSTO SAO ROQUE LTDA"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "POSTO MORIA LTDA ME",
 			"name": "POSTO MORIA LTDA ME",
 			"val": 6.152536822234722,
-			"desc": 201.03,
+			"desc": "201.03",
 			"group": "POSTO MORIA LTDA ME"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "AUTO POSTO MADAGASCAR LTDA",
 			"name": "AUTO POSTO MADAGASCAR LTDA",
 			"val": 10.377157076629548,
-			"desc": 312.95,
+			"desc": "312.95",
 			"group": "AUTO POSTO MADAGASCAR LTDA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "AUTO POSTO BOA NOVA LTDA",
 			"name": "AUTO POSTO BOA NOVA LTDA",
 			"val": 4.111279391771621,
-			"desc": 143.46,
+			"desc": "143.46",
 			"group": "AUTO POSTO BOA NOVA LTDA"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 262.98905493519055,
-			"desc": 5312.8,
+			"desc": "5312.80",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "AUTO POSTO DERIVADOS DE PETROLEO CALIFORNIA LTDA",
 			"name": "AUTO POSTO DERIVADOS DE PETROLEO CALIFORNIA LTDA",
 			"val": 20.366306790618847,
-			"desc": 558.03,
+			"desc": "558.03",
 			"group": "AUTO POSTO DERIVADOS DE PETROLEO CALIFORNIA LTDA"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "BANTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "BANTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.327103867540832,
-			"desc": 205.82,
+			"desc": "205.82",
 			"group": "BANTA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "POSTO LIMA LTDA - EPP",
 			"name": "POSTO LIMA LTDA - EPP",
 			"val": 13.52878642718426,
-			"desc": 392.52,
+			"desc": "392.52",
 			"group": "POSTO LIMA LTDA - EPP"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 23.302136872949024,
-			"desc": 626.9300000000001,
+			"desc": "626.93",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "DANILLO WANDERSON BORGES ROZENO",
 			"name": "DANILLO WANDERSON BORGES ROZENO",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "DANILLO WANDERSON BORGES ROZENO"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "BURITI COM.DE DERIVADOS DE PET LTDA",
 			"name": "BURITI COM.DE DERIVADOS DE PET LTDA",
 			"val": 13.959351429186329,
-			"desc": 403.20000000000005,
+			"desc": "403.20",
 			"group": "BURITI COM.DE DERIVADOS DE PET LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "AUTO POSTO J.J JUNIOR LTDA",
 			"name": "AUTO POSTO J.J JUNIOR LTDA",
 			"val": 5.045114034409107,
-			"desc": 170.19,
+			"desc": "170.19",
 			"group": "AUTO POSTO J.J JUNIOR LTDA"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "CANA VERDE AUTO POSTO LTDA",
 			"name": "CANA VERDE AUTO POSTO LTDA",
 			"val": 16.3489734200714,
-			"desc": 461.78,
+			"desc": "461.78",
 			"group": "CANA VERDE AUTO POSTO LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "AUTO POSTO CHANCELER LTDA",
 			"name": "AUTO POSTO CHANCELER LTDA",
 			"val": 3.822502782918511,
-			"desc": 135.03,
+			"desc": "135.03",
 			"group": "AUTO POSTO CHANCELER LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "EDMAR TEIXEIRA DE PAULA",
 			"name": "EDMAR TEIXEIRA DE PAULA",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "EDMAR TEIXEIRA DE PAULA"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "POSTOS WK JARAGUA LTDA",
 			"name": "POSTOS WK JARAGUA LTDA",
 			"val": 5.25001554548794,
-			"desc": 175.96,
+			"desc": "175.96",
 			"group": "POSTOS WK JARAGUA LTDA"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "AUTO POSTO MARRECO LTDA",
 			"name": "AUTO POSTO MARRECO LTDA",
 			"val": 6.041724684799441,
-			"desc": 197.98,
+			"desc": "197.98",
 			"group": "AUTO POSTO MARRECO LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "MUTIRAO COM E DER DE PETROLEO LTDA",
 			"name": "MUTIRAO COM E DER DE PETROLEO LTDA",
 			"val": 6.410788992609801,
-			"desc": 208.11,
+			"desc": "208.11",
 			"group": "MUTIRAO COM E DER DE PETROLEO LTDA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "AUTO POSTO BUZINA EIRELI ME",
 			"name": "AUTO POSTO BUZINA EIRELI ME",
 			"val": 4.4067399281737,
-			"desc": 152,
+			"desc": "152.00",
 			"group": "AUTO POSTO BUZINA EIRELI ME"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "AUTO POSTO SERVE BEM LTDA",
 			"name": "AUTO POSTO SERVE BEM LTDA",
 			"val": 4.968344115974125,
-			"desc": 168.02,
+			"desc": "168.02",
 			"group": "AUTO POSTO SERVE BEM LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "GALICIA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "GALICIA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 17.68696144360384,
-			"desc": 494.12,
+			"desc": "494.12",
 			"group": "GALICIA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "POSTO C 1 COMERCIO DE COMB EIREL",
 			"name": "POSTO C 1 COMERCIO DE COMB EIREL",
 			"val": 4.223038265669241,
-			"desc": 146.7,
+			"desc": "146.70",
 			"group": "POSTO C 1 COMERCIO DE COMB EIREL"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "ROD OIL COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "ROD OIL COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 6.051523405173255,
-			"desc": 198.25,
+			"desc": "198.25",
 			"group": "ROD OIL COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "AUTO POSTO FW OPCAO LTDA",
 			"name": "AUTO POSTO FW OPCAO LTDA",
 			"val": 6.025398207634949,
-			"desc": 197.53,
+			"desc": "197.53",
 			"group": "AUTO POSTO FW OPCAO LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "AUTO POSTO CAMPING CLUBE LTDA",
 			"name": "AUTO POSTO CAMPING CLUBE LTDA",
 			"val": 4.596053408508382,
-			"desc": 157.43,
+			"desc": "157.43",
 			"group": "AUTO POSTO CAMPING CLUBE LTDA"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 74.0909461386046,
-			"desc": 1722.94,
+			"desc": "1722.94",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "COMERCIAL P P DE COMBUSTIVEIS LTDA",
 			"name": "COMERCIAL P P DE COMBUSTIVEIS LTDA",
 			"val": 5.79023805307895,
-			"desc": 191.03,
+			"desc": "191.03",
 			"group": "COMERCIAL P P DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 8.894908983574036,
-			"desc": 274.51,
+			"desc": "274.51",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "SERV CAR DERIVADOS DE PETROLEO LTDA - ITIQUIRA",
 			"name": "SERV CAR DERIVADOS DE PETROLEO LTDA - ITIQUIRA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SERV CAR DERIVADOS DE PETROLEO LTDA - ITIQUIRA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "POSTO ALVORADA",
 			"name": "POSTO ALVORADA",
 			"val": 6.388117461662346,
-			"desc": 207.49,
+			"desc": "207.49",
 			"group": "POSTO ALVORADA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
 			"name": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
 			"val": 102.30453519662889,
-			"desc": 2291.36,
+			"desc": "2291.36",
 			"group": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA."
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "AUTO POSTO ESTRADA DOS ROMEIROS LTDA",
 			"name": "AUTO POSTO ESTRADA DOS ROMEIROS LTDA",
 			"val": 6.3548608755709886,
-			"desc": 206.58,
+			"desc": "206.58",
 			"group": "AUTO POSTO ESTRADA DOS ROMEIROS LTDA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "ELDORADO COMERCIO E DERIVADO DE PETROLEO LTDA ME",
 			"name": "ELDORADO COMERCIO E DERIVADO DE PETROLEO LTDA ME",
 			"val": 3.4828921423310435,
-			"desc": 125,
+			"desc": "125.00",
 			"group": "ELDORADO COMERCIO E DERIVADO DE PETROLEO LTDA ME"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "AUTO POSTO SANTA LUZIA LTDA",
 			"name": "AUTO POSTO SANTA LUZIA LTDA",
 			"val": 4.743578247030031,
-			"desc": 161.64,
+			"desc": "161.64",
 			"group": "AUTO POSTO SANTA LUZIA LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 74.6149653027047,
-			"desc": 1733.68,
+			"desc": "1733.68",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "AUTO POSTO TERRA SANTA EIRELI",
 			"name": "AUTO POSTO TERRA SANTA EIRELI",
 			"val": 4.061743767378969,
-			"desc": 142.02,
+			"desc": "142.02",
 			"group": "AUTO POSTO TERRA SANTA EIRELI"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "AUTO POSTO VENCEDOR LTDA",
 			"name": "AUTO POSTO VENCEDOR LTDA",
 			"val": 9.990726867969217,
-			"desc": 303,
+			"desc": "303.00",
 			"group": "AUTO POSTO VENCEDOR LTDA"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "AUTO POSTO VERA CRUZ LTDA",
 			"name": "AUTO POSTO VERA CRUZ LTDA",
 			"val": 12.310958508602099,
-			"desc": 362.08000000000004,
+			"desc": "362.08",
 			"group": "AUTO POSTO VERA CRUZ LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "REDE MAIS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "REDE MAIS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 3.0833819311450967,
-			"desc": 113.02,
+			"desc": "113.02",
 			"group": "REDE MAIS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "POSTO XODO LTDA",
 			"name": "POSTO XODO LTDA",
 			"val": 4.8624773897772515,
-			"desc": 165.02,
+			"desc": "165.02",
 			"group": "POSTO XODO LTDA"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "AUTO POSTO BR - 414 LTDA",
 			"name": "AUTO POSTO BR - 414 LTDA",
 			"val": 6.187834878063451,
-			"desc": 202,
+			"desc": "202.00",
 			"group": "AUTO POSTO BR - 414 LTDA"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "SAO PAULO PRODUTOS DE PETROLEO LTDA",
 			"name": "SAO PAULO PRODUTOS DE PETROLEO LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "SAO PAULO PRODUTOS DE PETROLEO LTDA"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "AUTO POSTO CERRADO LTDA",
 			"name": "AUTO POSTO CERRADO LTDA",
 			"val": 3.9170653612926913,
-			"desc": 137.8,
+			"desc": "137.80",
 			"group": "AUTO POSTO CERRADO LTDA"
 		},
 		{
@@ -945,7 +946,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO"
 		},
 		{
@@ -958,7 +959,7 @@
 			"id": "ITA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "ITA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 5.597638971961411,
-			"desc": 185.68,
+			"desc": "185.68",
 			"group": "ITA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -971,7 +972,7 @@
 			"id": "COMERCIAL DE DERIVADOS DE PETROLEO JOTAS LTDA - PONTEIO",
 			"name": "COMERCIAL DE DERIVADOS DE PETROLEO JOTAS LTDA - PONTEIO",
 			"val": 5.574299183998514,
-			"desc": 185.03,
+			"desc": "185.03",
 			"group": "COMERCIAL DE DERIVADOS DE PETROLEO JOTAS LTDA - PONTEIO"
 		},
 		{
@@ -984,7 +985,7 @@
 			"id": "AUTO POSTO MARINGA LTDA",
 			"name": "AUTO POSTO MARINGA LTDA",
 			"val": 6.7941246662567005,
-			"desc": 218.55,
+			"desc": "218.55",
 			"group": "AUTO POSTO MARINGA LTDA"
 		},
 		{
@@ -997,7 +998,7 @@
 			"id": "CARRETEIRO DERIVADOS DE PETROLEO LTDA C 6",
 			"name": "CARRETEIRO DERIVADOS DE PETROLEO LTDA C 6",
 			"val": 4.960216655368529,
-			"desc": 167.79,
+			"desc": "167.79",
 			"group": "CARRETEIRO DERIVADOS DE PETROLEO LTDA C 6"
 		},
 		{
@@ -1010,7 +1011,7 @@
 			"id": "AUTO POSTO RAYNER LTDA",
 			"name": "AUTO POSTO RAYNER LTDA",
 			"val": 5.547743775893554,
-			"desc": 184.29,
+			"desc": "184.29",
 			"group": "AUTO POSTO RAYNER LTDA"
 		},
 		{
@@ -1023,7 +1024,7 @@
 			"id": "AUTO POSTO ORIZONA LTDA",
 			"name": "AUTO POSTO ORIZONA LTDA",
 			"val": 4.616339293705649,
-			"desc": 158.01,
+			"desc": "158.01",
 			"group": "AUTO POSTO ORIZONA LTDA"
 		},
 		{

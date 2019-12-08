@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "TIAGO MITRAUD"
+			"name": "TIAGO MITRAUD",
+			"desc": "16311.88"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.0520051452809565,
-			"desc": 112.07,
+			"desc": "112.07",
 			"group": "RAMAL"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 10.180797319195118,
-			"desc": 307.9,
+			"desc": "307.90",
 			"group": "99 POP"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 7.68755703828038,
-			"desc": 242.59,
+			"desc": "242.59",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -207,7 +208,7 @@
 			"id": "Expresso Unir Ltda",
 			"name": "Expresso Unir Ltda",
 			"val": 8.071249403006586,
-			"desc": 252.80000000000004,
+			"desc": "252.80",
 			"group": "Expresso Unir Ltda"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "AUTO POSTO MENDONCA LTDA",
 			"name": "AUTO POSTO MENDONCA LTDA",
 			"val": 2.2942792782436165,
-			"desc": 88.65,
+			"desc": "88.65",
 			"group": "AUTO POSTO MENDONCA LTDA"
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 108.2716931797744,
-			"desc": 2409.3700000000003,
+			"desc": "2409.37",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -324,7 +325,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 5.287421143112534,
-			"desc": 177.01,
+			"desc": "177.01",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "AUTO POSTO PINHEIRINHO LIMITADA",
 			"name": "AUTO POSTO PINHEIRINHO LIMITADA",
 			"val": 3.0005821577661584,
-			"desc": 110.51,
+			"desc": "110.51",
 			"group": "AUTO POSTO PINHEIRINHO LIMITADA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 27.213227125263682,
-			"desc": 717.18,
+			"desc": "717.18",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 0.05410749561002054,
-			"desc": 5.5,
+			"desc": "5.50",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "99 TECNOLOGIA LTDA",
 			"name": "99 TECNOLOGIA LTDA",
 			"val": 4.9217243441052485,
-			"desc": 166.7,
+			"desc": "166.70",
 			"group": "99 TECNOLOGIA LTDA"
 		},
 		{
@@ -509,7 +510,7 @@
 			"id": "COMERCIAL GARDENIA LTDA",
 			"name": "COMERCIAL GARDENIA LTDA",
 			"val": 3.9581312364342707,
-			"desc": 139,
+			"desc": "139.00",
 			"group": "COMERCIAL GARDENIA LTDA"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 85.63233000769448,
-			"desc": 1957.7599999999998,
+			"desc": "1957.76",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 11.211635179098685,
-			"desc": 334.28,
+			"desc": "334.28",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "ALTO UMUARAMA COMBUSTÍVEIS LTDA",
 			"name": "ALTO UMUARAMA COMBUSTÍVEIS LTDA",
 			"val": 0.95341045846317,
-			"desc": 43.73,
+			"desc": "43.73",
 			"group": "ALTO UMUARAMA COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"name": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"val": 0.062039100017307745,
-			"desc": 6,
+			"desc": "6.00",
 			"group": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "posto 77 ltda epp",
 			"name": "posto 77 ltda epp",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "posto 77 ltda epp"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "LOCALIZA RENT A CAR S/A",
 			"name": "LOCALIZA RENT A CAR S/A",
 			"val": 11.946534009040057,
-			"desc": 352.9,
+			"desc": "352.90",
 			"group": "LOCALIZA RENT A CAR S/A"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "The Rocket Science Group LLC",
 			"name": "The Rocket Science Group LLC",
 			"val": 32.59167096443365,
-			"desc": 838.9200000000001,
+			"desc": "838.92",
 			"group": "The Rocket Science Group LLC"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "POSTO FAZENDINHA COM. DE COMBUSTIVEIS LTDA",
 			"name": "POSTO FAZENDINHA COM. DE COMBUSTIVEIS LTDA",
 			"val": 3.4288016277850493,
-			"desc": 123.39,
+			"desc": "123.39",
 			"group": "POSTO FAZENDINHA COM. DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 27.545696840502114,
-			"desc": 724.78,
+			"desc": "724.78",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.05100703802512774,
-			"desc": 5.3,
+			"desc": "5.30",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "Auto Posto Ventania LTDA",
 			"name": "Auto Posto Ventania LTDA",
 			"val": 4.617039026377343,
-			"desc": 158.03,
+			"desc": "158.03",
 			"group": "Auto Posto Ventania LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "TAM LINHAS AEREAS SA",
 			"name": "TAM LINHAS AEREAS SA",
 			"val": 10.693089308841358,
-			"desc": 321.05,
+			"desc": "321.05",
 			"group": "TAM LINHAS AEREAS SA"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "EMPRESA GONTIJO DE TRANSPORTES LIMITADA",
 			"name": "EMPRESA GONTIJO DE TRANSPORTES LIMITADA",
 			"val": 1.2985278164687672,
-			"desc": 55.92,
+			"desc": "55.92",
 			"group": "EMPRESA GONTIJO DE TRANSPORTES LIMITADA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "ASSOCIAÇÃO LEGISLA BRASIL",
 			"name": "ASSOCIAÇÃO LEGISLA BRASIL",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "ASSOCIAÇÃO LEGISLA BRASIL"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "TARTARIA EMPREENDIMENTOS E SERVIÇOS LTDA",
 			"name": "TARTARIA EMPREENDIMENTOS E SERVIÇOS LTDA",
 			"val": 3.6008910182856533,
-			"desc": 128.5,
+			"desc": "128.50",
 			"group": "TARTARIA EMPREENDIMENTOS E SERVIÇOS LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 15.124366637517841,
-			"desc": 431.9,
+			"desc": "431.90",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "R.A RIBEIRO COMBUSTÍVEIS",
 			"name": "R.A RIBEIRO COMBUSTÍVEIS",
 			"val": 4.923842119690136,
-			"desc": 166.76,
+			"desc": "166.76",
 			"group": "R.A RIBEIRO COMBUSTÍVEIS"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "Rede de Postos Oliveira LTDA",
 			"name": "Rede de Postos Oliveira LTDA",
 			"val": 4.095790509310054,
-			"desc": 143.01,
+			"desc": "143.01",
 			"group": "Rede de Postos Oliveira LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "Mailchimp c/o The Rocket Science",
 			"name": "Mailchimp c/o The Rocket Science",
 			"val": 9.459062828052428,
-			"desc": 289.23,
+			"desc": "289.23",
 			"group": "Mailchimp c/o The Rocket Science"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "Posto Oceano Ltda",
 			"name": "Posto Oceano Ltda",
 			"val": 3.1867520476547755,
-			"desc": 116.14,
+			"desc": "116.14",
 			"group": "Posto Oceano Ltda"
 		},
 		{

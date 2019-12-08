@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DARCI DE MATOS"
+			"name": "DARCI DE MATOS",
+			"desc": "59264.65"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "JOZO RESTAURANTE LTDA",
 			"name": "JOZO RESTAURANTE LTDA",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "JOZO RESTAURANTE LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "NABHAN LOCADORA DE VEÍCULOS S/S LTDA",
 			"name": "NABHAN LOCADORA DE VEÍCULOS S/S LTDA",
 			"val": 414.3195737559327,
-			"desc": 7989.84,
+			"desc": "7989.84",
 			"group": "NABHAN LOCADORA DE VEÍCULOS S/S LTDA"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "AUTO POSTO CAPRICHO LTDA",
 			"name": "AUTO POSTO CAPRICHO LTDA",
 			"val": 6.774593606848866,
-			"desc": 218.02,
+			"desc": "218.02",
 			"group": "AUTO POSTO CAPRICHO LTDA"
 		},
 		{
@@ -62,7 +63,7 @@
 			"id": "Águas de Joinville",
 			"name": "Águas de Joinville",
 			"val": 8.459976963432856,
-			"desc": 263.08,
+			"desc": "263.08",
 			"group": "Águas de Joinville"
 		},
 		{
@@ -81,7 +82,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 18.054022069029084,
-			"desc": 502.9400000000001,
+			"desc": "502.94",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -136,7 +137,7 @@
 			"id": "IRMAOS SCHOEPPING LTDA",
 			"name": "IRMAOS SCHOEPPING LTDA",
 			"val": 151.28971198431125,
-			"desc": 3242.92,
+			"desc": "3242.92",
 			"group": "IRMAOS SCHOEPPING LTDA"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "ROBERTA DA SILVA DO PRADO",
 			"name": "ROBERTA DA SILVA DO PRADO",
 			"val": 3.3654588767524096,
-			"desc": 121.5,
+			"desc": "121.50",
 			"group": "ROBERTA DA SILVA DO PRADO"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "POSTOVILLE LTDA.",
 			"name": "POSTOVILLE LTDA.",
 			"val": 9.564559191313519,
-			"desc": 291.97,
+			"desc": "291.97",
 			"group": "POSTOVILLE LTDA."
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 281.6415807078623,
-			"desc": 5649.18,
+			"desc": "5649.18",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"name": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"val": 4.267996392452338,
-			"desc": 148,
+			"desc": "148.00",
 			"group": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -249,7 +250,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 20.239128319146886,
-			"desc": 555.02,
+			"desc": "555.02",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -274,7 +275,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.178781608276653,
-			"desc": 255.65000000000003,
+			"desc": "255.65",
 			"group": "RAMAL"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 76.00835199657107,
-			"desc": 1762.2,
+			"desc": "1762.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "catarina cardoso corretora de imoveis LTDA",
 			"name": "catarina cardoso corretora de imoveis LTDA",
 			"val": 340.8507207665345,
-			"desc": 6703.96,
+			"desc": "6703.96",
 			"group": "catarina cardoso corretora de imoveis LTDA"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "ML ALIMENTACAO E DIVERSOES SA",
 			"name": "ML ALIMENTACAO E DIVERSOES SA",
 			"val": 2.647194648130752,
-			"desc": 99.68,
+			"desc": "99.68",
 			"group": "ML ALIMENTACAO E DIVERSOES SA"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 263.0238763890967,
-			"desc": 5313.43,
+			"desc": "5313.43",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "TELEFÔNICA BRASIL S.A",
 			"name": "TELEFÔNICA BRASIL S.A",
 			"val": 184.59721597077674,
-			"desc": 3871.96,
+			"desc": "3871.96",
 			"group": "TELEFÔNICA BRASIL S.A"
 		},
 		{
@@ -443,7 +444,7 @@
 			"id": "MARIZA MARIA WLADYKA MARINHO EIRELI",
 			"name": "MARIZA MARIA WLADYKA MARINHO EIRELI",
 			"val": 23.26521237519234,
-			"desc": 626.0699999999999,
+			"desc": "626.07",
 			"group": "MARIZA MARIA WLADYKA MARINHO EIRELI"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 94.80371660394346,
-			"desc": 2142.02,
+			"desc": "2142.02",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 2.9772200800165534,
-			"desc": 109.8,
+			"desc": "109.80",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 57.53905513702537,
-			"desc": 1379.22,
+			"desc": "1379.22",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 30.34729675545443,
-			"desc": 788.4200000000001,
+			"desc": "788.42",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "MFR PANIFICADORA E CONFEITARIA LTDA",
 			"name": "MFR PANIFICADORA E CONFEITARIA LTDA",
 			"val": 2.130592040225834,
-			"desc": 83.45,
+			"desc": "83.45",
 			"group": "MFR PANIFICADORA E CONFEITARIA LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "POSTO Z7 LTDA.",
 			"name": "POSTO Z7 LTDA.",
 			"val": 4.789260878726061,
-			"desc": 162.94,
+			"desc": "162.94",
 			"group": "POSTO Z7 LTDA."
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "TONER PRINT COM E MANUT DE EQUIP E PROD DE INFORM LTDA.",
 			"name": "TONER PRINT COM E MANUT DE EQUIP E PROD DE INFORM LTDA.",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "TONER PRINT COM E MANUT DE EQUIP E PROD DE INFORM LTDA."
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "RAMA AGENCIA DIGITAL LTDA",
 			"name": "RAMA AGENCIA DIGITAL LTDA",
 			"val": 484.5609877666079,
-			"desc": 9200,
+			"desc": "9200.00",
 			"group": "RAMA AGENCIA DIGITAL LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "IRMÃOS SCHOEPPING LTDA",
 			"name": "IRMÃOS SCHOEPPING LTDA",
 			"val": 6.440058326759527,
-			"desc": 208.91,
+			"desc": "208.91",
 			"group": "IRMÃOS SCHOEPPING LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "POSTO CARRETAO LTDA (POSTO CARRETAO LTDA )",
 			"name": "POSTO CARRETAO LTDA (POSTO CARRETAO LTDA )",
 			"val": 6.8512863009376925,
-			"desc": 220.1,
+			"desc": "220.10",
 			"group": "POSTO CARRETAO LTDA (POSTO CARRETAO LTDA )"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 50.28335562007689,
-			"desc": 1225.35,
+			"desc": "1225.35",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 19.6059216896298,
-			"desc": 540,
+			"desc": "540.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "RMAM COMERCIO DE ALIMENTOS EIRELI ME",
 			"name": "RMAM COMERCIO DE ALIMENTOS EIRELI ME",
 			"val": 0.5862880000855648,
-			"desc": 29.9,
+			"desc": "29.90",
 			"group": "RMAM COMERCIO DE ALIMENTOS EIRELI ME"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.554560422964631,
-			"desc": 184.48000000000002,
+			"desc": "184.48",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "RESTAURANTE MADERO BRASILIA LT",
 			"name": "RESTAURANTE MADERO BRASILIA LT",
 			"val": 3.7194400950212634,
-			"desc": 132,
+			"desc": "132.00",
 			"group": "RESTAURANTE MADERO BRASILIA LT"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "BECKER SERVICOS AUTOMOTIVOS LTDA",
 			"name": "BECKER SERVICOS AUTOMOTIVOS LTDA",
 			"val": 2.5659142129004335,
-			"desc": 97.16,
+			"desc": "97.16",
 			"group": "BECKER SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "CHURRASCARIA ESPETO DE OURO LTDA",
 			"name": "CHURRASCARIA ESPETO DE OURO LTDA",
 			"val": 0.9031760095848894,
-			"desc": 41.9,
+			"desc": "41.90",
 			"group": "CHURRASCARIA ESPETO DE OURO LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 10.189341704179117,
-			"desc": 308.12,
+			"desc": "308.12",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "AUTO POSTO DUQUE LTDA",
 			"name": "AUTO POSTO DUQUE LTDA",
 			"val": 6.966537700317083,
-			"desc": 223.22,
+			"desc": "223.22",
 			"group": "AUTO POSTO DUQUE LTDA"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "YDD AUTO POSTO LTDA - EPP",
 			"name": "YDD AUTO POSTO LTDA - EPP",
 			"val": 6.806657931534206,
-			"desc": 218.89,
+			"desc": "218.89",
 			"group": "YDD AUTO POSTO LTDA - EPP"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 10.939631306897294,
-			"desc": 327.35,
+			"desc": "327.35",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 7.292950422535935,
-			"desc": 232.02,
+			"desc": "232.02",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 8.83004423586277,
-			"desc": 272.81,
+			"desc": "272.81",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "POSTO CAPOEIRAS EIRELI-ME",
 			"name": "POSTO CAPOEIRAS EIRELI-ME",
 			"val": 6.450306773825678,
-			"desc": 209.19,
+			"desc": "209.19",
 			"group": "POSTO CAPOEIRAS EIRELI-ME"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "POSTOVILLE",
 			"name": "POSTOVILLE",
 			"val": 6.369476311825382,
-			"desc": 206.98,
+			"desc": "206.98",
 			"group": "POSTOVILLE"
 		},
 		{

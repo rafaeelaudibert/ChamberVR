@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RAUL HENRY"
+			"name": "RAUL HENRY",
+			"desc": "71151.10"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "E. J. W. DOS PRAZERES",
 			"name": "E. J. W. DOS PRAZERES",
 			"val": 3.469778429182923,
-			"desc": 124.61,
+			"desc": "124.61",
 			"group": "E. J. W. DOS PRAZERES"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 18.638903003462058,
-			"desc": 516.95,
+			"desc": "516.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1309.6129693598061,
-			"desc": 22632.44,
+			"desc": "22632.44",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -218,7 +219,7 @@
 			"id": "DOM FRANCISCO RESTAURANTE",
 			"name": "DOM FRANCISCO RESTAURANTE",
 			"val": 12.964521244911044,
-			"desc": 378.46,
+			"desc": "378.46",
 			"group": "DOM FRANCISCO RESTAURANTE"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "DIARIO DE PERNAMBUCO S A",
 			"name": "DIARIO DE PERNAMBUCO S A",
 			"val": 38.04245988713671,
-			"desc": 960,
+			"desc": "960.00",
 			"group": "DIARIO DE PERNAMBUCO S A"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 22.90362882256959,
-			"desc": 617.64,
+			"desc": "617.64",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 195.20882490828438,
-			"desc": 4069.97,
+			"desc": "4069.97",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 268.1976815411192,
-			"desc": 5406.95,
+			"desc": "5406.95",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -367,7 +368,7 @@
 			"id": "LIVRAMENTO PARTIC ADM REPR E CTA PROPRIA LTDA - HOTEL PAULISTA WALL STREET SUITES",
 			"name": "LIVRAMENTO PARTIC ADM REPR E CTA PROPRIA LTDA - HOTEL PAULISTA WALL STREET SUITES",
 			"val": 14.149352180670459,
-			"desc": 407.9,
+			"desc": "407.90",
 			"group": "LIVRAMENTO PARTIC ADM REPR E CTA PROPRIA LTDA - HOTEL PAULISTA WALL STREET SUITES"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "MALBEC SPECIAL BEER COMERCIO DE BEBIDAS E ALIMENTOS LTDA - M",
 			"name": "MALBEC SPECIAL BEER COMERCIO DE BEBIDAS E ALIMENTOS LTDA - M",
 			"val": 1.1708487953679956,
-			"desc": 51.48,
+			"desc": "51.48",
 			"group": "MALBEC SPECIAL BEER COMERCIO DE BEBIDAS E ALIMENTOS LTDA - M"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "EDITORA JORNAL DO COMMERCIO S/A",
 			"name": "EDITORA JORNAL DO COMMERCIO S/A",
 			"val": 89.71392404476829,
-			"desc": 2040,
+			"desc": "2040.00",
 			"group": "EDITORA JORNAL DO COMMERCIO S/A"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.294276090260788,
-			"desc": 119.37,
+			"desc": "119.37",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 139.8464804515734,
-			"desc": 3023.8,
+			"desc": "3023.80",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 10.198663885253035,
-			"desc": 308.36,
+			"desc": "308.36",
 			"group": "RAMAL"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 10.377546376887812,
-			"desc": 312.96,
+			"desc": "312.96",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "POSTO PASSIRA II",
 			"name": "POSTO PASSIRA II",
 			"val": 287.11787528749653,
-			"desc": 5747.540000000001,
+			"desc": "5747.54",
 			"group": "POSTO PASSIRA II"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "ADAMS HERLEM DE SOUZA SANTOS EIRELI",
 			"name": "ADAMS HERLEM DE SOUZA SANTOS EIRELI",
 			"val": 740.91627648858,
-			"desc": 13500,
+			"desc": "13500.00",
 			"group": "ADAMS HERLEM DE SOUZA SANTOS EIRELI"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
 			"name": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
 			"val": 1.3211727850564436,
-			"desc": 56.7,
+			"desc": "56.70",
 			"group": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "VMS RESTAURANTE LTDA",
 			"name": "VMS RESTAURANTE LTDA",
 			"val": 1.0728750367833693,
-			"desc": 48.02,
+			"desc": "48.02",
 			"group": "VMS RESTAURANTE LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 6.904447757369749,
-			"desc": 221.54,
+			"desc": "221.54",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "GLOBAL LUXURY SUITES AT KENDALL WEST",
 			"name": "GLOBAL LUXURY SUITES AT KENDALL WEST",
 			"val": 249.92830736930142,
-			"desc": 5075.94,
+			"desc": "5075.94",
 			"group": "GLOBAL LUXURY SUITES AT KENDALL WEST"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 11.572831129571073,
-			"desc": 343.45,
+			"desc": "343.45",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 9.361784934604206,
-			"desc": 286.7,
+			"desc": "286.70",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "LOCALIZA REN A CAR S.A",
 			"name": "LOCALIZA REN A CAR S.A",
 			"val": 7.433755257312752,
-			"desc": 235.8,
+			"desc": "235.80",
 			"group": "LOCALIZA REN A CAR S.A"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "MURALHA EXPRESSO COMERCIO DE ALIMENTOS EIRELI",
 			"name": "MURALHA EXPRESSO COMERCIO DE ALIMENTOS EIRELI",
 			"val": 2.7204020124897546,
-			"desc": 101.94,
+			"desc": "101.94",
 			"group": "MURALHA EXPRESSO COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "RCLM COMERCIO DE ALIMENTOS LTDA EPP",
 			"name": "RCLM COMERCIO DE ALIMENTOS LTDA EPP",
 			"val": 2.0793501410177813,
-			"desc": 81.81,
+			"desc": "81.81",
 			"group": "RCLM COMERCIO DE ALIMENTOS LTDA EPP"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 6.5525429016742605,
-			"desc": 211.98,
+			"desc": "211.98",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "Empresa Folha da Manhã S.A.",
 			"name": "Empresa Folha da Manhã S.A.",
 			"val": 12.881698562593906,
-			"desc": 376.39,
+			"desc": "376.39",
 			"group": "Empresa Folha da Manhã S.A."
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "RICARDO SYLVESTER COSTA",
 			"name": "RICARDO SYLVESTER COSTA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "RICARDO SYLVESTER COSTA"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "EDITORA FOLHA DE PERNAMBUCO LTDA",
 			"name": "EDITORA FOLHA DE PERNAMBUCO LTDA",
 			"val": 42.15192917272464,
-			"desc": 1050,
+			"desc": "1050.00",
 			"group": "EDITORA FOLHA DE PERNAMBUCO LTDA"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 5.122753390728009,
-			"desc": 172.38,
+			"desc": "172.38",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "HS BEZZATO UTILIDADES DO LAR LTDAME",
 			"name": "HS BEZZATO UTILIDADES DO LAR LTDAME",
 			"val": 1.9240041694721413,
-			"desc": 76.8,
+			"desc": "76.80",
 			"group": "HS BEZZATO UTILIDADES DO LAR LTDAME"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JJS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "AMILTON BEZERRA DOS SANTOS",
 			"name": "AMILTON BEZERRA DOS SANTOS",
 			"val": 54.73418129121791,
-			"desc": 1320,
+			"desc": "1320.00",
 			"group": "AMILTON BEZERRA DOS SANTOS"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 2.439592609583122,
-			"desc": 93.22,
+			"desc": "93.22",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{

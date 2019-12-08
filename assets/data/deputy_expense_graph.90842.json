@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SANTINI"
+			"name": "SANTINI",
+			"desc": "62149.46"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.143080072392904,
-			"desc": 200.76999999999998,
+			"desc": "200.77",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "POSTO DE COMBUSTIVEIS PEGASUS LTDA",
 			"name": "POSTO DE COMBUSTIVEIS PEGASUS LTDA",
 			"val": 42.94340408443484,
-			"desc": 1067.22,
+			"desc": "1067.22",
 			"group": "POSTO DE COMBUSTIVEIS PEGASUS LTDA"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "FABRICIO CORREIA BARROS",
 			"name": "FABRICIO CORREIA BARROS",
 			"val": 13.78942760133494,
-			"desc": 398.99,
+			"desc": "398.99",
 			"group": "FABRICIO CORREIA BARROS"
 		},
 		{
@@ -117,7 +118,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 0.7526765294347012,
-			"desc": 36.31,
+			"desc": "36.31",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -130,7 +131,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.457440886577137,
-			"desc": 181.77,
+			"desc": "181.77",
 			"group": "RAMAL"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 20.69418963765022,
-			"desc": 565.78,
+			"desc": "565.78",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 61.6703507554838,
-			"desc": 1465.89,
+			"desc": "1465.89",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -212,7 +213,7 @@
 			"id": "Iglu Comunicacao LTDA - ME",
 			"name": "Iglu Comunicacao LTDA - ME",
 			"val": 154.28490408055794,
-			"desc": 3300,
+			"desc": "3300.00",
 			"group": "Iglu Comunicacao LTDA - ME"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "GABRIELA SUAREZ ZABALVEYTIA",
 			"name": "GABRIELA SUAREZ ZABALVEYTIA",
 			"val": 561.0402717125156,
-			"desc": 10500,
+			"desc": "10500.00",
 			"group": "GABRIELA SUAREZ ZABALVEYTIA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 1.7723717307012106,
-			"desc": 71.85,
+			"desc": "71.85",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 0.7073354909056475,
-			"desc": 34.59,
+			"desc": "34.59",
 			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS NONOAI LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS NONOAI LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS NONOAI LTDA"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 6.111450475621069,
-			"desc": 199.9,
+			"desc": "199.90",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"name": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"val": 8.342883924145216,
-			"desc": 259.99,
+			"desc": "259.99",
 			"group": "ETNA COMERCIO A VAREJO DE COMB LTDA"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.72841396012085,
-			"desc": 542.91,
+			"desc": "542.91",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 17.75389726130769,
-			"desc": 495.73,
+			"desc": "495.73",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 287.99066268422484,
-			"desc": 5763.200000000001,
+			"desc": "5763.20",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "LA BAMBINA DOCERIA E LANCHES LTDA",
 			"name": "LA BAMBINA DOCERIA E LANCHES LTDA",
 			"val": 1.2017094222239286,
-			"desc": 52.56,
+			"desc": "52.56",
 			"group": "LA BAMBINA DOCERIA E LANCHES LTDA"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 353.3894505405151,
-			"desc": 6925.07,
+			"desc": "6925.07",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 21.97167428404984,
-			"desc": 595.84,
+			"desc": "595.84",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "PREDIAL E ADMINISTRADORA HOTEIS PLAZA S/A",
 			"name": "PREDIAL E ADMINISTRADORA HOTEIS PLAZA S/A",
 			"val": 14.65618467342021,
-			"desc": 420.4,
+			"desc": "420.40",
 			"group": "PREDIAL E ADMINISTRADORA HOTEIS PLAZA S/A"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "SB CHURRASCARIA LTDA",
 			"name": "SB CHURRASCARIA LTDA",
 			"val": 3.4214197567555993,
-			"desc": 123.17,
+			"desc": "123.17",
 			"group": "SB CHURRASCARIA LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 15.230054857891195,
-			"desc": 434.49,
+			"desc": "434.49",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "LH RENT A CAR EIRELI",
 			"name": "LH RENT A CAR EIRELI",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "LH RENT A CAR EIRELI"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"val": 0.07021143267166839,
-			"desc": 6.5,
+			"desc": "6.50",
 			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 4.337638076770334,
-			"desc": 150.01,
+			"desc": "150.01",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.02661115545439128,
-			"desc": 3.6,
+			"desc": "3.60",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 16.502230759774477,
-			"desc": 465.5,
+			"desc": "465.50",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"name": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"val": 44.33671440173543,
-			"desc": 1097.45,
+			"desc": "1097.45",
 			"group": "CREDITO REAL, IMO. E CONDOMÍNIOS SA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 14.119011861892686,
-			"desc": 407.15,
+			"desc": "407.15",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "RECANTO SUL COM ADM IMOV LTDA.",
 			"name": "RECANTO SUL COM ADM IMOV LTDA.",
 			"val": 181.2784302453757,
-			"desc": 3809.81,
+			"desc": "3809.81",
 			"group": "RECANTO SUL COM ADM IMOV LTDA."
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 21.615494558171008,
-			"desc": 587.48,
+			"desc": "587.48",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.5293507468192216,
-			"desc": 126.38,
+			"desc": "126.38",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "JUREMA FATIMA DA SILVA",
 			"name": "JUREMA FATIMA DA SILVA",
 			"val": 2.4453430009056114,
-			"desc": 93.4,
+			"desc": "93.40",
 			"group": "JUREMA FATIMA DA SILVA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "CLAUDINEI RECH",
 			"name": "CLAUDINEI RECH",
 			"val": 0.1328771237954945,
-			"desc": 10,
+			"desc": "10.00",
 			"group": "CLAUDINEI RECH"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS BR NONOAI LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS BR NONOAI LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "COMERCIO DE COMBUSTIVEIS BR NONOAI LTDA"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "AUTO POSTO DALMOLIN LTDA",
 			"name": "AUTO POSTO DALMOLIN LTDA",
 			"val": 5.394491612885819,
-			"desc": 180.01,
+			"desc": "180.01",
 			"group": "AUTO POSTO DALMOLIN LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "SAN REMO POSTO SERVIÇOS LTDA",
 			"name": "SAN REMO POSTO SERVIÇOS LTDA",
 			"val": 5.753811272457751,
-			"desc": 190.02,
+			"desc": "190.02",
 			"group": "SAN REMO POSTO SERVIÇOS LTDA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "S S COMERCIO DE COMBUSTIVEIS SA",
 			"name": "S S COMERCIO DE COMBUSTIVEIS SA",
 			"val": 15.044038285566348,
-			"desc": 429.93,
+			"desc": "429.93",
 			"group": "S S COMERCIO DE COMBUSTIVEIS SA"
 		},
 		{
@@ -882,7 +883,7 @@
 			"id": "IRMAOS GRANETTO E CIA LTDA",
 			"name": "IRMAOS GRANETTO E CIA LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "IRMAOS GRANETTO E CIA LTDA"
 		},
 		{
@@ -895,7 +896,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 09",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 09",
 			"val": 6.200942033579305,
-			"desc": 202.36,
+			"desc": "202.36",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 09"
 		},
 		{
@@ -908,7 +909,7 @@
 			"id": "JC EXPOSICOES LTDA",
 			"name": "JC EXPOSICOES LTDA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "JC EXPOSICOES LTDA"
 		},
 		{
@@ -921,7 +922,7 @@
 			"id": "SERRANA COMERCIO DE ALIMENTOS LTDA",
 			"name": "SERRANA COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.2143191363673982,
-			"desc": 53,
+			"desc": "53.00",
 			"group": "SERRANA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -934,7 +935,7 @@
 			"id": "ABAST DE COMB E L G LTDA (JULIO)",
 			"name": "ABAST DE COMB E L G LTDA (JULIO)",
 			"val": 8.43798229318116,
-			"desc": 262.5,
+			"desc": "262.50",
 			"group": "ABAST DE COMB E L G LTDA (JULIO)"
 		},
 		{
@@ -947,7 +948,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -960,7 +961,7 @@
 			"id": "SS COMERCIO DE COMBUSTIVEIS SA",
 			"name": "SS COMERCIO DE COMBUSTIVEIS SA",
 			"val": 7.513252066494902,
-			"desc": 237.93,
+			"desc": "237.93",
 			"group": "SS COMERCIO DE COMBUSTIVEIS SA"
 		},
 		{

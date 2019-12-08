@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LAFAYETTE DE ANDRADA"
+			"name": "LAFAYETTE DE ANDRADA",
+			"desc": "81696.33"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 289.7693218059929,
-			"desc": 5795.1,
+			"desc": "5795.10",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 2.8559067910540294,
-			"desc": 106.1,
+			"desc": "106.10",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -139,7 +140,7 @@
 			"id": "SANTO AGOSTINHO LIVRARIA E PAPELARIA LTDA",
 			"name": "SANTO AGOSTINHO LIVRARIA E PAPELARIA LTDA",
 			"val": 21.153828425934677,
-			"desc": 576.62,
+			"desc": "576.62",
 			"group": "SANTO AGOSTINHO LIVRARIA E PAPELARIA LTDA"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "Pontual Loc Car ltda",
 			"name": "Pontual Loc Car ltda",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "Pontual Loc Car ltda"
 		},
 		{
@@ -171,7 +172,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 113.02938978240218,
-			"desc": 2502.99,
+			"desc": "2502.99",
 			"group": "CLARO S.A"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 8.742002536100616,
-			"desc": 270.5,
+			"desc": "270.50",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -251,7 +252,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 190.1871906604469,
-			"desc": 3976.4,
+			"desc": "3976.40",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "IBR NEGÓCIOS IMOBILIÁRIOS LTDA - ME",
 			"name": "IBR NEGÓCIOS IMOBILIÁRIOS LTDA - ME",
 			"val": 1953.1699662943101,
-			"desc": 32571.66,
+			"desc": "32571.66",
 			"group": "IBR NEGÓCIOS IMOBILIÁRIOS LTDA - ME"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 31.158952669843732,
-			"desc": 806.73,
+			"desc": "806.73",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 146.31815043111894,
-			"desc": 3147.93,
+			"desc": "3147.93",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "Posto Matuca",
 			"name": "Posto Matuca",
 			"val": 2.656572115733318,
-			"desc": 99.97,
+			"desc": "99.97",
 			"group": "Posto Matuca"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "COM. DE MOVEIS C. MASCARENHAS LTDA",
 			"name": "COM. DE MOVEIS C. MASCARENHAS LTDA",
 			"val": 195.02237650195852,
-			"desc": 4066.5,
+			"desc": "4066.50",
 			"group": "COM. DE MOVEIS C. MASCARENHAS LTDA"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 41.74992107819763,
-			"desc": 1041.24,
+			"desc": "1041.24",
 			"group": "SAO JOAO POSTOS"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "NEWTEC LTDA",
 			"name": "NEWTEC LTDA",
 			"val": 543.3042864952457,
-			"desc": 10200,
+			"desc": "10200.00",
 			"group": "NEWTEC LTDA"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "POSTO SERRA DAS MANSOES LTDA",
 			"name": "POSTO SERRA DAS MANSOES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO SERRA DAS MANSOES LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "Telefônica Brasil S.A. - VIVO",
 			"name": "Telefônica Brasil S.A. - VIVO",
 			"val": 123.78104817145044,
-			"desc": 2713.13,
+			"desc": "2713.13",
 			"group": "Telefônica Brasil S.A. - VIVO"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 11.839611011183512,
-			"desc": 350.2,
+			"desc": "350.20",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.7325827825028979,
-			"desc": 35.55,
+			"desc": "35.55",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "POSTO CABRAL LTDA",
 			"name": "POSTO CABRAL LTDA",
 			"val": 15.00613486514922,
-			"desc": 429,
+			"desc": "429.00",
 			"group": "POSTO CABRAL LTDA"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 76.34194943584,
-			"desc": 1769.02,
+			"desc": "1769.02",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 42.63112552788775,
-			"desc": 1060.43,
+			"desc": "1060.43",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 71.24349901679747,
-			"desc": 1664.44,
+			"desc": "1664.44",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 18.22036748577666,
-			"desc": 506.93,
+			"desc": "506.93",
 			"group": "RAMAL"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "RABELO DERIVADOS DE PETROLEO LTDA",
 			"name": "RABELO DERIVADOS DE PETROLEO LTDA",
 			"val": 6.847965511403397,
-			"desc": 220.01,
+			"desc": "220.01",
 			"group": "RABELO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 75.85676711425933,
-			"desc": 1759.1,
+			"desc": "1759.10",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.3865458546251452,
-			"desc": 58.94,
+			"desc": "58.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "POSTO TROPICO LTDA",
 			"name": "POSTO TROPICO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO TROPICO LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 6.1750953597452325,
-			"desc": 201.65,
+			"desc": "201.65",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "Auto Posto Qualidade Ltda.",
 			"name": "Auto Posto Qualidade Ltda.",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "Auto Posto Qualidade Ltda."
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 23.72209207883822,
-			"desc": 636.7,
+			"desc": "636.70",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 80.78138726896019,
-			"desc": 1859.49,
+			"desc": "1859.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{

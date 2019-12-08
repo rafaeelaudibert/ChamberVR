@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FRANCO CARTAFINA"
+			"name": "FRANCO CARTAFINA",
+			"desc": "16267.92"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"name": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"val": 7.307089433917562,
-			"desc": 232.40000000000012,
+			"desc": "232.40",
 			"group": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.625087001500625,
-			"desc": 158.26,
+			"desc": "158.26",
 			"group": "RAMAL"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 0.11411730005192323,
-			"desc": 9,
+			"desc": "9.00",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "aLL'S",
 			"name": "aLL'S",
 			"val": 2.116513091207179,
-			"desc": 83,
+			"desc": "83.00",
 			"group": "aLL'S"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 4.7513049258419064,
-			"desc": 161.85999999999999,
+			"desc": "161.86",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 3.1688260845123972,
-			"desc": 115.6,
+			"desc": "115.60",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "RESTAURANTE VARANDA DO SUL LTDA - EPP",
 			"name": "RESTAURANTE VARANDA DO SUL LTDA - EPP",
 			"val": 1.8689524715450352,
-			"desc": 75.00999999999999,
+			"desc": "75.01",
 			"group": "RESTAURANTE VARANDA DO SUL LTDA - EPP"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.7736607366092426,
-			"desc": 37.1,
+			"desc": "37.10",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 1.851779943232293,
-			"desc": 74.45,
+			"desc": "74.45",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 147.45034764040153,
-			"desc": 3169.5899999999997,
+			"desc": "3169.59",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "posto frange",
 			"name": "posto frange",
 			"val": 6.109996765964839,
-			"desc": 199.86,
+			"desc": "199.86",
 			"group": "posto frange"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.8033084474087531,
-			"desc": 38.21,
+			"desc": "38.21",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "Eden e Edhem Imoveis",
 			"name": "Eden e Edhem Imoveis",
 			"val": 73.36264631772718,
-			"desc": 1708,
+			"desc": "1708.00",
 			"group": "Eden e Edhem Imoveis"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
 			"name": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "PALADAR",
 			"name": "PALADAR",
 			"val": 0.7065489686246199,
-			"desc": 34.56,
+			"desc": "34.56",
 			"group": "PALADAR"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "E. Hotelaria e Turismo Ltda.",
 			"name": "E. Hotelaria e Turismo Ltda.",
 			"val": 4.561805301499657,
-			"desc": 156.45,
+			"desc": "156.45",
 			"group": "E. Hotelaria e Turismo Ltda."
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
 			"name": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA-ME"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "PLANETA REVENDEDORA DE COMBUSTIVEIS",
 			"name": "PLANETA REVENDEDORA DE COMBUSTIVEIS",
 			"val": 5.018916387267197,
-			"desc": 169.45,
+			"desc": "169.45",
 			"group": "PLANETA REVENDEDORA DE COMBUSTIVEIS"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "POSTO CAXUXA II LTDA",
 			"name": "POSTO CAXUXA II LTDA",
 			"val": 6.849810368253942,
-			"desc": 220.06,
+			"desc": "220.06",
 			"group": "POSTO CAXUXA II LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.533983877772148,
-			"desc": 538.29,
+			"desc": "538.29",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "REDE ESTRORIL",
 			"name": "REDE ESTRORIL",
 			"val": 15.835270818385776,
-			"desc": 449.28,
+			"desc": "449.28",
 			"group": "REDE ESTRORIL"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "E. HOTELARIA E TURISMO LTDA",
 			"name": "E. HOTELARIA E TURISMO LTDA",
 			"val": 18.902629355963196,
-			"desc": 523.25,
+			"desc": "523.25",
 			"group": "E. HOTELARIA E TURISMO LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 53.81627077256302,
-			"desc": 1300.55,
+			"desc": "1300.55",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "MACEDO & SOUZA LTDA",
 			"name": "MACEDO & SOUZA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "MACEDO & SOUZA LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "DALETH VEICULOS LTDA EPP",
 			"name": "DALETH VEICULOS LTDA EPP",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "DALETH VEICULOS LTDA EPP"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "FAUSTO E MANOEL SUL RESTAURANTE E CHOPERIA LTDA",
 			"name": "FAUSTO E MANOEL SUL RESTAURANTE E CHOPERIA LTDA",
 			"val": 1.1083920307733852,
-			"desc": 49.28,
+			"desc": "49.28",
 			"group": "FAUSTO E MANOEL SUL RESTAURANTE E CHOPERIA LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "SAVASSI HOTEL LTDA",
 			"name": "SAVASSI HOTEL LTDA",
 			"val": 4.4154317365049565,
-			"desc": 152.25,
+			"desc": "152.25",
 			"group": "SAVASSI HOTEL LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "UBERABA ONLINE LTDA",
 			"name": "UBERABA ONLINE LTDA",
 			"val": 13.427435289449393,
-			"desc": 390,
+			"desc": "390.00",
 			"group": "UBERABA ONLINE LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "ANDRADE E URIAS LTDA",
 			"name": "ANDRADE E URIAS LTDA",
 			"val": 5.325219442239062,
-			"desc": 178.07,
+			"desc": "178.07",
 			"group": "ANDRADE E URIAS LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "Havanna Pallace Hotelaria Ltda-EPP",
 			"name": "Havanna Pallace Hotelaria Ltda-EPP",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "Havanna Pallace Hotelaria Ltda-EPP"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.4514150301023667,
-			"desc": 93.59,
+			"desc": "93.59",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC .BR",
 			"name": "NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC .BR",
 			"val": 1.8993699640868498,
-			"desc": 76,
+			"desc": "76.00",
 			"group": "NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC .BR"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "RIO GRANDE ARTES GRAFICAS LTDA.",
 			"name": "RIO GRANDE ARTES GRAFICAS LTDA.",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "RIO GRANDE ARTES GRAFICAS LTDA."
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 26.223850195700308,
-			"desc": 694.5,
+			"desc": "694.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RICARDO GUIDI"
+			"name": "RICARDO GUIDI",
+			"desc": "28422.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 12.194894036741992,
-			"desc": 359.15999999999997,
+			"desc": "359.16",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "POSTO ECONOMIC LTDA",
 			"name": "POSTO ECONOMIC LTDA",
 			"val": 9.071877003826238,
-			"desc": 279.14,
+			"desc": "279.14",
 			"group": "POSTO ECONOMIC LTDA"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "FABRICA DE COSTELA RESTAURANTE LTDA",
 			"name": "FABRICA DE COSTELA RESTAURANTE LTDA",
 			"val": 3.66856693020948,
-			"desc": 130.5,
+			"desc": "130.50",
 			"group": "FABRICA DE COSTELA RESTAURANTE LTDA"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 16.751845706932,
-			"desc": 471.55,
+			"desc": "471.55",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "TAYPA RESTO BAR PERUANO LTDA",
 			"name": "TAYPA RESTO BAR PERUANO LTDA",
 			"val": 12.353523062859022,
-			"desc": 363.15,
+			"desc": "363.15",
 			"group": "TAYPA RESTO BAR PERUANO LTDA"
 		},
 		{
@@ -148,7 +149,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 430.54603497876707,
-			"desc": 8270.93,
+			"desc": "8270.93",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 419.60580280877656,
-			"desc": 8081.519999999999,
+			"desc": "8081.52",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (RT BRASILIA ALVORADA)",
 			"name": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (RT BRASILIA ALVORADA)",
 			"val": 104.185381162414,
-			"desc": 2328.63,
+			"desc": "2328.63",
 			"group": "LA HOTELS EMPREENDIMENTOS 1 LTDA - (RT BRASILIA ALVORADA)"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "AERO PM 1 COMERCIO DE ALIMENTOS LTDA",
 			"name": "AERO PM 1 COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "AERO PM 1 COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 34.84460709256731,
-			"desc": 889.22,
+			"desc": "889.22",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 4.133322049175649,
-			"desc": 144.1,
+			"desc": "144.10",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 0.4353390964336393,
-			"desc": 23.8,
+			"desc": "23.80",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "SUB T3 LANCHONETE LTDA ME",
 			"name": "SUB T3 LANCHONETE LTDA ME",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "SUB T3 LANCHONETE LTDA ME"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "DIAN COM DE ALIMENTOS LTDA",
 			"name": "DIAN COM DE ALIMENTOS LTDA",
 			"val": 1.81873030217624,
-			"desc": 73.37,
+			"desc": "73.37",
 			"group": "DIAN COM DE ALIMENTOS LTDA"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 23.790949526479697,
-			"desc": 638.3,
+			"desc": "638.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "TPC COMERCIO DE PRODUTOS ALIMENTICIOS EIRELI",
 			"name": "TPC COMERCIO DE PRODUTOS ALIMENTICIOS EIRELI",
 			"val": 0.9608599648801642,
-			"desc": 44,
+			"desc": "44.00",
 			"group": "TPC COMERCIO DE PRODUTOS ALIMENTICIOS EIRELI"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 1.234998604437376,
-			"desc": 53.72,
+			"desc": "53.72",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "AUTO POSTO MAP LTDA",
 			"name": "AUTO POSTO MAP LTDA",
 			"val": 8.953721270316834,
-			"desc": 276.05,
+			"desc": "276.05",
 			"group": "AUTO POSTO MAP LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 47.09439982561182,
-			"desc": 1156.98,
+			"desc": "1156.98",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "POSTO OLIVIA",
 			"name": "POSTO OLIVIA",
 			"val": 7.36703390115354,
-			"desc": 234.01,
+			"desc": "234.01",
 			"group": "POSTO OLIVIA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "MILANO COMERCIO VAREJISTA DE ALIMENTOS S A",
 			"name": "MILANO COMERCIO VAREJISTA DE ALIMENTOS S A",
 			"val": 0.21111392156768968,
-			"desc": 13.9,
+			"desc": "13.90",
 			"group": "MILANO COMERCIO VAREJISTA DE ALIMENTOS S A"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "Nipo Temaki Restaurantes  ltda",
 			"name": "Nipo Temaki Restaurantes  ltda",
 			"val": 2.135288138837513,
-			"desc": 83.6,
+			"desc": "83.60",
 			"group": "Nipo Temaki Restaurantes  ltda"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "A. ANGELONI & CIA. LTDA",
 			"name": "A. ANGELONI & CIA. LTDA",
 			"val": 6.7517553899696985,
-			"desc": 217.4,
+			"desc": "217.40",
 			"group": "A. ANGELONI & CIA. LTDA"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "LUGACA RESTAURANTE E PIZZARIA EIRELI",
 			"name": "LUGACA RESTAURANTE E PIZZARIA EIRELI",
 			"val": 1.580756826402812,
-			"desc": 65.5,
+			"desc": "65.50",
 			"group": "LUGACA RESTAURANTE E PIZZARIA EIRELI"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.322335741958597,
-			"desc": 56.74,
+			"desc": "56.74",
 			"group": "RAMAL"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "DYLMO DE ALMEIDA COELHO E CIA LTDA EPP",
 			"name": "DYLMO DE ALMEIDA COELHO E CIA LTDA EPP",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "DYLMO DE ALMEIDA COELHO E CIA LTDA EPP"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "DISTRIBUIDORA DE COMBUSTIVEIS ROSSO LTDA",
 			"name": "DISTRIBUIDORA DE COMBUSTIVEIS ROSSO LTDA",
 			"val": 5.831029285992334,
-			"desc": 192.16,
+			"desc": "192.16",
 			"group": "DISTRIBUIDORA DE COMBUSTIVEIS ROSSO LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 13.830976830623355,
-			"desc": 400.02,
+			"desc": "400.02",
 			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
 			"name": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
 			"val": 0.39242998244008215,
-			"desc": 22,
+			"desc": "22.00",
 			"group": "GDTA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 0.7418249544311649,
-			"desc": 35.9,
+			"desc": "35.90",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 12.312151658940381,
-			"desc": 362.11,
+			"desc": "362.11",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.49918566877637194,
-			"desc": 26.42,
+			"desc": "26.42",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "CAROLINE BURIGO TAVARES ME",
 			"name": "CAROLINE BURIGO TAVARES ME",
 			"val": 1.1033066798555278,
-			"desc": 49.1,
+			"desc": "49.10",
 			"group": "CAROLINE BURIGO TAVARES ME"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "CASA DO CHEF COMERCIO DE ALIM. LTDA EPP",
 			"name": "CASA DO CHEF COMERCIO DE ALIM. LTDA EPP",
 			"val": 1.1543292877419447,
-			"desc": 50.9,
+			"desc": "50.90",
 			"group": "CASA DO CHEF COMERCIO DE ALIM. LTDA EPP"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "ML ALIMENTACAO E DIVERSOES SA",
 			"name": "ML ALIMENTACAO E DIVERSOES SA",
 			"val": 5.909108425800866,
-			"desc": 194.32,
+			"desc": "194.32",
 			"group": "ML ALIMENTACAO E DIVERSOES SA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "LA PAUSA CAFES ESPECIAIS - LTDA",
 			"name": "LA PAUSA CAFES ESPECIAIS - LTDA",
 			"val": 6.3336764343989715,
-			"desc": 206,
+			"desc": "206.00",
 			"group": "LA PAUSA CAFES ESPECIAIS - LTDA"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "WRC RESTAURANTES LTDA",
 			"name": "WRC RESTAURANTES LTDA",
 			"val": 1.7450097951293508,
-			"desc": 70.95,
+			"desc": "70.95",
 			"group": "WRC RESTAURANTES LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "SAN PIETRO COM. DE COMBUSTIVEIS E LUBRIF. LTDA",
 			"name": "SAN PIETRO COM. DE COMBUSTIVEIS E LUBRIF. LTDA",
 			"val": 4.684631669882494,
-			"desc": 159.96,
+			"desc": "159.96",
 			"group": "SAN PIETRO COM. DE COMBUSTIVEIS E LUBRIF. LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "AUTO POSTO RINCAO LTDA",
 			"name": "AUTO POSTO RINCAO LTDA",
 			"val": 5.804312095599438,
-			"desc": 191.42,
+			"desc": "191.42",
 			"group": "AUTO POSTO RINCAO LTDA"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 0.32034045819212703,
-			"desc": 18.89,
+			"desc": "18.89",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "CONCESSIONARIA DO AEROPORTO INTERNACIONAL DE FLORIANOPOLIS S.A.",
 			"name": "CONCESSIONARIA DO AEROPORTO INTERNACIONAL DE FLORIANOPOLIS S.A.",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "CONCESSIONARIA DO AEROPORTO INTERNACIONAL DE FLORIANOPOLIS S.A."
 		},
 		{
@@ -887,7 +888,7 @@
 			"id": "LAVIDETOX FOR LIFE GASTRONOMIA FUNCIONAL EIRELI",
 			"name": "LAVIDETOX FOR LIFE GASTRONOMIA FUNCIONAL EIRELI",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "LAVIDETOX FOR LIFE GASTRONOMIA FUNCIONAL EIRELI"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "MFT EMPREENDIMENTOS ALIMENTICIOS",
 			"name": "MFT EMPREENDIMENTOS ALIMENTICIOS",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "MFT EMPREENDIMENTOS ALIMENTICIOS"
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "POSTO PLANALTO",
 			"name": "POSTO PLANALTO",
 			"val": 5.2318601453078895,
-			"desc": 175.45,
+			"desc": "175.45",
 			"group": "POSTO PLANALTO"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "OSCAR HOTEL LTDA.",
 			"name": "OSCAR HOTEL LTDA.",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "OSCAR HOTEL LTDA."
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 15.169242607906687,
-			"desc": 433,
+			"desc": "433.00",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{

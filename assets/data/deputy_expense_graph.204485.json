@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZ CARLOS MOTTA"
+			"name": "LUIZ CARLOS MOTTA",
+			"desc": "65644.64"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1366.2656052906582,
-			"desc": 23521.149999999998,
+			"desc": "23521.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -138,7 +139,7 @@
 			"id": "AUTO POSTO DUQUE REBOUCAS I LTDA",
 			"name": "AUTO POSTO DUQUE REBOUCAS I LTDA",
 			"val": 7.966913312568141,
-			"desc": 250.03,
+			"desc": "250.03",
 			"group": "AUTO POSTO DUQUE REBOUCAS I LTDA"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "SOLARYS SOLUCOES DIGITAIS LTDA",
 			"name": "SOLARYS SOLUCOES DIGITAIS LTDA",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "SOLARYS SOLUCOES DIGITAIS LTDA"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 36.77097230693215,
-			"desc": 931.94,
+			"desc": "931.94",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -261,7 +262,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 25.565329716086527,
-			"desc": 679.35,
+			"desc": "679.35",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 208.52838984643097,
-			"desc": 4317.06,
+			"desc": "4317.06",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"name": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"val": 596.6592792919424,
-			"desc": 11100,
+			"desc": "11100.00",
 			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 55.54444692591962,
-			"desc": 1337.1399999999999,
+			"desc": "1337.14",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.627886749491277,
-			"desc": 158.34,
+			"desc": "158.34",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "Paulo Roberto Zaidan Maluf",
 			"name": "Paulo Roberto Zaidan Maluf",
 			"val": 490.40815803283857,
-			"desc": 9300,
+			"desc": "9300.00",
 			"group": "Paulo Roberto Zaidan Maluf"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "Condomínio Navarro Building",
 			"name": "Condomínio Navarro Building",
 			"val": 119.76964832464913,
-			"desc": 2634.95,
+			"desc": "2634.95",
 			"group": "Condomínio Navarro Building"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "POSTO SEM LIMITES LTDA",
 			"name": "POSTO SEM LIMITES LTDA",
 			"val": 4.688488163558117,
-			"desc": 160.07,
+			"desc": "160.07",
 			"group": "POSTO SEM LIMITES LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 23.00135853264329,
-			"desc": 619.9200000000001,
+			"desc": "619.92",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 164.7118823255749,
-			"desc": 3497.88,
+			"desc": "3497.88",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "AUTO POSTO FREITAS LT",
 			"name": "AUTO POSTO FREITAS LT",
 			"val": 6.119083208895377,
-			"desc": 200.11,
+			"desc": "200.11",
 			"group": "AUTO POSTO FREITAS LT"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.317322142797698,
-			"desc": 362.24,
+			"desc": "362.24",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "POSTO MONTE CARLO DAMHA RIO PRETO LTDA",
 			"name": "POSTO MONTE CARLO DAMHA RIO PRETO LTDA",
 			"val": 9.045858078325018,
-			"desc": 278.46,
+			"desc": "278.46",
 			"group": "POSTO MONTE CARLO DAMHA RIO PRETO LTDA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.599550096437996,
-			"desc": 157.53,
+			"desc": "157.53",
 			"group": "RAMAL"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.685683397605888,
-			"desc": 159.99,
+			"desc": "159.99",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "AUTO POSTO SAO MARCOS LTDA",
 			"name": "AUTO POSTO SAO MARCOS LTDA",
 			"val": 3.7884448795711676,
-			"desc": 134.03,
+			"desc": "134.03",
 			"group": "AUTO POSTO SAO MARCOS LTDA"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "PERES e PERES LTDA",
 			"name": "PERES e PERES LTDA",
 			"val": 5.754532294731712,
-			"desc": 190.04,
+			"desc": "190.04",
 			"group": "PERES e PERES LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "AUTO POSTO BRISAS MIRAGAIA LTDA",
 			"name": "AUTO POSTO BRISAS MIRAGAIA LTDA",
 			"val": 6.374958250969799,
-			"desc": 207.13,
+			"desc": "207.13",
 			"group": "AUTO POSTO BRISAS MIRAGAIA LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 21.29611438081635,
-			"desc": 579.97,
+			"desc": "579.97",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "MIRANDA TURISMO E REPRESENTACOES LTDA",
 			"name": "MIRANDA TURISMO E REPRESENTACOES LTDA",
 			"val": 75.22680610040649,
-			"desc": 1746.21,
+			"desc": "1746.21",
 			"group": "MIRANDA TURISMO E REPRESENTACOES LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 29.72746629705869,
-			"desc": 774.4,
+			"desc": "774.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 19.88808345022477,
-			"desc": 546.7,
+			"desc": "546.70",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MAURO LOPES"
+			"name": "MAURO LOPES",
+			"desc": "77304.25"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 807.5820441822315,
-			"desc": 14595.009999999998,
+			"desc": "14595.01",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 291.12713731076934,
-			"desc": 5819.4400000000005,
+			"desc": "5819.44",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -205,7 +206,7 @@
 			"id": "LOCADORA DE VEICULOS FLORESTA LTDA",
 			"name": "LOCADORA DE VEICULOS FLORESTA LTDA",
 			"val": 369.0368983070507,
-			"desc": 7200,
+			"desc": "7200.00",
 			"group": "LOCADORA DE VEICULOS FLORESTA LTDA"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "JETFLY REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"name": "JETFLY REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"val": 464.9660825594712,
-			"desc": 8864.09,
+			"desc": "8864.09",
 			"group": "JETFLY REVENDEDORA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -285,7 +286,7 @@
 			"id": "PAMPULHA ABASTECIMENTO DE AERONAVES LTDA",
 			"name": "PAMPULHA ABASTECIMENTO DE AERONAVES LTDA",
 			"val": 79.52794684749333,
-			"desc": 1834,
+			"desc": "1834.00",
 			"group": "PAMPULHA ABASTECIMENTO DE AERONAVES LTDA"
 		},
 		{
@@ -298,7 +299,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 14.361551093790114,
-			"desc": 413.14,
+			"desc": "413.14",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 41.44777730429632,
-			"desc": 1034.6499999999999,
+			"desc": "1034.65",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 103.90558361212499,
-			"desc": 2323.09,
+			"desc": "2323.09",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -416,7 +417,7 @@
 			"id": "CONDOMINIO DO EDIFICIO CARLA",
 			"name": "CONDOMINIO DO EDIFICIO CARLA",
 			"val": 176.10028779100642,
-			"desc": 3712.62,
+			"desc": "3712.62",
 			"group": "CONDOMINIO DO EDIFICIO CARLA"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "AMARIL FRANKLIN ADMINISTRACAO IMOBILIARIA LTDA",
 			"name": "AMARIL FRANKLIN ADMINISTRACAO IMOBILIARIA LTDA",
 			"val": 178.7426916683668,
-			"desc": 3762.25,
+			"desc": "3762.25",
 			"group": "AMARIL FRANKLIN ADMINISTRACAO IMOBILIARIA LTDA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "GARDINUS RESTAURANTE & BUFFET LTDA.",
 			"name": "GARDINUS RESTAURANTE & BUFFET LTDA.",
 			"val": 35.85504834177941,
-			"desc": 911.66,
+			"desc": "911.66",
 			"group": "GARDINUS RESTAURANTE & BUFFET LTDA."
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "RDC REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"name": "RDC REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"val": 18.875399152490033,
-			"desc": 522.6,
+			"desc": "522.60",
 			"group": "RDC REVENDEDORA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"name": "TRANSMOURA LOCADORA DE VEICULOS LTDA.",
 			"val": 484.5609877666079,
-			"desc": 9200,
+			"desc": "9200.00",
 			"group": "TRANSMOURA LOCADORA DE VEICULOS LTDA."
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 2.393025001189933,
-			"desc": 91.75999999999999,
+			"desc": "91.76",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "J MANSUR LIVRARIA E PAPELARIA EIRELI",
 			"name": "J MANSUR LIVRARIA E PAPELARIA EIRELI",
 			"val": 16.52696578802361,
-			"desc": 466.1,
+			"desc": "466.10",
 			"group": "J MANSUR LIVRARIA E PAPELARIA EIRELI"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 9.472530325438456,
-			"desc": 289.58,
+			"desc": "289.58",
 			"group": "CLARO S/A"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 128.86384810583715,
-			"desc": 2811.83,
+			"desc": "2811.83",
 			"group": "CLARO S.A"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "FILIBRAS COMERCIAL IMPORTACAO E EXPORTACAO LTDA",
 			"name": "FILIBRAS COMERCIAL IMPORTACAO E EXPORTACAO LTDA",
 			"val": 13.427435289449393,
-			"desc": 390,
+			"desc": "390.00",
 			"group": "FILIBRAS COMERCIAL IMPORTACAO E EXPORTACAO LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 97.98849786803808,
-			"desc": 2205.57,
+			"desc": "2205.57",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.546308836303066,
-			"desc": 184.25,
+			"desc": "184.25",
 			"group": "RAMAL"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.7304730710817666,
-			"desc": 35.47,
+			"desc": "35.47",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 10.187788112193193,
-			"desc": 308.08,
+			"desc": "308.08",
 			"group": "NET CLARO"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "las casas empreendimentos ltda",
 			"name": "las casas empreendimentos ltda",
 			"val": 284.46981344981987,
-			"desc": 5700,
+			"desc": "5700.00",
 			"group": "las casas empreendimentos ltda"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.18117607709159977,
-			"desc": 12.45,
+			"desc": "12.45",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 3.154562114050895,
-			"desc": 115.17,
+			"desc": "115.17",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "MUNICIPIO DE BELO HORIZONTE",
 			"name": "MUNICIPIO DE BELO HORIZONTE",
 			"val": 8.940350478115054,
-			"desc": 275.7,
+			"desc": "275.70",
 			"group": "MUNICIPIO DE BELO HORIZONTE"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
 			"name": "VITORIA ORGANIZACOES EM PETROLEO LTDA",
 			"val": 84.56655515287127,
-			"desc": 1936.22,
+			"desc": "1936.22",
 			"group": "VITORIA ORGANIZACOES EM PETROLEO LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.6104052130834106,
-			"desc": 66.49,
+			"desc": "66.49",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "Air BP Brasil LTDA",
 			"name": "Air BP Brasil LTDA",
 			"val": 27.46910038167969,
-			"desc": 723.03,
+			"desc": "723.03",
 			"group": "Air BP Brasil LTDA"
 		},
 		{

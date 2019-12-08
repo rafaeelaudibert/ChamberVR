@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARIA ROSAS"
+			"name": "MARIA ROSAS",
+			"desc": "65377.32"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 1391.0888070429912,
-			"desc": 23909.590000000007,
+			"desc": "23909.59",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.219678275335276,
-			"desc": 482.86,
+			"desc": "482.86",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "AUTO POSTO STATUS DO MORUMBI LTDA",
 			"name": "AUTO POSTO STATUS DO MORUMBI LTDA",
 			"val": 44.58518787287474,
-			"desc": 1102.83,
+			"desc": "1102.83",
 			"group": "AUTO POSTO STATUS DO MORUMBI LTDA"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "HD IMAGENS AGENCIA DE PUBLICIDADE",
 			"name": "HD IMAGENS AGENCIA DE PUBLICIDADE",
 			"val": 284.46981344981987,
-			"desc": 5700,
+			"desc": "5700.00",
 			"group": "HD IMAGENS AGENCIA DE PUBLICIDADE"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.3301899516935551,
-			"desc": 57.01,
+			"desc": "57.01",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "AUTO POSTO DUQUE PIRATININS LTDA",
 			"name": "AUTO POSTO DUQUE PIRATININS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO DUQUE PIRATININS LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "LIBERDADE AUTO POSTO DE SERVICOS E CONVENIENCIAS",
 			"name": "LIBERDADE AUTO POSTO DE SERVICOS E CONVENIENCIAS",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "LIBERDADE AUTO POSTO DE SERVICOS E CONVENIENCIAS"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "CHARM RENT A CAR LTDA",
 			"name": "CHARM RENT A CAR LTDA",
 			"val": 323.682718458233,
-			"desc": 6400,
+			"desc": "6400.00",
 			"group": "CHARM RENT A CAR LTDA"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 79.84738353713546,
-			"desc": 1840.4999999999998,
+			"desc": "1840.50",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 28.915780893727586,
-			"desc": 755.99,
+			"desc": "755.99",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"name": "QUASAR LOCADORA DE VEICULOS LTDA - EPP",
 			"val": 488.53638521567666,
-			"desc": 9268,
+			"desc": "9268.00",
 			"group": "QUASAR LOCADORA DE VEICULOS LTDA - EPP"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "HD IMAGENS AGENCIA E PUBLICIDADE",
 			"name": "HD IMAGENS AGENCIA E PUBLICIDADE",
 			"val": 284.46981344981987,
-			"desc": 5700,
+			"desc": "5700.00",
 			"group": "HD IMAGENS AGENCIA E PUBLICIDADE"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "BELA VISTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTD",
 			"name": "BELA VISTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTD",
 			"val": 15.915688116315955,
-			"desc": 451.24,
+			"desc": "451.24",
 			"group": "BELA VISTA COMERCIO VAREJISTA DE COMBUSTIVEIS LTD"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "AUTO POSTO IMPERIO LTDA",
 			"name": "AUTO POSTO IMPERIO LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "AUTO POSTO IMPERIO LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "AUTO POSTO OBJETIVO LTDA",
 			"name": "AUTO POSTO OBJETIVO LTDA",
 			"val": 5.969932517786323,
-			"desc": 196,
+			"desc": "196.00",
 			"group": "AUTO POSTO OBJETIVO LTDA"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "NEXTEL TELECOMUNICAÇÕES LTDA",
 			"name": "NEXTEL TELECOMUNICAÇÕES LTDA",
 			"val": 15.01754542468505,
-			"desc": 429.28,
+			"desc": "429.28",
 			"group": "NEXTEL TELECOMUNICAÇÕES LTDA"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 4.133322049175649,
-			"desc": 144.1,
+			"desc": "144.10",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -678,7 +679,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 81.34065298418317,
-			"desc": 1870.85,
+			"desc": "1870.85",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "OSWALDO MARINHO FUNDAO NETO 00642180156",
 			"name": "OSWALDO MARINHO FUNDAO NETO 00642180156",
 			"val": 42.15192917272464,
-			"desc": 1050,
+			"desc": "1050.00",
 			"group": "OSWALDO MARINHO FUNDAO NETO 00642180156"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "POSTO MOUTINHO LTDA",
 			"name": "POSTO MOUTINHO LTDA",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "POSTO MOUTINHO LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "14 - BONAPARTE HOTEL - ABITARE HOTELARIA",
 			"name": "14 - BONAPARTE HOTEL - ABITARE HOTELARIA",
 			"val": 33.838330285964915,
-			"desc": 866.8,
+			"desc": "866.80",
 			"group": "14 - BONAPARTE HOTEL - ABITARE HOTELARIA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.018669508741223,
-			"desc": 79.86,
+			"desc": "79.86",
 			"group": "RAMAL"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 48.198189344108236,
-			"desc": 1180.7,
+			"desc": "1180.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "AUTO POSTO DUQUE JK LTDA",
 			"name": "AUTO POSTO DUQUE JK LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DUQUE JK LTDA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "AUTO EIXO 208 NORTE LTDA",
 			"name": "AUTO EIXO 208 NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO EIXO 208 NORTE LTDA"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "MASH POSTOS E SERVICOS LTDA",
 			"name": "MASH POSTOS E SERVICOS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "MASH POSTOS E SERVICOS LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "TEMPUS SERVICOS AUTOMOTIVOS LTDA",
 			"name": "TEMPUS SERVICOS AUTOMOTIVOS LTDA",
 			"val": 4.395617876511431,
-			"desc": 151.68,
+			"desc": "151.68",
 			"group": "TEMPUS SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{

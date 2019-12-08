@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DULCE MIRANDA"
+			"name": "DULCE MIRANDA",
+			"desc": "112736.15"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "REDE K COMBUSTIVEIS LTDA",
 			"name": "REDE K COMBUSTIVEIS LTDA",
 			"val": 4.435953789635012,
-			"desc": 152.84,
+			"desc": "152.84",
 			"group": "REDE K COMBUSTIVEIS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 597.1491783312587,
-			"desc": 11108.230000000001,
+			"desc": "11108.23",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 15.34931596485492,
-			"desc": 437.41,
+			"desc": "437.41",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "GRAFICA E EDITORA SANTO EXPEDITO",
 			"name": "GRAFICA E EDITORA SANTO EXPEDITO",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "GRAFICA E EDITORA SANTO EXPEDITO"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "RAKA COMUNICACOES LTDA",
 			"name": "RAKA COMUNICACOES LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "RAKA COMUNICACOES LTDA"
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "AW7 COMUNICAÇÃO E MARKETING-EIRELI",
 			"name": "AW7 COMUNICAÇÃO E MARKETING-EIRELI",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "AW7 COMUNICAÇÃO E MARKETING-EIRELI"
 		},
 		{
@@ -299,7 +300,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 10.693089308841358,
-			"desc": 321.05,
+			"desc": "321.05",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -324,7 +325,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 10.537704224354044,
-			"desc": 317.07000000000005,
+			"desc": "317.07",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 109.91793290369299,
-			"desc": 2441.8099999999995,
+			"desc": "2441.81",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 7.565563484189184,
-			"desc": 239.33,
+			"desc": "239.33",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "COMBUSTIVEL RUBI LTDA",
 			"name": "COMBUSTIVEL RUBI LTDA",
 			"val": 3.018038623990819,
-			"desc": 111.04,
+			"desc": "111.04",
 			"group": "COMBUSTIVEL RUBI LTDA"
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.9892062810961035,
-			"desc": 78.91,
+			"desc": "78.91",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 39.414835461728444,
-			"desc": 990.17,
+			"desc": "990.17",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "POSTO 89 LTDA",
 			"name": "POSTO 89 LTDA",
 			"val": 11.637578922169805,
-			"desc": 345.09000000000003,
+			"desc": "345.09",
 			"group": "POSTO 89 LTDA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "MCM COMBUSTÍVEIS",
 			"name": "MCM COMBUSTÍVEIS",
 			"val": 10.848367643117642,
-			"desc": 325.02,
+			"desc": "325.02",
 			"group": "MCM COMBUSTÍVEIS"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "CARRARO E CARRARO LTDA",
 			"name": "CARRARO E CARRARO LTDA",
 			"val": 2446.033980727912,
-			"desc": 40000,
+			"desc": "40000.00",
 			"group": "CARRARO E CARRARO LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "LIVRARIA E PAPELARIA AGUAS CLARAS LTDA",
 			"name": "LIVRARIA E PAPELARIA AGUAS CLARAS LTDA",
 			"val": 5.767512771469115,
-			"desc": 190.4,
+			"desc": "190.40",
 			"group": "LIVRARIA E PAPELARIA AGUAS CLARAS LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 42.515292083334515,
-			"desc": 1057.9099999999999,
+			"desc": "1057.91",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "EDSON JOSE FERRAZ",
 			"name": "EDSON JOSE FERRAZ",
 			"val": 599.7278289130555,
-			"desc": 11151.539999999999,
+			"desc": "11151.54",
 			"group": "EDSON JOSE FERRAZ"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "MINAS PETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MINAS PETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 19.093790389624548,
-			"desc": 527.81,
+			"desc": "527.81",
 			"group": "MINAS PETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 16.08488848109792,
-			"desc": 455.36,
+			"desc": "455.36",
 			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "AUTO POSTO MEDALHAO LTDA",
 			"name": "AUTO POSTO MEDALHAO LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "AUTO POSTO MEDALHAO LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.2500320459471683,
-			"desc": 87.25,
+			"desc": "87.25",
 			"group": "RAMAL"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "OCCUR COMUNICAÇÃO E TECNOLOGIA – EIRELI ME",
 			"name": "OCCUR COMUNICAÇÃO E TECNOLOGIA – EIRELI ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "OCCUR COMUNICAÇÃO E TECNOLOGIA – EIRELI ME"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "PETROLIDER-COM. DE COMB. E DER. DE PET. LTDA",
 			"name": "PETROLIDER-COM. DE COMB. E DER. DE PET. LTDA",
 			"val": 6.116538823098268,
-			"desc": 200.04,
+			"desc": "200.04",
 			"group": "PETROLIDER-COM. DE COMB. E DER. DE PET. LTDA"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "BASE ATACADISTA LTDA",
 			"name": "BASE ATACADISTA LTDA",
 			"val": 6.402011649905494,
-			"desc": 207.87,
+			"desc": "207.87",
 			"group": "BASE ATACADISTA LTDA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "POSTO VENTANIA LTDA",
 			"name": "POSTO VENTANIA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO VENTANIA LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "ROGERIO TELES CORREIRA -ME",
 			"name": "ROGERIO TELES CORREIRA -ME",
 			"val": 346.2918776438817,
-			"desc": 6800,
+			"desc": "6800.00",
 			"group": "ROGERIO TELES CORREIRA -ME"
 		},
 		{

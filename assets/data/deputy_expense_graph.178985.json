@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MIGUEL LOMBARDI"
+			"name": "MIGUEL LOMBARDI",
+			"desc": "24260.59"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "BRK Ambiental",
 			"name": "BRK Ambiental",
 			"val": 5.619195047376219,
-			"desc": 186.27999999999997,
+			"desc": "186.28",
 			"group": "BRK Ambiental"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "AUTO POSTO SANTA LUCIA DE LIMEIRA LTDA",
 			"name": "AUTO POSTO SANTA LUCIA DE LIMEIRA LTDA",
 			"val": 3.972861084789501,
-			"desc": 139.43,
+			"desc": "139.43",
 			"group": "AUTO POSTO SANTA LUCIA DE LIMEIRA LTDA"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 10.953348725568697,
-			"desc": 327.70000000000005,
+			"desc": "327.70",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "PAPELARIA BELA VISTA LTDA ME",
 			"name": "PAPELARIA BELA VISTA LTDA ME",
 			"val": 15.13252470354198,
-			"desc": 432.1,
+			"desc": "432.10",
 			"group": "PAPELARIA BELA VISTA LTDA ME"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 26.04022729570341,
-			"desc": 690.28,
+			"desc": "690.28",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 42.478067257503945,
-			"desc": 1057.1,
+			"desc": "1057.10",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 3.265264299977775,
-			"desc": 118.5,
+			"desc": "118.50",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "OK CENTRO DE ABASTECIMENTO DE COMBUSTIVEIS EIRELI",
 			"name": "OK CENTRO DE ABASTECIMENTO DE COMBUSTIVEIS EIRELI",
 			"val": 5.647234613017815,
-			"desc": 187.06,
+			"desc": "187.06",
 			"group": "OK CENTRO DE ABASTECIMENTO DE COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "JARJOUR FILIAL - 206 NORTE",
 			"name": "JARJOUR FILIAL - 206 NORTE",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "JARJOUR FILIAL - 206 NORTE"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 5.363054154500232,
-			"desc": 179.13,
+			"desc": "179.13",
 			"group": "Oi S.A"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"name": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"val": 7.176998036383117,
-			"desc": 228.9,
+			"desc": "228.90",
 			"group": "WMS SUPERMERCADOS DO BRASIL LTDA"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 24.137738543136273,
-			"desc": 646.35,
+			"desc": "646.35",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "S.W.L.MODAS LTDA - EPP",
 			"name": "S.W.L.MODAS LTDA - EPP",
 			"val": 5.183843094320668,
-			"desc": 174.1,
+			"desc": "174.10",
 			"group": "S.W.L.MODAS LTDA - EPP"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 13.829766442311687,
-			"desc": 399.99,
+			"desc": "399.99",
 			"group": "Telefônia Brasil S/A"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"name": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"val": 0.1640728545711457,
-			"desc": 11.6,
+			"desc": "11.60",
 			"group": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "ELEKTRO REDES S.A.",
 			"name": "ELEKTRO REDES S.A.",
 			"val": 42.327825701571356,
-			"desc": 1053.83,
+			"desc": "1053.83",
 			"group": "ELEKTRO REDES S.A."
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "POSTO GUARDIAO DE PAULINIA LTDA",
 			"name": "POSTO GUARDIAO DE PAULINIA LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "POSTO GUARDIAO DE PAULINIA LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "AUTO POSTO 109 NORTE LTDA",
 			"name": "AUTO POSTO 109 NORTE LTDA",
 			"val": 5.297402048363993,
-			"desc": 177.29,
+			"desc": "177.29",
 			"group": "AUTO POSTO 109 NORTE LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "GAZETA DE LIMEIRA LTDA",
 			"name": "GAZETA DE LIMEIRA LTDA",
 			"val": 4.967637308107327,
-			"desc": 168,
+			"desc": "168.00",
 			"group": "GAZETA DE LIMEIRA LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "AUTO POSTO PORTAL DE LIMEIRA LTDA",
 			"name": "AUTO POSTO PORTAL DE LIMEIRA LTDA",
 			"val": 440.06838862895995,
-			"desc": 8435.44,
+			"desc": "8435.44",
 			"group": "AUTO POSTO PORTAL DE LIMEIRA LTDA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 9.423289647083818,
-			"desc": 288.29999999999995,
+			"desc": "288.30",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "ECT-Emp.Bras. de Correios e Telegrafos",
 			"name": "ECT-Emp.Bras. de Correios e Telegrafos",
 			"val": 0.6245701973429355,
-			"desc": 31.4,
+			"desc": "31.40",
 			"group": "ECT-Emp.Bras. de Correios e Telegrafos"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "GOLDEN INGÁ SUÍTE HOTEL",
 			"name": "GOLDEN INGÁ SUÍTE HOTEL",
 			"val": 10.283389625097414,
-			"desc": 310.54,
+			"desc": "310.54",
 			"group": "GOLDEN INGÁ SUÍTE HOTEL"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "CHEROKEE GRAN POSTO LT",
 			"name": "CHEROKEE GRAN POSTO LT",
 			"val": 3.1827672457711236,
-			"desc": 116.02,
+			"desc": "116.02",
 			"group": "CHEROKEE GRAN POSTO LT"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "AUTO POSTO MIRANTE LIMEIRA LTDA",
 			"name": "AUTO POSTO MIRANTE LIMEIRA LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "AUTO POSTO MIRANTE LIMEIRA LTDA"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.4870020231426118,
-			"desc": 62.35,
+			"desc": "62.35",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 5.394491612885819,
-			"desc": 180.01,
+			"desc": "180.01",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
 			"name": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
 			"val": 0.008,
-			"desc": 2,
+			"desc": "2.00",
 			"group": "CONCESSIONARIA DO RODOANEL OESTE S.A."
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 3.120763766727429,
-			"desc": 114.15,
+			"desc": "114.15",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 4.957036839816521,
-			"desc": 167.7,
+			"desc": "167.70",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "AUTO POSTO N O LTDA",
 			"name": "AUTO POSTO N O LTDA",
 			"val": 3.3872244120814163,
-			"desc": 122.15,
+			"desc": "122.15",
 			"group": "AUTO POSTO N O LTDA"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "Renovias Concessionária S/A",
 			"name": "Renovias Concessionária S/A",
 			"val": 0.1720782000346155,
-			"desc": 12,
+			"desc": "12.00",
 			"group": "Renovias Concessionária S/A"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 1.157174769762185,
-			"desc": 51,
+			"desc": "51.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.49548837855631395,
-			"desc": 26.27,
+			"desc": "26.27",
 			"group": "RAMAL"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 11.06826751441847,
-			"desc": 330.63,
+			"desc": "330.63",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
 			"name": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
 			"val": 132.54085381917284,
-			"desc": 2882.99,
+			"desc": "2882.99",
 			"group": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA."
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "GERMÂNICA LOCADORA DE VEÍCULOS LTDA",
 			"name": "GERMÂNICA LOCADORA DE VEÍCULOS LTDA",
 			"val": 190.3801592296617,
-			"desc": 3980,
+			"desc": "3980.00",
 			"group": "GERMÂNICA LOCADORA DE VEÍCULOS LTDA"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "DRIVE CAR TRANSPORTES E COMBUSTIVEIS LTDA",
 			"name": "DRIVE CAR TRANSPORTES E COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "DRIVE CAR TRANSPORTES E COMBUSTIVEIS LTDA"
 		},
 		{

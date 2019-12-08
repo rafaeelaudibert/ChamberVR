@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDUARDO CURY"
+			"name": "EDUARDO CURY",
+			"desc": "62827.59"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1039.7152073603759,
-			"desc": 18351.84,
+			"desc": "18351.84",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -138,7 +139,7 @@
 			"id": "HOTELARIA ACCORINVEST BRASIL S/A",
 			"name": "HOTELARIA ACCORINVEST BRASIL S/A",
 			"val": 11.237977041431066,
-			"desc": 334.95,
+			"desc": "334.95",
 			"group": "HOTELARIA ACCORINVEST BRASIL S/A"
 		},
 		{
@@ -151,7 +152,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 2.3841094818362722,
-			"desc": 91.48,
+			"desc": "91.48",
 			"group": "SABESP"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "CLEVELAND BARBOSA BERNARDES EIRELI",
 			"name": "CLEVELAND BARBOSA BERNARDES EIRELI",
 			"val": 8.83004423586277,
-			"desc": 272.81,
+			"desc": "272.81",
 			"group": "CLEVELAND BARBOSA BERNARDES EIRELI"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.7617232023186191,
-			"desc": 71.5,
+			"desc": "71.50",
 			"group": "RAMAL"
 		},
 		{
@@ -244,7 +245,7 @@
 			"id": "TECHWAY COMERCIAL EIRELI - ME",
 			"name": "TECHWAY COMERCIAL EIRELI - ME",
 			"val": 188.05507313886616,
-			"desc": 3936.6000000000004,
+			"desc": "3936.60",
 			"group": "TECHWAY COMERCIAL EIRELI - ME"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "SGMK TRANSPORTES E LOGÍSTICA LTDA",
 			"name": "SGMK TRANSPORTES E LOGÍSTICA LTDA",
 			"val": 731.8230832860856,
-			"desc": 13350,
+			"desc": "13350.00",
 			"group": "SGMK TRANSPORTES E LOGÍSTICA LTDA"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 80.957591635582,
-			"desc": 1863.07,
+			"desc": "1863.07",
 			"group": "COMPANHIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "KFC T2X LANCHONETE LTDA",
 			"name": "KFC T2X LANCHONETE LTDA",
 			"val": 0.7950094930018133,
-			"desc": 37.9,
+			"desc": "37.90",
 			"group": "KFC T2X LANCHONETE LTDA"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.6658600237553158,
-			"desc": 33,
+			"desc": "33.00",
 			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "PIMENTA VERDE ALIMENTOS LTDA",
 			"name": "PIMENTA VERDE ALIMENTOS LTDA",
 			"val": 2.5736391082591643,
-			"desc": 97.4,
+			"desc": "97.40",
 			"group": "PIMENTA VERDE ALIMENTOS LTDA"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 5.6749331071003795,
-			"desc": 187.82999999999998,
+			"desc": "187.83",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "BELLA E RO ALIMENTOS E BEBIDAS EIRELI",
 			"name": "BELLA E RO ALIMENTOS E BEBIDAS EIRELI",
 			"val": 1.476640684975945,
-			"desc": 62,
+			"desc": "62.00",
 			"group": "BELLA E RO ALIMENTOS E BEBIDAS EIRELI"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 59.49913171817896,
-			"desc": 1420.42,
+			"desc": "1420.42",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "ECT - Emp. Brasileira de Correios e Telégrafos",
 			"name": "ECT - Emp. Brasileira de Correios e Telégrafos",
 			"val": 7.228997797554132,
-			"desc": 230.3,
+			"desc": "230.30",
 			"group": "ECT - Emp. Brasileira de Correios e Telégrafos"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
 			"name": "SAO PAULO AIRPORT RESTAURANTES LIMITADA",
 			"val": 0.9691484054379087,
-			"desc": 44.3,
+			"desc": "44.30",
 			"group": "SAO PAULO AIRPORT RESTAURANTES LIMITADA"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 55.39638615725692,
-			"desc": 1334.01,
+			"desc": "1334.01",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.48188801634199,
-			"desc": 237.08999999999997,
+			"desc": "237.09",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "JLM RESTAURANTE LTDA EPP",
 			"name": "JLM RESTAURANTE LTDA EPP",
 			"val": 1.470725035441805,
-			"desc": 61.8,
+			"desc": "61.80",
 			"group": "JLM RESTAURANTE LTDA EPP"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "AUTO POSTO CHAPARRAL SAO JOSE LT",
 			"name": "AUTO POSTO CHAPARRAL SAO JOSE LT",
 			"val": 31.122995432944,
-			"desc": 805.92,
+			"desc": "805.92",
 			"group": "AUTO POSTO CHAPARRAL SAO JOSE LT"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "NOVA FREITAS IMOVEIS LTDA",
 			"name": "NOVA FREITAS IMOVEIS LTDA",
 			"val": 665.0698435795995,
-			"desc": 12243.77,
+			"desc": "12243.77",
 			"group": "NOVA FREITAS IMOVEIS LTDA"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "MESTRA COMUNICAÇÃO LTDA",
 			"name": "MESTRA COMUNICAÇÃO LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "MESTRA COMUNICAÇÃO LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "POSTO SHOPPING VALE JCN LTDA",
 			"name": "POSTO SHOPPING VALE JCN LTDA",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "POSTO SHOPPING VALE JCN LTDA"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA",
 			"name": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA",
 			"val": 5.322722202848075,
-			"desc": 178,
+			"desc": "178.00",
 			"group": "AVP GASTRONOMIA E COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "MADERO INDUSTRIA E COMERCIO S A",
 			"name": "MADERO INDUSTRIA E COMERCIO S A",
 			"val": 2.308528796892557,
-			"desc": 89.1,
+			"desc": "89.10",
 			"group": "MADERO INDUSTRIA E COMERCIO S A"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "EDP São Paulo Distribuição de Energia S.A",
 			"name": "EDP São Paulo Distribuição de Energia S.A",
 			"val": 10.691526227345022,
-			"desc": 321.01,
+			"desc": "321.01",
 			"group": "EDP São Paulo Distribuição de Energia S.A"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "SILVILUCI ALIMENTOS EIRELI",
 			"name": "SILVILUCI ALIMENTOS EIRELI",
 			"val": 0.4281313520576979,
-			"desc": 23.5,
+			"desc": "23.50",
 			"group": "SILVILUCI ALIMENTOS EIRELI"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "AUTO POSTO LUCKY LT",
 			"name": "AUTO POSTO LUCKY LT",
 			"val": 2.541796003906035,
-			"desc": 96.41,
+			"desc": "96.41",
 			"group": "AUTO POSTO LUCKY LT"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 0.8379973582119823,
-			"desc": 39.5,
+			"desc": "39.50",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.288846830327217,
-			"desc": 177.05,
+			"desc": "177.05",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "RETAIL SERVICES BRASIL ALIMENTACAO E BEBIDAS LTDA",
 			"name": "RETAIL SERVICES BRASIL ALIMENTACAO E BEBIDAS LTDA",
 			"val": 0.3228424910217125,
-			"desc": 19,
+			"desc": "19.00",
 			"group": "RETAIL SERVICES BRASIL ALIMENTACAO E BEBIDAS LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 5.038739921709973,
-			"desc": 170.01,
+			"desc": "170.01",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "RESTAURANTE MADERO BRASILIA LT",
 			"name": "RESTAURANTE MADERO BRASILIA LT",
 			"val": 1.2143191363673982,
-			"desc": 53,
+			"desc": "53.00",
 			"group": "RESTAURANTE MADERO BRASILIA LT"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 5.899340924293495,
-			"desc": 194.05,
+			"desc": "194.05",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 2.699641095457862,
-			"desc": 101.3,
+			"desc": "101.30",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"name": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"val": 0.49869241218414717,
-			"desc": 26.4,
+			"desc": "26.40",
 			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.2792753214029329,
-			"desc": 17.06,
+			"desc": "17.06",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.8444277187998812,
-			"desc": 74.21,
+			"desc": "74.21",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 14.639932469679087,
-			"desc": 420,
+			"desc": "420.00",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{

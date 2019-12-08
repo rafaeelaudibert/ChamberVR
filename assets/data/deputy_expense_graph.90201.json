@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PEDRO AUGUSTO BEZERRA"
+			"name": "PEDRO AUGUSTO BEZERRA",
+			"desc": "52218.40"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1098.1133352455029,
-			"desc": 19285.170000000002,
+			"desc": "19285.17",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 438.0102209918642,
-			"desc": 8399.91,
+			"desc": "8399.91",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -355,7 +356,7 @@
 			"id": "AUTO POSTO SUDOESTE LTDA",
 			"name": "AUTO POSTO SUDOESTE LTDA",
 			"val": 10.298556313079924,
-			"desc": 310.93,
+			"desc": "310.93",
 			"group": "AUTO POSTO SUDOESTE LTDA"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 168.835162828698,
-			"desc": 3575.79,
+			"desc": "3575.79",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 4.0679311300115915,
-			"desc": 142.2,
+			"desc": "142.20",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 196.74404458194172,
-			"desc": 4098.530000000001,
+			"desc": "4098.53",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
 			"name": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
 			"val": 9.388686922804842,
-			"desc": 287.4,
+			"desc": "287.40",
 			"group": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"name": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"val": 2.829121043357453,
-			"desc": 105.28,
+			"desc": "105.28",
 			"group": "ZRC COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 115.19745348711089,
-			"desc": 2545.52,
+			"desc": "2545.52",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "CEVEMA COMERCIO DE PETROLEO",
 			"name": "CEVEMA COMERCIO DE PETROLEO",
 			"val": 5.470329020564125,
-			"desc": 182.13,
+			"desc": "182.13",
 			"group": "CEVEMA COMERCIO DE PETROLEO"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.528283198308912,
-			"desc": 264.88,
+			"desc": "264.88",
 			"group": "RAMAL"
 		},
 		{
@@ -532,7 +533,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 10.078335641815897,
-			"desc": 305.26,
+			"desc": "305.26",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "CEVEMA COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"name": "CEVEMA COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"val": 22.021576617350153,
-			"desc": 597.01,
+			"desc": "597.01",
 			"group": "CEVEMA COMERCIO E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 78.83939971863859,
-			"desc": 1819.98,
+			"desc": "1819.98",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"name": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"val": 123.29906847504563,
-			"desc": 2703.75,
+			"desc": "2703.75",
 			"group": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 18.461660093473288,
-			"desc": 512.71,
+			"desc": "512.71",
 			"group": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 40.97098514952977,
-			"desc": 1024.24,
+			"desc": "1024.24",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "R. M. MACEDO PETROLEO",
 			"name": "R. M. MACEDO PETROLEO",
 			"val": 17.972375346920206,
-			"desc": 500.98,
+			"desc": "500.98",
 			"group": "R. M. MACEDO PETROLEO"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 8.122917308200433,
-			"desc": 254.17000000000002,
+			"desc": "254.17",
 			"group": "TIM S/A"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "VALE DO JAGUARIBE COMERCIAL DE PETROLEO LTDA",
 			"name": "VALE DO JAGUARIBE COMERCIAL DE PETROLEO LTDA",
 			"val": 5.4581567861538085,
-			"desc": 181.79,
+			"desc": "181.79",
 			"group": "VALE DO JAGUARIBE COMERCIAL DE PETROLEO LTDA"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "FLEX AND COMUNICACAO LTDA",
 			"name": "FLEX AND COMUNICACAO LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "FLEX AND COMUNICACAO LTDA"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )",
 			"name": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )",
 			"val": 20.21294377262127,
-			"desc": 554.4,
+			"desc": "554.40",
 			"group": "BRASIL 21 EVENTOS E HOTELARIA LTDA - ( BC )"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "VANESSA ERIKA ARAUJO DE MENEZES AGUIAR",
 			"name": "VANESSA ERIKA ARAUJO DE MENEZES AGUIAR",
 			"val": 72.97296941097044,
-			"desc": 1700,
+			"desc": "1700.00",
 			"group": "VANESSA ERIKA ARAUJO DE MENEZES AGUIAR"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.207151928817216,
-			"desc": 52.75,
+			"desc": "52.75",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
 			"name": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA",
 			"val": 16.810911269485107,
-			"desc": 472.98,
+			"desc": "472.98",
 			"group": "ESTACAO COMERCIO DE PETROLEO E SERVICOS LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "MMF COMERCIO DE ALIMENTOS LTDA",
 			"name": "MMF COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "MMF COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"val": 5.706610829831042,
-			"desc": 188.71,
+			"desc": "188.71",
 			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 11.958421717484887,
-			"desc": 353.2,
+			"desc": "353.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "JOTESSE MACEDO COMERCIAL DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JOTESSE MACEDO COMERCIAL DE DERIVADOS DE PETROLEO LTDA",
 			"val": 8.78886777435064,
-			"desc": 271.73,
+			"desc": "271.73",
 			"group": "JOTESSE MACEDO COMERCIAL DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{

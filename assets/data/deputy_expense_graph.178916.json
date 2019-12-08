@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DANIEL COELHO"
+			"name": "DANIEL COELHO",
+			"desc": "50438.60"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 826.6079027397345,
-			"desc": 14906.07,
+			"desc": "14906.07",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -138,7 +139,7 @@
 			"id": "CEMOPEL CM PETROLEO LTDA",
 			"name": "CEMOPEL CM PETROLEO LTDA",
 			"val": 29.614444929441756,
-			"desc": 771.84,
+			"desc": "771.84",
 			"group": "CEMOPEL CM PETROLEO LTDA"
 		},
 		{
@@ -169,7 +170,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 34.61766035070031,
-			"desc": 884.1700000000001,
+			"desc": "884.17",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -212,7 +213,7 @@
 			"id": "SALAPACO ALIMENTOS LTDA - EPP",
 			"name": "SALAPACO ALIMENTOS LTDA - EPP",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "SALAPACO ALIMENTOS LTDA - EPP"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "ENERGY DERIVADOS DE PETROLEO LTDA",
 			"name": "ENERGY DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ENERGY DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 124.5362514432435,
-			"desc": 2727.82,
+			"desc": "2727.82",
 			"group": "Claro S.A"
 		},
 		{
@@ -305,7 +306,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -324,7 +325,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 14.711052063731126,
-			"desc": 421.75,
+			"desc": "421.75",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "KOMBO COMERCIO DE ALIMENTOS LTDA",
 			"name": "KOMBO COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.784322803574382,
-			"desc": 37.5,
+			"desc": "37.50",
 			"group": "KOMBO COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 18.597918589550797,
-			"desc": 515.97,
+			"desc": "515.97",
 			"group": "NET CLARO"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "POSTO LETICIA PEREIRA E SANTOS LTDA",
 			"name": "POSTO LETICIA PEREIRA E SANTOS LTDA",
 			"val": 11.873259042310076,
-			"desc": 351.04999999999995,
+			"desc": "351.05",
 			"group": "POSTO LETICIA PEREIRA E SANTOS LTDA"
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.556217131949549,
-			"desc": 156.29,
+			"desc": "156.29",
 			"group": "RAMAL"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "CMV CONSULTORIA DE MERCADO VIRTUAL",
 			"name": "CMV CONSULTORIA DE MERCADO VIRTUAL",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "CMV CONSULTORIA DE MERCADO VIRTUAL"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.9622405540926235,
-			"desc": 44.05,
+			"desc": "44.05",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "POSTO PETROSHOP LTDA",
 			"name": "POSTO PETROSHOP LTDA",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "POSTO PETROSHOP LTDA"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "MAROLINDA AUTOS LTDA-ME",
 			"name": "MAROLINDA AUTOS LTDA-ME",
 			"val": 175.42898141997438,
-			"desc": 3700,
+			"desc": "3700.00",
 			"group": "MAROLINDA AUTOS LTDA-ME"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.430387186121546,
-			"desc": 152.68,
+			"desc": "152.68",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.21279195411719182,
-			"desc": 13.98,
+			"desc": "13.98",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "CJCM PETROLEO LTDA",
 			"name": "CJCM PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CJCM PETROLEO LTDA"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 1.6077063709636599,
-			"desc": 66.4,
+			"desc": "66.40",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "LEANX DO BRASIL",
 			"name": "LEANX DO BRASIL",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "LEANX DO BRASIL"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "COMERCIAL RECIFE COM DE DERIV DE PETROLEO LTDA",
 			"name": "COMERCIAL RECIFE COM DE DERIV DE PETROLEO LTDA",
 			"val": 5.751287790170665,
-			"desc": 189.95,
+			"desc": "189.95",
 			"group": "COMERCIAL RECIFE COM DE DERIV DE PETROLEO LTDA"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "POSTO ABASTECIMENTO SAO JOSE LTDA",
 			"name": "POSTO ABASTECIMENTO SAO JOSE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ABASTECIMENTO SAO JOSE LTDA"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "NODEPEL NOVAES DERIVADOS DE PETROLEO LTDA",
 			"name": "NODEPEL NOVAES DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "NODEPEL NOVAES DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "POSTO CIDADE PATRIMONIO LTDA",
 			"name": "POSTO CIDADE PATRIMONIO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO CIDADE PATRIMONIO LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 11.36940826197465,
-			"desc": 338.28999999999996,
+			"desc": "338.29",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "CUNHA DERIVADOS DE PETROLEO LTDA   EPP",
 			"name": "CUNHA DERIVADOS DE PETROLEO LTDA   EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CUNHA DERIVADOS DE PETROLEO LTDA   EPP"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
 			"name": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
 			"val": 0.9168563042010219,
-			"desc": 42.4,
+			"desc": "42.40",
 			"group": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "MEGA POSTO LTDA",
 			"name": "MEGA POSTO LTDA",
 			"val": 10.141970648156928,
-			"desc": 306.9,
+			"desc": "306.90",
 			"group": "MEGA POSTO LTDA"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "EDITORA FOLHA DE PERNAMBUCO LTDA",
 			"name": "EDITORA FOLHA DE PERNAMBUCO LTDA",
 			"val": 2.4006707998289807,
-			"desc": 92,
+			"desc": "92.00",
 			"group": "EDITORA FOLHA DE PERNAMBUCO LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "ECT- EMP.BRAS.DE CORREIOS E TELEGRAFOS",
 			"name": "ECT- EMP.BRAS.DE CORREIOS E TELEGRAFOS",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "ECT- EMP.BRAS.DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "ÁUREA CRISTINA BOTELHO FERNANDES PEIXOTO",
 			"name": "ÁUREA CRISTINA BOTELHO FERNANDES PEIXOTO",
 			"val": 60.43307383485892,
-			"desc": 1440,
+			"desc": "1440.00",
 			"group": "ÁUREA CRISTINA BOTELHO FERNANDES PEIXOTO"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "O V J DERIVADOS DE PETROLEO LTDA",
 			"name": "O V J DERIVADOS DE PETROLEO LTDA",
 			"val": 5.483579437250187,
-			"desc": 182.5,
+			"desc": "182.50",
 			"group": "O V J DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "Espólio de Paulo Gilberto Botelho Fernandes",
 			"name": "Espólio de Paulo Gilberto Botelho Fernandes",
 			"val": 60.43307383485892,
-			"desc": 1440,
+			"desc": "1440.00",
 			"group": "Espólio de Paulo Gilberto Botelho Fernandes"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.9443185766799155,
-			"desc": 43.4,
+			"desc": "43.40",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "CORREIOS - MALA DIRETA POSTAL BÁSICA",
 			"name": "CORREIOS - MALA DIRETA POSTAL BÁSICA",
 			"val": 20.261937471139234,
-			"desc": 555.56,
+			"desc": "555.56",
 			"group": "CORREIOS - MALA DIRETA POSTAL BÁSICA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 11.943364201960406,
-			"desc": 352.82,
+			"desc": "352.82",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "Companhia Energética de Pernambuco",
 			"name": "Companhia Energética de Pernambuco",
 			"val": 5.520130002379866,
-			"desc": 183.51999999999998,
+			"desc": "183.52",
 			"group": "Companhia Energética de Pernambuco"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"name": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 0.7950094930018133,
-			"desc": 37.9,
+			"desc": "37.90",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"val": 2.621996692438864,
-			"desc": 98.9,
+			"desc": "98.90",
 			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -875,7 +876,7 @@
 			"id": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
 			"name": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO NACIONAL COM DE DERIV DE PETROLEO LTDA"
 		},
 		{
@@ -888,7 +889,7 @@
 			"id": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -901,7 +902,7 @@
 			"id": "Precisa administração condominial",
 			"name": "Precisa administração condominial",
 			"val": 71.23086987715345,
-			"desc": 1664.18,
+			"desc": "1664.18",
 			"group": "Precisa administração condominial"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 18.503444494610637,
-			"desc": 513.71,
+			"desc": "513.71",
 			"group": "CLARO S/A"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 8.608823255042308,
-			"desc": 267,
+			"desc": "267.00",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{

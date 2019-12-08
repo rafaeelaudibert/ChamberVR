@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARCELO BRUM"
+			"name": "MARCELO BRUM",
+			"desc": "53755.11"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "EDITORIAL EXPRESSÃO LTDA",
 			"name": "EDITORIAL EXPRESSÃO LTDA",
 			"val": 30.86033980727912,
-			"desc": 800,
+			"desc": "800.00",
 			"group": "EDITORIAL EXPRESSÃO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CENTRAL DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "CENTRAL DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 83.8701450594631,
-			"desc": 1922.1299999999999,
+			"desc": "1922.13",
 			"group": "CENTRAL DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 52.0536299994055,
-			"desc": 1263.1,
+			"desc": "1263.10",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 654.8296115926213,
-			"desc": 12073.239999999998,
+			"desc": "12073.24",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "IRMAOS BASSOTTO LTDA",
 			"name": "IRMAOS BASSOTTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "IRMAOS BASSOTTO LTDA"
 		},
 		{
@@ -250,7 +251,7 @@
 			"id": "00 JORGE DAMIAN E CIA LTDA (POSTO)",
 			"name": "00 JORGE DAMIAN E CIA LTDA (POSTO)",
 			"val": 2.6578659408444105,
-			"desc": 100.01,
+			"desc": "100.01",
 			"group": "00 JORGE DAMIAN E CIA LTDA (POSTO)"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.0140849355739463,
-			"desc": 110.92,
+			"desc": "110.92",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "JORNAL A FOLHA LTDA",
 			"name": "JORNAL A FOLHA LTDA",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "JORNAL A FOLHA LTDA"
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA",
 			"val": 6.523206090052875,
-			"desc": 211.18,
+			"desc": "211.18",
 			"group": "COMERCIO DE COMBUSTIVEIS GAUCHAO LTDA"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"name": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"val": 6.784910977114315,
-			"desc": 218.3,
+			"desc": "218.30",
 			"group": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 5.54846126447763,
-			"desc": 184.31,
+			"desc": "184.31",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 18.666092458230498,
-			"desc": 517.6,
+			"desc": "517.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 11.221856475049934,
-			"desc": 334.53999999999996,
+			"desc": "334.54",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "F & N COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "F & N COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 39.09821702371816,
-			"desc": 983.22,
+			"desc": "983.22",
 			"group": "F & N COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 2.467724628635418,
-			"desc": 94.1,
+			"desc": "94.10",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "MAICON RIBEIRO DOS SANTOS",
 			"name": "MAICON RIBEIRO DOS SANTOS",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "MAICON RIBEIRO DOS SANTOS"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"val": 2.756464126335511,
-			"desc": 103.05000000000001,
+			"desc": "103.05",
 			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06",
 			"val": 6.6652840617734785,
-			"desc": 215.05,
+			"desc": "215.05",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "EDITORIAL EXPRESSAO LTDA",
 			"name": "EDITORIAL EXPRESSAO LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "EDITORIAL EXPRESSAO LTDA"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9338713450185117,
-			"desc": 77.12,
+			"desc": "77.12",
 			"group": "RAMAL"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "ALVARES E FILHOS LTDA",
 			"name": "ALVARES E FILHOS LTDA",
 			"val": 1.1324572190126079,
-			"desc": 50.13,
+			"desc": "50.13",
 			"group": "ALVARES E FILHOS LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "M&M AIRES COMERCIO DE COMBUSTIVEIS LTDA.",
 			"name": "M&M AIRES COMERCIO DE COMBUSTIVEIS LTDA.",
 			"val": 6.803340005702627,
-			"desc": 218.8,
+			"desc": "218.80",
 			"group": "M&M AIRES COMERCIO DE COMBUSTIVEIS LTDA."
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "POSTO DO BATISTA",
 			"name": "POSTO DO BATISTA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DO BATISTA"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 18.72215942350138,
-			"desc": 518.94,
+			"desc": "518.94",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "NICOLA IMOBILIÁRIA LTDA",
 			"name": "NICOLA IMOBILIÁRIA LTDA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "NICOLA IMOBILIÁRIA LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 7.078334876197778,
-			"desc": 226.24,
+			"desc": "226.24",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"name": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"val": 0.07860593781761292,
-			"desc": 7,
+			"desc": "7.00",
 			"group": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "STILO COMERCIO DE COMBUSTÍVEIS LTDA",
 			"name": "STILO COMERCIO DE COMBUSTÍVEIS LTDA",
 			"val": 4.760790026218258,
-			"desc": 162.13,
+			"desc": "162.13",
 			"group": "STILO COMERCIO DE COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "FELICE SERV-LOCAÇÕES E SERVIÇOS LTDA",
 			"name": "FELICE SERV-LOCAÇÕES E SERVIÇOS LTDA",
 			"val": 555.122709769298,
-			"desc": 10400,
+			"desc": "10400.00",
 			"group": "FELICE SERV-LOCAÇÕES E SERVIÇOS LTDA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 112.90971411119278,
-			"desc": 2500.64,
+			"desc": "2500.64",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "JULIO CESAR DE LIMA PRATES",
 			"name": "JULIO CESAR DE LIMA PRATES",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "JULIO CESAR DE LIMA PRATES"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 0.7662120820335927,
-			"desc": 36.82,
+			"desc": "36.82",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "VIZION GESTAO DE NEGOCIOS EMPRESARIAIS LTDA",
 			"name": "VIZION GESTAO DE NEGOCIOS EMPRESARIAIS LTDA",
 			"val": 21.55251006676575,
-			"desc": 586,
+			"desc": "586.00",
 			"group": "VIZION GESTAO DE NEGOCIOS EMPRESARIAIS LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 11.63086516759903,
-			"desc": 344.92,
+			"desc": "344.92",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"val": 13.514301963107052,
-			"desc": 392.15999999999997,
+			"desc": "392.16",
 			"group": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "BALTAZAR LUIZ ZILIO E CIA LTDA",
 			"name": "BALTAZAR LUIZ ZILIO E CIA LTDA",
 			"val": 6.703166113765501,
-			"desc": 216.08,
+			"desc": "216.08",
 			"group": "BALTAZAR LUIZ ZILIO E CIA LTDA"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "RAABE COMBUSTIVEIS LTDA",
 			"name": "RAABE COMBUSTIVEIS LTDA",
 			"val": 7.221566246339124,
-			"desc": 230.1,
+			"desc": "230.10",
 			"group": "RAABE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -871,7 +872,7 @@
 			"id": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"name": "ETNA COMERCIO A VAREJO DE COMB LTDA",
 			"val": 3.662468814164813,
-			"desc": 130.32,
+			"desc": "130.32",
 			"group": "ETNA COMERCIO A VAREJO DE COMB LTDA"
 		},
 		{
@@ -884,7 +885,7 @@
 			"id": "ABST. DE COMB FRIZZO LTDA",
 			"name": "ABST. DE COMB FRIZZO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ABST. DE COMB FRIZZO LTDA"
 		},
 		{
@@ -897,7 +898,7 @@
 			"id": "COM DE COMB DO CENTRO LTDA",
 			"name": "COM DE COMB DO CENTRO LTDA",
 			"val": 1.9289367974475184,
-			"desc": 76.96,
+			"desc": "76.96",
 			"group": "COM DE COMB DO CENTRO LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SÉRGIO BRITO"
+			"name": "SÉRGIO BRITO",
+			"desc": "104560.08"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 278.56369123075825,
-			"desc": 5593.82,
+			"desc": "5593.82",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"name": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"val": 10.730611884384462,
-			"desc": 322.01,
+			"desc": "322.01",
 			"group": "HIPER POSTO CAMINHO DAS ARVORES LTDA"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 713.2645558932159,
-			"desc": 13043.359999999997,
+			"desc": "13043.36",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 61.693793330133175,
-			"desc": 1466.3799999999999,
+			"desc": "1466.38",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "POSTO SEABRA LTDA",
 			"name": "POSTO SEABRA LTDA",
 			"val": 101.2286710131708,
-			"desc": 2270.01,
+			"desc": "2270.01",
 			"group": "POSTO SEABRA LTDA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 78.74515351833915,
-			"desc": 1818.06,
+			"desc": "1818.06",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -401,7 +402,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 15.478097034077592,
-			"desc": 440.55999999999995,
+			"desc": "440.56",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "PATRIMONIAL SCG LTDA",
 			"name": "PATRIMONIAL SCG LTDA",
 			"val": 186.09643117473675,
-			"desc": 3900,
+			"desc": "3900.00",
 			"group": "PATRIMONIAL SCG LTDA"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "POSTO GARIBALDI REV DE COMB E",
 			"name": "POSTO GARIBALDI REV DE COMB E",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "POSTO GARIBALDI REV DE COMB E"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 39.251251957103975,
-			"desc": 986.5799999999999,
+			"desc": "986.58",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.845301043699207,
-			"desc": 273.21000000000004,
+			"desc": "273.21",
 			"group": "RAMAL"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "ENTREPOSTO COMERCIAL DE AMARALINA LTDA",
 			"name": "ENTREPOSTO COMERCIAL DE AMARALINA LTDA",
 			"val": 4.926666014251934,
-			"desc": 166.84,
+			"desc": "166.84",
 			"group": "ENTREPOSTO COMERCIAL DE AMARALINA LTDA"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "WL COMUNICACAO E CONSULTORIA",
 			"name": "WL COMUNICACAO E CONSULTORIA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "WL COMUNICACAO E CONSULTORIA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "POSTO GASAUTO STELLA LTDA",
 			"name": "POSTO GASAUTO STELLA LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "POSTO GASAUTO STELLA LTDA"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 3.253603272100273,
-			"desc": 118.15,
+			"desc": "118.15",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "HP COM.E DER. DE PET. LTDA",
 			"name": "HP COM.E DER. DE PET. LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "HP COM.E DER. DE PET. LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "HP COMERCIO E DERIVADOS DE PET",
 			"name": "HP COMERCIO E DERIVADOS DE PET",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "HP COMERCIO E DERIVADOS DE PET"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "GARRA EMPRESA DE SERVIÇOS ESPECIALIZADOS LTDA",
 			"name": "GARRA EMPRESA DE SERVIÇOS ESPECIALIZADOS LTDA",
 			"val": 403.39286234947355,
-			"desc": 7800,
+			"desc": "7800.00",
 			"group": "GARRA EMPRESA DE SERVIÇOS ESPECIALIZADOS LTDA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "VALPARAISO REPRESENTACAO COMERCIAL DE COMBUSTIVEIS",
 			"name": "VALPARAISO REPRESENTACAO COMERCIAL DE COMBUSTIVEIS",
 			"val": 246.4265747242748,
-			"desc": 5012.24,
+			"desc": "5012.24",
 			"group": "VALPARAISO REPRESENTACAO COMERCIAL DE COMBUSTIVEIS"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "AeC SERVICOS GRAFICOS LTDA ME",
 			"name": "AeC SERVICOS GRAFICOS LTDA ME",
 			"val": 1462.2482804388424,
-			"desc": 25020,
+			"desc": "25020.00",
 			"group": "AeC SERVICOS GRAFICOS LTDA ME"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "POSTO NOVENTA LTDA",
 			"name": "POSTO NOVENTA LTDA",
 			"val": 7.777905180222519,
-			"desc": 245,
+			"desc": "245.00",
 			"group": "POSTO NOVENTA LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"name": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"val": 1882.8260902284123,
-			"desc": 31500,
+			"desc": "31500.00",
 			"group": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "GEOPETRUS COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "GEOPETRUS COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "GEOPETRUS COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.4587921161407699,
-			"desc": 24.77,
+			"desc": "24.77",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 4.875517386032157,
-			"desc": 165.39,
+			"desc": "165.39",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 5.935165672454815,
-			"desc": 195.04,
+			"desc": "195.04",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
 			"name": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
 			"val": 5.042989208050322,
-			"desc": 170.13,
+			"desc": "170.13",
 			"group": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "MINAS BR COMBUSTIVEIS LTDA",
 			"name": "MINAS BR COMBUSTIVEIS LTDA",
 			"val": 10.461288651336773,
-			"desc": 315.11,
+			"desc": "315.11",
 			"group": "MINAS BR COMBUSTIVEIS LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "POSTO DE LUBRIFICACAO BARBALHO LTDA",
 			"name": "POSTO DE LUBRIFICACAO BARBALHO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE LUBRIFICACAO BARBALHO LTDA"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.20797478424385626,
-			"desc": 13.75,
+			"desc": "13.75",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.7062087296213895,
-			"desc": 69.67,
+			"desc": "69.67",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

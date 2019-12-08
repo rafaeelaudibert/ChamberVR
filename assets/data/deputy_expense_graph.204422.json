@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "OSSESIO SILVA"
+			"name": "OSSESIO SILVA",
+			"desc": "67206.43"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 35.3877010382781,
-			"desc": 901.29,
+			"desc": "901.29",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -108,7 +109,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 959.630003824771,
-			"desc": 17064.67,
+			"desc": "17064.67",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.9990833034514948,
-			"desc": 45.38,
+			"desc": "45.38",
 			"group": "RAMAL"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "Condomínio do Edifício Empresarial Nassau",
 			"name": "Condomínio do Edifício Empresarial Nassau",
 			"val": 97.70893271402579,
-			"desc": 2200,
+			"desc": "2200.00",
 			"group": "Condomínio do Edifício Empresarial Nassau"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 37.322296360686195,
-			"desc": 944.1200000000001,
+			"desc": "944.12",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "Companhia Energética de Pernambuco",
 			"name": "Companhia Energética de Pernambuco",
 			"val": 50.0624805572863,
-			"desc": 1220.63,
+			"desc": "1220.63",
 			"group": "Companhia Energética de Pernambuco"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "NOBILE SUITES DEL RIO PETROLINA",
 			"name": "NOBILE SUITES DEL RIO PETROLINA",
 			"val": 55.27295574352886,
-			"desc": 1331.4,
+			"desc": "1331.40",
 			"group": "NOBILE SUITES DEL RIO PETROLINA"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.34344984344224033,
-			"desc": 19.9,
+			"desc": "19.90",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 55.50896525040331,
-			"desc": 1336.3899999999999,
+			"desc": "1336.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "ESCOLAR COMERCIO DE ARTIGOS ESPORTIVOS LTDA - ME",
 			"name": "ESCOLAR COMERCIO DE ARTIGOS ESPORTIVOS LTDA - ME",
 			"val": 31.031126071545074,
-			"desc": 803.85,
+			"desc": "803.85",
 			"group": "ESCOLAR COMERCIO DE ARTIGOS ESPORTIVOS LTDA - ME"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 112.82263897331683,
-			"desc": 2498.9300000000003,
+			"desc": "2498.93",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 2.803676117209809,
-			"desc": 104.5,
+			"desc": "104.50",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 51.33487637682757,
-			"desc": 1247.79,
+			"desc": "1247.79",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "TIM",
 			"name": "TIM",
 			"val": 2.4504561405496394,
-			"desc": 93.56,
+			"desc": "93.56",
 			"group": "TIM"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 22.7181619583338,
-			"desc": 613.3100000000001,
+			"desc": "613.31",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "Samuel Machado 01408854120",
 			"name": "Samuel Machado 01408854120",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "Samuel Machado 01408854120"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "Construtora e Incorporadora Nassau Ltda",
 			"name": "Construtora e Incorporadora Nassau Ltda",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "Construtora e Incorporadora Nassau Ltda"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 4.0229310220157775,
-			"desc": 140.89,
+			"desc": "140.89",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 34.85629596719121,
-			"desc": 889.48,
+			"desc": "889.48",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "J A D ARAUJO &amp; CIA LTDA",
 			"name": "J A D ARAUJO &amp; CIA LTDA",
 			"val": 9.488694544417323,
-			"desc": 290,
+			"desc": "290.00",
 			"group": "J A D ARAUJO &amp; CIA LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
 			"name": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "SUSAN KELLY VILANOVA PASSOS GONCALVES-ME"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "MB CONSULTORIA EIRELE - ME",
 			"name": "MB CONSULTORIA EIRELE - ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "MB CONSULTORIA EIRELE - ME"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.22908395106287,
-			"desc": 409.87,
+			"desc": "409.87",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "Livraria e Papelaria Boa Viagem Eirelli EPP",
 			"name": "Livraria e Papelaria Boa Viagem Eirelli EPP",
 			"val": 12.208401367111708,
-			"desc": 359.5,
+			"desc": "359.50",
 			"group": "Livraria e Papelaria Boa Viagem Eirelli EPP"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 3.6512926624802278,
-			"desc": 129.99,
+			"desc": "129.99",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.592484918965537,
-			"desc": 240.05,
+			"desc": "240.05",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "ALABAMA ALIMENTOS LTDA",
 			"name": "ALABAMA ALIMENTOS LTDA",
 			"val": 4.027736850736191,
-			"desc": 141.03,
+			"desc": "141.03",
 			"group": "ALABAMA ALIMENTOS LTDA"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "SERVHOST INTERNET LTDA ME",
 			"name": "SERVHOST INTERNET LTDA ME",
 			"val": 2.65430814405286,
-			"desc": 99.9,
+			"desc": "99.90",
 			"group": "SERVHOST INTERNET LTDA ME"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "SUSAN KELLY VILANOVA PASSOS GONCALVES",
 			"name": "SUSAN KELLY VILANOVA PASSOS GONCALVES",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "SUSAN KELLY VILANOVA PASSOS GONCALVES"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 6.115448415311677,
-			"desc": 200.01,
+			"desc": "200.01",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 22.148737997121763,
-			"desc": 599.99,
+			"desc": "599.99",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{

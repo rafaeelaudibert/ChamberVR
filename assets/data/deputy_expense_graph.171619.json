@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARGARIDA SALOMÃO"
+			"name": "MARGARIDA SALOMÃO",
+			"desc": "44685.49"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 17.6408307714776,
-			"desc": 493.01,
+			"desc": "493.01",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "POSTO CENTRO CHOFERES LTDA.",
 			"name": "POSTO CENTRO CHOFERES LTDA.",
 			"val": 179.3192742169006,
-			"desc": 3773.0699999999997,
+			"desc": "3773.07",
 			"group": "POSTO CENTRO CHOFERES LTDA."
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "GDI DIGITAL EIRELI - EPP",
 			"name": "GDI DIGITAL EIRELI - EPP",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "GDI DIGITAL EIRELI - EPP"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 136.40130290747499,
-			"desc": 2957.49,
+			"desc": "2957.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "Atlantica Hotels International Brasil LTDA.",
 			"name": "Atlantica Hotels International Brasil LTDA.",
 			"val": 114.16362832664946,
-			"desc": 2525.25,
+			"desc": "2525.25",
 			"group": "Atlantica Hotels International Brasil LTDA."
 		},
 		{
@@ -142,7 +143,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 41.573832219201925,
-			"desc": 1037.4,
+			"desc": "1037.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "EMERSON RODRIGUES MARTINS",
 			"name": "EMERSON RODRIGUES MARTINS",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "EMERSON RODRIGUES MARTINS"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 57.069116326444444,
-			"desc": 1369.3200000000002,
+			"desc": "1369.32",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 2.612637259801428,
-			"desc": 98.61,
+			"desc": "98.61",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 108.06380830365958,
-			"desc": 2405.27,
+			"desc": "2405.27",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.1813916686489963,
-			"desc": 85.07000000000001,
+			"desc": "85.07",
 			"group": "RAMAL"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 183.96398356480097,
-			"desc": 3860.11,
+			"desc": "3860.11",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "CONDOMINIO DO EDIFICIO SOLAR RIO BRANCO",
 			"name": "CONDOMINIO DO EDIFICIO SOLAR RIO BRANCO",
 			"val": 66.2668660534484,
-			"desc": 1561.6000000000001,
+			"desc": "1561.60",
 			"group": "CONDOMINIO DO EDIFICIO SOLAR RIO BRANCO"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.4870020231426118,
-			"desc": 62.35,
+			"desc": "62.35",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -439,7 +440,7 @@
 			"id": "MUNICIPIO DE JUIZ DE FORA",
 			"name": "MUNICIPIO DE JUIZ DE FORA",
 			"val": 7.494207562621682,
-			"desc": 237.42,
+			"desc": "237.42",
 			"group": "MUNICIPIO DE JUIZ DE FORA"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "LOCATO NEGOCIOS IMOBILIARIOS LTDA",
 			"name": "LOCATO NEGOCIOS IMOBILIARIOS LTDA",
 			"val": 33.35478296143752,
-			"desc": 856,
+			"desc": "856.00",
 			"group": "LOCATO NEGOCIOS IMOBILIARIOS LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "LOCATO NEGOCIOS IMOBILIARIOS LTDA – EPP",
 			"name": "LOCATO NEGOCIOS IMOBILIARIOS LTDA – EPP",
 			"val": 38.71091657659082,
-			"desc": 974.71,
+			"desc": "974.71",
 			"group": "LOCATO NEGOCIOS IMOBILIARIOS LTDA – EPP"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "RAFAELLA L. P. SANTOS",
 			"name": "RAFAELLA L. P. SANTOS",
 			"val": 165.88154476642723,
-			"desc": 3520,
+			"desc": "3520.00",
 			"group": "RAFAELLA L. P. SANTOS"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.97778932245216,
-			"desc": 501.11,
+			"desc": "501.11",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "Clarice Ribeiro de Lima Reis",
 			"name": "Clarice Ribeiro de Lima Reis",
 			"val": 112.36802306847622,
-			"desc": 2490,
+			"desc": "2490.00",
 			"group": "Clarice Ribeiro de Lima Reis"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 16.927876730465208,
-			"desc": 475.80999999999995,
+			"desc": "475.81",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S/A",
 			"name": "HOTELARIA ACCOR BRASIL S/A",
 			"val": 10.702859219634622,
-			"desc": 321.3,
+			"desc": "321.30",
 			"group": "HOTELARIA ACCOR BRASIL S/A"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"name": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"val": 5.410219659366525,
-			"desc": 180.45,
+			"desc": "180.45",
 			"group": "LOCAWEB SERVICOS DE INTERNET S.A."
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 15.537011725004051,
-			"desc": 442,
+			"desc": "442.00",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "Maria Antonieta Gonçalves Costa",
 			"name": "Maria Antonieta Gonçalves Costa",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "Maria Antonieta Gonçalves Costa"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 16.08899796797737,
-			"desc": 455.46,
+			"desc": "455.46",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "TELEMAR NORTE LESTE S/A",
 			"name": "TELEMAR NORTE LESTE S/A",
 			"val": 2.5366551346991715,
-			"desc": 96.25,
+			"desc": "96.25",
 			"group": "TELEMAR NORTE LESTE S/A"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "ANTONIO RODRIGO MACHADO ADVOCACIA ASSOCIADA",
 			"name": "ANTONIO RODRIGO MACHADO ADVOCACIA ASSOCIADA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "ANTONIO RODRIGO MACHADO ADVOCACIA ASSOCIADA"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "POSTO TROPICO LTDA",
 			"name": "POSTO TROPICO LTDA",
 			"val": 4.104050231377706,
-			"desc": 143.25,
+			"desc": "143.25",
 			"group": "POSTO TROPICO LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "Locação, Corretagem e Adm.LTDA",
 			"name": "Locação, Corretagem e Adm.LTDA",
 			"val": 44.54268722971284,
-			"desc": 1101.91,
+			"desc": "1101.91",
 			"group": "Locação, Corretagem e Adm.LTDA"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "VICENTE PEDROSA E IRMAOS",
 			"name": "VICENTE PEDROSA E IRMAOS",
 			"val": 3.9951416543461176,
-			"desc": 140.08,
+			"desc": "140.08",
 			"group": "VICENTE PEDROSA E IRMAOS"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 46.748297012356275,
-			"desc": 1149.53,
+			"desc": "1149.53",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "Posto Formula BR ltda",
 			"name": "Posto Formula BR ltda",
 			"val": 5.84367152728428,
-			"desc": 192.51,
+			"desc": "192.51",
 			"group": "Posto Formula BR ltda"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "REDE HG COMBUSTIVEIS LTDA",
 			"name": "REDE HG COMBUSTIVEIS LTDA",
 			"val": 6.4843617641252935,
-			"desc": 210.12,
+			"desc": "210.12",
 			"group": "REDE HG COMBUSTIVEIS LTDA"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 15.923486286225216,
-			"desc": 451.43,
+			"desc": "451.43",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{

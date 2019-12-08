@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ARTHUR LIRA"
+			"name": "ARTHUR LIRA",
+			"desc": "73848.25"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 820.1012415267148,
-			"desc": 14799.76,
+			"desc": "14799.76",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -120,7 +121,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -139,7 +140,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1312.7008490959392,
-			"desc": 22680.959999999995,
+			"desc": "22680.96",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "POSTO PIRAMIDE LTDA",
 			"name": "POSTO PIRAMIDE LTDA",
 			"val": 8.343262525549592,
-			"desc": 260,
+			"desc": "260.00",
 			"group": "POSTO PIRAMIDE LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "AUTO POSTO ITICAR LTDA - GAMA",
 			"name": "AUTO POSTO ITICAR LTDA - GAMA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO ITICAR LTDA - GAMA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 384.9647587559264,
-			"desc": 7478.7699999999995,
+			"desc": "7478.77",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"name": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
 			"val": 584.7649664344519,
-			"desc": 10900,
+			"desc": "10900.00",
 			"group": "NOVITTA RENT A CAR TRANSPORTE LTDA ME"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "AUTO POSTO LAGO NORTE LTDA",
 			"name": "AUTO POSTO LAGO NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO LAGO NORTE LTDA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "COMERCIAL AZEVEDO E SILVA LTDA EPP",
 			"name": "COMERCIAL AZEVEDO E SILVA LTDA EPP",
 			"val": 1.1284877816768832,
-			"desc": 49.99,
+			"desc": "49.99",
 			"group": "COMERCIAL AZEVEDO E SILVA LTDA EPP"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "FULL PROPAGANDA LTDA",
 			"name": "FULL PROPAGANDA LTDA",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "FULL PROPAGANDA LTDA"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "AUTO POSTO JANGADEIRO LTDA",
 			"name": "AUTO POSTO JANGADEIRO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO JANGADEIRO LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.3026195914814718,
-			"desc": 119.62,
+			"desc": "119.62",
 			"group": "RAMAL"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 93.16069980577424,
-			"desc": 2109.15,
+			"desc": "2109.15",
 			"group": "Cia Aérea - AZUL"
 		},
 		{

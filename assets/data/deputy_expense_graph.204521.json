@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ABOU ANNI"
+			"name": "ABOU ANNI",
+			"desc": "13022.57"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "OCEANO BLUE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "OCEANO BLUE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "OCEANO BLUE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 11.5704631635015,
-			"desc": 343.39,
+			"desc": "343.39",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 11.304062253861895,
-			"desc": 336.63,
+			"desc": "336.63",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 16.681247721049736,
-			"desc": 469.84,
+			"desc": "469.84",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -201,7 +202,7 @@
 			"id": "COTOVIA GALETOS E MASSAS LTDA",
 			"name": "COTOVIA GALETOS E MASSAS LTDA",
 			"val": 2.6678962129780004,
-			"desc": 100.32,
+			"desc": "100.32",
 			"group": "COTOVIA GALETOS E MASSAS LTDA"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "AUTO POSTO SANTA RITA LTDA",
 			"name": "AUTO POSTO SANTA RITA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO SANTA RITA LTDA"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 40.91057084521907,
-			"desc": 1022.92,
+			"desc": "1022.92",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.0830034970009903,
-			"desc": 48.38,
+			"desc": "48.38",
 			"group": "RAMAL"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "PROTOTIPO AUTO POSTO LT",
 			"name": "PROTOTIPO AUTO POSTO LT",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "PROTOTIPO AUTO POSTO LT"
 		},
 		{
@@ -303,7 +304,7 @@
 			"id": "YANA SUSHI COMERCIO DE ALIMENTOS EIRELI",
 			"name": "YANA SUSHI COMERCIO DE ALIMENTOS EIRELI",
 			"val": 2.2632926977117056,
-			"desc": 87.67,
+			"desc": "87.67",
 			"group": "YANA SUSHI COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -316,7 +317,7 @@
 			"id": "AUTO POSTO NOVO CENTRO LTDA",
 			"name": "AUTO POSTO NOVO CENTRO LTDA",
 			"val": 4.3050498548664375,
-			"desc": 149.07,
+			"desc": "149.07",
 			"group": "AUTO POSTO NOVO CENTRO LTDA"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "VIA. DF RENT A CAR",
 			"name": "VIA. DF RENT A CAR",
 			"val": 16.605322755060136,
-			"desc": 468,
+			"desc": "468.00",
 			"group": "VIA. DF RENT A CAR"
 		},
 		{
@@ -348,7 +349,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 4.229604934678225,
-			"desc": 146.89,
+			"desc": "146.89",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"name": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"val": 5.274592306899725,
-			"desc": 176.65,
+			"desc": "176.65",
 			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "BAR E RESTAURANTE MRB LTDA",
 			"name": "BAR E RESTAURANTE MRB LTDA",
 			"val": 2.941405973766061,
-			"desc": 108.71,
+			"desc": "108.71",
 			"group": "BAR E RESTAURANTE MRB LTDA"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "NELOSUL CHURRASCARIA LTDA. - EPP",
 			"name": "NELOSUL CHURRASCARIA LTDA. - EPP",
 			"val": 5.429888422248241,
-			"desc": 181,
+			"desc": "181.00",
 			"group": "NELOSUL CHURRASCARIA LTDA. - EPP"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "AMRC COMERCIO DE ALIMENTOS EIRELI",
 			"name": "AMRC COMERCIO DE ALIMENTOS EIRELI",
 			"val": 2.785754365166345,
-			"desc": 103.95,
+			"desc": "103.95",
 			"group": "AMRC COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"name": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"val": 0.9333175378087608,
-			"desc": 43,
+			"desc": "43.00",
 			"group": "ECT-EMP BRAS DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 14.885980690729427,
-			"desc": 426.04999999999995,
+			"desc": "426.05",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 14.297931947795444,
-			"desc": 411.57,
+			"desc": "411.57",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "SEVAN DIVERSOES ELETRONICAS LTDA",
 			"name": "SEVAN DIVERSOES ELETRONICAS LTDA",
 			"val": 0.46925946432414545,
-			"desc": 25.2,
+			"desc": "25.20",
 			"group": "SEVAN DIVERSOES ELETRONICAS LTDA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.028603358934127777,
-			"desc": 3.75,
+			"desc": "3.75",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 36.744741599812116,
-			"desc": 931.3599999999999,
+			"desc": "931.36",
 			"group": "SABESP"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 15.53291955124918,
-			"desc": 441.9,
+			"desc": "441.90",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 14.203580018157345,
-			"desc": 409.24,
+			"desc": "409.24",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"val": 0.781654968204041,
-			"desc": 37.4,
+			"desc": "37.40",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 70.59243338995354,
-			"desc": 1651.0300000000002,
+			"desc": "1651.03",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 2.633622123782372,
-			"desc": 99.25999999999999,
+			"desc": "99.26",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "INTERNACIONAL RESTAURANTES DO BRASIL S A",
 			"name": "INTERNACIONAL RESTAURANTES DO BRASIL S A",
 			"val": 0.5584892436351303,
-			"desc": 28.8,
+			"desc": "28.80",
 			"group": "INTERNACIONAL RESTAURANTES DO BRASIL S A"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "TELEFONICA BRASIL S. A.",
 			"name": "TELEFONICA BRASIL S. A.",
 			"val": 2.0227064090454125,
-			"desc": 79.99,
+			"desc": "79.99",
 			"group": "TELEFONICA BRASIL S. A."
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"name": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "WMS SUPERMERCADOS DO BRASIL LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "M21 AUTO POSTO E CONVENIENCIA LTDA",
 			"name": "M21 AUTO POSTO E CONVENIENCIA LTDA",
 			"val": 6.116902298130284,
-			"desc": 200.05,
+			"desc": "200.05",
 			"group": "M21 AUTO POSTO E CONVENIENCIA LTDA"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "ENEL",
 			"name": "ENEL",
 			"val": 21.352635031470687,
-			"desc": 581.3,
+			"desc": "581.30",
 			"group": "ENEL"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "WMB SUPERMERCADOS DO BRASIL LTDA",
 			"name": "WMB SUPERMERCADOS DO BRASIL LTDA",
 			"val": 0.8460996868844807,
-			"desc": 39.8,
+			"desc": "39.80",
 			"group": "WMB SUPERMERCADOS DO BRASIL LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "KARIBE LANCHETERIA LTDA",
 			"name": "KARIBE LANCHETERIA LTDA",
 			"val": 0.4161676999572452,
-			"desc": 23,
+			"desc": "23.00",
 			"group": "KARIBE LANCHETERIA LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 66.11696322331045,
-			"desc": 1558.49,
+			"desc": "1558.49",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "CASA DO PASTEL SIMOES EIRELI",
 			"name": "CASA DO PASTEL SIMOES EIRELI",
 			"val": 0.3114995490565423,
-			"desc": 18.5,
+			"desc": "18.50",
 			"group": "CASA DO PASTEL SIMOES EIRELI"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "JN RESTAURANTE MINEIRO LTDA ME",
 			"name": "JN RESTAURANTE MINEIRO LTDA ME",
 			"val": 1.3357214137446671,
-			"desc": 57.2,
+			"desc": "57.20",
 			"group": "JN RESTAURANTE MINEIRO LTDA ME"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "PADARIA E EMPORIO BELLA ANTONIA LTDA",
 			"name": "PADARIA E EMPORIO BELLA ANTONIA LTDA",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "PADARIA E EMPORIO BELLA ANTONIA LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "INTERNACIONAL RESTAURANTES DO BRASIL S.A.",
 			"name": "INTERNACIONAL RESTAURANTES DO BRASIL S.A.",
 			"val": 0.9004440694187564,
-			"desc": 41.8,
+			"desc": "41.80",
 			"group": "INTERNACIONAL RESTAURANTES DO BRASIL S.A."
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "MARISOL PAPELARIA LTDA - ME",
 			"name": "MARISOL PAPELARIA LTDA - ME",
 			"val": 0.11044012403599772,
-			"desc": 8.8,
+			"desc": "8.80",
 			"group": "MARISOL PAPELARIA LTDA - ME"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "AUTO POSTO BARCELONA DA AUTONOMISTA LTDA",
 			"name": "AUTO POSTO BARCELONA DA AUTONOMISTA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO BARCELONA DA AUTONOMISTA LTDA"
 		},
 		{
@@ -866,7 +867,7 @@
 			"id": "JN RESTAURANTE MINEIRO LTDA",
 			"name": "JN RESTAURANTE MINEIRO LTDA",
 			"val": 1.0835666435661682,
-			"desc": 48.4,
+			"desc": "48.40",
 			"group": "JN RESTAURANTE MINEIRO LTDA"
 		},
 		{
@@ -879,7 +880,7 @@
 			"id": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"name": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL",
 			"val": 6.736658301240569,
-			"desc": 216.99,
+			"desc": "216.99",
 			"group": "OCEANAIR LINHAS AEREAS S/A EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -892,7 +893,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.672369041436549,
-			"desc": 68.55,
+			"desc": "68.55",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "CENTRO AUTOMOTIVO SANTINA LT",
 			"name": "CENTRO AUTOMOTIVO SANTINA LT",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CENTRO AUTOMOTIVO SANTINA LT"
 		},
 		{
@@ -924,7 +925,7 @@
 			"id": "OVER DRONE COMERCIO E SERVICOS EIRELI ME",
 			"name": "OVER DRONE COMERCIO E SERVICOS EIRELI ME",
 			"val": 0.6945078573762609,
-			"desc": 34.1,
+			"desc": "34.10",
 			"group": "OVER DRONE COMERCIO E SERVICOS EIRELI ME"
 		},
 		{
@@ -937,7 +938,7 @@
 			"id": "EMPRESA BRASILIENSE DE ESTACIONAMENTO LTDA",
 			"name": "EMPRESA BRASILIENSE DE ESTACIONAMENTO LTDA",
 			"val": 0.7875262369752698,
-			"desc": 37.62,
+			"desc": "37.62",
 			"group": "EMPRESA BRASILIENSE DE ESTACIONAMENTO LTDA"
 		},
 		{
@@ -950,7 +951,7 @@
 			"id": "COMERCIO DE DERIVADOS DE PETROLEO IRMAOS SABA",
 			"name": "COMERCIO DE DERIVADOS DE PETROLEO IRMAOS SABA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "COMERCIO DE DERIVADOS DE PETROLEO IRMAOS SABA"
 		},
 		{
@@ -963,7 +964,7 @@
 			"id": "QUEENS AUTO POSTO LTDA",
 			"name": "QUEENS AUTO POSTO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "QUEENS AUTO POSTO LTDA"
 		},
 		{
@@ -976,7 +977,7 @@
 			"id": "ESTAÇÃO REPUBLICA RESTAURANTE LTDA-ME",
 			"name": "ESTAÇÃO REPUBLICA RESTAURANTE LTDA-ME",
 			"val": 1.3590515908695968,
-			"desc": 58,
+			"desc": "58.00",
 			"group": "ESTAÇÃO REPUBLICA RESTAURANTE LTDA-ME"
 		},
 		{
@@ -989,7 +990,7 @@
 			"id": "POSTO DE SERVICOS 23 DE MAIO LTDA",
 			"name": "POSTO DE SERVICOS 23 DE MAIO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DE SERVICOS 23 DE MAIO LTDA"
 		},
 		{
@@ -1002,7 +1003,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{

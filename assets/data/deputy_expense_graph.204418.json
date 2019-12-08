@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZÃO GOULART"
+			"name": "LUIZÃO GOULART",
+			"desc": "38717.64"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"name": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI",
 			"val": 2.8709489728508757,
-			"desc": 106.55999999999999,
+			"desc": "106.56",
 			"group": "CHAO DE ESTRELAS RESTAURANTE E PIZZARIA EIRELI"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "SANEPAR",
 			"name": "SANEPAR",
 			"val": 11.27534069711241,
-			"desc": 335.9,
+			"desc": "335.90",
 			"group": "SANEPAR"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "IRFATUR TUR. E HOTELARIA S/A",
 			"name": "IRFATUR TUR. E HOTELARIA S/A",
 			"val": 21.98020365869745,
-			"desc": 596.04,
+			"desc": "596.04",
 			"group": "IRFATUR TUR. E HOTELARIA S/A"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 311.6488804243581,
-			"desc": 6186.06,
+			"desc": "6186.06",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "MABELLE RESTAURANTE EIRELI EPP",
 			"name": "MABELLE RESTAURANTE EIRELI EPP",
 			"val": 0.5174970334504215,
-			"desc": 27.16,
+			"desc": "27.16",
 			"group": "MABELLE RESTAURANTE EIRELI EPP"
 		},
 		{
@@ -178,7 +179,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 4.905845002708387,
-			"desc": 166.25,
+			"desc": "166.25",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -191,7 +192,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 34.20778176227459,
-			"desc": 875.04,
+			"desc": "875.04",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -210,7 +211,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.4810798660606495,
-			"desc": 62.15,
+			"desc": "62.15",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -229,7 +230,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 27.781766887654076,
-			"desc": 730.17,
+			"desc": "730.17",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -242,7 +243,7 @@
 			"id": "COPYLINK EQUIPAMENTOS PARA ESCRITÓRIO LTDA",
 			"name": "COPYLINK EQUIPAMENTOS PARA ESCRITÓRIO LTDA",
 			"val": 3.517222688600593,
-			"desc": 126.02,
+			"desc": "126.02",
 			"group": "COPYLINK EQUIPAMENTOS PARA ESCRITÓRIO LTDA"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "JM - BAR E RESTAURANTE LTDA ME",
 			"name": "JM - BAR E RESTAURANTE LTDA ME",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "JM - BAR E RESTAURANTE LTDA ME"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "RAFAEL PERIN TAVARES",
 			"name": "RAFAEL PERIN TAVARES",
 			"val": 58.52678222626104,
-			"desc": 1400,
+			"desc": "1400.00",
 			"group": "RAFAEL PERIN TAVARES"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "AUTO POSTO AUTODROMO LTDA",
 			"name": "AUTO POSTO AUTODROMO LTDA",
 			"val": 49.781859269074424,
-			"desc": 1214.6299999999999,
+			"desc": "1214.63",
 			"group": "AUTO POSTO AUTODROMO LTDA"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 31.879521884570973,
-			"desc": 822.9399999999999,
+			"desc": "822.94",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 9.676377537120695,
-			"desc": 294.87,
+			"desc": "294.87",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "OTTO ERNESTO WILLUWEIT",
 			"name": "OTTO ERNESTO WILLUWEIT",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "OTTO ERNESTO WILLUWEIT"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "V.D.I POSTO E RESTAURANTE",
 			"name": "V.D.I POSTO E RESTAURANTE",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "V.D.I POSTO E RESTAURANTE"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 4.411259372620351,
-			"desc": 152.13,
+			"desc": "152.13",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "SUPER GNV COMERCIO DE GAS VEICULAR",
 			"name": "SUPER GNV COMERCIO DE GAS VEICULAR",
 			"val": 4.2527723894049965,
-			"desc": 147.56,
+			"desc": "147.56",
 			"group": "SUPER GNV COMERCIO DE GAS VEICULAR"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "MFT EMPREENDIMENTOS",
 			"name": "MFT EMPREENDIMENTOS",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "MFT EMPREENDIMENTOS"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 4.1505542924096765,
-			"desc": 144.6,
+			"desc": "144.60",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 80.09565273833836,
-			"desc": 1845.55,
+			"desc": "1845.55",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "AUTO POSTO HOLANDA LTDA",
 			"name": "AUTO POSTO HOLANDA LTDA",
 			"val": 4.207491296465398,
-			"desc": 146.25,
+			"desc": "146.25",
 			"group": "AUTO POSTO HOLANDA LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "EXTENSÃO COMÉRCIO DE MÁQUINAS E EQUIP. INFORMATICA",
 			"name": "EXTENSÃO COMÉRCIO DE MÁQUINAS E EQUIP. INFORMATICA",
 			"val": 44.14653646921075,
-			"desc": 1093.33,
+			"desc": "1093.33",
 			"group": "EXTENSÃO COMÉRCIO DE MÁQUINAS E EQUIP. INFORMATICA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "Principe Hotel",
 			"name": "Principe Hotel",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "Principe Hotel"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.7879057583438953,
-			"desc": 72.36,
+			"desc": "72.36",
 			"group": "RAMAL"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 36.1140274838653,
-			"desc": 917.4,
+			"desc": "917.40",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "ALUG COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "ALUG COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "ALUG COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A",
 			"val": 2.725595870466495,
-			"desc": 102.1,
+			"desc": "102.10",
 			"group": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S A"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 32.920709128075885,
-			"desc": 846.29,
+			"desc": "846.29",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "DUPA PUBLICIDADE E COMUNICAÇAO LTDA",
 			"name": "DUPA PUBLICIDADE E COMUNICAÇAO LTDA",
 			"val": 432.22733462123875,
-			"desc": 8300,
+			"desc": "8300.00",
 			"group": "DUPA PUBLICIDADE E COMUNICAÇAO LTDA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "ECT - EMP. BRAS. DE CORREIOS DE TELEGRÁFOS",
 			"name": "ECT - EMP. BRAS. DE CORREIOS DE TELEGRÁFOS",
 			"val": 1.3124558068945789,
-			"desc": 56.4,
+			"desc": "56.40",
 			"group": "ECT - EMP. BRAS. DE CORREIOS DE TELEGRÁFOS"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "GOUVEA E CAMPANA LTDA",
 			"name": "GOUVEA E CAMPANA LTDA",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "GOUVEA E CAMPANA LTDA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "CCR Rodonorte",
 			"name": "CCR Rodonorte",
 			"val": 0.6041002731313675,
-			"desc": 30.6,
+			"desc": "30.60",
 			"group": "CCR Rodonorte"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "AUTO POSTO UGANDA LTDA",
 			"name": "AUTO POSTO UGANDA LTDA",
 			"val": 14.639932469679087,
-			"desc": 420,
+			"desc": "420.00",
 			"group": "AUTO POSTO UGANDA LTDA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "RWR - Serviços de Taxi Ltda - ME",
 			"name": "RWR - Serviços de Taxi Ltda - ME",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "RWR - Serviços de Taxi Ltda - ME"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "ECT - CORREIOS",
 			"name": "ECT - CORREIOS",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "ECT - CORREIOS"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "AUTO POSTO BORSATTO EIRELI",
 			"name": "AUTO POSTO BORSATTO EIRELI",
 			"val": 6.847965511403397,
-			"desc": 220.01,
+			"desc": "220.01",
 			"group": "AUTO POSTO BORSATTO EIRELI"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 45.99944313057566,
-			"desc": 1133.39,
+			"desc": "1133.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "POSTO MARU S .A II",
 			"name": "POSTO MARU S .A II",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "POSTO MARU S .A II"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.1954047322206165,
-			"desc": 145.9,
+			"desc": "145.90",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "PIT STOP AUTO POSTO PINHAIS LTDA-ME",
 			"name": "PIT STOP AUTO POSTO PINHAIS LTDA-ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PIT STOP AUTO POSTO PINHAIS LTDA-ME"
 		},
 		{
@@ -887,7 +888,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 3.8880134886971085,
-			"desc": 136.95,
+			"desc": "136.95",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 5.205532234548094,
-			"desc": 174.71,
+			"desc": "174.71",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "TOP COMERCIO DE PLASTICOS LTDA",
 			"name": "TOP COMERCIO DE PLASTICOS LTDA",
 			"val": 11.47579424311634,
-			"desc": 340.99,
+			"desc": "340.99",
 			"group": "TOP COMERCIO DE PLASTICOS LTDA"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "AUTO POSTO AQUARIOS LTDA",
 			"name": "AUTO POSTO AQUARIOS LTDA",
 			"val": 6.958402710728912,
-			"desc": 223,
+			"desc": "223.00",
 			"group": "AUTO POSTO AQUARIOS LTDA"
 		},
 		{
@@ -939,7 +940,7 @@
 			"id": "MARTINSBANDEIRA COM DE COMBUSTIVEIS LTDA",
 			"name": "MARTINSBANDEIRA COM DE COMBUSTIVEIS LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "MARTINSBANDEIRA COM DE COMBUSTIVEIS LTDA"
 		},
 		{

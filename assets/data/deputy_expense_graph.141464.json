@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOSÉ AIRTON FÉLIX CIRILO"
+			"name": "JOSÉ AIRTON FÉLIX CIRILO",
+			"desc": "228278.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 111.8301555700215,
-			"desc": 2479.43,
+			"desc": "2479.43",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1368.8047718803161,
-			"desc": 23560.909999999993,
+			"desc": "23560.91",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 802.7591549447033,
-			"desc": 14516.059999999998,
+			"desc": "14516.06",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 18.100280335080686,
-			"desc": 504.05,
+			"desc": "504.05",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -387,7 +388,7 @@
 			"id": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
 			"name": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 1345.770490758933,
-			"desc": 23200,
+			"desc": "23200.00",
 			"group": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 86.73417494253842,
-			"desc": 1980,
+			"desc": "1980.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 26.826660958358314,
-			"desc": 708.33,
+			"desc": "708.33",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 59.746537552426,
-			"desc": 1425.61,
+			"desc": "1425.61",
 			"group": "TIM S/A"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.607943641648911,
-			"desc": 157.77,
+			"desc": "157.77",
 			"group": "RAMAL"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "LIMPAX CONSTRUCOES E SERVICOS LTDA",
 			"name": "LIMPAX CONSTRUCOES E SERVICOS LTDA",
 			"val": 3180.0841087173203,
-			"desc": 50852,
+			"desc": "50852.00",
 			"group": "LIMPAX CONSTRUCOES E SERVICOS LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.3803959651312172,
-			"desc": 58.73,
+			"desc": "58.73",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "RADIO TRES CLIMAS LTDA",
 			"name": "RADIO TRES CLIMAS LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "RADIO TRES CLIMAS LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "UNIÃO MUNICIPAL DOS EST. E COMUNIDADES DE CAUCAIA",
 			"name": "UNIÃO MUNICIPAL DOS EST. E COMUNIDADES DE CAUCAIA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "UNIÃO MUNICIPAL DOS EST. E COMUNIDADES DE CAUCAIA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "GENTE DE AÇÃO PRODUÇÃO CULTURAL E ARTÍSTICA LTDA",
 			"name": "GENTE DE AÇÃO PRODUÇÃO CULTURAL E ARTÍSTICA LTDA",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "GENTE DE AÇÃO PRODUÇÃO CULTURAL E ARTÍSTICA LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "IDEA COMERCIO SERVIÇOS E REPRESENTAÇAO LTDA - ME",
 			"name": "IDEA COMERCIO SERVIÇOS E REPRESENTAÇAO LTDA - ME",
 			"val": 2793.1925808528877,
-			"desc": 45160,
+			"desc": "45160.00",
 			"group": "IDEA COMERCIO SERVIÇOS E REPRESENTAÇAO LTDA - ME"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "JF PROJETOS E EDICOES LTDA ME",
 			"name": "JF PROJETOS E EDICOES LTDA ME",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "JF PROJETOS E EDICOES LTDA ME"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 30.21808277595436,
-			"desc": 785.5,
+			"desc": "785.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 78.76135125162287,
-			"desc": 1818.39,
+			"desc": "1818.39",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{

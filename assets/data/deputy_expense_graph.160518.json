@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "WELITON PRADO"
+			"name": "WELITON PRADO",
+			"desc": "114607.16"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 2307.498356933473,
-			"desc": 37925.16,
+			"desc": "37925.16",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 378.12550515842116,
-			"desc": 7359.200000000002,
+			"desc": "7359.20",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "POSTO PATÃO LTDA.",
 			"name": "POSTO PATÃO LTDA.",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "POSTO PATÃO LTDA."
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "AUTO POSTO MONTREAL LTDA",
 			"name": "AUTO POSTO MONTREAL LTDA",
 			"val": 10.630588519716458,
-			"desc": 319.45000000000005,
+			"desc": "319.45",
 			"group": "AUTO POSTO MONTREAL LTDA"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 71.5738827075933,
-			"desc": 1671.24,
+			"desc": "1671.24",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 3.7612295419515656,
-			"desc": 133.23,
+			"desc": "133.23",
 			"group": "CLARO S/A."
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "POSTO SANTA EDWIGES PETROLEO LTDA",
 			"name": "POSTO SANTA EDWIGES PETROLEO LTDA",
 			"val": 1.6311196217643507,
-			"desc": 67.18,
+			"desc": "67.18",
 			"group": "POSTO SANTA EDWIGES PETROLEO LTDA"
 		},
 		{
@@ -378,7 +379,7 @@
 			"id": "POSTO FUMAÇA",
 			"name": "POSTO FUMAÇA",
 			"val": 6.210774825981295,
-			"desc": 202.63,
+			"desc": "202.63",
 			"group": "POSTO FUMAÇA"
 		},
 		{
@@ -391,7 +392,7 @@
 			"id": "SEMPRE EDITORA LTDA.",
 			"name": "SEMPRE EDITORA LTDA.",
 			"val": 146.42631502726047,
-			"desc": 3150,
+			"desc": "3150.00",
 			"group": "SEMPRE EDITORA LTDA."
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 1329.8369455273366,
-			"desc": 22950.05,
+			"desc": "22950.05",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 245.86354391903922,
-			"desc": 5001.99,
+			"desc": "5001.99",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "DELTA FÊNIX AUTO POSTO LTDA.",
 			"name": "DELTA FÊNIX AUTO POSTO LTDA.",
 			"val": 6.557311780944117,
-			"desc": 212.11,
+			"desc": "212.11",
 			"group": "DELTA FÊNIX AUTO POSTO LTDA."
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 13.81766327350765,
-			"desc": 399.68999999999994,
+			"desc": "399.69",
 			"group": "CLARO S/A"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 14.233537591992762,
-			"desc": 409.98,
+			"desc": "409.98",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 35.79011063680844,
-			"desc": 910.2199999999999,
+			"desc": "910.22",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "GRÁFICA REAL E GAZETA LTDA - EPP",
 			"name": "GRÁFICA REAL E GAZETA LTDA - EPP",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "GRÁFICA REAL E GAZETA LTDA - EPP"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME",
 			"name": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME",
 			"val": 4.408825745915936,
-			"desc": 152.06,
+			"desc": "152.06",
 			"group": "COMERCIO DE COMBUSTÍVEIS CABRAL & SILVA LTDA - ME"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 12.227871077590747,
-			"desc": 359.98999999999995,
+			"desc": "359.99",
 			"group": "RAMAL"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"name": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "ECT EMP BRAS DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "TARGET RENT A CAR LTDA",
 			"name": "TARGET RENT A CAR LTDA",
 			"val": 1435.2988763992144,
-			"desc": 24600,
+			"desc": "24600.00",
 			"group": "TARGET RENT A CAR LTDA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "PASSAREDO TRANSPORTES AEREO",
 			"name": "PASSAREDO TRANSPORTES AEREO",
 			"val": 131.9655824472994,
-			"desc": 2871.87,
+			"desc": "2871.87",
 			"group": "PASSAREDO TRANSPORTES AEREO"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 3.7612295419515656,
-			"desc": 133.23,
+			"desc": "133.23",
 			"group": "CLARO S.A."
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 14.233537591992762,
-			"desc": 409.98,
+			"desc": "409.98",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "TELEFÔNICA BRASIL S/A",
 			"name": "TELEFÔNICA BRASIL S/A",
 			"val": 14.804180400306382,
-			"desc": 424.04,
+			"desc": "424.04",
 			"group": "TELEFÔNICA BRASIL S/A"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "Auto Posto Duma Ltda-epp",
 			"name": "Auto Posto Duma Ltda-epp",
 			"val": 6.1376251388698515,
-			"desc": 200.62,
+			"desc": "200.62",
 			"group": "Auto Posto Duma Ltda-epp"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "DATA HOME SERVICOS LTDA",
 			"name": "DATA HOME SERVICOS LTDA",
 			"val": 59.71745336245496,
-			"desc": 1425,
+			"desc": "1425.00",
 			"group": "DATA HOME SERVICOS LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA",
 			"name": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA",
 			"val": 6.033016494920099,
-			"desc": 197.74,
+			"desc": "197.74",
 			"group": "POSTO E CONVENIÊNCIA CAFE DO CERRADO LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 3.7523905179161305,
-			"desc": 132.97,
+			"desc": "132.97",
 			"group": "CLARO S.A"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "TELEFONICA BRASIL S. A.",
 			"name": "TELEFONICA BRASIL S. A.",
 			"val": 14.233537591992762,
-			"desc": 409.98,
+			"desc": "409.98",
 			"group": "TELEFONICA BRASIL S. A."
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "ALTO UMUARAMA COMBUSTÍVEIS LTDA.",
 			"name": "ALTO UMUARAMA COMBUSTÍVEIS LTDA.",
 			"val": 6.0406360692056165,
-			"desc": 197.95,
+			"desc": "197.95",
 			"group": "ALTO UMUARAMA COMBUSTÍVEIS LTDA."
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "CANTIONIL ALVES FILHO",
 			"name": "CANTIONIL ALVES FILHO",
 			"val": 7.223795606409615,
-			"desc": 230.16,
+			"desc": "230.16",
 			"group": "CANTIONIL ALVES FILHO"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 14.233537591992762,
-			"desc": 409.98,
+			"desc": "409.98",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "JD Editora e Impressão Gráfica Ltda ME",
 			"name": "JD Editora e Impressão Gráfica Ltda ME",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "JD Editora e Impressão Gráfica Ltda ME"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "POSTO TROPICO LTDA",
 			"name": "POSTO TROPICO LTDA",
 			"val": 5.364125475981068,
-			"desc": 179.16,
+			"desc": "179.16",
 			"group": "POSTO TROPICO LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 13.587548490643801,
-			"desc": 393.98,
+			"desc": "393.98",
 			"group": "Telefônia Brasil S/A"
 		},
 		{

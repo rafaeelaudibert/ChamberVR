@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SILAS CÂMARA"
+			"name": "SILAS CÂMARA",
+			"desc": "304508.63"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.894102720891244,
-			"desc": 499.09999999999985,
+			"desc": "499.10",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 755.6609314880125,
-			"desc": 13742.89,
+			"desc": "13742.89",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -283,7 +284,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 1.5092429884640248,
-			"desc": 63.099999999999994,
+			"desc": "63.10",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 29.27743874862675,
-			"desc": 764.2,
+			"desc": "764.20",
 			"group": "RAMAL"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1789.2329710089189,
-			"desc": 30069.129999999997,
+			"desc": "30069.13",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "joselito gonçalves silva",
 			"name": "joselito gonçalves silva",
 			"val": 8834.00496853569,
-			"desc": 130002.24999999999,
+			"desc": "130002.25",
 			"group": "joselito gonçalves silva"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 9.717290231119522,
-			"desc": 295.93,
+			"desc": "295.93",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "TAXI AEREO VALE DO AMAZONAS",
 			"name": "TAXI AEREO VALE DO AMAZONAS",
 			"val": 2883.919415813242,
-			"desc": 46500,
+			"desc": "46500.00",
 			"group": "TAXI AEREO VALE DO AMAZONAS"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 8.339476611398796,
-			"desc": 259.9,
+			"desc": "259.90",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -639,7 +640,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 59.891027232421294,
-			"desc": 1428.64,
+			"desc": "1428.64",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -652,7 +653,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 3.7398169663554595,
-			"desc": 132.6,
+			"desc": "132.60",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "RIO ACRE AEROTAXI LTDA",
 			"name": "RIO ACRE AEROTAXI LTDA",
 			"val": 2047.24160912409,
-			"desc": 34000,
+			"desc": "34000.00",
 			"group": "RIO ACRE AEROTAXI LTDA"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 126.23957023828274,
-			"desc": 2760.92,
+			"desc": "2760.92",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "GRAFICA REAL",
 			"name": "GRAFICA REAL",
 			"val": 1062.6513429798213,
-			"desc": 18718.92,
+			"desc": "18718.92",
 			"group": "GRAFICA REAL"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "MANOEL CASSIO DE SOUZA GUEDES ME",
 			"name": "MANOEL CASSIO DE SOUZA GUEDES ME",
 			"val": 6.078753197952745,
-			"desc": 199,
+			"desc": "199.00",
 			"group": "MANOEL CASSIO DE SOUZA GUEDES ME"
 		},
 		{

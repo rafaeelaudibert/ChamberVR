@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZ ANTÔNIO CORRÊA"
+			"name": "LUIZ ANTÔNIO CORRÊA",
+			"desc": "50871.66"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RESTAURANTE TARANTINO FLAMENGO LTDA",
 			"name": "RESTAURANTE TARANTINO FLAMENGO LTDA",
 			"val": 1.808650037558807,
-			"desc": 73.04,
+			"desc": "73.04",
 			"group": "RESTAURANTE TARANTINO FLAMENGO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "CALLERI ASSESS. E CONSUL. IMOB. LTDA.",
 			"name": "CALLERI ASSESS. E CONSUL. IMOB. LTDA.",
 			"val": 618.056717971051,
-			"desc": 11458.92,
+			"desc": "11458.92",
 			"group": "CALLERI ASSESS. E CONSUL. IMOB. LTDA."
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 79.86360462958943,
-			"desc": 1840.8300000000004,
+			"desc": "1840.83",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "RESTAURANTE TARANTINOFLAMENGO LTDA",
 			"name": "RESTAURANTE TARANTINOFLAMENGO LTDA",
 			"val": 2.015254623790993,
-			"desc": 79.75,
+			"desc": "79.75",
 			"group": "RESTAURANTE TARANTINOFLAMENGO LTDA"
 		},
 		{
@@ -171,7 +172,7 @@
 			"id": "AUTO POSTO MAQUINE LTDA",
 			"name": "AUTO POSTO MAQUINE LTDA",
 			"val": 40.87670651919754,
-			"desc": 1022.18,
+			"desc": "1022.18",
 			"group": "AUTO POSTO MAQUINE LTDA"
 		},
 		{
@@ -214,7 +215,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 76.65367236854142,
-			"desc": 1775.39,
+			"desc": "1775.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 23.230870125391142,
-			"desc": 625.27,
+			"desc": "625.27",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -240,7 +241,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.6573066197500051,
-			"desc": 32.67,
+			"desc": "32.67",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 6.649845174879224,
-			"desc": 214.63,
+			"desc": "214.63",
 			"group": "CLARO S/A"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.9876574062742705,
-			"desc": 78.86,
+			"desc": "78.86",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 530.9988446806683,
-			"desc": 9991.349999999999,
+			"desc": "9991.35",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "REMON AUTO POSTO LTDA",
 			"name": "REMON AUTO POSTO LTDA",
 			"val": 10.306724160713879,
-			"desc": 311.14,
+			"desc": "311.14",
 			"group": "REMON AUTO POSTO LTDA"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "DANIELLE GASPAR DE CAMPOS 02551218144",
 			"name": "DANIELLE GASPAR DE CAMPOS 02551218144",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "DANIELLE GASPAR DE CAMPOS 02551218144"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.4522415647232904,
-			"desc": 24.5,
+			"desc": "24.50",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 18.6836635345809,
-			"desc": 518.02,
+			"desc": "518.02",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "smart veículos ltda-ME",
 			"name": "smart veículos ltda-ME",
 			"val": 275.20420137649455,
-			"desc": 5533.33,
+			"desc": "5533.33",
 			"group": "smart veículos ltda-ME"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "AUTO POSTO RUI BARBOSA LTDA",
 			"name": "AUTO POSTO RUI BARBOSA LTDA",
 			"val": 3.2822667582713785,
-			"desc": 119.01,
+			"desc": "119.01",
 			"group": "AUTO POSTO RUI BARBOSA LTDA"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 180.92313425329812,
-			"desc": 3803.15,
+			"desc": "3803.15",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -509,7 +510,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 69.4757790175418,
-			"desc": 1628,
+			"desc": "1628.00",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 14.51932875856673,
-			"desc": 417.03,
+			"desc": "417.03",
 			"group": "RAMAL"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "RESTAURANTE VARANDA DO SUL LTDA - EPP",
 			"name": "RESTAURANTE VARANDA DO SUL LTDA - EPP",
 			"val": 1.6254115559801956,
-			"desc": 66.99,
+			"desc": "66.99",
 			"group": "RESTAURANTE VARANDA DO SUL LTDA - EPP"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 24.27575367599077,
-			"desc": 649.55,
+			"desc": "649.55",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "GOODS RESTAURANTE E LANCHONETE EIRELI",
 			"name": "GOODS RESTAURANTE E LANCHONETE EIRELI",
 			"val": 0.8770067229414447,
-			"desc": 40.94,
+			"desc": "40.94",
 			"group": "GOODS RESTAURANTE E LANCHONETE EIRELI"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "PETROLEO E DERIVADOS PIRAQUE LTDA",
 			"name": "PETROLEO E DERIVADOS PIRAQUE LTDA",
 			"val": 7.825946627168371,
-			"desc": 246.28,
+			"desc": "246.28",
 			"group": "PETROLEO E DERIVADOS PIRAQUE LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "POSTO COLORADO LTDA",
 			"name": "POSTO COLORADO LTDA",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "POSTO COLORADO LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "ECT",
 			"name": "ECT",
 			"val": 3.6939911465905797,
-			"desc": 131.25,
+			"desc": "131.25",
 			"group": "ECT"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "CHURRASCARIA MAJORICA LTDA",
 			"name": "CHURRASCARIA MAJORICA LTDA",
 			"val": 6.40310873033269,
-			"desc": 207.9,
+			"desc": "207.90",
 			"group": "CHURRASCARIA MAJORICA LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "NAPOLITANA COMERCIO DE ALIMENTOS LTDA",
 			"name": "NAPOLITANA COMERCIO DE ALIMENTOS LTDA",
 			"val": 6.7664885573043,
-			"desc": 217.8,
+			"desc": "217.80",
 			"group": "NAPOLITANA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "CATETE GRILL LTDA",
 			"name": "CATETE GRILL LTDA",
 			"val": 0.8936202662469516,
-			"desc": 41.55,
+			"desc": "41.55",
 			"group": "CATETE GRILL LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "DIEGO DE F. BEVILAQUA RESTAURANTE",
 			"name": "DIEGO DE F. BEVILAQUA RESTAURANTE",
 			"val": 2.8199831174197714,
-			"desc": 105,
+			"desc": "105.00",
 			"group": "DIEGO DE F. BEVILAQUA RESTAURANTE"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
 			"name": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
 			"val": 2.596189515174628,
-			"desc": 98.1,
+			"desc": "98.10",
 			"group": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 8.62517108460298,
-			"desc": 267.43,
+			"desc": "267.43",
 			"group": "CLARO S/A."
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "POSTO DE COMBUSTIVEIS JALISCO LTDA",
 			"name": "POSTO DE COMBUSTIVEIS JALISCO LTDA",
 			"val": 6.65425580185794,
-			"desc": 214.75,
+			"desc": "214.75",
 			"group": "POSTO DE COMBUSTIVEIS JALISCO LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 83.70564392771178,
-			"desc": 1918.8,
+			"desc": "1918.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.4870020231426118,
-			"desc": 62.35,
+			"desc": "62.35",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "COMAFEL COM. DE MAQUINAS E FERRAGENS LTDA",
 			"name": "COMAFEL COM. DE MAQUINAS E FERRAGENS LTDA",
 			"val": 8.271746388710506,
-			"desc": 258.11,
+			"desc": "258.11",
 			"group": "COMAFEL COM. DE MAQUINAS E FERRAGENS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "ILB 1 HOTELARIA EIRELI - EPP",
 			"name": "ILB 1 HOTELARIA EIRELI - EPP",
 			"val": 36.276559263000486,
-			"desc": 921,
+			"desc": "921.00",
 			"group": "ILB 1 HOTELARIA EIRELI - EPP"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "SB CHURRASCARIA LTDA",
 			"name": "SB CHURRASCARIA LTDA",
 			"val": 4.535967948234712,
-			"desc": 155.71,
+			"desc": "155.71",
 			"group": "SB CHURRASCARIA LTDA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "PAPELARIA BOUTIQUE DO PAPEL",
 			"name": "PAPELARIA BOUTIQUE DO PAPEL",
 			"val": 3.1058694243334224,
-			"desc": 113.7,
+			"desc": "113.70",
 			"group": "PAPELARIA BOUTIQUE DO PAPEL"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "POSTO DE LUBRIFICACAO COMODORO LTDA",
 			"name": "POSTO DE LUBRIFICACAO COMODORO LTDA",
 			"val": 6.277838627396649,
-			"desc": 204.47,
+			"desc": "204.47",
 			"group": "POSTO DE LUBRIFICACAO COMODORO LTDA"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "TOMATZO",
 			"name": "TOMATZO",
 			"val": 0.43774654097172766,
-			"desc": 23.9,
+			"desc": "23.90",
 			"group": "TOMATZO"
 		},
 		{
@@ -881,7 +882,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.2589064909913885,
-			"desc": 54.55,
+			"desc": "54.55",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "AUTO POSTO DE SERVIÇO M& L  LTDA",
 			"name": "AUTO POSTO DE SERVIÇO M& L  LTDA",
 			"val": 3.316309457807091,
-			"desc": 120.03,
+			"desc": "120.03",
 			"group": "AUTO POSTO DE SERVIÇO M& L  LTDA"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "GUSTAVO ABRUZZINI DE BARROS -ME",
 			"name": "GUSTAVO ABRUZZINI DE BARROS -ME",
 			"val": 51.43856189774724,
-			"desc": 1250,
+			"desc": "1250.00",
 			"group": "GUSTAVO ABRUZZINI DE BARROS -ME"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.6214921361744824,
-			"desc": 31.28,
+			"desc": "31.28",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -933,7 +934,7 @@
 			"id": "CHURRASCARIA MAJORICA LTDA:33331976000104",
 			"name": "CHURRASCARIA MAJORICA LTDA:33331976000104",
 			"val": 5.433465598003896,
-			"desc": 181.1,
+			"desc": "181.10",
 			"group": "CHURRASCARIA MAJORICA LTDA:33331976000104"
 		},
 		{
@@ -946,7 +947,7 @@
 			"id": "CORREIOS - SEDEX 10 COM AR",
 			"name": "CORREIOS - SEDEX 10 COM AR",
 			"val": 1.7784610245878243,
-			"desc": 72.05,
+			"desc": "72.05",
 			"group": "CORREIOS - SEDEX 10 COM AR"
 		},
 		{

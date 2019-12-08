@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOÃO MAIA"
+			"name": "JOÃO MAIA",
+			"desc": "85219.00"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Auderi Fernandes de Souza",
 			"name": "Auderi Fernandes de Souza",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "Auderi Fernandes de Souza"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 510.5224353681653,
-			"desc": 9643.2,
+			"desc": "9643.20",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -145,7 +146,7 @@
 			"id": "BARRA TAXI",
 			"name": "BARRA TAXI",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "BARRA TAXI"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "Associação Comunitária de Comunicação e Cultura de Assú/RN",
 			"name": "Associação Comunitária de Comunicação e Cultura de Assú/RN",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "Associação Comunitária de Comunicação e Cultura de Assú/RN"
 		},
 		{
@@ -171,7 +172,7 @@
 			"id": "AGENCIA DE DESENVOLVIMENTO DE MESSIAS TARGINO-RN-ADMT",
 			"name": "AGENCIA DE DESENVOLVIMENTO DE MESSIAS TARGINO-RN-ADMT",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "AGENCIA DE DESENVOLVIMENTO DE MESSIAS TARGINO-RN-ADMT"
 		},
 		{
@@ -190,7 +191,7 @@
 			"id": "JVC COMERCIAL LTDA POSTO CAND",
 			"name": "JVC COMERCIAL LTDA POSTO CAND",
 			"val": 64.28153990208288,
-			"desc": 1520.35,
+			"desc": "1520.35",
 			"group": "JVC COMERCIAL LTDA POSTO CAND"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.839197914742213,
-			"desc": 273.04999999999995,
+			"desc": "273.05",
 			"group": "RAMAL"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 466.53200965384156,
-			"desc": 8890.98,
+			"desc": "8890.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "Cayna da Costa Cardoso (CANAL CERTO PUBLICIDADES)",
 			"name": "Cayna da Costa Cardoso (CANAL CERTO PUBLICIDADES)",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "Cayna da Costa Cardoso (CANAL CERTO PUBLICIDADES)"
 		},
 		{
@@ -320,7 +321,7 @@
 			"id": "COOPERATIVA MISTA DE TRABALHO DOS MOTORISTAS AUTONOMOS DE TAXI ESPECIAL DE SP",
 			"name": "COOPERATIVA MISTA DE TRABALHO DOS MOTORISTAS AUTONOMOS DE TAXI ESPECIAL DE SP",
 			"val": 1.807428771192965,
-			"desc": 73,
+			"desc": "73.00",
 			"group": "COOPERATIVA MISTA DE TRABALHO DOS MOTORISTAS AUTONOMOS DE TAXI ESPECIAL DE SP"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 374.95762905493865,
-			"desc": 7303.750000000001,
+			"desc": "7303.75",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "VALOREN - ESTUDOS, ESTRATEGIA, GESTÃO E NEGÓCIOS LTDA",
 			"name": "VALOREN - ESTUDOS, ESTRATEGIA, GESTÃO E NEGÓCIOS LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "VALOREN - ESTUDOS, ESTRATEGIA, GESTÃO E NEGÓCIOS LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 12.47495159443693,
-			"desc": 366.2,
+			"desc": "366.20",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "M A D Martins - ME",
 			"name": "M A D Martins - ME",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "M A D Martins - ME"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "JM & Marketing Divulgações e Serviços",
 			"name": "JM & Marketing Divulgações e Serviços",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "JM & Marketing Divulgações e Serviços"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"name": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"val": 5.361268683132437,
-			"desc": 179.08,
+			"desc": "179.08",
 			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 6.3344067756469356,
-			"desc": 206.02,
+			"desc": "206.02",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 34.231111726136824,
-			"desc": 875.5600000000001,
+			"desc": "875.56",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "JML AUTO POSTO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JML AUTO POSTO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.591073897182964,
-			"desc": 213.03,
+			"desc": "213.03",
 			"group": "JML AUTO POSTO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "COOPCON - COOPERATIVA DOS CONDUTORES DE SAO GONCALO DO AMARANTE",
 			"name": "COOPCON - COOPERATIVA DOS CONDUTORES DE SAO GONCALO DO AMARANTE",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "COOPCON - COOPERATIVA DOS CONDUTORES DE SAO GONCALO DO AMARANTE"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "LUIZ FLOR E FILHOS LTDA",
 			"name": "LUIZ FLOR E FILHOS LTDA",
 			"val": 43.622166599897305,
-			"desc": 1081.96,
+			"desc": "1081.96",
 			"group": "LUIZ FLOR E FILHOS LTDA"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "ASSOCIACAO COMUNITARIA DE RADIOFUSAO DE CAMPO GRANDE-RN",
 			"name": "ASSOCIACAO COMUNITARIA DE RADIOFUSAO DE CAMPO GRANDE-RN",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "ASSOCIACAO COMUNITARIA DE RADIOFUSAO DE CAMPO GRANDE-RN"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "Josimário Nunes do Nascimento",
 			"name": "Josimário Nunes do Nascimento",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "Josimário Nunes do Nascimento"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA",
 			"name": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA",
 			"val": 2.7610174164971704,
-			"desc": 103.19,
+			"desc": "103.19",
 			"group": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 43.55027502369273,
-			"desc": 1080.4,
+			"desc": "1080.40",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "G7 Consultoria e Assessoria de comunicação ltda",
 			"name": "G7 Consultoria e Assessoria de comunicação ltda",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "G7 Consultoria e Assessoria de comunicação ltda"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "COOP MISTA DE TRAB DE MOT AUT DE TAXI ESPECIAL DO RJ",
 			"name": "COOP MISTA DE TRAB DE MOT AUT DE TAXI ESPECIAL DO RJ",
 			"val": 2.242144336555357,
-			"desc": 87,
+			"desc": "87.00",
 			"group": "COOP MISTA DE TRAB DE MOT AUT DE TAXI ESPECIAL DO RJ"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "CHICAGO PRIME CASA DE CARNES ASA NORTE LTDA",
 			"name": "CHICAGO PRIME CASA DE CARNES ASA NORTE LTDA",
 			"val": 4.2320245913905215,
-			"desc": 146.96,
+			"desc": "146.96",
 			"group": "CHICAGO PRIME CASA DE CARNES ASA NORTE LTDA"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "GUARUCOOP",
 			"name": "GUARUCOOP",
 			"val": 5.162166287876656,
-			"desc": 173.49,
+			"desc": "173.49",
 			"group": "GUARUCOOP"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.222795502544556,
-			"desc": 202.96,
+			"desc": "202.96",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "ALTO POSTO PASSA E FICA EIRELI",
 			"name": "ALTO POSTO PASSA E FICA EIRELI",
 			"val": 5.664139315905719,
-			"desc": 187.53,
+			"desc": "187.53",
 			"group": "ALTO POSTO PASSA E FICA EIRELI"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "BLOG COMUNICACAO, MARKETING E EVENTOS LTDA",
 			"name": "BLOG COMUNICACAO, MARKETING E EVENTOS LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "BLOG COMUNICACAO, MARKETING E EVENTOS LTDA"
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "BC DE OLIVEIRA ME (PLANOB MARKETING)",
 			"name": "BC DE OLIVEIRA ME (PLANOB MARKETING)",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "BC DE OLIVEIRA ME (PLANOB MARKETING)"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "H A CLEMENTE - ME",
 			"name": "H A CLEMENTE - ME",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "H A CLEMENTE - ME"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "EDINAEL CASTRO DE MELO 09984802400",
 			"name": "EDINAEL CASTRO DE MELO 09984802400",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "EDINAEL CASTRO DE MELO 09984802400"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 7.393862076252483,
-			"desc": 234.73,
+			"desc": "234.73",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"name": "ZRC COMERCIO DE ALIMENTOS EIRELI",
 			"val": 3.5354169961639497,
-			"desc": 126.56,
+			"desc": "126.56",
 			"group": "ZRC COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{

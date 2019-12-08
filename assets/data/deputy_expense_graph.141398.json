@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CARLOS ZARATTINI"
+			"name": "CARLOS ZARATTINI",
+			"desc": "44171.45"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO DUQUE REBOUCAS I LTDA ME",
 			"name": "AUTO POSTO DUQUE REBOUCAS I LTDA ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DUQUE REBOUCAS I LTDA ME"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 16.678771250173398,
-			"desc": 469.78,
+			"desc": "469.78",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 5.50149228162392,
-			"desc": 183,
+			"desc": "183.00",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "AUTO POSTO KAN TAN",
 			"name": "AUTO POSTO KAN TAN",
 			"val": 6.3252783157092285,
-			"desc": 205.77,
+			"desc": "205.77",
 			"group": "AUTO POSTO KAN TAN"
 		},
 		{
@@ -105,7 +106,7 @@
 			"id": "POSTO DE SERVICO FLOREAT LT",
 			"name": "POSTO DE SERVICO FLOREAT LT",
 			"val": 33.69721500106947,
-			"desc": 863.6499999999999,
+			"desc": "863.65",
 			"group": "POSTO DE SERVICO FLOREAT LT"
 		},
 		{
@@ -148,7 +149,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 17.2321086004541,
-			"desc": 483.15999999999997,
+			"desc": "483.16",
 			"group": "99 POP"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "Basília Maria Batista Aguirre",
 			"name": "Basília Maria Batista Aguirre",
 			"val": 1080.242096656031,
-			"desc": 19000,
+			"desc": "19000.00",
 			"group": "Basília Maria Batista Aguirre"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "EDITORA FERROVIARIA LTDA",
 			"name": "EDITORA FERROVIARIA LTDA",
 			"val": 4.302624438195448,
-			"desc": 149,
+			"desc": "149.00",
 			"group": "EDITORA FERROVIARIA LTDA"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 53.87757004692684,
-			"desc": 1301.85,
+			"desc": "1301.85",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 9.697989055678248,
-			"desc": 295.43,
+			"desc": "295.43",
 			"group": "SABESP"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "AUTO POSTO VISTA BELLA LTDA",
 			"name": "AUTO POSTO VISTA BELLA LTDA",
 			"val": 6.332946104356407,
-			"desc": 205.98,
+			"desc": "205.98",
 			"group": "AUTO POSTO VISTA BELLA LTDA"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "AUTO POSTO MARRAKECH LTDA",
 			"name": "AUTO POSTO MARRAKECH LTDA",
 			"val": 3.516885882732465,
-			"desc": 126.01,
+			"desc": "126.01",
 			"group": "AUTO POSTO MARRAKECH LTDA"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 8.847208382404395,
-			"desc": 273.26,
+			"desc": "273.26",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -414,7 +415,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 58.50775230620696,
-			"desc": 1399.6,
+			"desc": "1399.60",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "AUTO POSTO DUQUE SUECIA LTDA ME",
 			"name": "AUTO POSTO DUQUE SUECIA LTDA ME",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DUQUE SUECIA LTDA ME"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "AUTO POSTO LUPUS COMBUSTIVEIS LTDA",
 			"name": "AUTO POSTO LUPUS COMBUSTIVEIS LTDA",
 			"val": 22.912199663350155,
-			"desc": 617.84,
+			"desc": "617.84",
 			"group": "AUTO POSTO LUPUS COMBUSTIVEIS LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "AMILTON DE SOUZA ROCHA 03782882881",
 			"name": "AMILTON DE SOUZA ROCHA 03782882881",
 			"val": 300.6022696331342,
-			"desc": 5989,
+			"desc": "5989.00",
 			"group": "AMILTON DE SOUZA ROCHA 03782882881"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 7.579396551492787,
-			"desc": 239.70000000000002,
+			"desc": "239.70",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "EMPRESA DE COMUNICACAO VITAL BRASIL LTDA",
 			"name": "EMPRESA DE COMUNICACAO VITAL BRASIL LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "EMPRESA DE COMUNICACAO VITAL BRASIL LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "Telefônia Brasil S/A",
 			"name": "Telefônia Brasil S/A",
 			"val": 3.3149735048711872,
-			"desc": 119.99,
+			"desc": "119.99",
 			"group": "Telefônia Brasil S/A"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 5.267110773728874,
-			"desc": 176.44,
+			"desc": "176.44",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "S.A O ESTADO DE S.PAULO",
 			"name": "S.A O ESTADO DE S.PAULO",
 			"val": 25.74248380324181,
-			"desc": 683.43,
+			"desc": "683.43",
 			"group": "S.A O ESTADO DE S.PAULO"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "ECOPOSTO II LTDA",
 			"name": "ECOPOSTO II LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ECOPOSTO II LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "PAULO ROGERIO DE JESUS SILVA 38942369812",
 			"name": "PAULO ROGERIO DE JESUS SILVA 38942369812",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "PAULO ROGERIO DE JESUS SILVA 38942369812"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "POSTO BOM RETIRO LTDA",
 			"name": "POSTO BOM RETIRO LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "POSTO BOM RETIRO LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "CENTRO AUTOMOTIVO INVICTO LT",
 			"name": "CENTRO AUTOMOTIVO INVICTO LT",
 			"val": 6.276379699510054,
-			"desc": 204.43,
+			"desc": "204.43",
 			"group": "CENTRO AUTOMOTIVO INVICTO LT"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "SCANNER MONITORAMENTO ELETRONICO EIRELI",
 			"name": "SCANNER MONITORAMENTO ELETRONICO EIRELI",
 			"val": 56.03386781536753,
-			"desc": 1347.48,
+			"desc": "1347.48",
 			"group": "SCANNER MONITORAMENTO ELETRONICO EIRELI"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "CENTRO AUTOMOTIVO PORTAL DAS PERDIZES LTDA",
 			"name": "CENTRO AUTOMOTIVO PORTAL DAS PERDIZES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CENTRO AUTOMOTIVO PORTAL DAS PERDIZES LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 3.047385117354305,
-			"desc": 111.93,
+			"desc": "111.93",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 2.72234953952437,
-			"desc": 102,
+			"desc": "102.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "POSTO SAO JOSE DO LAGO LTDA",
 			"name": "POSTO SAO JOSE DO LAGO LTDA",
 			"val": 3.8627460534101448,
-			"desc": 136.21,
+			"desc": "136.21",
 			"group": "POSTO SAO JOSE DO LAGO LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "NEXTEL TELECOMUNICAÇÕES LTDA",
 			"name": "NEXTEL TELECOMUNICAÇÕES LTDA",
 			"val": 72.99877879752162,
-			"desc": 1700.53,
+			"desc": "1700.53",
 			"group": "NEXTEL TELECOMUNICAÇÕES LTDA"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "AUTO POSTO ESTORIL LT",
 			"name": "AUTO POSTO ESTORIL LT",
 			"val": 7.6557243993628505,
-			"desc": 241.74,
+			"desc": "241.74",
 			"group": "AUTO POSTO ESTORIL LT"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.867111400603537,
-			"desc": 74.95,
+			"desc": "74.95",
 			"group": "RAMAL"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "AUTO POSTO FLM LTDA",
 			"name": "AUTO POSTO FLM LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "AUTO POSTO FLM LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "FILIPE AUGUSTO DA CRUZ ARAUJO INFORMATICA ME",
 			"name": "FILIPE AUGUSTO DA CRUZ ARAUJO INFORMATICA ME",
 			"val": 13.306901742511547,
-			"desc": 387,
+			"desc": "387.00",
 			"group": "FILIPE AUGUSTO DA CRUZ ARAUJO INFORMATICA ME"
 		},
 		{
@@ -833,7 +834,7 @@
 			"id": "PORTAL DO UMARIZAL AUTO POSTO LTDA",
 			"name": "PORTAL DO UMARIZAL AUTO POSTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PORTAL DO UMARIZAL AUTO POSTO LTDA"
 		},
 		{
@@ -846,7 +847,7 @@
 			"id": "UNIVERSO ONLINE S/A",
 			"name": "UNIVERSO ONLINE S/A",
 			"val": 5.691488955865416,
-			"desc": 188.29000000000002,
+			"desc": "188.29",
 			"group": "UNIVERSO ONLINE S/A"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "WORKLINE",
 			"name": "WORKLINE",
 			"val": 116.75376751209302,
-			"desc": 2576,
+			"desc": "2576.00",
 			"group": "WORKLINE"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "POSTO BATALHA LTDA",
 			"name": "POSTO BATALHA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO BATALHA LTDA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "PONTO 606 AEROPORTO DE CONGONHAS",
 			"name": "PONTO 606 AEROPORTO DE CONGONHAS",
 			"val": 2.5929662588931617,
-			"desc": 98,
+			"desc": "98.00",
 			"group": "PONTO 606 AEROPORTO DE CONGONHAS"
 		},
 		{

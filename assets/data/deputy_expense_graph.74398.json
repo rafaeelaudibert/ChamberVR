@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARIA DO ROSÁRIO"
+			"name": "MARIA DO ROSÁRIO",
+			"desc": "59052.86"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "LIVRIN - LIVRARIA, INFORMATICA E TABACARIA LTDA - ME",
 			"name": "LIVRIN - LIVRARIA, INFORMATICA E TABACARIA LTDA - ME",
 			"val": 6.373861812977181,
-			"desc": 207.1,
+			"desc": "207.10",
 			"group": "LIVRIN - LIVRARIA, INFORMATICA E TABACARIA LTDA - ME"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "POSTO DE COMBUSTIVEIS DICO LTDA",
 			"name": "POSTO DE COMBUSTIVEIS DICO LTDA",
 			"val": 290.53016151865654,
-			"desc": 5808.74,
+			"desc": "5808.74",
 			"group": "POSTO DE COMBUSTIVEIS DICO LTDA"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "EMPRESA CONCESSIONARIA DE RODOVIAS DO SUL S/A - ECOSUL",
 			"name": "EMPRESA CONCESSIONARIA DE RODOVIAS DO SUL S/A - ECOSUL",
 			"val": 1.3736653443825169,
-			"desc": 58.5,
+			"desc": "58.50",
 			"group": "EMPRESA CONCESSIONARIA DE RODOVIAS DO SUL S/A - ECOSUL"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS LONDERO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS LONDERO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMERCIAL DE COMBUSTIVEIS LONDERO LTDA"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 4.330354773091976,
-			"desc": 149.8,
+			"desc": "149.80",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "MAFFINI E CIA",
 			"name": "MAFFINI E CIA",
 			"val": 5.323435683609604,
-			"desc": 178.02,
+			"desc": "178.02",
 			"group": "MAFFINI E CIA"
 		},
 		{
@@ -377,7 +378,7 @@
 			"id": "VEPPO E CIA",
 			"name": "VEPPO E CIA",
 			"val": 2.865715607365245,
-			"desc": 106.4,
+			"desc": "106.40",
 			"group": "VEPPO E CIA"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "BELLER COMERCIO DE PAPEIS LTDA",
 			"name": "BELLER COMERCIO DE PAPEIS LTDA",
 			"val": 1.1270706734908205,
-			"desc": 49.94,
+			"desc": "49.94",
 			"group": "BELLER COMERCIO DE PAPEIS LTDA"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 1.7131708659164657,
-			"desc": 69.9,
+			"desc": "69.90",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "MDA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "MDA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MDA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "C A VIGILÂNCIA PRIVADA",
 			"name": "C A VIGILÂNCIA PRIVADA",
 			"val": 725.5847163416144,
-			"desc": 13247,
+			"desc": "13247.00",
 			"group": "C A VIGILÂNCIA PRIVADA"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 45.28477130276196,
-			"desc": 1117.96,
+			"desc": "1117.96",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 13.990457653772074,
-			"desc": 403.97,
+			"desc": "403.97",
 			"group": "NET"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 177.79933847428038,
-			"desc": 3744.54,
+			"desc": "3744.54",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 1.8839982312761736,
-			"desc": 75.5,
+			"desc": "75.50",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 19.422563272866054,
-			"desc": 535.64,
+			"desc": "535.64",
 			"group": "CEEE"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "Telefonia Claro",
 			"name": "Telefonia Claro",
 			"val": 45.37872503704876,
-			"desc": 1119.99,
+			"desc": "1119.99",
 			"group": "Telefonia Claro"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"name": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"val": 0.07860593781761292,
-			"desc": 7,
+			"desc": "7.00",
 			"group": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "TONER CO SERVS LTDA",
 			"name": "TONER CO SERVS LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "TONER CO SERVS LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"name": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"val": 542.4920060088704,
-			"desc": 10186.24,
+			"desc": "10186.24",
 			"group": "CREDITO REAL, IMO. E CONDOMÍNIOS SA"
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "GRAFICA E EDITORA V&C LTDA",
 			"name": "GRAFICA E EDITORA V&C LTDA",
 			"val": 413.9254248236775,
-			"desc": 7983,
+			"desc": "7983.00",
 			"group": "GRAFICA E EDITORA V&C LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.5506984483379385,
-			"desc": 28.49,
+			"desc": "28.49",
 			"group": "RAMAL"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "TIAGO FERMINO DOS SANTOS 01805376012",
 			"name": "TIAGO FERMINO DOS SANTOS 01805376012",
 			"val": 458.3855069353631,
-			"desc": 8751,
+			"desc": "8751.00",
 			"group": "TIAGO FERMINO DOS SANTOS 01805376012"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "net",
 			"name": "net",
 			"val": 21.852303775781817,
-			"desc": 593.04,
+			"desc": "593.04",
 			"group": "net"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "AUTO POSTO MUSSKOPF LTDA ME",
 			"name": "AUTO POSTO MUSSKOPF LTDA ME",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "AUTO POSTO MUSSKOPF LTDA ME"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "Planalto Transportes ltda",
 			"name": "Planalto Transportes ltda",
 			"val": 5.83608574142649,
-			"desc": 192.3,
+			"desc": "192.30",
 			"group": "Planalto Transportes ltda"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "penses locadora de veiculos ltda",
 			"name": "penses locadora de veiculos ltda",
 			"val": 107.79665942876046,
-			"desc": 2400,
+			"desc": "2400.00",
 			"group": "penses locadora de veiculos ltda"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 22.148737997121763,
-			"desc": 599.99,
+			"desc": "599.99",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "ABAST DE COMB SILVA LTDA ME",
 			"name": "ABAST DE COMB SILVA LTDA ME",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "ABAST DE COMB SILVA LTDA ME"
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"val": 0.0942265438439558,
-			"desc": 7.9,
+			"desc": "7.90",
 			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.77084990886233,
-			"desc": 71.8,
+			"desc": "71.80",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "ECT CORREIOS",
 			"name": "ECT CORREIOS",
 			"val": 2.8167206160826845,
-			"desc": 104.9,
+			"desc": "104.90",
 			"group": "ECT CORREIOS"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 67",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 67",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 67"
 		},
 		{

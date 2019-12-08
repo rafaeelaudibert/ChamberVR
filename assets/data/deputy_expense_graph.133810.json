@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARCELO MORAES"
+			"name": "MARCELO MORAES",
+			"desc": "53996.50"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 06"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 712.2133122506795,
-			"desc": 13025.969999999998,
+			"desc": "13025.97",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.1641247490791256,
-			"desc": 84.52,
+			"desc": "84.52",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"name": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"val": 10.652067961455824,
-			"desc": 320,
+			"desc": "320.00",
 			"group": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 683.541253185471,
-			"desc": 12550.8,
+			"desc": "12550.80",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"name": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA",
 			"val": 6.031202500209166,
-			"desc": 197.69,
+			"desc": "197.69",
 			"group": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 51.75679646507468,
-			"desc": 1256.7800000000002,
+			"desc": "1256.78",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "GRÁFICA LUPATINI LTDA",
 			"name": "GRÁFICA LUPATINI LTDA",
 			"val": 259.5201358562578,
-			"desc": 5250,
+			"desc": "5250.00",
 			"group": "GRÁFICA LUPATINI LTDA"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 10.008938404221368,
-			"desc": 303.47,
+			"desc": "303.47",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS V8 LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS V8 LTDA",
 			"val": 6.145625929389352,
-			"desc": 200.84,
+			"desc": "200.84",
 			"group": "COMERCIO DE COMBUSTIVEIS V8 LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "PFLUG COM DE COMBUSTIVEIS EIRELI",
 			"name": "PFLUG COM DE COMBUSTIVEIS EIRELI",
 			"val": 43.951374187657656,
-			"desc": 1089.1,
+			"desc": "1089.10",
 			"group": "PFLUG COM DE COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
 		},
 		{
@@ -486,7 +487,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 17.923242016725723,
-			"desc": 499.8,
+			"desc": "499.80",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "DARCY PEREIRA LISBOA & CIA. LTDA",
 			"name": "DARCY PEREIRA LISBOA & CIA. LTDA",
 			"val": 17.017629854325868,
-			"desc": 477.98,
+			"desc": "477.98",
 			"group": "DARCY PEREIRA LISBOA & CIA. LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 196.44508100510157,
-			"desc": 4092.9700000000003,
+			"desc": "4092.97",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 86.46502070896638,
-			"desc": 1974.57,
+			"desc": "1974.57",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "AGR POSTO DE COMB LTDA",
 			"name": "AGR POSTO DE COMB LTDA",
 			"val": 5.365911076200472,
-			"desc": 179.21,
+			"desc": "179.21",
 			"group": "AGR POSTO DE COMB LTDA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS DOM PEDRO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS DOM PEDRO LTDA",
 			"val": 6.689922557163577,
-			"desc": 215.72,
+			"desc": "215.72",
 			"group": "COMERCIO DE COMBUSTIVEIS DOM PEDRO LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "DARCY PEREIRA LISBOA & CIA LTDA",
 			"name": "DARCY PEREIRA LISBOA & CIA LTDA",
 			"val": 14.837545037944354,
-			"desc": 424.86,
+			"desc": "424.86",
 			"group": "DARCY PEREIRA LISBOA & CIA LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.584351633650495,
-			"desc": 185.31,
+			"desc": "185.31",
 			"group": "RAMAL"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 23.35023479585984,
-			"desc": 628.05,
+			"desc": "628.05",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"name": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A",
 			"val": 0.07860593781761292,
-			"desc": 7,
+			"desc": "7.00",
 			"group": "EGR-EMPRESA GAUCHA DE RODOVIAS S/A"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 22.29136264804809,
-			"desc": 603.33,
+			"desc": "603.33",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "E.DE SOUZA FORTES CONSULTORIA-ME",
 			"name": "E.DE SOUZA FORTES CONSULTORIA-ME",
 			"val": 8.305413386043272,
-			"desc": 259,
+			"desc": "259.00",
 			"group": "E.DE SOUZA FORTES CONSULTORIA-ME"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO",
 			"val": 0.29128024807199543,
-			"desc": 17.6,
+			"desc": "17.60",
 			"group": "CORREIOS - TELEGRAMA COM CONFIRMAÇÃO"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO",
 			"name": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO",
 			"val": 38.505834583608376,
-			"desc": 970.2,
+			"desc": "970.20",
 			"group": "CORREIOS - TELEGRAMA COM CÓPIA E CONFIRMAÇÃO"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS VICTOR BARRETO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS VICTOR BARRETO LTDA",
 			"val": 3.98074298376938,
-			"desc": 139.66,
+			"desc": "139.66",
 			"group": "COMERCIAL DE COMBUSTIVEIS VICTOR BARRETO LTDA"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS DONA CARLOTA LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS DONA CARLOTA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "COMERCIO DE COMBUSTIVEIS DONA CARLOTA LTDA"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 3.1422958795571994,
-			"desc": 114.8,
+			"desc": "114.80",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 10.75094351199964,
-			"desc": 322.53,
+			"desc": "322.53",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS WM LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS WM LTDA",
 			"val": 6.300092867708148,
-			"desc": 205.08,
+			"desc": "205.08",
 			"group": "COMERCIO DE COMBUSTIVEIS WM LTDA"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS TW LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS TW LTDA",
 			"val": 6.908880321735072,
-			"desc": 221.66,
+			"desc": "221.66",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS TW LTDA"
 		},
 		{

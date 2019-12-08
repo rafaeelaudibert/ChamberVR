@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "KIM KATAGUIRI"
+			"name": "KIM KATAGUIRI",
+			"desc": "67453.59"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1271.5143412933755,
-			"desc": 22033.01,
+			"desc": "22033.01",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1452.034765270851,
-			"desc": 24860.9,
+			"desc": "24860.90",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -421,7 +422,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 183.83789650392941,
-			"desc": 3857.7499999999995,
+			"desc": "3857.75",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.7671983565201475,
-			"desc": 71.68,
+			"desc": "71.68",
 			"group": "RAMAL"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 741.749088872458,
-			"desc": 13513.730000000003,
+			"desc": "13513.73",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 13.951273277987084,
-			"desc": 403,
+			"desc": "403.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.57319566058573,
-			"desc": 127.68,
+			"desc": "127.68",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "MAGS SOLUÇÕES GRÁFICAS LTDA ME",
 			"name": "MAGS SOLUÇÕES GRÁFICAS LTDA ME",
 			"val": 93.95260057025563,
-			"desc": 2125,
+			"desc": "2125.00",
 			"group": "MAGS SOLUÇÕES GRÁFICAS LTDA ME"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 16.3102744188921,
-			"desc": 460.84,
+			"desc": "460.84",
 			"group": "AVIANCA BRASIL"
 		},
 		{

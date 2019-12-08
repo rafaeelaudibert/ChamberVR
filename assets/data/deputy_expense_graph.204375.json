@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LEDA SADALA"
+			"name": "LEDA SADALA",
+			"desc": "86921.90"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "GERCIONE SABBA SOCIEDADE INDIVIUAL",
 			"name": "GERCIONE SABBA SOCIEDADE INDIVIUAL",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "GERCIONE SABBA SOCIEDADE INDIVIUAL"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 5.547026299834914,
-			"desc": 184.26999999999998,
+			"desc": "184.27",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.624124241066287,
-			"desc": 213.92999999999998,
+			"desc": "213.93",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL",
 			"val": 32.41681217378713,
-			"desc": 835,
+			"desc": "835.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA - ESTRUTURAL"
 		},
 		{
@@ -202,7 +203,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1194.2695240856624,
-			"desc": 20813.049999999996,
+			"desc": "20813.05",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "CANTINA SAO FRANCISCO LTDA",
 			"name": "CANTINA SAO FRANCISCO LTDA",
 			"val": 10.53887439485738,
-			"desc": 317.1,
+			"desc": "317.10",
 			"group": "CANTINA SAO FRANCISCO LTDA"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 54.60571536677589,
-			"desc": 1317.28,
+			"desc": "1317.28",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "N. N. S. BARBOSA",
 			"name": "N. N. S. BARBOSA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "N. N. S. BARBOSA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "TRAVEL TO AMAZON EIRELI",
 			"name": "TRAVEL TO AMAZON EIRELI",
 			"val": 674.4634040080153,
-			"desc": 12400,
+			"desc": "12400.00",
 			"group": "TRAVEL TO AMAZON EIRELI"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": null,
-			"desc": 0,
+			"desc": "0.00",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 330.179748830969,
-			"desc": 6515.200000000001,
+			"desc": "6515.20",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 6.473739912451554,
-			"desc": 209.82999999999998,
+			"desc": "209.83",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"name": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO CIDADE DO AUTOMOVEL LTDA"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "INSTITUTO DANKEMO TREINAMENTOS EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL LTDA",
 			"name": "INSTITUTO DANKEMO TREINAMENTOS EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL LTDA",
 			"val": 334.63068121597814,
-			"desc": 6594,
+			"desc": "6594.00",
 			"group": "INSTITUTO DANKEMO TREINAMENTOS EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL LTDA"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "Vero chopp",
 			"name": "Vero chopp",
 			"val": 0.1720782000346155,
-			"desc": 12,
+			"desc": "12.00",
 			"group": "Vero chopp"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "LUCAS COMERCIO DE ALIMENTOS LTDA",
 			"name": "LUCAS COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.2771021543044172,
-			"desc": 55.18,
+			"desc": "55.18",
 			"group": "LUCAS COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "MARQUELHE BALEIRO MONTEIRO",
 			"name": "MARQUELHE BALEIRO MONTEIRO",
 			"val": 561.0402717125156,
-			"desc": 10500,
+			"desc": "10500.00",
 			"group": "MARQUELHE BALEIRO MONTEIRO"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.4704507561310125,
-			"desc": 124.63,
+			"desc": "124.63",
 			"group": "RAMAL"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "FAST GRILL RESTAURANTES LTDA",
 			"name": "FAST GRILL RESTAURANTES LTDA",
 			"val": 1.6551874971640683,
-			"desc": 67.98,
+			"desc": "67.98",
 			"group": "FAST GRILL RESTAURANTES LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "Oriente Parque Restaurante LTDA",
 			"name": "Oriente Parque Restaurante LTDA",
 			"val": 0.4018942437144537,
-			"desc": 22.4,
+			"desc": "22.40",
 			"group": "Oriente Parque Restaurante LTDA"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "BECA COMERCIO DE ALIMENTOS LTDA.",
 			"name": "BECA COMERCIO DE ALIMENTOS LTDA.",
 			"val": 0.34298931013414685,
-			"desc": 19.88,
+			"desc": "19.88",
 			"group": "BECA COMERCIO DE ALIMENTOS LTDA."
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "NONNA AUGUSTA PIZZARIA E TRATTORIA EIRELI ME",
 			"name": "NONNA AUGUSTA PIZZARIA E TRATTORIA EIRELI ME",
 			"val": 3.760549512998259,
-			"desc": 133.21,
+			"desc": "133.21",
 			"group": "NONNA AUGUSTA PIZZARIA E TRATTORIA EIRELI ME"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "PREMIER  EMPRESA ALIMENTICIA",
 			"name": "PREMIER  EMPRESA ALIMENTICIA",
 			"val": 0.5359247630107077,
-			"desc": 27.9,
+			"desc": "27.90",
 			"group": "PREMIER  EMPRESA ALIMENTICIA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "ADILSON SIDNEI AULER EPP",
 			"name": "ADILSON SIDNEI AULER EPP",
 			"val": 2.8252042625057747,
-			"desc": 105.16,
+			"desc": "105.16",
 			"group": "ADILSON SIDNEI AULER EPP"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "PÃO MINAS",
 			"name": "PÃO MINAS",
 			"val": 0.256,
-			"desc": 16,
+			"desc": "16.00",
 			"group": "PÃO MINAS"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"name": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"val": 2.5607661827686057,
-			"desc": 97,
+			"desc": "97.00",
 			"group": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 76.9234166605124,
-			"desc": 1780.9,
+			"desc": "1780.90",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{

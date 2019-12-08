@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JUNIOR LOURENÇO"
+			"name": "JUNIOR LOURENÇO",
+			"desc": "68612.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.05963341701788738,
-			"desc": 5.85,
+			"desc": "5.85",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 492.0172205383616,
-			"desc": 9327.5,
+			"desc": "9327.50",
 			"group": "JWS SERVIÇOS E COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 996.2248954483958,
-			"desc": 17653.92,
+			"desc": "17653.92",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "POSTO CIDADE- FILIAL",
 			"name": "POSTO CIDADE- FILIAL",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO CIDADE- FILIAL"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 7.219336976554634,
-			"desc": 230.04,
+			"desc": "230.04",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 103.74955635533858,
-			"desc": 2320,
+			"desc": "2320.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 31.438335520774242,
-			"desc": 813.02,
+			"desc": "813.02",
 			"group": "CLARO S.A"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -352,7 +353,7 @@
 			"id": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA",
 			"name": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA"
 		},
 		{
@@ -365,7 +366,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 3.9194592194695135,
-			"desc": 137.87,
+			"desc": "137.87",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 11.520355424666581,
-			"desc": 342.12,
+			"desc": "342.12",
 			"group": "RAMAL"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 523.5805412107751,
-			"desc": 9865.36,
+			"desc": "9865.36",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "CORREIOS - IMPRESSO NORMAL",
 			"name": "CORREIOS - IMPRESSO NORMAL",
 			"val": 0.07522254510107297,
-			"desc": 6.8,
+			"desc": "6.80",
 			"group": "CORREIOS - IMPRESSO NORMAL"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"name": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AGUAS CLARAS POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 24.945976803790344,
-			"desc": 665.06,
+			"desc": "665.06",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 115.36993349623465,
-			"desc": 2548.9,
+			"desc": "2548.90",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 1.515776790659803,
-			"desc": 63.32,
+			"desc": "63.32",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"name": "POSTO CIDADE DO AUTOMOVEL LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO CIDADE DO AUTOMOVEL LTDA"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 25.50240455598362,
-			"desc": 677.9,
+			"desc": "677.90",
 			"group": "CLARO S/A."
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 52.70852802253712,
-			"desc": 1277.03,
+			"desc": "1277.03",
 			"group": "CLARO S/A"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.23977497759133606,
-			"desc": 15.25,
+			"desc": "15.25",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 17.598868546507624,
-			"desc": 492,
+			"desc": "492.00",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "mobile automotiva eireli",
 			"name": "mobile automotiva eireli",
 			"val": 710.6436481457654,
-			"desc": 13000,
+			"desc": "13000.00",
 			"group": "mobile automotiva eireli"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "COMERCIO DE DERIVADOS DE PETROLEO JOYCE VIII LTDA",
 			"name": "COMERCIO DE DERIVADOS DE PETROLEO JOYCE VIII LTDA",
 			"val": 306.8200820670377,
-			"desc": 6100,
+			"desc": "6100.00",
 			"group": "COMERCIO DE DERIVADOS DE PETROLEO JOYCE VIII LTDA"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.558412356850823,
-			"desc": 212.14,
+			"desc": "212.14",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 38.259986794645044,
-			"desc": 964.79,
+			"desc": "964.79",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 9.645900297896514,
-			"desc": 294.08,
+			"desc": "294.08",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

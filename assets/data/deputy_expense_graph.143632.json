@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DOMINGOS NETO"
+			"name": "DOMINGOS NETO",
+			"desc": "179380.87"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 888.9502507899288,
-			"desc": 15921.129999999992,
+			"desc": "15921.13",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 497.0680257288363,
-			"desc": 9413.77,
+			"desc": "9413.77",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 123.08845398962342,
-			"desc": 2699.65,
+			"desc": "2699.65",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.609266674770765,
-			"desc": 293.13,
+			"desc": "293.13",
 			"group": "RAMAL"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA",
 			"name": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA",
 			"val": 1981.3435493307115,
-			"desc": 33000,
+			"desc": "33000.00",
 			"group": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "HOLANDA & VASCONCELOS ADVOCACIA S/S",
 			"name": "HOLANDA & VASCONCELOS ADVOCACIA S/S",
 			"val": 2985.743382793583,
-			"desc": 48000,
+			"desc": "48000.00",
 			"group": "HOLANDA & VASCONCELOS ADVOCACIA S/S"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "DATAINFO PESQUISA E CONSULTORIA S/S LTDA - EPP",
 			"name": "DATAINFO PESQUISA E CONSULTORIA S/S LTDA - EPP",
 			"val": 3395.66510595432,
-			"desc": 54000,
+			"desc": "54000.00",
 			"group": "DATAINFO PESQUISA E CONSULTORIA S/S LTDA - EPP"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.2197707671313678,
-			"desc": 53.19,
+			"desc": "53.19",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "TOMAZ CASTELO ADVOGADOS S/S",
 			"name": "TOMAZ CASTELO ADVOGADOS S/S",
 			"val": 893.8101942183736,
-			"desc": 16000,
+			"desc": "16000.00",
 			"group": "TOMAZ CASTELO ADVOGADOS S/S"
 		},
 		{

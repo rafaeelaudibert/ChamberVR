@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DELEGADO PABLO"
+			"name": "DELEGADO PABLO",
+			"desc": "143557.78"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 705.487083578736,
-			"desc": 12914.65,
+			"desc": "12914.65",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -144,7 +145,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.4697219797247945,
-			"desc": 153.81,
+			"desc": "153.81",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -182,7 +183,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 840.704798266598,
-			"desc": 15136.15,
+			"desc": "15136.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 80.54618200713776,
-			"desc": 1854.71,
+			"desc": "1854.71",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 127.52242965060485,
-			"desc": 2785.82,
+			"desc": "2785.82",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "RODRIGUES & VALENTE ADVOGADOS ASSOCIADOS",
 			"name": "RODRIGUES & VALENTE ADVOGADOS ASSOCIADOS",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "RODRIGUES & VALENTE ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 19.73473043826291,
-			"desc": 543.06,
+			"desc": "543.06",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "Torino Massas",
 			"name": "Torino Massas",
 			"val": 2.8526382727347963,
-			"desc": 106,
+			"desc": "106.00",
 			"group": "Torino Massas"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.343188399343465,
-			"desc": 150.17,
+			"desc": "150.17",
 			"group": "RAMAL"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "SOUZA E GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "SOUZA E GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "SOUZA E GONTIJO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "IGOR MENEZES CORDOVIL 73449911287",
 			"name": "IGOR MENEZES CORDOVIL 73449911287",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "IGOR MENEZES CORDOVIL 73449911287"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.04124049132170445,
-			"desc": 4.65,
+			"desc": "4.65",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -468,7 +469,7 @@
 			"id": "CLARO S/A.",
 			"name": "CLARO S/A.",
 			"val": 7.765150649433117,
-			"desc": 244.66,
+			"desc": "244.66",
 			"group": "CLARO S/A."
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "IGOR CORDOVIL",
 			"name": "IGOR CORDOVIL",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "IGOR CORDOVIL"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "OI S.A",
 			"name": "OI S.A",
 			"val": 7.505409447182856,
-			"desc": 237.71999999999997,
+			"desc": "237.72",
 			"group": "OI S.A"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 37.7924064455534,
-			"desc": 954.49,
+			"desc": "954.49",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 10.893791624533877,
-			"desc": 326.18,
+			"desc": "326.18",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "PANTANAL-VEICULOS LTDA",
 			"name": "PANTANAL-VEICULOS LTDA",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "PANTANAL-VEICULOS LTDA"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "FR-2 COMERCIO DE DERIVADOS DE PETROLEO EIRELI.",
 			"name": "FR-2 COMERCIO DE DERIVADOS DE PETROLEO EIRELI.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FR-2 COMERCIO DE DERIVADOS DE PETROLEO EIRELI."
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 40.169013621426224,
-			"desc": 1006.7,
+			"desc": "1006.70",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "joselito gonçalves silva",
 			"name": "joselito gonçalves silva",
 			"val": 652.2184782711465,
-			"desc": 12029.72,
+			"desc": "12029.72",
 			"group": "joselito gonçalves silva"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.20797478424385626,
-			"desc": 13.75,
+			"desc": "13.75",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA.",
 			"name": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA.",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA."
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 2.150326077811525,
-			"desc": 84.08000000000001,
+			"desc": "84.08",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "POSTO 3001 LTDA",
 			"name": "POSTO 3001 LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO 3001 LTDA"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "Romar Restaurantes LTDA",
 			"name": "Romar Restaurantes LTDA",
 			"val": 1.7434916116590709,
-			"desc": 70.9,
+			"desc": "70.90",
 			"group": "Romar Restaurantes LTDA"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "JACOB MIGUEL MACHADO SOCEIDEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "JACOB MIGUEL MACHADO SOCEIDEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "JACOB MIGUEL MACHADO SOCEIDEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 5.835002165732157,
-			"desc": 192.27,
+			"desc": "192.27",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 45.05529902992641,
-			"desc": 1113,
+			"desc": "1113.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.855298096332552,
-			"desc": 40.14,
+			"desc": "40.14",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"name": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "ANEXO 4 ASSESSORIA, CONSULTORIA, MARKETING E DIVULGAÇÃO LTDA"
 		},
 		{
@@ -819,7 +820,7 @@
 			"id": "D H R SERVICOS DE ALIMENTOS LTDA",
 			"name": "D H R SERVICOS DE ALIMENTOS LTDA",
 			"val": 0.5990015292964368,
-			"desc": 30.4,
+			"desc": "30.40",
 			"group": "D H R SERVICOS DE ALIMENTOS LTDA"
 		},
 		{
@@ -832,7 +833,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 8.89414551498367,
-			"desc": 274.49,
+			"desc": "274.49",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -845,7 +846,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.23680200504688,
-			"desc": 230.51,
+			"desc": "230.51",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -858,7 +859,7 @@
 			"id": "ROQUE LANE WILKENS SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "ROQUE LANE WILKENS SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 561.0402717125156,
-			"desc": 10500,
+			"desc": "10500.00",
 			"group": "ROQUE LANE WILKENS SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 7.208563446134622,
-			"desc": 229.75,
+			"desc": "229.75",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "Retec Representações e Comercio LTDA",
 			"name": "Retec Representações e Comercio LTDA",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "Retec Representações e Comercio LTDA"
 		},
 		{

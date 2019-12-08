@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO PIMENTA"
+			"name": "PAULO PIMENTA",
+			"desc": "101523.96"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Oi S.A",
 			"name": "Oi S.A",
 			"val": 38.9406967308335,
-			"desc": 979.76,
+			"desc": "979.76",
 			"group": "Oi S.A"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "CREDITO REAL IMOVEIS E CONDOMINIOS S A",
 			"name": "CREDITO REAL IMOVEIS E CONDOMINIOS S A",
 			"val": 182.46697184086688,
-			"desc": 3832.08,
+			"desc": "3832.08",
 			"group": "CREDITO REAL IMOVEIS E CONDOMINIOS S A"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 487.45163370320967,
-			"desc": 9249.449999999999,
+			"desc": "9249.45",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 53.79175316207366,
-			"desc": 1300.03,
+			"desc": "1300.03",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -189,7 +190,7 @@
 			"id": "IMEMBUY IMOVEIS EIRELI",
 			"name": "IMEMBUY IMOVEIS EIRELI",
 			"val": 625.4720775931656,
-			"desc": 11583.05,
+			"desc": "11583.05",
 			"group": "IMEMBUY IMOVEIS EIRELI"
 		},
 		{
@@ -220,7 +221,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 742.4145474478263,
-			"desc": 13524.699999999997,
+			"desc": "13524.70",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -305,7 +306,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 163.94717339001983,
-			"desc": 3483.4100000000003,
+			"desc": "3483.41",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 50.950358577468144,
-			"desc": 1239.59,
+			"desc": "1239.59",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "Planalto Transportes ltda",
 			"name": "Planalto Transportes ltda",
 			"val": 4.761492729520493,
-			"desc": 162.15,
+			"desc": "162.15",
 			"group": "Planalto Transportes ltda"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 15.542740987596126,
-			"desc": 442.14,
+			"desc": "442.14",
 			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -411,7 +412,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS PADOIN LTDA - F01",
 			"name": "COMERCIO DE COMBUSTIVEIS PADOIN LTDA - F01",
 			"val": 512.0233085069573,
-			"desc": 9668.76,
+			"desc": "9668.76",
 			"group": "COMERCIO DE COMBUSTIVEIS PADOIN LTDA - F01"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 18.546494171662136,
-			"desc": 514.74,
+			"desc": "514.74",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"name": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
 			"val": 608.8600076872999,
-			"desc": 11304.79,
+			"desc": "11304.79",
 			"group": "CREDITO REAL, IMO. E CONDOMÍNIOS SA"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 83.75652209947302,
-			"desc": 1919.83,
+			"desc": "1919.83",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 13.078258605823267,
-			"desc": 381.3,
+			"desc": "381.30",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"name": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"val": 10.145076090683228,
-			"desc": 306.98,
+			"desc": "306.98",
 			"group": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 33.2143431616569,
-			"desc": 852.86,
+			"desc": "852.86",
 			"group": "CLARO S/A"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "AUTO POSTO LAGO NORTE LTDA",
 			"name": "AUTO POSTO LAGO NORTE LTDA",
 			"val": 22.807660967291124,
-			"desc": 615.4,
+			"desc": "615.40",
 			"group": "AUTO POSTO LAGO NORTE LTDA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS PADOIN LTDA - F02",
 			"name": "COMERCIO DE COMBUSTIVEIS PADOIN LTDA - F02",
 			"val": 43.16799398929057,
-			"desc": 1072.1,
+			"desc": "1072.10",
 			"group": "COMERCIO DE COMBUSTIVEIS PADOIN LTDA - F02"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "AUTO LOCADORA SCHUMACHER LTDA",
 			"name": "AUTO LOCADORA SCHUMACHER LTDA",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "AUTO LOCADORA SCHUMACHER LTDA"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 9.534512210506067,
-			"desc": 291.19,
+			"desc": "291.19",
 			"group": "CEEE"
 		},
 		{
@@ -656,7 +657,7 @@
 			"id": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 36.34656325034494,
-			"desc": 922.5500000000001,
+			"desc": "922.55",
 			"group": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.33134422289126,
-			"desc": 120.47999999999999,
+			"desc": "120.48",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.6284543335713733,
-			"desc": 99.1,
+			"desc": "99.10",
 			"group": "RAMAL"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "Fabiane Pereira Dos Santos -ME",
 			"name": "Fabiane Pereira Dos Santos -ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "Fabiane Pereira Dos Santos -ME"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "CLAROnet  S/A",
 			"name": "CLAROnet  S/A",
 			"val": 20.96499550945415,
-			"desc": 572.17,
+			"desc": "572.17",
 			"group": "CLAROnet  S/A"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "CONNECTING PEOPLE GESTAO ADMINISTRATIVA E FINANCEIRA LTDA",
 			"name": "CONNECTING PEOPLE GESTAO ADMINISTRATIVA E FINANCEIRA LTDA",
 			"val": 692.533076528582,
-			"desc": 12700,
+			"desc": "12700.00",
 			"group": "CONNECTING PEOPLE GESTAO ADMINISTRATIVA E FINANCEIRA LTDA"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "OI",
 			"name": "OI",
 			"val": 4.081341590870807,
-			"desc": 142.59,
+			"desc": "142.59",
 			"group": "OI"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 13.538443795212087,
-			"desc": 392.76,
+			"desc": "392.76",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "PALCCO PROPAGANDA E MARKETING LTDA",
 			"name": "PALCCO PROPAGANDA E MARKETING LTDA",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "PALCCO PROPAGANDA E MARKETING LTDA"
 		},
 		{

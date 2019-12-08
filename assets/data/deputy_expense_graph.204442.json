@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GURGEL"
+			"name": "GURGEL",
+			"desc": "51372.30"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 24.002830935824292,
-			"desc": 643.22,
+			"desc": "643.22",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "PIZZARIA 114B LTDA",
 			"name": "PIZZARIA 114B LTDA",
 			"val": 1.2171879266367265,
-			"desc": 53.1,
+			"desc": "53.10",
 			"group": "PIZZARIA 114B LTDA"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 603.3393313042142,
-			"desc": 11212.17,
+			"desc": "11212.17",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 148.14702641031752,
-			"desc": 3182.91,
+			"desc": "3182.91",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -171,7 +172,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -190,7 +191,7 @@
 			"id": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"name": "POSTO DE GASOLINA DAS AMERICAS LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "POSTO DE GASOLINA DAS AMERICAS LTDA"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 77.33679094812679,
-			"desc": 1789.3399999999997,
+			"desc": "1789.34",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "POSTO DE GASOLINA RECREIOMAR LTDA",
 			"name": "POSTO DE GASOLINA RECREIOMAR LTDA",
 			"val": 19.278039621647086,
-			"desc": 532.2,
+			"desc": "532.20",
 			"group": "POSTO DE GASOLINA RECREIOMAR LTDA"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 9.876903626512961,
-			"desc": 300.05999999999995,
+			"desc": "300.06",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "Outback Steakhouse",
 			"name": "Outback Steakhouse",
 			"val": 1.8655773865459881,
-			"desc": 74.9,
+			"desc": "74.90",
 			"group": "Outback Steakhouse"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 234.88245872399233,
-			"desc": 4801.63,
+			"desc": "4801.63",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "POSTO DE GASOLINA AMOR LTDA",
 			"name": "POSTO DE GASOLINA AMOR LTDA",
 			"val": 20.6488840086324,
-			"desc": 564.71,
+			"desc": "564.71",
 			"group": "POSTO DE GASOLINA AMOR LTDA"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "Yellow Carbo Design",
 			"name": "Yellow Carbo Design",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "Yellow Carbo Design"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MAXXI COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "LINHA AMARELA S.A. - LAMSA",
 			"name": "LINHA AMARELA S.A. - LAMSA",
 			"val": 0.08720671786825555,
-			"desc": 7.5,
+			"desc": "7.50",
 			"group": "LINHA AMARELA S.A. - LAMSA"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "POSTO DE GASOLINA RIAS BAIXAS LTDA",
 			"name": "POSTO DE GASOLINA RIAS BAIXAS LTDA",
 			"val": 10.772062245944323,
-			"desc": 323.07,
+			"desc": "323.07",
 			"group": "POSTO DE GASOLINA RIAS BAIXAS LTDA"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "AUTO POSTO LUAR DO ARCO LTDA",
 			"name": "AUTO POSTO LUAR DO ARCO LTDA",
 			"val": 9.481381724537622,
-			"desc": 289.81,
+			"desc": "289.81",
 			"group": "AUTO POSTO LUAR DO ARCO LTDA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "Ronaldo Brandão Alvarenga",
 			"name": "Ronaldo Brandão Alvarenga",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "Ronaldo Brandão Alvarenga"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.027230473885844,
-			"desc": 404.88,
+			"desc": "404.88",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 8.04185176546493,
-			"desc": 252.02,
+			"desc": "252.02",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.0140130644646335,
-			"desc": 79.71000000000001,
+			"desc": "79.71",
 			"group": "RAMAL"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "FRANGO BIP LTDA",
 			"name": "FRANGO BIP LTDA",
 			"val": 1.7769384004153859,
-			"desc": 72,
+			"desc": "72.00",
 			"group": "FRANGO BIP LTDA"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"name": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"val": 24.023513947020824,
-			"desc": 643.7,
+			"desc": "643.70",
 			"group": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "ROBERTA GUIMARAES DE TRINDADE 07802190746",
 			"name": "ROBERTA GUIMARAES DE TRINDADE 07802190746",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "ROBERTA GUIMARAES DE TRINDADE 07802190746"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "Mapam Comercio Alimenticio Ltda. - ME",
 			"name": "Mapam Comercio Alimenticio Ltda. - ME",
 			"val": 0.6632660633363808,
-			"desc": 32.9,
+			"desc": "32.90",
 			"group": "Mapam Comercio Alimenticio Ltda. - ME"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 7.96841871542161,
-			"desc": 250.07,
+			"desc": "250.07",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 0.5177452883374072,
-			"desc": 27.17,
+			"desc": "27.17",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "EDSON VANDER DE SOUSA LEAL",
 			"name": "EDSON VANDER DE SOUSA LEAL",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "EDSON VANDER DE SOUSA LEAL"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "POSTOS PASSAREDO LTDA",
 			"name": "POSTOS PASSAREDO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTOS PASSAREDO LTDA"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "NET VIRTUA / CLARO",
 			"name": "NET VIRTUA / CLARO",
 			"val": 3.1874162508854176,
-			"desc": 116.16,
+			"desc": "116.16",
 			"group": "NET VIRTUA / CLARO"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"name": "POSTO DE GASOLINA LORD BARRA SUL LTDA",
 			"val": 5.418443603220773,
-			"desc": 180.68,
+			"desc": "180.68",
 			"group": "POSTO DE GASOLINA LORD BARRA SUL LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "RESTAURANTE MADERO RIO DE JANEIRO",
 			"name": "RESTAURANTE MADERO RIO DE JANEIRO",
 			"val": 2.6252252215515255,
-			"desc": 99,
+			"desc": "99.00",
 			"group": "RESTAURANTE MADERO RIO DE JANEIRO"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "Casa do Oleo de Realengo LTDA",
 			"name": "Casa do Oleo de Realengo LTDA",
 			"val": 7.032403072095334,
-			"desc": 225,
+			"desc": "225.00",
 			"group": "Casa do Oleo de Realengo LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"name": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
 			"val": 7.006121150962835,
-			"desc": 224.29,
+			"desc": "224.29",
 			"group": "COMERCIAL DE COMBUSTÍVEL MAM LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "OUTBACK STEAKHOUSE",
 			"name": "OUTBACK STEAKHOUSE",
 			"val": 3.1091783914252287,
-			"desc": 113.8,
+			"desc": "113.80",
 			"group": "OUTBACK STEAKHOUSE"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "AUTO POSTO REZENDE RECREIO II LTDA",
 			"name": "AUTO POSTO REZENDE RECREIO II LTDA",
 			"val": 5.818751774185695,
-			"desc": 191.82,
+			"desc": "191.82",
 			"group": "AUTO POSTO REZENDE RECREIO II LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 1.177124703238422,
-			"desc": 51.7,
+			"desc": "51.70",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 0.6374238246087698,
-			"desc": 31.9,
+			"desc": "31.90",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "Telefonica Brasil S.A.",
 			"name": "Telefonica Brasil S.A.",
 			"val": 8.504367962081494,
-			"desc": 264.25,
+			"desc": "264.25",
 			"group": "Telefonica Brasil S.A."
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "MJP Recreio Restaurante LTDA",
 			"name": "MJP Recreio Restaurante LTDA",
 			"val": 8.999201099522422,
-			"desc": 277.23999999999995,
+			"desc": "277.24",
 			"group": "MJP Recreio Restaurante LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "ECT",
 			"name": "ECT",
 			"val": 0.797684982043425,
-			"desc": 38,
+			"desc": "38.00",
 			"group": "ECT"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "AUTO POSTO SAO MARCOS LTDA",
 			"name": "AUTO POSTO SAO MARCOS LTDA",
 			"val": 7.22082314637802,
-			"desc": 230.08,
+			"desc": "230.08",
 			"group": "AUTO POSTO SAO MARCOS LTDA"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "POSTO DE GASOLINA OLIVEIRENSE LTDA",
 			"name": "POSTO DE GASOLINA OLIVEIRENSE LTDA",
 			"val": 9.721151051486306,
-			"desc": 296.03,
+			"desc": "296.03",
 			"group": "POSTO DE GASOLINA OLIVEIRENSE LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "New York Camarada Restaurante LTDA",
 			"name": "New York Camarada Restaurante LTDA",
 			"val": 2.9535560163757197,
-			"desc": 109.08,
+			"desc": "109.08",
 			"group": "New York Camarada Restaurante LTDA"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "RESTAURANTE MADERO RIO DE JANEIRO LTDA",
 			"name": "RESTAURANTE MADERO RIO DE JANEIRO LTDA",
 			"val": 2.1008863307011194,
-			"desc": 82.5,
+			"desc": "82.50",
 			"group": "RESTAURANTE MADERO RIO DE JANEIRO LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "LAMSA",
 			"name": "LAMSA",
 			"val": 0.08720671786825555,
-			"desc": 7.5,
+			"desc": "7.50",
 			"group": "LAMSA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 7.589119057319341,
-			"desc": 239.96,
+			"desc": "239.96",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 7.909359429312913,
-			"desc": 248.5,
+			"desc": "248.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -917,7 +918,7 @@
 			"id": "AUTO POSTO MAQUINE LTDA",
 			"name": "AUTO POSTO MAQUINE LTDA",
 			"val": 8.672716479449294,
-			"desc": 268.68,
+			"desc": "268.68",
 			"group": "AUTO POSTO MAQUINE LTDA"
 		},
 		{
@@ -930,7 +931,7 @@
 			"id": "Enzo Itaguai LTDA",
 			"name": "Enzo Itaguai LTDA",
 			"val": 5.875473942409355,
-			"desc": 193.39,
+			"desc": "193.39",
 			"group": "Enzo Itaguai LTDA"
 		},
 		{
@@ -943,7 +944,7 @@
 			"id": "AUTOPOSTO ML AYRTON SENNA LTDA",
 			"name": "AUTOPOSTO ML AYRTON SENNA LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTOPOSTO ML AYRTON SENNA LTDA"
 		},
 		{
@@ -956,7 +957,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 32.92517624350917,
-			"desc": 846.39,
+			"desc": "846.39",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -969,7 +970,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S.A.",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S.A.",
 			"val": 1.444151010687421,
-			"desc": 60.9,
+			"desc": "60.90",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S.A."
 		},
 		{
@@ -982,7 +983,7 @@
 			"id": "VICTORY COMPANHIA DE RESTAURANTES LTDA EPP",
 			"name": "VICTORY COMPANHIA DE RESTAURANTES LTDA EPP",
 			"val": 0.7023567243905076,
-			"desc": 34.4,
+			"desc": "34.40",
 			"group": "VICTORY COMPANHIA DE RESTAURANTES LTDA EPP"
 		},
 		{
@@ -995,7 +996,7 @@
 			"id": "GASMETANO DO BRASIL LTDA",
 			"name": "GASMETANO DO BRASIL LTDA",
 			"val": 6.259969875075924,
-			"desc": 203.98,
+			"desc": "203.98",
 			"group": "GASMETANO DO BRASIL LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FÁBIO RAMALHO"
+			"name": "FÁBIO RAMALHO",
+			"desc": "48415.22"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 663.9576617746642,
-			"desc": 12225.259999999997,
+			"desc": "12225.26",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -156,7 +157,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 616.8196864500561,
-			"desc": 11438.2,
+			"desc": "11438.20",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 36.89446548773485,
-			"desc": 934.6700000000001,
+			"desc": "934.67",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 169.2458602410472,
-			"desc": 3583.5399999999995,
+			"desc": "3583.54",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -507,7 +508,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 17.508337431511944,
-			"desc": 489.82000000000005,
+			"desc": "489.82",
 			"group": "RAMAL"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "LOCUS ADMINISTRADORA DE IMOVEI",
 			"name": "LOCUS ADMINISTRADORA DE IMOVEI",
 			"val": 488.46386683704236,
-			"desc": 9266.76,
+			"desc": "9266.76",
 			"group": "LOCUS ADMINISTRADORA DE IMOVEI"
 		},
 		{
@@ -545,7 +546,7 @@
 			"id": "POSTO J A LTDA",
 			"name": "POSTO J A LTDA",
 			"val": 21.61762278864303,
-			"desc": 587.53,
+			"desc": "587.53",
 			"group": "POSTO J A LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
 			"name": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
 			"val": 133.75169627693714,
-			"desc": 2906.38,
+			"desc": "2906.38",
 			"group": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA"
 		},
 		{
@@ -589,7 +590,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 85.95470727094722,
-			"desc": 1964.27,
+			"desc": "1964.27",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 4.3182197100835,
-			"desc": 149.45,
+			"desc": "149.45",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 2.6491344148463503,
-			"desc": 99.74000000000001,
+			"desc": "99.74",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS",
 			"name": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS",
 			"val": 165.55520631891278,
-			"desc": 3513.83,
+			"desc": "3513.83",
 			"group": "COMPANHIA DE LOCAÇÃO DAS AMÉRICAS"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "POSTO SOUZA CHAVES LTDA",
 			"name": "POSTO SOUZA CHAVES LTDA",
 			"val": 8.07539634207809,
-			"desc": 252.91,
+			"desc": "252.91",
 			"group": "POSTO SOUZA CHAVES LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "POSTO CABRAL LTDA",
 			"name": "POSTO CABRAL LTDA",
 			"val": 7.53379732662887,
-			"desc": 238.48,
+			"desc": "238.48",
 			"group": "POSTO CABRAL LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 29.285373632021447,
-			"desc": 764.38,
+			"desc": "764.38",
 			"group": "Telefônica Brasil S/A."
 		},
 		{

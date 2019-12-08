@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HEITOR FREIRE"
+			"name": "HEITOR FREIRE",
+			"desc": "130578.66"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 671.5466484553556,
-			"desc": 12351.51,
+			"desc": "12351.51",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 4.467632199139361,
-			"desc": 153.75000000000003,
+			"desc": "153.75",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -247,7 +248,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 405.27713470148655,
-			"desc": 7832.7699999999995,
+			"desc": "7832.77",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "NERIT TECNOLOGIA DA INFORMACAO LTDA",
 			"name": "NERIT TECNOLOGIA DA INFORMACAO LTDA",
 			"val": 74.72821175809446,
-			"desc": 1736,
+			"desc": "1736.00",
 			"group": "NERIT TECNOLOGIA DA INFORMACAO LTDA"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "MOURA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "MOURA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "MOURA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "SOBRAL & PALACIO PETROLEO",
 			"name": "SOBRAL & PALACIO PETROLEO",
 			"val": 5.934079647218543,
-			"desc": 195.01,
+			"desc": "195.01",
 			"group": "SOBRAL & PALACIO PETROLEO"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "M S PETRÓLEO LTDA",
 			"name": "M S PETRÓLEO LTDA",
 			"val": 2.9844562088228948,
-			"desc": 110.02,
+			"desc": "110.02",
 			"group": "M S PETRÓLEO LTDA"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "IGUATEMI DERIVADOS DE PETROLEO LTDA",
 			"name": "IGUATEMI DERIVADOS DE PETROLEO LTDA",
 			"val": 29.942606476791813,
-			"desc": 779.27,
+			"desc": "779.27",
 			"group": "IGUATEMI DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "AIRTON PALACIO DE SOUZA JUNIOR",
 			"name": "AIRTON PALACIO DE SOUZA JUNIOR",
 			"val": 7.106135257990139,
-			"desc": 226.99,
+			"desc": "226.99",
 			"group": "AIRTON PALACIO DE SOUZA JUNIOR"
 		},
 		{
@@ -446,7 +447,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 2.2737199297603286,
-			"desc": 88,
+			"desc": "88.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "PDV LOCACAO DE VEICULOS E SERVICOS EIRELI",
 			"name": "PDV LOCACAO DE VEICULOS E SERVICOS EIRELI",
 			"val": 1529.1538360706008,
-			"desc": 26060,
+			"desc": "26060.00",
 			"group": "PDV LOCACAO DE VEICULOS E SERVICOS EIRELI"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "ORGANIZACAO HELIO MEIRELES PETROLEO LTDA",
 			"name": "ORGANIZACAO HELIO MEIRELES PETROLEO LTDA",
 			"val": 4.802625589725614,
-			"desc": 163.32,
+			"desc": "163.32",
 			"group": "ORGANIZACAO HELIO MEIRELES PETROLEO LTDA"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "GOLD JET INK",
 			"name": "GOLD JET INK",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "GOLD JET INK"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "POSTO BRASIL LTDA",
 			"name": "POSTO BRASIL LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO BRASIL LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 42.42246647400251,
-			"desc": 1055.89,
+			"desc": "1055.89",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "JP COM. DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "JP COM. DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JP COM. DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "PDV LOCACAO DE VEICULOS E SERVICOS EIRELI-ME",
 			"name": "PDV LOCACAO DE VEICULOS E SERVICOS EIRELI-ME",
 			"val": 578.82572749173,
-			"desc": 10800,
+			"desc": "10800.00",
 			"group": "PDV LOCACAO DE VEICULOS E SERVICOS EIRELI-ME"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "DISTRIBUIDORA DE PETROLEO NOTA DEZ LTDA",
 			"name": "DISTRIBUIDORA DE PETROLEO NOTA DEZ LTDA",
 			"val": 10.301278838042471,
-			"desc": 311,
+			"desc": "311.00",
 			"group": "DISTRIBUIDORA DE PETROLEO NOTA DEZ LTDA"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "CORREIOS - IMPRESSO NORMAL",
 			"name": "CORREIOS - IMPRESSO NORMAL",
 			"val": 2.815089571677151,
-			"desc": 104.85,
+			"desc": "104.85",
 			"group": "CORREIOS - IMPRESSO NORMAL"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "RODRIGO FURTADO CRUZ",
 			"name": "RODRIGO FURTADO CRUZ",
 			"val": 1269.4189994903459,
-			"desc": 22000,
+			"desc": "22000.00",
 			"group": "RODRIGO FURTADO CRUZ"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "SOBRAL & PALACIO PETROLEO LTDA",
 			"name": "SOBRAL & PALACIO PETROLEO LTDA",
 			"val": 6.042450443103051,
-			"desc": 198,
+			"desc": "198.00",
 			"group": "SOBRAL & PALACIO PETROLEO LTDA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 8.300872984893566,
-			"desc": 258.88,
+			"desc": "258.88",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 93.78666943263327,
-			"desc": 2121.6800000000003,
+			"desc": "2121.68",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"name": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"val": 8.635057754772228,
-			"desc": 267.69,
+			"desc": "267.69",
 			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "GINETON DANTAS QUEIROZ FILHO",
 			"name": "GINETON DANTAS QUEIROZ FILHO",
 			"val": 151.66091203644135,
-			"desc": 3250,
+			"desc": "3250.00",
 			"group": "GINETON DANTAS QUEIROZ FILHO"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 16.881988208442483,
-			"desc": 474.7,
+			"desc": "474.70",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.7431468766663684,
-			"desc": 35.95,
+			"desc": "35.95",
 			"group": "RAMAL"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 2113.3094222249874,
-			"desc": 35000,
+			"desc": "35000.00",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"name": "RESTAURANTE ESQUINA DO LAGO EIRELI ME",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "RESTAURANTE ESQUINA DO LAGO EIRELI ME"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "ALLUG EQUIPAMENTOS",
 			"name": "ALLUG EQUIPAMENTOS",
 			"val": 151.66091203644135,
-			"desc": 3250,
+			"desc": "3250.00",
 			"group": "ALLUG EQUIPAMENTOS"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "GBM COM DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "GBM COM DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 4.821274362784347,
-			"desc": 163.85,
+			"desc": "163.85",
 			"group": "GBM COM DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "AUTO POSTO ISADORA",
 			"name": "AUTO POSTO ISADORA",
 			"val": 7.435620110891884,
-			"desc": 235.85,
+			"desc": "235.85",
 			"group": "AUTO POSTO ISADORA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "AUTO POSTO FAÉ",
 			"name": "AUTO POSTO FAÉ",
 			"val": 5.039802197484445,
-			"desc": 170.04,
+			"desc": "170.04",
 			"group": "AUTO POSTO FAÉ"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "AUTO EIXO 208 NORTE LTDA",
 			"name": "AUTO EIXO 208 NORTE LTDA",
 			"val": 10.209541125524016,
-			"desc": 308.64,
+			"desc": "308.64",
 			"group": "AUTO EIXO 208 NORTE LTDA"
 		},
 		{

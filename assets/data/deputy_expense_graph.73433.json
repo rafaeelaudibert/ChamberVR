@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ARLINDO CHINAGLIA"
+			"name": "ARLINDO CHINAGLIA",
+			"desc": "56915.03"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "E M DA SILVA RESTAURANTE",
 			"name": "E M DA SILVA RESTAURANTE",
 			"val": 0.3205677632976285,
-			"desc": 18.9,
+			"desc": "18.90",
 			"group": "E M DA SILVA RESTAURANTE"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 44.06947528205208,
-			"desc": 1091.66,
+			"desc": "1091.66",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1010.2627422678931,
-			"desc": 17879.47,
+			"desc": "17879.47",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
 			"name": "FAZENDA DOS PAES CONVENIENCIAS LTDA",
 			"val": 3.4324934124028306,
-			"desc": 123.49999999999999,
+			"desc": "123.50",
 			"group": "FAZENDA DOS PAES CONVENIENCIAS LTDA"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 848.8733042130948,
-			"desc": 15269.320000000002,
+			"desc": "15269.32",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "AUTO POSTO SIRACUSA LTDA ME",
 			"name": "AUTO POSTO SIRACUSA LTDA ME",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "AUTO POSTO SIRACUSA LTDA ME"
 		},
 		{
@@ -317,7 +318,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 19.307438132355383,
-			"desc": 532.9,
+			"desc": "532.90",
 			"group": "RAMAL"
 		},
 		{
@@ -342,7 +343,7 @@
 			"id": "CAXINGUI RESTAURANTE LTDA ME",
 			"name": "CAXINGUI RESTAURANTE LTDA ME",
 			"val": 7.516987023116346,
-			"desc": 238.03,
+			"desc": "238.03",
 			"group": "CAXINGUI RESTAURANTE LTDA ME"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 33.687809670096584,
-			"desc": 863.44,
+			"desc": "863.44",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 21.912405839921067,
-			"desc": 594.45,
+			"desc": "594.45",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 2.062207653261696,
-			"desc": 81.25999999999999,
+			"desc": "81.26",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 6.867893432470724,
-			"desc": 220.55,
+			"desc": "220.55",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "POSTO E RESTAURANTE PIRAJU LT",
 			"name": "POSTO E RESTAURANTE PIRAJU LT",
 			"val": 4.658699346112667,
-			"desc": 159.22,
+			"desc": "159.22",
 			"group": "POSTO E RESTAURANTE PIRAJU LT"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME",
 			"name": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME",
 			"val": 0.7709990981130845,
-			"desc": 37,
+			"desc": "37.00",
 			"group": "FROZEN KITUTTES ALIMENTOS CONGELADOS LTDA ME"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 66.16515958720986,
-			"desc": 1559.49,
+			"desc": "1559.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 15.710229870980285,
-			"desc": 446.23,
+			"desc": "446.23",
 			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "POSTO DE SERVICOS ANEL VIARIO LTDA",
 			"name": "POSTO DE SERVICOS ANEL VIARIO LTDA",
 			"val": 12.668344272431227,
-			"desc": 371.04999999999995,
+			"desc": "371.05",
 			"group": "POSTO DE SERVICOS ANEL VIARIO LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "AUTO POSTO S3 AICAS LTDA",
 			"name": "AUTO POSTO S3 AICAS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO S3 AICAS LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "CAXINGUI RESTAURANTE LTDA",
 			"name": "CAXINGUI RESTAURANTE LTDA",
 			"val": 1.9270868367897054,
-			"desc": 76.9,
+			"desc": "76.90",
 			"group": "CAXINGUI RESTAURANTE LTDA"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
 			"name": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
 			"val": 448.4547517904029,
-			"desc": 8580.06,
+			"desc": "8580.06",
 			"group": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 56.405736049578415,
-			"desc": 1355.3300000000002,
+			"desc": "1355.33",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA",
 			"name": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA",
 			"val": 2.7353382523341363,
-			"desc": 102.4,
+			"desc": "102.40",
 			"group": "PRISCILA MAZZIERO SILVESTRE WAKIYAMA"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "POSTO UNIAO DE LIMEIRA LTDA",
 			"name": "POSTO UNIAO DE LIMEIRA LTDA",
 			"val": 2.658512888023484,
-			"desc": 100.03,
+			"desc": "100.03",
 			"group": "POSTO UNIAO DE LIMEIRA LTDA"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "JJA PETRO AUTO POSTO LTDA",
 			"name": "JJA PETRO AUTO POSTO LTDA",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "JJA PETRO AUTO POSTO LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 8.632776086104649,
-			"desc": 267.63,
+			"desc": "267.63",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA",
 			"name": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CENTRO AUTOMOTIVO PORTAL JARDIM SUL LTDA"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
 			"name": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
 			"val": 152.39518526477983,
-			"desc": 3264,
+			"desc": "3264.00",
 			"group": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 28.88100773447651,
-			"desc": 755.2,
+			"desc": "755.20",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "RODOPOSTO RUBI LT",
 			"name": "RODOPOSTO RUBI LT",
 			"val": 1.7468318836894843,
-			"desc": 71.01,
+			"desc": "71.01",
 			"group": "RODOPOSTO RUBI LT"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "INTELIG TELECOM",
 			"name": "INTELIG TELECOM",
 			"val": 7.689804698210457,
-			"desc": 242.65,
+			"desc": "242.65",
 			"group": "INTELIG TELECOM"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "WILSON V DA SILVA CUNHA",
 			"name": "WILSON V DA SILVA CUNHA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "WILSON V DA SILVA CUNHA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 17.253242619796804,
-			"desc": 483.66999999999996,
+			"desc": "483.67",
 			"group": "TIM S/A"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "AUTO POSTO RAMAL LT",
 			"name": "AUTO POSTO RAMAL LT",
 			"val": 2.1927047721820436,
-			"desc": 85.43,
+			"desc": "85.43",
 			"group": "AUTO POSTO RAMAL LT"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA",
 			"name": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA",
 			"val": 7.628025320125683,
-			"desc": 241,
+			"desc": "241.00",
 			"group": "JOAO ROBERTO RODRIGUES COMBUSTIVEIS LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "Sheraton Montevideo",
 			"name": "Sheraton Montevideo",
 			"val": 14.906744702456185,
-			"desc": 426.56,
+			"desc": "426.56",
 			"group": "Sheraton Montevideo"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 22.148737997121763,
-			"desc": 599.99,
+			"desc": "599.99",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "AUTO POSTO BERARDO EIRELI",
 			"name": "AUTO POSTO BERARDO EIRELI",
 			"val": 2.996302620553701,
-			"desc": 110.38,
+			"desc": "110.38",
 			"group": "AUTO POSTO BERARDO EIRELI"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "CARRETEIRO REVEND PETROLEO DERIVADOS LT",
 			"name": "CARRETEIRO REVEND PETROLEO DERIVADOS LT",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CARRETEIRO REVEND PETROLEO DERIVADOS LT"
 		},
 		{

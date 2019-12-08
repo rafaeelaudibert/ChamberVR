@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "OSIRES DAMASO"
+			"name": "OSIRES DAMASO",
+			"desc": "113484.89"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "PETROLIDER-COM. DE COMB. E DER. DE PET. LTDA",
 			"name": "PETROLIDER-COM. DE COMB. E DER. DE PET. LTDA",
 			"val": 19.13909874369706,
-			"desc": 528.89,
+			"desc": "528.89",
 			"group": "PETROLIDER-COM. DE COMB. E DER. DE PET. LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
 			"name": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
 			"val": 11.829321048768604,
-			"desc": 349.94000000000005,
+			"desc": "349.94",
 			"group": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A."
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1062.6200732091163,
-			"desc": 18718.420000000002,
+			"desc": "18718.42",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.655897038817664,
-			"desc": 159.14,
+			"desc": "159.14",
 			"group": "RAMAL"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 6.113631126707533,
-			"desc": 199.96,
+			"desc": "199.96",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "RAKA COMUNICACOES LTDA",
 			"name": "RAKA COMUNICACOES LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "RAKA COMUNICACOES LTDA"
 		},
 		{
@@ -389,7 +390,7 @@
 			"id": "WORKING ASSOCIACAO DE INTEGRACAO PROFISSIONAL",
 			"name": "WORKING ASSOCIACAO DE INTEGRACAO PROFISSIONAL",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "WORKING ASSOCIACAO DE INTEGRACAO PROFISSIONAL"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "MINAS PETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "MINAS PETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.522281056221151,
-			"desc": 183.58,
+			"desc": "183.58",
 			"group": "MINAS PETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "OCCUR COMUNICAÇÃO E TECNOLOGIA – EIRELI ME",
 			"name": "OCCUR COMUNICAÇÃO E TECNOLOGIA – EIRELI ME",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "OCCUR COMUNICAÇÃO E TECNOLOGIA – EIRELI ME"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "EA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "EA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.363316557715751,
-			"desc": 150.75,
+			"desc": "150.75",
 			"group": "EA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "AeR Administração de Bens Imóveis Ltda",
 			"name": "AeR Administração de Bens Imóveis Ltda",
 			"val": 363.2967642089269,
-			"desc": 7099.27,
+			"desc": "7099.27",
 			"group": "AeR Administração de Bens Imóveis Ltda"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "DMD Gestão Administrativa LTDA - ME",
 			"name": "DMD Gestão Administrativa LTDA - ME",
 			"val": 3464.3716796010845,
-			"desc": 55000,
+			"desc": "55000.00",
 			"group": "DMD Gestão Administrativa LTDA - ME"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "MEDEIROS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "MEDEIROS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 37.23079862648655,
-			"desc": 942.1,
+			"desc": "942.10",
 			"group": "MEDEIROS COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "AUTO POSTO DISBRAVA LTDA - MATRIZ",
 			"name": "AUTO POSTO DISBRAVA LTDA - MATRIZ",
 			"val": 8.351592317836069,
-			"desc": 260.22,
+			"desc": "260.22",
 			"group": "AUTO POSTO DISBRAVA LTDA - MATRIZ"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "POSTO TREVO DO LAGO LTDA - EPP",
 			"name": "POSTO TREVO DO LAGO LTDA - EPP",
 			"val": 8.608823255042308,
-			"desc": 267,
+			"desc": "267.00",
 			"group": "POSTO TREVO DO LAGO LTDA - EPP"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 26.631218254311186,
-			"desc": 703.85,
+			"desc": "703.85",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 8.154617988666656,
-			"desc": 255.01,
+			"desc": "255.01",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "OCCUR COMUNICACOES E TECNOLOGIA - EIRELI",
 			"name": "OCCUR COMUNICACOES E TECNOLOGIA - EIRELI",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "OCCUR COMUNICACOES E TECNOLOGIA - EIRELI"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 35.626471893284,
-			"desc": 906.5899999999999,
+			"desc": "906.59",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "Matsuse Comercio de Derivados de Petroleo Ltda",
 			"name": "Matsuse Comercio de Derivados de Petroleo Ltda",
 			"val": 8.839579344454426,
-			"desc": 273.06,
+			"desc": "273.06",
 			"group": "Matsuse Comercio de Derivados de Petroleo Ltda"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "OI",
 			"name": "OI",
 			"val": 17.360203385554065,
-			"desc": 486.25,
+			"desc": "486.25",
 			"group": "OI"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 21.232390407340947,
-			"desc": 578.47,
+			"desc": "578.47",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "Adobe Systems Software",
 			"name": "Adobe Systems Software",
 			"val": 116.95816321520556,
-			"desc": 2580,
+			"desc": "2580.00",
 			"group": "Adobe Systems Software"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "Diretiva Locacao de Veiculos e Transporte Eirelli",
 			"name": "Diretiva Locacao de Veiculos e Transporte Eirelli",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "Diretiva Locacao de Veiculos e Transporte Eirelli"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 7.215993241215666,
-			"desc": 229.95,
+			"desc": "229.95",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "POSTO DA TORRE EIRELI",
 			"name": "POSTO DA TORRE EIRELI",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "POSTO DA TORRE EIRELI"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 17.001081218082692,
-			"desc": 477.58,
+			"desc": "477.58",
 			"group": "OI S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "DIRETIVA LOCACAO DE VEICULOS E TRANSPORTE EIRELI",
 			"name": "DIRETIVA LOCACAO DE VEICULOS E TRANSPORTE EIRELI",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "DIRETIVA LOCACAO DE VEICULOS E TRANSPORTE EIRELI"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.096,
-			"desc": 8,
+			"desc": "8.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "VALE IMOVEIS LTDA",
 			"name": "VALE IMOVEIS LTDA",
 			"val": 11.043152962988641,
-			"desc": 329.99,
+			"desc": "329.99",
 			"group": "VALE IMOVEIS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 8.836146553135286,
-			"desc": 272.97,
+			"desc": "272.97",
 			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 16.217277463495513,
-			"desc": 458.58,
+			"desc": "458.58",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.4721881730049182,
-			"desc": 25.32,
+			"desc": "25.32",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

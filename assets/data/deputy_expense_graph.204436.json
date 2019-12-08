@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ISNALDO BULHÕES JR."
+			"name": "ISNALDO BULHÕES JR.",
+			"desc": "77147.92"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 99.96984757206403,
-			"desc": 2245,
+			"desc": "2245.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 29.97045060575069,
-			"desc": 779.9,
+			"desc": "779.90",
 			"group": "RAMAL"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "SEMEAR ESPACO GOURMET LTDA ME",
 			"name": "SEMEAR ESPACO GOURMET LTDA ME",
 			"val": 1.3888898062563713,
-			"desc": 59.02,
+			"desc": "59.02",
 			"group": "SEMEAR ESPACO GOURMET LTDA ME"
 		},
 		{
@@ -153,7 +154,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 797.7220514846831,
-			"desc": 14433.56,
+			"desc": "14433.56",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.388117461662346,
-			"desc": 207.49,
+			"desc": "207.49",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "AUTO POSTO FORENE LTDA ME",
 			"name": "AUTO POSTO FORENE LTDA ME",
 			"val": 8.13650135553483,
-			"desc": 254.53,
+			"desc": "254.53",
 			"group": "AUTO POSTO FORENE LTDA ME"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "POSTO BOULANGERIE LTDA",
 			"name": "POSTO BOULANGERIE LTDA",
 			"val": 8.773242451096843,
-			"desc": 271.32,
+			"desc": "271.32",
 			"group": "POSTO BOULANGERIE LTDA"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "Posto 59",
 			"name": "Posto 59",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "Posto 59"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1370.9936449494123,
-			"desc": 23595.179999999997,
+			"desc": "23595.18",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 84.01491383107724,
-			"desc": 1925.06,
+			"desc": "1925.06",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 42.268572192901026,
-			"desc": 1052.54,
+			"desc": "1052.54",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "AUTO POSTO R2",
 			"name": "AUTO POSTO R2",
 			"val": 186.06112953992408,
-			"desc": 3899.34,
+			"desc": "3899.34",
 			"group": "AUTO POSTO R2"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
 			"name": "RESTAURANTE E BAR XIQUE XIQUE LTDA",
 			"val": 3.016720644659447,
-			"desc": 111,
+			"desc": "111.00",
 			"group": "RESTAURANTE E BAR XIQUE XIQUE LTDA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "GABRIEL LUCIO S. SOC. IND. DE ADVOCACIA",
 			"name": "GABRIEL LUCIO S. SOC. IND. DE ADVOCACIA",
 			"val": 340.6265361902309,
-			"desc": 6700,
+			"desc": "6700.00",
 			"group": "GABRIEL LUCIO S. SOC. IND. DE ADVOCACIA"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 5.430603831898797,
-			"desc": 181.02,
+			"desc": "181.02",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "GABRIEL ALVES FIREMAN",
 			"name": "GABRIEL ALVES FIREMAN",
 			"val": 838.4885601176281,
-			"desc": 15100,
+			"desc": "15100.00",
 			"group": "GABRIEL ALVES FIREMAN"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "OK LOCADORA DE VEÍCULOS LTDA - EPP",
 			"name": "OK LOCADORA DE VEÍCULOS LTDA - EPP",
 			"val": 217.89969514412803,
-			"desc": 4490,
+			"desc": "4490.00",
 			"group": "OK LOCADORA DE VEÍCULOS LTDA - EPP"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 7.642996169681812,
-			"desc": 241.4,
+			"desc": "241.40",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "GALETOS BRAUN LTDA EPP",
 			"name": "GALETOS BRAUN LTDA EPP",
 			"val": 0.6759931297877976,
-			"desc": 33.39,
+			"desc": "33.39",
 			"group": "GALETOS BRAUN LTDA EPP"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "RFJ COMERCIO DE ALIMENTOS LTDA - ME",
 			"name": "RFJ COMERCIO DE ALIMENTOS LTDA - ME",
 			"val": 0.6879787639443057,
-			"desc": 33.85,
+			"desc": "33.85",
 			"group": "RFJ COMERCIO DE ALIMENTOS LTDA - ME"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 11.833674358404751,
-			"desc": 350.05,
+			"desc": "350.05",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "MIZUNO KAY & CIA LTDA CEASA 00375386000116",
 			"name": "MIZUNO KAY & CIA LTDA CEASA 00375386000116",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "MIZUNO KAY & CIA LTDA CEASA 00375386000116"
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "RESTAURANTE PALHOCA RECANTO NORDESTINO L",
 			"name": "RESTAURANTE PALHOCA RECANTO NORDESTINO L",
 			"val": 1.2444953505175835,
-			"desc": 54.05,
+			"desc": "54.05",
 			"group": "RESTAURANTE PALHOCA RECANTO NORDESTINO L"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.6104052130834106,
-			"desc": 66.49,
+			"desc": "66.49",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "AUTO POSTO ROMEIRO LTDA",
 			"name": "AUTO POSTO ROMEIRO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ROMEIRO LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "CDG COMBUSTIVEIS LTDA",
 			"name": "CDG COMBUSTIVEIS LTDA",
 			"val": 5.887767433779095,
-			"desc": 193.73,
+			"desc": "193.73",
 			"group": "CDG COMBUSTIVEIS LTDA"
 		},
 		{

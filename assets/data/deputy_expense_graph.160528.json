@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DANILO CABRAL"
+			"name": "DANILO CABRAL",
+			"desc": "56911.62"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 99.23221234498993,
-			"desc": 2230.33,
+			"desc": "2230.33",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 657.4698641936417,
-			"desc": 12117.230000000001,
+			"desc": "12117.23",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "HOTEL BROTAS LTDA",
 			"name": "HOTEL BROTAS LTDA",
 			"val": 12.748200640531254,
-			"desc": 373.04999999999995,
+			"desc": "373.05",
 			"group": "HOTEL BROTAS LTDA"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.6638238271448245,
-			"desc": 130.36,
+			"desc": "130.36",
 			"group": "RAMAL"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "POSTO APIPUCOS LTDA",
 			"name": "POSTO APIPUCOS LTDA",
 			"val": 5.7541717820763445,
-			"desc": 190.03,
+			"desc": "190.03",
 			"group": "POSTO APIPUCOS LTDA"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 44.92026609701112,
-			"desc": 1110.08,
+			"desc": "1110.08",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 293.66861984499707,
-			"desc": 5864.97,
+			"desc": "5864.97",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "POSTO ROSARINHO LTDA",
 			"name": "POSTO ROSARINHO LTDA",
 			"val": 6.847965511403397,
-			"desc": 220.01,
+			"desc": "220.01",
 			"group": "POSTO ROSARINHO LTDA"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "CJCM PETROLEO LTDA",
 			"name": "CJCM PETROLEO LTDA",
 			"val": 37.21857062383081,
-			"desc": 941.83,
+			"desc": "941.83",
 			"group": "CJCM PETROLEO LTDA"
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "POSTO AMIGAO",
 			"name": "POSTO AMIGAO",
 			"val": 102.42554740864469,
-			"desc": 2293.7599999999998,
+			"desc": "2293.76",
 			"group": "POSTO AMIGAO"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "SAO SEBASTIAO",
 			"name": "SAO SEBASTIAO",
 			"val": 6.492054891874542,
-			"desc": 210.33,
+			"desc": "210.33",
 			"group": "SAO SEBASTIAO"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 14.874989404643157,
-			"desc": 425.78,
+			"desc": "425.78",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "POSTO SOLAR LTDA",
 			"name": "POSTO SOLAR LTDA",
 			"val": 15.861524112835486,
-			"desc": 449.92,
+			"desc": "449.92",
 			"group": "POSTO SOLAR LTDA"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 26.514380233370556,
-			"desc": 701.17,
+			"desc": "701.17",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "TEIXEIRA & LIMA ADVOCACIA E CONSULTORIA JURIDICA",
 			"name": "TEIXEIRA & LIMA ADVOCACIA E CONSULTORIA JURIDICA",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "TEIXEIRA & LIMA ADVOCACIA E CONSULTORIA JURIDICA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 27.512866797491082,
-			"desc": 724.03,
+			"desc": "724.03",
 			"group": "CLARO S.A."
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "BARBARA HOSTIN ALVES 06552459440",
 			"name": "BARBARA HOSTIN ALVES 06552459440",
 			"val": 121.0535200433342,
-			"desc": 2660,
+			"desc": "2660.00",
 			"group": "BARBARA HOSTIN ALVES 06552459440"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "MICHELLE S. DE MEDEIROS FONSECA",
 			"name": "MICHELLE S. DE MEDEIROS FONSECA",
 			"val": 5.752729761824205,
-			"desc": 189.99,
+			"desc": "189.99",
 			"group": "MICHELLE S. DE MEDEIROS FONSECA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "Elvio Aldo Dalla Nora",
 			"name": "Elvio Aldo Dalla Nora",
 			"val": 487.48379306076833,
-			"desc": 9250,
+			"desc": "9250.00",
 			"group": "Elvio Aldo Dalla Nora"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "CACULINHA COMBUSTIVEIS LTDA VI",
 			"name": "CACULINHA COMBUSTIVEIS LTDA VI",
 			"val": 5.395563782705333,
-			"desc": 180.04,
+			"desc": "180.04",
 			"group": "CACULINHA COMBUSTIVEIS LTDA VI"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 14.507964994440359,
-			"desc": 416.75,
+			"desc": "416.75",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 26.411541960298226,
-			"desc": 698.81,
+			"desc": "698.81",
 			"group": "Claro S.A"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"name": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"val": 6.731504221243157,
-			"desc": 216.85,
+			"desc": "216.85",
 			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "Movida Locação de Veículos LTDA",
 			"name": "Movida Locação de Veículos LTDA",
 			"val": 156.91326809511546,
-			"desc": 3350,
+			"desc": "3350.00",
 			"group": "Movida Locação de Veículos LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 5.084445294987936,
-			"desc": 171.3,
+			"desc": "171.30",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{

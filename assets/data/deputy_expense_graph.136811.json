@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AFONSO HAMM"
+			"name": "AFONSO HAMM",
+			"desc": "41707.22"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RAABE COML DE ALIMENTOS LTDA",
 			"name": "RAABE COML DE ALIMENTOS LTDA",
 			"val": 5.465674498064651,
-			"desc": 182,
+			"desc": "182.00",
 			"group": "RAABE COML DE ALIMENTOS LTDA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"name": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
 			"val": 9.250055524501313,
-			"desc": 283.79,
+			"desc": "283.79",
 			"group": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica"
 		},
 		{
@@ -61,7 +62,7 @@
 			"id": "EXCELSIOR SA HOTEIS E TURISMO",
 			"name": "EXCELSIOR SA HOTEIS E TURISMO",
 			"val": 17.65454379062907,
-			"desc": 493.34,
+			"desc": "493.34",
 			"group": "EXCELSIOR SA HOTEIS E TURISMO"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 487.85217734243923,
-			"desc": 9256.3,
+			"desc": "9256.30",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -153,7 +154,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.106876797472357,
-			"desc": 227.01000000000002,
+			"desc": "227.01",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -190,7 +191,7 @@
 			"id": "METARJ SOLUCOES EM GEOTECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS LTDA.",
 			"name": "METARJ SOLUCOES EM GEOTECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS LTDA.",
 			"val": 11.680242287837489,
-			"desc": 346.16999999999996,
+			"desc": "346.17",
 			"group": "METARJ SOLUCOES EM GEOTECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS LTDA."
 		},
 		{
@@ -209,7 +210,7 @@
 			"id": "REST DAS CUCAS LTDA",
 			"name": "REST DAS CUCAS LTDA",
 			"val": 1.6859527500707747,
-			"desc": 69,
+			"desc": "69.00",
 			"group": "REST DAS CUCAS LTDA"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "PIRAGIBE TEIXEIRA E CIA LTDA",
 			"name": "PIRAGIBE TEIXEIRA E CIA LTDA",
 			"val": 86.24698470632582,
-			"desc": 1970.17,
+			"desc": "1970.17",
 			"group": "PIRAGIBE TEIXEIRA E CIA LTDA"
 		},
 		{
@@ -241,7 +242,7 @@
 			"id": "BEI MONTI HOTEL",
 			"name": "BEI MONTI HOTEL",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "BEI MONTI HOTEL"
 		},
 		{
@@ -260,7 +261,7 @@
 			"id": "GARAGEM PARQUE DO ARVOREDO LTDA",
 			"name": "GARAGEM PARQUE DO ARVOREDO LTDA",
 			"val": 2.660777384845032,
-			"desc": 100.1,
+			"desc": "100.10",
 			"group": "GARAGEM PARQUE DO ARVOREDO LTDA"
 		},
 		{
@@ -273,7 +274,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.082411368804776,
-			"desc": 226.35,
+			"desc": "226.35",
 			"group": "RAMAL"
 		},
 		{
@@ -292,7 +293,7 @@
 			"id": "RENOSTO REST. E CHURRASCARIA LTDA",
 			"name": "RENOSTO REST. E CHURRASCARIA LTDA",
 			"val": 0.6658600237553158,
-			"desc": 33,
+			"desc": "33.00",
 			"group": "RENOSTO REST. E CHURRASCARIA LTDA"
 		},
 		{
@@ -305,7 +306,7 @@
 			"id": "SIM REDE DE POSTOS LTDA",
 			"name": "SIM REDE DE POSTOS LTDA",
 			"val": 2.887966974569508,
-			"desc": 107.08,
+			"desc": "107.08",
 			"group": "SIM REDE DE POSTOS LTDA"
 		},
 		{
@@ -318,7 +319,7 @@
 			"id": "DARIO VIEIRA RIVAROLI",
 			"name": "DARIO VIEIRA RIVAROLI",
 			"val": 1.0442627041153958,
-			"desc": 47,
+			"desc": "47.00",
 			"group": "DARIO VIEIRA RIVAROLI"
 		},
 		{
@@ -331,7 +332,7 @@
 			"id": "RENOSTO REST CHURRASCARIA LTDA",
 			"name": "RENOSTO REST CHURRASCARIA LTDA",
 			"val": 5.573222280782071,
-			"desc": 185,
+			"desc": "185.00",
 			"group": "RENOSTO REST CHURRASCARIA LTDA"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "STILO COMERCIO DE COMBUSTÍVEIS LTDA",
 			"name": "STILO COMERCIO DE COMBUSTÍVEIS LTDA",
 			"val": 13.217392038433397,
-			"desc": 384.77,
+			"desc": "384.77",
 			"group": "STILO COMERCIO DE COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.07187310304603681,
-			"desc": 6.6,
+			"desc": "6.60",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "FUND BANRISUL DE SEGURIDADE",
 			"name": "FUND BANRISUL DE SEGURIDADE",
 			"val": 257.0260778914318,
-			"desc": 5204.8,
+			"desc": "5204.80",
 			"group": "FUND BANRISUL DE SEGURIDADE"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 8.472494467023415,
-			"desc": 263.40999999999997,
+			"desc": "263.41",
 			"group": "CEEE"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "FF STAEVIE COMBUSTIVEIS LTDA - ST",
 			"name": "FF STAEVIE COMBUSTIVEIS LTDA - ST",
 			"val": 18.9923124571935,
-			"desc": 525.39,
+			"desc": "525.39",
 			"group": "FF STAEVIE COMBUSTIVEIS LTDA - ST"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "AROSI COMERCIO DE COMBUSTIVEIS",
 			"name": "AROSI COMERCIO DE COMBUSTIVEIS",
 			"val": 2.6578659408444105,
-			"desc": 100.01,
+			"desc": "100.01",
 			"group": "AROSI COMERCIO DE COMBUSTIVEIS"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.4855211363276504,
-			"desc": 62.3,
+			"desc": "62.30",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "INSIGHT Consultoria Treinamento e Comunicação",
 			"name": "INSIGHT Consultoria Treinamento e Comunicação",
 			"val": 180.7551122889183,
-			"desc": 3800,
+			"desc": "3800.00",
 			"group": "INSIGHT Consultoria Treinamento e Comunicação"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 17.08218797837985,
-			"desc": 479.53999999999996,
+			"desc": "479.54",
 			"group": "CLARO S/A"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "Coqueiro Combustiveis e Servicos Ltda",
 			"name": "Coqueiro Combustiveis e Servicos Ltda",
 			"val": 6.407863034148733,
-			"desc": 208.03,
+			"desc": "208.03",
 			"group": "Coqueiro Combustiveis e Servicos Ltda"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 34.15888435672558,
-			"desc": 873.95,
+			"desc": "873.95",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "Telefonia Claro",
 			"name": "Telefonia Claro",
 			"val": 7.402434875499431,
-			"desc": 234.96,
+			"desc": "234.96",
 			"group": "Telefonia Claro"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 9.915213377725918,
-			"desc": 301.05,
+			"desc": "301.05",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS POLLY POSITION LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS POLLY POSITION LTDA",
 			"val": 2.4335249281145552,
-			"desc": 93.03,
+			"desc": "93.03",
 			"group": "COMERCIO DE COMBUSTIVEIS POLLY POSITION LTDA"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.3066496010549853,
-			"desc": 56.2,
+			"desc": "56.20",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "LIZIANE QUEVEDO",
 			"name": "LIZIANE QUEVEDO",
 			"val": 426.4461887760841,
-			"desc": 8200,
+			"desc": "8200.00",
 			"group": "LIZIANE QUEVEDO"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 2.2987110523605074,
-			"desc": 88.78999999999999,
+			"desc": "88.79",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"name": "EGR EMPRESA GAUCHA DE RODOVIAS SA",
 			"val": 0.7049763750353873,
-			"desc": 34.5,
+			"desc": "34.50",
 			"group": "EGR EMPRESA GAUCHA DE RODOVIAS SA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "HUGO CARLOS LANG FILHO CIA LTDA - F4",
 			"name": "HUGO CARLOS LANG FILHO CIA LTDA - F4",
 			"val": 5.336637415015072,
-			"desc": 178.39,
+			"desc": "178.39",
 			"group": "HUGO CARLOS LANG FILHO CIA LTDA - F4"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -755,7 +756,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 10.35964047443681,
-			"desc": 312.5,
+			"desc": "312.50",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "Viação Ouro e Prata SA",
 			"name": "Viação Ouro e Prata SA",
 			"val": 10.276001749530288,
-			"desc": 310.35,
+			"desc": "310.35",
 			"group": "Viação Ouro e Prata SA"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS LEAO LTDA - F1",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS LEAO LTDA - F1",
 			"val": 0.7760575413004712,
-			"desc": 37.19,
+			"desc": "37.19",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS LEAO LTDA - F1"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "COMERCIAL INTERNACIONAL LTDA",
 			"name": "COMERCIAL INTERNACIONAL LTDA",
 			"val": 6.053701186866634,
-			"desc": 198.31,
+			"desc": "198.31",
 			"group": "COMERCIAL INTERNACIONAL LTDA"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "COM DE COMB JF & FILHOS LTDA",
 			"name": "COM DE COMB JF & FILHOS LTDA",
 			"val": 3.7972958053940333,
-			"desc": 134.29,
+			"desc": "134.29",
 			"group": "COM DE COMB JF & FILHOS LTDA"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "LOCALE SERVICOS DE INTERNET E INFORMATICA LTDA",
 			"name": "LOCALE SERVICOS DE INTERNET E INFORMATICA LTDA",
 			"val": 10.652067961455824,
-			"desc": 320,
+			"desc": "320.00",
 			"group": "LOCALE SERVICOS DE INTERNET E INFORMATICA LTDA"
 		},
 		{
@@ -833,7 +834,7 @@
 			"id": "A E S GASTRONOMIA LTDA",
 			"name": "A E S GASTRONOMIA LTDA",
 			"val": 1.3806887188748578,
-			"desc": 58.74,
+			"desc": "58.74",
 			"group": "A E S GASTRONOMIA LTDA"
 		},
 		{
@@ -846,7 +847,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 80.78138726896019,
-			"desc": 1859.49,
+			"desc": "1859.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -859,7 +860,7 @@
 			"id": "NTA - NUCLEO TECNICO DE APOIO E SERVICOS DE EVENTOS LTDA",
 			"name": "NTA - NUCLEO TECNICO DE APOIO E SERVICOS DE EVENTOS LTDA",
 			"val": 74.9235062715232,
-			"desc": 1740,
+			"desc": "1740.00",
 			"group": "NTA - NUCLEO TECNICO DE APOIO E SERVICOS DE EVENTOS LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "OI MÓVEL SA",
 			"name": "OI MÓVEL SA",
 			"val": 7.969171430694707,
-			"desc": 250.09,
+			"desc": "250.09",
 			"group": "OI MÓVEL SA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "RC COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "RC COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.0163353999144904,
-			"desc": 46,
+			"desc": "46.00",
 			"group": "RC COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "RESTAURANTE C C LTDA",
 			"name": "RESTAURANTE C C LTDA",
 			"val": 0.501159568183699,
-			"desc": 26.5,
+			"desc": "26.50",
 			"group": "RESTAURANTE C C LTDA"
 		},
 		{
@@ -917,7 +918,7 @@
 			"id": "ROGER SOUZA DA SILVA",
 			"name": "ROGER SOUZA DA SILVA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ROGER SOUZA DA SILVA"
 		},
 		{
@@ -930,7 +931,7 @@
 			"id": "VEIGA MARTINS COM DE COMB EIRELI",
 			"name": "VEIGA MARTINS COM DE COMB EIRELI",
 			"val": 5.717055272711131,
-			"desc": 189,
+			"desc": "189.00",
 			"group": "VEIGA MARTINS COM DE COMB EIRELI"
 		},
 		{
@@ -943,7 +944,7 @@
 			"id": "RAABE COMBUSTIVEIS LTDA",
 			"name": "RAABE COMBUSTIVEIS LTDA",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "RAABE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -956,7 +957,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA",
 			"val": 7.68755703828038,
-			"desc": 242.59,
+			"desc": "242.59",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS PORTO ALEGRE LTDA"
 		},
 		{
@@ -969,7 +970,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 8.35234962491764,
-			"desc": 260.24,
+			"desc": "260.24",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -982,7 +983,7 @@
 			"id": "NORBERTO GIRARDI DALMAGRO E CIA LTDA",
 			"name": "NORBERTO GIRARDI DALMAGRO E CIA LTDA",
 			"val": 3.9889699044144282,
-			"desc": 139.9,
+			"desc": "139.90",
 			"group": "NORBERTO GIRARDI DALMAGRO E CIA LTDA"
 		},
 		{
@@ -995,7 +996,7 @@
 			"id": "CHOPERIA KOUNTRY BEER EIRELI",
 			"name": "CHOPERIA KOUNTRY BEER EIRELI",
 			"val": 0.9885335573393415,
-			"desc": 45,
+			"desc": "45.00",
 			"group": "CHOPERIA KOUNTRY BEER EIRELI"
 		},
 		{

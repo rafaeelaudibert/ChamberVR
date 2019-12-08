@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROGÉRIO PENINHA MENDONÇA"
+			"name": "ROGÉRIO PENINHA MENDONÇA",
+			"desc": "35142.00"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO TIO ZICO LTDA",
 			"name": "POSTO TIO ZICO LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "POSTO TIO ZICO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "POSTO DE COMBUSTIVEL MACHADINHO LTDA",
 			"name": "POSTO DE COMBUSTIVEL MACHADINHO LTDA",
 			"val": 37.27835621390921,
-			"desc": 943.15,
+			"desc": "943.15",
 			"group": "POSTO DE COMBUSTIVEL MACHADINHO LTDA"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "AUTOVIAS S/A",
 			"name": "AUTOVIAS S/A",
 			"val": 0.5685703069943421,
-			"desc": 29.2,
+			"desc": "29.20",
 			"group": "AUTOVIAS S/A"
 		},
 		{
@@ -80,7 +81,7 @@
 			"id": "AUTOPISTA REGIS BITTENCOURT S/A",
 			"name": "AUTOPISTA REGIS BITTENCOURT S/A",
 			"val": 0.8813593307577864,
-			"desc": 41.1,
+			"desc": "41.10",
 			"group": "AUTOPISTA REGIS BITTENCOURT S/A"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"name": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A",
 			"val": 0.5990015292964368,
-			"desc": 30.4,
+			"desc": "30.40",
 			"group": "CONC. RODOVIAS DO INTERIOR PAULISTA S/A"
 		},
 		{
@@ -196,7 +197,7 @@
 			"id": "NIPOX MONITORAMENTO LTDA ME",
 			"name": "NIPOX MONITORAMENTO LTDA ME",
 			"val": 6.264345268619469,
-			"desc": 204.1,
+			"desc": "204.10",
 			"group": "NIPOX MONITORAMENTO LTDA ME"
 		},
 		{
@@ -215,7 +216,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 18.41153367124187,
-			"desc": 511.51,
+			"desc": "511.51",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -288,7 +289,7 @@
 			"id": "Posto Caxuxa MGM Ltda",
 			"name": "Posto Caxuxa MGM Ltda",
 			"val": 6.627063108188765,
-			"desc": 214.01,
+			"desc": "214.01",
 			"group": "Posto Caxuxa MGM Ltda"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"name": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"val": 1.6678449213115991,
-			"desc": 68.39999999999999,
+			"desc": "68.40",
 			"group": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "COMPLETA SOLUCOES WEB LTDA - ME",
 			"name": "COMPLETA SOLUCOES WEB LTDA - ME",
 			"val": 129.58489940998348,
-			"desc": 2825.8,
+			"desc": "2825.80",
 			"group": "COMPLETA SOLUCOES WEB LTDA - ME"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
 			"name": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
 			"val": 0.032,
-			"desc": 4,
+			"desc": "4.00",
 			"group": "CONCESSIONARIA DO RODOANEL OESTE S.A."
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "ENTREVIAS",
 			"name": "ENTREVIAS",
 			"val": 0.884081536842357,
-			"desc": 41.2,
+			"desc": "41.20",
 			"group": "ENTREVIAS"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "MARIA SINOVA DALPIAZ",
 			"name": "MARIA SINOVA DALPIAZ",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "MARIA SINOVA DALPIAZ"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "AUTO POSTO SANTA RITA LTDA",
 			"name": "AUTO POSTO SANTA RITA LTDA",
 			"val": 5.145472926057261,
-			"desc": 173.02,
+			"desc": "173.02",
 			"group": "AUTO POSTO SANTA RITA LTDA"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 116.82427998263277,
-			"desc": 2577.38,
+			"desc": "2577.38",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
 			"name": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP",
 			"val": 0.8084020847360706,
-			"desc": 38.4,
+			"desc": "38.40",
 			"group": "FEDERAL INVEST COMERCIO DE ALIMENTOS EIRELI EPP"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 1.4291263952061388,
-			"desc": 60.39,
+			"desc": "60.39",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 87.96355733904521,
-			"desc": 2004.7800000000002,
+			"desc": "2004.78",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "ECP INCORPORAÇÇOES S/A",
 			"name": "ECP INCORPORAÇÇOES S/A",
 			"val": 136.92187179203978,
-			"desc": 2967.52,
+			"desc": "2967.52",
 			"group": "ECP INCORPORAÇÇOES S/A"
 		},
 		{
@@ -625,7 +626,7 @@
 			"id": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"name": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP",
 			"val": 0.4137824534979977,
-			"desc": 22.9,
+			"desc": "22.90",
 			"group": "SACOBRAS COMERCIO EMBALAGENS EIRELI EPP"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 24.55335244211361,
-			"desc": 655.98,
+			"desc": "655.98",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "CLERISON BESCHINOCK ME",
 			"name": "CLERISON BESCHINOCK ME",
 			"val": 243.83269912797653,
-			"desc": 4965,
+			"desc": "4965.00",
 			"group": "CLERISON BESCHINOCK ME"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": null,
-			"desc": -431.24,
+			"desc": "-431.24",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.6104052130834106,
-			"desc": 66.49,
+			"desc": "66.49",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.48319993475531103,
-			"desc": 25.77,
+			"desc": "25.77",
 			"group": "RAMAL"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "WS COMERCIO DE COMBUSTIVEIS",
 			"name": "WS COMERCIO DE COMBUSTIVEIS",
 			"val": 52.3351327722165,
-			"desc": 1269.09,
+			"desc": "1269.09",
 			"group": "WS COMERCIO DE COMBUSTIVEIS"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "AUTO POSTO SONHO VERDE LTDA",
 			"name": "AUTO POSTO SONHO VERDE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO SONHO VERDE LTDA"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.14441407605025547,
-			"desc": 10.6,
+			"desc": "10.60",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "AUTO PISTA LITORAL SUL S.A.",
 			"name": "AUTO PISTA LITORAL SUL S.A.",
 			"val": 0.2027639251168273,
-			"desc": 13.5,
+			"desc": "13.50",
 			"group": "AUTO PISTA LITORAL SUL S.A."
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "ESTRELA LOCADORA DE VEICULOS LTDA",
 			"name": "ESTRELA LOCADORA DE VEICULOS LTDA",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "ESTRELA LOCADORA DE VEICULOS LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 23.82108194114052,
-			"desc": 639,
+			"desc": "639.00",
 			"group": "TIM S/A"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "AUTO POSTO VIA SETE LTDA",
 			"name": "AUTO POSTO VIA SETE LTDA",
 			"val": 4.512592172163522,
-			"desc": 155.04,
+			"desc": "155.04",
 			"group": "AUTO POSTO VIA SETE LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "AUTO POSTO ISEJIMA DO BRASIL LT",
 			"name": "AUTO POSTO ISEJIMA DO BRASIL LT",
 			"val": 7.44270711225288,
-			"desc": 236.04,
+			"desc": "236.04",
 			"group": "AUTO POSTO ISEJIMA DO BRASIL LT"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "J.M BAR E RESTAURANTE LTDA",
 			"name": "J.M BAR E RESTAURANTE LTDA",
 			"val": 1.072312800138462,
-			"desc": 48,
+			"desc": "48.00",
 			"group": "J.M BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "AUTO POSTAO I LTDA",
 			"name": "AUTO POSTAO I LTDA",
 			"val": 4.757276723303445,
-			"desc": 162.03,
+			"desc": "162.03",
 			"group": "AUTO POSTAO I LTDA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "Cond. Ed. Barcelona Plaza",
 			"name": "Cond. Ed. Barcelona Plaza",
 			"val": 28.10054016291067,
-			"desc": 737.44,
+			"desc": "737.44",
 			"group": "Cond. Ed. Barcelona Plaza"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{

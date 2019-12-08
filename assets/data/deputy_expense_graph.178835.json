@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "AFONSO MOTTA"
+			"name": "AFONSO MOTTA",
+			"desc": "37797.62"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CPQ BRASIL S A",
 			"name": "CPQ BRASIL S A",
 			"val": 0.48884573068667353,
-			"desc": 26,
+			"desc": "26.00",
 			"group": "CPQ BRASIL S A"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "ABASTECEDORA DE COMBUST&Iacute;VEIS BELA VISTA LTDA.",
 			"name": "ABASTECEDORA DE COMBUST&Iacute;VEIS BELA VISTA LTDA.",
 			"val": 86.72326831088763,
-			"desc": 1979.78,
+			"desc": "1979.78",
 			"group": "ABASTECEDORA DE COMBUST&Iacute;VEIS BELA VISTA LTDA."
 		},
 		{
@@ -103,7 +104,7 @@
 			"id": "POSTO VIA XV",
 			"name": "POSTO VIA XV",
 			"val": 7.7636502955865785,
-			"desc": 244.62,
+			"desc": "244.62",
 			"group": "POSTO VIA XV"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "TELEFONICA BRASIL S.A. VIVO",
 			"name": "TELEFONICA BRASIL S.A. VIVO",
 			"val": 54.34840881580525,
-			"desc": 1311.83,
+			"desc": "1311.83",
 			"group": "TELEFONICA BRASIL S.A. VIVO"
 		},
 		{
@@ -135,7 +136,7 @@
 			"id": "J A LIMA E CIA LTDA PRACA NOVA",
 			"name": "J A LIMA E CIA LTDA PRACA NOVA",
 			"val": 1.121971478074034,
-			"desc": 49.76,
+			"desc": "49.76",
 			"group": "J A LIMA E CIA LTDA PRACA NOVA"
 		},
 		{
@@ -148,7 +149,7 @@
 			"id": "GSS EMPREENDIMENTOS ALIMENTICIOS EIRELI",
 			"name": "GSS EMPREENDIMENTOS ALIMENTICIOS EIRELI",
 			"val": 0.31625420598539994,
-			"desc": 18.71,
+			"desc": "18.71",
 			"group": "GSS EMPREENDIMENTOS ALIMENTICIOS EIRELI"
 		},
 		{
@@ -161,7 +162,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -174,7 +175,7 @@
 			"id": "COMERCIAL DE ALIMENTOS ROSINKE LTDA",
 			"name": "COMERCIAL DE ALIMENTOS ROSINKE LTDA",
 			"val": 1.0163353999144904,
-			"desc": 46,
+			"desc": "46.00",
 			"group": "COMERCIAL DE ALIMENTOS ROSINKE LTDA"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "MARCIO LOMANDO BILHAR DA SILVA",
 			"name": "MARCIO LOMANDO BILHAR DA SILVA",
 			"val": 503.3863307031445,
-			"desc": 9521.58,
+			"desc": "9521.58",
 			"group": "MARCIO LOMANDO BILHAR DA SILVA"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "OI S/A",
 			"name": "OI S/A",
 			"val": 16.795626175846017,
-			"desc": 472.60999999999996,
+			"desc": "472.61",
 			"group": "OI S/A"
 		},
 		{
@@ -231,7 +232,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA",
 			"val": 32.33120576747836,
-			"desc": 833.08,
+			"desc": "833.08",
 			"group": "COMERCIAL DE COMBUSTIVEIS AEROPORTO LTDA"
 		},
 		{
@@ -262,7 +263,7 @@
 			"id": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"name": "AUTO POSTO GOLDEN GAS 202 LTDA",
 			"val": 4.511894644271568,
-			"desc": 155.02,
+			"desc": "155.02",
 			"group": "AUTO POSTO GOLDEN GAS 202 LTDA"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "AUTO POSTO TULIO LTDA (FIG)",
 			"name": "AUTO POSTO TULIO LTDA (FIG)",
 			"val": 12.508818505086936,
-			"desc": 367.05,
+			"desc": "367.05",
 			"group": "AUTO POSTO TULIO LTDA (FIG)"
 		},
 		{
@@ -294,7 +295,7 @@
 			"id": "POSTO RS 239 DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO RS 239 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.115811881688821,
-			"desc": 200.02,
+			"desc": "200.02",
 			"group": "POSTO RS 239 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "SMART CATERING SERV. SOL. ALIM. LTDA",
 			"name": "SMART CATERING SERV. SOL. ALIM. LTDA",
 			"val": 2.918111400934618,
-			"desc": 108,
+			"desc": "108.00",
 			"group": "SMART CATERING SERV. SOL. ALIM. LTDA"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 5.190952930940959,
-			"desc": 174.3,
+			"desc": "174.30",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "ANDRE LEANDRO POZZI RODRIGUES",
 			"name": "ANDRE LEANDRO POZZI RODRIGUES",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "ANDRE LEANDRO POZZI RODRIGUES"
 		},
 		{
@@ -364,7 +365,7 @@
 			"id": "J A LIMA E CIA LTDA CAVERA",
 			"name": "J A LIMA E CIA LTDA CAVERA",
 			"val": 12.54867647031626,
-			"desc": 368.05,
+			"desc": "368.05",
 			"group": "J A LIMA E CIA LTDA CAVERA"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 15.418391814053692,
-			"desc": 439.09999999999997,
+			"desc": "439.10",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 43",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 43",
 			"val": 6.091829296261504,
-			"desc": 199.36,
+			"desc": "199.36",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 43"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 62.69840049222571,
-			"desc": 1487.3600000000001,
+			"desc": "1487.36",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -476,7 +477,7 @@
 			"id": "ABASTECEDORA ABM LTDA",
 			"name": "ABASTECEDORA ABM LTDA",
 			"val": 8.902925911339816,
-			"desc": 274.72,
+			"desc": "274.72",
 			"group": "ABASTECEDORA ABM LTDA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 05",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 05",
 			"val": 5.752729761824205,
-			"desc": 189.99,
+			"desc": "189.99",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 05"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "POSTO DE SERVICOS PAULO MOREIRA LTDA",
 			"name": "POSTO DE SERVICOS PAULO MOREIRA LTDA",
 			"val": 4.952444265029256,
-			"desc": 167.57,
+			"desc": "167.57",
 			"group": "POSTO DE SERVICOS PAULO MOREIRA LTDA"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "CEEE",
 			"name": "CEEE",
 			"val": 37.537096797949914,
-			"desc": 948.86,
+			"desc": "948.86",
 			"group": "CEEE"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.6746925380868714,
-			"desc": 33.34,
+			"desc": "33.34",
 			"group": "RAMAL"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "ABASTECEDORA DE COMBUSTIVEIS LARANJEIRAS LTDA",
 			"name": "ABASTECEDORA DE COMBUSTIVEIS LARANJEIRAS LTDA",
 			"val": 6.61530867580057,
-			"desc": 213.69,
+			"desc": "213.69",
 			"group": "ABASTECEDORA DE COMBUSTIVEIS LARANJEIRAS LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "COMERCIAL DE COMBUST&Iacute;VEIS SILVA JARDIM LTDA",
 			"name": "COMERCIAL DE COMBUST&Iacute;VEIS SILVA JARDIM LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMERCIAL DE COMBUST&Iacute;VEIS SILVA JARDIM LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 20.957785618548954,
-			"desc": 572,
+			"desc": "572.00",
 			"group": "CLARO S/A"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 225.0866571661148,
-			"desc": 4622.150000000001,
+			"desc": "4622.15",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "R&R EMPREENDIMENTOS ALIMENTICIOS LTDA ME",
 			"name": "R&R EMPREENDIMENTOS ALIMENTICIOS LTDA ME",
 			"val": 0.5384237512704516,
-			"desc": 28,
+			"desc": "28.00",
 			"group": "R&R EMPREENDIMENTOS ALIMENTICIOS LTDA ME"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "ALEGRIA COM. DE COMB. LTDA",
 			"name": "ALEGRIA COM. DE COMB. LTDA",
 			"val": 9.106328511954775,
-			"desc": 280.04,
+			"desc": "280.04",
 			"group": "ALEGRIA COM. DE COMB. LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Posto Batovi Coml Rs Combs Der Ltda",
 			"name": "Posto Batovi Coml Rs Combs Der Ltda",
 			"val": 0.8374576693729296,
-			"desc": 39.48,
+			"desc": "39.48",
 			"group": "Posto Batovi Coml Rs Combs Der Ltda"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "ABASTECEDORA EDITH G. P. ASSUNCAO EIRELI",
 			"name": "ABASTECEDORA EDITH G. P. ASSUNCAO EIRELI",
 			"val": 6.26069907904874,
-			"desc": 204,
+			"desc": "204.00",
 			"group": "ABASTECEDORA EDITH G. P. ASSUNCAO EIRELI"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "COMBUSTIVEIS IBIRAPUITA LTDA",
 			"name": "COMBUSTIVEIS IBIRAPUITA LTDA",
 			"val": 7.593606916123045,
-			"desc": 240.08,
+			"desc": "240.08",
 			"group": "COMBUSTIVEIS IBIRAPUITA LTDA"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "Telefonia Claro",
 			"name": "Telefonia Claro",
 			"val": 20.474968559527042,
-			"desc": 560.6,
+			"desc": "560.60",
 			"group": "Telefonia Claro"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "COML. DE COMBUSTIVEIS DENARDI LTDA.",
 			"name": "COML. DE COMBUSTIVEIS DENARDI LTDA.",
 			"val": 19.69473011746256,
-			"desc": 542.11,
+			"desc": "542.11",
 			"group": "COML. DE COMBUSTIVEIS DENARDI LTDA."
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "CELSO PRODOCIMO",
 			"name": "CELSO PRODOCIMO",
 			"val": 0.7709990981130845,
-			"desc": 37,
+			"desc": "37.00",
 			"group": "CELSO PRODOCIMO"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "Comercio de combustiveis pele ltda",
 			"name": "Comercio de combustiveis pele ltda",
 			"val": 11.235224544489409,
-			"desc": 334.88,
+			"desc": "334.88",
 			"group": "Comercio de combustiveis pele ltda"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 19.678732678201122,
-			"desc": 541.73,
+			"desc": "541.73",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "BELLER COMERCIO DE PAPEIS LTDA",
 			"name": "BELLER COMERCIO DE PAPEIS LTDA",
 			"val": 6.902970319259746,
-			"desc": 221.5,
+			"desc": "221.50",
 			"group": "BELLER COMERCIO DE PAPEIS LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEL PESSANO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEL PESSANO LTDA",
 			"val": 8.49829563065917,
-			"desc": 264.09,
+			"desc": "264.09",
 			"group": "COMERCIAL DE COMBUSTIVEL PESSANO LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 63",
 			"name": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 63",
 			"val": 7.589119057319341,
-			"desc": 239.96,
+			"desc": "239.96",
 			"group": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 63"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 7.026109038963202,
-			"desc": 224.83,
+			"desc": "224.83",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "VARLEI BUSANELLO",
 			"name": "VARLEI BUSANELLO",
 			"val": 1.625711903042683,
-			"desc": 67,
+			"desc": "67.00",
 			"group": "VARLEI BUSANELLO"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "NOIA TECH IND E COM DE SUPR P/ IMPRESSORAS LTDA",
 			"name": "NOIA TECH IND E COM DE SUPR P/ IMPRESSORAS LTDA",
 			"val": 17.101229943568352,
-			"desc": 480,
+			"desc": "480.00",
 			"group": "NOIA TECH IND E COM DE SUPR P/ IMPRESSORAS LTDA"
 		},
 		{
@@ -899,7 +900,7 @@
 			"id": "POSTO DUEVILLE II LTDA",
 			"name": "POSTO DUEVILLE II LTDA",
 			"val": 8.351592317836069,
-			"desc": 260.22,
+			"desc": "260.22",
 			"group": "POSTO DUEVILLE II LTDA"
 		},
 		{
@@ -912,7 +913,7 @@
 			"id": "POSTO JAPONES EIRELI",
 			"name": "POSTO JAPONES EIRELI",
 			"val": 7.478528599955549,
-			"desc": 237,
+			"desc": "237.00",
 			"group": "POSTO JAPONES EIRELI"
 		},
 		{
@@ -925,7 +926,7 @@
 			"id": "Promotora de Garagens Ltda - EPP",
 			"name": "Promotora de Garagens Ltda - EPP",
 			"val": 14.843242352742609,
-			"desc": 425,
+			"desc": "425.00",
 			"group": "Promotora de Garagens Ltda - EPP"
 		},
 		{
@@ -938,7 +939,7 @@
 			"id": "ELF Locadora de Veículos Ltda",
 			"name": "ELF Locadora de Veículos Ltda",
 			"val": 332.7095578110229,
-			"desc": 6560,
+			"desc": "6560.00",
 			"group": "ELF Locadora de Veículos Ltda"
 		},
 		{
@@ -951,7 +952,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.642545047598725,
-			"desc": 67.56,
+			"desc": "67.56",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -964,7 +965,7 @@
 			"id": "SPOLETO - SP LAGO COMERCIO ALIMENTOS LTDA EPP",
 			"name": "SPOLETO - SP LAGO COMERCIO ALIMENTOS LTDA EPP",
 			"val": 0.6762532999975818,
-			"desc": 33.4,
+			"desc": "33.40",
 			"group": "SPOLETO - SP LAGO COMERCIO ALIMENTOS LTDA EPP"
 		},
 		{
@@ -977,7 +978,7 @@
 			"id": "REST DAS CUCAS LTDA",
 			"name": "REST DAS CUCAS LTDA",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "REST DAS CUCAS LTDA"
 		},
 		{
@@ -990,7 +991,7 @@
 			"id": "POSTO ROTA 80 LTDA",
 			"name": "POSTO ROTA 80 LTDA",
 			"val": 6.265074540467183,
-			"desc": 204.12,
+			"desc": "204.12",
 			"group": "POSTO ROTA 80 LTDA"
 		},
 		{
@@ -1003,7 +1004,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS SIMAO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS SIMAO LTDA",
 			"val": 6.314326477668755,
-			"desc": 205.47,
+			"desc": "205.47",
 			"group": "COMERCIAL DE COMBUSTIVEIS SIMAO LTDA"
 		},
 		{
@@ -1016,7 +1017,7 @@
 			"id": "AUTO POSTO DAVI LTDA",
 			"name": "AUTO POSTO DAVI LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "AUTO POSTO DAVI LTDA"
 		},
 		{

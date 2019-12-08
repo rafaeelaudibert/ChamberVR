@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZ LIMA"
+			"name": "LUIZ LIMA",
+			"desc": "75364.32"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 870.7759231861556,
-			"desc": 15625.859999999999,
+			"desc": "15625.86",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -216,7 +217,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 619.620630346709,
-			"desc": 11485.109999999999,
+			"desc": "11485.11",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 294.47508677579066,
-			"desc": 5879.410000000001,
+			"desc": "5879.41",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 15.711049420665885,
-			"desc": 446.25,
+			"desc": "446.25",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "CALLERI ASSESSORIA E CONSULTORIA IMOBILIARIA LTDA",
 			"name": "CALLERI ASSESSORIA E CONSULTORIA IMOBILIARIA LTDA",
 			"val": 91.56201566926485,
-			"desc": 2077.11,
+			"desc": "2077.11",
 			"group": "CALLERI ASSESSORIA E CONSULTORIA IMOBILIARIA LTDA"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 116.94385435045068,
-			"desc": 2579.7200000000003,
+			"desc": "2579.72",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "MARLENE SIAS FRATTANI",
 			"name": "MARLENE SIAS FRATTANI",
 			"val": 234.79331885752092,
-			"desc": 4800,
+			"desc": "4800.00",
 			"group": "MARLENE SIAS FRATTANI"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 10.195556371747958,
-			"desc": 308.28,
+			"desc": "308.28",
 			"group": "CLARO S/A"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.935492111057602,
-			"desc": 167.09,
+			"desc": "167.09",
 			"group": "RAMAL"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 20.289396948902887,
-			"desc": 556.21,
+			"desc": "556.21",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "POSTO SUPERSONICO LTDA",
 			"name": "POSTO SUPERSONICO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO SUPERSONICO LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "CONCESSIONARIA RIO TERESOPOLIS S A",
 			"name": "CONCESSIONARIA RIO TERESOPOLIS S A",
 			"val": 1.9363393374071658,
-			"desc": 77.2,
+			"desc": "77.20",
 			"group": "CONCESSIONARIA RIO TERESOPOLIS S A"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "MATTAR E MATTAR AUTO POSTO LTDA",
 			"name": "MATTAR E MATTAR AUTO POSTO LTDA",
 			"val": 6.537872313886595,
-			"desc": 211.58,
+			"desc": "211.58",
 			"group": "MATTAR E MATTAR AUTO POSTO LTDA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "AUTOPOSTO ML AYRTON SENNA LTDA",
 			"name": "AUTOPOSTO ML AYRTON SENNA LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTOPOSTO ML AYRTON SENNA LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 16.090641798207336,
-			"desc": 455.5,
+			"desc": "455.50",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "L F TORRES DE FREITAS ARTE E DESIGN",
 			"name": "L F TORRES DE FREITAS ARTE E DESIGN",
 			"val": 496.26153355860885,
-			"desc": 9400,
+			"desc": "9400.00",
 			"group": "L F TORRES DE FREITAS ARTE E DESIGN"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "LUIZ FERNANDO GASPAR DA SILVA",
 			"name": "LUIZ FERNANDO GASPAR DA SILVA",
 			"val": 50.50105759311488,
-			"desc": 1230,
+			"desc": "1230.00",
 			"group": "LUIZ FERNANDO GASPAR DA SILVA"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "POSTO MEGA VIA EXPRESSA",
 			"name": "POSTO MEGA VIA EXPRESSA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO MEGA VIA EXPRESSA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "CALLERI ASSESS. E CONSUL. IMOB. LTDA.",
 			"name": "CALLERI ASSESS. E CONSUL. IMOB. LTDA.",
 			"val": 86.56067708801388,
-			"desc": 1976.5,
+			"desc": "1976.50",
 			"group": "CALLERI ASSESS. E CONSUL. IMOB. LTDA."
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "VALET GIRLS ESTACIONAMENTO E SERVIÇOS LTDA",
 			"name": "VALET GIRLS ESTACIONAMENTO E SERVIÇOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "VALET GIRLS ESTACIONAMENTO E SERVIÇOS LTDA"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.728607743751197,
-			"desc": 132.26999999999998,
+			"desc": "132.27",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 4.510150889691446,
-			"desc": 154.97,
+			"desc": "154.97",
 			"group": "CLARO S.A"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 937.0410402142182,
-			"desc": 16700,
+			"desc": "16700.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "AUTO POSTO ESTRELA DE FRIBURGO LTDA",
 			"name": "AUTO POSTO ESTRELA DE FRIBURGO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ESTRELA DE FRIBURGO LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.1645783130338956,
-			"desc": 51.26,
+			"desc": "51.26",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

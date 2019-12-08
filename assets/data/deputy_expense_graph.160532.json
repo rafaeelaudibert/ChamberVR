@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ELI CORRÊA FILHO"
+			"name": "ELI CORRÊA FILHO",
+			"desc": "118599.95"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO COCAIA LT",
 			"name": "AUTO POSTO COCAIA LT",
 			"val": 56.73898219390415,
-			"desc": 1362.3600000000001,
+			"desc": "1362.36",
 			"group": "AUTO POSTO COCAIA LT"
 		},
 		{
@@ -84,7 +85,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 43.645211519477755,
-			"desc": 1082.46,
+			"desc": "1082.46",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 331.0627218616047,
-			"desc": 6530.84,
+			"desc": "6530.84",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -188,7 +189,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2109.7355218128528,
-			"desc": 34945.969999999994,
+			"desc": "34945.97",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.6856308945758394,
-			"desc": 33.76,
+			"desc": "33.76",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "SAO FELIPE ADMINISTRACAO E PARTICIPACAO LTDA",
 			"name": "SAO FELIPE ADMINISTRACAO E PARTICIPACAO LTDA",
 			"val": 213.42644953110968,
-			"desc": 4407.54,
+			"desc": "4407.54",
 			"group": "SAO FELIPE ADMINISTRACAO E PARTICIPACAO LTDA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 380.4579628399488,
-			"desc": 7400,
+			"desc": "7400.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "LILIAN NADER ATALLAH",
 			"name": "LILIAN NADER ATALLAH",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "LILIAN NADER ATALLAH"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "ENEL",
 			"name": "ENEL",
 			"val": 2.872911842444345,
-			"desc": 106.62,
+			"desc": "106.62",
 			"group": "ENEL"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "WORKLINE",
 			"name": "WORKLINE",
 			"val": 270.02834677035645,
-			"desc": 5440,
+			"desc": "5440.00",
 			"group": "WORKLINE"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 129.24264701103044,
-			"desc": 2819.17,
+			"desc": "2819.17",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 41.32313902584454,
-			"desc": 1031.9299999999998,
+			"desc": "1031.93",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 30.563382594639407,
-			"desc": 793.3,
+			"desc": "793.30",
 			"group": "SAO JOAO POSTOS"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 20.945911139750553,
-			"desc": 571.72,
+			"desc": "571.72",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.584833515390454,
-			"desc": 212.86,
+			"desc": "212.86",
 			"group": "RAMAL"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 45.443533089412625,
-			"desc": 1121.3899999999999,
+			"desc": "1121.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"name": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP",
 			"val": 2179.5421371990333,
-			"desc": 36000,
+			"desc": "36000.00",
 			"group": "T2 COMUNICACAO, VIDEO E PRODUCOES EIRELI - EPP"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "CENTRO AUTOMOTIVO PARAISO LT",
 			"name": "CENTRO AUTOMOTIVO PARAISO LT",
 			"val": 11.892661541256745,
-			"desc": 351.53999999999996,
+			"desc": "351.54",
 			"group": "CENTRO AUTOMOTIVO PARAISO LT"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 34.8117906746704,
-			"desc": 888.49,
+			"desc": "888.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{

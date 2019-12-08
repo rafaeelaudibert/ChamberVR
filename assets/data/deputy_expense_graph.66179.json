@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NORMA AYUB"
+			"name": "NORMA AYUB",
+			"desc": "49009.70"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "DELPHINO LAYBER POSTO NITEROI",
 			"name": "DELPHINO LAYBER POSTO NITEROI",
 			"val": 5.216203536177502,
-			"desc": 175.01,
+			"desc": "175.01",
 			"group": "DELPHINO LAYBER POSTO NITEROI"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "SPECIAL SERVICOS POSTAIS LTDA",
 			"name": "SPECIAL SERVICOS POSTAIS LTDA",
 			"val": 16.19136497577832,
-			"desc": 457.94999999999993,
+			"desc": "457.95",
 			"group": "SPECIAL SERVICOS POSTAIS LTDA"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
 			"val": 57.756125008596555,
-			"desc": 1383.7900000000004,
+			"desc": "1383.79",
 			"group": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A."
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 482.74496179238713,
-			"desc": 9168.920000000002,
+			"desc": "9168.92",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -261,7 +262,7 @@
 			"id": "COPITEC",
 			"name": "COPITEC",
 			"val": 12.80213868914479,
-			"desc": 374.4,
+			"desc": "374.40",
 			"group": "COPITEC"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 135.2752013494191,
-			"desc": 2935.78,
+			"desc": "2935.78",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -305,7 +306,7 @@
 			"id": "MASTER TOWER",
 			"name": "MASTER TOWER",
 			"val": 139.64413955499026,
-			"desc": 3019.91,
+			"desc": "3019.91",
 			"group": "MASTER TOWER"
 		},
 		{
@@ -360,7 +361,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 9.020613579241285,
-			"desc": 277.8,
+			"desc": "277.80",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "POSTO ARVOREDO LTDA",
 			"name": "POSTO ARVOREDO LTDA",
 			"val": 47.72273553995855,
-			"desc": 1170.49,
+			"desc": "1170.49",
 			"group": "POSTO ARVOREDO LTDA"
 		},
 		{
@@ -452,7 +453,7 @@
 			"id": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"name": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"val": 38.04245988713671,
-			"desc": 960,
+			"desc": "960.00",
 			"group": "VITÓRIA TECNOLOGIA DA INFORMAÇÃO LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"name": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
 			"val": 1.3124558068945789,
-			"desc": 56.4,
+			"desc": "56.40",
 			"group": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"name": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"val": 391.91022457783663,
-			"desc": 7600,
+			"desc": "7600.00",
 			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "Paulo Roberto de Araújo Bastos",
 			"name": "Paulo Roberto de Araújo Bastos",
 			"val": 472.8855342997584,
-			"desc": 9000,
+			"desc": "9000.00",
 			"group": "Paulo Roberto de Araújo Bastos"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "CONCESSIONARIA RODOVIA DO SOL S.A.",
 			"name": "CONCESSIONARIA RODOVIA DO SOL S.A.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CONCESSIONARIA RODOVIA DO SOL S.A."
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "VALOR POSTOS - PRAIA DO MORRO LTDA",
 			"name": "VALOR POSTOS - PRAIA DO MORRO LTDA",
 			"val": 5.752729761824205,
-			"desc": 189.99,
+			"desc": "189.99",
 			"group": "VALOR POSTOS - PRAIA DO MORRO LTDA"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.03272093619052,
-			"desc": 169.84,
+			"desc": "169.84",
 			"group": "RAMAL"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 24.5062687856382,
-			"desc": 654.89,
+			"desc": "654.89",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "GUARAVE GUARAPARI VEICULOS LTDA",
 			"name": "GUARAVE GUARAPARI VEICULOS LTDA",
 			"val": 6.5925423361077735,
-			"desc": 213.07,
+			"desc": "213.07",
 			"group": "GUARAVE GUARAPARI VEICULOS LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 5.7815793870215755,
-			"desc": 190.79,
+			"desc": "190.79",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "Avenida Comercio de Combustivel LTDA",
 			"name": "Avenida Comercio de Combustivel LTDA",
 			"val": 12.141677366432981,
-			"desc": 357.82,
+			"desc": "357.82",
 			"group": "Avenida Comercio de Combustivel LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 116.2914546076342,
-			"desc": 2566.95,
+			"desc": "2566.95",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "AUTO POSTO SENNA LTDA",
 			"name": "AUTO POSTO SENNA LTDA",
 			"val": 7.696173532886487,
-			"desc": 242.82,
+			"desc": "242.82",
 			"group": "AUTO POSTO SENNA LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 199.9574085151108,
-			"desc": 4158.24,
+			"desc": "4158.24",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 5.99240053484138,
-			"desc": 196.62,
+			"desc": "196.62",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 1.2143191363673982,
-			"desc": 53,
+			"desc": "53.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "VIEIRA REVENDEDORA DE PETROLEO LTDA",
 			"name": "VIEIRA REVENDEDORA DE PETROLEO LTDA",
 			"val": 2.658512888023484,
-			"desc": 100.03,
+			"desc": "100.03",
 			"group": "VIEIRA REVENDEDORA DE PETROLEO LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"name": "AUTO POSTO Z+Z 307 NORTE LTDA",
 			"val": 1.868645607148764,
-			"desc": 75,
+			"desc": "75.00",
 			"group": "AUTO POSTO Z+Z 307 NORTE LTDA"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "Design Liquido Desenvolvimento",
 			"name": "Design Liquido Desenvolvimento",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "Design Liquido Desenvolvimento"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "POSTO DA VILA LTDA EPP",
 			"name": "POSTO DA VILA LTDA EPP",
 			"val": 6.444450253344905,
-			"desc": 209.03,
+			"desc": "209.03",
 			"group": "POSTO DA VILA LTDA EPP"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "POSTO LM - EIRELI",
 			"name": "POSTO LM - EIRELI",
 			"val": 6.365456621790103,
-			"desc": 206.87,
+			"desc": "206.87",
 			"group": "POSTO LM - EIRELI"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "POSTO SETE IRMÃOS LTDA",
 			"name": "POSTO SETE IRMÃOS LTDA",
 			"val": 7.5166135165427574,
-			"desc": 238.02,
+			"desc": "238.02",
 			"group": "POSTO SETE IRMÃOS LTDA"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 44.902696575063445,
-			"desc": 1109.7,
+			"desc": "1109.70",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "ATACADO SAO PAULO LTDA",
 			"name": "ATACADO SAO PAULO LTDA",
 			"val": 4.218546099714684,
-			"desc": 146.57,
+			"desc": "146.57",
 			"group": "ATACADO SAO PAULO LTDA"
 		},
 		{

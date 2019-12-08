@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ANDRÉ ABDON"
+			"name": "ANDRÉ ABDON",
+			"desc": "156379.33"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 642.3599611314697,
-			"desc": 11865.27,
+			"desc": "11865.27",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -138,7 +139,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 0.9885335573393415,
-			"desc": 45,
+			"desc": "45.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -157,7 +158,7 @@
 			"id": "K. D. DA SILVA GOES",
 			"name": "K. D. DA SILVA GOES",
 			"val": 374.74347786071843,
-			"desc": 7300,
+			"desc": "7300.00",
 			"group": "K. D. DA SILVA GOES"
 		},
 		{
@@ -170,7 +171,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.0199115019337803,
-			"desc": 79.9,
+			"desc": "79.90",
 			"group": "RAMAL"
 		},
 		{
@@ -201,7 +202,7 @@
 			"id": "K.D DA SILVA GOES",
 			"name": "K.D DA SILVA GOES",
 			"val": 807.8869557214368,
-			"desc": 14600,
+			"desc": "14600.00",
 			"group": "K.D DA SILVA GOES"
 		},
 		{
@@ -220,7 +221,7 @@
 			"id": "L.C. DUNNINCHAM LEITAO JUNIOR-ME",
 			"name": "L.C. DUNNINCHAM LEITAO JUNIOR-ME",
 			"val": 1259.2669022001182,
-			"desc": 21840,
+			"desc": "21840.00",
 			"group": "L.C. DUNNINCHAM LEITAO JUNIOR-ME"
 		},
 		{
@@ -245,7 +246,7 @@
 			"id": "MACHADO & ANDRADE LTDA",
 			"name": "MACHADO & ANDRADE LTDA",
 			"val": 1394.8323299376266,
-			"desc": 23968.12,
+			"desc": "23968.12",
 			"group": "MACHADO & ANDRADE LTDA"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 6.370207200809441,
-			"desc": 207,
+			"desc": "207.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 20.251377301831216,
-			"desc": 555.3100000000001,
+			"desc": "555.31",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -374,7 +375,7 @@
 			"id": "COOPERTAXI 202 NORTE",
 			"name": "COOPERTAXI 202 NORTE",
 			"val": 13.48372991504967,
-			"desc": 391.4,
+			"desc": "391.40",
 			"group": "COOPERTAXI 202 NORTE"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 794.6608218286639,
-			"desc": 14383.4,
+			"desc": "14383.40",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 14.558704468839236,
-			"desc": 418,
+			"desc": "418.00",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "COOPERATIVA DO PONTO DE TAXI 202 NORTE - COOPERNORTE",
 			"name": "COOPERATIVA DO PONTO DE TAXI 202 NORTE - COOPERNORTE",
 			"val": 4.441521359727903,
-			"desc": 153,
+			"desc": "153.00",
 			"group": "COOPERATIVA DO PONTO DE TAXI 202 NORTE - COOPERNORTE"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 11.26196665753907,
-			"desc": 335.56,
+			"desc": "335.56",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "MARCIA LUZIA SANTOS DO CARMO 15940853234",
 			"name": "MARCIA LUZIA SANTOS DO CARMO 15940853234",
 			"val": 525.6192272702316,
-			"desc": 9900,
+			"desc": "9900.00",
 			"group": "MARCIA LUZIA SANTOS DO CARMO 15940853234"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"name": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA",
 			"val": 2.4325670777321875,
-			"desc": 93,
+			"desc": "93.00",
 			"group": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE BRASILIA LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "JOSÉ ROBERTO DE CASTRO",
 			"name": "JOSÉ ROBERTO DE CASTRO",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "JOSÉ ROBERTO DE CASTRO"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "JN PAPELARIA E INFORMATICA LTDA ME",
 			"name": "JN PAPELARIA E INFORMATICA LTDA ME",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "JN PAPELARIA E INFORMATICA LTDA ME"
 		},
 		{
@@ -727,7 +728,7 @@
 			"id": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"name": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 7.927033611132594,
-			"desc": 248.97,
+			"desc": "248.97",
 			"group": "CLARO S/A"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 7.035735507399088,
-			"desc": 225.09,
+			"desc": "225.09",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "INSTITUTO DO DESENVOLVIMENTO ECONOMICO E FORMACAO PROFISSIONAL - IDEFAP",
 			"name": "INSTITUTO DO DESENVOLVIMENTO ECONOMICO E FORMACAO PROFISSIONAL - IDEFAP",
 			"val": 2283.849266508118,
-			"desc": 37570,
+			"desc": "37570.00",
 			"group": "INSTITUTO DO DESENVOLVIMENTO ECONOMICO E FORMACAO PROFISSIONAL - IDEFAP"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 2.9939986202633464,
-			"desc": 110.31,
+			"desc": "110.31",
 			"group": "NET CLARO"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{

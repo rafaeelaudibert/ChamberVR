@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JANDIRA FEGHALI"
+			"name": "JANDIRA FEGHALI",
+			"desc": "82605.01"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Muzik Informatica e Promoções de Eventos LTDA",
 			"name": "Muzik Informatica e Promoções de Eventos LTDA",
 			"val": 142.147591722796,
-			"desc": 3068,
+			"desc": "3068.00",
 			"group": "Muzik Informatica e Promoções de Eventos LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 110.52092563618581,
-			"desc": 2453.6799999999994,
+			"desc": "2453.68",
 			"group": "CLARO S/A"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.80016328554982,
-			"desc": 163.25,
+			"desc": "163.25",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 859.8751943022189,
-			"desc": 15448.509999999998,
+			"desc": "15448.51",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "POSTO CATEDRAL LTDA",
 			"name": "POSTO CATEDRAL LTDA",
 			"val": 178.05071013046404,
-			"desc": 3749.2599999999998,
+			"desc": "3749.26",
 			"group": "POSTO CATEDRAL LTDA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 9.097139808828855,
-			"desc": 279.8,
+			"desc": "279.80",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -383,7 +384,7 @@
 			"id": "FILIPE GARCIA PECANHA 13074693703",
 			"name": "FILIPE GARCIA PECANHA 13074693703",
 			"val": 128.25356445252208,
-			"desc": 2800,
+			"desc": "2800.00",
 			"group": "FILIPE GARCIA PECANHA 13074693703"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "TOP GLORIA",
 			"name": "TOP GLORIA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "TOP GLORIA"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "RENATO SOARES DE MOURA",
 			"name": "RENATO SOARES DE MOURA",
 			"val": 805.7485054006744,
-			"desc": 14565,
+			"desc": "14565.00",
 			"group": "RENATO SOARES DE MOURA"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 496.4583139463177,
-			"desc": 9403.360000000002,
+			"desc": "9403.36",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "LIGHT S.A",
 			"name": "LIGHT S.A",
 			"val": 141.378755020888,
-			"desc": 3053.24,
+			"desc": "3053.24",
 			"group": "LIGHT S.A"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 2.3189867832438007,
-			"desc": 89.43000000000006,
+			"desc": "89.43",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.438116402844095,
-			"desc": 181.23000000000002,
+			"desc": "181.23",
 			"group": "RAMAL"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "POSTO DE GASOLINA FHC LTDA",
 			"name": "POSTO DE GASOLINA FHC LTDA",
 			"val": 8.03846062600789,
-			"desc": 251.93,
+			"desc": "251.93",
 			"group": "POSTO DE GASOLINA FHC LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "MSI - MASTER SYNC INFORMATICA LTDA",
 			"name": "MSI - MASTER SYNC INFORMATICA LTDA",
 			"val": 149.0413592291165,
-			"desc": 3200,
+			"desc": "3200.00",
 			"group": "MSI - MASTER SYNC INFORMATICA LTDA"
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 4.564250422665331,
-			"desc": 156.52,
+			"desc": "156.52",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "KARPER ALUGUEL DE VEICULOS S/A",
 			"name": "KARPER ALUGUEL DE VEICULOS S/A",
 			"val": 149.0413592291165,
-			"desc": 3200,
+			"desc": "3200.00",
 			"group": "KARPER ALUGUEL DE VEICULOS S/A"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "Serve Sul Locadora de Veiculos LTDA-ME",
 			"name": "Serve Sul Locadora de Veiculos LTDA-ME",
 			"val": 543.3042864952457,
-			"desc": 10200,
+			"desc": "10200.00",
 			"group": "Serve Sul Locadora de Veiculos LTDA-ME"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 17.000667526940802,
-			"desc": 477.57,
+			"desc": "477.57",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 6.216238385705132,
-			"desc": 202.78,
+			"desc": "202.78",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 4.30123857101246,
-			"desc": 148.96,
+			"desc": "148.96",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "MSI-Master Sync Informatica Ltda.",
 			"name": "MSI-Master Sync Informatica Ltda.",
 			"val": 399.3021853846497,
-			"desc": 7728.8099999999995,
+			"desc": "7728.81",
 			"group": "MSI-Master Sync Informatica Ltda."
 		},
 		{
@@ -780,7 +781,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 16.65318364161589,
-			"desc": 469.16,
+			"desc": "469.16",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -793,7 +794,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 7.702917753504819,
-			"desc": 243,
+			"desc": "243.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -806,7 +807,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.092245617108626,
-			"desc": 171.52,
+			"desc": "171.52",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FÁBIO MITIDIERI"
+			"name": "FÁBIO MITIDIERI",
+			"desc": "88849.73"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 40.61001884651484,
-			"desc": 1016.3499999999999,
+			"desc": "1016.35",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 579.705586631245,
-			"desc": 10814.82,
+			"desc": "10814.82",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 49.00916812595639,
-			"desc": 1198.0900000000001,
+			"desc": "1198.09",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 44.356568219211056,
-			"desc": 1097.88,
+			"desc": "1097.88",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 14.548960814513295,
-			"desc": 417.76,
+			"desc": "417.76",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"name": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"val": 16.325917364861745,
-			"desc": 461.22,
+			"desc": "461.22",
 			"group": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 31.669515996319866,
-			"desc": 818.22,
+			"desc": "818.22",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "SOUZA LOCAÇÃO DE VEICULOS LTDA",
 			"name": "SOUZA LOCAÇÃO DE VEICULOS LTDA",
 			"val": 2179.5421371990333,
-			"desc": 36000,
+			"desc": "36000.00",
 			"group": "SOUZA LOCAÇÃO DE VEICULOS LTDA"
 		},
 		{
@@ -487,7 +488,7 @@
 			"id": "DIOGENES NEY DE SOUZA PRATA",
 			"name": "DIOGENES NEY DE SOUZA PRATA",
 			"val": 218.4427671498792,
-			"desc": 4500,
+			"desc": "4500.00",
 			"group": "DIOGENES NEY DE SOUZA PRATA"
 		},
 		{
@@ -512,7 +513,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.3217047465009067,
-			"desc": 18.95,
+			"desc": "18.95",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -525,7 +526,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 150.28561283762173,
-			"desc": 3223.76,
+			"desc": "3223.76",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.243930252681377,
-			"desc": 203.54,
+			"desc": "203.54",
 			"group": "RAMAL"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "ANA VIRGINIA DE SOUSA PRATA",
 			"name": "ANA VIRGINIA DE SOUSA PRATA",
 			"val": 20.04242007356397,
-			"desc": 550.36,
+			"desc": "550.36",
 			"group": "ANA VIRGINIA DE SOUSA PRATA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 25.535817759628177,
-			"desc": 678.67,
+			"desc": "678.67",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 5.834279796942645,
-			"desc": 192.25,
+			"desc": "192.25",
 			"group": "CLARO S.A."
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 60.529035693440775,
-			"desc": 1442.0100000000002,
+			"desc": "1442.01",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"name": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"val": 2.6912136297786247,
-			"desc": 101.04,
+			"desc": "101.04",
 			"group": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "CONFIRMA - COMUNICACAO DIGITAL LTDA",
 			"name": "CONFIRMA - COMUNICACAO DIGITAL LTDA",
 			"val": 760.3471013388363,
-			"desc": 13820,
+			"desc": "13820.00",
 			"group": "CONFIRMA - COMUNICACAO DIGITAL LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "ASSOCIAÇÃO DE RADIODIFUSAO COM DA CIDADE FEIRA NOVA SE",
 			"name": "ASSOCIAÇÃO DE RADIODIFUSAO COM DA CIDADE FEIRA NOVA SE",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "ASSOCIAÇÃO DE RADIODIFUSAO COM DA CIDADE FEIRA NOVA SE"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.1123499275059265,
-			"desc": 49.42,
+			"desc": "49.42",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "Telefônica Brasil S.A. - VIVO",
 			"name": "Telefônica Brasil S.A. - VIVO",
 			"val": 25.535817759628177,
-			"desc": 678.67,
+			"desc": "678.67",
 			"group": "Telefônica Brasil S.A. - VIVO"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "ANDRE MENEZES OLIVEIRA 03075793523",
 			"name": "ANDRE MENEZES OLIVEIRA 03075793523",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "ANDRE MENEZES OLIVEIRA 03075793523"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 4.709531254778218,
-			"desc": 160.67,
+			"desc": "160.67",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "ARMANDO BATALHA DE GOES JUNIOR - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "ARMANDO BATALHA DE GOES JUNIOR - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "ARMANDO BATALHA DE GOES JUNIOR - SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{

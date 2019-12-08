@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JUAREZ COSTA"
+			"name": "JUAREZ COSTA",
+			"desc": "40112.78"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 17.513734508570938,
-			"desc": 489.95,
+			"desc": "489.95",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 234.4542884341035,
-			"desc": 4793.8,
+			"desc": "4793.80",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -121,7 +122,7 @@
 			"id": "Rota do Oeste",
 			"name": "Rota do Oeste",
 			"val": 1.7252893229128705,
-			"desc": 70.3,
+			"desc": "70.30",
 			"group": "Rota do Oeste"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 22.143615751327488,
-			"desc": 599.87,
+			"desc": "599.87",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -291,7 +292,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "Intervias",
 			"name": "Intervias",
 			"val": 0.11411730005192323,
-			"desc": 9,
+			"desc": "9.00",
 			"group": "Intervias"
 		},
 		{
@@ -317,7 +318,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 282.7442900864093,
-			"desc": 5669.000000000001,
+			"desc": "5669.00",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 73.6141027020323,
-			"desc": 1713.1599999999999,
+			"desc": "1713.16",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "BAR RESTAURANTE E CHURRASCARIA GUARACIABA LTDA ME-EPP",
 			"name": "BAR RESTAURANTE E CHURRASCARIA GUARACIABA LTDA ME-EPP",
 			"val": 4.000971754901533,
-			"desc": 140.25,
+			"desc": "140.25",
 			"group": "BAR RESTAURANTE E CHURRASCARIA GUARACIABA LTDA ME-EPP"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 27.729627716596955,
-			"desc": 728.98,
+			"desc": "728.98",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "RASPAS E DELICIAS RESTAURANTE LTDA",
 			"name": "RASPAS E DELICIAS RESTAURANTE LTDA",
 			"val": 1.791868735919126,
-			"desc": 72.49,
+			"desc": "72.49",
 			"group": "RASPAS E DELICIAS RESTAURANTE LTDA"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 69.590122199508,
-			"desc": 1630.36,
+			"desc": "1630.36",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "Jacare locadora de veículos",
 			"name": "Jacare locadora de veículos",
 			"val": 490.40815803283857,
-			"desc": 9300,
+			"desc": "9300.00",
 			"group": "Jacare locadora de veículos"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "AUTO POSTO PENIEL LTDA",
 			"name": "AUTO POSTO PENIEL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO PENIEL LTDA"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "BASSNUF RODRIGUES E CIA LTDA",
 			"name": "BASSNUF RODRIGUES E CIA LTDA",
 			"val": 14.176867615291611,
-			"desc": 408.58000000000004,
+			"desc": "408.58",
 			"group": "BASSNUF RODRIGUES E CIA LTDA"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "AUTO POSTO 314 NORTE",
 			"name": "AUTO POSTO 314 NORTE",
 			"val": 7.018335081045131,
-			"desc": 224.62,
+			"desc": "224.62",
 			"group": "AUTO POSTO 314 NORTE"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "Franscielle Maria de Souza",
 			"name": "Franscielle Maria de Souza",
 			"val": 267.812863745865,
-			"desc": 5400,
+			"desc": "5400.00",
 			"group": "Franscielle Maria de Souza"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "AUTO POSTO CHAVES LTDA",
 			"name": "AUTO POSTO CHAVES LTDA",
 			"val": 15.209644770337523,
-			"desc": 433.99,
+			"desc": "433.99",
 			"group": "AUTO POSTO CHAVES LTDA"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"name": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "PRATES FOODS COMERCIO DE ALIMENTOS EIRELI"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "28-MACEDO E SOUZA LTDA",
 			"name": "28-MACEDO E SOUZA LTDA",
 			"val": 14.420338216080719,
-			"desc": 414.59000000000003,
+			"desc": "414.59",
 			"group": "28-MACEDO E SOUZA LTDA"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "L. P. MARQUIS COSTA EIRELI",
 			"name": "L. P. MARQUIS COSTA EIRELI",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "L. P. MARQUIS COSTA EIRELI"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 46.13528949706166,
-			"desc": 1136.32,
+			"desc": "1136.32",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 18.156559396162468,
-			"desc": 505.40000000000003,
+			"desc": "505.40",
 			"group": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "VERDE AMARELO POSTO DE SERVICOS LTDA",
 			"name": "VERDE AMARELO POSTO DE SERVICOS LTDA",
 			"val": 5.898617491868321,
-			"desc": 194.03,
+			"desc": "194.03",
 			"group": "VERDE AMARELO POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "JGJ COMERCIO DE PETROLEO LTDA",
 			"name": "JGJ COMERCIO DE PETROLEO LTDA",
 			"val": 5.795289745305911,
-			"desc": 191.17,
+			"desc": "191.17",
 			"group": "JGJ COMERCIO DE PETROLEO LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "Viação Xavante Ltda.",
 			"name": "Viação Xavante Ltda.",
 			"val": 3.55025182088026,
-			"desc": 127,
+			"desc": "127.00",
 			"group": "Viação Xavante Ltda."
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 47.41612859321675,
-			"desc": 1163.9,
+			"desc": "1163.90",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -740,7 +741,7 @@
 			"id": "POSTO Z+Z SANTA MARTA LTDA",
 			"name": "POSTO Z+Z SANTA MARTA LTDA",
 			"val": 6.3618026510216446,
-			"desc": 206.77,
+			"desc": "206.77",
 			"group": "POSTO Z+Z SANTA MARTA LTDA"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "Francisco Pátio Comércio de Alimentos Ltda EPP",
 			"name": "Francisco Pátio Comércio de Alimentos Ltda EPP",
 			"val": 1.9573365385611237,
-			"desc": 77.88,
+			"desc": "77.88",
 			"group": "Francisco Pátio Comércio de Alimentos Ltda EPP"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "SEIBEL FREITAG COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "SEIBEL FREITAG COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 4.27180357359292,
-			"desc": 148.11,
+			"desc": "148.11",
 			"group": "SEIBEL FREITAG COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "POSTO SETE MILHAS LTDA",
 			"name": "POSTO SETE MILHAS LTDA",
 			"val": 8.5829790328646,
-			"desc": 266.32,
+			"desc": "266.32",
 			"group": "POSTO SETE MILHAS LTDA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 11.96079943567031,
-			"desc": 353.26,
+			"desc": "353.26",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 53.52166754571318,
-			"desc": 1294.3,
+			"desc": "1294.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 29.03334059897007,
-			"desc": 758.66,
+			"desc": "758.66",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "Castelo Branco Comercio de Combustiveis Ltda",
 			"name": "Castelo Branco Comercio de Combustiveis Ltda",
 			"val": 8.913998429616417,
-			"desc": 275.01,
+			"desc": "275.01",
 			"group": "Castelo Branco Comercio de Combustiveis Ltda"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "AUTO POSTO SORRISAO LTDA",
 			"name": "AUTO POSTO SORRISAO LTDA",
 			"val": 8.724103195709061,
-			"desc": 270.03,
+			"desc": "270.03",
 			"group": "AUTO POSTO SORRISAO LTDA"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.8301003619362306,
-			"desc": 105.31,
+			"desc": "105.31",
 			"group": "RAMAL"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 26.253017229592622,
-			"desc": 695.17,
+			"desc": "695.17",
 			"group": "Cia Aérea - GOL"
 		},
 		{

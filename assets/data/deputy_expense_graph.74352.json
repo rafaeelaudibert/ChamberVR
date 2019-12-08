@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NILSON PINTO"
+			"name": "NILSON PINTO",
+			"desc": "58478.21"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 9.634715521835151,
-			"desc": 293.78999999999996,
+			"desc": "293.79",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 25.159886324724965,
-			"desc": 670,
+			"desc": "670.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 165.35319342339105,
-			"desc": 3510.01,
+			"desc": "3510.01",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "A D OLIVEIRA & CIA LTDA",
 			"name": "A D OLIVEIRA & CIA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "A D OLIVEIRA & CIA LTDA"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 262.9420742917229,
-			"desc": 5311.95,
+			"desc": "5311.95",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -196,7 +197,7 @@
 			"id": "EMR PARTICIPACOES E IMOVEIS LTDA",
 			"name": "EMR PARTICIPACOES E IMOVEIS LTDA",
 			"val": 961.8208753987867,
-			"desc": 17100,
+			"desc": "17100.00",
 			"group": "EMR PARTICIPACOES E IMOVEIS LTDA"
 		},
 		{
@@ -221,7 +222,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "POSTO ALCINDO CACELA LTDA",
 			"name": "POSTO ALCINDO CACELA LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "POSTO ALCINDO CACELA LTDA"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 567.4599299213273,
-			"desc": 10608.38,
+			"desc": "10608.38",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 20.01542208908428,
-			"desc": 549.7199999999999,
+			"desc": "549.72",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 11.117732666832849,
-			"desc": 331.89,
+			"desc": "331.89",
 			"group": "CLARO S.A."
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 58.610997535987615,
-			"desc": 1401.77,
+			"desc": "1401.77",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 68.93582339649546,
-			"desc": 1616.85,
+			"desc": "1616.85",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "MAXIMA SERVICOS DE MONITORAMENTO ELETRONICO LTDA",
 			"name": "MAXIMA SERVICOS DE MONITORAMENTO ELETRONICO LTDA",
 			"val": 66.59957541205476,
-			"desc": 1568.5,
+			"desc": "1568.50",
 			"group": "MAXIMA SERVICOS DE MONITORAMENTO ELETRONICO LTDA"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "GP PETROLEO COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "MESCOUTO E CARVALHO COMERCIO VAREJISTA E SERVICOS DE INFORMA",
 			"name": "MESCOUTO E CARVALHO COMERCIO VAREJISTA E SERVICOS DE INFORMA",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "MESCOUTO E CARVALHO COMERCIO VAREJISTA E SERVICOS DE INFORMA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9876574062742705,
-			"desc": 78.86,
+			"desc": "78.86",
 			"group": "RAMAL"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "ORM CABO ANANINDEUA LTDA",
 			"name": "ORM CABO ANANINDEUA LTDA",
 			"val": 12.497661090375512,
-			"desc": 366.77,
+			"desc": "366.77",
 			"group": "ORM CABO ANANINDEUA LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA",
 			"name": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA",
 			"val": 7.5233370057162485,
-			"desc": 238.2,
+			"desc": "238.20",
 			"group": "PLAYTIME COMBUSTIVEIS E LUBRIFICANTES SA"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "BANTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "BANTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BANTA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "POSTO QUATRO LTDA",
 			"name": "POSTO QUATRO LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "POSTO QUATRO LTDA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 1.2401772021117248,
-			"desc": 53.9,
+			"desc": "53.90",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 23.4120919156705,
-			"desc": 629.49,
+			"desc": "629.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "DELTA PUBLICIDADE S/A",
 			"name": "DELTA PUBLICIDADE S/A",
 			"val": 3.008485159629873,
-			"desc": 110.75,
+			"desc": "110.75",
 			"group": "DELTA PUBLICIDADE S/A"
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"name": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA",
 			"val": 16.57892384855812,
-			"desc": 467.36,
+			"desc": "467.36",
 			"group": "1-PAPELARIA ABC COMERCIO E INDUSTRIA LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "CARRETEIRO DERIVADOS DE PETROLEO LTDA",
 			"name": "CARRETEIRO DERIVADOS DE PETROLEO LTDA",
 			"val": 7.218965440370011,
-			"desc": 230.03,
+			"desc": "230.03",
 			"group": "CARRETEIRO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "POSTO MADEIREIRO LTDA.",
 			"name": "POSTO MADEIREIRO LTDA.",
 			"val": 6.847227587023085,
-			"desc": 219.99,
+			"desc": "219.99",
 			"group": "POSTO MADEIREIRO LTDA."
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 290.04262268973326,
-			"desc": 5800,
+			"desc": "5800.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "AUTO POSTO SAO MARCOS LTDA",
 			"name": "AUTO POSTO SAO MARCOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO SAO MARCOS LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CORONEL ARMANDO"
+			"name": "CORONEL ARMANDO",
+			"desc": "42034.85"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DE COMBUSTIVEIS SINAL VERDE LTDA",
 			"name": "POSTO DE COMBUSTIVEIS SINAL VERDE LTDA",
 			"val": 23.640354000933097,
-			"desc": 634.8,
+			"desc": "634.80",
 			"group": "POSTO DE COMBUSTIVEIS SINAL VERDE LTDA"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "AUTO POSTO PRUDENTE LTDA",
 			"name": "AUTO POSTO PRUDENTE LTDA",
 			"val": 14.980057547500104,
-			"desc": 428.36,
+			"desc": "428.36",
 			"group": "AUTO POSTO PRUDENTE LTDA"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "AUTO POSTO DURIM LTDA.",
 			"name": "AUTO POSTO DURIM LTDA.",
 			"val": 201.5317247783976,
-			"desc": 4187.460000000001,
+			"desc": "4187.46",
 			"group": "AUTO POSTO DURIM LTDA."
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "AUTO POSTO MORADA DOS NOBRES LTDA",
 			"name": "AUTO POSTO MORADA DOS NOBRES LTDA",
 			"val": 10.976869317995153,
-			"desc": 328.29999999999995,
+			"desc": "328.30",
 			"group": "AUTO POSTO MORADA DOS NOBRES LTDA"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1067.8869873187675,
-			"desc": 18802.620000000003,
+			"desc": "18802.62",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9985033653665634,
-			"desc": 79.21000000000001,
+			"desc": "79.21",
 			"group": "RAMAL"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "POSTO Z1 LTDA",
 			"name": "POSTO Z1 LTDA",
 			"val": 30.84348877030391,
-			"desc": 799.6200000000001,
+			"desc": "799.62",
 			"group": "POSTO Z1 LTDA"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 69.94442033649473,
-			"desc": 1637.67,
+			"desc": "1637.67",
 			"group": "CLARO S.A"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "CELESC DISTRIBUICAO S.A",
 			"name": "CELESC DISTRIBUICAO S.A",
 			"val": 3.1864199534924604,
-			"desc": 116.13,
+			"desc": "116.13",
 			"group": "CELESC DISTRIBUICAO S.A"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "AUTO POSTO DISNEY LTDA",
 			"name": "AUTO POSTO DISNEY LTDA",
 			"val": 11.26196665753907,
-			"desc": 335.56,
+			"desc": "335.56",
 			"group": "AUTO POSTO DISNEY LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "Águas de Joinville",
 			"name": "Águas de Joinville",
 			"val": 7.190364696113847,
-			"desc": 229.26,
+			"desc": "229.26",
 			"group": "Águas de Joinville"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "NN Empreendimentos",
 			"name": "NN Empreendimentos",
 			"val": 104.87509824061144,
-			"desc": 2342.28,
+			"desc": "2342.28",
 			"group": "NN Empreendimentos"
 		},
 		{
@@ -599,7 +600,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 213.52291659029476,
-			"desc": 4409.32,
+			"desc": "4409.32",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 252.35088504449314,
-			"desc": 5119.96,
+			"desc": "5119.96",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 5.112463112619504,
-			"desc": 172.09,
+			"desc": "172.09",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "Hotel Laguna Praia Ltda ME",
 			"name": "Hotel Laguna Praia Ltda ME",
 			"val": 13.266753665541916,
-			"desc": 386,
+			"desc": "386.00",
 			"group": "Hotel Laguna Praia Ltda ME"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 27.800609846010335,
-			"desc": 730.6,
+			"desc": "730.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "Imobiliaria Zibell Ltda",
 			"name": "Imobiliaria Zibell Ltda",
 			"val": 9.02749754613119,
-			"desc": 277.98,
+			"desc": "277.98",
 			"group": "Imobiliaria Zibell Ltda"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "AUTO POSTO VIADUTO",
 			"name": "AUTO POSTO VIADUTO",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "AUTO POSTO VIADUTO"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA.",
 			"name": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA.",
 			"val": 18.83519077188143,
-			"desc": 521.64,
+			"desc": "521.64",
 			"group": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA."
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "VIAÇÃO CATARINENSE LTDA",
 			"name": "VIAÇÃO CATARINENSE LTDA",
 			"val": 0.5381737595781253,
-			"desc": 27.99,
+			"desc": "27.99",
 			"group": "VIAÇÃO CATARINENSE LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "HTS ADMINISTRADORA DE HOTEIS LTDAEXPRESS",
 			"name": "HTS ADMINISTRADORA DE HOTEIS LTDAEXPRESS",
 			"val": 9.02826247286854,
-			"desc": 278,
+			"desc": "278.00",
 			"group": "HTS ADMINISTRADORA DE HOTEIS LTDAEXPRESS"
 		},
 		{

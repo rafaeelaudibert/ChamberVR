@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PAULO MAGALHÃES"
+			"name": "PAULO MAGALHÃES",
+			"desc": "45214.83"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 36.095973423746656,
-			"desc": 917,
+			"desc": "917.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 128.75704059748642,
-			"desc": 2809.7599999999998,
+			"desc": "2809.76",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -115,7 +116,7 @@
 			"id": "POUSADA DE ITAJUÍPE LTDA",
 			"name": "POUSADA DE ITAJUÍPE LTDA",
 			"val": 26.899557608873405,
-			"desc": 710,
+			"desc": "710.00",
 			"group": "POUSADA DE ITAJUÍPE LTDA"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "ANA CAROLINA SANTOS CASTRO",
 			"name": "ANA CAROLINA SANTOS CASTRO",
 			"val": 6.589972596432414,
-			"desc": 213,
+			"desc": "213.00",
 			"group": "ANA CAROLINA SANTOS CASTRO"
 		},
 		{
@@ -159,7 +160,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 187.02787793260023,
-			"desc": 3917.41,
+			"desc": "3917.41",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -196,7 +197,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 337.07366224556245,
-			"desc": 6637.210000000001,
+			"desc": "6637.21",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -275,7 +276,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": null,
-			"desc": -523.0199999999998,
+			"desc": "-523.02",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 40.09183536726667,
-			"desc": 1005.01,
+			"desc": "1005.01",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "Partners Air - SSA",
 			"name": "Partners Air - SSA",
 			"val": 54.05254991594216,
-			"desc": 1305.56,
+			"desc": "1305.56",
 			"group": "Partners Air - SSA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "POSTO MIRASSOL LTDA",
 			"name": "POSTO MIRASSOL LTDA",
 			"val": 158.6198048845249,
-			"desc": 3382.42,
+			"desc": "3382.42",
 			"group": "POSTO MIRASSOL LTDA"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 10.060495917705186,
-			"desc": 304.8,
+			"desc": "304.80",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"name": "AUTO POSTO MILLENNIUM 2000 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO MILLENNIUM 2000 LTDA"
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 2.690241478149398,
-			"desc": 101.01,
+			"desc": "101.01",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "LIGIA SPINOLA COSTA",
 			"name": "LIGIA SPINOLA COSTA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "LIGIA SPINOLA COSTA"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 25.63391677441875,
-			"desc": 680.93,
+			"desc": "680.93",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "POSTO ESTRADA PARK LTDA",
 			"name": "POSTO ESTRADA PARK LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "POSTO ESTRADA PARK LTDA"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "GILBERTO SANTOS RODRIGUES DE ITAPETINGA",
 			"name": "GILBERTO SANTOS RODRIGUES DE ITAPETINGA",
 			"val": 7.441215038597578,
-			"desc": 236,
+			"desc": "236.00",
 			"group": "GILBERTO SANTOS RODRIGUES DE ITAPETINGA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.040119898710486,
-			"desc": 278.31,
+			"desc": "278.31",
 			"group": "RAMAL"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "CONDOMINIO CENTRO EMPRESARIAL IGUATEMI",
 			"name": "CONDOMINIO CENTRO EMPRESARIAL IGUATEMI",
 			"val": 147.17427601339003,
-			"desc": 3164.31,
+			"desc": "3164.31",
 			"group": "CONDOMINIO CENTRO EMPRESARIAL IGUATEMI"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 11.54323590474089,
-			"desc": 342.7,
+			"desc": "342.70",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "REDE HG COMBUSTIVEIS | POSTO ANEL VIARIO",
 			"name": "REDE HG COMBUSTIVEIS | POSTO ANEL VIARIO",
 			"val": 6.872322896183209,
-			"desc": 220.67,
+			"desc": "220.67",
 			"group": "REDE HG COMBUSTIVEIS | POSTO ANEL VIARIO"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "LOMBRAS CORRETORA DE VEICULOS LTDA",
 			"name": "LOMBRAS CORRETORA DE VEICULOS LTDA",
 			"val": 519.7357885284854,
-			"desc": 9800,
+			"desc": "9800.00",
 			"group": "LOMBRAS CORRETORA DE VEICULOS LTDA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 59.43384244503412,
-			"desc": 1419.0500000000002,
+			"desc": "1419.05",
 			"group": "CLARO S/A"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 33.69766288132355,
-			"desc": 863.66,
+			"desc": "863.66",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "AGUIAR E AGUIAR LTDA",
 			"name": "AGUIAR E AGUIAR LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AGUIAR E AGUIAR LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 39.00670100145361,
-			"desc": 981.21,
+			"desc": "981.21",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 3.7829996023064782,
-			"desc": 133.87,
+			"desc": "133.87",
 			"group": "CLARO S.A."
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "EWS ESTACIONAMENTOS SALVADOR S.A.",
 			"name": "EWS ESTACIONAMENTOS SALVADOR S.A.",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "EWS ESTACIONAMENTOS SALVADOR S.A."
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 53.50564611757011,
-			"desc": 1293.96,
+			"desc": "1293.96",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{

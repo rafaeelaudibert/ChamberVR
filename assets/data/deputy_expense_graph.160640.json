@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EROS BIONDINI"
+			"name": "EROS BIONDINI",
+			"desc": "57194.56"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 3.9170653612926905,
-			"desc": 137.79999999999998,
+			"desc": "137.80",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "AP MAGALHAES & CIA LTDA",
 			"name": "AP MAGALHAES & CIA LTDA",
 			"val": 1.2488159011939393,
-			"desc": 54.2,
+			"desc": "54.20",
 			"group": "AP MAGALHAES & CIA LTDA"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 101.4633981543335,
-			"desc": 2274.67,
+			"desc": "2274.67",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "JR COMERCIO E PRESTACAO DE SERVICOS LTDA",
 			"name": "JR COMERCIO E PRESTACAO DE SERVICOS LTDA",
 			"val": 464.8537079637464,
-			"desc": 8862.16,
+			"desc": "8862.16",
 			"group": "JR COMERCIO E PRESTACAO DE SERVICOS LTDA"
 		},
 		{
@@ -261,7 +262,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 321.50730181391253,
-			"desc": 6361.380000000001,
+			"desc": "6361.38",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -310,7 +311,7 @@
 			"id": "HOTELARIA ECO VALLE SFA LORENA LTDA",
 			"name": "HOTELARIA ECO VALLE SFA LORENA LTDA",
 			"val": 5.15541702164991,
-			"desc": 173.3,
+			"desc": "173.30",
 			"group": "HOTELARIA ECO VALLE SFA LORENA LTDA"
 		},
 		{
@@ -323,7 +324,7 @@
 			"id": "PAPELARIA E SUPRIMENTOS PARA ESCRITÓRIO - ESMAQ",
 			"name": "PAPELARIA E SUPRIMENTOS PARA ESCRITÓRIO - ESMAQ",
 			"val": 13.588353667463249,
-			"desc": 394,
+			"desc": "394.00",
 			"group": "PAPELARIA E SUPRIMENTOS PARA ESCRITÓRIO - ESMAQ"
 		},
 		{
@@ -336,7 +337,7 @@
 			"id": "POSTO VILA TABOCAO LTDA",
 			"name": "POSTO VILA TABOCAO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO VILA TABOCAO LTDA"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 0.10316508141715099,
-			"desc": 8.4,
+			"desc": "8.40",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "VIDEO 1 E SELOS POSTAIS LTDA",
 			"name": "VIDEO 1 E SELOS POSTAIS LTDA",
 			"val": 117.29498315882613,
-			"desc": 2586.59,
+			"desc": "2586.59",
 			"group": "VIDEO 1 E SELOS POSTAIS LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "LEAPHAR LOCADORA DE VEICULOS EIRELI",
 			"name": "LEAPHAR LOCADORA DE VEICULOS EIRELI",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "LEAPHAR LOCADORA DE VEICULOS EIRELI"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "AUTO POSTO ITAIPU LTDA",
 			"name": "AUTO POSTO ITAIPU LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO ITAIPU LTDA"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "PLANALTO BITTAR HOTEL LTDA",
 			"name": "PLANALTO BITTAR HOTEL LTDA",
 			"val": 25.593543346294553,
-			"desc": 680,
+			"desc": "680.00",
 			"group": "PLANALTO BITTAR HOTEL LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 40.1114708834332,
-			"desc": 1005.44,
+			"desc": "1005.44",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 224.72338223375635,
-			"desc": 4615.48,
+			"desc": "4615.48",
 			"group": "CLARO S.A"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "BR 88 RENT A CAR EIRELI",
 			"name": "BR 88 RENT A CAR EIRELI",
 			"val": 771.2957955763027,
-			"desc": 14000,
+			"desc": "14000.00",
 			"group": "BR 88 RENT A CAR EIRELI"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 26.035877844339602,
-			"desc": 690.18,
+			"desc": "690.18",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "RABELO DERIVADOS DE PETROLEO LTDA",
 			"name": "RABELO DERIVADOS DE PETROLEO LTDA",
 			"val": 4.607244099033989,
-			"desc": 157.75,
+			"desc": "157.75",
 			"group": "RABELO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "POSTO LESTE OESTE LTDA",
 			"name": "POSTO LESTE OESTE LTDA",
 			"val": 9.427135395982152,
-			"desc": 288.4,
+			"desc": "288.40",
 			"group": "POSTO LESTE OESTE LTDA"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S/A",
 			"name": "HOTELARIA ACCOR BRASIL S/A",
 			"val": 25.110070746701155,
-			"desc": 668.85,
+			"desc": "668.85",
 			"group": "HOTELARIA ACCOR BRASIL S/A"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 122.6493613960023,
-			"desc": 2691.1,
+			"desc": "2691.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "COPASA",
 			"name": "COPASA",
 			"val": 3.723514212492668,
-			"desc": 132.12,
+			"desc": "132.12",
 			"group": "COPASA"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "MACEDO & MACEDO POSTOS E SERVICOS LTDA.",
 			"name": "MACEDO & MACEDO POSTOS E SERVICOS LTDA.",
 			"val": 1.2137455089070306,
-			"desc": 52.98,
+			"desc": "52.98",
 			"group": "MACEDO & MACEDO POSTOS E SERVICOS LTDA."
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.683229416759308,
-			"desc": 159.92000000000002,
+			"desc": "159.92",
 			"group": "RAMAL"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"name": "BIER FASS RESTAURANTE MUSEU LTDA",
 			"val": 6.644332435645186,
-			"desc": 214.48,
+			"desc": "214.48",
 			"group": "BIER FASS RESTAURANTE MUSEU LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 28.689181034248122,
-			"desc": 750.84,
+			"desc": "750.84",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.588390582254015,
-			"desc": 128.13,
+			"desc": "128.13",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "POSTO OLIMAR COMERCIO DE COMBUSTÍVEIS LTDA",
 			"name": "POSTO OLIMAR COMERCIO DE COMBUSTÍVEIS LTDA",
 			"val": 2.9391081338016862,
-			"desc": 108.64,
+			"desc": "108.64",
 			"group": "POSTO OLIMAR COMERCIO DE COMBUSTÍVEIS LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "IBIS HOTEL",
 			"name": "IBIS HOTEL",
 			"val": 6.0351933848777275,
-			"desc": 197.8,
+			"desc": "197.80",
 			"group": "IBIS HOTEL"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "SALVADOR RODRIGUES DE LOS RIOS VARAS",
 			"name": "SALVADOR RODRIGUES DE LOS RIOS VARAS",
 			"val": 127.99571210722758,
-			"desc": 2795,
+			"desc": "2795.00",
 			"group": "SALVADOR RODRIGUES DE LOS RIOS VARAS"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "DASTER RECARGA DE CARTUCHOS LTDA",
 			"name": "DASTER RECARGA DE CARTUCHOS LTDA",
 			"val": 0.9885335573393415,
-			"desc": 45,
+			"desc": "45.00",
 			"group": "DASTER RECARGA DE CARTUCHOS LTDA"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 12.335619862218296,
-			"desc": 362.7,
+			"desc": "362.70",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "PLM ATACADO DE SUPRIMENTOS PARA ESC LTDA",
 			"name": "PLM ATACADO DE SUPRIMENTOS PARA ESC LTDA",
 			"val": 51.485485835125765,
-			"desc": 1251,
+			"desc": "1251.00",
 			"group": "PLM ATACADO DE SUPRIMENTOS PARA ESC LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 5.978990842366507,
-			"desc": 196.25,
+			"desc": "196.25",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{

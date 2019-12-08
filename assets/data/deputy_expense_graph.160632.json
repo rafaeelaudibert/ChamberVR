@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ZÉ SILVA"
+			"name": "ZÉ SILVA",
+			"desc": "28962.34"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SANDRA DE ASEVEDO",
 			"name": "SANDRA DE ASEVEDO",
 			"val": 9.104796978978364,
-			"desc": 280,
+			"desc": "280.00",
 			"group": "SANDRA DE ASEVEDO"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "MUSTO & MERIGIO LTDA",
 			"name": "MUSTO & MERIGIO LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "MUSTO & MERIGIO LTDA"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "AUTO POSTO E RESTAURANTE DO JUA LTDA",
 			"name": "AUTO POSTO E RESTAURANTE DO JUA LTDA",
 			"val": 6.666019365009187,
-			"desc": 215.07,
+			"desc": "215.07",
 			"group": "AUTO POSTO E RESTAURANTE DO JUA LTDA"
 		},
 		{
@@ -62,7 +63,7 @@
 			"id": "REDE DE POSTO MARAJO CENTALLINA LTDA",
 			"name": "REDE DE POSTO MARAJO CENTALLINA LTDA",
 			"val": 5.863183900558881,
-			"desc": 193.05,
+			"desc": "193.05",
 			"group": "REDE DE POSTO MARAJO CENTALLINA LTDA"
 		},
 		{
@@ -75,7 +76,7 @@
 			"id": "AUTO POSTO ELDORADO LTDA",
 			"name": "AUTO POSTO ELDORADO LTDA",
 			"val": 91.17375121892182,
-			"desc": 2069.3199999999997,
+			"desc": "2069.32",
 			"group": "AUTO POSTO ELDORADO LTDA"
 		},
 		{
@@ -160,7 +161,7 @@
 			"id": "IRMAOS DE SANTI LTDA",
 			"name": "IRMAOS DE SANTI LTDA",
 			"val": 6.880075363695246,
-			"desc": 220.88,
+			"desc": "220.88",
 			"group": "IRMAOS DE SANTI LTDA"
 		},
 		{
@@ -173,7 +174,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 81.05506250182279,
-			"desc": 1865.05,
+			"desc": "1865.05",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -198,7 +199,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 2.901722925323468,
-			"desc": 107.5,
+			"desc": "107.50",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.7559467099830601,
-			"desc": 71.31,
+			"desc": "71.31",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 5.754532294731712,
-			"desc": 190.04,
+			"desc": "190.04",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "CEMIG DISTRIBUIÇÃO S.A.",
 			"name": "CEMIG DISTRIBUIÇÃO S.A.",
 			"val": 29.0329001991622,
-			"desc": 758.65,
+			"desc": "758.65",
 			"group": "CEMIG DISTRIBUIÇÃO S.A."
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "AUTO POSTO PRIMU'S - EIRELI",
 			"name": "AUTO POSTO PRIMU'S - EIRELI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO PRIMU'S - EIRELI"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"name": "WMS SUPERMERCADOS DO BRASIL LTDA",
 			"val": 10.010100985394397,
-			"desc": 303.5,
+			"desc": "303.50",
 			"group": "WMS SUPERMERCADOS DO BRASIL LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "CONCESSIONARIA BR-040 S.A.",
 			"name": "CONCESSIONARIA BR-040 S.A.",
 			"val": 0.373628152100511,
-			"desc": 21.2,
+			"desc": "21.20",
 			"group": "CONCESSIONARIA BR-040 S.A."
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "AUTO POSTO CARLITO'S LTDA",
 			"name": "AUTO POSTO CARLITO'S LTDA",
 			"val": 6.009440261221153,
-			"desc": 197.09,
+			"desc": "197.09",
 			"group": "AUTO POSTO CARLITO'S LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "POSTO ESTORIL -LTDA",
 			"name": "POSTO ESTORIL -LTDA",
 			"val": 4.385194491180252,
-			"desc": 151.38,
+			"desc": "151.38",
 			"group": "POSTO ESTORIL -LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "POSTO RACING LTDA",
 			"name": "POSTO RACING LTDA",
 			"val": 4.536665988673068,
-			"desc": 155.73,
+			"desc": "155.73",
 			"group": "POSTO RACING LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "PRODOESTE VEICULOS E SERVICOS LTDA.",
 			"name": "PRODOESTE VEICULOS E SERVICOS LTDA.",
 			"val": 6.334771950472601,
-			"desc": 206.03,
+			"desc": "206.03",
 			"group": "PRODOESTE VEICULOS E SERVICOS LTDA."
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "AUTO EIXO 208 NORTE LTDA",
 			"name": "AUTO EIXO 208 NORTE LTDA",
 			"val": 4.342494555200674,
-			"desc": 150.15,
+			"desc": "150.15",
 			"group": "AUTO EIXO 208 NORTE LTDA"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "PRIMAVIA RENT A CAR LOCADORA DE VEICULOS LTDA - EPP",
 			"name": "PRIMAVIA RENT A CAR LOCADORA DE VEICULOS LTDA - EPP",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "PRIMAVIA RENT A CAR LOCADORA DE VEICULOS LTDA - EPP"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "ALMADA & CIA LIMITADA",
 			"name": "ALMADA & CIA LIMITADA",
 			"val": 6.115448415311677,
-			"desc": 200.01,
+			"desc": "200.01",
 			"group": "ALMADA & CIA LIMITADA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.8664977718748044,
-			"desc": 74.93,
+			"desc": "74.93",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "AUTO POSTO D'LUCCA LTDA",
 			"name": "AUTO POSTO D'LUCCA LTDA",
 			"val": 3.0173796239292034,
-			"desc": 111.02,
+			"desc": "111.02",
 			"group": "AUTO POSTO D'LUCCA LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "COSTA E MIRANDA LTDA",
 			"name": "COSTA E MIRANDA LTDA",
 			"val": 7.382682118874203,
-			"desc": 234.43,
+			"desc": "234.43",
 			"group": "COSTA E MIRANDA LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "AUTO POSTO PAMPLONA LTDA",
 			"name": "AUTO POSTO PAMPLONA LTDA",
 			"val": 14.236776710556523,
-			"desc": 410.06,
+			"desc": "410.06",
 			"group": "AUTO POSTO PAMPLONA LTDA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "GR CORRETORA DE IMOVEIS LTDA",
 			"name": "GR CORRETORA DE IMOVEIS LTDA",
 			"val": 218.22117826812493,
-			"desc": 4495.92,
+			"desc": "4495.92",
 			"group": "GR CORRETORA DE IMOVEIS LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "AUTO POSTO IRMAOS COELHO LTDA",
 			"name": "AUTO POSTO IRMAOS COELHO LTDA",
 			"val": 3.9273261969763684,
-			"desc": 138.1,
+			"desc": "138.10",
 			"group": "AUTO POSTO IRMAOS COELHO LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 0.42453575022640283,
-			"desc": 23.35,
+			"desc": "23.35",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.3888898062563713,
-			"desc": 59.02,
+			"desc": "59.02",
 			"group": "RAMAL"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "Posto Caxuxa JL Ltda",
 			"name": "Posto Caxuxa JL Ltda",
 			"val": 3.4009637148077303,
-			"desc": 122.56,
+			"desc": "122.56",
 			"group": "Posto Caxuxa JL Ltda"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "POSTO CENTRAL LTDA",
 			"name": "POSTO CENTRAL LTDA",
 			"val": 2.3627960223159277,
-			"desc": 90.81,
+			"desc": "90.81",
 			"group": "POSTO CENTRAL LTDA"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 7.557713751935735,
-			"desc": 239.12,
+			"desc": "239.12",
 			"group": "CLARO S.A"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "POSTO VICA LTDA",
 			"name": "POSTO VICA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO VICA LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 18.765687848290433,
-			"desc": 519.98,
+			"desc": "519.98",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "MUNICIPIO DE BELO HORIZONTE",
 			"name": "MUNICIPIO DE BELO HORIZONTE",
 			"val": 53.904449783948834,
-			"desc": 1302.42,
+			"desc": "1302.42",
 			"group": "MUNICIPIO DE BELO HORIZONTE"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "POSTO URSULA SERENA LTDA",
 			"name": "POSTO URSULA SERENA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO URSULA SERENA LTDA"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 54.235612812748435,
-			"desc": 1309.44,
+			"desc": "1309.44",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "COMERCIAL DE COMBUSTÍVEIS PORTAL DE MINAS III LTDA",
 			"name": "COMERCIAL DE COMBUSTÍVEIS PORTAL DE MINAS III LTDA",
 			"val": 3.9242475510122676,
-			"desc": 138.01,
+			"desc": "138.01",
 			"group": "COMERCIAL DE COMBUSTÍVEIS PORTAL DE MINAS III LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "'POSTO BRASILIA LTDA",
 			"name": "'POSTO BRASILIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "'POSTO BRASILIA LTDA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "AUTO POSTO ARRUDAO LTDA",
 			"name": "AUTO POSTO ARRUDAO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO ARRUDAO LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "MACEDO & SOUZA LTDA",
 			"name": "MACEDO & SOUZA LTDA",
 			"val": 8.725245565837023,
-			"desc": 270.06,
+			"desc": "270.06",
 			"group": "MACEDO & SOUZA LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "AUTO POSTO MODELO",
 			"name": "AUTO POSTO MODELO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO MODELO"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 1.0235845394938055,
-			"desc": 46.26,
+			"desc": "46.26",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "150830AUTO POSTO ELDORADO LTDA",
 			"name": "150830AUTO POSTO ELDORADO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "150830AUTO POSTO ELDORADO LTDA"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "Posto Wap Ltda",
 			"name": "Posto Wap Ltda",
 			"val": 2.3653394173890874,
-			"desc": 90.89,
+			"desc": "90.89",
 			"group": "Posto Wap Ltda"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "POSTO MUSTANG LTDA",
 			"name": "POSTO MUSTANG LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "POSTO MUSTANG LTDA"
 		},
 		{

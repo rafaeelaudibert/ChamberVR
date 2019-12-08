@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "IGOR TIMO"
+			"name": "IGOR TIMO",
+			"desc": "106458.43"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 66.74525118649919,
-			"desc": 1571.5199999999998,
+			"desc": "1571.52",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -78,7 +79,7 @@
 			"id": "SAMUEL SUDRE DA SILVA 03564969101",
 			"name": "SAMUEL SUDRE DA SILVA 03564969101",
 			"val": 164.66536630479965,
-			"desc": 3497,
+			"desc": "3497.00",
 			"group": "SAMUEL SUDRE DA SILVA 03564969101"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.313915365213537,
-			"desc": 89.27000000000001,
+			"desc": "89.27",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -116,7 +117,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 8.462252695587132,
-			"desc": 263.14,
+			"desc": "263.14",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -141,7 +142,7 @@
 			"id": "GP SISTEMAS E SERVIÇOS LTDA",
 			"name": "GP SISTEMAS E SERVIÇOS LTDA",
 			"val": 55.7270976514956,
-			"desc": 1341,
+			"desc": "1341.00",
 			"group": "GP SISTEMAS E SERVIÇOS LTDA"
 		},
 		{
@@ -166,7 +167,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 15.510005792366417,
-			"desc": 441.34000000000003,
+			"desc": "441.34",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -191,7 +192,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 368.0573116364884,
-			"desc": 7182.820000000001,
+			"desc": "7182.82",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -300,7 +301,7 @@
 			"id": "NEIDE VIAGENS E TURISMO LTADA",
 			"name": "NEIDE VIAGENS E TURISMO LTADA",
 			"val": 561.5002970617788,
-			"desc": 10507.77,
+			"desc": "10507.77",
 			"group": "NEIDE VIAGENS E TURISMO LTADA"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "A CARABETTI & CIA LTDA",
 			"name": "A CARABETTI & CIA LTDA",
 			"val": 82.16846502267998,
-			"desc": 1887.65,
+			"desc": "1887.65",
 			"group": "A CARABETTI & CIA LTDA"
 		},
 		{
@@ -410,7 +411,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 12.11785838640609,
-			"desc": 357.22,
+			"desc": "357.22",
 			"group": "CLARO S.A"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "STUDIO 3 COMUNICAÇÃO INTEGRADA",
 			"name": "STUDIO 3 COMUNICAÇÃO INTEGRADA",
 			"val": 204.52734804497038,
-			"desc": 4243,
+			"desc": "4243.00",
 			"group": "STUDIO 3 COMUNICAÇÃO INTEGRADA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 4.026363674943613,
-			"desc": 140.99,
+			"desc": "140.99",
 			"group": "CLARO S/A"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 96.6456247299575,
-			"desc": 2178.8,
+			"desc": "2178.80",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "CALLTECH COMBUSTIVEIS E SERVICOS LTDA",
 			"name": "CALLTECH COMBUSTIVEIS E SERVICOS LTDA",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "CALLTECH COMBUSTIVEIS E SERVICOS LTDA"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "JETMAX SOLUÇÕES EM IMPRESSÃO LTDA",
 			"name": "JETMAX SOLUÇÕES EM IMPRESSÃO LTDA",
 			"val": 18.455393403549035,
-			"desc": 512.56,
+			"desc": "512.56",
 			"group": "JETMAX SOLUÇÕES EM IMPRESSÃO LTDA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 156.8311977152983,
-			"desc": 3348.44,
+			"desc": "3348.44",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.501214954806084,
-			"desc": 210.58,
+			"desc": "210.58",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "Fabregas &Lima Sociedade de Advogados",
 			"name": "Fabregas &Lima Sociedade de Advogados",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "Fabregas &Lima Sociedade de Advogados"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "Real Dávila",
 			"name": "Real Dávila",
 			"val": 9.02826247286854,
-			"desc": 278,
+			"desc": "278.00",
 			"group": "Real Dávila"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 19.229333790696685,
-			"desc": 531.0400000000001,
+			"desc": "531.04",
 			"group": "RAMAL"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "FERNANDO IGNACIO VIEIRA-ME",
 			"name": "FERNANDO IGNACIO VIEIRA-ME",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "FERNANDO IGNACIO VIEIRA-ME"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "POSTO TRES PODERES LTDA",
 			"name": "POSTO TRES PODERES LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO TRES PODERES LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 5.037323601532888,
-			"desc": 169.97,
+			"desc": "169.97",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "Fabregas & Lima Sociedade de Advogados",
 			"name": "Fabregas & Lima Sociedade de Advogados",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "Fabregas & Lima Sociedade de Advogados"
 		},
 		{
@@ -738,7 +739,7 @@
 			"id": "VPMIDIAS COMUNICACAO E CONSULTORIA LTDA",
 			"name": "VPMIDIAS COMUNICACAO E CONSULTORIA LTDA",
 			"val": 234.79331885752092,
-			"desc": 4800,
+			"desc": "4800.00",
 			"group": "VPMIDIAS COMUNICACAO E CONSULTORIA LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "POSTO KOBU LTDA",
 			"name": "POSTO KOBU LTDA",
 			"val": 5.825251200553848,
-			"desc": 192,
+			"desc": "192.00",
 			"group": "POSTO KOBU LTDA"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "POSTO URBANO FERRAZ LTDA",
 			"name": "POSTO URBANO FERRAZ LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO URBANO FERRAZ LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "JETMAX SOLUÇÕES EM IMRESSÃO LTDA EPP",
 			"name": "JETMAX SOLUÇÕES EM IMRESSÃO LTDA EPP",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "JETMAX SOLUÇÕES EM IMRESSÃO LTDA EPP"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 2.387929813991991,
-			"desc": 91.6,
+			"desc": "91.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 33.99923744407736,
-			"desc": 870.39,
+			"desc": "870.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 21.46955668581516,
-			"desc": 584.05,
+			"desc": "584.05",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "POSTO MG 10 LTDA",
 			"name": "POSTO MG 10 LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO MG 10 LTDA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.00751509816700411,
-			"desc": 1.95,
+			"desc": "1.95",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "IN9 AGENCIA DE PUBLICIDADE, MARKETING E ASSESSORIA LTDA",
 			"name": "IN9 AGENCIA DE PUBLICIDADE, MARKETING E ASSESSORIA LTDA",
 			"val": 672.6587238956574,
-			"desc": 12370,
+			"desc": "12370.00",
 			"group": "IN9 AGENCIA DE PUBLICIDADE, MARKETING E ASSESSORIA LTDA"
 		},
 		{

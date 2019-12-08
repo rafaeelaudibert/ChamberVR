@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "OTONI DE PAULA"
+			"name": "OTONI DE PAULA",
+			"desc": "51390.55"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "RESTAURANTE MADERO BRASILIA LT",
 			"name": "RESTAURANTE MADERO BRASILIA LT",
 			"val": 5.6770921972937005,
-			"desc": 187.89,
+			"desc": "187.89",
 			"group": "RESTAURANTE MADERO BRASILIA LT"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 62.02783285976639,
-			"desc": 1473.36,
+			"desc": "1473.36",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "CENTRO CONVENIENCIAS MILLENNIUM LTDA",
 			"name": "CENTRO CONVENIENCIAS MILLENNIUM LTDA",
 			"val": 10.011263583680119,
-			"desc": 303.53,
+			"desc": "303.53",
 			"group": "CENTRO CONVENIENCIAS MILLENNIUM LTDA"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 18.083609062298173,
-			"desc": 503.65,
+			"desc": "503.65",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"val": 4.643989823352755,
-			"desc": 158.8,
+			"desc": "158.80",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A"
 		},
 		{
@@ -148,7 +149,7 @@
 			"id": "POSTO SAO CONRADO LTDA",
 			"name": "POSTO SAO CONRADO LTDA",
 			"val": 9.627002845558168,
-			"desc": 293.59,
+			"desc": "293.59",
 			"group": "POSTO SAO CONRADO LTDA"
 		},
 		{
@@ -161,7 +162,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.9280995543254966,
-			"desc": 42.81,
+			"desc": "42.81",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "POSTO DE GASOLINA JAGUAR DO ANIL LTDA",
 			"name": "POSTO DE GASOLINA JAGUAR DO ANIL LTDA",
 			"val": 36.49610591715453,
-			"desc": 925.8600000000001,
+			"desc": "925.86",
 			"group": "POSTO DE GASOLINA JAGUAR DO ANIL LTDA"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -230,7 +231,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 62.48948469872087,
-			"desc": 1483,
+			"desc": "1483.00",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "POSTO DE GASOLINA CORDEIRO LTDA",
 			"name": "POSTO DE GASOLINA CORDEIRO LTDA",
 			"val": 102.24252205943019,
-			"desc": 2290.13,
+			"desc": "2290.13",
 			"group": "POSTO DE GASOLINA CORDEIRO LTDA"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"name": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"val": 37.17283279777812,
-			"desc": 940.8199999999999,
+			"desc": "940.82",
 			"group": "AGUAS CLARAS POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "CARBAT-DISTRIB E ASSESS DO COM DE DER DE PETR",
 			"name": "CARBAT-DISTRIB E ASSESS DO COM DE DER DE PETR",
 			"val": 71.53549168678883,
-			"desc": 1670.45,
+			"desc": "1670.45",
 			"group": "CARBAT-DISTRIB E ASSESS DO COM DE DER DE PETR"
 		},
 		{
@@ -384,7 +385,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 9.399066034660747,
-			"desc": 287.67,
+			"desc": "287.67",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "MAREJO ADMINISTRAÇÃO DE BENS LTDA",
 			"name": "MAREJO ADMINISTRAÇÃO DE BENS LTDA",
 			"val": 193.0305444670713,
-			"desc": 4029.41,
+			"desc": "4029.41",
 			"group": "MAREJO ADMINISTRAÇÃO DE BENS LTDA"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "VENTURA COMERCIO E SERVICOS LTDA.",
 			"name": "VENTURA COMERCIO E SERVICOS LTDA.",
 			"val": 44.81902047907011,
-			"desc": 1107.8899999999999,
+			"desc": "1107.89",
 			"group": "VENTURA COMERCIO E SERVICOS LTDA."
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "CHOPERIA E RESTAURANTE PINGUIM LTDA",
 			"name": "CHOPERIA E RESTAURANTE PINGUIM LTDA",
 			"val": 1.5598453585528904,
-			"desc": 64.8,
+			"desc": "64.80",
 			"group": "CHOPERIA E RESTAURANTE PINGUIM LTDA"
 		},
 		{
@@ -502,7 +503,7 @@
 			"id": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"name": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA",
 			"val": 1.6419434012867204,
-			"desc": 67.54,
+			"desc": "67.54",
 			"group": "PBJM COMERCIO DE GENEROS ALIMENTICIOS LTDA"
 		},
 		{
@@ -515,7 +516,7 @@
 			"id": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"name": "MIT COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.5181538131799186,
-			"desc": 63.4,
+			"desc": "63.40",
 			"group": "MIT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 89.1862552068862,
-			"desc": 2029.39,
+			"desc": "2029.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 102.4235304196537,
-			"desc": 2293.72,
+			"desc": "2293.72",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 9.79338422780236,
-			"desc": 297.9,
+			"desc": "297.90",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -567,7 +568,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.1891209644748504,
-			"desc": 52.120000000000005,
+			"desc": "52.12",
 			"group": "RAMAL"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"name": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "PIONEIRO COM VAREJISTA DE DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA",
 			"name": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA",
 			"val": 11.046684264280676,
-			"desc": 330.08,
+			"desc": "330.08",
 			"group": "GALOP GASOLINA LUBRIFICANTES PECAS LTDA"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "CORDEIRO BARROSO PETROLEO LTDA",
 			"name": "CORDEIRO BARROSO PETROLEO LTDA",
 			"val": 5.934079647218543,
-			"desc": 195.01,
+			"desc": "195.01",
 			"group": "CORDEIRO BARROSO PETROLEO LTDA"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 1.3269891957126145,
-			"desc": 56.9,
+			"desc": "56.90",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -657,7 +658,7 @@
 			"id": "AUTO POSTO RUI BARBOSA LTDA",
 			"name": "AUTO POSTO RUI BARBOSA LTDA",
 			"val": 6.1514455597078594,
-			"desc": 201,
+			"desc": "201.00",
 			"group": "AUTO POSTO RUI BARBOSA LTDA"
 		},
 		{
@@ -670,7 +671,7 @@
 			"id": "Auto Posto Pistao Ltda",
 			"name": "Auto Posto Pistao Ltda",
 			"val": 9.662873453900406,
-			"desc": 294.52,
+			"desc": "294.52",
 			"group": "Auto Posto Pistao Ltda"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "COMERCIO DE EQUIPAMENTOS E SUPRIMENTOS",
 			"name": "COMERCIO DE EQUIPAMENTOS E SUPRIMENTOS",
 			"val": 17.236666655699654,
-			"desc": 483.27,
+			"desc": "483.27",
 			"group": "COMERCIO DE EQUIPAMENTOS E SUPRIMENTOS"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "AUTO POSTO INAJA LTDA",
 			"name": "AUTO POSTO INAJA LTDA",
 			"val": 9.897410546822762,
-			"desc": 300.59,
+			"desc": "300.59",
 			"group": "AUTO POSTO INAJA LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 144.12416676329667,
-			"desc": 3105.91,
+			"desc": "3105.91",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "COMAFEL COM. DE MAQUINAS E FERRAGENS LTDA",
 			"name": "COMAFEL COM. DE MAQUINAS E FERRAGENS LTDA",
 			"val": 11.042368248603346,
-			"desc": 329.97,
+			"desc": "329.97",
 			"group": "COMAFEL COM. DE MAQUINAS E FERRAGENS LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "FTL DE LA ROCQUE",
 			"name": "FTL DE LA ROCQUE",
 			"val": 1.427949042420453,
-			"desc": 60.35,
+			"desc": "60.35",
 			"group": "FTL DE LA ROCQUE"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "MASTER 486 SERVIÇOS E PEÇAS LTDA",
 			"name": "MASTER 486 SERVIÇOS E PEÇAS LTDA",
 			"val": 7.385290577539423,
-			"desc": 234.5,
+			"desc": "234.50",
 			"group": "MASTER 486 SERVIÇOS E PEÇAS LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
 			"name": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
 			"val": 73.35631233688146,
-			"desc": 1707.87,
+			"desc": "1707.87",
 			"group": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "APLICANET",
 			"name": "APLICANET",
 			"val": 1036.4795012539018,
-			"desc": 18300,
+			"desc": "18300.00",
 			"group": "APLICANET"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 79.30147306951916,
-			"desc": 1829.39,
+			"desc": "1829.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA",
 			"name": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA",
 			"val": 8.735527762157137,
-			"desc": 270.33000000000004,
+			"desc": "270.33",
 			"group": "POSTO ABASTECE COM DERIV DE PETROLEO AGUAS CLARAS LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 34.758302839317274,
-			"desc": 887.3,
+			"desc": "887.30",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"val": 12.373817246797625,
-			"desc": 363.65999999999997,
+			"desc": "363.66",
 			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "AUTO POSTO DO TRABALHO FREGUESIA LTDA",
 			"name": "AUTO POSTO DO TRABALHO FREGUESIA LTDA",
 			"val": 6.664916414180751,
-			"desc": 215.04,
+			"desc": "215.04",
 			"group": "AUTO POSTO DO TRABALHO FREGUESIA LTDA"
 		},
 		{
@@ -889,7 +890,7 @@
 			"id": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
 			"name": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
 			"val": 9.942699619787584,
-			"desc": 301.76,
+			"desc": "301.76",
 			"group": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA"
 		},
 		{
@@ -902,7 +903,7 @@
 			"id": "RESTAURANTE DA GRACA EIRELI",
 			"name": "RESTAURANTE DA GRACA EIRELI",
 			"val": 3.241948227477988,
-			"desc": 117.8,
+			"desc": "117.80",
 			"group": "RESTAURANTE DA GRACA EIRELI"
 		},
 		{
@@ -915,7 +916,7 @@
 			"id": "ect",
 			"name": "ect",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "ect"
 		},
 		{
@@ -928,7 +929,7 @@
 			"id": "AUTO POSTO GARDENIA AZUL LTDA",
 			"name": "AUTO POSTO GARDENIA AZUL LTDA",
 			"val": 9.810390129707864,
-			"desc": 298.34,
+			"desc": "298.34",
 			"group": "AUTO POSTO GARDENIA AZUL LTDA"
 		},
 		{
@@ -941,7 +942,7 @@
 			"id": "Itaka Comercio De Alimentos Ltda",
 			"name": "Itaka Comercio De Alimentos Ltda",
 			"val": 0.8433974558381887,
-			"desc": 39.7,
+			"desc": "39.70",
 			"group": "Itaka Comercio De Alimentos Ltda"
 		},
 		{
@@ -954,7 +955,7 @@
 			"id": "SB CHURRASCARIA LTDA",
 			"name": "SB CHURRASCARIA LTDA",
 			"val": 3.7612295419515656,
-			"desc": 133.23,
+			"desc": "133.23",
 			"group": "SB CHURRASCARIA LTDA"
 		},
 		{
@@ -967,7 +968,7 @@
 			"id": "telexperts telecomunicaçoes ltda",
 			"name": "telexperts telecomunicaçoes ltda",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "telexperts telecomunicaçoes ltda"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GLEISI HOFFMANN"
+			"name": "GLEISI HOFFMANN",
+			"desc": "47157.17"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AGENCIA DE CORREIOS FRANQUEADA OSORIO LTDA",
 			"name": "AGENCIA DE CORREIOS FRANQUEADA OSORIO LTDA",
 			"val": 23.558648740525616,
-			"desc": 632.9,
+			"desc": "632.90",
 			"group": "AGENCIA DE CORREIOS FRANQUEADA OSORIO LTDA"
 		},
 		{
@@ -72,7 +73,7 @@
 			"id": "CARPATI ADMINISTRAÇÃO DE BENS LTDA",
 			"name": "CARPATI ADMINISTRAÇÃO DE BENS LTDA",
 			"val": 806.7376311615642,
-			"desc": 14581.19,
+			"desc": "14581.19",
 			"group": "CARPATI ADMINISTRAÇÃO DE BENS LTDA"
 		},
 		{
@@ -97,7 +98,7 @@
 			"id": "AUTO POSTO MEDITERRANEO LTDA",
 			"name": "AUTO POSTO MEDITERRANEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO MEDITERRANEO LTDA"
 		},
 		{
@@ -110,7 +111,7 @@
 			"id": "POSTO DE GASOLINA HELLER LTDA",
 			"name": "POSTO DE GASOLINA HELLER LTDA",
 			"val": 7.194820974545056,
-			"desc": 229.38,
+			"desc": "229.38",
 			"group": "POSTO DE GASOLINA HELLER LTDA"
 		},
 		{
@@ -129,7 +130,7 @@
 			"id": "JI COMERCIO DE COMBUSTIVEL LTDA ME",
 			"name": "JI COMERCIO DE COMBUSTIVEL LTDA ME",
 			"val": 2.755488564049605,
-			"desc": 103.02,
+			"desc": "103.02",
 			"group": "JI COMERCIO DE COMBUSTIVEL LTDA ME"
 		},
 		{
@@ -142,7 +143,7 @@
 			"id": "AUTO POSTO HAUER LTDA ME",
 			"name": "AUTO POSTO HAUER LTDA ME",
 			"val": 4.214054599150027,
-			"desc": 146.44,
+			"desc": "146.44",
 			"group": "AUTO POSTO HAUER LTDA ME"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "Copel Distribuição S.A.",
 			"name": "Copel Distribuição S.A.",
 			"val": 14.568448918373205,
-			"desc": 418.24,
+			"desc": "418.24",
 			"group": "Copel Distribuição S.A."
 		},
 		{
@@ -180,7 +181,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 23.679928346623203,
-			"desc": 635.72,
+			"desc": "635.72",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "Cleiton Luiz Saviski ME",
 			"name": "Cleiton Luiz Saviski ME",
 			"val": 109.31831861735337,
-			"desc": 2430,
+			"desc": "2430.00",
 			"group": "Cleiton Luiz Saviski ME"
 		},
 		{
@@ -218,7 +219,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 280.3602272547539,
-			"desc": 5626.14,
+			"desc": "5626.14",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "AUTO POSTO QUERUBIM LTDA",
 			"name": "AUTO POSTO QUERUBIM LTDA",
 			"val": 3.1045459795841555,
-			"desc": 113.66,
+			"desc": "113.66",
 			"group": "AUTO POSTO QUERUBIM LTDA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "TAM",
 			"name": "TAM",
 			"val": 227.40213345162854,
-			"desc": 4664.64,
+			"desc": "4664.64",
 			"group": "TAM"
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "COPEL TELECOMUNICACOES S.A.",
 			"name": "COPEL TELECOMUNICACOES S.A.",
 			"val": 20.86026872852673,
-			"desc": 569.7,
+			"desc": "569.70",
 			"group": "COPEL TELECOMUNICACOES S.A."
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 49.000766368749126,
-			"desc": 1197.91,
+			"desc": "1197.91",
 			"group": "CLARO S/A"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "WENCESLAU COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "WENCESLAU COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.703216967549187,
-			"desc": 160.49,
+			"desc": "160.49",
 			"group": "WENCESLAU COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "AUTO POSTO VICENTE MACHADO LTDA",
 			"name": "AUTO POSTO VICENTE MACHADO LTDA",
 			"val": 25.738574473309775,
-			"desc": 683.34,
+			"desc": "683.34",
 			"group": "AUTO POSTO VICENTE MACHADO LTDA"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "AUTO POSTO PARANA VIP EIRELI",
 			"name": "AUTO POSTO PARANA VIP EIRELI",
 			"val": 8.762573552915429,
-			"desc": 271.03999999999996,
+			"desc": "271.04",
 			"group": "AUTO POSTO PARANA VIP EIRELI"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.9323290929369896,
-			"desc": 77.07,
+			"desc": "77.07",
 			"group": "RAMAL"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.04153353323278463,
-			"desc": 4.67,
+			"desc": "4.67",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "CONDOR SUPER CENTER LTDA",
 			"name": "CONDOR SUPER CENTER LTDA",
 			"val": 4.180562158975565,
-			"desc": 145.47,
+			"desc": "145.47",
 			"group": "CONDOR SUPER CENTER LTDA"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "PASSIONE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "PASSIONE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 11.005886762477639,
-			"desc": 329.03999999999996,
+			"desc": "329.04",
 			"group": "PASSIONE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "AUTO POSTO SEMINARIO LTDA",
 			"name": "AUTO POSTO SEMINARIO LTDA",
 			"val": 4.653094963601302,
-			"desc": 159.06,
+			"desc": "159.06",
 			"group": "AUTO POSTO SEMINARIO LTDA"
 		},
 		{
@@ -471,7 +472,7 @@
 			"id": "TIC POSTO LTDA V",
 			"name": "TIC POSTO LTDA V",
 			"val": 8.369770134517537,
-			"desc": 260.7,
+			"desc": "260.70",
 			"group": "TIC POSTO LTDA V"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "KS COMERCIO DE COMBUSTIVEIS E CONVENIENCIA LTDA",
 			"name": "KS COMERCIO DE COMBUSTIVEIS E CONVENIENCIA LTDA",
 			"val": 20.620097725183136,
-			"desc": 564.03,
+			"desc": "564.03",
 			"group": "KS COMERCIO DE COMBUSTIVEIS E CONVENIENCIA LTDA"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "POSTO DA CIDADE INDUSTRIAL LTDA",
 			"name": "POSTO DA CIDADE INDUSTRIAL LTDA",
 			"val": 3.2966119663095057,
-			"desc": 119.44,
+			"desc": "119.44",
 			"group": "POSTO DA CIDADE INDUSTRIAL LTDA"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "AUTO POSTO R JUVEVE LTDA",
 			"name": "AUTO POSTO R JUVEVE LTDA",
 			"val": 1.7165021279886936,
-			"desc": 70.01,
+			"desc": "70.01",
 			"group": "AUTO POSTO R JUVEVE LTDA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "Auto Posto Apucarana Ltda",
 			"name": "Auto Posto Apucarana Ltda",
 			"val": 2.692833996714104,
-			"desc": 101.09,
+			"desc": "101.09",
 			"group": "Auto Posto Apucarana Ltda"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "DIPOL POSTOS DE COMBUSTIVEIS LTDA",
 			"name": "DIPOL POSTOS DE COMBUSTIVEIS LTDA",
 			"val": 4.633836988291622,
-			"desc": 158.51,
+			"desc": "158.51",
 			"group": "DIPOL POSTOS DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 22.3242583378902,
-			"desc": 604.1,
+			"desc": "604.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 57.18395222873249,
-			"desc": 1371.7400000000002,
+			"desc": "1371.74",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 17.582668511859083,
-			"desc": 491.61,
+			"desc": "491.61",
 			"group": "NET"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "PAGNUSSAT COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "PAGNUSSAT COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 10.418822649546643,
-			"desc": 314.02,
+			"desc": "314.02",
 			"group": "PAGNUSSAT COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "L N COM DE COMBUSTIVEIS E LUBRIF",
 			"name": "L N COM DE COMBUSTIVEIS E LUBRIF",
 			"val": 9.52257380816284,
-			"desc": 290.88,
+			"desc": "290.88",
 			"group": "L N COM DE COMBUSTIVEIS E LUBRIF"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 18.262921021775732,
-			"desc": 507.95,
+			"desc": "507.95",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "MELLO & CRUZ LTDA",
 			"name": "MELLO & CRUZ LTDA",
 			"val": 160.07298416615333,
-			"desc": 3410,
+			"desc": "3410.00",
 			"group": "MELLO & CRUZ LTDA"
 		},
 		{
@@ -736,7 +737,7 @@
 			"id": "POSTO ALVORADA",
 			"name": "POSTO ALVORADA",
 			"val": 5.61021199188743,
-			"desc": 186.03,
+			"desc": "186.03",
 			"group": "POSTO ALVORADA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "AUTO POSTO PETRO BATEL LTDA",
 			"name": "AUTO POSTO PETRO BATEL LTDA",
 			"val": 3.1052076918061147,
-			"desc": 113.68,
+			"desc": "113.68",
 			"group": "AUTO POSTO PETRO BATEL LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "AUTO POSTO ORTONA LTDA",
 			"name": "AUTO POSTO ORTONA LTDA",
 			"val": 4.509104681627108,
-			"desc": 154.94,
+			"desc": "154.94",
 			"group": "AUTO POSTO ORTONA LTDA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "I.M.S COM. DE DER. DE PET. EIRELI - EPP",
 			"name": "I.M.S COM. DE DER. DE PET. EIRELI - EPP",
 			"val": 6.550342035628122,
-			"desc": 211.92,
+			"desc": "211.92",
 			"group": "I.M.S COM. DE DER. DE PET. EIRELI - EPP"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "CONSEG MONITORAMENTO DE ALARMES E COMÉRCIO LTDA",
 			"name": "CONSEG MONITORAMENTO DE ALARMES E COMÉRCIO LTDA",
 			"val": 2.930903688410265,
-			"desc": 108.39,
+			"desc": "108.39",
 			"group": "CONSEG MONITORAMENTO DE ALARMES E COMÉRCIO LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 8.797253566225693,
-			"desc": 271.95,
+			"desc": "271.95",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS WEILER LTDA.",
 			"name": "COMERCIO DE COMBUSTIVEIS WEILER LTDA.",
 			"val": 8.344019735016852,
-			"desc": 260.02,
+			"desc": "260.02",
 			"group": "COMERCIO DE COMBUSTIVEIS WEILER LTDA."
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.157629722233298,
-			"desc": 201.17,
+			"desc": "201.17",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -840,7 +841,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 6.666754678977737,
-			"desc": 215.09,
+			"desc": "215.09",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.235837153359831,
-			"desc": 86.8,
+			"desc": "86.80",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "DUCATI AUTO POSTO LTDA",
 			"name": "DUCATI AUTO POSTO LTDA",
 			"val": 5.267467004520029,
-			"desc": 176.45,
+			"desc": "176.45",
 			"group": "DUCATI AUTO POSTO LTDA"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "AUTO POSTO JARDIM GUARANY LTDA",
 			"name": "AUTO POSTO JARDIM GUARANY LTDA",
 			"val": 6.818456730020017,
-			"desc": 219.21,
+			"desc": "219.21",
 			"group": "AUTO POSTO JARDIM GUARANY LTDA"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "GUSTAVO GUEDES DE CASTRO 04805394994",
 			"name": "GUSTAVO GUEDES DE CASTRO 04805394994",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "GUSTAVO GUEDES DE CASTRO 04805394994"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "FELIPPE E FELIPPE COM DE COMB LTDA",
 			"name": "FELIPPE E FELIPPE COM DE COMB LTDA",
 			"val": 6.006539425070678,
-			"desc": 197.01,
+			"desc": "197.01",
 			"group": "FELIPPE E FELIPPE COM DE COMB LTDA"
 		},
 		{
@@ -924,7 +925,7 @@
 			"id": "POSTO COPA LTDA.",
 			"name": "POSTO COPA LTDA.",
 			"val": 14.509588322866461,
-			"desc": 416.78999999999996,
+			"desc": "416.79",
 			"group": "POSTO COPA LTDA."
 		},
 		{
@@ -943,7 +944,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 5.139791759482142,
-			"desc": 172.86,
+			"desc": "172.86",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -956,7 +957,7 @@
 			"id": "TRELRIUM COMERCIO DE COMBUST E CONVENIENCIA LTDA-ME",
 			"name": "TRELRIUM COMERCIO DE COMBUST E CONVENIENCIA LTDA-ME",
 			"val": 3.4667531871975736,
-			"desc": 124.52,
+			"desc": "124.52",
 			"group": "TRELRIUM COMERCIO DE COMBUST E CONVENIENCIA LTDA-ME"
 		},
 		{
@@ -969,7 +970,7 @@
 			"id": "AUTO POSTO DALLABONA III LTDA",
 			"name": "AUTO POSTO DALLABONA III LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "AUTO POSTO DALLABONA III LTDA"
 		},
 		{
@@ -982,7 +983,7 @@
 			"id": "AGROROTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "AGROROTA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 8.007572132224483,
-			"desc": 251.11,
+			"desc": "251.11",
 			"group": "AGROROTA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -995,7 +996,7 @@
 			"id": "AUTO POSTO AMF VALENTIM",
 			"name": "AUTO POSTO AMF VALENTIM",
 			"val": 5.252508129473798,
-			"desc": 176.03,
+			"desc": "176.03",
 			"group": "AUTO POSTO AMF VALENTIM"
 		},
 		{

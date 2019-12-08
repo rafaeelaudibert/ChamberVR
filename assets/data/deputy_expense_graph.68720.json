@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FÁBIO HENRIQUE"
+			"name": "FÁBIO HENRIQUE",
+			"desc": "70858.08"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 731.518932010414,
-			"desc": 13344.98,
+			"desc": "13344.98",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"name": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A",
 			"val": 18.792061868374418,
-			"desc": 520.61,
+			"desc": "520.61",
 			"group": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A"
 		},
 		{
@@ -295,7 +296,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 137.78541926443927,
-			"desc": 2984.1499999999996,
+			"desc": "2984.15",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 182.24649874086336,
-			"desc": 3827.95,
+			"desc": "3827.95",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "PROPAGTUR TURISMO LTDA",
 			"name": "PROPAGTUR TURISMO LTDA",
 			"val": 59.240878671490925,
-			"desc": 1415,
+			"desc": "1415.00",
 			"group": "PROPAGTUR TURISMO LTDA"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "REDE DE POSTOS PRESIDENTE LTDA - TECARMO",
 			"name": "REDE DE POSTOS PRESIDENTE LTDA - TECARMO",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "REDE DE POSTOS PRESIDENTE LTDA - TECARMO"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "EMPRESA PRODUTORA DE COMUNICACAO E RADIODIFUSAO EIRELI",
 			"name": "EMPRESA PRODUTORA DE COMUNICACAO E RADIODIFUSAO EIRELI",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "EMPRESA PRODUTORA DE COMUNICACAO E RADIODIFUSAO EIRELI"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 24.517498799424285,
-			"desc": 655.15,
+			"desc": "655.15",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "RPB AUTO POSTO LTDA",
 			"name": "RPB AUTO POSTO LTDA",
 			"val": 37.881787466066996,
-			"desc": 956.4599999999999,
+			"desc": "956.46",
 			"group": "RPB AUTO POSTO LTDA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"name": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO",
 			"val": 1.6536816566022892,
-			"desc": 67.93,
+			"desc": "67.93",
 			"group": "COMPANHIA DE SANEAMENTO DE SERGIPE DESO"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "R & L LOCACOES, EMPREENDIMENTOS E SERVICOS - EIRELI",
 			"name": "R & L LOCACOES, EMPREENDIMENTOS E SERVICOS - EIRELI",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "R & L LOCACOES, EMPREENDIMENTOS E SERVICOS - EIRELI"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "POSTO VALADARES LTDA",
 			"name": "POSTO VALADARES LTDA",
 			"val": 9.489464356727552,
-			"desc": 290.02,
+			"desc": "290.02",
 			"group": "POSTO VALADARES LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "KRAUSS ADVOCACIA",
 			"name": "KRAUSS ADVOCACIA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "KRAUSS ADVOCACIA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "A.C. COMERCIO DE COMBUSTIVEIS LTDA (SERRANO VIII)",
 			"name": "A.C. COMERCIO DE COMBUSTIVEIS LTDA (SERRANO VIII)",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "A.C. COMERCIO DE COMBUSTIVEIS LTDA (SERRANO VIII)"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "MC PAPELARIA LTDA - EPP",
 			"name": "MC PAPELARIA LTDA - EPP",
 			"val": 15.886962001837343,
-			"desc": 450.54,
+			"desc": "450.54",
 			"group": "MC PAPELARIA LTDA - EPP"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "GEORGE BATALHA MOREIRA",
 			"name": "GEORGE BATALHA MOREIRA",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "GEORGE BATALHA MOREIRA"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "POSTO PIRANEMA LTDA",
 			"name": "POSTO PIRANEMA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO PIRANEMA LTDA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "SACEL SEGURANÇA ELETRÔNICA LTDA.",
 			"name": "SACEL SEGURANÇA ELETRÔNICA LTDA.",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "SACEL SEGURANÇA ELETRÔNICA LTDA."
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 15.603732544404247,
-			"desc": 443.63,
+			"desc": "443.63",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "GAMA & CIA LTDA",
 			"name": "GAMA & CIA LTDA",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "GAMA & CIA LTDA"
 		},
 		{
@@ -703,7 +704,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -716,7 +717,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.1429587195158626,
-			"desc": 50.5,
+			"desc": "50.50",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -729,7 +730,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.101792418096478,
-			"desc": 253.61,
+			"desc": "253.61",
 			"group": "RAMAL"
 		},
 		{
@@ -748,7 +749,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 4.598501051583986,
-			"desc": 157.5,
+			"desc": "157.50",
 			"group": "CLARO S.A."
 		},
 		{
@@ -761,7 +762,7 @@
 			"id": "REDE DE POSTOS PRESIDENTE LTDA - FAROLANDIA",
 			"name": "REDE DE POSTOS PRESIDENTE LTDA - FAROLANDIA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "REDE DE POSTOS PRESIDENTE LTDA - FAROLANDIA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "REDE DE POSTOS PRESIDENTE LTDA",
 			"name": "REDE DE POSTOS PRESIDENTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "REDE DE POSTOS PRESIDENTE LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "PETROX COMERCIAL LTDA (13 DE JULHO)",
 			"name": "PETROX COMERCIAL LTDA (13 DE JULHO)",
 			"val": 9.876516755384918,
-			"desc": 300.05,
+			"desc": "300.05",
 			"group": "PETROX COMERCIAL LTDA (13 DE JULHO)"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "POSTO ARIBE LTDA",
 			"name": "POSTO ARIBE LTDA",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "POSTO ARIBE LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "HUMBERTO PORTO DORIA & CIA LTDA",
 			"name": "HUMBERTO PORTO DORIA & CIA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "HUMBERTO PORTO DORIA & CIA LTDA"
 		},
 		{

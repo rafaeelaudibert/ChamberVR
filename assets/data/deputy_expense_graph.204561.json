@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BIRA DO PINDARÉ"
+			"name": "BIRA DO PINDARÉ",
+			"desc": "84791.89"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 56.80157810398714,
-			"desc": 1363.68,
+			"desc": "1363.68",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Auto Posto Sof Norte Ltda",
 			"name": "Auto Posto Sof Norte Ltda",
 			"val": 6.642127509435124,
-			"desc": 214.42,
+			"desc": "214.42",
 			"group": "Auto Posto Sof Norte Ltda"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "TELECOMUNICAÇÕES NORDESTE LTDA",
 			"name": "TELECOMUNICAÇÕES NORDESTE LTDA",
 			"val": 25.235281109761036,
-			"desc": 671.74,
+			"desc": "671.74",
 			"group": "TELECOMUNICAÇÕES NORDESTE LTDA"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 181.49452147723275,
-			"desc": 3813.86,
+			"desc": "3813.86",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -189,7 +190,7 @@
 			"id": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
 			"name": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR",
 			"val": 59.086079568546346,
-			"desc": 1411.75,
+			"desc": "1411.75",
 			"group": "COMPANHIA ENERGÉTICA DO MARANHÃO-CEMAR"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 416.75897642322747,
-			"desc": 8032.16,
+			"desc": "8032.16",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -281,7 +282,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 1494.6598693534042,
-			"desc": 25524.29,
+			"desc": "25524.29",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -372,7 +373,7 @@
 			"id": "C C SOARES & CIA LTDA EPP",
 			"name": "C C SOARES & CIA LTDA EPP",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "C C SOARES & CIA LTDA EPP"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 36.436913178489206,
-			"desc": 924.5500000000001,
+			"desc": "924.55",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "Eraldo Carlos Nogueira",
 			"name": "Eraldo Carlos Nogueira",
 			"val": 746.9837552877635,
-			"desc": 13600,
+			"desc": "13600.00",
 			"group": "Eraldo Carlos Nogueira"
 		},
 		{
@@ -453,7 +454,7 @@
 			"id": "L S COMERCIO E SERVICOS LTDA VINHAIS",
 			"name": "L S COMERCIO E SERVICOS LTDA VINHAIS",
 			"val": 28.34329550028287,
-			"desc": 742.97,
+			"desc": "742.97",
 			"group": "L S COMERCIO E SERVICOS LTDA VINHAIS"
 		},
 		{
@@ -484,7 +485,7 @@
 			"id": "SUPER GAMES COMERCIAL LTDA",
 			"name": "SUPER GAMES COMERCIAL LTDA",
 			"val": 15.797950975748284,
-			"desc": 448.37,
+			"desc": "448.37",
 			"group": "SUPER GAMES COMERCIAL LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "M E G DANTAS ME",
 			"name": "M E G DANTAS ME",
 			"val": 10.652067961455824,
-			"desc": 320,
+			"desc": "320.00",
 			"group": "M E G DANTAS ME"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 220.3880142636239,
-			"desc": 4535.8,
+			"desc": "4535.80",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 22.08514660404274,
-			"desc": 598.5,
+			"desc": "598.50",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA.",
 			"name": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA.",
 			"val": 21.581020647330245,
-			"desc": 586.67,
+			"desc": "586.67",
 			"group": "EVOLUTIVA LIVRARIA E PAPELARIA LTDA."
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "Iranilde Ferreira Pinheiro",
 			"name": "Iranilde Ferreira Pinheiro",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "Iranilde Ferreira Pinheiro"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "RIO POSTO E DERIVADOS DE PETROLEO LTDA",
 			"name": "RIO POSTO E DERIVADOS DE PETROLEO LTDA",
 			"val": 5.8530652840393875,
-			"desc": 192.77,
+			"desc": "192.77",
 			"group": "RIO POSTO E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "TOYOLEX AUTOS SA",
 			"name": "TOYOLEX AUTOS SA",
 			"val": 28.423681035350725,
-			"desc": 744.8,
+			"desc": "744.80",
 			"group": "TOYOLEX AUTOS SA"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 55.48152775345768,
-			"desc": 1335.81,
+			"desc": "1335.81",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "H M BOGEA E CIA LTDA",
 			"name": "H M BOGEA E CIA LTDA",
 			"val": 63.30448071229946,
-			"desc": 1500,
+			"desc": "1500.00",
 			"group": "H M BOGEA E CIA LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "LM GRAFICA LTDA",
 			"name": "LM GRAFICA LTDA",
 			"val": 295.3460103877068,
-			"desc": 5895,
+			"desc": "5895.00",
 			"group": "LM GRAFICA LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "YES ALUGUEL DE CARROS",
 			"name": "YES ALUGUEL DE CARROS",
 			"val": 80.85570325940031,
-			"desc": 1861,
+			"desc": "1861.00",
 			"group": "YES ALUGUEL DE CARROS"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 55.337741209949975,
-			"desc": 1332.77,
+			"desc": "1332.77",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.5116154246403903,
-			"desc": 95.47,
+			"desc": "95.47",
 			"group": "RAMAL"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "ROMA TRUCK CENTER LTDA",
 			"name": "ROMA TRUCK CENTER LTDA",
 			"val": 12.291074782311439,
-			"desc": 361.58000000000004,
+			"desc": "361.58",
 			"group": "ROMA TRUCK CENTER LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.24283684181159,
-			"desc": 203.51,
+			"desc": "203.51",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
 			"name": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
 			"val": 287.25496353653926,
-			"desc": 5750,
+			"desc": "5750.00",
 			"group": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.9666606386320747,
-			"desc": 44.21,
+			"desc": "44.21",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 0.4721881730049182,
-			"desc": 25.32,
+			"desc": "25.32",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "POSTO BACANGA LTDA",
 			"name": "POSTO BACANGA LTDA",
 			"val": 5.162876806828069,
-			"desc": 173.51,
+			"desc": "173.51",
 			"group": "POSTO BACANGA LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "HOTEL GREEN VILLAGES LTDA",
 			"name": "HOTEL GREEN VILLAGES LTDA",
 			"val": 9.488694544417323,
-			"desc": 290,
+			"desc": "290.00",
 			"group": "HOTEL GREEN VILLAGES LTDA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "SOARES E NASCIMENTO LTDA",
 			"name": "SOARES E NASCIMENTO LTDA",
 			"val": 3.652308476680778,
-			"desc": 130.02,
+			"desc": "130.02",
 			"group": "SOARES E NASCIMENTO LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "HOTEL GREEN VILLAGES",
 			"name": "HOTEL GREEN VILLAGES",
 			"val": 3.4828921423310435,
-			"desc": 125,
+			"desc": "125.00",
 			"group": "HOTEL GREEN VILLAGES"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "ECODRIVE COMBUSTIVEIS LTDA",
 			"name": "ECODRIVE COMBUSTIVEIS LTDA",
 			"val": 3.8398887895346316,
-			"desc": 135.54,
+			"desc": "135.54",
 			"group": "ECODRIVE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "Franere Participações S.A",
 			"name": "Franere Participações S.A",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "Franere Participações S.A"
 		},
 		{
@@ -863,7 +864,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 6.362898812953688,
-			"desc": 206.8,
+			"desc": "206.80",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -876,7 +877,7 @@
 			"id": "POSTO ATLANTICO SUL LTDA",
 			"name": "POSTO ATLANTICO SUL LTDA",
 			"val": 6.848334477528059,
-			"desc": 220.02,
+			"desc": "220.02",
 			"group": "POSTO ATLANTICO SUL LTDA"
 		},
 		{

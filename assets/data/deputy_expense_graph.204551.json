@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BOSCO SARAIVA"
+			"name": "BOSCO SARAIVA",
+			"desc": "162809.25"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 270.4162311562996,
-			"desc": 5447,
+			"desc": "5447.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 7.363308775907991,
-			"desc": 233.91,
+			"desc": "233.91",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -104,7 +105,7 @@
 			"id": "A M PRAIA-EPP",
 			"name": "A M PRAIA-EPP",
 			"val": 980.3642320805304,
-			"desc": 17398.76,
+			"desc": "17398.76",
 			"group": "A M PRAIA-EPP"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"name": "MOVIDA LOCACAO DE VEICULOS S.A.",
 			"val": 284.46981344981987,
-			"desc": 5700,
+			"desc": "5700.00",
 			"group": "MOVIDA LOCACAO DE VEICULOS S.A."
 		},
 		{
@@ -142,7 +143,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 985.1345951368758,
-			"desc": 17475.54,
+			"desc": "17475.54",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "AMAZONAS DISTRIBUIDORA ENERGIA",
 			"name": "AMAZONAS DISTRIBUIDORA ENERGIA",
 			"val": 148.84664382951158,
-			"desc": 3196.2799999999997,
+			"desc": "3196.28",
 			"group": "AMAZONAS DISTRIBUIDORA ENERGIA"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.738586840797233,
-			"desc": 102.5,
+			"desc": "102.50",
 			"group": "RAMAL"
 		},
 		{
@@ -277,7 +278,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 702.3934984043401,
-			"desc": 12863.42,
+			"desc": "12863.42",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 57.253245311345516,
-			"desc": 1373.2,
+			"desc": "1373.20",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "Grafisa - Grafica e Editora Ltda",
 			"name": "Grafisa - Grafica e Editora Ltda",
 			"val": 403.39286234947355,
-			"desc": 7800,
+			"desc": "7800.00",
 			"group": "Grafisa - Grafica e Editora Ltda"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "JOSÉ MARIA FROTA DE MENEZES",
 			"name": "JOSÉ MARIA FROTA DE MENEZES",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "JOSÉ MARIA FROTA DE MENEZES"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "LOGIC PRO SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA",
 			"name": "LOGIC PRO SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA",
 			"val": 26.419819612469716,
-			"desc": 699,
+			"desc": "699.00",
 			"group": "LOGIC PRO SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 82.77755614445915,
-			"desc": 1900,
+			"desc": "1900.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 16.68909017050579,
-			"desc": 470.03,
+			"desc": "470.03",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "ELIETE MELO",
 			"name": "ELIETE MELO",
 			"val": 37.90992237999793,
-			"desc": 957.08,
+			"desc": "957.08",
 			"group": "ELIETE MELO"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "AUTO POSTO JB LIMITADA",
 			"name": "AUTO POSTO JB LIMITADA",
 			"val": 7.96427894643748,
-			"desc": 249.95999999999998,
+			"desc": "249.96",
 			"group": "AUTO POSTO JB LIMITADA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "S. M. ASSUNCAO - COMERCIO",
 			"name": "S. M. ASSUNCAO - COMERCIO",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "S. M. ASSUNCAO - COMERCIO"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.1469363460098365,
-			"desc": 50.64,
+			"desc": "50.64",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "LOGIC PRO SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"name": "LOGIC PRO SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO LTDA",
 			"val": 26.419819612469716,
-			"desc": 699,
+			"desc": "699.00",
 			"group": "LOGIC PRO SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO LTDA"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "A M PRAIA",
 			"name": "A M PRAIA",
 			"val": 455.38459604026525,
-			"desc": 8699.38,
+			"desc": "8699.38",
 			"group": "A M PRAIA"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "PETROGAMA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "PETROGAMA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PETROGAMA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "NO AR EVENTOS E MARKETING EIRELI ME",
 			"name": "NO AR EVENTOS E MARKETING EIRELI ME",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "NO AR EVENTOS E MARKETING EIRELI ME"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 11.51680551366351,
-			"desc": 342.03,
+			"desc": "342.03",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 3.6821234259035056,
-			"desc": 130.9,
+			"desc": "130.90",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "NET",
 			"name": "NET",
 			"val": 53.70783658488591,
-			"desc": 1298.25,
+			"desc": "1298.25",
 			"group": "NET"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "WINDSOR ADMINISTRAÇÃO DE HOTEIS E SERVIÇOS LTDA",
 			"name": "WINDSOR ADMINISTRAÇÃO DE HOTEIS E SERVIÇOS LTDA",
 			"val": 85.51054252730682,
-			"desc": 1955.3,
+			"desc": "1955.30",
 			"group": "WINDSOR ADMINISTRAÇÃO DE HOTEIS E SERVIÇOS LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "MIZUNO KAY & CIA LTDA",
 			"name": "MIZUNO KAY & CIA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "MIZUNO KAY & CIA LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 17.515810360445037,
-			"desc": 490,
+			"desc": "490.00",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 12.22826845871473,
-			"desc": 360,
+			"desc": "360.00",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "F E TRANSPORTE E NAVEGAÇÃO LTDA",
 			"name": "F E TRANSPORTE E NAVEGAÇÃO LTDA",
 			"val": 980.4412581193922,
-			"desc": 17400,
+			"desc": "17400.00",
 			"group": "F E TRANSPORTE E NAVEGAÇÃO LTDA"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 5.052551887670705,
-			"desc": 170.4,
+			"desc": "170.40",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.09246039266801644,
-			"desc": 7.8,
+			"desc": "7.80",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "AGUAS DO AMAZONAS",
 			"name": "AGUAS DO AMAZONAS",
 			"val": 24.70460907216443,
-			"desc": 659.48,
+			"desc": "659.48",
 			"group": "AGUAS DO AMAZONAS"
 		},
 		{
@@ -853,7 +854,7 @@
 			"id": "TELEFÔNICA BRASIL S.A",
 			"name": "TELEFÔNICA BRASIL S.A",
 			"val": 36.85012930098028,
-			"desc": 933.69,
+			"desc": "933.69",
 			"group": "TELEFÔNICA BRASIL S.A"
 		},
 		{
@@ -866,7 +867,7 @@
 			"id": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"name": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA",
 			"val": 0.03338423211958382,
-			"desc": 4.1,
+			"desc": "4.10",
 			"group": "CORREIOS - ENVELOPE BÁSICO/CONVENCIONAL - PLÁSTICO/BOLHA"
 		},
 		{
@@ -879,7 +880,7 @@
 			"id": "MARLIM COMBUSTIVEIS LTDA",
 			"name": "MARLIM COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MARLIM COMBUSTIVEIS LTDA"
 		},
 		{
@@ -892,7 +893,7 @@
 			"id": "AMC DE MENEZES",
 			"name": "AMC DE MENEZES",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "AMC DE MENEZES"
 		},
 		{
@@ -905,7 +906,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -918,7 +919,7 @@
 			"id": "CORREIOS - EMS MERCADORIA",
 			"name": "CORREIOS - EMS MERCADORIA",
 			"val": 3.8897215814623687,
-			"desc": 137,
+			"desc": "137.00",
 			"group": "CORREIOS - EMS MERCADORIA"
 		},
 		{

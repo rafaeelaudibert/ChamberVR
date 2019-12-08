@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GIL CUTRIM"
+			"name": "GIL CUTRIM",
+			"desc": "167091.43"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 487.4311687557549,
-			"desc": 9249.1,
+			"desc": "9249.10",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -78,7 +79,7 @@
 			"id": "MULTISOFT INFORMATICA LTDA",
 			"name": "MULTISOFT INFORMATICA LTDA",
 			"val": 105.77115160171248,
-			"desc": 2360,
+			"desc": "2360.00",
 			"group": "MULTISOFT INFORMATICA LTDA"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 35.45570993110912,
-			"desc": 902.8000000000001,
+			"desc": "902.80",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 11.162903530547373,
-			"desc": 333.03999999999996,
+			"desc": "333.04",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -195,7 +196,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 43.566403413633,
-			"desc": 1080.75,
+			"desc": "1080.75",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "MANOEL PORTUGUES DA CUNHA",
 			"name": "MANOEL PORTUGUES DA CUNHA",
 			"val": 27.33653691742946,
-			"desc": 720,
+			"desc": "720.00",
 			"group": "MANOEL PORTUGUES DA CUNHA"
 		},
 		{
@@ -251,7 +252,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 206.49236918262676,
-			"desc": 4279.39,
+			"desc": "4279.39",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "MILENIO 106 GRAFICA RAPIDA & PAPELARIA EIRELI",
 			"name": "MILENIO 106 GRAFICA RAPIDA & PAPELARIA EIRELI",
 			"val": 1.2258008099405209,
-			"desc": 53.4,
+			"desc": "53.40",
 			"group": "MILENIO 106 GRAFICA RAPIDA & PAPELARIA EIRELI"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 1.9184572624965532,
-			"desc": 76.62,
+			"desc": "76.62",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "MATEUS MARK CALDAS GUIMARAES SANDES",
 			"name": "MATEUS MARK CALDAS GUIMARAES SANDES",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "MATEUS MARK CALDAS GUIMARAES SANDES"
 		},
 		{
@@ -459,7 +460,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 144.41271727326543,
-			"desc": 3111.44,
+			"desc": "3111.44",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.21742012059826374,
-			"desc": 14.2,
+			"desc": "14.20",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 163.87056305004583,
-			"desc": 3481.96,
+			"desc": "3481.96",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "SUPREMA LOCADORA",
 			"name": "SUPREMA LOCADORA",
 			"val": 2446.033980727912,
-			"desc": 40000,
+			"desc": "40000.00",
 			"group": "SUPREMA LOCADORA"
 		},
 		{
@@ -541,7 +542,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.074874401074022,
-			"desc": 171.03,
+			"desc": "171.03",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -554,7 +555,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.085376284470899,
-			"desc": 226.42999999999998,
+			"desc": "226.43",
 			"group": "RAMAL"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "ERIC GUIMARÂES ARAUJO - ME",
 			"name": "ERIC GUIMARÂES ARAUJO - ME",
 			"val": 1036.4795012539018,
-			"desc": 18300,
+			"desc": "18300.00",
 			"group": "ERIC GUIMARÂES ARAUJO - ME"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 36.82705873539681,
-			"desc": 933.18,
+			"desc": "933.18",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "ANDERSON SOUZA ALMEIDA",
 			"name": "ANDERSON SOUZA ALMEIDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "ANDERSON SOUZA ALMEIDA"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 8.533598870260017,
-			"desc": 265.02,
+			"desc": "265.02",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 32.88140145348325,
-			"desc": 845.41,
+			"desc": "845.41",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "RESTAURANTE MADERO BRASILIA LT",
 			"name": "RESTAURANTE MADERO BRASILIA LT",
 			"val": 2.509370065002686,
-			"desc": 95.4,
+			"desc": "95.40",
 			"group": "RESTAURANTE MADERO BRASILIA LT"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "G3 ALIMENTOS LTDA.",
 			"name": "G3 ALIMENTOS LTDA.",
 			"val": 5.912002916219443,
-			"desc": 194.4,
+			"desc": "194.40",
 			"group": "G3 ALIMENTOS LTDA."
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "FILIPE FRANCO SOCIEDADE INDIVIDUAL DE ADVOGACIA",
 			"name": "FILIPE FRANCO SOCIEDADE INDIVIDUAL DE ADVOGACIA",
 			"val": 1080.242096656031,
-			"desc": 19000,
+			"desc": "19000.00",
 			"group": "FILIPE FRANCO SOCIEDADE INDIVIDUAL DE ADVOGACIA"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"name": "PAULO OCTAVIO HOTEIS E TUR. LTDA.",
 			"val": 117.5153229788664,
-			"desc": 2590.8999999999996,
+			"desc": "2590.90",
 			"group": "PAULO OCTAVIO HOTEIS E TUR. LTDA."
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "SAN REMI POSTO E SERVIÇOS LTDA",
 			"name": "SAN REMI POSTO E SERVIÇOS LTDA",
 			"val": 7.295182659397733,
-			"desc": 232.08,
+			"desc": "232.08",
 			"group": "SAN REMI POSTO E SERVIÇOS LTDA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "IKEDA PROJETOS E HOTELARIA LTDA",
 			"name": "IKEDA PROJETOS E HOTELARIA LTDA",
 			"val": 16.275701693737652,
-			"desc": 460,
+			"desc": "460.00",
 			"group": "IKEDA PROJETOS E HOTELARIA LTDA"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 3.6573881466804488,
-			"desc": 130.17,
+			"desc": "130.17",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502",
 			"name": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502",
 			"val": 1.444151010687421,
-			"desc": 60.9,
+			"desc": "60.90",
 			"group": "CASA DO COLEGIAL LIVRARIA E PAPELARIA LTDA - 502"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 75.87094629971381,
-			"desc": 1759.39,
+			"desc": "1759.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"name": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102",
 			"val": 31.135424564013398,
-			"desc": 806.2,
+			"desc": "806.20",
 			"group": "LUCAS PAULINO DE SOUSA NOGUEIRA 05629981102"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "ANDERSON SOUZA ALMEIDA 03380598143",
 			"name": "ANDERSON SOUZA ALMEIDA 03380598143",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "ANDERSON SOUZA ALMEIDA 03380598143"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 141.6381133459967,
-			"desc": 3058.22,
+			"desc": "3058.22",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{

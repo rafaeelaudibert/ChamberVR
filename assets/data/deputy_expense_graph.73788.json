@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RICARDO BARROS"
+			"name": "RICARDO BARROS",
+			"desc": "127215.91"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 862.32230701643,
-			"desc": 15488.34,
+			"desc": "15488.34",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "COMERCIAL COMBUSTIVEIS LUNDA LTDA",
 			"name": "COMERCIAL COMBUSTIVEIS LUNDA LTDA",
 			"val": 237.16453821753666,
-			"desc": 4843.34,
+			"desc": "4843.34",
 			"group": "COMERCIAL COMBUSTIVEIS LUNDA LTDA"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 395.3822759096188,
-			"desc": 7660.530000000001,
+			"desc": "7660.53",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 885.9775966733398,
-			"desc": 15872.870000000003,
+			"desc": "15872.87",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 15.62461548810553,
-			"desc": 444.14,
+			"desc": "444.14",
 			"group": "RAMAL"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CORREIOS - IMPRESSO NORMAL",
 			"name": "CORREIOS - IMPRESSO NORMAL",
 			"val": 2.65430814405286,
-			"desc": 99.9,
+			"desc": "99.90",
 			"group": "CORREIOS - IMPRESSO NORMAL"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "FREDERICO AUGUSTO LEVI DE OLIVEIRA EPP",
 			"name": "FREDERICO AUGUSTO LEVI DE OLIVEIRA EPP",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "FREDERICO AUGUSTO LEVI DE OLIVEIRA EPP"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "ORN MIDIA COMUNICAÇÃO EIRELI",
 			"name": "ORN MIDIA COMUNICAÇÃO EIRELI",
 			"val": 1866.4460711655217,
-			"desc": 31250,
+			"desc": "31250.00",
 			"group": "ORN MIDIA COMUNICAÇÃO EIRELI"
 		},
 		{
@@ -631,7 +632,7 @@
 			"id": "ORN MIDIA COMUNICACAO EIRELI -",
 			"name": "ORN MIDIA COMUNICACAO EIRELI -",
 			"val": 680.4820237218406,
-			"desc": 12500,
+			"desc": "12500.00",
 			"group": "ORN MIDIA COMUNICACAO EIRELI -"
 		},
 		{
@@ -644,7 +645,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 229.10869919110448,
-			"desc": 4695.93,
+			"desc": "4695.93",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "RS IMOVEIS",
 			"name": "RS IMOVEIS",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "RS IMOVEIS"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "JOAO GRANADO IMOBILIÁRIA LTDA",
 			"name": "JOAO GRANADO IMOBILIÁRIA LTDA",
 			"val": 265.6466686463214,
-			"desc": 5360.86,
+			"desc": "5360.86",
 			"group": "JOAO GRANADO IMOBILIÁRIA LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "F DE GOIS FILHO ME",
 			"name": "F DE GOIS FILHO ME",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "F DE GOIS FILHO ME"
 		},
 		{

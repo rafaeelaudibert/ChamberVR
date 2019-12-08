@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VALMIR ASSUNÇÃO"
+			"name": "VALMIR ASSUNÇÃO",
+			"desc": "113545.82"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1551.2121520979406,
-			"desc": 26402.06,
+			"desc": "26402.06",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.20172494360060628,
-			"desc": 13.45,
+			"desc": "13.45",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -265,7 +266,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 914.0960251797276,
-			"desc": 16328.82,
+			"desc": "16328.82",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -380,7 +381,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 5.448851082585312,
-			"desc": 181.53,
+			"desc": "181.53",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 16.030244367863492,
-			"desc": 454.0299999999999,
+			"desc": "454.03",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
 			"name": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "NATIVA SERVICOS EIRELI - ME",
 			"name": "NATIVA SERVICOS EIRELI - ME",
 			"val": 1583.368276230853,
-			"desc": 26900,
+			"desc": "26900.00",
 			"group": "NATIVA SERVICOS EIRELI - ME"
 		},
 		{
@@ -474,7 +475,7 @@
 			"id": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
 			"name": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA",
 			"val": 668.4506405249597,
-			"desc": 12300.02,
+			"desc": "12300.02",
 			"group": "POSTO VALE DO OGUNJA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "AUTO VIACAO CAMURUJIPE LTDA",
 			"name": "AUTO VIACAO CAMURUJIPE LTDA",
 			"val": 15.310094384926447,
-			"desc": 436.45,
+			"desc": "436.45",
 			"group": "AUTO VIACAO CAMURUJIPE LTDA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 228.77754530527483,
-			"desc": 4689.860000000001,
+			"desc": "4689.86",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 12.467382899831357,
-			"desc": 366.01,
+			"desc": "366.01",
 			"group": "RAMAL"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"name": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"val": 585.3080776743393,
-			"desc": 10909.14,
+			"desc": "10909.14",
 			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.624124241066288,
-			"desc": 213.93,
+			"desc": "213.93",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 106.71455545431581,
-			"desc": 2378.64,
+			"desc": "2378.64",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 9.517567948653353,
-			"desc": 290.75,
+			"desc": "290.75",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 21.93116504719053,
-			"desc": 594.89,
+			"desc": "594.89",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 23.249328350952613,
-			"desc": 625.7,
+			"desc": "625.70",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "NATIVA SERVICOS EIRELI",
 			"name": "NATIVA SERVICOS EIRELI",
 			"val": 513.8582384401199,
-			"desc": 9700,
+			"desc": "9700.00",
 			"group": "NATIVA SERVICOS EIRELI"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "BENTIVI DERIVADOS DE PETROLEO LTDA",
 			"name": "BENTIVI DERIVADOS DE PETROLEO LTDA",
 			"val": 7.55920885700663,
-			"desc": 239.16,
+			"desc": "239.16",
 			"group": "BENTIVI DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.283500772269471,
-			"desc": 176.9,
+			"desc": "176.90",
 			"group": "AUTO POSTO JF COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 4.146417642815129,
-			"desc": 144.48,
+			"desc": "144.48",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{

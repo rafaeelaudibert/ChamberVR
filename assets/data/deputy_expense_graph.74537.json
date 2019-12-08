@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CLAUDIO CAJADO"
+			"name": "CLAUDIO CAJADO",
+			"desc": "45066.12"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 67.79829076933747,
-			"desc": 1593.33,
+			"desc": "1593.33",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "GOLDEN BEACH HOTEL LTDA",
 			"name": "GOLDEN BEACH HOTEL LTDA",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "GOLDEN BEACH HOTEL LTDA"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 505.1926904817908,
-			"desc": 9552.380000000001,
+			"desc": "9552.38",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "GREENS FOODS LTDA",
 			"name": "GREENS FOODS LTDA",
 			"val": 1.4583143437746409,
-			"desc": 61.379999999999995,
+			"desc": "61.38",
 			"group": "GREENS FOODS LTDA"
 		},
 		{
@@ -147,7 +148,7 @@
 			"id": "AUTO POSTO SAO JOAO LTDA",
 			"name": "AUTO POSTO SAO JOAO LTDA",
 			"val": 30.152614665008215,
-			"desc": 784.02,
+			"desc": "784.02",
 			"group": "AUTO POSTO SAO JOAO LTDA"
 		},
 		{
@@ -184,7 +185,7 @@
 			"id": "FAIZAH ALIMENTOS LTDA:05588775000143",
 			"name": "FAIZAH ALIMENTOS LTDA:05588775000143",
 			"val": 1.193410085025035,
-			"desc": 52.27,
+			"desc": "52.27",
 			"group": "FAIZAH ALIMENTOS LTDA:05588775000143"
 		},
 		{
@@ -197,7 +198,7 @@
 			"id": "DERIVADOS DE PETROLEO LITORAL SUL LTDA",
 			"name": "DERIVADOS DE PETROLEO LITORAL SUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DERIVADOS DE PETROLEO LITORAL SUL LTDA"
 		},
 		{
@@ -210,7 +211,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -223,7 +224,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 2.9469875248363313,
-			"desc": 108.88,
+			"desc": "108.88",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "GREEN'S ALIMENTOS EIRELI",
 			"name": "GREEN'S ALIMENTOS EIRELI",
 			"val": 1.1344427841799327,
-			"desc": 50.2,
+			"desc": "50.20",
 			"group": "GREEN'S ALIMENTOS EIRELI"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "LOCALIZA RENT A CAR S/A",
 			"name": "LOCALIZA RENT A CAR S/A",
 			"val": 725.7881476228457,
-			"desc": 13250.36,
+			"desc": "13250.36",
 			"group": "LOCALIZA RENT A CAR S/A"
 		},
 		{
@@ -298,7 +299,7 @@
 			"id": "FFBARROS ALIMENTACAO EIRELI",
 			"name": "FFBARROS ALIMENTACAO EIRELI",
 			"val": 0.5209745318267479,
-			"desc": 27.3,
+			"desc": "27.30",
 			"group": "FFBARROS ALIMENTACAO EIRELI"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.253220325834336,
-			"desc": 176.05,
+			"desc": "176.05",
 			"group": "RAMAL"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "AUTO EIXO 208 NORTE LTDA",
 			"name": "AUTO EIXO 208 NORTE LTDA",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "AUTO EIXO 208 NORTE LTDA"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 55.43233312270949,
-			"desc": 1334.77,
+			"desc": "1334.77",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -368,7 +369,7 @@
 			"id": "TEGA COMERCIO DE LIVROS E REVISTAS LTDA",
 			"name": "TEGA COMERCIO DE LIVROS E REVISTAS LTDA",
 			"val": 0.440156400069231,
-			"desc": 24,
+			"desc": "24.00",
 			"group": "TEGA COMERCIO DE LIVROS E REVISTAS LTDA"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "SERRA DO JEQUITIBA DISTRIBUIDORA DE PETROLEO LTDA",
 			"name": "SERRA DO JEQUITIBA DISTRIBUIDORA DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "SERRA DO JEQUITIBA DISTRIBUIDORA DE PETROLEO LTDA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 116.80486307972899,
-			"desc": 2577.0000000000005,
+			"desc": "2577.00",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.589314464011526,
-			"desc": 491.77,
+			"desc": "491.77",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 14.639526192743748,
-			"desc": 419.99,
+			"desc": "419.99",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -553,7 +554,7 @@
 			"id": "LEC COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "LEC COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "LEC COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "FTL DE LA ROCQUE",
 			"name": "FTL DE LA ROCQUE",
 			"val": 7.441215038597578,
-			"desc": 236,
+			"desc": "236.00",
 			"group": "FTL DE LA ROCQUE"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"name": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
 			"val": 481.01714648950633,
-			"desc": 9139.34,
+			"desc": "9139.34",
 			"group": "HIPER POSTO CAMINHO DAS ARVORES LTDA"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "REPROPEL REV PROD PET LTDA",
 			"name": "REPROPEL REV PROD PET LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "REPROPEL REV PROD PET LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 68.2971672696583,
-			"desc": 1603.65,
+			"desc": "1603.65",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "PIZZA DA CHAPADA COMERCIO DE ALIMENTOS E BEBIDAS LTDA - EPP",
 			"name": "PIZZA DA CHAPADA COMERCIO DE ALIMENTOS E BEBIDAS LTDA - EPP",
 			"val": 2.235521863957003,
-			"desc": 86.79,
+			"desc": "86.79",
 			"group": "PIZZA DA CHAPADA COMERCIO DE ALIMENTOS E BEBIDAS LTDA - EPP"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "POSTO QUATRO RODAS LTDA",
 			"name": "POSTO QUATRO RODAS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO QUATRO RODAS LTDA"
 		},
 		{
@@ -674,7 +675,7 @@
 			"id": "OFFICE 10 SERVICOS EIRELI",
 			"name": "OFFICE 10 SERVICOS EIRELI",
 			"val": 6.153991879125029,
-			"desc": 201.07,
+			"desc": "201.07",
 			"group": "OFFICE 10 SERVICOS EIRELI"
 		},
 		{
@@ -687,7 +688,7 @@
 			"id": "ALEGRIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "ALEGRIA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ALEGRIA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -700,7 +701,7 @@
 			"id": "ALPHA YK RESTAURANTE LTDA",
 			"name": "ALPHA YK RESTAURANTE LTDA",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "ALPHA YK RESTAURANTE LTDA"
 		},
 		{
@@ -713,7 +714,7 @@
 			"id": "ML ALIMENTACAO E DIVERSOES SA",
 			"name": "ML ALIMENTACAO E DIVERSOES SA",
 			"val": 11.65456292863235,
-			"desc": 345.52,
+			"desc": "345.52",
 			"group": "ML ALIMENTACAO E DIVERSOES SA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 8.067102740147273,
-			"desc": 252.69,
+			"desc": "252.69",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "CPD ENERGETICOS E DERIVADOS DE PETROLEO LTDA.",
 			"name": "CPD ENERGETICOS E DERIVADOS DE PETROLEO LTDA.",
 			"val": 5.594047379521778,
-			"desc": 185.58,
+			"desc": "185.58",
 			"group": "CPD ENERGETICOS E DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "AUTO POSTO ALMENARA LTDA",
 			"name": "AUTO POSTO ALMENARA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO ALMENARA LTDA"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "CHURRASCARIA E SELF SERVICE OPÇÃO",
 			"name": "CHURRASCARIA E SELF SERVICE OPÇÃO",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "CHURRASCARIA E SELF SERVICE OPÇÃO"
 		},
 		{
@@ -784,7 +785,7 @@
 			"id": "VIANA E BRANDAO PANIFICADORA LTDA",
 			"name": "VIANA E BRANDAO PANIFICADORA LTDA",
 			"val": 0.6361364149428028,
-			"desc": 31.85,
+			"desc": "31.85",
 			"group": "VIANA E BRANDAO PANIFICADORA LTDA"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "GR REVEND. DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "GR REVEND. DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 0.2344134357365111,
-			"desc": 15,
+			"desc": "15.00",
 			"group": "GR REVEND. DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "GK COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "GK COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "GK COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "LOCALIZA RENT A CAR SA",
 			"name": "LOCALIZA RENT A CAR SA",
 			"val": 21.433409270340643,
-			"desc": 583.2,
+			"desc": "583.20",
 			"group": "LOCALIZA RENT A CAR SA"
 		},
 		{
@@ -842,7 +843,7 @@
 			"id": "J A SOBRAL &amp; CIA LTDA",
 			"name": "J A SOBRAL &amp; CIA LTDA",
 			"val": 4.095790509310054,
-			"desc": 143.01,
+			"desc": "143.01",
 			"group": "J A SOBRAL &amp; CIA LTDA"
 		},
 		{
@@ -855,7 +856,7 @@
 			"id": "MARIA ANTONIA RESTAURANTE LTDA",
 			"name": "MARIA ANTONIA RESTAURANTE LTDA",
 			"val": 0.9608599648801642,
-			"desc": 44,
+			"desc": "44.00",
 			"group": "MARIA ANTONIA RESTAURANTE LTDA"
 		},
 		{
@@ -868,7 +869,7 @@
 			"id": "SENA DERIVADOS DE PETROLEO LTDA",
 			"name": "SENA DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SENA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -881,7 +882,7 @@
 			"id": "MJG RESTAURANTE LTDA:08697902000130",
 			"name": "MJG RESTAURANTE LTDA:08697902000130",
 			"val": 1.7313534813764597,
-			"desc": 70.5,
+			"desc": "70.50",
 			"group": "MJG RESTAURANTE LTDA:08697902000130"
 		},
 		{
@@ -894,7 +895,7 @@
 			"id": "NOVO FLECHA - POSTO DE DERIVADOS DE PETROLEO - EIRELI",
 			"name": "NOVO FLECHA - POSTO DE DERIVADOS DE PETROLEO - EIRELI",
 			"val": 6.4814313673114405,
-			"desc": 210.04,
+			"desc": "210.04",
 			"group": "NOVO FLECHA - POSTO DE DERIVADOS DE PETROLEO - EIRELI"
 		},
 		{
@@ -907,7 +908,7 @@
 			"id": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159",
 			"name": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159",
 			"val": 0.4042667786696707,
-			"desc": 22.5,
+			"desc": "22.50",
 			"group": "AL FILE COMERCIAL DE ALIMENTOS LTDA:12833392000159"
 		},
 		{
@@ -920,7 +921,7 @@
 			"id": "OSVALDO MACEDO FILHO EIRELI - EPP",
 			"name": "OSVALDO MACEDO FILHO EIRELI - EPP",
 			"val": 1.2655445113271249,
-			"desc": 54.78,
+			"desc": "54.78",
 			"group": "OSVALDO MACEDO FILHO EIRELI - EPP"
 		},
 		{
@@ -933,7 +934,7 @@
 			"id": "W4 HOTEL LTDA-ME",
 			"name": "W4 HOTEL LTDA-ME",
 			"val": 1.7161992447445908,
-			"desc": 70,
+			"desc": "70.00",
 			"group": "W4 HOTEL LTDA-ME"
 		},
 		{
@@ -946,7 +947,7 @@
 			"id": "JLM RESTAURANTE LTDA",
 			"name": "JLM RESTAURANTE LTDA",
 			"val": 0.8218322477153778,
-			"desc": 38.9,
+			"desc": "38.90",
 			"group": "JLM RESTAURANTE LTDA"
 		},
 		{

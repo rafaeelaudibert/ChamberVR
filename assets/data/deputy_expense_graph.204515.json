@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ANDRÉ JANONES"
+			"name": "ANDRÉ JANONES",
+			"desc": "23383.60"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UNIDAS LOCADORA DE VEÍCULOS",
 			"name": "UNIDAS LOCADORA DE VEÍCULOS",
 			"val": 54.84945030560034,
-			"desc": 1322.44,
+			"desc": "1322.44",
 			"group": "UNIDAS LOCADORA DE VEÍCULOS"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 423.07555862382907,
-			"desc": 8141.640000000002,
+			"desc": "8141.64",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 1.9425114103251824,
-			"desc": 77.4,
+			"desc": "77.40",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -218,7 +219,7 @@
 			"id": "POSTO ARAPONGA LTDA",
 			"name": "POSTO ARAPONGA LTDA",
 			"val": 12.422380853453983,
-			"desc": 364.88,
+			"desc": "364.88",
 			"group": "POSTO ARAPONGA LTDA"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 27.459472840918057,
-			"desc": 722.8100000000001,
+			"desc": "722.81",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -274,7 +275,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 6.779752032751439,
-			"desc": 218.16,
+			"desc": "218.16",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "AUTO POSTO REAL HOTEL E RESTAURANTE LTDA",
 			"name": "AUTO POSTO REAL HOTEL E RESTAURANTE LTDA",
 			"val": 24.981469437032583,
-			"desc": 665.88,
+			"desc": "665.88",
 			"group": "AUTO POSTO REAL HOTEL E RESTAURANTE LTDA"
 		},
 		{
@@ -306,7 +307,7 @@
 			"id": "060 COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "060 COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.323419872816164,
-			"desc": 149.6,
+			"desc": "149.60",
 			"group": "060 COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -319,7 +320,7 @@
 			"id": "MHB HOTELARIA LTDA",
 			"name": "MHB HOTELARIA LTDA",
 			"val": 3.270263710579506,
-			"desc": 118.65,
+			"desc": "118.65",
 			"group": "MHB HOTELARIA LTDA"
 		},
 		{
@@ -332,7 +333,7 @@
 			"id": "RESTAURANTE DC CONTAGEM LTDA",
 			"name": "RESTAURANTE DC CONTAGEM LTDA",
 			"val": 0.7968821756930821,
-			"desc": 37.97,
+			"desc": "37.97",
 			"group": "RESTAURANTE DC CONTAGEM LTDA"
 		},
 		{
@@ -345,7 +346,7 @@
 			"id": "ANTUNES CINTRA",
 			"name": "ANTUNES CINTRA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ANTUNES CINTRA"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "PAPELARIA INSTRUTIVA LTDA",
 			"name": "PAPELARIA INSTRUTIVA LTDA",
 			"val": 0.7656805043641726,
-			"desc": 36.8,
+			"desc": "36.80",
 			"group": "PAPELARIA INSTRUTIVA LTDA"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 63.3572541833143,
-			"desc": 1501.1,
+			"desc": "1501.10",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "POSTO 5.5. LIMITADA",
 			"name": "POSTO 5.5. LIMITADA",
 			"val": 14.576163837915738,
-			"desc": 418.43,
+			"desc": "418.43",
 			"group": "POSTO 5.5. LIMITADA"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "COMBUSTIVEIS VALADARES LTDA",
 			"name": "COMBUSTIVEIS VALADARES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMBUSTIVEIS VALADARES LTDA"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "Posto Auto da Cidade Ltda",
 			"name": "Posto Auto da Cidade Ltda",
 			"val": 2.887312166126645,
-			"desc": 107.06,
+			"desc": "107.06",
 			"group": "Posto Auto da Cidade Ltda"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S.A.",
 			"name": "HOTELARIA ACCOR BRASIL S.A.",
 			"val": 93.60927623408153,
-			"desc": 2118.13,
+			"desc": "2118.13",
 			"group": "HOTELARIA ACCOR BRASIL S.A."
 		},
 		{
@@ -466,7 +467,7 @@
 			"id": "AUTO POSTO DA SERRA LTDA.",
 			"name": "AUTO POSTO DA SERRA LTDA.",
 			"val": 3.652985708340274,
-			"desc": 130.04,
+			"desc": "130.04",
 			"group": "AUTO POSTO DA SERRA LTDA."
 		},
 		{
@@ -479,7 +480,7 @@
 			"id": "POSTO Z+Z HIDROLANDIA LTDA - EPP",
 			"name": "POSTO Z+Z HIDROLANDIA LTDA - EPP",
 			"val": 9.220520123226581,
-			"desc": 283.02,
+			"desc": "283.02",
 			"group": "POSTO Z+Z HIDROLANDIA LTDA - EPP"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 4.2946565486568185,
-			"desc": 148.77,
+			"desc": "148.77",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "DICAB LTDA",
 			"name": "DICAB LTDA",
 			"val": 1.9610454922850216,
-			"desc": 78,
+			"desc": "78.00",
 			"group": "DICAB LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "SINTAXI/DF",
 			"name": "SINTAXI/DF",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "SINTAXI/DF"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "SPLT COMERCIO DE ALIMENTOS LTDA",
 			"name": "SPLT COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.5209745318267479,
-			"desc": 27.3,
+			"desc": "27.30",
 			"group": "SPLT COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"name": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "CONC. DE RODOVIAS MINAS GERAIS GOIAS S/A"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "MARLIM EMPREENDIMENTOS LTDA",
 			"name": "MARLIM EMPREENDIMENTOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "MARLIM EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "AUTO POSTO LACADOR LTDA",
 			"name": "AUTO POSTO LACADOR LTDA",
 			"val": 5.891383822136211,
-			"desc": 193.83,
+			"desc": "193.83",
 			"group": "AUTO POSTO LACADOR LTDA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"name": "OMEGA LOCADORA DE VEÍCULOS LTDA ME",
 			"val": 56.29533242296101,
-			"desc": 1353,
+			"desc": "1353.00",
 			"group": "OMEGA LOCADORA DE VEÍCULOS LTDA ME"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "NOBILE GESTÃO DE EMPREENDIMENTOS LTDA",
 			"name": "NOBILE GESTÃO DE EMPREENDIMENTOS LTDA",
 			"val": 3.622866120246948,
-			"desc": 129.15,
+			"desc": "129.15",
 			"group": "NOBILE GESTÃO DE EMPREENDIMENTOS LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.999599859501528,
-			"desc": 140.20999999999998,
+			"desc": "140.21",
 			"group": "RAMAL"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "COMERCIAL GARDENIA LTDA",
 			"name": "COMERCIAL GARDENIA LTDA",
 			"val": 20.747978762483946,
-			"desc": 567.05,
+			"desc": "567.05",
 			"group": "COMERCIAL GARDENIA LTDA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "CHURRASCARIA RIO DAS PEDRAS LTDA",
 			"name": "CHURRASCARIA RIO DAS PEDRAS LTDA",
 			"val": 0.46438561897747244,
-			"desc": 25,
+			"desc": "25.00",
 			"group": "CHURRASCARIA RIO DAS PEDRAS LTDA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "AUTO POSTO SKINA DO PETROLEO LTDA",
 			"name": "AUTO POSTO SKINA DO PETROLEO LTDA",
 			"val": 5.469254852445974,
-			"desc": 182.1,
+			"desc": "182.10",
 			"group": "AUTO POSTO SKINA DO PETROLEO LTDA"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "POSTO Z+Z UBERLANDIA LTDA - EPP",
 			"name": "POSTO Z+Z UBERLANDIA LTDA - EPP",
 			"val": 6.026849210686871,
-			"desc": 197.57,
+			"desc": "197.57",
 			"group": "POSTO Z+Z UBERLANDIA LTDA - EPP"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "POSTO VITORIA JUNQUEIRA EIRELI - ME",
 			"name": "POSTO VITORIA JUNQUEIRA EIRELI - ME",
 			"val": 11.31665540647476,
-			"desc": 336.95,
+			"desc": "336.95",
 			"group": "POSTO VITORIA JUNQUEIRA EIRELI - ME"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "BERNAL HOTEL ECONOMICO LTDA",
 			"name": "BERNAL HOTEL ECONOMICO LTDA",
 			"val": 30.594392746126033,
-			"desc": 794,
+			"desc": "794.00",
 			"group": "BERNAL HOTEL ECONOMICO LTDA"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 8.820129125396036,
-			"desc": 272.55,
+			"desc": "272.55",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 40.698740887157115,
-			"desc": 1018.29,
+			"desc": "1018.29",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "POSTO 5.5 LIMITADA  AV. DEP.DANIEL DE FREITAS BARROS 2996 ITUIUTABA /MG",
 			"name": "POSTO 5.5 LIMITADA  AV. DEP.DANIEL DE FREITAS BARROS 2996 ITUIUTABA /MG",
 			"val": 6.227531771013587,
-			"desc": 203.09,
+			"desc": "203.09",
 			"group": "POSTO 5.5 LIMITADA  AV. DEP.DANIEL DE FREITAS BARROS 2996 ITUIUTABA /MG"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "MODERNO SELF SERVICE LTD A-ME",
 			"name": "MODERNO SELF SERVICE LTD A-ME",
 			"val": 0.9248064917260748,
-			"desc": 42.69,
+			"desc": "42.69",
 			"group": "MODERNO SELF SERVICE LTD A-ME"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "POSTO AEL MIRAGEM LTDA",
 			"name": "POSTO AEL MIRAGEM LTDA",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "POSTO AEL MIRAGEM LTDA"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "TB COMERCIO DE ALIMENTOS LTDA",
 			"name": "TB COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.7180996223722954,
-			"desc": 35,
+			"desc": "35.00",
 			"group": "TB COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "JULIMAR DA SILVA DE SOUSA 07017954688",
 			"name": "JULIMAR DA SILVA DE SOUSA 07017954688",
 			"val": 0.8786385287573658,
-			"desc": 41,
+			"desc": "41.00",
 			"group": "JULIMAR DA SILVA DE SOUSA 07017954688"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "COMERCIAL SOUZA FREIRE LTDA -ME",
 			"name": "COMERCIAL SOUZA FREIRE LTDA -ME",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "COMERCIAL SOUZA FREIRE LTDA -ME"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "POSTO VILA FERNAO DIAS LTDA",
 			"name": "POSTO VILA FERNAO DIAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO VILA FERNAO DIAS LTDA"
 		},
 		{
@@ -896,7 +897,7 @@
 			"id": "SABOR SUPREMO RESTAURANTE EIRELI - ME",
 			"name": "SABOR SUPREMO RESTAURANTE EIRELI - ME",
 			"val": 0.7686049568660013,
-			"desc": 36.91,
+			"desc": "36.91",
 			"group": "SABOR SUPREMO RESTAURANTE EIRELI - ME"
 		},
 		{
@@ -909,7 +910,7 @@
 			"id": "RANCHO DO PEIXE LTDA",
 			"name": "RANCHO DO PEIXE LTDA",
 			"val": 1.4123636009588625,
-			"desc": 59.82,
+			"desc": "59.82",
 			"group": "RANCHO DO PEIXE LTDA"
 		},
 		{
@@ -922,7 +923,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.872584683977952,
-			"desc": 106.61,
+			"desc": "106.61",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -935,7 +936,7 @@
 			"id": "PAIOL BAR E RESTAURANTE LTDA",
 			"name": "PAIOL BAR E RESTAURANTE LTDA",
 			"val": 2.3847461408119597,
-			"desc": 91.5,
+			"desc": "91.50",
 			"group": "PAIOL BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -948,7 +949,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 3.3293390263450227,
-			"desc": 120.42,
+			"desc": "120.42",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -961,7 +962,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.5891335273573257,
-			"desc": 65.78,
+			"desc": "65.78",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -974,7 +975,7 @@
 			"id": "POSTO BARRA SETE LTDA.",
 			"name": "POSTO BARRA SETE LTDA.",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO BARRA SETE LTDA."
 		},
 		{

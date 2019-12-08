@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MARCO BERTAIOLLI"
+			"name": "MARCO BERTAIOLLI",
+			"desc": "103992.88"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 2242.0342151221066,
-			"desc": 36941.30999999999,
+			"desc": "36941.31",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 31.820330649317977,
-			"desc": 821.61,
+			"desc": "821.61",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 140.1112837439576,
-			"desc": 3028.8900000000003,
+			"desc": "3028.89",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 22.83764587574308,
-			"desc": 616.0999999999999,
+			"desc": "616.10",
 			"group": "RAMAL"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "AUTO POSTO TOTALITY LTDA",
 			"name": "AUTO POSTO TOTALITY LTDA",
 			"val": 337.0866702003066,
-			"desc": 6637.44,
+			"desc": "6637.44",
 			"group": "AUTO POSTO TOTALITY LTDA"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 208.1417941197867,
-			"desc": 4309.91,
+			"desc": "4309.91",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -509,7 +510,7 @@
 			"id": "IMPERIO ARCADIANO AGENCIA DE PUBLICIDADE E MARKETING DIGITAL LTDA",
 			"name": "IMPERIO ARCADIANO AGENCIA DE PUBLICIDADE E MARKETING DIGITAL LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "IMPERIO ARCADIANO AGENCIA DE PUBLICIDADE E MARKETING DIGITAL LTDA"
 		},
 		{
@@ -522,7 +523,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 288.72096084624104,
-			"desc": 5776.3,
+			"desc": "5776.30",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
 			"name": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA",
 			"val": 8.983528243782278,
-			"desc": 276.83,
+			"desc": "276.83",
 			"group": "AUTO POSTO DA GRUTA DE SAO JOSE DOS CAMPOS LTDA"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "ANDREUCCI & CAMPOS TURISMO LTDA.",
 			"name": "ANDREUCCI & CAMPOS TURISMO LTDA.",
 			"val": 64.16862928992272,
-			"desc": 1518,
+			"desc": "1518.00",
 			"group": "ANDREUCCI & CAMPOS TURISMO LTDA."
 		},
 		{
@@ -615,7 +616,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 2.649457729552716,
-			"desc": 99.75,
+			"desc": "99.75",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 56.446965650365314,
-			"desc": 1356.2,
+			"desc": "1356.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "Imperio Arcadiano Ag de Pub e Market Dig",
 			"name": "Imperio Arcadiano Ag de Pub e Market Dig",
 			"val": 1915.6203884367471,
-			"desc": 32000,
+			"desc": "32000.00",
 			"group": "Imperio Arcadiano Ag de Pub e Market Dig"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 118.51990010008501,
-			"desc": 2610.54,
+			"desc": "2610.54",
 			"group": "SAO JOAO POSTOS"
 		},
 		{

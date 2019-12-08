@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ANDRÉ FERREIRA"
+			"name": "ANDRÉ FERREIRA",
+			"desc": "77716.94"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "WATER HOUSE COMERCIO DE ROUPAS E MATERIAIS NAUTIC",
 			"name": "WATER HOUSE COMERCIO DE ROUPAS E MATERIAIS NAUTIC",
 			"val": 1.5464252858340013,
-			"desc": 64.35,
+			"desc": "64.35",
 			"group": "WATER HOUSE COMERCIO DE ROUPAS E MATERIAIS NAUTIC"
 		},
 		{
@@ -49,7 +50,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 171.25356984751585,
-			"desc": 3621.3999999999996,
+			"desc": "3621.40",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -92,7 +93,7 @@
 			"id": "ANDRADE BARROS LOGÍSTICA E SERVIÇOS LTDA",
 			"name": "ANDRADE BARROS LOGÍSTICA E SERVIÇOS LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "ANDRADE BARROS LOGÍSTICA E SERVIÇOS LTDA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 13.256718980758642,
-			"desc": 385.75,
+			"desc": "385.75",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -154,7 +155,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1518.2728573206766,
-			"desc": 25891.119999999995,
+			"desc": "25891.12",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 6.795967602182003,
-			"desc": 218.6,
+			"desc": "218.60",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "NFD RESTAURANTES EIRELI",
 			"name": "NFD RESTAURANTES EIRELI",
 			"val": 15.095817616893799,
-			"desc": 431.2,
+			"desc": "431.20",
 			"group": "NFD RESTAURANTES EIRELI"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 5.590815212191431,
-			"desc": 185.49,
+			"desc": "185.49",
 			"group": "TIM S/A"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "RESTAURANTE MADERO BRASILIA LT",
 			"name": "RESTAURANTE MADERO BRASILIA LT",
 			"val": 5.843310269398343,
-			"desc": 192.5,
+			"desc": "192.50",
 			"group": "RESTAURANTE MADERO BRASILIA LT"
 		},
 		{
@@ -369,7 +370,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.310951643632308,
-			"desc": 177.67000000000002,
+			"desc": "177.67",
 			"group": "RAMAL"
 		},
 		{
@@ -413,7 +414,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.442229007971623,
-			"desc": 123.79,
+			"desc": "123.79",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "TIM",
 			"name": "TIM",
 			"val": 7.997404909815226,
-			"desc": 250.84,
+			"desc": "250.84",
 			"group": "TIM"
 		},
 		{
@@ -463,7 +464,7 @@
 			"id": "EV LOCADORA LTDA",
 			"name": "EV LOCADORA LTDA",
 			"val": 943.2308667635942,
-			"desc": 16800,
+			"desc": "16800.00",
 			"group": "EV LOCADORA LTDA"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"name": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
 			"val": 4.458229859385648,
-			"desc": 153.48000000000002,
+			"desc": "153.48",
 			"group": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 8.532839462417597,
-			"desc": 265,
+			"desc": "265.00",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "CD DE BAR",
 			"name": "CD DE BAR",
 			"val": 1.4161839460767416,
-			"desc": 59.95,
+			"desc": "59.95",
 			"group": "CD DE BAR"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "RESTAURANTE DAS MINAS LTDA",
 			"name": "RESTAURANTE DAS MINAS LTDA",
 			"val": 1.71286807342089,
-			"desc": 69.89,
+			"desc": "69.89",
 			"group": "RESTAURANTE DAS MINAS LTDA"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "VIRGINIA AUGUSTA PIMENTEL RODRIGUES",
 			"name": "VIRGINIA AUGUSTA PIMENTEL RODRIGUES",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "VIRGINIA AUGUSTA PIMENTEL RODRIGUES"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "ACTA ADMINISTRACAO ESPECIALIZADA LTDA",
 			"name": "ACTA ADMINISTRACAO ESPECIALIZADA LTDA",
 			"val": 61.16775953199095,
-			"desc": 1455.38,
+			"desc": "1455.38",
 			"group": "ACTA ADMINISTRACAO ESPECIALIZADA LTDA"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "PARIS6 BRASILIA BISTRO E RESTAUR",
 			"name": "PARIS6 BRASILIA BISTRO E RESTAUR",
 			"val": 11.497874963967982,
-			"desc": 341.54999999999995,
+			"desc": "341.55",
 			"group": "PARIS6 BRASILIA BISTRO E RESTAUR"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 23.084123700981763,
-			"desc": 621.85,
+			"desc": "621.85",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA",
 			"name": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA",
 			"val": 3.598863502432449,
-			"desc": 128.44,
+			"desc": "128.44",
 			"group": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"name": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "KOJIMA BRASILIA RESTAURANTE LTDA",
 			"name": "KOJIMA BRASILIA RESTAURANTE LTDA",
 			"val": 6.501581392962372,
-			"desc": 210.59,
+			"desc": "210.59",
 			"group": "KOJIMA BRASILIA RESTAURANTE LTDA"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "LUPA ALIMENTOS PUBLICIDADE E EVENTOS LTDA",
 			"name": "LUPA ALIMENTOS PUBLICIDADE E EVENTOS LTDA",
 			"val": 2.9279509022547217,
-			"desc": 108.3,
+			"desc": "108.30",
 			"group": "LUPA ALIMENTOS PUBLICIDADE E EVENTOS LTDA"
 		},
 		{
@@ -705,7 +706,7 @@
 			"id": "MAIA & TAVARES LTDA",
 			"name": "MAIA & TAVARES LTDA",
 			"val": 1.5945221832079777,
-			"desc": 65.96,
+			"desc": "65.96",
 			"group": "MAIA & TAVARES LTDA"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "MARCO MARCHETTI S A HOTEIS",
 			"name": "MARCO MARCHETTI S A HOTEIS",
 			"val": 24.727090645608957,
-			"desc": 660,
+			"desc": "660.00",
 			"group": "MARCO MARCHETTI S A HOTEIS"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.235315404184746,
-			"desc": 230.47,
+			"desc": "230.47",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -768,7 +769,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 50.98832753354246,
-			"desc": 1240.4,
+			"desc": "1240.40",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"name": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA",
 			"val": 3.0728077423424147,
-			"desc": 112.7,
+			"desc": "112.70",
 			"group": "COCO BAMBU LAGO SUL COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"name": "CHURRASCARIA FOGO DE CHAO LTDA",
 			"val": 5.706610829831042,
-			"desc": 188.71,
+			"desc": "188.71",
 			"group": "CHURRASCARIA FOGO DE CHAO LTDA"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC COM AR",
 			"name": "CORREIOS - ENCOMENDA PAC COM AR",
 			"val": 1.4114822142516574,
-			"desc": 59.79,
+			"desc": "59.79",
 			"group": "CORREIOS - ENCOMENDA PAC COM AR"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"name": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "GRUPO DE AMIGOS BAR E RESTAURANTE LTDA",
 			"name": "GRUPO DE AMIGOS BAR E RESTAURANTE LTDA",
 			"val": 4.426560707423898,
-			"desc": 152.57,
+			"desc": "152.57",
 			"group": "GRUPO DE AMIGOS BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "Telefonica Brasil S.A",
 			"name": "Telefonica Brasil S.A",
 			"val": 17.93115223072823,
-			"desc": 499.99,
+			"desc": "499.99",
 			"group": "Telefonica Brasil S.A"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 110.98241091730478,
-			"desc": 2462.76,
+			"desc": "2462.76",
 			"group": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "GOL LINHAS AEREAS S.A.",
 			"name": "GOL LINHAS AEREAS S.A.",
 			"val": 90.62877224142052,
-			"desc": 2058.38,
+			"desc": "2058.38",
 			"group": "GOL LINHAS AEREAS S.A."
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 11.384767465137157,
-			"desc": 338.68,
+			"desc": "338.68",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 55.65090651272959,
-			"desc": 1339.39,
+			"desc": "1339.39",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{

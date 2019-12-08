@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MÁRCIO MARINHO"
+			"name": "MÁRCIO MARINHO",
+			"desc": "96160.96"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 57.739497317962986,
-			"desc": 1383.4400000000003,
+			"desc": "1383.44",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 327.65848670951516,
-			"desc": 6470.52,
+			"desc": "6470.52",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -169,7 +170,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 219.42768350892686,
-			"desc": 4518.13,
+			"desc": "4518.13",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -200,7 +201,7 @@
 			"id": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"name": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "MOVIDA RENT A CAR FILIAL BRASÍLIA - DF"
 		},
 		{
@@ -213,7 +214,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 27.794036555086016,
-			"desc": 730.45,
+			"desc": "730.45",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 15.467462551568033,
-			"desc": 440.3,
+			"desc": "440.30",
 			"group": "CLARO S/A"
 		},
 		{
@@ -251,7 +252,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 15.310094384926447,
-			"desc": 436.45,
+			"desc": "436.45",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -302,7 +303,7 @@
 			"id": "D R ALUGUEL DE MAQUINAS E EQUIPAMENTOS EIRELI - ME",
 			"name": "D R ALUGUEL DE MAQUINAS E EQUIPAMENTOS EIRELI - ME",
 			"val": 86.73417494253842,
-			"desc": 1980,
+			"desc": "1980.00",
 			"group": "D R ALUGUEL DE MAQUINAS E EQUIPAMENTOS EIRELI - ME"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 13.891512780064842,
-			"desc": 401.52,
+			"desc": "401.52",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 51.536638181105175,
-			"desc": 1252.09,
+			"desc": "1252.09",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"name": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
 			"val": 534.8974410475477,
-			"desc": 10057.5,
+			"desc": "10057.50",
 			"group": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 171.79221194589155,
-			"desc": 3631.55,
+			"desc": "3631.55",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 6.715677095417652,
-			"desc": 216.42000000000002,
+			"desc": "216.42",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -494,7 +495,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 352.8919037357741,
-			"desc": 6916.31,
+			"desc": "6916.31",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 7.381564244939909,
-			"desc": 234.4,
+			"desc": "234.40",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "ATACADAO DO PAPEL EIRELI",
 			"name": "ATACADAO DO PAPEL EIRELI",
 			"val": 12.0174857666349,
-			"desc": 354.69,
+			"desc": "354.69",
 			"group": "ATACADAO DO PAPEL EIRELI"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "Movida Locação de Veículos LTDA",
 			"name": "Movida Locação de Veículos LTDA",
 			"val": 164.82394889407567,
-			"desc": 3500,
+			"desc": "3500.00",
 			"group": "Movida Locação de Veículos LTDA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.4304796415795975,
-			"desc": 123.44,
+			"desc": "123.44",
 			"group": "RAMAL"
 		},
 		{
@@ -613,7 +614,7 @@
 			"id": "POSTO ITAMARATY LTDA",
 			"name": "POSTO ITAMARATY LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ITAMARATY LTDA"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 20.607399397918474,
-			"desc": 563.73,
+			"desc": "563.73",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "POSTO SOBRADINHO LTDA",
 			"name": "POSTO SOBRADINHO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO SOBRADINHO LTDA"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"name": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
 			"val": 11.973877936630352,
-			"desc": 353.59000000000003,
+			"desc": "353.59",
 			"group": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA"
 		},
 		{
@@ -683,7 +684,7 @@
 			"id": "NET CLARO",
 			"name": "NET CLARO",
 			"val": 34.94802388604762,
-			"desc": 891.52,
+			"desc": "891.52",
 			"group": "NET CLARO"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.1720782000346155,
-			"desc": 12,
+			"desc": "12.00",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 3.9492285390063206,
-			"desc": 138.74,
+			"desc": "138.74",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "PETRACIOLI E SCHUBACH ADVOGADOS ASSOCIADOS",
 			"name": "PETRACIOLI E SCHUBACH ADVOGADOS ASSOCIADOS",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "PETRACIOLI E SCHUBACH ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "MEGA POSTO BERIMBAU LTDA.",
 			"name": "MEGA POSTO BERIMBAU LTDA.",
 			"val": 357.40851044673565,
-			"desc": 6995.79,
+			"desc": "6995.79",
 			"group": "MEGA POSTO BERIMBAU LTDA."
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "LOGIC WORLD INFORMATICA LTDA - ME",
 			"name": "LOGIC WORLD INFORMATICA LTDA - ME",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "LOGIC WORLD INFORMATICA LTDA - ME"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "MVT PATRIMONIAL LTDA",
 			"name": "MVT PATRIMONIAL LTDA",
 			"val": 593.1506572582107,
-			"desc": 11041.04,
+			"desc": "11041.04",
 			"group": "MVT PATRIMONIAL LTDA"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "MAIS ESTRUTURAS & CENOGRAFIAS LTDA-EPP",
 			"name": "MAIS ESTRUTURAS & CENOGRAFIAS LTDA-EPP",
 			"val": 99.21562571368439,
-			"desc": 2230,
+			"desc": "2230.00",
 			"group": "MAIS ESTRUTURAS & CENOGRAFIAS LTDA-EPP"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -824,7 +825,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 15.434746626342106,
-			"desc": 439.5,
+			"desc": "439.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -837,7 +838,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 14.527852293656498,
-			"desc": 417.24,
+			"desc": "417.24",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -850,7 +851,7 @@
 			"id": "KI FESTAO CONFEITARIA LTDA",
 			"name": "KI FESTAO CONFEITARIA LTDA",
 			"val": 2.3561215462055753,
-			"desc": 90.6,
+			"desc": "90.60",
 			"group": "KI FESTAO CONFEITARIA LTDA"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "D R ALUGUEL DE MAQUINAS E EQUIPAMENTOS EIRELI",
 			"name": "D R ALUGUEL DE MAQUINAS E EQUIPAMENTOS EIRELI",
 			"val": 39.40708747126921,
-			"desc": 990,
+			"desc": "990.00",
 			"group": "D R ALUGUEL DE MAQUINAS E EQUIPAMENTOS EIRELI"
 		},
 		{

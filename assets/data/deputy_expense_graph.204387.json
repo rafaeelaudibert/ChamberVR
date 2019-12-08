@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SARGENTO FAHUR"
+			"name": "SARGENTO FAHUR",
+			"desc": "18758.14"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Gnz Comercio De Alimentos Eireli - Epp",
 			"name": "Gnz Comercio De Alimentos Eireli - Epp",
 			"val": 2.19805011645432,
-			"desc": 85.6,
+			"desc": "85.60",
 			"group": "Gnz Comercio De Alimentos Eireli - Epp"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CASARAO DA VILA RESTAURANTE LTDA - ME",
 			"name": "CASARAO DA VILA RESTAURANTE LTDA - ME",
 			"val": 15.551744631351786,
-			"desc": 442.36,
+			"desc": "442.36",
 			"group": "CASARAO DA VILA RESTAURANTE LTDA - ME"
 		},
 		{
@@ -91,7 +92,7 @@
 			"id": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A.",
 			"val": 0.5135278502336545,
-			"desc": 27,
+			"desc": "27.00",
 			"group": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 98.01008347501836,
-			"desc": 2206,
+			"desc": "2206.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -159,7 +160,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 4.477037275088782,
-			"desc": 154.02,
+			"desc": "154.02",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -172,7 +173,7 @@
 			"id": "MARIETTA COMERCIO DE ALIMENTOS LTDA",
 			"name": "MARIETTA COMERCIO DE ALIMENTOS LTDA",
 			"val": 10.239072448808725,
-			"desc": 309.4,
+			"desc": "309.40",
 			"group": "MARIETTA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -221,7 +222,7 @@
 			"id": "AUTO POSTO MARINGA LTDA EPP",
 			"name": "AUTO POSTO MARINGA LTDA EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO MARINGA LTDA EPP"
 		},
 		{
@@ -234,7 +235,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.220823146378019,
-			"desc": 230.07999999999998,
+			"desc": "230.08",
 			"group": "RAMAL"
 		},
 		{
@@ -253,7 +254,7 @@
 			"id": "HOTEL PHENICIA LTDA",
 			"name": "HOTEL PHENICIA LTDA",
 			"val": 28.564747807949583,
-			"desc": 748.01,
+			"desc": "748.01",
 			"group": "HOTEL PHENICIA LTDA"
 		},
 		{
@@ -266,7 +267,7 @@
 			"id": "POSTO DO SALU LTDA",
 			"name": "POSTO DO SALU LTDA",
 			"val": 8.116880898085594,
-			"desc": 254.01,
+			"desc": "254.01",
 			"group": "POSTO DO SALU LTDA"
 		},
 		{
@@ -279,7 +280,7 @@
 			"id": "ELIMAR JOSE DE ARAUJO CHURRASQUINHO ME",
 			"name": "ELIMAR JOSE DE ARAUJO CHURRASQUINHO ME",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "ELIMAR JOSE DE ARAUJO CHURRASQUINHO ME"
 		},
 		{
@@ -292,7 +293,7 @@
 			"id": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DER DE PETROLEO LTDA",
 			"val": 10.265893112925829,
-			"desc": 310.09000000000003,
+			"desc": "310.09",
 			"group": "AUTO SHOPPING DER DE PETROLEO LTDA"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "HADCO COMERCIO DE ALIMENTOS LTDA.",
 			"name": "HADCO COMERCIO DE ALIMENTOS LTDA.",
 			"val": 2.3021940543579205,
-			"desc": 88.9,
+			"desc": "88.90",
 			"group": "HADCO COMERCIO DE ALIMENTOS LTDA."
 		},
 		{
@@ -336,7 +337,7 @@
 			"id": "BAR E WISKERIA BRASILIA LTDA",
 			"name": "BAR E WISKERIA BRASILIA LTDA",
 			"val": 1.2143191363673982,
-			"desc": 53,
+			"desc": "53.00",
 			"group": "BAR E WISKERIA BRASILIA LTDA"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "AUTO POSTO ORTIZ LTDA",
 			"name": "AUTO POSTO ORTIZ LTDA",
 			"val": 6.5125758113021,
-			"desc": 210.89,
+			"desc": "210.89",
 			"group": "AUTO POSTO ORTIZ LTDA"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "AUTO POSTO MARANHAO EIRELI",
 			"name": "AUTO POSTO MARANHAO EIRELI",
 			"val": 4.686384567456674,
-			"desc": 160.01,
+			"desc": "160.01",
 			"group": "AUTO POSTO MARANHAO EIRELI"
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"name": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME",
 			"val": 5.718856298367324,
-			"desc": 189.05,
+			"desc": "189.05",
 			"group": "ELBA ESPIRITO SANTO SARDINHA FERREIRA ME"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "ASS DOS SERVIDORES DA CAMARA DOS DEPUTADOS",
 			"name": "ASS DOS SERVIDORES DA CAMARA DOS DEPUTADOS",
 			"val": 0.4266924463173518,
-			"desc": 23.44,
+			"desc": "23.44",
 			"group": "ASS DOS SERVIDORES DA CAMARA DOS DEPUTADOS"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"name": "MARIETTA COM. DE ALIMENTOS LTDA",
 			"val": 1.637131462012492,
-			"desc": 67.38,
+			"desc": "67.38",
 			"group": "MARIETTA COM. DE ALIMENTOS LTDA"
 		},
 		{
@@ -438,7 +439,7 @@
 			"id": "TORRE PASTELARIA E LANCHONETE EIRELI - EPP",
 			"name": "TORRE PASTELARIA E LANCHONETE EIRELI - EPP",
 			"val": 1.4941134974899097,
-			"desc": 62.59,
+			"desc": "62.59",
 			"group": "TORRE PASTELARIA E LANCHONETE EIRELI - EPP"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "POSTO TOQUIO LTDA",
 			"name": "POSTO TOQUIO LTDA",
 			"val": 36.85103406180537,
-			"desc": 933.71,
+			"desc": "933.71",
 			"group": "POSTO TOQUIO LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "SP PÁTIO COMÉRCIO DE ALIMENTOS LTDA. EPP",
 			"name": "SP PÁTIO COMÉRCIO DE ALIMENTOS LTDA. EPP",
 			"val": 0.5635257954347984,
-			"desc": 29,
+			"desc": "29.00",
 			"group": "SP PÁTIO COMÉRCIO DE ALIMENTOS LTDA. EPP"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.5891335273573257,
-			"desc": 65.78,
+			"desc": "65.78",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "LANCHONETE E CHURRASCARIA BADY BASSITT LTDA",
 			"name": "LANCHONETE E CHURRASCARIA BADY BASSITT LTDA",
 			"val": 1.5104306237147431,
-			"desc": 63.14,
+			"desc": "63.14",
 			"group": "LANCHONETE E CHURRASCARIA BADY BASSITT LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "QUANTIX COMERCIO DE ALIMENTOS LTDA ME",
 			"name": "QUANTIX COMERCIO DE ALIMENTOS LTDA ME",
 			"val": 0.6220049621560662,
-			"desc": 31.3,
+			"desc": "31.30",
 			"group": "QUANTIX COMERCIO DE ALIMENTOS LTDA ME"
 		},
 		{
@@ -540,7 +541,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 184.46253634691877,
-			"desc": 3869.4400000000005,
+			"desc": "3869.44",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "BRASEIRO RESTAURANTE LTDA-ME",
 			"name": "BRASEIRO RESTAURANTE LTDA-ME",
 			"val": 1.7465281819393297,
-			"desc": 71,
+			"desc": "71.00",
 			"group": "BRASEIRO RESTAURANTE LTDA-ME"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "HILDA ANDRADE LIMA",
 			"name": "HILDA ANDRADE LIMA",
 			"val": 0.9187742699429263,
-			"desc": 42.47,
+			"desc": "42.47",
 			"group": "HILDA ANDRADE LIMA"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 73.20577530405102,
-			"desc": 1704.78,
+			"desc": "1704.78",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "E. D. COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "E. D. COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "E. D. COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -635,7 +636,7 @@
 			"id": "RESTAURANTE DAS MINAS LTDA",
 			"name": "RESTAURANTE DAS MINAS LTDA",
 			"val": 1.846571655546946,
-			"desc": 74.28,
+			"desc": "74.28",
 			"group": "RESTAURANTE DAS MINAS LTDA"
 		},
 		{
@@ -648,7 +649,7 @@
 			"id": "SILOE COMERCIO DE PRODUTOS ALIMENTICIOS",
 			"name": "SILOE COMERCIO DE PRODUTOS ALIMENTICIOS",
 			"val": 1.4235353329148595,
-			"desc": 60.2,
+			"desc": "60.20",
 			"group": "SILOE COMERCIO DE PRODUTOS ALIMENTICIOS"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 7.344314476965537,
-			"desc": 233.39999999999998,
+			"desc": "233.40",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "PUPIM COMBUSTIVEIS E LUBRIFICANTES LTDA.",
 			"name": "PUPIM COMBUSTIVEIS E LUBRIFICANTES LTDA.",
 			"val": 14.215724050630616,
-			"desc": 409.53999999999996,
+			"desc": "409.54",
 			"group": "PUPIM COMBUSTIVEIS E LUBRIFICANTES LTDA."
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "FUJICHIMA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "FUJICHIMA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.164347272208662,
-			"desc": 145,
+			"desc": "145.00",
 			"group": "FUJICHIMA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 31.136312380566093,
-			"desc": 806.22,
+			"desc": "806.22",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "AUTO POSTO GREVILHA LTDA",
 			"name": "AUTO POSTO GREVILHA LTDA",
 			"val": 6.225710072448153,
-			"desc": 203.04,
+			"desc": "203.04",
 			"group": "AUTO POSTO GREVILHA LTDA"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "GIPETO COMERCIO DE ALIMENTOS LTDA - ME",
 			"name": "GIPETO COMERCIO DE ALIMENTOS LTDA - ME",
 			"val": 1.4029666276672905,
-			"desc": 59.5,
+			"desc": "59.50",
 			"group": "GIPETO COMERCIO DE ALIMENTOS LTDA - ME"
 		},
 		{
@@ -781,7 +782,7 @@
 			"id": "AUTO POSTO PAPAGAIO EIRELI",
 			"name": "AUTO POSTO PAPAGAIO EIRELI",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "AUTO POSTO PAPAGAIO EIRELI"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "JM - BAR E RESTAURANTE LTDA ME",
 			"name": "JM - BAR E RESTAURANTE LTDA ME",
 			"val": 2.3370671146786828,
-			"desc": 90,
+			"desc": "90.00",
 			"group": "JM - BAR E RESTAURANTE LTDA ME"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "Concessionaria Transbrasiliana S/A",
 			"name": "Concessionaria Transbrasiliana S/A",
 			"val": 0.04947304176367758,
-			"desc": 5.2,
+			"desc": "5.20",
 			"group": "Concessionaria Transbrasiliana S/A"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "MKALVES ALIMENTACAO LTDA",
 			"name": "MKALVES ALIMENTACAO LTDA",
 			"val": 1.1486417271811205,
-			"desc": 50.7,
+			"desc": "50.70",
 			"group": "MKALVES ALIMENTACAO LTDA"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "TRANSBRASILIANA - CONCESSIONARIA DE RODOVIA S.A.",
 			"name": "TRANSBRASILIANA - CONCESSIONARIA DE RODOVIA S.A.",
 			"val": 0.04947304176367758,
-			"desc": 5.2,
+			"desc": "5.20",
 			"group": "TRANSBRASILIANA - CONCESSIONARIA DE RODOVIA S.A."
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "POSTO DUBAI LTDA",
 			"name": "POSTO DUBAI LTDA",
 			"val": 8.977030770029614,
-			"desc": 276.66,
+			"desc": "276.66",
 			"group": "POSTO DUBAI LTDA"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "BRASILIA PART.PLANEJ. ADM. DE SHOPPING CENTER LTDA",
 			"name": "BRASILIA PART.PLANEJ. ADM. DE SHOPPING CENTER LTDA",
 			"val": 0.05100703802512774,
-			"desc": 5.3,
+			"desc": "5.30",
 			"group": "BRASILIA PART.PLANEJ. ADM. DE SHOPPING CENTER LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"name": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.6374238246087698,
-			"desc": 31.9,
+			"desc": "31.90",
 			"group": "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "ROSSONI RESTAURANTE E BAR LTDA",
 			"name": "ROSSONI RESTAURANTE E BAR LTDA",
 			"val": 2.5382614915666886,
-			"desc": 96.3,
+			"desc": "96.30",
 			"group": "ROSSONI RESTAURANTE E BAR LTDA"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "JASIMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"name": "JASIMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "JASIMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA"
 		},
 		{
@@ -917,7 +918,7 @@
 			"id": "REDE DE POSTOS MARAJO GRANDE GOIANIA LTDA",
 			"name": "REDE DE POSTOS MARAJO GRANDE GOIANIA LTDA",
 			"val": 7.662463991349042,
-			"desc": 241.92,
+			"desc": "241.92",
 			"group": "REDE DE POSTOS MARAJO GRANDE GOIANIA LTDA"
 		},
 		{
@@ -930,7 +931,7 @@
 			"id": "JDF COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "JDF COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.811082164812157,
-			"desc": 219.01,
+			"desc": "219.01",
 			"group": "JDF COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -943,7 +944,7 @@
 			"id": "J.M BAR E RESTAURANTE LTDA",
 			"name": "J.M BAR E RESTAURANTE LTDA",
 			"val": 0.9059093270268318,
-			"desc": 42,
+			"desc": "42.00",
 			"group": "J.M BAR E RESTAURANTE LTDA"
 		},
 		{
@@ -956,7 +957,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -969,7 +970,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 0.41187607020099404,
-			"desc": 22.82,
+			"desc": "22.82",
 			"group": "CLARO S/A"
 		},
 		{
@@ -982,7 +983,7 @@
 			"id": "MJS RESTAURANTES EIRELI - EPP",
 			"name": "MJS RESTAURANTES EIRELI - EPP",
 			"val": 0.7577143855964825,
-			"desc": 36.5,
+			"desc": "36.50",
 			"group": "MJS RESTAURANTES EIRELI - EPP"
 		},
 		{
@@ -995,7 +996,7 @@
 			"id": "SAD COMERCIO DE ALIMENTOS LTDA",
 			"name": "SAD COMERCIO DE ALIMENTOS LTDA",
 			"val": 0.6143203424879725,
-			"desc": 31,
+			"desc": "31.00",
 			"group": "SAD COMERCIO DE ALIMENTOS LTDA"
 		},
 		{

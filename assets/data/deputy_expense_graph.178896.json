@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "NEWTON CARDOSO JR"
+			"name": "NEWTON CARDOSO JR",
+			"desc": "49270.25"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 53.75450755092878,
-			"desc": 1299.2399999999998,
+			"desc": "1299.24",
 			"group": "CLARO S.A"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 85.57044389481852,
-			"desc": 1956.51,
+			"desc": "1956.51",
 			"group": "COMPANHIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -121,7 +122,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 9.683323427902167,
-			"desc": 295.05,
+			"desc": "295.05",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -152,7 +153,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 385.57045530589994,
-			"desc": 7489.350000000001,
+			"desc": "7489.35",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -243,7 +244,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 441.1143128513552,
-			"desc": 8453.490000000002,
+			"desc": "8453.49",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "POSTO FERNANDA LTDA",
 			"name": "POSTO FERNANDA LTDA",
 			"val": 87.04060972083968,
-			"desc": 1986.18,
+			"desc": "1986.18",
 			"group": "POSTO FERNANDA LTDA"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 1.243055700467309,
-			"desc": 54,
+			"desc": "54.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -354,7 +355,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 7.8244447498021215,
-			"desc": 246.24,
+			"desc": "246.24",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -385,7 +386,7 @@
 			"id": "GAS BRAS LTDA",
 			"name": "GAS BRAS LTDA",
 			"val": 9.032852207640627,
-			"desc": 278.12,
+			"desc": "278.12",
 			"group": "GAS BRAS LTDA"
 		},
 		{
@@ -404,7 +405,7 @@
 			"id": "SARITUR",
 			"name": "SARITUR",
 			"val": 5.600153271600177,
-			"desc": 185.75,
+			"desc": "185.75",
 			"group": "SARITUR"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.2430032802617444,
-			"desc": 15.4,
+			"desc": "15.40",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -454,7 +455,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.9597557295697252,
-			"desc": 43.96,
+			"desc": "43.96",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -467,7 +468,7 @@
 			"id": "Auto Posto Hallas Ltda",
 			"name": "Auto Posto Hallas Ltda",
 			"val": 5.934079647218543,
-			"desc": 195.01,
+			"desc": "195.01",
 			"group": "Auto Posto Hallas Ltda"
 		},
 		{
@@ -480,7 +481,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 68.12067961455824,
-			"desc": 1600,
+			"desc": "1600.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -499,7 +500,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 10.874209398055383,
-			"desc": 325.67999999999995,
+			"desc": "325.68",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"name": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FARIA REVENDEDORA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -543,7 +544,7 @@
 			"id": "POSTO PARACATU LTDA",
 			"name": "POSTO PARACATU LTDA",
 			"val": 7.1046522095342715,
-			"desc": 226.95,
+			"desc": "226.95",
 			"group": "POSTO PARACATU LTDA"
 		},
 		{
@@ -556,7 +557,7 @@
 			"id": "PERFIL COMUNICACAO E PUBLICIDADE LTDA - ME",
 			"name": "PERFIL COMUNICACAO E PUBLICIDADE LTDA - ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "PERFIL COMUNICACAO E PUBLICIDADE LTDA - ME"
 		},
 		{
@@ -569,7 +570,7 @@
 			"id": "COMERCIO DE COMBUSTIVEIS ALEX LTDA",
 			"name": "COMERCIO DE COMBUSTIVEIS ALEX LTDA",
 			"val": 8.845682507216125,
-			"desc": 273.22,
+			"desc": "273.22",
 			"group": "COMERCIO DE COMBUSTIVEIS ALEX LTDA"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "Posto Ponte Nova Ltda",
 			"name": "Posto Ponte Nova Ltda",
 			"val": 13.630230928350548,
-			"desc": 395.03999999999996,
+			"desc": "395.04",
 			"group": "Posto Ponte Nova Ltda"
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "AUTO POSTO PORTAL DE MINAS LTDA",
 			"name": "AUTO POSTO PORTAL DE MINAS LTDA",
 			"val": 1.4769365652836008,
-			"desc": 62.01,
+			"desc": "62.01",
 			"group": "AUTO POSTO PORTAL DE MINAS LTDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 19.802121068869464,
-			"desc": 544.6600000000001,
+			"desc": "544.66",
 			"group": "RAMAL"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -658,7 +659,7 @@
 			"id": "POSTO DOM PEDRO I 124 SUL EIRELI",
 			"name": "POSTO DOM PEDRO I 124 SUL EIRELI",
 			"val": 5.674573269487068,
-			"desc": 187.82,
+			"desc": "187.82",
 			"group": "POSTO DOM PEDRO I 124 SUL EIRELI"
 		},
 		{
@@ -671,7 +672,7 @@
 			"id": "ORGANIZACOES NOVO BELVEDERE LTDA",
 			"name": "ORGANIZACOES NOVO BELVEDERE LTDA",
 			"val": 13.386840740684832,
-			"desc": 388.99,
+			"desc": "388.99",
 			"group": "ORGANIZACOES NOVO BELVEDERE LTDA"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "AUTO POSTO SANTOS RIOS S.R. LTDA",
 			"name": "AUTO POSTO SANTOS RIOS S.R. LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO SANTOS RIOS S.R. LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "posto mario werneck",
 			"name": "posto mario werneck",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "posto mario werneck"
 		},
 		{
@@ -722,7 +723,7 @@
 			"id": "São Gonçalo",
 			"name": "São Gonçalo",
 			"val": 0.7749921394197732,
-			"desc": 37.15,
+			"desc": "37.15",
 			"group": "São Gonçalo"
 		},
 		{
@@ -735,7 +736,7 @@
 			"id": "JABA  SERVIÇOS",
 			"name": "JABA  SERVIÇOS",
 			"val": 461.2357308561032,
-			"desc": 8800,
+			"desc": "8800.00",
 			"group": "JABA  SERVIÇOS"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "GRÁFICA E EDITORA MA EIRELI ME",
 			"name": "GRÁFICA E EDITORA MA EIRELI ME",
 			"val": 157.96582316941308,
-			"desc": 3370,
+			"desc": "3370.00",
 			"group": "GRÁFICA E EDITORA MA EIRELI ME"
 		},
 		{
@@ -773,7 +774,7 @@
 			"id": "POSTO TROPICO LTDA",
 			"name": "POSTO TROPICO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO TROPICO LTDA"
 		},
 		{
@@ -786,7 +787,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.0879707194818895,
-			"desc": 226.5,
+			"desc": "226.50",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -799,7 +800,7 @@
 			"id": "POSTO BEIRA RIO I LTDA",
 			"name": "POSTO BEIRA RIO I LTDA",
 			"val": 2.699965305722322,
-			"desc": 101.31,
+			"desc": "101.31",
 			"group": "POSTO BEIRA RIO I LTDA"
 		},
 		{
@@ -812,7 +813,7 @@
 			"id": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
 			"name": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA"
 		},
 		{
@@ -825,7 +826,7 @@
 			"id": "POSTO ESMERALDAS LTDA",
 			"name": "POSTO ESMERALDAS LTDA",
 			"val": 2.4360794686901097,
-			"desc": 93.11,
+			"desc": "93.11",
 			"group": "POSTO ESMERALDAS LTDA"
 		},
 		{
@@ -838,7 +839,7 @@
 			"id": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -851,7 +852,7 @@
 			"id": "POSTO R E M  LTDA",
 			"name": "POSTO R E M  LTDA",
 			"val": 7.225653475419849,
-			"desc": 230.21,
+			"desc": "230.21",
 			"group": "POSTO R E M  LTDA"
 		},
 		{
@@ -864,7 +865,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 38.40811077383467,
-			"desc": 968.05,
+			"desc": "968.05",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -877,7 +878,7 @@
 			"id": "SEMPRE EDITORA LTDA.",
 			"name": "SEMPRE EDITORA LTDA.",
 			"val": 369.0368983070507,
-			"desc": 7200,
+			"desc": "7200.00",
 			"group": "SEMPRE EDITORA LTDA."
 		},
 		{
@@ -890,7 +891,7 @@
 			"id": "Expresso Unir Ltda",
 			"name": "Expresso Unir Ltda",
 			"val": 0.5736227237940026,
-			"desc": 29.4,
+			"desc": "29.40",
 			"group": "Expresso Unir Ltda"
 		},
 		{

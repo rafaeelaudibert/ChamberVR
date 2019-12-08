@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "MAURO BENEVIDES FILHO"
+			"name": "MAURO BENEVIDES FILHO",
+			"desc": "85721.02"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1564.5436368292947,
-			"desc": 26608.599999999995,
+			"desc": "26608.60",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1378.4706783159193,
-			"desc": 23712.209999999995,
+			"desc": "23712.21",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -511,7 +512,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 58.978460099064606,
-			"desc": 1409.49,
+			"desc": "1409.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "Empresa Folha da Manhã S.A.",
 			"name": "Empresa Folha da Manhã S.A.",
 			"val": 20.365038768002748,
-			"desc": 558,
+			"desc": "558.00",
 			"group": "Empresa Folha da Manhã S.A."
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.3865458546251452,
-			"desc": 58.94,
+			"desc": "58.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -550,7 +551,7 @@
 			"id": "BALLISTA PUBLICIDADE LTDA",
 			"name": "BALLISTA PUBLICIDADE LTDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "BALLISTA PUBLICIDADE LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.996651848924083,
-			"desc": 250.82,
+			"desc": "250.82",
 			"group": "RAMAL"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 19.44610246702738,
-			"desc": 536.1999999999999,
+			"desc": "536.20",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 3.7663303111807,
-			"desc": 133.38,
+			"desc": "133.38",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 87.67564918288359,
-			"desc": 1998.98,
+			"desc": "1998.98",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 12.20442843017982,
-			"desc": 359.4,
+			"desc": "359.40",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{

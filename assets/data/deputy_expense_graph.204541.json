@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "EDUARDO BISMARCK"
+			"name": "EDUARDO BISMARCK",
+			"desc": "63259.81"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 558.8110698979366,
-			"desc": 10462.34,
+			"desc": "10462.34",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 480.3642485075396,
-			"desc": 9128.160000000002,
+			"desc": "9128.16",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -241,7 +242,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 35.329612288381334,
-			"desc": 900,
+			"desc": "900.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -254,7 +255,7 @@
 			"id": "SOBRAL & PALACIO PETROLEO LTDA",
 			"name": "SOBRAL & PALACIO PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "SOBRAL & PALACIO PETROLEO LTDA"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 31.237098146270533,
-			"desc": 808.49,
+			"desc": "808.49",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -280,7 +281,7 @@
 			"id": "GATE RETAIL BRASIL COM. VAREJISTA, IMP. E EXP. ALIMENTOS LTD",
 			"name": "GATE RETAIL BRASIL COM. VAREJISTA, IMP. E EXP. ALIMENTOS LTD",
 			"val": 0.7444692002076929,
-			"desc": 36,
+			"desc": "36.00",
 			"group": "GATE RETAIL BRASIL COM. VAREJISTA, IMP. E EXP. ALIMENTOS LTD"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"name": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME",
 			"val": 380.4579628399488,
-			"desc": 7400,
+			"desc": "7400.00",
 			"group": "GOLD CAR BRASILIA LOCACAO DE VEICULOS EIRELI ME"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"name": "DUDUSAN RESTAURANTE E FAST FOOD LTDA",
 			"val": 7.172914430708472,
-			"desc": 228.79,
+			"desc": "228.79",
 			"group": "DUDUSAN RESTAURANTE E FAST FOOD LTDA"
 		},
 		{
@@ -349,7 +350,7 @@
 			"id": "M S PETRÓLEO LTDA",
 			"name": "M S PETRÓLEO LTDA",
 			"val": 7.082040765818053,
-			"desc": 226.34,
+			"desc": "226.34",
 			"group": "M S PETRÓLEO LTDA"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 46.44748376177333,
-			"desc": 1143.05,
+			"desc": "1143.05",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -375,7 +376,7 @@
 			"id": "JC COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "JC COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 37.591951741160095,
-			"desc": 950.0699999999999,
+			"desc": "950.07",
 			"group": "JC COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "MARLIM COMBUSTIVEIS LTDA",
 			"name": "MARLIM COMBUSTIVEIS LTDA",
 			"val": 14.607028492561279,
-			"desc": 419.19,
+			"desc": "419.19",
 			"group": "MARLIM COMBUSTIVEIS LTDA"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "RIEDEL, AZEVEDO E ADVOGADOS ASSOCIADOS",
 			"name": "RIEDEL, AZEVEDO E ADVOGADOS ASSOCIADOS",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "RIEDEL, AZEVEDO E ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -444,7 +445,7 @@
 			"id": "PETRONORTE COMBUSTIVEIS LTDA",
 			"name": "PETRONORTE COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "PETRONORTE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -457,7 +458,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "F. P. PETROLEO LTDA",
 			"name": "F. P. PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "F. P. PETROLEO LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 11.196698461409534,
-			"desc": 333.9,
+			"desc": "333.90",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "GOL LINHAS AÉREAS S.A",
 			"name": "GOL LINHAS AÉREAS S.A",
 			"val": 26.63688726958931,
-			"desc": 703.98,
+			"desc": "703.98",
 			"group": "GOL LINHAS AÉREAS S.A"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.899584425540047,
-			"desc": 248.24,
+			"desc": "248.24",
 			"group": "RAMAL"
 		},
 		{
@@ -558,7 +559,7 @@
 			"id": "POSTO DUNORTE",
 			"name": "POSTO DUNORTE",
 			"val": 6.628165227855414,
-			"desc": 214.04,
+			"desc": "214.04",
 			"group": "POSTO DUNORTE"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "PONTES E LANDIM COMBUSTIVEIS LTDA - EPP",
 			"name": "PONTES E LANDIM COMBUSTIVEIS LTDA - EPP",
 			"val": 7.048326580854938,
-			"desc": 225.43,
+			"desc": "225.43",
 			"group": "PONTES E LANDIM COMBUSTIVEIS LTDA - EPP"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "Entersocial Servicos de Informaçao Digital Ltda.",
 			"name": "Entersocial Servicos de Informaçao Digital Ltda.",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "Entersocial Servicos de Informaçao Digital Ltda."
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 34.098334226242486,
-			"desc": 872.6,
+			"desc": "872.60",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "POSTO II PVEX LESTE",
 			"name": "POSTO II PVEX LESTE",
 			"val": 7.402434875499431,
-			"desc": 234.96,
+			"desc": "234.96",
 			"group": "POSTO II PVEX LESTE"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"name": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
 			"val": 102.13262196407305,
-			"desc": 2287.95,
+			"desc": "2287.95",
 			"group": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "COWORKING.ETC.BR SERVICOS ADMINISTRATIVOS LTDA",
 			"name": "COWORKING.ETC.BR SERVICOS ADMINISTRATIVOS LTDA",
 			"val": 92.70385834544928,
-			"desc": 2100,
+			"desc": "2100.00",
 			"group": "COWORKING.ETC.BR SERVICOS ADMINISTRATIVOS LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "TELEFÔNICA BRASIL S/A",
 			"name": "TELEFÔNICA BRASIL S/A",
 			"val": 9.104031224855818,
-			"desc": 279.98,
+			"desc": "279.98",
 			"group": "TELEFÔNICA BRASIL S/A"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
 			"val": 7.189622018276725,
-			"desc": 229.24,
+			"desc": "229.24",
 			"group": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CEARA MIDIA",
 			"name": "CEARA MIDIA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "CEARA MIDIA"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 1.1415386810993933,
-			"desc": 50.45,
+			"desc": "50.45",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "M. CHRISTINA COMERCIO DE PETROLEO - EIRELI",
 			"name": "M. CHRISTINA COMERCIO DE PETROLEO - EIRELI",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "M. CHRISTINA COMERCIO DE PETROLEO - EIRELI"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "coworking.etc.br",
 			"name": "coworking.etc.br",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "coworking.etc.br"
 		},
 		{
@@ -794,7 +795,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 47.95085224681778,
-			"desc": 1175.39,
+			"desc": "1175.39",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -807,7 +808,7 @@
 			"id": "JM LIMA - ME",
 			"name": "JM LIMA - ME",
 			"val": 3.5414847228580797,
-			"desc": 126.74,
+			"desc": "126.74",
 			"group": "JM LIMA - ME"
 		},
 		{
@@ -820,7 +821,7 @@
 			"id": "AUTO POSTO 314 NORTE",
 			"name": "AUTO POSTO 314 NORTE",
 			"val": 6.867155225144675,
-			"desc": 220.53,
+			"desc": "220.53",
 			"group": "AUTO POSTO 314 NORTE"
 		},
 		{
@@ -833,7 +834,7 @@
 			"id": "POSTO FIVE STARS",
 			"name": "POSTO FIVE STARS",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO FIVE STARS"
 		},
 		{
@@ -846,7 +847,7 @@
 			"id": "CORREIOS - TELEGRAMA",
 			"name": "CORREIOS - TELEGRAMA",
 			"val": 0.1690670383001165,
-			"desc": 11.85,
+			"desc": "11.85",
 			"group": "CORREIOS - TELEGRAMA"
 		},
 		{
@@ -859,7 +860,7 @@
 			"id": "UNIDAS S.A.",
 			"name": "UNIDAS S.A.",
 			"val": 77.13252392368977,
-			"desc": 1785.17,
+			"desc": "1785.17",
 			"group": "UNIDAS S.A."
 		},
 		{
@@ -872,7 +873,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 24.774655608476987,
-			"desc": 661.1,
+			"desc": "661.10",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -885,7 +886,7 @@
 			"id": "POSTO 109 SUL DERIV DE PET LTDA",
 			"name": "POSTO 109 SUL DERIV DE PET LTDA",
 			"val": 6.848334477528059,
-			"desc": 220.02,
+			"desc": "220.02",
 			"group": "POSTO 109 SUL DERIV DE PET LTDA"
 		},
 		{
@@ -898,7 +899,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 7.808677302500238,
-			"desc": 245.82,
+			"desc": "245.82",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -911,7 +912,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 7.217479320719688,
-			"desc": 229.99,
+			"desc": "229.99",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{

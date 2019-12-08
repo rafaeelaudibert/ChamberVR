@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CELINA LEÃO"
+			"name": "CELINA LEÃO",
+			"desc": "268124.00"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 156.14849288326437,
-			"desc": 3335.4599999999996,
+			"desc": "3335.46",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "SUPREMA LOCADORA",
 			"name": "SUPREMA LOCADORA",
 			"val": 2907.95690993331,
-			"desc": 46854.47,
+			"desc": "46854.47",
 			"group": "SUPREMA LOCADORA"
 		},
 		{
@@ -133,7 +134,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 127.60903040009958,
-			"desc": 2787.5,
+			"desc": "2787.50",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -158,7 +159,7 @@
 			"id": "PATRICIA DE OLIVEIRA PAIVA E SOUZA 55360467134",
 			"name": "PATRICIA DE OLIVEIRA PAIVA E SOUZA 55360467134",
 			"val": 240.2678942642427,
-			"desc": 4900,
+			"desc": "4900.00",
 			"group": "PATRICIA DE OLIVEIRA PAIVA E SOUZA 55360467134"
 		},
 		{
@@ -207,7 +208,7 @@
 			"id": "I9 SOLUCOES EM MARKETING E MIDIAS DIGITAIS LTDA",
 			"name": "I9 SOLUCOES EM MARKETING E MIDIAS DIGITAIS LTDA",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "I9 SOLUCOES EM MARKETING E MIDIAS DIGITAIS LTDA"
 		},
 		{
@@ -220,7 +221,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 109.80265540768401,
-			"desc": 2439.54,
+			"desc": "2439.54",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -287,7 +288,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 23.41037340545412,
-			"desc": 629.45,
+			"desc": "629.45",
 			"group": "RAMAL"
 		},
 		{
@@ -348,7 +349,7 @@
 			"id": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
 			"name": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 124.78671583225609,
-			"desc": 2732.69,
+			"desc": "2732.69",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "AUTO POSTO ORIGINAL DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL DERIVADOS DE PETROLEO LTDA",
 			"val": 11.960403145221857,
-			"desc": 353.25,
+			"desc": "353.25",
 			"group": "AUTO POSTO ORIGINAL DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "POSTO MK 406 NORTE LTDA",
 			"name": "POSTO MK 406 NORTE LTDA",
 			"val": 7.455764424604308,
-			"desc": 236.39,
+			"desc": "236.39",
 			"group": "POSTO MK 406 NORTE LTDA"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.285282710098502,
-			"desc": 176.95,
+			"desc": "176.95",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "RAMA AGENCIA DIGITAL LTDA",
 			"name": "RAMA AGENCIA DIGITAL LTDA",
 			"val": 6010.717015197118,
-			"desc": 91200,
+			"desc": "91200.00",
 			"group": "RAMA AGENCIA DIGITAL LTDA"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "CAMPOS REPRESENTACAO, ASSESSORIA, CONSULT E SERV LTDA - ME",
 			"name": "CAMPOS REPRESENTACAO, ASSESSORIA, CONSULT E SERV LTDA - ME",
 			"val": 2985.743382793583,
-			"desc": 48000,
+			"desc": "48000.00",
 			"group": "CAMPOS REPRESENTACAO, ASSESSORIA, CONSULT E SERV LTDA - ME"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 53.79033872116224,
-			"desc": 1300,
+			"desc": "1300.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 7.679316351374574,
-			"desc": 242.37,
+			"desc": "242.37",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
 			"val": 128.04882547205,
-			"desc": 2796.0299999999997,
+			"desc": "2796.03",
 			"group": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -592,7 +593,7 @@
 			"id": "DROP COMUNICACAO GRAFICA Eireli-ME",
 			"name": "DROP COMUNICACAO GRAFICA Eireli-ME",
 			"val": 1314.5492813753817,
-			"desc": 22710,
+			"desc": "22710.00",
 			"group": "DROP COMUNICACAO GRAFICA Eireli-ME"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 7.840591895314535,
-			"desc": 246.67,
+			"desc": "246.67",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE",
 			"val": 17.088810981927942,
-			"desc": 479.7,
+			"desc": "479.70",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 5.336994280071508,
-			"desc": 178.4,
+			"desc": "178.40",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "PRIME DERIVADOS DE PETROLEO LTDA",
 			"name": "PRIME DERIVADOS DE PETROLEO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "PRIME DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "POSTO PARK TAGUATINGA DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO PARK TAGUATINGA DERIVADOS DE PETROLEO LTDA",
 			"val": 47.43891898337182,
-			"desc": 1164.39,
+			"desc": "1164.39",
 			"group": "POSTO PARK TAGUATINGA DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 8.420164449687604,
-			"desc": 262.03,
+			"desc": "262.03",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "ELISIO FREITAS ADVOCACIA & CONSULTORIA",
 			"name": "ELISIO FREITAS ADVOCACIA & CONSULTORIA",
 			"val": 924.6717746653558,
-			"desc": 16500,
+			"desc": "16500.00",
 			"group": "ELISIO FREITAS ADVOCACIA & CONSULTORIA"
 		},
 		{
@@ -702,7 +703,7 @@
 			"id": "WIX.COM BRASIL SERVICOS DE INTERNET LTDA.",
 			"name": "WIX.COM BRASIL SERVICOS DE INTERNET LTDA.",
 			"val": 21.637629355055125,
-			"desc": 588,
+			"desc": "588.00",
 			"group": "WIX.COM BRASIL SERVICOS DE INTERNET LTDA."
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 17.916581107168046,
-			"desc": 499.64,
+			"desc": "499.64",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 7.592858915614182,
-			"desc": 240.06,
+			"desc": "240.06",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 62.20689536559407,
-			"desc": 1477.1,
+			"desc": "1477.10",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 67.10862160188094,
-			"desc": 1579.05,
+			"desc": "1579.05",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 8.976266400977282,
-			"desc": 276.64,
+			"desc": "276.64",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -798,7 +799,7 @@
 			"id": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.106432191480455,
-			"desc": 171.92,
+			"desc": "171.92",
 			"group": "JAJUR COM. DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -811,7 +812,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{

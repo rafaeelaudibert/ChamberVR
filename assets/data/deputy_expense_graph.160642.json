@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "PASTOR EURICO"
+			"name": "PASTOR EURICO",
+			"desc": "55728.01"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CHURRASCARIA BONANCA LTDA ME",
 			"name": "CHURRASCARIA BONANCA LTDA ME",
 			"val": 1.8717145971891236,
-			"desc": 75.1,
+			"desc": "75.10",
 			"group": "CHURRASCARIA BONANCA LTDA ME"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "RANCHO DO VALE COMBUSTIVEIS LTDA",
 			"name": "RANCHO DO VALE COMBUSTIVEIS LTDA",
 			"val": 40.61230522893886,
-			"desc": 1016.4,
+			"desc": "1016.40",
 			"group": "RANCHO DO VALE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "EDIMAR APARECIDO DA SILVA ME",
 			"name": "EDIMAR APARECIDO DA SILVA ME",
 			"val": 17.515810360445037,
-			"desc": 490,
+			"desc": "490.00",
 			"group": "EDIMAR APARECIDO DA SILVA ME"
 		},
 		{
@@ -86,7 +87,7 @@
 			"id": "AUTO POSTO FORMULA 1 LTDA",
 			"name": "AUTO POSTO FORMULA 1 LTDA",
 			"val": 7.8447232555700985,
-			"desc": 246.78,
+			"desc": "246.78",
 			"group": "AUTO POSTO FORMULA 1 LTDA"
 		},
 		{
@@ -99,7 +100,7 @@
 			"id": "COMERCIAL DE COMB. MORAIS LTDA",
 			"name": "COMERCIAL DE COMB. MORAIS LTDA",
 			"val": 3.9923984894891817,
-			"desc": 140,
+			"desc": "140.00",
 			"group": "COMERCIAL DE COMB. MORAIS LTDA"
 		},
 		{
@@ -112,7 +113,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 652.1266971284875,
-			"desc": 12028.19,
+			"desc": "12028.19",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -203,7 +204,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 322.2687131218155,
-			"desc": 6374.900000000001,
+			"desc": "6374.90",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.949899288090266,
-			"desc": 222.76999999999998,
+			"desc": "222.77",
 			"group": "RAMAL"
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "TIM",
 			"name": "TIM",
 			"val": 55.50943832343594,
-			"desc": 1336.4,
+			"desc": "1336.40",
 			"group": "TIM"
 		},
 		{
@@ -308,7 +309,7 @@
 			"id": "MARIA HELENA SOUZA CANDIDO",
 			"name": "MARIA HELENA SOUZA CANDIDO",
 			"val": 1.2143191363673982,
-			"desc": 53,
+			"desc": "53.00",
 			"group": "MARIA HELENA SOUZA CANDIDO"
 		},
 		{
@@ -321,7 +322,7 @@
 			"id": "POSTOS GALEGO BARROS LTDA",
 			"name": "POSTOS GALEGO BARROS LTDA",
 			"val": 5.394134229357365,
-			"desc": 180,
+			"desc": "180.00",
 			"group": "POSTOS GALEGO BARROS LTDA"
 		},
 		{
@@ -334,7 +335,7 @@
 			"id": "COSME COMBUSTIVEIS LTDA",
 			"name": "COSME COMBUSTIVEIS LTDA",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "COSME COMBUSTIVEIS LTDA"
 		},
 		{
@@ -347,7 +348,7 @@
 			"id": "L G HOTEIS E TURISMO LTDA",
 			"name": "L G HOTEIS E TURISMO LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "L G HOTEIS E TURISMO LTDA"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "SAN REMO POSTO SERVIÇOS LTDA",
 			"name": "SAN REMO POSTO SERVIÇOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "SAN REMO POSTO SERVIÇOS LTDA"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.506868157037129,
-			"desc": 63.02,
+			"desc": "63.02",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "LATAM AIRLINES GROUP S/A",
 			"name": "LATAM AIRLINES GROUP S/A",
 			"val": 36.64616897229855,
-			"desc": 929.18,
+			"desc": "929.18",
 			"group": "LATAM AIRLINES GROUP S/A"
 		},
 		{
@@ -411,7 +412,7 @@
 			"id": "JOSE ELIO DE ALMEIDA MERGULHAO EPP",
 			"name": "JOSE ELIO DE ALMEIDA MERGULHAO EPP",
 			"val": 6.297903461235544,
-			"desc": 205.02,
+			"desc": "205.02",
 			"group": "JOSE ELIO DE ALMEIDA MERGULHAO EPP"
 		},
 		{
@@ -424,7 +425,7 @@
 			"id": "2M COMERCIO DE COMBUSTIVEIS EIRELI",
 			"name": "2M COMERCIO DE COMBUSTIVEIS EIRELI",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "2M COMERCIO DE COMBUSTIVEIS EIRELI"
 		},
 		{
@@ -437,7 +438,7 @@
 			"id": "PIMENTEL E ROCHA LTDA",
 			"name": "PIMENTEL E ROCHA LTDA",
 			"val": 6.995760013450232,
-			"desc": 224.01,
+			"desc": "224.01",
 			"group": "PIMENTEL E ROCHA LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "POSTO CANAVIAL LTDA",
 			"name": "POSTO CANAVIAL LTDA",
 			"val": 21.724065576771704,
-			"desc": 590.03,
+			"desc": "590.03",
 			"group": "POSTO CANAVIAL LTDA"
 		},
 		{
@@ -475,7 +476,7 @@
 			"id": "AUTO POSTO TREVAO LTDA",
 			"name": "AUTO POSTO TREVAO LTDA",
 			"val": 4.478779255704861,
-			"desc": 154.07,
+			"desc": "154.07",
 			"group": "AUTO POSTO TREVAO LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "POSTO SOLAR LTDA",
 			"name": "POSTO SOLAR LTDA",
 			"val": 6.011253378979781,
-			"desc": 197.14,
+			"desc": "197.14",
 			"group": "POSTO SOLAR LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "CARLOS ALBERTO SILVA PINTO & CIA LTDA",
 			"name": "CARLOS ALBERTO SILVA PINTO & CIA LTDA",
 			"val": 7.96616062498925,
-			"desc": 250.01,
+			"desc": "250.01",
 			"group": "CARLOS ALBERTO SILVA PINTO & CIA LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 4.617388898190854,
-			"desc": 158.04,
+			"desc": "158.04",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA",
 			"name": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA",
 			"val": 2.6358835001523717,
-			"desc": 99.33,
+			"desc": "99.33",
 			"group": "GOLDEN GATE INDUSTRIA DE ALIMENTOS LTDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "P B COMERCIO DE COM E LUB LTDA",
 			"name": "P B COMERCIO DE COM E LUB LTDA",
 			"val": 7.039068150367868,
-			"desc": 225.18,
+			"desc": "225.18",
 			"group": "P B COMERCIO DE COM E LUB LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "AUTO POSTO RODAGEM",
 			"name": "AUTO POSTO RODAGEM",
 			"val": 6.115448415311677,
-			"desc": 200.01,
+			"desc": "200.01",
 			"group": "AUTO POSTO RODAGEM"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
 			"name": "LAGO PRODUTOS ALIMENTICIOS LTDA ME",
 			"val": 1.2863603223297235,
-			"desc": 55.5,
+			"desc": "55.50",
 			"group": "LAGO PRODUTOS ALIMENTICIOS LTDA ME"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 13.47166434471283,
-			"desc": 391.1,
+			"desc": "391.10",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "ANGELO EDELBERTO GONZAGA DE ARAUJO",
 			"name": "ANGELO EDELBERTO GONZAGA DE ARAUJO",
 			"val": 2.1917616786728367,
-			"desc": 85.4,
+			"desc": "85.40",
 			"group": "ANGELO EDELBERTO GONZAGA DE ARAUJO"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "C ALBUQUERQUE COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "C ALBUQUERQUE COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 6.117265776046968,
-			"desc": 200.06,
+			"desc": "200.06",
 			"group": "C ALBUQUERQUE COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "OFILOC LOCADORA LTDA",
 			"name": "OFILOC LOCADORA LTDA",
 			"val": 955.620804562045,
-			"desc": 17000,
+			"desc": "17000.00",
 			"group": "OFILOC LOCADORA LTDA"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "POSTOS PIATA LTDA",
 			"name": "POSTOS PIATA LTDA",
 			"val": 67.23799870667341,
-			"desc": 1581.73,
+			"desc": "1581.73",
 			"group": "POSTOS PIATA LTDA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA",
 			"name": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA",
 			"val": 6.701326523796305,
-			"desc": 216.03,
+			"desc": "216.03",
 			"group": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "SERRANA COMERCIO DE ALIMENTOS LTDA",
 			"name": "SERRANA COMERCIO DE ALIMENTOS LTDA",
 			"val": 1.807428771192965,
-			"desc": 73,
+			"desc": "73.00",
 			"group": "SERRANA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "PALHOCA ALIMENTOS LTDA ME",
 			"name": "PALHOCA ALIMENTOS LTDA ME",
 			"val": 1.177124703238422,
-			"desc": 51.7,
+			"desc": "51.70",
 			"group": "PALHOCA ALIMENTOS LTDA ME"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 8.10518700887239,
-			"desc": 253.7,
+			"desc": "253.70",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "TRAIRA SEM ESPINHA",
 			"name": "TRAIRA SEM ESPINHA",
 			"val": 2.8899315292233525,
-			"desc": 107.14,
+			"desc": "107.14",
 			"group": "TRAIRA SEM ESPINHA"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 13.830169903639561,
-			"desc": 400,
+			"desc": "400.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -777,7 +778,7 @@
 			"id": "POSTO A J LTDA - ME",
 			"name": "POSTO A J LTDA - ME",
 			"val": 6.481065080071938,
-			"desc": 210.03,
+			"desc": "210.03",
 			"group": "POSTO A J LTDA - ME"
 		},
 		{
@@ -790,7 +791,7 @@
 			"id": "Loiola Advocacia e Consultoria Juridica",
 			"name": "Loiola Advocacia e Consultoria Juridica",
 			"val": 273.35474987258647,
-			"desc": 5500,
+			"desc": "5500.00",
 			"group": "Loiola Advocacia e Consultoria Juridica"
 		},
 		{
@@ -803,7 +804,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.08720671786825555,
-			"desc": 7.5,
+			"desc": "7.50",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -816,7 +817,7 @@
 			"id": "FUTURO COMBUSTIVEIS E DERIVADOS",
 			"name": "FUTURO COMBUSTIVEIS E DERIVADOS",
 			"val": 5.753450765876089,
-			"desc": 190.01,
+			"desc": "190.01",
 			"group": "FUTURO COMBUSTIVEIS E DERIVADOS"
 		},
 		{
@@ -829,7 +830,7 @@
 			"id": "ARLINDO DA FONSECA LINS &amp; CIA LTDA",
 			"name": "ARLINDO DA FONSECA LINS &amp; CIA LTDA",
 			"val": 15.494868593865778,
-			"desc": 440.97,
+			"desc": "440.97",
 			"group": "ARLINDO DA FONSECA LINS &amp; CIA LTDA"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "POSTO JOCKEY COMERCIO VAREJISTA DE COMBUSTIVEIS LT",
 			"name": "POSTO JOCKEY COMERCIO VAREJISTA DE COMBUSTIVEIS LT",
 			"val": 4.533524923455348,
-			"desc": 155.64,
+			"desc": "155.64",
 			"group": "POSTO JOCKEY COMERCIO VAREJISTA DE COMBUSTIVEIS LT"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "AUTO POSTO RIBEIRO LTDA",
 			"name": "AUTO POSTO RIBEIRO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO RIBEIRO LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "POSTO DAS AGUAS LTDA",
 			"name": "POSTO DAS AGUAS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "POSTO DAS AGUAS LTDA"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "ARRUDA COMERCIO DE DERIVADOS DE PETROLEO LTDA.",
 			"name": "ARRUDA COMERCIO DE DERIVADOS DE PETROLEO LTDA.",
 			"val": 7.830452484187911,
-			"desc": 246.4,
+			"desc": "246.40",
 			"group": "ARRUDA COMERCIO DE DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "QA2 PIER NORTE RESTAURANTE E LANCHONETE LTDA",
 			"name": "QA2 PIER NORTE RESTAURANTE E LANCHONETE LTDA",
 			"val": 0.6143203424879725,
-			"desc": 31,
+			"desc": "31.00",
 			"group": "QA2 PIER NORTE RESTAURANTE E LANCHONETE LTDA"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "EDNALDO &amp; CICERA RESTAURANTES LTDA-ME",
 			"name": "EDNALDO &amp; CICERA RESTAURANTES LTDA-ME",
 			"val": 2.4965451311657603,
-			"desc": 95,
+			"desc": "95.00",
 			"group": "EDNALDO &amp; CICERA RESTAURANTES LTDA-ME"
 		},
 		{
@@ -945,7 +946,7 @@
 			"id": "VIC POSTO EIRELI - ME",
 			"name": "VIC POSTO EIRELI - ME",
 			"val": 5.251795946226434,
-			"desc": 176.01,
+			"desc": "176.01",
 			"group": "VIC POSTO EIRELI - ME"
 		},
 		{
@@ -958,7 +959,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 25.062864774960545,
-			"desc": 667.76,
+			"desc": "667.76",
 			"group": "Claro S.A"
 		},
 		{
@@ -971,7 +972,7 @@
 			"id": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"name": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"val": 6.1831026481244065,
-			"desc": 201.87,
+			"desc": "201.87",
 			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
 		},
 		{
@@ -984,7 +985,7 @@
 			"id": "KRANFO RV",
 			"name": "KRANFO RV",
 			"val": 1.7909540831326745,
-			"desc": 72.46,
+			"desc": "72.46",
 			"group": "KRANFO RV"
 		},
 		{
@@ -997,7 +998,7 @@
 			"id": "MAR CAPITAL COMERCIO DE PESCADO LTDA",
 			"name": "MAR CAPITAL COMERCIO DE PESCADO LTDA",
 			"val": 1.2085848243682944,
-			"desc": 52.8,
+			"desc": "52.80",
 			"group": "MAR CAPITAL COMERCIO DE PESCADO LTDA"
 		},
 		{
@@ -1010,7 +1011,7 @@
 			"id": "POSTO DE COMBUSTIVEL RANIA LTDA",
 			"name": "POSTO DE COMBUSTIVEL RANIA LTDA",
 			"val": 4.598501051583986,
-			"desc": 157.5,
+			"desc": "157.50",
 			"group": "POSTO DE COMBUSTIVEL RANIA LTDA"
 		},
 		{
@@ -1023,7 +1024,7 @@
 			"id": "AUTO POSTO FILADELFIA LTDA - EPP",
 			"name": "AUTO POSTO FILADELFIA LTDA - EPP",
 			"val": 8.49829563065917,
-			"desc": 264.09,
+			"desc": "264.09",
 			"group": "AUTO POSTO FILADELFIA LTDA - EPP"
 		},
 		{

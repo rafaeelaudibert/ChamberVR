@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SEVERINO PESSOA"
+			"name": "SEVERINO PESSOA",
+			"desc": "62975.67"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "COMERCIAL DE COMB. E LUBRIFICANTES VITAL LTDA",
 			"name": "COMERCIAL DE COMB. E LUBRIFICANTES VITAL LTDA",
 			"val": 534.4376117166703,
-			"desc": 10049.7,
+			"desc": "10049.70",
 			"group": "COMERCIAL DE COMB. E LUBRIFICANTES VITAL LTDA"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "POSTO ARAPIRACA LTDA",
 			"name": "POSTO ARAPIRACA LTDA",
 			"val": 28.315627807039483,
-			"desc": 742.3399999999999,
+			"desc": "742.34",
 			"group": "POSTO ARAPIRACA LTDA"
 		},
 		{
@@ -361,7 +362,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 522.1178750935078,
-			"desc": 9840.5,
+			"desc": "9840.50",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -458,7 +459,7 @@
 			"id": "BARROS MELO COMUNICACAO LTDA",
 			"name": "BARROS MELO COMUNICACAO LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "BARROS MELO COMUNICACAO LTDA"
 		},
 		{
@@ -477,7 +478,7 @@
 			"id": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"name": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"val": 3.4029750090114574,
-			"desc": 122.62,
+			"desc": "122.62",
 			"group": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -490,7 +491,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 6.220609694531921,
-			"desc": 202.9,
+			"desc": "202.90",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{
@@ -503,7 +504,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 121.5351312274436,
-			"desc": 2669.3900000000003,
+			"desc": "2669.39",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "MAIA, MOURA E SANTOS ADVOGADOS ASSOCIADOS MR",
 			"name": "MAIA, MOURA E SANTOS ADVOGADOS ASSOCIADOS MR",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "MAIA, MOURA E SANTOS ADVOGADOS ASSOCIADOS MR"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "cOMERCIAL DE COMB. E LUBRIFICANTES VITAL LTDA",
 			"name": "cOMERCIAL DE COMB. E LUBRIFICANTES VITAL LTDA",
 			"val": 4.267996392452338,
-			"desc": 148,
+			"desc": "148.00",
 			"group": "cOMERCIAL DE COMB. E LUBRIFICANTES VITAL LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 16.479148759823648,
-			"desc": 464.94,
+			"desc": "464.94",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "JA COMUNICAÇÃO LTDA",
 			"name": "JA COMUNICAÇÃO LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "JA COMUNICAÇÃO LTDA"
 		},
 		{
@@ -610,7 +611,7 @@
 			"id": "Auto Posto e Motel Modelo Ltda",
 			"name": "Auto Posto e Motel Modelo Ltda",
 			"val": 7.5364127033717025,
-			"desc": 238.55,
+			"desc": "238.55",
 			"group": "Auto Posto e Motel Modelo Ltda"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "AUTO POSTO 306 NORTE LTDA",
 			"name": "AUTO POSTO 306 NORTE LTDA",
 			"val": 1.763547963487021,
-			"desc": 71.56,
+			"desc": "71.56",
 			"group": "AUTO POSTO 306 NORTE LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 96.95145508091433,
-			"desc": 2184.9,
+			"desc": "2184.90",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "S L C PESSOA E CIA LTDA",
 			"name": "S L C PESSOA E CIA LTDA",
 			"val": 2.7246219118117496,
-			"desc": 102.07,
+			"desc": "102.07",
 			"group": "S L C PESSOA E CIA LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.4867058272627567,
-			"desc": 62.34,
+			"desc": "62.34",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 20.994686365706432,
-			"desc": 572.87,
+			"desc": "572.87",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "TIM S/A",
 			"name": "TIM S/A",
 			"val": 11.09770772621415,
-			"desc": 331.38,
+			"desc": "331.38",
 			"group": "TIM S/A"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "MAIA, MOURA E SANTOS ADVOGADOS ASSOCIADOS",
 			"name": "MAIA, MOURA E SANTOS ADVOGADOS ASSOCIADOS",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "MAIA, MOURA E SANTOS ADVOGADOS ASSOCIADOS"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.7650688195713595,
-			"desc": 71.61,
+			"desc": "71.61",
 			"group": "RAMAL"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "7 SEGUNDOS MACEIO",
 			"name": "7 SEGUNDOS MACEIO",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "7 SEGUNDOS MACEIO"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "POSTO CIDADE- FILIAL",
 			"name": "POSTO CIDADE- FILIAL",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO CIDADE- FILIAL"
 		},
 		{

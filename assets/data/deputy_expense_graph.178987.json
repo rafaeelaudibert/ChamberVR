@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ORLANDO SILVA"
+			"name": "ORLANDO SILVA",
+			"desc": "115904.03"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "WORKS INFORMÁTICA COMERCIAL LTDA.",
 			"name": "WORKS INFORMÁTICA COMERCIAL LTDA.",
 			"val": 75.6563323126473,
-			"desc": 1755,
+			"desc": "1755.00",
 			"group": "WORKS INFORMÁTICA COMERCIAL LTDA."
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.3576979821037956,
-			"desc": 178.98000000000002,
+			"desc": "178.98",
 			"group": "RAMAL"
 		},
 		{
@@ -73,7 +74,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 357.87365173139625,
-			"desc": 7003.970000000001,
+			"desc": "7003.97",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -134,7 +135,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 2104.5683412700373,
-			"desc": 34867.83999999999,
+			"desc": "34867.84",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -387,7 +388,7 @@
 			"id": "BAYEUX & LOURENÇO ASSOCIADOS LTDA.",
 			"name": "BAYEUX & LOURENÇO ASSOCIADOS LTDA.",
 			"val": 952.4922968566195,
-			"desc": 16949.52,
+			"desc": "16949.52",
 			"group": "BAYEUX & LOURENÇO ASSOCIADOS LTDA."
 		},
 		{
@@ -418,7 +419,7 @@
 			"id": "CENTER PAPEIS COMERCIAL LTDA",
 			"name": "CENTER PAPEIS COMERCIAL LTDA",
 			"val": 37.8631833936335,
-			"desc": 956.05,
+			"desc": "956.05",
 			"group": "CENTER PAPEIS COMERCIAL LTDA"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 24.70763530004112,
-			"desc": 659.55,
+			"desc": "659.55",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 5.465674498064651,
-			"desc": 182,
+			"desc": "182.00",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -493,7 +494,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 15.536602501752848,
-			"desc": 441.99,
+			"desc": "441.99",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -518,7 +519,7 @@
 			"id": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"name": "EMP. BRAS. DE CORREIOS E TELEGRAFOS",
 			"val": 2.689917439031725,
-			"desc": 101,
+			"desc": "101.00",
 			"group": "EMP. BRAS. DE CORREIOS E TELEGRAFOS"
 		},
 		{
@@ -537,7 +538,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 160.77843544787422,
-			"desc": 3423.38,
+			"desc": "3423.38",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 6.407863034148733,
-			"desc": 208.03,
+			"desc": "208.03",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -605,7 +606,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 23.101710394073734,
-			"desc": 622.26,
+			"desc": "622.26",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -618,7 +619,7 @@
 			"id": "STILLUS TRANSPORTES",
 			"name": "STILLUS TRANSPORTES",
 			"val": 1007.805005709475,
-			"desc": 17840,
+			"desc": "17840.00",
 			"group": "STILLUS TRANSPORTES"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 22.148737997121763,
-			"desc": 599.99,
+			"desc": "599.99",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 2.8199831174197714,
-			"desc": 105,
+			"desc": "105.00",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "AUTO POSTO MONTANA LTDA",
 			"name": "AUTO POSTO MONTANA LTDA",
 			"val": 435.7329399847828,
-			"desc": 8360.58,
+			"desc": "8360.58",
 			"group": "AUTO POSTO MONTANA LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 10.050026640752934,
-			"desc": 304.53,
+			"desc": "304.53",
 			"group": "SABESP"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "HS DE JESUS TRANSAPORTES",
 			"name": "HS DE JESUS TRANSAPORTES",
 			"val": 519.7357885284854,
-			"desc": 9800,
+			"desc": "9800.00",
 			"group": "HS DE JESUS TRANSAPORTES"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "ATIVAONLINE SERVIÇOS LTDA",
 			"name": "ATIVAONLINE SERVIÇOS LTDA",
 			"val": 602.6142578100882,
-			"desc": 11200,
+			"desc": "11200.00",
 			"group": "ATIVAONLINE SERVIÇOS LTDA"
 		},
 		{
@@ -745,7 +746,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -758,7 +759,7 @@
 			"id": "ENEL - ELETROPAULO",
 			"name": "ENEL - ELETROPAULO",
 			"val": 7.84021633114443,
-			"desc": 246.66,
+			"desc": "246.66",
 			"group": "ENEL - ELETROPAULO"
 		},
 		{
@@ -771,7 +772,7 @@
 			"id": "ECT EMPRESA CORREIOS E TELEGRAFOS",
 			"name": "ECT EMPRESA CORREIOS E TELEGRAFOS",
 			"val": 0.6245701973429355,
-			"desc": 31.4,
+			"desc": "31.40",
 			"group": "ECT EMPRESA CORREIOS E TELEGRAFOS"
 		},
 		{

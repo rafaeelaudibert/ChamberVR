@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RUI FALCÃO"
+			"name": "RUI FALCÃO",
+			"desc": "66687.37"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1448.12616638614,
-			"desc": 24799.98999999999,
+			"desc": "24799.99",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -180,7 +181,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.905845002708387,
-			"desc": 166.25,
+			"desc": "166.25",
 			"group": "RAMAL"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "MIX RENT A CAR",
 			"name": "MIX RENT A CAR",
 			"val": 133.42131134486664,
-			"desc": 2900,
+			"desc": "2900.00",
 			"group": "MIX RENT A CAR"
 		},
 		{
@@ -212,7 +213,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 9.29572484731717,
-			"desc": 284.98,
+			"desc": "284.98",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "AUTO POSTO MINGO LTDA",
 			"name": "AUTO POSTO MINGO LTDA",
 			"val": 3.316309457807091,
-			"desc": 120.03,
+			"desc": "120.03",
 			"group": "AUTO POSTO MINGO LTDA"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "PLENA INFORMATICA LTDA EPP",
 			"name": "PLENA INFORMATICA LTDA EPP",
 			"val": 56.975652429090175,
-			"desc": 1367.35,
+			"desc": "1367.35",
 			"group": "PLENA INFORMATICA LTDA EPP"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 152.02695627978056,
-			"desc": 3256.98,
+			"desc": "3256.98",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "AUTO POSTO MADALENA LT",
 			"name": "AUTO POSTO MADALENA LT",
 			"val": 10.858938336219365,
-			"desc": 325.29,
+			"desc": "325.29",
 			"group": "AUTO POSTO MADALENA LT"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 14.250948913034971,
-			"desc": 410.40999999999997,
+			"desc": "410.41",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "Editora Globo S.A. PARQUE GRÁFICO",
 			"name": "Editora Globo S.A. PARQUE GRÁFICO",
 			"val": 41.27137131105201,
-			"desc": 1030.8,
+			"desc": "1030.80",
 			"group": "Editora Globo S.A. PARQUE GRÁFICO"
 		},
 		{
@@ -357,7 +358,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 72.97296941097044,
-			"desc": 1700,
+			"desc": "1700.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 15.10478946010875,
-			"desc": 431.41999999999996,
+			"desc": "431.42",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "AUTO POSTO NOBRE LT",
 			"name": "AUTO POSTO NOBRE LT",
 			"val": 4.716899393920989,
-			"desc": 160.88,
+			"desc": "160.88",
 			"group": "AUTO POSTO NOBRE LT"
 		},
 		{
@@ -534,7 +535,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 14.187389949190438,
-			"desc": 408.84000000000003,
+			"desc": "408.84",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "AUTO POSTO CHEGADA LTDA",
 			"name": "AUTO POSTO CHEGADA LTDA",
 			"val": 6.430543850719837,
-			"desc": 208.65,
+			"desc": "208.65",
 			"group": "AUTO POSTO CHEGADA LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "ART IMPRESSA GRÁFICA E EDITORA LTDA ME",
 			"name": "ART IMPRESSA GRÁFICA E EDITORA LTDA ME",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "ART IMPRESSA GRÁFICA E EDITORA LTDA ME"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "PASQUALE CANTINA EIRELI",
 			"name": "PASQUALE CANTINA EIRELI",
 			"val": 1.7283209922879816,
-			"desc": 70.4,
+			"desc": "70.40",
 			"group": "PASQUALE CANTINA EIRELI"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "POSTO DE ENERGIA AUTOMOTIVA LTDA",
 			"name": "POSTO DE ENERGIA AUTOMOTIVA LTDA",
 			"val": 3.198046202821537,
-			"desc": 116.48,
+			"desc": "116.48",
 			"group": "POSTO DE ENERGIA AUTOMOTIVA LTDA"
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "CANTINA DA MASSA EIRELI",
 			"name": "CANTINA DA MASSA EIRELI",
 			"val": 2.6394376666746417,
-			"desc": 99.44,
+			"desc": "99.44",
 			"group": "CANTINA DA MASSA EIRELI"
 		},
 		{
@@ -624,7 +625,7 @@
 			"id": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "Posto de Combustiveis Garantia Ltda",
 			"name": "Posto de Combustiveis Garantia Ltda",
 			"val": 5.375554707909051,
-			"desc": 179.48,
+			"desc": "179.48",
 			"group": "Posto de Combustiveis Garantia Ltda"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "ALFAJOR PUBLICAÇÕES",
 			"name": "ALFAJOR PUBLICAÇÕES",
 			"val": 94.10256409098612,
-			"desc": 2128,
+			"desc": "2128.00",
 			"group": "ALFAJOR PUBLICAÇÕES"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "ALVES D ABREU E SALGADO COMBUSTIVEIS COMERCIO E E",
 			"name": "ALVES D ABREU E SALGADO COMBUSTIVEIS COMERCIO E E",
 			"val": 4.338678687269308,
-			"desc": 150.04,
+			"desc": "150.04",
 			"group": "ALVES D ABREU E SALGADO COMBUSTIVEIS COMERCIO E E"
 		},
 		{
@@ -676,7 +677,7 @@
 			"id": "POSTO JARDIM DO TREVO LTDA",
 			"name": "POSTO JARDIM DO TREVO LTDA",
 			"val": 3.657049470968232,
-			"desc": 130.16,
+			"desc": "130.16",
 			"group": "POSTO JARDIM DO TREVO LTDA"
 		},
 		{
@@ -689,7 +690,7 @@
 			"id": "FORM BENS ADMINISTRAÇÃO E ASSESSORIA LTDA",
 			"name": "FORM BENS ADMINISTRAÇÃO E ASSESSORIA LTDA",
 			"val": 746.1486177368611,
-			"desc": 13586.240000000002,
+			"desc": "13586.24",
 			"group": "FORM BENS ADMINISTRAÇÃO E ASSESSORIA LTDA"
 		},
 		{
@@ -708,7 +709,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 1.565815631387398,
-			"desc": 65,
+			"desc": "65.00",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "BAR E RESTAURANTE TIA ZELIA LTDA ME",
 			"name": "BAR E RESTAURANTE TIA ZELIA LTDA ME",
 			"val": 7.598095121058195,
-			"desc": 240.2,
+			"desc": "240.20",
 			"group": "BAR E RESTAURANTE TIA ZELIA LTDA ME"
 		},
 		{
@@ -753,7 +754,7 @@
 			"id": "FORM BENS ADMINISTRACAO E ASSESSORIA LTDA.",
 			"name": "FORM BENS ADMINISTRACAO E ASSESSORIA LTDA.",
 			"val": 96.65565039340625,
-			"desc": 2179,
+			"desc": "2179.00",
 			"group": "FORM BENS ADMINISTRACAO E ASSESSORIA LTDA."
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA",
 			"name": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA",
 			"val": 4.897378893531399,
-			"desc": 166.01,
+			"desc": "166.01",
 			"group": "CENTRO AUTOMOTIVO NOVA PAULISTA LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "POSTO DE SERVICO NORMANDI LTDA",
 			"name": "POSTO DE SERVICO NORMANDI LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DE SERVICO NORMANDI LTDA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "VITAMINADO SUCOS LTDA",
 			"name": "VITAMINADO SUCOS LTDA",
 			"val": 0.8786385287573658,
-			"desc": 41,
+			"desc": "41.00",
 			"group": "VITAMINADO SUCOS LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "CONSULADO MINEIRO (   B  )",
 			"name": "CONSULADO MINEIRO (   B  )",
 			"val": 1.243055700467309,
-			"desc": 54,
+			"desc": "54.00",
 			"group": "CONSULADO MINEIRO (   B  )"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 2.044775556836427,
-			"desc": 80.7,
+			"desc": "80.70",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "MICHELLE MONTEIRO DO NASCIMENTO",
 			"name": "MICHELLE MONTEIRO DO NASCIMENTO",
 			"val": 90.21154719402102,
-			"desc": 2050,
+			"desc": "2050.00",
 			"group": "MICHELLE MONTEIRO DO NASCIMENTO"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "D&G LOCAÇÕES DE VEÍCULOS LTDA",
 			"name": "D&G LOCAÇÕES DE VEÍCULOS LTDA",
 			"val": 137.56987165496633,
-			"desc": 2980,
+			"desc": "2980.00",
 			"group": "D&G LOCAÇÕES DE VEÍCULOS LTDA"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 7.941327118956529,
-			"desc": 249.35,
+			"desc": "249.35",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{

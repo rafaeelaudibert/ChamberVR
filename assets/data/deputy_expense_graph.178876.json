@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CÉLIO SILVEIRA"
+			"name": "CÉLIO SILVEIRA",
+			"desc": "253064.30"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 4.006116948834301,
-			"desc": 140.4000000000001,
+			"desc": "140.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -264,7 +265,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 5.30346312898861,
-			"desc": 177.45999999999998,
+			"desc": "177.46",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.974706004803443,
-			"desc": 168.2,
+			"desc": "168.20",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -338,7 +339,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 29.335192652205613,
-			"desc": 765.51,
+			"desc": "765.51",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -351,7 +352,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 4.028080154914765,
-			"desc": 141.04,
+			"desc": "141.04",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "Benilton Sampaio Freire - Me",
 			"name": "Benilton Sampaio Freire - Me",
 			"val": 3941.2105829536736,
-			"desc": 61900,
+			"desc": "61900.00",
 			"group": "Benilton Sampaio Freire - Me"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "JACI BARBOSA DE SOUZA E CIA LTDA",
 			"name": "JACI BARBOSA DE SOUZA E CIA LTDA",
 			"val": 32.639864939358176,
-			"desc": 840,
+			"desc": "840.00",
 			"group": "JACI BARBOSA DE SOUZA E CIA LTDA"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "GUSTAVO LOPES - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "GUSTAVO LOPES - SOCIEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 7441.528867049414,
-			"desc": 111000,
+			"desc": "111000.00",
 			"group": "GUSTAVO LOPES - SOCIEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -505,7 +506,7 @@
 			"id": "CORREIOS - MALA DIRETA POSTAL BÁSICA",
 			"name": "CORREIOS - MALA DIRETA POSTAL BÁSICA",
 			"val": 13.534822182996846,
-			"desc": 392.66999999999996,
+			"desc": "392.67",
 			"group": "CORREIOS - MALA DIRETA POSTAL BÁSICA"
 		},
 		{
@@ -524,7 +525,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 102.2158021266691,
-			"desc": 2289.6,
+			"desc": "2289.60",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO",
 			"name": "TELEFONICA BRASIL SA VIVO",
 			"val": 24.917413799948154,
-			"desc": 664.4,
+			"desc": "664.40",
 			"group": "TELEFONICA BRASIL SA VIVO"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "Supernova Solucoes Graficas e Editora",
 			"name": "Supernova Solucoes Graficas e Editora",
 			"val": 1778.8482322964032,
-			"desc": 29910,
+			"desc": "29910.00",
 			"group": "Supernova Solucoes Graficas e Editora"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 86.57505126642673,
-			"desc": 1976.79,
+			"desc": "1976.79",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "AUTO POSTO ALIANCA EIRELI",
 			"name": "AUTO POSTO ALIANCA EIRELI",
 			"val": 2076.86553735186,
-			"desc": 34448.7,
+			"desc": "34448.70",
 			"group": "AUTO POSTO ALIANCA EIRELI"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 32.598364092498656,
-			"desc": 839.0699999999999,
+			"desc": "839.07",
 			"group": "RAMAL"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "VIVO - Telefônica Brasil S.A.",
 			"name": "VIVO - Telefônica Brasil S.A.",
 			"val": 37.11668798449722,
-			"desc": 939.58,
+			"desc": "939.58",
 			"group": "VIVO - Telefônica Brasil S.A."
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -724,7 +725,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 24.195090005858866,
-			"desc": 647.68,
+			"desc": "647.68",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.5110498872012126,
-			"desc": 26.9,
+			"desc": "26.90",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "MM COMBUSTIVEIS LUZIANIA LTDA",
 			"name": "MM COMBUSTIVEIS LUZIANIA LTDA",
 			"val": 286.14060118992666,
-			"desc": 5730,
+			"desc": "5730.00",
 			"group": "MM COMBUSTIVEIS LUZIANIA LTDA"
 		},
 		{

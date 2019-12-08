@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "RUBENS OTONI"
+			"name": "RUBENS OTONI",
+			"desc": "98732.30"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SANTANA PETROLEO E PECAS LTDA",
 			"name": "SANTANA PETROLEO E PECAS LTDA",
 			"val": 124.36964583967213,
-			"desc": 2724.58,
+			"desc": "2724.58",
 			"group": "SANTANA PETROLEO E PECAS LTDA"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 78.12695375725674,
-			"desc": 1805.46,
+			"desc": "1805.46",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "ADP TRANSPORTE E TURISMO LTDA-ME",
 			"name": "ADP TRANSPORTE E TURISMO LTDA-ME",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "ADP TRANSPORTE E TURISMO LTDA-ME"
 		},
 		{
@@ -122,7 +123,7 @@
 			"id": "POSTOS WK CATALAO LTDA",
 			"name": "POSTOS WK CATALAO LTDA",
 			"val": 9.092928716859417,
-			"desc": 279.69,
+			"desc": "279.69",
 			"group": "POSTOS WK CATALAO LTDA"
 		},
 		{
@@ -141,7 +142,7 @@
 			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"val": 99.3086150112866,
-			"desc": 2231.85,
+			"desc": "2231.85",
 			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "ALICE DAS GRACAS LOURENCO ME",
 			"name": "ALICE DAS GRACAS LOURENCO ME",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "ALICE DAS GRACAS LOURENCO ME"
 		},
 		{
@@ -221,7 +222,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.5056809610467041,
-			"desc": 62.980000000000004,
+			"desc": "62.98",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "PRIMICIAS PAPEIS E UTI. LTDA EPP",
 			"name": "PRIMICIAS PAPEIS E UTI. LTDA EPP",
 			"val": 82.82245490446147,
-			"desc": 1900.9099999999999,
+			"desc": "1900.91",
 			"group": "PRIMICIAS PAPEIS E UTI. LTDA EPP"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "PORTAL DO PETROLEO II E DERIVADOS LTDA",
 			"name": "PORTAL DO PETROLEO II E DERIVADOS LTDA",
 			"val": 2.256029470404998,
-			"desc": 87.44,
+			"desc": "87.44",
 			"group": "PORTAL DO PETROLEO II E DERIVADOS LTDA"
 		},
 		{
@@ -284,7 +285,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 16.287636515857933,
-			"desc": 460.28999999999996,
+			"desc": "460.29",
 			"group": "RAMAL"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "Horácio Fleury de Almeida",
 			"name": "Horácio Fleury de Almeida",
 			"val": 1375.3032487984822,
-			"desc": 23662.64,
+			"desc": "23662.64",
 			"group": "Horácio Fleury de Almeida"
 		},
 		{
@@ -340,7 +341,7 @@
 			"id": "POSTO STA M COM DER DE PETROLEO LTDA",
 			"name": "POSTO STA M COM DER DE PETROLEO LTDA",
 			"val": 3.248607519298789,
-			"desc": 118,
+			"desc": "118.00",
 			"group": "POSTO STA M COM DER DE PETROLEO LTDA"
 		},
 		{
@@ -353,7 +354,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 7.345803993670962,
-			"desc": 233.43999999999997,
+			"desc": "233.44",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -408,7 +409,7 @@
 			"id": "AMV GRÁFICA LTDA",
 			"name": "AMV GRÁFICA LTDA",
 			"val": 1322.8902547702721,
-			"desc": 22841,
+			"desc": "22841.00",
 			"group": "AMV GRÁFICA LTDA"
 		},
 		{
@@ -427,7 +428,7 @@
 			"id": "POSTO ALDEIA LTDA",
 			"name": "POSTO ALDEIA LTDA",
 			"val": 0.345754247590989,
-			"desc": 20,
+			"desc": "20.00",
 			"group": "POSTO ALDEIA LTDA"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "SANEAGO",
 			"name": "SANEAGO",
 			"val": 4.257615570180383,
-			"desc": 147.7,
+			"desc": "147.70",
 			"group": "SANEAGO"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "AKNA TECNOLOGIA DA INFORMAÇÃO LTDA EPP",
 			"name": "AKNA TECNOLOGIA DA INFORMAÇÃO LTDA EPP",
 			"val": 85.9928461572988,
-			"desc": 1965.04,
+			"desc": "1965.04",
 			"group": "AKNA TECNOLOGIA DA INFORMAÇÃO LTDA EPP"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "BARROS E CAPARROSA COMBUSTIVEIS LTDA",
 			"name": "BARROS E CAPARROSA COMBUSTIVEIS LTDA",
 			"val": 4.615989432847929,
-			"desc": 158,
+			"desc": "158.00",
 			"group": "BARROS E CAPARROSA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 71.57485466014415,
-			"desc": 1671.26,
+			"desc": "1671.26",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "Manoel Vanderic Correa",
 			"name": "Manoel Vanderic Correa",
 			"val": 677.857937611736,
-			"desc": 12456.41,
+			"desc": "12456.41",
 			"group": "Manoel Vanderic Correa"
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "WILMAR CEZAR PEIXOTO ME",
 			"name": "WILMAR CEZAR PEIXOTO ME",
 			"val": 1.1284877816768832,
-			"desc": 49.99,
+			"desc": "49.99",
 			"group": "WILMAR CEZAR PEIXOTO ME"
 		},
 		{
@@ -590,7 +591,7 @@
 			"id": "Moura e Mendonca Ltda",
 			"name": "Moura e Mendonca Ltda",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "Moura e Mendonca Ltda"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "COMERCIAL DE SERVICOS UNIAO LTDA ME",
 			"name": "COMERCIAL DE SERVICOS UNIAO LTDA ME",
 			"val": 43.708822411243155,
-			"desc": 1083.84,
+			"desc": "1083.84",
 			"group": "COMERCIAL DE SERVICOS UNIAO LTDA ME"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "Brothers Produtos e Servicos Ltda ME",
 			"name": "Brothers Produtos e Servicos Ltda ME",
 			"val": 9.104796978978364,
-			"desc": 280,
+			"desc": "280.00",
 			"group": "Brothers Produtos e Servicos Ltda ME"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "POSTO Z+Z NOSSA SENHORA MEDALHA MILAGROSA LTDA",
 			"name": "POSTO Z+Z NOSSA SENHORA MEDALHA MILAGROSA LTDA",
 			"val": 263.45614046190616,
-			"desc": 5321.25,
+			"desc": "5321.25",
 			"group": "POSTO Z+Z NOSSA SENHORA MEDALHA MILAGROSA LTDA"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "GALICIA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "GALICIA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.510848380353763,
-			"desc": 154.99,
+			"desc": "154.99",
 			"group": "GALICIA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "SEBASTIAO RIBEIRO JUNIOR",
 			"name": "SEBASTIAO RIBEIRO JUNIOR",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "SEBASTIAO RIBEIRO JUNIOR"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "H Brandao Ltda",
 			"name": "H Brandao Ltda",
 			"val": 3.1479308638066703,
-			"desc": 114.97,
+			"desc": "114.97",
 			"group": "H Brandao Ltda"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 71.67302897940748,
-			"desc": 1673.28,
+			"desc": "1673.28",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "Telefônica Brasil S. A. VIVO",
 			"name": "Telefônica Brasil S. A. VIVO",
 			"val": 56.50383934966232,
-			"desc": 1357.3999999999999,
+			"desc": "1357.40",
 			"group": "Telefônica Brasil S. A. VIVO"
 		},
 		{
@@ -749,7 +750,7 @@
 			"id": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO LTDA ME",
 			"name": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO LTDA ME",
 			"val": 2.9841272387640294,
-			"desc": 110.01,
+			"desc": "110.01",
 			"group": "3 VIAS COMERCIO DE DERIVADOS DE PETROLEO LTDA ME"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "S/A CORREIO BRAZILIENSE",
 			"name": "S/A CORREIO BRAZILIENSE",
 			"val": 26.419819612469716,
-			"desc": 699,
+			"desc": "699.00",
 			"group": "S/A CORREIO BRAZILIENSE"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "Castelao Comercio de Petroleo Ltda",
 			"name": "Castelao Comercio de Petroleo Ltda",
 			"val": 2.9768912254730937,
-			"desc": 109.79,
+			"desc": "109.79",
 			"group": "Castelao Comercio de Petroleo Ltda"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "Thermas Distribuidora de Petroleo Ltdaepp",
 			"name": "Thermas Distribuidora de Petroleo Ltdaepp",
 			"val": 3.082720891011665,
-			"desc": 113,
+			"desc": "113.00",
 			"group": "Thermas Distribuidora de Petroleo Ltdaepp"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "Alfa Combustiveis Ltda",
 			"name": "Alfa Combustiveis Ltda",
 			"val": 2.98379827395085,
-			"desc": 110,
+			"desc": "110.00",
 			"group": "Alfa Combustiveis Ltda"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "AUTO POSTO RIO CANASTRA LTDA",
 			"name": "AUTO POSTO RIO CANASTRA LTDA",
 			"val": 3.651631262774796,
-			"desc": 130,
+			"desc": "130.00",
 			"group": "AUTO POSTO RIO CANASTRA LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "CLARO",
 			"name": "CLARO",
 			"val": 28.39205083990981,
-			"desc": 744.0799999999999,
+			"desc": "744.08",
 			"group": "CLARO"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "J CAMARA & IRMAOS S/A",
 			"name": "J CAMARA & IRMAOS S/A",
 			"val": 22.063812004681864,
-			"desc": 598,
+			"desc": "598.00",
 			"group": "J CAMARA & IRMAOS S/A"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "AUTO POSTO NLB EIRELI-EPP",
 			"name": "AUTO POSTO NLB EIRELI-EPP",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "AUTO POSTO NLB EIRELI-EPP"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "AA COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "AA COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 2.689917439031725,
-			"desc": 101,
+			"desc": "101.00",
 			"group": "AA COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "AUTO POSTO BELEM BRASILIA LTDA",
 			"name": "AUTO POSTO BELEM BRASILIA LTDA",
 			"val": 2.8203093977900173,
-			"desc": 105.01,
+			"desc": "105.01",
 			"group": "AUTO POSTO BELEM BRASILIA LTDA"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "Augusto Cesar de Almeida",
 			"name": "Augusto Cesar de Almeida",
 			"val": 26.46339111313052,
-			"desc": 700,
+			"desc": "700.00",
 			"group": "Augusto Cesar de Almeida"
 		},
 		{

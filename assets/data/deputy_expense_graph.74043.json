@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "WELLINGTON ROBERTO"
+			"name": "WELLINGTON ROBERTO",
+			"desc": "141635.29"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 34.90800201703836,
-			"desc": 890.63,
+			"desc": "890.63",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -60,7 +61,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 816.0064645378513,
-			"desc": 14732.819999999998,
+			"desc": "14732.82",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 14.936879132211875,
-			"desc": 427.29999999999995,
+			"desc": "427.30",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 19.293578172912646,
-			"desc": 532.57,
+			"desc": "532.57",
 			"group": "RAMAL"
 		},
 		{
@@ -267,7 +268,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 577.442057014972,
-			"desc": 10776.689999999999,
+			"desc": "10776.69",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "EPC - EMPRESA PARAIBANA PRESTADORA DE SERVICOS COMBINADOS A CONVENIOS LTDA",
 			"name": "EPC - EMPRESA PARAIBANA PRESTADORA DE SERVICOS COMBINADOS A CONVENIOS LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "EPC - EMPRESA PARAIBANA PRESTADORA DE SERVICOS COMBINADOS A CONVENIOS LTDA"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "MEGA POSTO DE COMBUSTIVEIS LTDA",
 			"name": "MEGA POSTO DE COMBUSTIVEIS LTDA",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "MEGA POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.7274114053525549,
-			"desc": 70.37,
+			"desc": "70.37",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "ELLITE COMERCIO E SERVICOS GRAFICOS LTDA - ME",
 			"name": "ELLITE COMERCIO E SERVICOS GRAFICOS LTDA - ME",
 			"val": 6643.856189774725,
-			"desc": 100000,
+			"desc": "100000.00",
 			"group": "ELLITE COMERCIO E SERVICOS GRAFICOS LTDA - ME"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 44.02241522089452,
-			"desc": 1090.64,
+			"desc": "1090.64",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -531,7 +532,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -544,7 +545,7 @@
 			"id": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"name": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA",
 			"val": 15.29171346241096,
-			"desc": 436,
+			"desc": "436.00",
 			"group": "HORA PARK SISTEMA DE ESTACIONAMENTO ROTATIVO LTDA"
 		},
 		{
@@ -581,7 +582,7 @@
 			"id": "AUTO POSTO DOM VITAL LTDA",
 			"name": "AUTO POSTO DOM VITAL LTDA",
 			"val": 3.468433830862592,
-			"desc": 124.57,
+			"desc": "124.57",
 			"group": "AUTO POSTO DOM VITAL LTDA"
 		},
 		{
@@ -594,7 +595,7 @@
 			"id": "POSTO MONUMENTO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "POSTO MONUMENTO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 22.149164857190115,
-			"desc": 600,
+			"desc": "600.00",
 			"group": "POSTO MONUMENTO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -619,7 +620,7 @@
 			"id": "ALLPARK EMPREEND. PARTIC. E SERV. S/A",
 			"name": "ALLPARK EMPREEND. PARTIC. E SERV. S/A",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "ALLPARK EMPREEND. PARTIC. E SERV. S/A"
 		},
 		{
@@ -632,7 +633,7 @@
 			"id": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
 			"name": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA"
 		},
 		{
@@ -645,7 +646,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 3.8654765517908904,
-			"desc": 136.29,
+			"desc": "136.29",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "MS AUTO POSTO",
 			"name": "MS AUTO POSTO",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "MS AUTO POSTO"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"name": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL",
 			"val": 0.040510063045521565,
-			"desc": 4.6,
+			"desc": "4.60",
 			"group": "CORREIOS - CAIXA DE ENCOMENDAS BÁSICA/CONVENCIONAL"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 41.087264525979904,
-			"desc": 1026.78,
+			"desc": "1026.78",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "SB COMERCIO DE COMBUSTIVEIS PLANALTO LTDA",
 			"name": "SB COMERCIO DE COMBUSTIVEIS PLANALTO LTDA",
 			"val": 5.395206389559981,
-			"desc": 180.03,
+			"desc": "180.03",
 			"group": "SB COMERCIO DE COMBUSTIVEIS PLANALTO LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEIS EXPRESSO LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEIS EXPRESSO LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "COMERCIAL DE COMBUSTIVEIS EXPRESSO LTDA"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 8.192,
-			"desc": 256,
+			"desc": "256.00",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "S B COMERCIO DE PETROLEO LTDA",
 			"name": "S B COMERCIO DE PETROLEO LTDA",
 			"val": 7.217850846868825,
-			"desc": 230,
+			"desc": "230.00",
 			"group": "S B COMERCIO DE PETROLEO LTDA"
 		},
 		{

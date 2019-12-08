@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JORGE BRAZ"
+			"name": "JORGE BRAZ",
+			"desc": "45016.29"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 806.5329548696178,
-			"desc": 14577.839999999998,
+			"desc": "14577.84",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -162,7 +163,7 @@
 			"id": "LA TABLE PRODUCOES CULTURAIS LTDA ME",
 			"name": "LA TABLE PRODUCOES CULTURAIS LTDA ME",
 			"val": 15.234545522888553,
-			"desc": 434.6,
+			"desc": "434.60",
 			"group": "LA TABLE PRODUCOES CULTURAIS LTDA ME"
 		},
 		{
@@ -187,7 +188,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 157.36367756076774,
-			"desc": 3358.5600000000004,
+			"desc": "3358.56",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 23.94596331806497,
-			"desc": 641.8999999999999,
+			"desc": "641.90",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -279,7 +280,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 38.27452376157427,
-			"desc": 965.1099999999999,
+			"desc": "965.11",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -382,7 +383,7 @@
 			"id": "SIALA CHURRASCARIA E RESTAURANTE LTDA",
 			"name": "SIALA CHURRASCARIA E RESTAURANTE LTDA",
 			"val": 51.052553578404,
-			"desc": 1241.77,
+			"desc": "1241.77",
 			"group": "SIALA CHURRASCARIA E RESTAURANTE LTDA"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "CARBAT-DISTRIB E ASSESS DO COM DE DER DE PETR",
 			"name": "CARBAT-DISTRIB E ASSESS DO COM DE DER DE PETR",
 			"val": 15.344003996881662,
-			"desc": 437.28,
+			"desc": "437.28",
 			"group": "CARBAT-DISTRIB E ASSESS DO COM DE DER DE PETR"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "AUTO POSTO VALDEVEZ LTDA",
 			"name": "AUTO POSTO VALDEVEZ LTDA",
 			"val": 14.544495238831956,
-			"desc": 417.65,
+			"desc": "417.65",
 			"group": "AUTO POSTO VALDEVEZ LTDA"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "POSTO Z+Z 314 SUL LTDA",
 			"name": "POSTO Z+Z 314 SUL LTDA",
 			"val": 4.628586722939043,
-			"desc": 158.36,
+			"desc": "158.36",
 			"group": "POSTO Z+Z 314 SUL LTDA"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "RESTAURANTE REC.DOS PESC. DE TERESOPOLIS LTDA",
 			"name": "RESTAURANTE REC.DOS PESC. DE TERESOPOLIS LTDA",
 			"val": 3.942039951204557,
-			"desc": 138.53,
+			"desc": "138.53",
 			"group": "RESTAURANTE REC.DOS PESC. DE TERESOPOLIS LTDA"
 		},
 		{
@@ -501,7 +502,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 12.072618354675443,
-			"desc": 356.08000000000004,
+			"desc": "356.08",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -520,7 +521,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 65.17065893607761,
-			"desc": 1538.8400000000001,
+			"desc": "1538.84",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "Francisco Pátio Comércio de Alimentos Ltda EPP",
 			"name": "Francisco Pátio Comércio de Alimentos Ltda EPP",
 			"val": 2.0768553587078302,
-			"desc": 81.73,
+			"desc": "81.73",
 			"group": "Francisco Pátio Comércio de Alimentos Ltda EPP"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "POSTO 109 SUL DERIV DE PET LTDA",
 			"name": "POSTO 109 SUL DERIV DE PET LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO 109 SUL DERIV DE PET LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 773.8524189260365,
-			"desc": 14042,
+			"desc": "14042.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.496552801330542,
-			"desc": 154.57999999999998,
+			"desc": "154.58",
 			"group": "RAMAL"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "COMBUSTIVEIS JAMAPARA LTDA",
 			"name": "COMBUSTIVEIS JAMAPARA LTDA",
 			"val": 9.273462260023182,
-			"desc": 284.4,
+			"desc": "284.40",
 			"group": "COMBUSTIVEIS JAMAPARA LTDA"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 8.38113386041896,
-			"desc": 261,
+			"desc": "261.00",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "AUTO POSTO GARDENIA AZUL LTDA",
 			"name": "AUTO POSTO GARDENIA AZUL LTDA",
 			"val": 6.4272508137351965,
-			"desc": 208.56,
+			"desc": "208.56",
 			"group": "AUTO POSTO GARDENIA AZUL LTDA"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "CARREFOUR COMERCIO  E INDUSTRIA",
 			"name": "CARREFOUR COMERCIO  E INDUSTRIA",
 			"val": 5.987326124205579,
-			"desc": 196.48,
+			"desc": "196.48",
 			"group": "CARREFOUR COMERCIO  E INDUSTRIA"
 		},
 		{
@@ -685,7 +686,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 24.591372561635126,
-			"desc": 656.86,
+			"desc": "656.86",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 66.90157634125043,
-			"desc": 1574.76,
+			"desc": "1574.76",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 8.620608497970906,
-			"desc": 267.31,
+			"desc": "267.31",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "ECT",
 			"name": "ECT",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "ECT"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "BUSINESS RIO COMERCIO DE GENEROS",
 			"name": "BUSINESS RIO COMERCIO DE GENEROS",
 			"val": 8.02226107734436,
-			"desc": 251.5,
+			"desc": "251.50",
 			"group": "BUSINESS RIO COMERCIO DE GENEROS"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "14 - BONAPARTE HOTEL - ABITARE HOTELARIA",
 			"name": "14 - BONAPARTE HOTEL - ABITARE HOTELARIA",
 			"val": 44.4544663570129,
-			"desc": 1100,
+			"desc": "1100.00",
 			"group": "14 - BONAPARTE HOTEL - ABITARE HOTELARIA"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "G A P POSTO DE SERVICOS LTDA",
 			"name": "G A P POSTO DE SERVICOS LTDA",
 			"val": 7.385290577539423,
-			"desc": 234.5,
+			"desc": "234.50",
 			"group": "G A P POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "VOLARE RESTAURANTE EIRELI",
 			"name": "VOLARE RESTAURANTE EIRELI",
 			"val": 1.0063121404019881,
-			"desc": 45.64,
+			"desc": "45.64",
 			"group": "VOLARE RESTAURANTE EIRELI"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "AB1 HOTELARIA EIRELI - EPP",
 			"name": "AB1 HOTELARIA EIRELI - EPP",
 			"val": 35.82077402717473,
-			"desc": 910.9,
+			"desc": "910.90",
 			"group": "AB1 HOTELARIA EIRELI - EPP"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "POSTO DE GASOLINA PORTAL DA SERRA LTDA",
 			"name": "POSTO DE GASOLINA PORTAL DA SERRA LTDA",
 			"val": 5.537341599657961,
-			"desc": 184,
+			"desc": "184.00",
 			"group": "POSTO DE GASOLINA PORTAL DA SERRA LTDA"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "BELLA E RO ALIMENTOS E BEBIDAS EIRELI",
 			"name": "BELLA E RO ALIMENTOS E BEBIDAS EIRELI",
 			"val": 3.6262485831528215,
-			"desc": 129.25,
+			"desc": "129.25",
 			"group": "BELLA E RO ALIMENTOS E BEBIDAS EIRELI"
 		},
 		{

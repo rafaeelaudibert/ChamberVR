@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DANIEL ALMEIDA"
+			"name": "DANIEL ALMEIDA",
+			"desc": "82049.10"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 86.02999609716409,
-			"desc": 1965.79,
+			"desc": "1965.79",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 415.79735652173,
-			"desc": 8015.480000000001,
+			"desc": "8015.48",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -139,7 +140,7 @@
 			"id": "GRITO PROPAGANDA EIRELI EPP",
 			"name": "GRITO PROPAGANDA EIRELI EPP",
 			"val": 801.7783862278003,
-			"desc": 14500,
+			"desc": "14500.00",
 			"group": "GRITO PROPAGANDA EIRELI EPP"
 		},
 		{
@@ -152,7 +153,7 @@
 			"id": "FROTICAR LOCACAO DE VEICULOS LTDA",
 			"name": "FROTICAR LOCACAO DE VEICULOS LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "FROTICAR LOCACAO DE VEICULOS LTDA"
 		},
 		{
@@ -171,7 +172,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 329.7135090380495,
-			"desc": 6506.94,
+			"desc": "6506.94",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -250,7 +251,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 1.982392600994825,
-			"desc": 78.69,
+			"desc": "78.69",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "Coelba Grupo Neoenergia",
 			"name": "Coelba Grupo Neoenergia",
 			"val": 25.70513078094609,
-			"desc": 682.57,
+			"desc": "682.57",
 			"group": "Coelba Grupo Neoenergia"
 		},
 		{
@@ -288,7 +289,7 @@
 			"id": "J A SOBRAL &amp; CIA LTDA - POSTO SETE",
 			"name": "J A SOBRAL &amp; CIA LTDA - POSTO SETE",
 			"val": 446.97732586794973,
-			"desc": 8554.6,
+			"desc": "8554.60",
 			"group": "J A SOBRAL &amp; CIA LTDA - POSTO SETE"
 		},
 		{
@@ -307,7 +308,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 409.06474209610747,
-			"desc": 7898.6,
+			"desc": "7898.60",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 29.00911973938697,
-			"desc": 758.1100000000001,
+			"desc": "758.11",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "POSTO GONZAGAO",
 			"name": "POSTO GONZAGAO",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "POSTO GONZAGAO"
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 0.3110474395933273,
-			"desc": 18.48,
+			"desc": "18.48",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "COMERCIO DO VALE DE REMANSO LTDA - EPP",
 			"name": "COMERCIO DO VALE DE REMANSO LTDA - EPP",
 			"val": 8.13650135553483,
-			"desc": 254.53,
+			"desc": "254.53",
 			"group": "COMERCIO DO VALE DE REMANSO LTDA - EPP"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 20.02723317850645,
-			"desc": 550,
+			"desc": "550.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -517,7 +518,7 @@
 			"id": "M P COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"name": "M P COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "M P COMERCIO DE COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -530,7 +531,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 87.1655955774384,
-			"desc": 1988.6999999999998,
+			"desc": "1988.70",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -555,7 +556,7 @@
 			"id": "COMERCIO DE PETROLEO E DERIVADOS BOM PRECO LTDA ME",
 			"name": "COMERCIO DE PETROLEO E DERIVADOS BOM PRECO LTDA ME",
 			"val": 2.023016990363956,
-			"desc": 80,
+			"desc": "80.00",
 			"group": "COMERCIO DE PETROLEO E DERIVADOS BOM PRECO LTDA ME"
 		},
 		{
@@ -568,7 +569,7 @@
 			"id": "MUNICIPIO DE SALVADOR",
 			"name": "MUNICIPIO DE SALVADOR",
 			"val": 38.42901680877811,
-			"desc": 968.51,
+			"desc": "968.51",
 			"group": "MUNICIPIO DE SALVADOR"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "PIATA - PATRIMONIAL LTDA",
 			"name": "PIATA - PATRIMONIAL LTDA",
 			"val": 262.281664859964,
-			"desc": 5300,
+			"desc": "5300.00",
 			"group": "PIATA - PATRIMONIAL LTDA"
 		},
 		{
@@ -606,7 +607,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 45.286622402554755,
-			"desc": 1118,
+			"desc": "1118.00",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 33.174996194711426,
-			"desc": 851.98,
+			"desc": "851.98",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 5.8725818572942226,
-			"desc": 193.31,
+			"desc": "193.31",
 			"group": "CLARO S.A."
 		},
 		{
@@ -669,7 +670,7 @@
 			"id": "HOTEL VELOSO LTDA",
 			"name": "HOTEL VELOSO LTDA",
 			"val": 5.50149228162392,
-			"desc": 183,
+			"desc": "183.00",
 			"group": "HOTEL VELOSO LTDA"
 		},
 		{
@@ -682,7 +683,7 @@
 			"id": "J&E COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "J&E COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 7.628025320125683,
-			"desc": 241,
+			"desc": "241.00",
 			"group": "J&E COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -695,7 +696,7 @@
 			"id": "CONDOMINIO EDIFICIO EMPRESARIAL ITAIGARA",
 			"name": "CONDOMINIO EDIFICIO EMPRESARIAL ITAIGARA",
 			"val": 64.63001310092567,
-			"desc": 1527.6,
+			"desc": "1527.60",
 			"group": "CONDOMINIO EDIFICIO EMPRESARIAL ITAIGARA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 13.591977035647393,
-			"desc": 394.09000000000003,
+			"desc": "394.09",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "EVANGELISTA E CERQUEIRA LTDA",
 			"name": "EVANGELISTA E CERQUEIRA LTDA",
 			"val": 21.885123075636315,
-			"desc": 593.81,
+			"desc": "593.81",
 			"group": "EVANGELISTA E CERQUEIRA LTDA"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "ROQUE GIL DE BRITO E CIA LTDA",
 			"name": "ROQUE GIL DE BRITO E CIA LTDA",
 			"val": 7.180710669896801,
-			"desc": 229,
+			"desc": "229.00",
 			"group": "ROQUE GIL DE BRITO E CIA LTDA"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "INSIST INFORMATICA & SISTEMA LTDA - ME",
 			"name": "INSIST INFORMATICA & SISTEMA LTDA - ME",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "INSIST INFORMATICA & SISTEMA LTDA - ME"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 8.962891293800247,
-			"desc": 276.28999999999996,
+			"desc": "276.29",
 			"group": "RAMAL"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "JOÃO RIBEIRO DO VALLE",
 			"name": "JOÃO RIBEIRO DO VALLE",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "JOÃO RIBEIRO DO VALLE"
 		},
 		{

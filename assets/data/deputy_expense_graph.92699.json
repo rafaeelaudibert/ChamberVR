@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FERNANDO MONTEIRO"
+			"name": "FERNANDO MONTEIRO",
+			"desc": "92787.48"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"name": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL",
 			"val": 69.68122324978977,
-			"desc": 1632.24,
+			"desc": "1632.24",
 			"group": "PETROIL COMBUSTIVEIS LTDA - LAGO SUL"
 		},
 		{
@@ -90,7 +91,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 260.61171740599764,
-			"desc": 5269.770000000002,
+			"desc": "5269.77",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -199,7 +200,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 99.09701438525911,
-			"desc": 2227.64,
+			"desc": "2227.64",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "FREITAS COMERCIO DE COMBUSTIVEIS LTDA-EPP",
 			"name": "FREITAS COMERCIO DE COMBUSTIVEIS LTDA-EPP",
 			"val": 6.310311436859322,
-			"desc": 205.36,
+			"desc": "205.36",
 			"group": "FREITAS COMERCIO DE COMBUSTIVEIS LTDA-EPP"
 		},
 		{
@@ -249,7 +250,7 @@
 			"id": "CJCM PETROLEO LTDA",
 			"name": "CJCM PETROLEO LTDA",
 			"val": 9.998475944014505,
-			"desc": 303.2,
+			"desc": "303.20",
 			"group": "CJCM PETROLEO LTDA"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 428.3786249715505,
-			"desc": 8233.44,
+			"desc": "8233.44",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -335,7 +336,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 317.9440589841834,
-			"desc": 6298.07,
+			"desc": "6298.07",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -402,7 +403,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.5484402411965275,
-			"desc": 28.4,
+			"desc": "28.40",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"name": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"val": 4.318566360579236,
-			"desc": 149.46,
+			"desc": "149.46",
 			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
 		},
 		{
@@ -428,7 +429,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 57.361949077378945,
-			"desc": 1375.4899999999998,
+			"desc": "1375.49",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.671765715890748,
-			"desc": 68.53,
+			"desc": "68.53",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -527,7 +528,7 @@
 			"id": "MIRAMAR COM. DE PROD. DE PETROLEO E DERIV. LTDA",
 			"name": "MIRAMAR COM. DE PROD. DE PETROLEO E DERIV. LTDA",
 			"val": 21.914963803002138,
-			"desc": 594.51,
+			"desc": "594.51",
 			"group": "MIRAMAR COM. DE PROD. DE PETROLEO E DERIV. LTDA"
 		},
 		{
@@ -546,7 +547,7 @@
 			"id": "RIO AVE IMVESTIMENTOS",
 			"name": "RIO AVE IMVESTIMENTOS",
 			"val": 1358.5706503148767,
-			"desc": 23400.620000000003,
+			"desc": "23400.62",
 			"group": "RIO AVE IMVESTIMENTOS"
 		},
 		{
@@ -571,7 +572,7 @@
 			"id": "CACULINHA COMBUSTIVEIS LTDA II",
 			"name": "CACULINHA COMBUSTIVEIS LTDA II",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "CACULINHA COMBUSTIVEIS LTDA II"
 		},
 		{
@@ -584,7 +585,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 11.83169555656526,
-			"desc": 350,
+			"desc": "350.00",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "ASA BRANCA LOCADORA E TURISMO LTDA",
 			"name": "ASA BRANCA LOCADORA E TURISMO LTDA",
 			"val": 1244.05145498346,
-			"desc": 21600,
+			"desc": "21600.00",
 			"group": "ASA BRANCA LOCADORA E TURISMO LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.30156072281714,
-			"desc": 88.88,
+			"desc": "88.88",
 			"group": "RAMAL"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 24.994456003089258,
-			"desc": 666.18,
+			"desc": "666.18",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "POSTO AR COMBUSTIVEIS LTDA - EPP",
 			"name": "POSTO AR COMBUSTIVEIS LTDA - EPP",
 			"val": 2.658189411549134,
-			"desc": 100.02,
+			"desc": "100.02",
 			"group": "POSTO AR COMBUSTIVEIS LTDA - EPP"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"name": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"val": 6.406765845493388,
-			"desc": 208,
+			"desc": "208.00",
 			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
 		},
 		{
@@ -692,7 +693,7 @@
 			"id": "POSTO NOGUEIRAO LTDA - ME",
 			"name": "POSTO NOGUEIRAO LTDA - ME",
 			"val": 14.316568378568993,
-			"desc": 412.03,
+			"desc": "412.03",
 			"group": "POSTO NOGUEIRAO LTDA - ME"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "F DE GOIS FILHO ME",
 			"name": "F DE GOIS FILHO ME",
 			"val": 955.620804562045,
-			"desc": 17000,
+			"desc": "17000.00",
 			"group": "F DE GOIS FILHO ME"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.312165399278885,
-			"desc": 56.39,
+			"desc": "56.39",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "POSTO ELO LTDA",
 			"name": "POSTO ELO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO ELO LTDA"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "NUNES COMERCIO VAREJISTA DE D. DO PETROLEO EIRELI",
 			"name": "NUNES COMERCIO VAREJISTA DE D. DO PETROLEO EIRELI",
 			"val": 6.847227587023085,
-			"desc": 219.99,
+			"desc": "219.99",
 			"group": "NUNES COMERCIO VAREJISTA DE D. DO PETROLEO EIRELI"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.642545047598725,
-			"desc": 67.56,
+			"desc": "67.56",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "ORLA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "ORLA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.162166287876656,
-			"desc": 173.49,
+			"desc": "173.49",
 			"group": "ORLA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "ORGANIZACAO DE PETROLEO SHOPPING LTDA.",
 			"name": "ORGANIZACAO DE PETROLEO SHOPPING LTDA.",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "ORGANIZACAO DE PETROLEO SHOPPING LTDA."
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "SOCIEDADE COMERCIAL CAVALCANTI E FILHO LTDA",
 			"name": "SOCIEDADE COMERCIAL CAVALCANTI E FILHO LTDA",
 			"val": 6.365456621790103,
-			"desc": 206.87,
+			"desc": "206.87",
 			"group": "SOCIEDADE COMERCIAL CAVALCANTI E FILHO LTDA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "POSTO MENINO JESUS LTDA",
 			"name": "POSTO MENINO JESUS LTDA",
 			"val": 5.287064729458762,
-			"desc": 177,
+			"desc": "177.00",
 			"group": "POSTO MENINO JESUS LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "POSTO QUARTO DE MILHA LTDA",
 			"name": "POSTO QUARTO DE MILHA LTDA",
 			"val": 8.888419768649717,
-			"desc": 274.34,
+			"desc": "274.34",
 			"group": "POSTO QUARTO DE MILHA LTDA"
 		},
 		{

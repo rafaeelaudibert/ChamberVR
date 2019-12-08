@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ENRICO MISASI"
+			"name": "ENRICO MISASI",
+			"desc": "20654.20"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO MARANELO II LTDA",
 			"name": "AUTO POSTO MARANELO II LTDA",
 			"val": 3.9239055001415495,
-			"desc": 138,
+			"desc": "138.00",
 			"group": "AUTO POSTO MARANELO II LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 327.13278944507783,
-			"desc": 6461.200000000001,
+			"desc": "6461.20",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -85,7 +86,7 @@
 			"id": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"name": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A",
 			"val": 1.2718991369754251,
-			"desc": 55,
+			"desc": "55.00",
 			"group": "CONC. SISTEMA ANHANGUERA-BANDEIRANTES S/A"
 		},
 		{
@@ -128,7 +129,7 @@
 			"id": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"name": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS",
 			"val": 0.47169982655646303,
-			"desc": 25.299999999999997,
+			"desc": "25.30",
 			"group": "CONCESSIONARIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A - ECOPISTAS"
 		},
 		{
@@ -177,7 +178,7 @@
 			"id": "CONCESSIONARIA DA RODOVIA PRESIDENTE DUTRA S/A",
 			"name": "CONCESSIONARIA DA RODOVIA PRESIDENTE DUTRA S/A",
 			"val": 1.9827022367992155,
-			"desc": 78.70000000000002,
+			"desc": "78.70",
 			"group": "CONCESSIONARIA DA RODOVIA PRESIDENTE DUTRA S/A"
 		},
 		{
@@ -250,7 +251,7 @@
 			"id": "POSTO DE SERVICOS CHICAJULIA LT",
 			"name": "POSTO DE SERVICOS CHICAJULIA LT",
 			"val": 5.089408947815874,
-			"desc": 171.44,
+			"desc": "171.44",
 			"group": "POSTO DE SERVICOS CHICAJULIA LT"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "AUTO POSTO TAPERINHA LT",
 			"name": "AUTO POSTO TAPERINHA LT",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO TAPERINHA LT"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "FABIO ALHER e CIA LTDA",
 			"name": "FABIO ALHER e CIA LTDA",
 			"val": 3.062568996946471,
-			"desc": 112.39,
+			"desc": "112.39",
 			"group": "FABIO ALHER e CIA LTDA"
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"name": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A",
 			"val": 1.237299774402425,
-			"desc": 53.8,
+			"desc": "53.80",
 			"group": "CONC. RODOVIA DO OESTE DE SÃO PAULO S/A"
 		},
 		{
@@ -344,7 +345,7 @@
 			"id": "RODOVIA DAS COLINAS S/A",
 			"name": "RODOVIA DAS COLINAS S/A",
 			"val": 1.7647646322327424,
-			"desc": 71.6,
+			"desc": "71.60",
 			"group": "RODOVIA DAS COLINAS S/A"
 		},
 		{
@@ -387,7 +388,7 @@
 			"id": "PASSER HOTEL LTDA",
 			"name": "PASSER HOTEL LTDA",
 			"val": 4.511197131270027,
-			"desc": 155,
+			"desc": "155.00",
 			"group": "PASSER HOTEL LTDA"
 		},
 		{
@@ -400,7 +401,7 @@
 			"id": "CONC. RODOVIAS DO TIETÊ",
 			"name": "CONC. RODOVIAS DO TIETÊ",
 			"val": 0.3971569141058917,
-			"desc": 22.200000000000003,
+			"desc": "22.20",
 			"group": "CONC. RODOVIAS DO TIETÊ"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "AUTO POSTO INDICO LTDA",
 			"name": "AUTO POSTO INDICO LTDA",
 			"val": 4.967637308107327,
-			"desc": 168,
+			"desc": "168.00",
 			"group": "AUTO POSTO INDICO LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "CONNECTA TELECOM INTERNET LTDA - EPP",
 			"name": "CONNECTA TELECOM INTERNET LTDA - EPP",
 			"val": 9.68139395021406,
-			"desc": 295,
+			"desc": "295.00",
 			"group": "CONNECTA TELECOM INTERNET LTDA - EPP"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "AUTO POSTO J E LTDA",
 			"name": "AUTO POSTO J E LTDA",
 			"val": 1.4476898038741437,
-			"desc": 61.02,
+			"desc": "61.02",
 			"group": "AUTO POSTO J E LTDA"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "INOUYE E FORGERINI LTDA",
 			"name": "INOUYE E FORGERINI LTDA",
 			"val": 2.7265698799900187,
-			"desc": 102.13,
+			"desc": "102.13",
 			"group": "INOUYE E FORGERINI LTDA"
 		},
 		{
@@ -495,7 +496,7 @@
 			"id": "ROHEDAMA HOTEL E LANCHONETE LTDA",
 			"name": "ROHEDAMA HOTEL E LANCHONETE LTDA",
 			"val": 6.479966234839543,
-			"desc": 210,
+			"desc": "210.00",
 			"group": "ROHEDAMA HOTEL E LANCHONETE LTDA"
 		},
 		{
@@ -514,7 +515,7 @@
 			"id": "HOTEL NACIONAL INN SOROCABA LTDA",
 			"name": "HOTEL NACIONAL INN SOROCABA LTDA",
 			"val": 43.439697987388804,
-			"desc": 1078,
+			"desc": "1078.00",
 			"group": "HOTEL NACIONAL INN SOROCABA LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "CONC. ROD. INTEGRADAS DO OESTE S/A",
 			"name": "CONC. ROD. INTEGRADAS DO OESTE S/A",
 			"val": 1.1742713467346082,
-			"desc": 51.6,
+			"desc": "51.60",
 			"group": "CONC. ROD. INTEGRADAS DO OESTE S/A"
 		},
 		{
@@ -582,7 +583,7 @@
 			"id": "VILA RICA PARK LOCAÇÃO DE VEÍCULOS LTDA.",
 			"name": "VILA RICA PARK LOCAÇÃO DE VEÍCULOS LTDA.",
 			"val": 121.39560334227295,
-			"desc": 2666.67,
+			"desc": "2666.67",
 			"group": "VILA RICA PARK LOCAÇÃO DE VEÍCULOS LTDA."
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "estacionamento shopping cidade",
 			"name": "estacionamento shopping cidade",
 			"val": 0.062039100017307745,
-			"desc": 6,
+			"desc": "6.00",
 			"group": "estacionamento shopping cidade"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "CARLOS ALBERTO PAPACIDERO",
 			"name": "CARLOS ALBERTO PAPACIDERO",
 			"val": 0.6402577168175403,
-			"desc": 32.01,
+			"desc": "32.01",
 			"group": "CARLOS ALBERTO PAPACIDERO"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"name": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"val": 2.1506395366753113,
-			"desc": 84.09,
+			"desc": "84.09",
 			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 1.2817299035485665,
-			"desc": 55.34,
+			"desc": "55.34",
 			"group": "RAMAL"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "JVR ALARMES E MONITORAMENTO DE DRACENA EIRELI EPP",
 			"name": "JVR ALARMES E MONITORAMENTO DE DRACENA EIRELI EPP",
 			"val": 3.0496950050818064,
-			"desc": 112,
+			"desc": "112.00",
 			"group": "JVR ALARMES E MONITORAMENTO DE DRACENA EIRELI EPP"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
 			"name": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "AUTO POSTO COMAR LT",
 			"name": "AUTO POSTO COMAR LT",
 			"val": 3.517896314074258,
-			"desc": 126.04,
+			"desc": "126.04",
 			"group": "AUTO POSTO COMAR LT"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "AUTO POSTO ITAIPU BASSITT LTDA",
 			"name": "AUTO POSTO ITAIPU BASSITT LTDA",
 			"val": 3.4832284838123164,
-			"desc": 125.01,
+			"desc": "125.01",
 			"group": "AUTO POSTO ITAIPU BASSITT LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 39.51603055247224,
-			"desc": 992.39,
+			"desc": "992.39",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 120.30711912006257,
-			"desc": 2645.44,
+			"desc": "2645.44",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -737,7 +738,7 @@
 			"id": "AUTO POSTO DUQUE SUECIA LTDA",
 			"name": "AUTO POSTO DUQUE SUECIA LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO DUQUE SUECIA LTDA"
 		},
 		{
@@ -750,7 +751,7 @@
 			"id": "AUTO POSTO AXR LTDA",
 			"name": "AUTO POSTO AXR LTDA",
 			"val": 2.8199831174197714,
-			"desc": 105,
+			"desc": "105.00",
 			"group": "AUTO POSTO AXR LTDA"
 		},
 		{
@@ -763,7 +764,7 @@
 			"id": "AUTO POSTO E TRANSPORTES MINUANO LT",
 			"name": "AUTO POSTO E TRANSPORTES MINUANO LT",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO E TRANSPORTES MINUANO LT"
 		},
 		{
@@ -776,7 +777,7 @@
 			"id": "BENEDITA FERNANDES MARTINS.",
 			"name": "BENEDITA FERNANDES MARTINS.",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "BENEDITA FERNANDES MARTINS."
 		},
 		{
@@ -789,7 +790,7 @@
 			"id": "POSTO BARAO BRASIL LTDA",
 			"name": "POSTO BARAO BRASIL LTDA",
 			"val": 2.4821287001681993,
-			"desc": 94.55,
+			"desc": "94.55",
 			"group": "POSTO BARAO BRASIL LTDA"
 		},
 		{
@@ -802,7 +803,7 @@
 			"id": "POSTO BOLA PESADA LT",
 			"name": "POSTO BOLA PESADA LT",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO BOLA PESADA LT"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 73.86906183690171,
-			"desc": 1718.39,
+			"desc": "1718.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "PETRODUTRA COMERCIAL LTDA",
 			"name": "PETRODUTRA COMERCIAL LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "PETRODUTRA COMERCIAL LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "AUTO POSTO RETAO DA DUTRA LTDA",
 			"name": "AUTO POSTO RETAO DA DUTRA LTDA",
 			"val": 4.893499262479057,
-			"desc": 165.9,
+			"desc": "165.90",
 			"group": "AUTO POSTO RETAO DA DUTRA LTDA"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "SANTUARIO NACIONAL DE APARECIDA",
 			"name": "SANTUARIO NACIONAL DE APARECIDA",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "SANTUARIO NACIONAL DE APARECIDA"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "ARAUJO e FARINASSO LTDA",
 			"name": "ARAUJO e FARINASSO LTDA",
 			"val": 1.6560911033783905,
-			"desc": 68.01,
+			"desc": "68.01",
 			"group": "ARAUJO e FARINASSO LTDA"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "AUTO POSTO REI DA CASTELO 2 LT",
 			"name": "AUTO POSTO REI DA CASTELO 2 LT",
 			"val": 4.512243406356364,
-			"desc": 155.03,
+			"desc": "155.03",
 			"group": "AUTO POSTO REI DA CASTELO 2 LT"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "ELEKTRO REDES S.A.",
 			"name": "ELEKTRO REDES S.A.",
 			"val": 37.64636212085304,
-			"desc": 951.27,
+			"desc": "951.27",
 			"group": "ELEKTRO REDES S.A."
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "C F C AUTO POSTO LT",
 			"name": "C F C AUTO POSTO LT",
 			"val": 1.868645607148764,
-			"desc": 75,
+			"desc": "75.00",
 			"group": "C F C AUTO POSTO LT"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.5294370921654323,
-			"desc": 27.64,
+			"desc": "27.64",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "AUTO POSTO TIGRAO LTDA",
 			"name": "AUTO POSTO TIGRAO LTDA",
 			"val": 3.3166434580615225,
-			"desc": 120.04,
+			"desc": "120.04",
 			"group": "AUTO POSTO TIGRAO LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "BETO FARO"
+			"name": "BETO FARO",
+			"desc": "203677.79"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1478.859124440986,
-			"desc": 25278.55999999999,
+			"desc": "25278.56",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "M. I. DA CRUZ GAIA COMERCIAL EIRELI-ME",
 			"name": "M. I. DA CRUZ GAIA COMERCIAL EIRELI-ME",
 			"val": 386.18024640811814,
-			"desc": 7500,
+			"desc": "7500.00",
 			"group": "M. I. DA CRUZ GAIA COMERCIAL EIRELI-ME"
 		},
 		{
@@ -325,7 +326,7 @@
 			"id": "LORENA COMERCIO DE PRODUTOS DE PETROLEO",
 			"name": "LORENA COMERCIO DE PRODUTOS DE PETROLEO",
 			"val": 1623.2841886550493,
-			"desc": 27516.96,
+			"desc": "27516.96",
 			"group": "LORENA COMERCIO DE PRODUTOS DE PETROLEO"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 491.57658339327736,
-			"desc": 9319.97,
+			"desc": "9319.97",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -423,7 +424,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 34.37471992395798,
-			"desc": 878.76,
+			"desc": "878.76",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -442,7 +443,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 7.403925929771099,
-			"desc": 235,
+			"desc": "235.00",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -455,7 +456,7 @@
 			"id": "IVAN BORGES",
 			"name": "IVAN BORGES",
 			"val": 555.122709769298,
-			"desc": 10400,
+			"desc": "10400.00",
 			"group": "IVAN BORGES"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "WANE DA PAIXAO NUNES 01936893240",
 			"name": "WANE DA PAIXAO NUNES 01936893240",
 			"val": 367.67420834458966,
-			"desc": 7176.1,
+			"desc": "7176.10",
 			"group": "WANE DA PAIXAO NUNES 01936893240"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 17.647063804032076,
-			"desc": 493.1600000000001,
+			"desc": "493.16",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 12.520774245786086,
-			"desc": 367.35,
+			"desc": "367.35",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -597,7 +598,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.068050091164057,
-			"desc": 279.04,
+			"desc": "279.04",
 			"group": "RAMAL"
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "WEVERSON SARMENTO DA PAIXÃO",
 			"name": "WEVERSON SARMENTO DA PAIXÃO",
 			"val": 3034.715502813235,
-			"desc": 48720,
+			"desc": "48720.00",
 			"group": "WEVERSON SARMENTO DA PAIXÃO"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "JET LOCADORA E SERVICOS EIRELI",
 			"name": "JET LOCADORA E SERVICOS EIRELI",
 			"val": 590.7094997451729,
-			"desc": 11000,
+			"desc": "11000.00",
 			"group": "JET LOCADORA E SERVICOS EIRELI"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.3865458546251452,
-			"desc": 58.94,
+			"desc": "58.94",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME",
 			"name": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME",
 			"val": 1915.6203884367471,
-			"desc": 32000,
+			"desc": "32000.00",
 			"group": "PEDRO HENRIQUE MAGALHAES DUARTE HACKBART - ME"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "JET TRANSPORTES LTDA-ME",
 			"name": "JET TRANSPORTES LTDA-ME",
 			"val": 1269.4189994903459,
-			"desc": 22000,
+			"desc": "22000.00",
 			"group": "JET TRANSPORTES LTDA-ME"
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "CENTRAIS ELETRICAS DO PARÁ",
 			"name": "CENTRAIS ELETRICAS DO PARÁ",
 			"val": 16.02695822010396,
-			"desc": 453.95,
+			"desc": "453.95",
 			"group": "CENTRAIS ELETRICAS DO PARÁ"
 		},
 		{

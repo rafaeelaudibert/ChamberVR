@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "JOENIA WAPICHANA"
+			"name": "JOENIA WAPICHANA",
+			"desc": "91993.15"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "M. L P COSTA EPP",
 			"name": "M. L P COSTA EPP",
 			"val": 31.36635306427026,
-			"desc": 811.4000000000001,
+			"desc": "811.40",
 			"group": "M. L P COSTA EPP"
 		},
 		{
@@ -42,7 +43,7 @@
 			"id": "HOTEL VALE VERDE LTDA",
 			"name": "HOTEL VALE VERDE LTDA",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "HOTEL VALE VERDE LTDA"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "CIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 4.773792340145281,
-			"desc": 162.5,
+			"desc": "162.50",
 			"group": "CIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -74,7 +75,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 0.39242998244008215,
-			"desc": 22,
+			"desc": "22.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -87,7 +88,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 83.3041642684585,
-			"desc": 1910.6699999999998,
+			"desc": "1910.67",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -196,7 +197,7 @@
 			"id": "M L P COSTA",
 			"name": "M L P COSTA",
 			"val": 38.95162072089008,
-			"desc": 980,
+			"desc": "980.00",
 			"group": "M L P COSTA"
 		},
 		{
@@ -209,7 +210,7 @@
 			"id": "KAMIKIA PENTOTXI TRUMAI KISEDJE 02265607169",
 			"name": "KAMIKIA PENTOTXI TRUMAI KISEDJE 02265607169",
 			"val": 28.65224035614973,
-			"desc": 750,
+			"desc": "750.00",
 			"group": "KAMIKIA PENTOTXI TRUMAI KISEDJE 02265607169"
 		},
 		{
@@ -222,7 +223,7 @@
 			"id": "INDUSTRIA E COMERCIO IORIS LTDA.",
 			"name": "INDUSTRIA E COMERCIO IORIS LTDA.",
 			"val": 70.54245204027897,
-			"desc": 1650,
+			"desc": "1650.00",
 			"group": "INDUSTRIA E COMERCIO IORIS LTDA."
 		},
 		{
@@ -235,7 +236,7 @@
 			"id": "PINHEIROS HOTEL",
 			"name": "PINHEIROS HOTEL",
 			"val": 5.486444961683978,
-			"desc": 182.58,
+			"desc": "182.58",
 			"group": "PINHEIROS HOTEL"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1102.454948019426,
-			"desc": 19354.39,
+			"desc": "19354.39",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "AUTO POSTO CAPITAL LTDA",
 			"name": "AUTO POSTO CAPITAL LTDA",
 			"val": 473.8577113362029,
-			"desc": 9016.67,
+			"desc": "9016.67",
 			"group": "AUTO POSTO CAPITAL LTDA"
 		},
 		{
@@ -370,7 +371,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.8753754245709569,
-			"desc": 40.88,
+			"desc": "40.88",
 			"group": "RAMAL"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "COPY NET",
 			"name": "COPY NET",
 			"val": 12.826120178074865,
-			"desc": 375,
+			"desc": "375.00",
 			"group": "COPY NET"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "CENTRAL PARK RS SERVICOS GRAFICOS EIRELI ME",
 			"name": "CENTRAL PARK RS SERVICOS GRAFICOS EIRELI ME",
 			"val": 17.353982569393533,
-			"desc": 486.1,
+			"desc": "486.10",
 			"group": "CENTRAL PARK RS SERVICOS GRAFICOS EIRELI ME"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "COMPANHIA DE AGUAS E ESGOTOS DE RORAIMA CAER",
 			"name": "COMPANHIA DE AGUAS E ESGOTOS DE RORAIMA CAER",
 			"val": 17.225064617531316,
-			"desc": 482.98999999999995,
+			"desc": "482.99",
 			"group": "COMPANHIA DE AGUAS E ESGOTOS DE RORAIMA CAER"
 		},
 		{
@@ -482,7 +483,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 172.18130358566845,
-			"desc": 3638.88,
+			"desc": "3638.88",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -507,7 +508,7 @@
 			"id": "ELETROBRAS DISTRIBUIÇÃO RORAIMA",
 			"name": "ELETROBRAS DISTRIBUIÇÃO RORAIMA",
 			"val": 83.0820288298207,
-			"desc": 1906.17,
+			"desc": "1906.17",
 			"group": "ELETROBRAS DISTRIBUIÇÃO RORAIMA"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 25.463356559841092,
-			"desc": 677,
+			"desc": "677.00",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -564,7 +565,7 @@
 			"id": "RORAIMA PETRÓLEO LTDA.",
 			"name": "RORAIMA PETRÓLEO LTDA.",
 			"val": 7.106506026460151,
-			"desc": 227,
+			"desc": "227.00",
 			"group": "RORAIMA PETRÓLEO LTDA."
 		},
 		{
@@ -577,7 +578,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 1447.8059959740647,
-			"desc": 24795,
+			"desc": "24795.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -620,7 +621,7 @@
 			"id": "GRAFICA E EDITORA MOVIMENTO LTDA",
 			"name": "GRAFICA E EDITORA MOVIMENTO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "GRAFICA E EDITORA MOVIMENTO LTDA"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "Osvaldo Saboia - ME",
 			"name": "Osvaldo Saboia - ME",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "Osvaldo Saboia - ME"
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "Grafica e Editora Movimento Ltda",
 			"name": "Grafica e Editora Movimento Ltda",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "Grafica e Editora Movimento Ltda"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 29.632984141875266,
-			"desc": 772.26,
+			"desc": "772.26",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -690,7 +691,7 @@
 			"id": "NETFAST TELECOMUNICACOES E MULTIMIDIA LTDA",
 			"name": "NETFAST TELECOMUNICACOES E MULTIMIDIA LTDA",
 			"val": 33.56332880772852,
-			"desc": 860.6600000000001,
+			"desc": "860.66",
 			"group": "NETFAST TELECOMUNICACOES E MULTIMIDIA LTDA"
 		},
 		{
@@ -721,7 +722,7 @@
 			"id": "Pousada Uiramutã - S.P. de Souza - ME",
 			"name": "Pousada Uiramutã - S.P. de Souza - ME",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "Pousada Uiramutã - S.P. de Souza - ME"
 		},
 		{
@@ -734,7 +735,7 @@
 			"id": "EDILENE ROSARIO ALBUQUERQUE 99284715172",
 			"name": "EDILENE ROSARIO ALBUQUERQUE 99284715172",
 			"val": 0.9031760095848894,
-			"desc": 41.9,
+			"desc": "41.90",
 			"group": "EDILENE ROSARIO ALBUQUERQUE 99284715172"
 		},
 		{
@@ -747,7 +748,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -766,7 +767,7 @@
 			"id": "BV COMBUSTIVEIS LTDA",
 			"name": "BV COMBUSTIVEIS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "BV COMBUSTIVEIS LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "Teresa C.O. Delcaro ME",
 			"name": "Teresa C.O. Delcaro ME",
 			"val": 5.265685883272863,
-			"desc": 176.4,
+			"desc": "176.40",
 			"group": "Teresa C.O. Delcaro ME"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "Boa Vista comercio varejista de combustível LTDA",
 			"name": "Boa Vista comercio varejista de combustível LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "Boa Vista comercio varejista de combustível LTDA"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "GOMES E GONTIJO LTDA",
 			"name": "GOMES E GONTIJO LTDA",
 			"val": 4.826554115029463,
-			"desc": 164,
+			"desc": "164.00",
 			"group": "GOMES E GONTIJO LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "BLUE TREE HOTEL E RESORTS DO BRASIL",
 			"name": "BLUE TREE HOTEL E RESORTS DO BRASIL",
 			"val": 15.782780020327227,
-			"desc": 448,
+			"desc": "448.00",
 			"group": "BLUE TREE HOTEL E RESORTS DO BRASIL"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.515776790659803,
-			"desc": 63.32,
+			"desc": "63.32",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "OSMAR M. SANTOS",
 			"name": "OSMAR M. SANTOS",
 			"val": 15.864806144190668,
-			"desc": 450,
+			"desc": "450.00",
 			"group": "OSMAR M. SANTOS"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "M. L. P. COSTA EPP",
 			"name": "M. L. P. COSTA EPP",
 			"val": 37.525310947204346,
-			"desc": 948.6,
+			"desc": "948.60",
 			"group": "M. L. P. COSTA EPP"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "AutoPosto AmazonMinas LTDA EPP",
 			"name": "AutoPosto AmazonMinas LTDA EPP",
 			"val": 2.6252252215515255,
-			"desc": 99,
+			"desc": "99.00",
 			"group": "AutoPosto AmazonMinas LTDA EPP"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 41.45373531493868,
-			"desc": 1034.78,
+			"desc": "1034.78",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{

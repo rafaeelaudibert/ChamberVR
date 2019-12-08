@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "TÚLIO GADÊLHA"
+			"name": "TÚLIO GADÊLHA",
+			"desc": "105630.22"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 823.7172794738506,
-			"desc": 14858.85,
+			"desc": "14858.85",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -156,7 +157,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1538.6147483849707,
-			"desc": 26206.759999999995,
+			"desc": "26206.76",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "TIM",
 			"name": "TIM",
 			"val": 3.99205561242791,
-			"desc": 139.99,
+			"desc": "139.99",
 			"group": "TIM"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "F. M. COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"name": "F. M. COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "F. M. COMERCIO E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -327,7 +328,7 @@
 			"id": "SINPETAXI",
 			"name": "SINPETAXI",
 			"val": 3.415717136626906,
-			"desc": 123,
+			"desc": "123.00",
 			"group": "SINPETAXI"
 		},
 		{
@@ -358,7 +359,7 @@
 			"id": "COOPERTAXI 202 NORTE",
 			"name": "COOPERTAXI 202 NORTE",
 			"val": 0.30023460010384645,
-			"desc": 18,
+			"desc": "18.00",
 			"group": "COOPERTAXI 202 NORTE"
 		},
 		{
@@ -371,7 +372,7 @@
 			"id": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"name": "EDVALDO FRANCISCO DE OLIVEIRA",
 			"val": 33.87866108273009,
-			"desc": 867.6999999999999,
+			"desc": "867.70",
 			"group": "EDVALDO FRANCISCO DE OLIVEIRA"
 		},
 		{
@@ -396,7 +397,7 @@
 			"id": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"name": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
 			"val": 1.3467952519542157,
-			"desc": 57.58,
+			"desc": "57.58",
 			"group": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL"
 		},
 		{
@@ -409,7 +410,7 @@
 			"id": "COMPESA",
 			"name": "COMPESA",
 			"val": 13.039397918172803,
-			"desc": 380.33,
+			"desc": "380.33",
 			"group": "COMPESA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "JOSE NIVALDO DE CASTRO",
 			"name": "JOSE NIVALDO DE CASTRO",
 			"val": 650.4358456983957,
-			"desc": 12000,
+			"desc": "12000.00",
 			"group": "JOSE NIVALDO DE CASTRO"
 		},
 		{
@@ -441,7 +442,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.922955004496377,
-			"desc": 301.25,
+			"desc": "301.25",
 			"group": "RAMAL"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 69.33336216518332,
-			"desc": 1625.06,
+			"desc": "1625.06",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "Voz Assessoria de comunicação Ltda EPP",
 			"name": "Voz Assessoria de comunicação Ltda EPP",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "Voz Assessoria de comunicação Ltda EPP"
 		},
 		{
@@ -498,7 +499,7 @@
 			"id": "Rádio Táxi Alvorada Ltda",
 			"name": "Rádio Táxi Alvorada Ltda",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "Rádio Táxi Alvorada Ltda"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "CAVALCANTE RABELO LTDA",
 			"name": "CAVALCANTE RABELO LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "CAVALCANTE RABELO LTDA"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "LED TECNOLOGIA LTDA ME",
 			"name": "LED TECNOLOGIA LTDA ME",
 			"val": 159.6555502898447,
-			"desc": 3402.08,
+			"desc": "3402.08",
 			"group": "LED TECNOLOGIA LTDA ME"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "John Richard Locação de móveis Ltda",
 			"name": "John Richard Locação de móveis Ltda",
 			"val": 57.19439307855219,
-			"desc": 1371.96,
+			"desc": "1371.96",
 			"group": "John Richard Locação de móveis Ltda"
 		},
 		{
@@ -574,7 +575,7 @@
 			"id": "Companhia Energética de Pernambuco",
 			"name": "Companhia Energética de Pernambuco",
 			"val": 32.57070016553493,
-			"desc": 838.45,
+			"desc": "838.45",
 			"group": "Companhia Energética de Pernambuco"
 		},
 		{
@@ -587,7 +588,7 @@
 			"id": "CG REFRIGERACOES LTDA",
 			"name": "CG REFRIGERACOES LTDA",
 			"val": 48.282063734712565,
-			"desc": 1182.5,
+			"desc": "1182.50",
 			"group": "CG REFRIGERACOES LTDA"
 		},
 		{
@@ -600,7 +601,7 @@
 			"id": "SAFETEC INFORMATICA LTDA",
 			"name": "SAFETEC INFORMATICA LTDA",
 			"val": 285.7211480789892,
-			"desc": 5722.47,
+			"desc": "5722.47",
 			"group": "SAFETEC INFORMATICA LTDA"
 		},
 		{
@@ -637,7 +638,7 @@
 			"id": "POSTO JOCKEY COMERCIO VAREJISTA DE COMBUSTIVEIS LT",
 			"name": "POSTO JOCKEY COMERCIO VAREJISTA DE COMBUSTIVEIS LT",
 			"val": 4.407435185570845,
-			"desc": 152.02,
+			"desc": "152.02",
 			"group": "POSTO JOCKEY COMERCIO VAREJISTA DE COMBUSTIVEIS LT"
 		},
 		{
@@ -650,7 +651,7 @@
 			"id": "FLEISCHMAN ASSESSORIA IMOBILIARIA",
 			"name": "FLEISCHMAN ASSESSORIA IMOBILIARIA",
 			"val": 968.7689602984412,
-			"desc": 17212,
+			"desc": "17212.00",
 			"group": "FLEISCHMAN ASSESSORIA IMOBILIARIA"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"name": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
 			"val": 90.3111056481027,
-			"desc": 2052,
+			"desc": "2052.00",
 			"group": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "LOJAS AMERICANAS S/A",
 			"name": "LOJAS AMERICANAS S/A",
 			"val": 2.143745028385264,
-			"desc": 83.87,
+			"desc": "83.87",
 			"group": "LOJAS AMERICANAS S/A"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 19.229333790696682,
-			"desc": 531.04,
+			"desc": "531.04",
 			"group": "Claro S.A"
 		},
 		{
@@ -726,7 +727,7 @@
 			"id": "PETROVEL- PETROLEO VELOSO LTDA",
 			"name": "PETROVEL- PETROLEO VELOSO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "PETROVEL- PETROLEO VELOSO LTDA"
 		},
 		{
@@ -739,7 +740,7 @@
 			"id": "SVC HOTEIS LTDA",
 			"name": "SVC HOTEIS LTDA",
 			"val": 22.533726946019826,
-			"desc": 609,
+			"desc": "609.00",
 			"group": "SVC HOTEIS LTDA"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "LOCALIZA REN A CAR S.A",
 			"name": "LOCALIZA REN A CAR S.A",
 			"val": 6.356322218208206,
-			"desc": 206.62,
+			"desc": "206.62",
 			"group": "LOCALIZA REN A CAR S.A"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"name": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL",
 			"val": 0.797684982043425,
-			"desc": 38,
+			"desc": "38.00",
 			"group": "COOPERATIVA DOS TAXISTAS AUT. DO DIST. FEDERAL"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "Arruda - Cultura e comunicação",
 			"name": "Arruda - Cultura e comunicação",
 			"val": 443.8104022810225,
-			"desc": 8500,
+			"desc": "8500.00",
 			"group": "Arruda - Cultura e comunicação"
 		},
 		{
@@ -797,7 +798,7 @@
 			"id": "TUTUM DESIGN E PUBLICIDADE EIRELI",
 			"name": "TUTUM DESIGN E PUBLICIDADE EIRELI",
 			"val": 102.74024694165198,
-			"desc": 2300,
+			"desc": "2300.00",
 			"group": "TUTUM DESIGN E PUBLICIDADE EIRELI"
 		},
 		{
@@ -810,7 +811,7 @@
 			"id": "EDITORA JORNAL DO COMMERCIO S/A",
 			"name": "EDITORA JORNAL DO COMMERCIO S/A",
 			"val": 3.2752642155140497,
-			"desc": 118.8,
+			"desc": "118.80",
 			"group": "EDITORA JORNAL DO COMMERCIO S/A"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"name": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL",
 			"val": 1.329898923229561,
-			"desc": 57,
+			"desc": "57.00",
 			"group": "SINDICATO DOS PERMISSIONARIOS DE TAXIS E MOTORISTAS AUXILIARES DO DISTRITO FEDERAL"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "COOPERATIVA DE SERVICO DE TAXI COMUM DO AEROPORTO - COOPSTAR",
 			"name": "COOPERATIVA DE SERVICO DE TAXI COMUM DO AEROPORTO - COOPSTAR",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "COOPERATIVA DE SERVICO DE TAXI COMUM DO AEROPORTO - COOPSTAR"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "BSBRIO COMERCIO DE ARMARINHOS E PERFUMARIA LTDA",
 			"name": "BSBRIO COMERCIO DE ARMARINHOS E PERFUMARIA LTDA",
 			"val": 4.126087490526822,
-			"desc": 143.89,
+			"desc": "143.89",
 			"group": "BSBRIO COMERCIO DE ARMARINHOS E PERFUMARIA LTDA"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "RPM REVENDEDORA DE PETROLEO MARACAJA",
 			"name": "RPM REVENDEDORA DE PETROLEO MARACAJA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "RPM REVENDEDORA DE PETROLEO MARACAJA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "VINICIUS CARVALHO"
+			"name": "VINICIUS CARVALHO",
+			"desc": "47359.32"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO RETIRO DAS CARAVELAS LTDA",
 			"name": "AUTO POSTO RETIRO DAS CARAVELAS LTDA",
 			"val": 2.709045503716717,
-			"desc": 101.59,
+			"desc": "101.59",
 			"group": "AUTO POSTO RETIRO DAS CARAVELAS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 198.12919975345352,
-			"desc": 4124.28,
+			"desc": "4124.28",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "MASTER IMOVEIS LTDA",
 			"name": "MASTER IMOVEIS LTDA",
 			"val": 111.67296617659613,
-			"desc": 2476.34,
+			"desc": "2476.34",
 			"group": "MASTER IMOVEIS LTDA"
 		},
 		{
@@ -98,7 +99,7 @@
 			"id": "ALTERNATIVA AUTO POSTO LTDA",
 			"name": "ALTERNATIVA AUTO POSTO LTDA",
 			"val": 15.667620421050326,
-			"desc": 445.19,
+			"desc": "445.19",
 			"group": "ALTERNATIVA AUTO POSTO LTDA"
 		},
 		{
@@ -123,7 +124,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 21.008685196006503,
-			"desc": 573.2,
+			"desc": "573.20",
 			"group": "CLARO S.A."
 		},
 		{
@@ -142,7 +143,7 @@
 			"id": "AUTO POSTO PONCE EIRELI",
 			"name": "AUTO POSTO PONCE EIRELI",
 			"val": 5.601590082602987,
-			"desc": 185.79,
+			"desc": "185.79",
 			"group": "AUTO POSTO PONCE EIRELI"
 		},
 		{
@@ -155,7 +156,7 @@
 			"id": "SUELI GUILHERME COSME DOS SANTOS ME",
 			"name": "SUELI GUILHERME COSME DOS SANTOS ME",
 			"val": 12.871700262292972,
-			"desc": 376.14,
+			"desc": "376.14",
 			"group": "SUELI GUILHERME COSME DOS SANTOS ME"
 		},
 		{
@@ -168,7 +169,7 @@
 			"id": "POSTO CAIUBI LTDA",
 			"name": "POSTO CAIUBI LTDA",
 			"val": 5.933355645190224,
-			"desc": 194.99,
+			"desc": "194.99",
 			"group": "POSTO CAIUBI LTDA"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "AUTO POSTO ALAMEDA LTDA",
 			"name": "AUTO POSTO ALAMEDA LTDA",
 			"val": 1.3301899516935551,
-			"desc": 57.01,
+			"desc": "57.01",
 			"group": "AUTO POSTO ALAMEDA LTDA"
 		},
 		{
@@ -194,7 +195,7 @@
 			"id": "PREFEITURA MUNICIPAL DE OSASCO",
 			"name": "PREFEITURA MUNICIPAL DE OSASCO",
 			"val": 184.76183725255206,
-			"desc": 3875.04,
+			"desc": "3875.04",
 			"group": "PREFEITURA MUNICIPAL DE OSASCO"
 		},
 		{
@@ -225,7 +226,7 @@
 			"id": "LAPAPEL COM DE PAPEIS LT",
 			"name": "LAPAPEL COM DE PAPEIS LT",
 			"val": 1.4000321077570248,
-			"desc": 59.4,
+			"desc": "59.40",
 			"group": "LAPAPEL COM DE PAPEIS LT"
 		},
 		{
@@ -238,7 +239,7 @@
 			"id": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"name": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
 			"val": 12.747002337063902,
-			"desc": 373.02,
+			"desc": "373.02",
 			"group": "CENTRO DE SERVS FRANGO ASSADO NORTE LT"
 		},
 		{
@@ -257,7 +258,7 @@
 			"id": "A V G COMERCIAL, LOCACAO E SERVICOS LTDA",
 			"name": "A V G COMERCIAL, LOCACAO E SERVICOS LTDA",
 			"val": 62.20402227338828,
-			"desc": 1477.04,
+			"desc": "1477.04",
 			"group": "A V G COMERCIAL, LOCACAO E SERVICOS LTDA"
 		},
 		{
@@ -270,7 +271,7 @@
 			"id": "REDE LK DE POSTOS LTDA",
 			"name": "REDE LK DE POSTOS LTDA",
 			"val": 54.25071374785101,
-			"desc": 1309.76,
+			"desc": "1309.76",
 			"group": "REDE LK DE POSTOS LTDA"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "CENTRO AUTOMOTIVO THOMAS EDISON LTDA",
 			"name": "CENTRO AUTOMOTIVO THOMAS EDISON LTDA",
 			"val": 4.417865867522319,
-			"desc": 152.32,
+			"desc": "152.32",
 			"group": "CENTRO AUTOMOTIVO THOMAS EDISON LTDA"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 443.51527369496534,
-			"desc": 8494.91,
+			"desc": "8494.91",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "AUTO POSTO BR CAROLINA FLORENCE LTDA",
 			"name": "AUTO POSTO BR CAROLINA FLORENCE LTDA",
 			"val": 2.6261938939790115,
-			"desc": 99.03,
+			"desc": "99.03",
 			"group": "AUTO POSTO BR CAROLINA FLORENCE LTDA"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CAMPEAO 28 POSTO DE SERVICOS LTDA ME",
 			"name": "CAMPEAO 28 POSTO DE SERVICOS LTDA ME",
 			"val": 5.396993387337728,
-			"desc": 180.08,
+			"desc": "180.08",
 			"group": "CAMPEAO 28 POSTO DE SERVICOS LTDA ME"
 		},
 		{
@@ -425,7 +426,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 10.672380814413264,
-			"desc": 320.52000000000004,
+			"desc": "320.52",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -456,7 +457,7 @@
 			"id": "JLV LIVRARIA LTDA",
 			"name": "JLV LIVRARIA LTDA",
 			"val": 0.5232122556635624,
-			"desc": 27.39,
+			"desc": "27.39",
 			"group": "JLV LIVRARIA LTDA"
 		},
 		{
@@ -469,7 +470,7 @@
 			"id": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"name": "COMPANHIA PAULISTA DE FORÇA E LUZ",
 			"val": 3.5077938565815585,
-			"desc": 125.74000000000001,
+			"desc": "125.74",
 			"group": "COMPANHIA PAULISTA DE FORÇA E LUZ"
 		},
 		{
@@ -488,7 +489,7 @@
 			"id": "ALPHABESSAS EMP. IMOBILIÁRIO LTDA",
 			"name": "ALPHABESSAS EMP. IMOBILIÁRIO LTDA",
 			"val": 102.48908462198597,
-			"desc": 2295.02,
+			"desc": "2295.02",
 			"group": "ALPHABESSAS EMP. IMOBILIÁRIO LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"name": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
 			"val": 2.160360161273572,
-			"desc": 84.4,
+			"desc": "84.40",
 			"group": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "DEPARTAMENTO DE AGUA E ESGOTO DE BAURU",
 			"name": "DEPARTAMENTO DE AGUA E ESGOTO DE BAURU",
 			"val": 3.795593478494731,
-			"desc": 134.24,
+			"desc": "134.24",
 			"group": "DEPARTAMENTO DE AGUA E ESGOTO DE BAURU"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "MATHEVI LIVRARIA E PAPELARIA LTDA",
 			"name": "MATHEVI LIVRARIA E PAPELARIA LTDA",
 			"val": 7.9544951486276,
-			"desc": 249.7,
+			"desc": "249.70",
 			"group": "MATHEVI LIVRARIA E PAPELARIA LTDA"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 46.291589904227045,
-			"desc": 1139.69,
+			"desc": "1139.69",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "ACHILLES DOS REIS JUNIOR",
 			"name": "ACHILLES DOS REIS JUNIOR",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "ACHILLES DOS REIS JUNIOR"
 		},
 		{
@@ -602,7 +603,7 @@
 			"id": "LUSAN COM DE COMBUSTIVEIS LT",
 			"name": "LUSAN COM DE COMBUSTIVEIS LT",
 			"val": 13.348269850713137,
-			"desc": 388.03000000000003,
+			"desc": "388.03",
 			"group": "LUSAN COM DE COMBUSTIVEIS LT"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "H.B HOTELS - ADM",
 			"name": "H.B HOTELS - ADM",
 			"val": 33.39281154691518,
-			"desc": 856.8499999999999,
+			"desc": "856.85",
 			"group": "H.B HOTELS - ADM"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"name": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
 			"val": 5.153285924103249,
-			"desc": 173.24,
+			"desc": "173.24",
 			"group": "COMPANHIA BRASILEIRA DE DISTRIBUICAO"
 		},
 		{
@@ -665,7 +666,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 11.620598007705079,
-			"desc": 344.65999999999997,
+			"desc": "344.66",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -684,7 +685,7 @@
 			"id": "AUTO POSTO BAURU LTDA",
 			"name": "AUTO POSTO BAURU LTDA",
 			"val": 34.5296228364896,
-			"desc": 882.21,
+			"desc": "882.21",
 			"group": "AUTO POSTO BAURU LTDA"
 		},
 		{
@@ -715,7 +716,7 @@
 			"id": "AUTO POSTO VIA MINEIRA LTDA",
 			"name": "AUTO POSTO VIA MINEIRA LTDA",
 			"val": 5.180288673110715,
-			"desc": 174,
+			"desc": "174.00",
 			"group": "AUTO POSTO VIA MINEIRA LTDA"
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S.A",
 			"name": "HOTELARIA ACCOR BRASIL S.A",
 			"val": 9.578045721352957,
-			"desc": 292.32,
+			"desc": "292.32",
 			"group": "HOTELARIA ACCOR BRASIL S.A"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "CHRONOS-RENT SERVIÇOS ADMINISTRATIVOS",
 			"name": "CHRONOS-RENT SERVIÇOS ADMINISTRATIVOS",
 			"val": 438.0154333817971,
-			"desc": 8400,
+			"desc": "8400.00",
 			"group": "CHRONOS-RENT SERVIÇOS ADMINISTRATIVOS"
 		},
 		{
@@ -760,7 +761,7 @@
 			"id": "AUTO POSTO AVENIDA ESMERALDA LTDA",
 			"name": "AUTO POSTO AVENIDA ESMERALDA LTDA",
 			"val": 7.965784284662087,
-			"desc": 250,
+			"desc": "250.00",
 			"group": "AUTO POSTO AVENIDA ESMERALDA LTDA"
 		},
 		{
@@ -779,7 +780,7 @@
 			"id": "CARREFOUR COM. E IND. LTDA",
 			"name": "CARREFOUR COM. E IND. LTDA",
 			"val": 5.4986256961871085,
-			"desc": 182.92,
+			"desc": "182.92",
 			"group": "CARREFOUR COM. E IND. LTDA"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "COMERCIO DERIVADOS DE PETROLEO PETROUNIVERSITARIO",
 			"name": "COMERCIO DERIVADOS DE PETROLEO PETROUNIVERSITARIO",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "COMERCIO DERIVADOS DE PETROLEO PETROUNIVERSITARIO"
 		},
 		{
@@ -805,7 +806,7 @@
 			"id": "AUTO POSTO CRISTAL DE MARILIA LTDA",
 			"name": "AUTO POSTO CRISTAL DE MARILIA LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO CRISTAL DE MARILIA LTDA"
 		},
 		{
@@ -818,7 +819,7 @@
 			"id": "AUTO POSTO EXTRA PETRO LIMITADA",
 			"name": "AUTO POSTO EXTRA PETRO LIMITADA",
 			"val": 4.861772661402239,
-			"desc": 165,
+			"desc": "165.00",
 			"group": "AUTO POSTO EXTRA PETRO LIMITADA"
 		},
 		{
@@ -831,7 +832,7 @@
 			"id": "MOVIDA LOCAÇÃO DE VEÍCULOS S.A.",
 			"name": "MOVIDA LOCAÇÃO DE VEÍCULOS S.A.",
 			"val": 8.33455525496308,
-			"desc": 259.77,
+			"desc": "259.77",
 			"group": "MOVIDA LOCAÇÃO DE VEÍCULOS S.A."
 		},
 		{
@@ -844,7 +845,7 @@
 			"id": "EDIFICIO CHRONOS CORPORATE OSASCO",
 			"name": "EDIFICIO CHRONOS CORPORATE OSASCO",
 			"val": 12.650385151057796,
-			"desc": 370.6,
+			"desc": "370.60",
 			"group": "EDIFICIO CHRONOS CORPORATE OSASCO"
 		},
 		{
@@ -857,7 +858,7 @@
 			"id": "POSTO RODOSERV LT",
 			"name": "POSTO RODOSERV LT",
 			"val": 5.970294815453836,
-			"desc": 196.01,
+			"desc": "196.01",
 			"group": "POSTO RODOSERV LT"
 		},
 		{
@@ -870,7 +871,7 @@
 			"id": "F M J A COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "F M J A COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 4.618438535539272,
-			"desc": 158.07,
+			"desc": "158.07",
 			"group": "F M J A COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -883,7 +884,7 @@
 			"id": "VITTORIO PACCHIAROTTI e CIA LT",
 			"name": "VITTORIO PACCHIAROTTI e CIA LT",
 			"val": 7.32942148681779,
-			"desc": 233,
+			"desc": "233.00",
 			"group": "VITTORIO PACCHIAROTTI e CIA LT"
 		},
 		{
@@ -896,7 +897,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -909,7 +910,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.2636417049819411,
-			"desc": 16.35,
+			"desc": "16.35",
 			"group": "RAMAL"
 		},
 		{
@@ -922,7 +923,7 @@
 			"id": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA",
 			"val": 1.77724290922438,
-			"desc": 72.01,
+			"desc": "72.01",
 			"group": "AUTO SHOPPING QL 06 COM. DE DER. DE PETROLEO LTDA"
 		},
 		{
@@ -935,7 +936,7 @@
 			"id": "QUELUZ AUTO POSTO LTDA",
 			"name": "QUELUZ AUTO POSTO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "QUELUZ AUTO POSTO LTDA"
 		},
 		{
@@ -948,7 +949,7 @@
 			"id": "AUTO POSTO TURMALINIS LTDA",
 			"name": "AUTO POSTO TURMALINIS LTDA",
 			"val": 1.7507807455563442,
-			"desc": 71.14,
+			"desc": "71.14",
 			"group": "AUTO POSTO TURMALINIS LTDA"
 		},
 		{
@@ -961,7 +962,7 @@
 			"id": "EXPRESSO LELEY LTDA",
 			"name": "EXPRESSO LELEY LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "EXPRESSO LELEY LTDA"
 		},
 		{
@@ -974,7 +975,7 @@
 			"id": "AUTO POSTO GALVEZ LTDA",
 			"name": "AUTO POSTO GALVEZ LTDA",
 			"val": 3.4832284838123164,
-			"desc": 125.01,
+			"desc": "125.01",
 			"group": "AUTO POSTO GALVEZ LTDA"
 		},
 		{

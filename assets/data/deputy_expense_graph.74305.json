@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ROBERTO PESSOA"
+			"name": "ROBERTO PESSOA",
+			"desc": "148911.03"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1034.1612244985643,
-			"desc": 18262.85,
+			"desc": "18262.85",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -198,7 +199,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.18219280948873626,
-			"desc": 12.5,
+			"desc": "12.50",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "REDE PLUS BRASIL DE COMUNICACAO LTDA. - ME",
 			"name": "REDE PLUS BRASIL DE COMUNICACAO LTDA. - ME",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "REDE PLUS BRASIL DE COMUNICACAO LTDA. - ME"
 		},
 		{
@@ -236,7 +237,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 208.5337972645024,
-			"desc": 4317.16,
+			"desc": "4317.16",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -309,7 +310,7 @@
 			"id": "PAPAGAIO COM. DE DERIV DE PETROLEO LTDA",
 			"name": "PAPAGAIO COM. DE DERIV DE PETROLEO LTDA",
 			"val": 768.6936565064051,
-			"desc": 13957.239999999998,
+			"desc": "13957.24",
 			"group": "PAPAGAIO COM. DE DERIV DE PETROLEO LTDA"
 		},
 		{
@@ -346,7 +347,7 @@
 			"id": "JULIANA DE JESUS CANDEA - ME",
 			"name": "JULIANA DE JESUS CANDEA - ME",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "JULIANA DE JESUS CANDEA - ME"
 		},
 		{
@@ -359,7 +360,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 15.436791125633603,
-			"desc": 439.55,
+			"desc": "439.55",
 			"group": "RAMAL"
 		},
 		{
@@ -390,7 +391,7 @@
 			"id": "REDE INDEPENDENTE DE JORNAIS DO NORDESTE LTDA",
 			"name": "REDE INDEPENDENTE DE JORNAIS DO NORDESTE LTDA",
 			"val": 17.101229943568352,
-			"desc": 480,
+			"desc": "480.00",
 			"group": "REDE INDEPENDENTE DE JORNAIS DO NORDESTE LTDA"
 		},
 		{
@@ -403,7 +404,7 @@
 			"id": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"name": "SAO JOAO POSTOS DE ABAST E SERV. LTDA",
 			"val": 38.02884065490642,
-			"desc": 959.6999999999999,
+			"desc": "959.70",
 			"group": "SAO JOAO POSTOS DE ABAST E SERV. LTDA"
 		},
 		{
@@ -422,7 +423,7 @@
 			"id": "EDITORA VERDES MARES LTDA - CE",
 			"name": "EDITORA VERDES MARES LTDA - CE",
 			"val": 26.236909600672963,
-			"desc": 694.8,
+			"desc": "694.80",
 			"group": "EDITORA VERDES MARES LTDA - CE"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 43.693149220697975,
-			"desc": 1083.5,
+			"desc": "1083.50",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -472,7 +473,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 32.815751562768,
-			"desc": 843.94,
+			"desc": "843.94",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -485,7 +486,7 @@
 			"id": "MONT CAR",
 			"name": "MONT CAR",
 			"val": 869.1857246989471,
-			"desc": 15600,
+			"desc": "15600.00",
 			"group": "MONT CAR"
 		},
 		{
@@ -504,7 +505,7 @@
 			"id": "RADIO ARARIPE DE CEDRO LTDA",
 			"name": "RADIO ARARIPE DE CEDRO LTDA",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "RADIO ARARIPE DE CEDRO LTDA"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "JACOB MIGUEL MACHADO SOCEIDEDADE INDIVIDUAL DE ADVOCACIA",
 			"name": "JACOB MIGUEL MACHADO SOCEIDEDADE INDIVIDUAL DE ADVOCACIA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "JACOB MIGUEL MACHADO SOCEIDEDADE INDIVIDUAL DE ADVOCACIA"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 4.6709621663544025,
-			"desc": 159.57,
+			"desc": "159.57",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -573,7 +574,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 11.043545322804478,
-			"desc": 330,
+			"desc": "330.00",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -586,7 +587,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 68.45919128550351,
-			"desc": 1607,
+			"desc": "1607.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "F§F ASSESSORIA DE COMUNICAÇÃO LTD",
 			"name": "F§F ASSESSORIA DE COMUNICAÇÃO LTD",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "F§F ASSESSORIA DE COMUNICAÇÃO LTD"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "SAO JOAO POSTOS",
 			"name": "SAO JOAO POSTOS",
 			"val": 212.89053681140547,
-			"desc": 4397.65,
+			"desc": "4397.65",
 			"group": "SAO JOAO POSTOS"
 		},
 		{
@@ -661,7 +662,7 @@
 			"id": "JONAS DE MELO LOPES ME",
 			"name": "JONAS DE MELO LOPES ME",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "JONAS DE MELO LOPES ME"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 50.19115557858834,
-			"desc": 1223.38,
+			"desc": "1223.38",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 57.717644558840504,
-			"desc": 1382.98,
+			"desc": "1382.98",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "GAIAO SERVICOS LTDA ME",
 			"name": "GAIAO SERVICOS LTDA ME",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "GAIAO SERVICOS LTDA ME"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "MARIA ELBA BATISTA DE AQUINO",
 			"name": "MARIA ELBA BATISTA DE AQUINO",
 			"val": 138.60896142459893,
-			"desc": 3000,
+			"desc": "3000.00",
 			"group": "MARIA ELBA BATISTA DE AQUINO"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "RADIO DIFUSORA CRISTAL LTDA",
 			"name": "RADIO DIFUSORA CRISTAL LTDA",
 			"val": 191.4525485545934,
-			"desc": 4000,
+			"desc": "4000.00",
 			"group": "RADIO DIFUSORA CRISTAL LTDA"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 9.347953465348791,
-			"desc": 286.34000000000003,
+			"desc": "286.34",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "J R M BRASIL PUBLICIDADES - ME",
 			"name": "J R M BRASIL PUBLICIDADES - ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "J R M BRASIL PUBLICIDADES - ME"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 53.58245941537626,
-			"desc": 1295.59,
+			"desc": "1295.59",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "EXATA SOLUÇÕES EM IMPRESSÃO LTDA.",
 			"name": "EXATA SOLUÇÕES EM IMPRESSÃO LTDA.",
 			"val": 52.720289435486556,
-			"desc": 1277.28,
+			"desc": "1277.28",
 			"group": "EXATA SOLUÇÕES EM IMPRESSÃO LTDA."
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "FUNDAÇÃO JOÃO RICARDO SILVEIRA",
 			"name": "FUNDAÇÃO JOÃO RICARDO SILVEIRA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "FUNDAÇÃO JOÃO RICARDO SILVEIRA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "TITO"
+			"name": "TITO",
+			"desc": "71557.21"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "DS BURITI COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "DS BURITI COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 38.82237526856065,
-			"desc": 977.16,
+			"desc": "977.16",
 			"group": "DS BURITI COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -108,7 +109,7 @@
 			"id": "LUCMAR - COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "LUCMAR - COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 17.933233935249262,
-			"desc": 500.03999999999996,
+			"desc": "500.04",
 			"group": "LUCMAR - COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "Cia Aérea - PASSAREDO",
 			"name": "Cia Aérea - PASSAREDO",
 			"val": 23.61884943085214,
-			"desc": 634.3,
+			"desc": "634.30",
 			"group": "Cia Aérea - PASSAREDO"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.12813068653562767,
-			"desc": 9.75,
+			"desc": "9.75",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -171,7 +172,7 @@
 			"id": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 1.4182417290307612,
-			"desc": 60.02,
+			"desc": "60.02",
 			"group": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -184,7 +185,7 @@
 			"id": "M.A.S COM. DE DERIV. DE PETROLEO LTDA",
 			"name": "M.A.S COM. DE DERIV. DE PETROLEO LTDA",
 			"val": 59.09131821741717,
-			"desc": 1411.86,
+			"desc": "1411.86",
 			"group": "M.A.S COM. DE DERIV. DE PETROLEO LTDA"
 		},
 		{
@@ -233,7 +234,7 @@
 			"id": "AUREVIS COMERCIO DE COMBUSTIVEIS E TRANSPORTES LTDA ME",
 			"name": "AUREVIS COMERCIO DE COMBUSTIVEIS E TRANSPORTES LTDA ME",
 			"val": 2.664012870281785,
-			"desc": 100.2,
+			"desc": "100.20",
 			"group": "AUREVIS COMERCIO DE COMBUSTIVEIS E TRANSPORTES LTDA ME"
 		},
 		{
@@ -246,7 +247,7 @@
 			"id": "AUTO POSTO CENTER LTDA",
 			"name": "AUTO POSTO CENTER LTDA",
 			"val": 50.20566300160753,
-			"desc": 1223.6899999999998,
+			"desc": "1223.69",
 			"group": "AUTO POSTO CENTER LTDA"
 		},
 		{
@@ -301,7 +302,7 @@
 			"id": "ITABERABA COMERCIO DE COMBUSTIVEIS LTDA - ME",
 			"name": "ITABERABA COMERCIO DE COMBUSTIVEIS LTDA - ME",
 			"val": 6.7373946409423935,
-			"desc": 217.01,
+			"desc": "217.01",
 			"group": "ITABERABA COMERCIO DE COMBUSTIVEIS LTDA - ME"
 		},
 		{
@@ -314,7 +315,7 @@
 			"id": "AUTO POSTO IRMAOS SARAIVA DOIS COMER DEM",
 			"name": "AUTO POSTO IRMAOS SARAIVA DOIS COMER DEM",
 			"val": 57.23663313924323,
-			"desc": 1372.8500000000001,
+			"desc": "1372.85",
 			"group": "AUTO POSTO IRMAOS SARAIVA DOIS COMER DEM"
 		},
 		{
@@ -381,7 +382,7 @@
 			"id": "POSTO SERRA GE. COM. COMB LTDA",
 			"name": "POSTO SERRA GE. COM. COMB LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "POSTO SERRA GE. COM. COMB LTDA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "D S COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA EPP",
 			"name": "D S COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA EPP",
 			"val": 6.426153184540894,
-			"desc": 208.53,
+			"desc": "208.53",
 			"group": "D S COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA EPP"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.3538422907954412,
-			"desc": 20.35,
+			"desc": "20.35",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -432,7 +433,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 7.526325475118784,
-			"desc": 238.28000000000003,
+			"desc": "238.28",
 			"group": "RAMAL"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "TRINCHEIRA PLANEJ. E GESTÃO ESTRATE LTDA",
 			"name": "TRINCHEIRA PLANEJ. E GESTÃO ESTRATE LTDA",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "TRINCHEIRA PLANEJ. E GESTÃO ESTRATE LTDA"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "AUTO POSTO FORMULA 1 LTDA",
 			"name": "AUTO POSTO FORMULA 1 LTDA",
 			"val": 6.4272508137351965,
-			"desc": 208.56,
+			"desc": "208.56",
 			"group": "AUTO POSTO FORMULA 1 LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "BAHIA PIAUI COMBUSTIVEIS LTDA",
 			"name": "BAHIA PIAUI COMBUSTIVEIS LTDA",
 			"val": 3.149588488277317,
-			"desc": 115.02,
+			"desc": "115.02",
 			"group": "BAHIA PIAUI COMBUSTIVEIS LTDA"
 		},
 		{
@@ -496,7 +497,7 @@
 			"id": "PORTO BRASIL COMBUSTIVEIS LTDA",
 			"name": "PORTO BRASIL COMBUSTIVEIS LTDA",
 			"val": 23.858968968731812,
-			"desc": 639.88,
+			"desc": "639.88",
 			"group": "PORTO BRASIL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -521,7 +522,7 @@
 			"id": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEIS LTDA - PS AVENIDA",
 			"name": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEIS LTDA - PS AVENIDA",
 			"val": 31.977459418081494,
-			"desc": 825.14,
+			"desc": "825.14",
 			"group": "MARIANO JUNIOR COMERCIO DE COMBUSTIVEIS LTDA - PS AVENIDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 26.354477844739176,
-			"desc": 697.5,
+			"desc": "697.50",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "SANDRA REGINA COMBUSTIVEIS LTDA",
 			"name": "SANDRA REGINA COMBUSTIVEIS LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "SANDRA REGINA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "SABBA COMBUSTIVEIS LTDA",
 			"name": "SABBA COMBUSTIVEIS LTDA",
 			"val": 5.6659380888958175,
-			"desc": 187.58,
+			"desc": "187.58",
 			"group": "SABBA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "AUTO POSTO SANTA LUCIA LTDA",
 			"name": "AUTO POSTO SANTA LUCIA LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "AUTO POSTO SANTA LUCIA LTDA"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "RAPIDO FEDERAL VIAÇAO LTDA",
 			"name": "RAPIDO FEDERAL VIAÇAO LTDA",
 			"val": 20.248842957831847,
-			"desc": 555.25,
+			"desc": "555.25",
 			"group": "RAPIDO FEDERAL VIAÇAO LTDA"
 		},
 		{
@@ -647,7 +648,7 @@
 			"id": "RODRIGO AMARANTE SANTOS - RAS CRIAÇÕES E SERVIÇOS",
 			"name": "RODRIGO AMARANTE SANTOS - RAS CRIAÇÕES E SERVIÇOS",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "RODRIGO AMARANTE SANTOS - RAS CRIAÇÕES E SERVIÇOS"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "POSTO ROSARIO LTDA",
 			"name": "POSTO ROSARIO LTDA",
 			"val": 16.2695289238311,
-			"desc": 459.84999999999997,
+			"desc": "459.85",
 			"group": "POSTO ROSARIO LTDA"
 		},
 		{
@@ -691,7 +692,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -704,7 +705,7 @@
 			"id": "Kandango Transporte e Turismo Ltda EPP",
 			"name": "Kandango Transporte e Turismo Ltda EPP",
 			"val": 5.572504360900863,
-			"desc": 184.98,
+			"desc": "184.98",
 			"group": "Kandango Transporte e Turismo Ltda EPP"
 		},
 		{
@@ -717,7 +718,7 @@
 			"id": "MUNICIPIO DE BARREIRAS",
 			"name": "MUNICIPIO DE BARREIRAS",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "MUNICIPIO DE BARREIRAS"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "M e P COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"name": "M e P COMERCIO DE COMBUSTIVEIS LTDA EPP",
 			"val": 7.521842829155608,
-			"desc": 238.16,
+			"desc": "238.16",
 			"group": "M e P COMERCIO DE COMBUSTIVEIS LTDA EPP"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "AUTO LOCADORA SALOME LTDA",
 			"name": "AUTO LOCADORA SALOME LTDA",
 			"val": 1396.8716913967914,
-			"desc": 24000,
+			"desc": "24000.00",
 			"group": "AUTO LOCADORA SALOME LTDA"
 		},
 		{
@@ -774,7 +775,7 @@
 			"id": "FALA BARREIRAS COMUNICAÇÃO E EVENTOS LTDA",
 			"name": "FALA BARREIRAS COMUNICAÇÃO E EVENTOS LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "FALA BARREIRAS COMUNICAÇÃO E EVENTOS LTDA"
 		},
 		{
@@ -787,7 +788,7 @@
 			"id": "FALA BARREIRAS COMUNICACAO E EVENTOS LTDA",
 			"name": "FALA BARREIRAS COMUNICACAO E EVENTOS LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "FALA BARREIRAS COMUNICACAO E EVENTOS LTDA"
 		},
 		{
@@ -800,7 +801,7 @@
 			"id": "CORREIOS - SEDEX 12 COM AR",
 			"name": "CORREIOS - SEDEX 12 COM AR",
 			"val": 9.96167462186219,
-			"desc": 302.25,
+			"desc": "302.25",
 			"group": "CORREIOS - SEDEX 12 COM AR"
 		},
 		{
@@ -813,7 +814,7 @@
 			"id": "VILA RICA COMBUSTIVEIS LTDA",
 			"name": "VILA RICA COMBUSTIVEIS LTDA",
 			"val": 2.6562486738853814,
-			"desc": 99.96,
+			"desc": "99.96",
 			"group": "VILA RICA COMBUSTIVEIS LTDA"
 		},
 		{
@@ -826,7 +827,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 7.807175856717072,
-			"desc": 245.78,
+			"desc": "245.78",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -839,7 +840,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 15.457237923147925,
-			"desc": 440.05,
+			"desc": "440.05",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -852,7 +853,7 @@
 			"id": "AUTO POSTO COPA 70 LTDA",
 			"name": "AUTO POSTO COPA 70 LTDA",
 			"val": 6.848703446275562,
-			"desc": 220.03,
+			"desc": "220.03",
 			"group": "AUTO POSTO COPA 70 LTDA"
 		},
 		{
@@ -865,7 +866,7 @@
 			"id": "A J SANTOS E CIA LTDA",
 			"name": "A J SANTOS E CIA LTDA",
 			"val": 6.847965511403397,
-			"desc": 220.01,
+			"desc": "220.01",
 			"group": "A J SANTOS E CIA LTDA"
 		},
 		{
@@ -878,7 +879,7 @@
 			"id": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA",
 			"name": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA",
 			"val": 4.233753035422017,
-			"desc": 147.01,
+			"desc": "147.01",
 			"group": "POSTO DE COMBUSTIVEL ALTO DA SERRA LTDA"
 		},
 		{
@@ -891,7 +892,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 15.78196001890647,
-			"desc": 447.98,
+			"desc": "447.98",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -904,7 +905,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 21.645292018547508,
-			"desc": 588.18,
+			"desc": "588.18",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{

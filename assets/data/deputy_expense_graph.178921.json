@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SEBASTIÃO OLIVEIRA"
+			"name": "SEBASTIÃO OLIVEIRA",
+			"desc": "100590.56"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "ADEGA ESTORIL RESTAURANTE LTDA ME",
 			"name": "ADEGA ESTORIL RESTAURANTE LTDA ME",
 			"val": 3.0890015965307316,
-			"desc": 113.19,
+			"desc": "113.19",
 			"group": "ADEGA ESTORIL RESTAURANTE LTDA ME"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 295.8181627444608,
-			"desc": 5903.450000000001,
+			"desc": "5903.45",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -193,7 +194,7 @@
 			"id": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
 			"name": "MAKPLAN MARKETING E PLANEJAMENTO LTDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "MAKPLAN MARKETING E PLANEJAMENTO LTDA"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 7.217479320719688,
-			"desc": 229.99,
+			"desc": "229.99",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "RESTAURANTE COSTA BRAVA LTDA",
 			"name": "RESTAURANTE COSTA BRAVA LTDA",
 			"val": 9.334892809274477,
-			"desc": 286,
+			"desc": "286.00",
 			"group": "RESTAURANTE COSTA BRAVA LTDA"
 		},
 		{
@@ -256,7 +257,7 @@
 			"id": "AUTO POSTO MOURA LTDA",
 			"name": "AUTO POSTO MOURA LTDA",
 			"val": 6.848703446275562,
-			"desc": 220.03,
+			"desc": "220.03",
 			"group": "AUTO POSTO MOURA LTDA"
 		},
 		{
@@ -269,7 +270,7 @@
 			"id": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"name": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
 			"val": 9.296492644319398,
-			"desc": 285,
+			"desc": "285.00",
 			"group": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV"
 		},
 		{
@@ -282,7 +283,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 6.488391346731705,
-			"desc": 210.23,
+			"desc": "210.23",
 			"group": "RAMAL"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 38.76049993820452,
-			"desc": 975.8,
+			"desc": "975.80",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -350,7 +351,7 @@
 			"id": "POSTO CASA FORTE LTDA",
 			"name": "POSTO CASA FORTE LTDA",
 			"val": 62.026875453405225,
-			"desc": 1473.3399999999997,
+			"desc": "1473.34",
 			"group": "POSTO CASA FORTE LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "AUTO POSTO CARRETEIRO LTDA",
 			"name": "AUTO POSTO CARRETEIRO LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "AUTO POSTO CARRETEIRO LTDA"
 		},
 		{
@@ -406,7 +407,7 @@
 			"id": "CLARO S.A",
 			"name": "CLARO S.A",
 			"val": 9.935343200906626,
-			"desc": 301.57,
+			"desc": "301.57",
 			"group": "CLARO S.A"
 		},
 		{
@@ -419,7 +420,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 483.72067894358224,
-			"desc": 9185.62,
+			"desc": "9185.62",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
 			"name": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA",
 			"val": 1784.7209856324725,
-			"desc": 30000,
+			"desc": "30000.00",
 			"group": "CONCORDIA LOCADORA DE VEICULOS E SERVIÇOS LTDA"
 		},
 		{
@@ -547,7 +548,7 @@
 			"id": "PETROVEL- PETROLEO VELOSO LTDA",
 			"name": "PETROVEL- PETROLEO VELOSO LTDA",
 			"val": 9.888897585076206,
-			"desc": 300.37,
+			"desc": "300.37",
 			"group": "PETROVEL- PETROLEO VELOSO LTDA"
 		},
 		{
@@ -560,7 +561,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 22.665937506936814,
-			"desc": 612.09,
+			"desc": "612.09",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -591,7 +592,7 @@
 			"id": "TAM LINHAS AEREAS SA",
 			"name": "TAM LINHAS AEREAS SA",
 			"val": 1.6497674654691237,
-			"desc": 67.8,
+			"desc": "67.80",
 			"group": "TAM LINHAS AEREAS SA"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "Claro S.A",
 			"name": "Claro S.A",
 			"val": 38.374936394843786,
-			"desc": 967.3199999999999,
+			"desc": "967.32",
 			"group": "Claro S.A"
 		},
 		{
@@ -623,7 +624,7 @@
 			"id": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A",
 			"name": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A",
 			"val": 207.60608024500135,
-			"desc": 4300,
+			"desc": "4300.00",
 			"group": "AJM COMERCIO DE COMBUSTIVEIS E LUBRIFICANTE PARA A"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN",
 			"name": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "TORRE COMERCIO VAREJISTA DE COMBUSTIVEIS EIRELI RAIZEN"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
 			"name": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME",
 			"val": 10.65245854728293,
-			"desc": 320.01,
+			"desc": "320.01",
 			"group": "MC COMERCIO E DERIVADOS DE PETROLEO LTDA - ME"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS",
 			"name": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "AZEVEDO & CATAO SOCIEDADE DE ADVOGADOS"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "CAVALCANTE RABELO LTDA",
 			"name": "CAVALCANTE RABELO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CAVALCANTE RABELO LTDA"
 		},
 		{
@@ -701,7 +702,7 @@
 			"id": "POSTO APIPUCOS LTDA",
 			"name": "POSTO APIPUCOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO APIPUCOS LTDA"
 		},
 		{
@@ -714,7 +715,7 @@
 			"id": "AMORETTO CAFES EXPRESSO LTDA",
 			"name": "AMORETTO CAFES EXPRESSO LTDA",
 			"val": 73.32366887971102,
-			"desc": 1707.2,
+			"desc": "1707.20",
 			"group": "AMORETTO CAFES EXPRESSO LTDA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"name": "PETROCAL PETROLEO CAVALCANTI LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "PETROCAL PETROLEO CAVALCANTI LTDA"
 		},
 		{
@@ -752,7 +753,7 @@
 			"id": "TELEFONICA BRASIL SA",
 			"name": "TELEFONICA BRASIL SA",
 			"val": 7.414364409430204,
-			"desc": 235.28,
+			"desc": "235.28",
 			"group": "TELEFONICA BRASIL SA"
 		},
 		{
@@ -765,7 +766,7 @@
 			"id": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA",
 			"name": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "VILA BELA COMERCIO DE COMBUSTIVEL LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "BARCELAR INVESTIMENTOS LTDA",
 			"name": "BARCELAR INVESTIMENTOS LTDA",
 			"val": 68.12067961455824,
-			"desc": 1600,
+			"desc": "1600.00",
 			"group": "BARCELAR INVESTIMENTOS LTDA"
 		},
 		{
@@ -791,7 +792,7 @@
 			"id": "CJCM PETROLEO LTDA",
 			"name": "CJCM PETROLEO LTDA",
 			"val": 7.782032229215289,
-			"desc": 245.11,
+			"desc": "245.11",
 			"group": "CJCM PETROLEO LTDA"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "POSTO PORTAL DE SUAPE LTDA",
 			"name": "POSTO PORTAL DE SUAPE LTDA",
 			"val": 9.10517985913116,
-			"desc": 280.01,
+			"desc": "280.01",
 			"group": "POSTO PORTAL DE SUAPE LTDA"
 		},
 		{
@@ -817,7 +818,7 @@
 			"id": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"name": "AGUAS CLARAS POSTO DE SERVICOS LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AGUAS CLARAS POSTO DE SERVICOS LTDA"
 		},
 		{
@@ -830,7 +831,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 28.625857481123393,
-			"desc": 749.4,
+			"desc": "749.40",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -843,7 +844,7 @@
 			"id": "CLARO S/A",
 			"name": "CLARO S/A",
 			"val": 8.368255121536846,
-			"desc": 260.66,
+			"desc": "260.66",
 			"group": "CLARO S/A"
 		},
 		{
@@ -856,7 +857,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 16.73285091207326,
-			"desc": 471.09,
+			"desc": "471.09",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -869,7 +870,7 @@
 			"id": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA",
 			"name": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "INVESTGAS LOCACAO E INVESTIMENTOS LTDA"
 		},
 		{

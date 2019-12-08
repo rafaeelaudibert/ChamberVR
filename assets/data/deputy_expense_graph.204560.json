@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "ADOLFO VIANA"
+			"name": "ADOLFO VIANA",
+			"desc": "59427.77"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "MULTIPLICAR E SERVIÇOS LTDA EPP",
 			"name": "MULTIPLICAR E SERVIÇOS LTDA EPP",
 			"val": 1493.0973819166254,
-			"desc": 25500,
+			"desc": "25500.00",
 			"group": "MULTIPLICAR E SERVIÇOS LTDA EPP"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 5.75309026233152,
-			"desc": 190,
+			"desc": "190.00",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -67,7 +68,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 952.0343729264891,
-			"desc": 16942.129999999994,
+			"desc": "16942.13",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -356,7 +357,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 213.58849488014903,
-			"desc": 4410.53,
+			"desc": "4410.53",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -435,7 +436,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.8709489728508766,
-			"desc": 106.56,
+			"desc": "106.56",
 			"group": "RAMAL"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 6.238827886994103,
-			"desc": 203.39999999999998,
+			"desc": "203.40",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -491,7 +492,7 @@
 			"id": "BLOG RAMOS FILHO",
 			"name": "BLOG RAMOS FILHO",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "BLOG RAMOS FILHO"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 21.081666531310383,
-			"desc": 574.9200000000001,
+			"desc": "574.92",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -535,7 +536,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 13.950465494365488,
-			"desc": 402.98,
+			"desc": "402.98",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -548,7 +549,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 60.28940004206207,
-			"desc": 1436.99,
+			"desc": "1436.99",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -585,7 +586,7 @@
 			"id": "BLOG GERALDO JOSE LTDA-ME",
 			"name": "BLOG GERALDO JOSE LTDA-ME",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "BLOG GERALDO JOSE LTDA-ME"
 		},
 		{
@@ -604,7 +605,7 @@
 			"id": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"name": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA",
 			"val": 10.867552449819058,
-			"desc": 325.51,
+			"desc": "325.51",
 			"group": "BRASPETRO (QNM) COMERCIO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -617,7 +618,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -630,7 +631,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 36.7601179685105,
-			"desc": 931.7,
+			"desc": "931.70",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "ALFA9 SOLUÇÃO ESTRATÉGICA",
 			"name": "ALFA9 SOLUÇÃO ESTRATÉGICA",
 			"val": 87.7262742772967,
-			"desc": 2000,
+			"desc": "2000.00",
 			"group": "ALFA9 SOLUÇÃO ESTRATÉGICA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 43.870660995326574,
-			"desc": 1087.35,
+			"desc": "1087.35",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 7.96616062498925,
-			"desc": 250.01,
+			"desc": "250.01",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"name": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA",
 			"val": 10.234797510915717,
-			"desc": 309.29,
+			"desc": "309.29",
 			"group": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "LR COMERCIO DE PRODUTOS E DERIVADOS DE PETROLEO LTDA",
 			"name": "LR COMERCIO DE PRODUTOS E DERIVADOS DE PETROLEO LTDA",
 			"val": 9.874969290106097,
-			"desc": 300.01,
+			"desc": "300.01",
 			"group": "LR COMERCIO DE PRODUTOS E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -732,7 +733,7 @@
 			"id": "PARLABRASIL EIRELI",
 			"name": "PARLABRASIL EIRELI",
 			"val": 49.09832971438023,
-			"desc": 1200,
+			"desc": "1200.00",
 			"group": "PARLABRASIL EIRELI"
 		},
 		{
@@ -751,7 +752,7 @@
 			"id": "GOL LINHAS AÉREAS INTELIGENTES",
 			"name": "GOL LINHAS AÉREAS INTELIGENTES",
 			"val": 40.154855436595284,
-			"desc": 1006.39,
+			"desc": "1006.39",
 			"group": "GOL LINHAS AÉREAS INTELIGENTES"
 		},
 		{
@@ -764,7 +765,7 @@
 			"id": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{

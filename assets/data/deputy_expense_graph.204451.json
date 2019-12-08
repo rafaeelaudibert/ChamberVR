@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DELEGADO ANTÔNIO FURTADO"
+			"name": "DELEGADO ANTÔNIO FURTADO",
+			"desc": "42451.44"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "POSTO DE ABASTECIMENTO GRANDE AMOR LTDA",
 			"name": "POSTO DE ABASTECIMENTO GRANDE AMOR LTDA",
 			"val": 10.847584680290561,
-			"desc": 325,
+			"desc": "325.00",
 			"group": "POSTO DE ABASTECIMENTO GRANDE AMOR LTDA"
 		},
 		{
@@ -48,7 +49,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1511.0839968551938,
-			"desc": 25779.489999999994,
+			"desc": "25779.49",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -415,7 +416,7 @@
 			"id": "AUTO POSTO KARAPITO DA BEIRA LTDA",
 			"name": "AUTO POSTO KARAPITO DA BEIRA LTDA",
 			"val": 9.874582428595057,
-			"desc": 300,
+			"desc": "300.00",
 			"group": "AUTO POSTO KARAPITO DA BEIRA LTDA"
 		},
 		{
@@ -440,7 +441,7 @@
 			"id": "POSTO GRANDE PARADA LTDA - EPP",
 			"name": "POSTO GRANDE PARADA LTDA - EPP",
 			"val": 14.157039658714579,
-			"desc": 408.09000000000003,
+			"desc": "408.09",
 			"group": "POSTO GRANDE PARADA LTDA - EPP"
 		},
 		{
@@ -465,7 +466,7 @@
 			"id": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"name": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA.",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO PARK SUL DERIVADOS DE PETROLEO LTDA."
 		},
 		{
@@ -478,7 +479,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 200.05220040879348,
-			"desc": 4160,
+			"desc": "4160.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 17.561071243243145,
-			"desc": 491.09,
+			"desc": "491.09",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -528,7 +529,7 @@
 			"id": "AP GAS",
 			"name": "AP GAS",
 			"val": 16.460603544527064,
-			"desc": 464.49,
+			"desc": "464.49",
 			"group": "AP GAS"
 		},
 		{
@@ -559,7 +560,7 @@
 			"id": "POSTO GRANDE OESTE LTDA",
 			"name": "POSTO GRANDE OESTE LTDA",
 			"val": 4.985311622516573,
-			"desc": 168.5,
+			"desc": "168.50",
 			"group": "POSTO GRANDE OESTE LTDA"
 		},
 		{
@@ -572,7 +573,7 @@
 			"id": "MICHELSTEDTER E AZEVEDO LTDA",
 			"name": "MICHELSTEDTER E AZEVEDO LTDA",
 			"val": 397.06451514977533,
-			"desc": 7689.839999999999,
+			"desc": "7689.84",
 			"group": "MICHELSTEDTER E AZEVEDO LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 24.135582780930918,
-			"desc": 646.3,
+			"desc": "646.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -616,7 +617,7 @@
 			"id": "POSTO DE ABASTECIMENTO SATAMINI LTDA",
 			"name": "POSTO DE ABASTECIMENTO SATAMINI LTDA",
 			"val": 5.395563782705333,
-			"desc": 180.04,
+			"desc": "180.04",
 			"group": "POSTO DE ABASTECIMENTO SATAMINI LTDA"
 		},
 		{
@@ -629,7 +630,7 @@
 			"id": "PARAISO LUBRIFICANTES LTDA",
 			"name": "PARAISO LUBRIFICANTES LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PARAISO LUBRIFICANTES LTDA"
 		},
 		{
@@ -642,7 +643,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 5.018562492535328,
-			"desc": 169.44,
+			"desc": "169.44",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -655,7 +656,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 0.46243866203268796,
-			"desc": 24.92,
+			"desc": "24.92",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "TURNPIKE 4321",
 			"name": "TURNPIKE 4321",
 			"val": 3.178451185354562,
-			"desc": 115.89,
+			"desc": "115.89",
 			"group": "TURNPIKE 4321"
 		},
 		{
@@ -681,7 +682,7 @@
 			"id": "COMERCIAL H KARL ALLERS LTDA",
 			"name": "COMERCIAL H KARL ALLERS LTDA",
 			"val": 4.878337473104546,
-			"desc": 165.47,
+			"desc": "165.47",
 			"group": "COMERCIAL H KARL ALLERS LTDA"
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.4384692456316285,
-			"desc": 23.93,
+			"desc": "23.93",
 			"group": "RAMAL"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "J. CORRÊA NETO COMÉRCIO",
 			"name": "J. CORRÊA NETO COMÉRCIO",
 			"val": 7.590614971784178,
-			"desc": 240,
+			"desc": "240.00",
 			"group": "J. CORRÊA NETO COMÉRCIO"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "ECT - EMP. BRAS.DE CORREIOS E TELEGRÁFOS",
 			"name": "ECT - EMP. BRAS.DE CORREIOS E TELEGRÁFOS",
 			"val": 1.6047084831777296,
-			"desc": 66.3,
+			"desc": "66.30",
 			"group": "ECT - EMP. BRAS.DE CORREIOS E TELEGRÁFOS"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 5.387344551657808,
-			"desc": 179.81,
+			"desc": "179.81",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "Lucas Paulino de Sousa Nogueira",
 			"name": "Lucas Paulino de Sousa Nogueira",
 			"val": 11.369802055298045,
-			"desc": 338.3,
+			"desc": "338.30",
 			"group": "Lucas Paulino de Sousa Nogueira"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "AUTO POSTO REFÚGIO DA DUTRA LTDA",
 			"name": "AUTO POSTO REFÚGIO DA DUTRA LTDA",
 			"val": 5.038385836573638,
-			"desc": 170,
+			"desc": "170.00",
 			"group": "AUTO POSTO REFÚGIO DA DUTRA LTDA"
 		},
 		{
@@ -778,7 +779,7 @@
 			"id": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 4.148485895747143,
-			"desc": 144.54,
+			"desc": "144.54",
 			"group": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{

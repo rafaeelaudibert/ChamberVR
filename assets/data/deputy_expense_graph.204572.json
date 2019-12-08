@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "CAPITÃO ALBERTO NETO"
+			"name": "CAPITÃO ALBERTO NETO",
+			"desc": "46792.20"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRU&Ccedil;&Otilde;E",
 			"name": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRU&Ccedil;&Otilde;E",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRU&Ccedil;&Otilde;E"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1342.0960082310805,
-			"desc": 23142.379999999994,
+			"desc": "23142.38",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -193,7 +194,7 @@
 			"id": "NaveRio Naveg.do Rio Am Ltda / Rio - XXV",
 			"name": "NaveRio Naveg.do Rio Am Ltda / Rio - XXV",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "NaveRio Naveg.do Rio Am Ltda / Rio - XXV"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"name": "DRA 4 DERIVADOS DE PETROLEO LTDA",
 			"val": 43.007362299244654,
-			"desc": 1068.6100000000001,
+			"desc": "1068.61",
 			"group": "DRA 4 DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -261,7 +262,7 @@
 			"id": "D E COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "D E COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "D E COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -274,7 +275,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 9.70300689184608,
-			"desc": 295.56,
+			"desc": "295.56",
 			"group": "RAMAL"
 		},
 		{
@@ -293,7 +294,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 35.87173584472698,
-			"desc": 912.03,
+			"desc": "912.03",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -330,7 +331,7 @@
 			"id": "VILA RICA HOTEL HOTEIS PERNAMBUCO S.A",
 			"name": "VILA RICA HOTEL HOTEIS PERNAMBUCO S.A",
 			"val": 60.25646997719587,
-			"desc": 1436.3,
+			"desc": "1436.30",
 			"group": "VILA RICA HOTEL HOTEIS PERNAMBUCO S.A"
 		},
 		{
@@ -343,7 +344,7 @@
 			"id": "FE COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"name": "FE COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "FE COMERCIO DE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -356,7 +357,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 28.974774105481764,
-			"desc": 757.33,
+			"desc": "757.33",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -393,7 +394,7 @@
 			"id": "AMR Lopes - ME",
 			"name": "AMR Lopes - ME",
 			"val": 301.21792284919786,
-			"desc": 6000,
+			"desc": "6000.00",
 			"group": "AMR Lopes - ME"
 		},
 		{
@@ -412,7 +413,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.5259495684877126,
-			"desc": 27.5,
+			"desc": "27.50",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -431,7 +432,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 4.686033980727912,
-			"desc": 160,
+			"desc": "160.00",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -450,7 +451,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 28.039121006023827,
-			"desc": 736.04,
+			"desc": "736.04",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
 			"name": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "PECOBRAL COM DE DERIV. DE PETROLEO BRASILIA"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "AUTO POSTO COMERCIAL GITIRANA LTDA",
 			"name": "AUTO POSTO COMERCIAL GITIRANA LTDA",
 			"val": 8.08105170391207,
-			"desc": 253.06,
+			"desc": "253.06",
 			"group": "AUTO POSTO COMERCIAL GITIRANA LTDA"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "TELEFÔNICA BRASIL S.A",
 			"name": "TELEFÔNICA BRASIL S.A",
 			"val": 43.257313322254824,
-			"desc": 1074.04,
+			"desc": "1074.04",
 			"group": "TELEFÔNICA BRASIL S.A"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA",
 			"name": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA",
 			"val": 3.9245896060644085,
-			"desc": 138.02,
+			"desc": "138.02",
 			"group": "POSTO DE SERVICOS PEDRO RIBEIRO LTDA"
 		},
 		{
@@ -551,7 +552,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 30.315429968285546,
-			"desc": 787.7,
+			"desc": "787.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -570,7 +571,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.096,
-			"desc": 8,
+			"desc": "8.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -583,7 +584,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -596,7 +597,7 @@
 			"id": "SMAFF COMBUSTIVEIS LTDA",
 			"name": "SMAFF COMBUSTIVEIS LTDA",
 			"val": 0.851508495181978,
-			"desc": 40,
+			"desc": "40.00",
 			"group": "SMAFF COMBUSTIVEIS LTDA"
 		},
 		{
@@ -609,7 +610,7 @@
 			"id": "AUTO POSTO SAO MARCOS LTDA",
 			"name": "AUTO POSTO SAO MARCOS LTDA",
 			"val": 6.046079409469684,
-			"desc": 198.1,
+			"desc": "198.10",
 			"group": "AUTO POSTO SAO MARCOS LTDA"
 		},
 		{
@@ -622,7 +623,7 @@
 			"id": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
 			"name": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
 			"val": 9.384458815331202,
-			"desc": 287.28999999999996,
+			"desc": "287.29",
 			"group": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "DENYS ANTONIO ABDALA TUMA",
 			"name": "DENYS ANTONIO ABDALA TUMA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "DENYS ANTONIO ABDALA TUMA"
 		},
 		{
@@ -660,7 +661,7 @@
 			"id": "ANDRADE E URIAS LTDA",
 			"name": "ANDRADE E URIAS LTDA",
 			"val": 5.395563782705333,
-			"desc": 180.04,
+			"desc": "180.04",
 			"group": "ANDRADE E URIAS LTDA"
 		},
 		{
@@ -673,7 +674,7 @@
 			"id": "G3 Auto Posto Ltda Epp",
 			"name": "G3 Auto Posto Ltda Epp",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "G3 Auto Posto Ltda Epp"
 		},
 		{
@@ -686,7 +687,7 @@
 			"id": "PETROMAY DERIVADOS DE PETROLEO LTDA",
 			"name": "PETROMAY DERIVADOS DE PETROLEO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "PETROMAY DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -699,7 +700,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES",
 			"name": "GOL LINHAS AEREAS INTELIGENTES",
 			"val": 134.5733478042076,
-			"desc": 2922.24,
+			"desc": "2922.24",
 			"group": "GOL LINHAS AEREAS INTELIGENTES"
 		},
 		{
@@ -712,7 +713,7 @@
 			"id": "POSTO MK 107 NORTE LTDA",
 			"name": "POSTO MK 107 NORTE LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO MK 107 NORTE LTDA"
 		},
 		{
@@ -725,7 +726,7 @@
 			"id": "FETECOM COMERCIO DE DERIVADOS DE PETROLEO",
 			"name": "FETECOM COMERCIO DE DERIVADOS DE PETROLEO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "FETECOM COMERCIO DE DERIVADOS DE PETROLEO"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"name": "AUTO POSTO CINCO ESTRELAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO CINCO ESTRELAS LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 2.528625600276924,
-			"desc": 96,
+			"desc": "96.00",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "AUTO POSTO OLIVEIRA LTDA",
 			"name": "AUTO POSTO OLIVEIRA LTDA",
 			"val": 4.366788232768886,
-			"desc": 150.85,
+			"desc": "150.85",
 			"group": "AUTO POSTO OLIVEIRA LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "AUTO POSTO CATEDRAL LTDA",
 			"name": "AUTO POSTO CATEDRAL LTDA",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "AUTO POSTO CATEDRAL LTDA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "HOTELARIA ACCOR BRASIL S/A",
 			"name": "HOTELARIA ACCOR BRASIL S/A",
 			"val": 26.495639331747046,
-			"desc": 700.74,
+			"desc": "700.74",
 			"group": "HOTELARIA ACCOR BRASIL S/A"
 		},
 		{
@@ -809,7 +810,7 @@
 			"id": "NARA VEICULOS LTDA",
 			"name": "NARA VEICULOS LTDA",
 			"val": 4.781174195255659,
-			"desc": 162.71,
+			"desc": "162.71",
 			"group": "NARA VEICULOS LTDA"
 		},
 		{
@@ -822,7 +823,7 @@
 			"id": "POSTO 109 SUL DERIV DE PET LTDA",
 			"name": "POSTO 109 SUL DERIV DE PET LTDA",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "POSTO 109 SUL DERIV DE PET LTDA"
 		},
 		{
@@ -835,7 +836,7 @@
 			"id": "COMERCIAL BEIRA RIO LTDA",
 			"name": "COMERCIAL BEIRA RIO LTDA",
 			"val": 6.254136650775762,
-			"desc": 203.82,
+			"desc": "203.82",
 			"group": "COMERCIAL BEIRA RIO LTDA"
 		},
 		{
@@ -848,7 +849,7 @@
 			"id": "POSTO LETICIA LTDA",
 			"name": "POSTO LETICIA LTDA",
 			"val": 2.6714566714823347,
-			"desc": 100.43,
+			"desc": "100.43",
 			"group": "POSTO LETICIA LTDA"
 		},
 		{
@@ -861,7 +862,7 @@
 			"id": "AUTO POSTO MARK SOBRADINHO II LTDA",
 			"name": "AUTO POSTO MARK SOBRADINHO II LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO MARK SOBRADINHO II LTDA"
 		},
 		{
@@ -874,7 +875,7 @@
 			"id": "MICHEL LIMA RIBEIRO",
 			"name": "MICHEL LIMA RIBEIRO",
 			"val": 112.87712379549448,
-			"desc": 2500,
+			"desc": "2500.00",
 			"group": "MICHEL LIMA RIBEIRO"
 		},
 		{
@@ -887,7 +888,7 @@
 			"id": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 7.718282460781134,
-			"desc": 243.41,
+			"desc": "243.41",
 			"group": "POSTO VIA ESTRUTURAL COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -900,7 +901,7 @@
 			"id": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA",
 			"name": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -913,7 +914,7 @@
 			"id": "CONTERPE COMERCIO SERVICO LTDA",
 			"name": "CONTERPE COMERCIO SERVICO LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CONTERPE COMERCIO SERVICO LTDA"
 		},
 		{
@@ -926,7 +927,7 @@
 			"id": "ITA LUCAS LTDA",
 			"name": "ITA LUCAS LTDA",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "ITA LUCAS LTDA"
 		},
 		{

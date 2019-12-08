@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUCAS GONZALEZ"
+			"name": "LUCAS GONZALEZ",
+			"desc": "52293.82"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA",
 			"val": 29.951445564492733,
-			"desc": 779.4699999999999,
+			"desc": "779.47",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA"
 		},
 		{
@@ -186,7 +187,7 @@
 			"id": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"name": "UBER DO BRASIL TECNOLOGIA LTDA.",
 			"val": 4.014694326689619,
-			"desc": 140.64999999999998,
+			"desc": "140.65",
 			"group": "UBER DO BRASIL TECNOLOGIA LTDA."
 		},
 		{
@@ -205,7 +206,7 @@
 			"id": "MINEIRÃO POSTO DE SERVIÇOS - LTDA",
 			"name": "MINEIRÃO POSTO DE SERVIÇOS - LTDA",
 			"val": 6.554010200153191,
-			"desc": 212.02,
+			"desc": "212.02",
 			"group": "MINEIRÃO POSTO DE SERVIÇOS - LTDA"
 		},
 		{
@@ -218,7 +219,7 @@
 			"id": "99 POP",
 			"name": "99 POP",
 			"val": 37.607820532212116,
-			"desc": 950.42,
+			"desc": "950.42",
 			"group": "99 POP"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 0.778988675824887,
-			"desc": 37.3,
+			"desc": "37.30",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -268,7 +269,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 12.317322142797698,
-			"desc": 362.24,
+			"desc": "362.24",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -299,7 +300,7 @@
 			"id": "INSTITUTO AQUILA DE GESTAO",
 			"name": "INSTITUTO AQUILA DE GESTAO",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "INSTITUTO AQUILA DE GESTAO"
 		},
 		{
@@ -312,7 +313,7 @@
 			"id": "PERRELLI & LANCA CONSULTORES E ADVOGADOS SOCIEDADE DE ADVOGADOS",
 			"name": "PERRELLI & LANCA CONSULTORES E ADVOGADOS SOCIEDADE DE ADVOGADOS",
 			"val": 425.0019985994208,
-			"desc": 8175,
+			"desc": "8175.00",
 			"group": "PERRELLI & LANCA CONSULTORES E ADVOGADOS SOCIEDADE DE ADVOGADOS"
 		},
 		{
@@ -337,7 +338,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 153.29776661278748,
-			"desc": 3281.2,
+			"desc": "3281.20",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -398,7 +399,7 @@
 			"id": "POSTO VIA A LIBERDADE LTDA",
 			"name": "POSTO VIA A LIBERDADE LTDA",
 			"val": 12.62245500895412,
-			"desc": 369.9,
+			"desc": "369.90",
 			"group": "POSTO VIA A LIBERDADE LTDA"
 		},
 		{
@@ -417,7 +418,7 @@
 			"id": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA",
 			"val": 11.929893689988692,
-			"desc": 352.48,
+			"desc": "352.48",
 			"group": "AUTO SHOPPING DERIVADO DE PETROLEO LTDA"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "BENEDITA COMUNICAÇÃO LTDA",
 			"name": "BENEDITA COMUNICAÇÃO LTDA",
 			"val": 832.3604928162363,
-			"desc": 15000,
+			"desc": "15000.00",
 			"group": "BENEDITA COMUNICAÇÃO LTDA"
 		},
 		{
@@ -461,7 +462,7 @@
 			"id": "POSTO POLE POSITION LTDA",
 			"name": "POSTO POLE POSITION LTDA",
 			"val": 31.276179178679644,
-			"desc": 809.37,
+			"desc": "809.37",
 			"group": "POSTO POLE POSITION LTDA"
 		},
 		{
@@ -492,7 +493,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 45.163542267289316,
-			"desc": 1115.3400000000001,
+			"desc": "1115.34",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 88.08967176087404,
-			"desc": 2007.3199999999997,
+			"desc": "2007.32",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -566,7 +567,7 @@
 			"id": "POSTO LUXEMBURGO LTDA",
 			"name": "POSTO LUXEMBURGO LTDA",
 			"val": 4.811069089447434,
-			"desc": 163.56,
+			"desc": "163.56",
 			"group": "POSTO LUXEMBURGO LTDA"
 		},
 		{
@@ -579,7 +580,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 13.668095124987808,
-			"desc": 395.98,
+			"desc": "395.98",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -598,7 +599,7 @@
 			"id": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"name": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
 			"val": 30.113253088829204,
-			"desc": 783.13,
+			"desc": "783.13",
 			"group": "AZUL LINHAS AÉREAS BRASILEIRAS S.A."
 		},
 		{
@@ -611,7 +612,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 2.0724905772929043,
-			"desc": 81.59,
+			"desc": "81.59",
 			"group": "RAMAL"
 		},
 		{
@@ -636,7 +637,7 @@
 			"id": "POSTO FERNANDA LTDA",
 			"name": "POSTO FERNANDA LTDA",
 			"val": 6.4828965437428145,
-			"desc": 210.08,
+			"desc": "210.08",
 			"group": "POSTO FERNANDA LTDA"
 		},
 		{
@@ -649,7 +650,7 @@
 			"id": "POSTO COMETA LTDA",
 			"name": "POSTO COMETA LTDA",
 			"val": 5.77544721920198,
-			"desc": 190.62,
+			"desc": "190.62",
 			"group": "POSTO COMETA LTDA"
 		},
 		{
@@ -662,7 +663,7 @@
 			"id": "SYGRY AUTO POSTO",
 			"name": "SYGRY AUTO POSTO",
 			"val": 6.116175350951067,
-			"desc": 200.03,
+			"desc": "200.03",
 			"group": "SYGRY AUTO POSTO"
 		},
 		{
@@ -675,7 +676,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 32.23893996868015,
-			"desc": 831.01,
+			"desc": "831.01",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -694,7 +695,7 @@
 			"id": "EMPREENDIMENTOS BRITO E LIMA LTDA",
 			"name": "EMPREENDIMENTOS BRITO E LIMA LTDA",
 			"val": 6.4228604464098735,
-			"desc": 208.44,
+			"desc": "208.44",
 			"group": "EMPREENDIMENTOS BRITO E LIMA LTDA"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "INSTITUTO AQ",
 			"name": "INSTITUTO AQ",
 			"val": 357.64789778815134,
-			"desc": 7000,
+			"desc": "7000.00",
 			"group": "INSTITUTO AQ"
 		},
 		{
@@ -720,7 +721,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA",
 			"name": "CORREIOS - CARTA REGISTRADA",
 			"val": 0.10406855533914497,
-			"desc": 8.45,
+			"desc": "8.45",
 			"group": "CORREIOS - CARTA REGISTRADA"
 		},
 		{
@@ -733,7 +734,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.019231966261171,
-			"desc": 197.36,
+			"desc": "197.36",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -746,7 +747,7 @@
 			"id": "COMERCIAL PAMPAS LTDA",
 			"name": "COMERCIAL PAMPAS LTDA",
 			"val": 6.622287536779673,
-			"desc": 213.88,
+			"desc": "213.88",
 			"group": "COMERCIAL PAMPAS LTDA"
 		},
 		{
@@ -759,7 +760,7 @@
 			"id": "SUDOESTE POINT COMERCIO DE ALIMENTOS",
 			"name": "SUDOESTE POINT COMERCIO DE ALIMENTOS",
 			"val": 1.3269891957126145,
-			"desc": 56.9,
+			"desc": "56.90",
 			"group": "SUDOESTE POINT COMERCIO DE ALIMENTOS"
 		},
 		{
@@ -772,7 +773,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.4257336680715495,
-			"desc": 23.4,
+			"desc": "23.40",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -785,7 +786,7 @@
 			"id": "Posto Londrina Ltda",
 			"name": "Posto Londrina Ltda",
 			"val": 11.461208106577288,
-			"desc": 340.62,
+			"desc": "340.62",
 			"group": "Posto Londrina Ltda"
 		},
 		{
@@ -804,7 +805,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.3736082558699363,
-			"desc": 91.15,
+			"desc": "91.15",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -823,7 +824,7 @@
 			"id": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"name": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA",
 			"val": 5.833557440159956,
-			"desc": 192.23,
+			"desc": "192.23",
 			"group": "SAO BERNARDO SERVICOS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -836,7 +837,7 @@
 			"id": "CASSIA BARBOSA SOARES EIRELI",
 			"name": "CASSIA BARBOSA SOARES EIRELI",
 			"val": 1.4176537429460445,
-			"desc": 60,
+			"desc": "60.00",
 			"group": "CASSIA BARBOSA SOARES EIRELI"
 		},
 		{
@@ -849,7 +850,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 4.008861430470295,
-			"desc": 140.48,
+			"desc": "140.48",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -862,7 +863,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 10.347964816790673,
-			"desc": 312.2,
+			"desc": "312.20",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{

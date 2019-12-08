@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "LUIZA ERUNDINA"
+			"name": "LUIZA ERUNDINA",
+			"desc": "50792.29"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "CORREIOS - SEDEX 10",
 			"name": "CORREIOS - SEDEX 10",
 			"val": 39.8905185275624,
-			"desc": 1000.5999999999998,
+			"desc": "1000.60",
 			"group": "CORREIOS - SEDEX 10"
 		},
 		{
@@ -114,7 +115,7 @@
 			"id": "SAN REMO POSTO SERVIÇOS LTDA",
 			"name": "SAN REMO POSTO SERVIÇOS LTDA",
 			"val": 5.326646507476987,
-			"desc": 178.11,
+			"desc": "178.11",
 			"group": "SAN REMO POSTO SERVIÇOS LTDA"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"name": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR",
 			"val": 7.792163466086989,
-			"desc": 245.38,
+			"desc": "245.38",
 			"group": "CENTRO DE GESTÃO DE MEIOS DE PGTO. LTDA. - SEM PARAR"
 		},
 		{
@@ -146,7 +147,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 11.453718829509695,
-			"desc": 340.43,
+			"desc": "340.43",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -165,7 +166,7 @@
 			"id": "AUTO POSTO MARINHEIRO LTDA",
 			"name": "AUTO POSTO MARINHEIRO LTDA",
 			"val": 396.0278901159992,
-			"desc": 7671.780000000001,
+			"desc": "7671.78",
 			"group": "AUTO POSTO MARINHEIRO LTDA"
 		},
 		{
@@ -208,7 +209,7 @@
 			"id": "LOCALIZA RENT A CAR S/A",
 			"name": "LOCALIZA RENT A CAR S/A",
 			"val": 200.13837858645562,
-			"desc": 4161.6,
+			"desc": "4161.60",
 			"group": "LOCALIZA RENT A CAR S/A"
 		},
 		{
@@ -227,7 +228,7 @@
 			"id": "SABESP",
 			"name": "SABESP",
 			"val": 9.979104682469536,
-			"desc": 302.70000000000005,
+			"desc": "302.70",
 			"group": "SABESP"
 		},
 		{
@@ -252,7 +253,7 @@
 			"id": "Telefônia Brasil S/A - VIVO",
 			"name": "Telefônia Brasil S/A - VIVO",
 			"val": 175.02535967600306,
-			"desc": 3692.41,
+			"desc": "3692.41",
 			"group": "Telefônia Brasil S/A - VIVO"
 		},
 		{
@@ -313,7 +314,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 540.98697339331,
-			"desc": 10160.740000000002,
+			"desc": "10160.74",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -362,7 +363,7 @@
 			"id": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"name": "LOCAWEB SERVICOS DE INTERNET S.A.",
 			"val": 23.658419596199447,
-			"desc": 635.22,
+			"desc": "635.22",
 			"group": "LOCAWEB SERVICOS DE INTERNET S.A."
 		},
 		{
@@ -405,7 +406,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 78.99159272949078,
-			"desc": 1823.08,
+			"desc": "1823.08",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -436,7 +437,7 @@
 			"id": "RODRIGO DUTRA BARRETO",
 			"name": "RODRIGO DUTRA BARRETO",
 			"val": 13.026180524663042,
-			"desc": 380,
+			"desc": "380.00",
 			"group": "RODRIGO DUTRA BARRETO"
 		},
 		{
@@ -449,7 +450,7 @@
 			"id": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA",
 			"name": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA",
 			"val": 5.262836259400748,
-			"desc": 176.32,
+			"desc": "176.32",
 			"group": "POSTO GUARA- DISBRAVE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -462,7 +463,7 @@
 			"id": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A",
 			"val": 6.917746574948045,
-			"desc": 221.9,
+			"desc": "221.90",
 			"group": "ELETROPAULO METROPOLITANA DE SÃO PAULO S/A"
 		},
 		{
@@ -481,7 +482,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 57.43363914549538,
-			"desc": 1377,
+			"desc": "1377.00",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -506,7 +507,7 @@
 			"id": "MICROSENS S/A",
 			"name": "MICROSENS S/A",
 			"val": 1.0350329905895208,
-			"desc": 46.67,
+			"desc": "46.67",
 			"group": "MICROSENS S/A"
 		},
 		{
@@ -519,7 +520,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.4341318490431145,
-			"desc": 60.56,
+			"desc": "60.56",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -538,7 +539,7 @@
 			"id": "CLARO S/A - NET",
 			"name": "CLARO S/A - NET",
 			"val": 10.77088884622021,
-			"desc": 323.04,
+			"desc": "323.04",
 			"group": "CLARO S/A - NET"
 		},
 		{
@@ -563,7 +564,7 @@
 			"id": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"name": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A",
 			"val": 3.022652206279743,
-			"desc": 111.18,
+			"desc": "111.18",
 			"group": "ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 66.16708751875052,
-			"desc": 1559.53,
+			"desc": "1559.53",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -607,7 +608,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 11.405644381954833,
-			"desc": 339.21,
+			"desc": "339.21",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -626,7 +627,7 @@
 			"id": "CORREIOS - SEDEX 12",
 			"name": "CORREIOS - SEDEX 12",
 			"val": 14.879874298737844,
-			"desc": 425.9,
+			"desc": "425.90",
 			"group": "CORREIOS - SEDEX 12"
 		},
 		{
@@ -663,7 +664,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 5.167140199859033,
-			"desc": 173.63,
+			"desc": "173.63",
 			"group": "RAMAL"
 		},
 		{
@@ -688,7 +689,7 @@
 			"id": "CORREIOS - ENCOMENDA PAC",
 			"name": "CORREIOS - ENCOMENDA PAC",
 			"val": 0.774725827773473,
-			"desc": 37.14,
+			"desc": "37.14",
 			"group": "CORREIOS - ENCOMENDA PAC"
 		},
 		{
@@ -707,7 +708,7 @@
 			"id": "TELEFÔNICA BRASIL S/A",
 			"name": "TELEFÔNICA BRASIL S/A",
 			"val": 92.4937385664452,
-			"desc": 2095.79,
+			"desc": "2095.79",
 			"group": "TELEFÔNICA BRASIL S/A"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "Elizabeth de Franca do Nascimento Augusto",
 			"name": "Elizabeth de Franca do Nascimento Augusto",
 			"val": 72.97296941097044,
-			"desc": 1700,
+			"desc": "1700.00",
 			"group": "Elizabeth de Franca do Nascimento Augusto"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "Robotton & Associados Consul Imob Ltda.",
 			"name": "Robotton & Associados Consul Imob Ltda.",
 			"val": 581.637294105882,
-			"desc": 10847.349999999999,
+			"desc": "10847.35",
 			"group": "Robotton & Associados Consul Imob Ltda."
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 0.64,
-			"desc": 32,
+			"desc": "32.00",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "TAM LINAS AÉREAS S.A",
 			"name": "TAM LINAS AÉREAS S.A",
 			"val": 10.605991510769321,
-			"desc": 318.82,
+			"desc": "318.82",
 			"group": "TAM LINAS AÉREAS S.A"
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "CORREIOS - TELEGRAMA COM CÓPIA",
 			"name": "CORREIOS - TELEGRAMA COM CÓPIA",
 			"val": 0.26167252811361175,
-			"desc": 16.26,
+			"desc": "16.26",
 			"group": "CORREIOS - TELEGRAMA COM CÓPIA"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 5.022101593081663,
-			"desc": 169.54,
+			"desc": "169.54",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"name": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
 			"val": 4.981776073861397,
-			"desc": 168.4,
+			"desc": "168.40",
 			"group": "SAO ROQUE COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA"
 		},
 		{

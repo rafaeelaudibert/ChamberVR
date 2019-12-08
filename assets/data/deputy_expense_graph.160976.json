@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "TIRIRICA"
+			"name": "TIRIRICA",
+			"desc": "49425.91"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 30.051347817566405,
-			"desc": 781.73,
+			"desc": "781.73",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -54,7 +55,7 @@
 			"id": "AUTO POSTO SUDOESTE LTDA",
 			"name": "AUTO POSTO SUDOESTE LTDA",
 			"val": 20.469047487549993,
-			"desc": 560.46,
+			"desc": "560.46",
 			"group": "AUTO POSTO SUDOESTE LTDA"
 		},
 		{
@@ -79,7 +80,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 1167.3015155942803,
-			"desc": 20385.609999999997,
+			"desc": "20385.61",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -224,7 +225,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 5.390917921892167,
-			"desc": 179.91000000000003,
+			"desc": "179.91",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -255,7 +256,7 @@
 			"id": "POSTO PETROMINAS LTDA",
 			"name": "POSTO PETROMINAS LTDA",
 			"val": 14.514052590259505,
-			"desc": 416.9,
+			"desc": "416.90",
 			"group": "POSTO PETROMINAS LTDA"
 		},
 		{
@@ -274,7 +275,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 1058.9214037804636,
-			"desc": 18659.269999999997,
+			"desc": "18659.27",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 5.597638971961411,
-			"desc": 185.68,
+			"desc": "185.68",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -426,7 +427,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 12.721441848430374,
-			"desc": 372.38,
+			"desc": "372.38",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 0.6793766887054138,
-			"desc": 33.519999999999996,
+			"desc": "33.52",
 			"group": "RAMAL"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "POSTO 212 SUL LTDA",
 			"name": "POSTO 212 SUL LTDA",
 			"val": 4.7393644231101035,
-			"desc": 161.52,
+			"desc": "161.52",
 			"group": "POSTO 212 SUL LTDA"
 		},
 		{
@@ -483,7 +484,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 22.60859239621691,
-			"desc": 610.75,
+			"desc": "610.75",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 22.16624004842675,
-			"desc": 600.4,
+			"desc": "600.40",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -533,7 +534,7 @@
 			"id": "ELO COMERCIO E SERVICOS LTDA",
 			"name": "ELO COMERCIO E SERVICOS LTDA",
 			"val": 15.40285669003798,
-			"desc": 438.72,
+			"desc": "438.72",
 			"group": "ELO COMERCIO E SERVICOS LTDA"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 6.776804297300833,
-			"desc": 218.08,
+			"desc": "218.08",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 23.302995663237823,
-			"desc": 626.9499999999999,
+			"desc": "626.95",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -638,7 +639,7 @@
 			"id": "CAMPINAS AEROPORTO HOTEL EIRELI",
 			"name": "CAMPINAS AEROPORTO HOTEL EIRELI",
 			"val": 5.427026911191167,
-			"desc": 180.92,
+			"desc": "180.92",
 			"group": "CAMPINAS AEROPORTO HOTEL EIRELI"
 		},
 		{
@@ -651,7 +652,7 @@
 			"id": "TRANSAMERICA COMERCIAL E SERVIÇOS LTDA.",
 			"name": "TRANSAMERICA COMERCIAL E SERVIÇOS LTDA.",
 			"val": 10.867160880581658,
-			"desc": 325.5,
+			"desc": "325.50",
 			"group": "TRANSAMERICA COMERCIAL E SERVIÇOS LTDA."
 		},
 		{
@@ -664,7 +665,7 @@
 			"id": "TAKEO MARUTA CONVENIENCIA ME",
 			"name": "TAKEO MARUTA CONVENIENCIA ME",
 			"val": 26.873364583687714,
-			"desc": 709.4,
+			"desc": "709.40",
 			"group": "TAKEO MARUTA CONVENIENCIA ME"
 		},
 		{
@@ -677,7 +678,7 @@
 			"id": "TELEFONICA BRASIL SA VIVO/GVT",
 			"name": "TELEFONICA BRASIL SA VIVO/GVT",
 			"val": 8.342505324960456,
-			"desc": 259.98,
+			"desc": "259.98",
 			"group": "TELEFONICA BRASIL SA VIVO/GVT"
 		},
 		{
@@ -696,7 +697,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 8.781626326707432,
-			"desc": 271.54,
+			"desc": "271.54",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -709,7 +710,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 8.496398141794495,
-			"desc": 264.04,
+			"desc": "264.04",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -728,7 +729,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 1.436193719149942,
-			"desc": 60.63,
+			"desc": "60.63",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -741,7 +742,7 @@
 			"id": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA",
 			"name": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA",
 			"val": 9.055040135482894,
-			"desc": 278.7,
+			"desc": "278.70",
 			"group": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA"
 		},
 		{
@@ -754,7 +755,7 @@
 			"id": "CRIATIVA GRAFICA E EDITORA LTDA",
 			"name": "CRIATIVA GRAFICA E EDITORA LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "CRIATIVA GRAFICA E EDITORA LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 96.56542323717565,
-			"desc": 2177.2,
+			"desc": "2177.20",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"name": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
 			"val": 4.901258945199639,
-			"desc": 166.12,
+			"desc": "166.12",
 			"group": "POSTO DE COMBUSTIVEIS 214 SUL LTDA"
 		},
 		{

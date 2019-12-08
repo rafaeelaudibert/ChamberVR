@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "FABIANO TOLENTINO"
+			"name": "FABIANO TOLENTINO",
+			"desc": "23052.75"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 175.37686183097674,
-			"desc": 3699.02,
+			"desc": "3699.02",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -102,7 +103,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 4.851203415499928,
-			"desc": 164.7,
+			"desc": "164.70",
 			"group": "RAMAL"
 		},
 		{
@@ -127,7 +128,7 @@
 			"id": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 6.480332513835858,
-			"desc": 210.01,
+			"desc": "210.01",
 			"group": "EXPRESSA COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -140,7 +141,7 @@
 			"id": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
 			"name": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA",
 			"val": 113.25400699445703,
-			"desc": 2507.3999999999996,
+			"desc": "2507.40",
 			"group": "POSTO DE COMBUSTIVEL VILA CRUZEIRO LTDA"
 		},
 		{
@@ -219,7 +220,7 @@
 			"id": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"name": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL",
 			"val": 3.0055211818632475,
-			"desc": 110.66,
+			"desc": "110.66",
 			"group": "OI MOVEL S.A. - EM RECUPERACAO JUDICIAL"
 		},
 		{
@@ -232,7 +233,7 @@
 			"id": "SULAMITA NAVES DE AGUIAR",
 			"name": "SULAMITA NAVES DE AGUIAR",
 			"val": 7.176998036383117,
-			"desc": 228.9,
+			"desc": "228.90",
 			"group": "SULAMITA NAVES DE AGUIAR"
 		},
 		{
@@ -245,7 +246,7 @@
 			"id": "POSTO ALTO DA RAJA LTDA",
 			"name": "POSTO ALTO DA RAJA LTDA",
 			"val": 4.602697428792559,
-			"desc": 157.62,
+			"desc": "157.62",
 			"group": "POSTO ALTO DA RAJA LTDA"
 		},
 		{
@@ -258,7 +259,7 @@
 			"id": "POSTO MG 10 LTDA",
 			"name": "POSTO MG 10 LTDA",
 			"val": 7.007971566427777,
-			"desc": 224.34,
+			"desc": "224.34",
 			"group": "POSTO MG 10 LTDA"
 		},
 		{
@@ -271,7 +272,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 12.6667477784997,
-			"desc": 371.01,
+			"desc": "371.01",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -290,7 +291,7 @@
 			"id": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"name": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
 			"val": 93.00340060992063,
-			"desc": 2106,
+			"desc": "2106.00",
 			"group": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA"
 		},
 		{
@@ -315,7 +316,7 @@
 			"id": "MOURAO & CIA LTDA",
 			"name": "MOURAO & CIA LTDA",
 			"val": 7.048696951364922,
-			"desc": 225.44,
+			"desc": "225.44",
 			"group": "MOURAO & CIA LTDA"
 		},
 		{
@@ -328,7 +329,7 @@
 			"id": "AMANDA CRISTINA VIEIRA QUINTILIANO",
 			"name": "AMANDA CRISTINA VIEIRA QUINTILIANO",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "AMANDA CRISTINA VIEIRA QUINTILIANO"
 		},
 		{
@@ -341,7 +342,7 @@
 			"id": "Cia Aérea - AZUL",
 			"name": "Cia Aérea - AZUL",
 			"val": 96.29028348099449,
-			"desc": 2171.71,
+			"desc": "2171.71",
 			"group": "Cia Aérea - AZUL"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "POSTO DELTA ITAUNA LTDA",
 			"name": "POSTO DELTA ITAUNA LTDA",
 			"val": 7.544259544678647,
-			"desc": 238.76,
+			"desc": "238.76",
 			"group": "POSTO DELTA ITAUNA LTDA"
 		},
 		{
@@ -379,7 +380,7 @@
 			"id": "SOCIEDADE COMERCIAL CANAA -LTDA",
 			"name": "SOCIEDADE COMERCIAL CANAA -LTDA",
 			"val": 64.35986893859315,
-			"desc": 1521.98,
+			"desc": "1521.98",
 			"group": "SOCIEDADE COMERCIAL CANAA -LTDA"
 		},
 		{
@@ -434,7 +435,7 @@
 			"id": "POSTO BR 494 LTDA",
 			"name": "POSTO BR 494 LTDA",
 			"val": 7.28923022675298,
-			"desc": 231.92,
+			"desc": "231.92",
 			"group": "POSTO BR 494 LTDA"
 		},
 		{
@@ -447,7 +448,7 @@
 			"id": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
 			"name": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA",
 			"val": 6.761331466115121,
-			"desc": 217.66,
+			"desc": "217.66",
 			"group": "POSTO DOM PEDRO S&Atilde;O SEBASTIAO DA BELA VISTA LTDA"
 		},
 		{
@@ -460,7 +461,7 @@
 			"id": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"name": "LUCIENE ALBUQUERQUE DA PONTE ME",
 			"val": 5.883066574264673,
-			"desc": 193.6,
+			"desc": "193.60",
 			"group": "LUCIENE ALBUQUERQUE DA PONTE ME"
 		},
 		{
@@ -473,7 +474,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 35.603938686144375,
-			"desc": 906.0899999999999,
+			"desc": "906.09",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -510,7 +511,7 @@
 			"id": "M&M RENT A CAR LTDA",
 			"name": "M&M RENT A CAR LTDA",
 			"val": 187.98011617071398,
-			"desc": 3935.2,
+			"desc": "3935.20",
 			"group": "M&M RENT A CAR LTDA"
 		},
 		{
@@ -523,7 +524,7 @@
 			"id": "Condomínio Do Edifício Fagundes",
 			"name": "Condomínio Do Edifício Fagundes",
 			"val": 13.328587906770508,
-			"desc": 387.54,
+			"desc": "387.54",
 			"group": "Condomínio Do Edifício Fagundes"
 		},
 		{
@@ -536,7 +537,7 @@
 			"id": "COMERCIAL MARCESOP LTDA",
 			"name": "COMERCIAL MARCESOP LTDA",
 			"val": 6.32089727740287,
-			"desc": 205.65,
+			"desc": "205.65",
 			"group": "COMERCIAL MARCESOP LTDA"
 		},
 		{
@@ -549,7 +550,7 @@
 			"id": "CERBRAN LTDA",
 			"name": "CERBRAN LTDA",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "CERBRAN LTDA"
 		},
 		{
@@ -562,7 +563,7 @@
 			"id": "Posto Mario Werneck",
 			"name": "Posto Mario Werneck",
 			"val": 6.65425580185794,
-			"desc": 214.75,
+			"desc": "214.75",
 			"group": "Posto Mario Werneck"
 		},
 		{
@@ -575,7 +576,7 @@
 			"id": "JOSE GERALDO PASSOS",
 			"name": "JOSE GERALDO PASSOS",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "JOSE GERALDO PASSOS"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "POSTO PONTO ALTO LTDA",
 			"name": "POSTO PONTO ALTO LTDA",
 			"val": 7.610439467959008,
-			"desc": 240.53,
+			"desc": "240.53",
 			"group": "POSTO PONTO ALTO LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "FERNANDO MARCOS RODRIGUES",
 			"name": "FERNANDO MARCOS RODRIGUES",
 			"val": 17.931568569324174,
-			"desc": 500,
+			"desc": "500.00",
 			"group": "FERNANDO MARCOS RODRIGUES"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "Posto Matuca",
 			"name": "Posto Matuca",
 			"val": 8.227892400723107,
-			"desc": 256.95,
+			"desc": "256.95",
 			"group": "Posto Matuca"
 		},
 		{
@@ -627,7 +628,7 @@
 			"id": "Liberio joao de santana & cia ltda",
 			"name": "Liberio joao de santana & cia ltda",
 			"val": 7.484127736801087,
-			"desc": 237.15,
+			"desc": "237.15",
 			"group": "Liberio joao de santana & cia ltda"
 		},
 		{
@@ -640,7 +641,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 2.278778129700374,
-			"desc": 88.16,
+			"desc": "88.16",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{

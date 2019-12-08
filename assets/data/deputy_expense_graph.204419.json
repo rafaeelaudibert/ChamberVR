@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "GLAUSTIN FOKUS"
+			"name": "GLAUSTIN FOKUS",
+			"desc": "216462.71"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "L & S VEICULOS E COMBUSTIVEIS LTDA",
 			"name": "L & S VEICULOS E COMBUSTIVEIS LTDA",
 			"val": 199.75652854299923,
-			"desc": 4154.51,
+			"desc": "4154.51",
 			"group": "L & S VEICULOS E COMBUSTIVEIS LTDA"
 		},
 		{
@@ -36,7 +37,7 @@
 			"id": "POSTO ALDEIA LTDA",
 			"name": "POSTO ALDEIA LTDA",
 			"val": 22.447774441354266,
-			"desc": 606.99,
+			"desc": "606.99",
 			"group": "POSTO ALDEIA LTDA"
 		},
 		{
@@ -55,7 +56,7 @@
 			"id": "AUTO POSTO MEDALHAO LTDA",
 			"name": "AUTO POSTO MEDALHAO LTDA",
 			"val": 8.154617988666656,
-			"desc": 255.01,
+			"desc": "255.01",
 			"group": "AUTO POSTO MEDALHAO LTDA"
 		},
 		{
@@ -68,7 +69,7 @@
 			"id": "SANEAGO",
 			"name": "SANEAGO",
 			"val": 19.97915031934354,
-			"desc": 548.86,
+			"desc": "548.86",
 			"group": "SANEAGO"
 		},
 		{
@@ -105,7 +106,7 @@
 			"id": "HALLEY COMBUSTIVEIS AUTOMOTIVOS LTDA",
 			"name": "HALLEY COMBUSTIVEIS AUTOMOTIVOS LTDA",
 			"val": 10.377157076629548,
-			"desc": 312.95,
+			"desc": "312.95",
 			"group": "HALLEY COMBUSTIVEIS AUTOMOTIVOS LTDA"
 		},
 		{
@@ -118,7 +119,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 120.04373350150384,
-			"desc": 2640.3,
+			"desc": "2640.30",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -149,7 +150,7 @@
 			"id": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"name": "CONDE & DELL ARINGA - DES DE SOFTWARES",
 			"val": 202.20771669089856,
-			"desc": 4200,
+			"desc": "4200.00",
 			"group": "CONDE & DELL ARINGA - DES DE SOFTWARES"
 		},
 		{
@@ -198,7 +199,7 @@
 			"id": "L&S VEICULOS E COMBUSTIVEIS LTDA",
 			"name": "L&S VEICULOS E COMBUSTIVEIS LTDA",
 			"val": 524.0730809872692,
-			"desc": 9873.73,
+			"desc": "9873.73",
 			"group": "L&S VEICULOS E COMBUSTIVEIS LTDA"
 		},
 		{
@@ -217,7 +218,7 @@
 			"id": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 43.112294764155436,
-			"desc": 1070.8899999999999,
+			"desc": "1070.89",
 			"group": "LM COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -248,7 +249,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. VIVO",
 			"val": 22.091120723915267,
-			"desc": 598.64,
+			"desc": "598.64",
 			"group": "TELEFÔNICA BRASIL S.A. VIVO"
 		},
 		{
@@ -273,7 +274,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 36.7533341881603,
-			"desc": 931.5500000000001,
+			"desc": "931.55",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -304,7 +305,7 @@
 			"id": "TELEFONICA BRASIL S.A.",
 			"name": "TELEFONICA BRASIL S.A.",
 			"val": 6.308121557902083,
-			"desc": 205.3,
+			"desc": "205.30",
 			"group": "TELEFONICA BRASIL S.A."
 		},
 		{
@@ -317,7 +318,7 @@
 			"id": "EMIDIO SOUTO PEREIRA - EPP",
 			"name": "EMIDIO SOUTO PEREIRA - EPP",
 			"val": 129.86888732896432,
-			"desc": 2831.3,
+			"desc": "2831.30",
 			"group": "EMIDIO SOUTO PEREIRA - EPP"
 		},
 		{
@@ -348,7 +349,7 @@
 			"id": "Estufa Marketing LTDA",
 			"name": "Estufa Marketing LTDA",
 			"val": 1589.83255297716,
-			"desc": 27000,
+			"desc": "27000.00",
 			"group": "Estufa Marketing LTDA"
 		},
 		{
@@ -373,7 +374,7 @@
 			"id": "CENCOSUD BRASIL COMERCIAL LTDA",
 			"name": "CENCOSUD BRASIL COMERCIAL LTDA",
 			"val": 8.727530363785787,
-			"desc": 270.12,
+			"desc": "270.12",
 			"group": "CENCOSUD BRASIL COMERCIAL LTDA"
 		},
 		{
@@ -386,7 +387,7 @@
 			"id": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"name": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA",
 			"val": 3.4398786773242995,
-			"desc": 123.72,
+			"desc": "123.72",
 			"group": "FLAMINGOCOMBUSTIVEIS E LUBRIFICANTES LTDA"
 		},
 		{
@@ -399,7 +400,7 @@
 			"id": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"name": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
 			"val": 182.55345983004165,
-			"desc": 3833.7000000000003,
+			"desc": "3833.70",
 			"group": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA"
 		},
 		{
@@ -448,7 +449,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 61.68948748026955,
-			"desc": 1466.29,
+			"desc": "1466.29",
 			"group": "RAMAL"
 		},
 		{
@@ -497,7 +498,7 @@
 			"id": "ESTUFA MARKETING LTDA",
 			"name": "ESTUFA MARKETING LTDA",
 			"val": 1017.7710685995168,
-			"desc": 18000,
+			"desc": "18000.00",
 			"group": "ESTUFA MARKETING LTDA"
 		},
 		{
@@ -516,7 +517,7 @@
 			"id": "TELEFONIA BRASIL S.A. - VIVO",
 			"name": "TELEFONIA BRASIL S.A. - VIVO",
 			"val": 6.11508495181978,
-			"desc": 200,
+			"desc": "200.00",
 			"group": "TELEFONIA BRASIL S.A. - VIVO"
 		},
 		{
@@ -529,7 +530,7 @@
 			"id": "NODA E MACHADO LTDA",
 			"name": "NODA E MACHADO LTDA",
 			"val": 12.2342293679089,
-			"desc": 360.15,
+			"desc": "360.15",
 			"group": "NODA E MACHADO LTDA"
 		},
 		{
@@ -542,7 +543,7 @@
 			"id": "COMERCIAL DE COMBUSTIVEL SABIA LTDA",
 			"name": "COMERCIAL DE COMBUSTIVEL SABIA LTDA",
 			"val": 18.99608528006524,
-			"desc": 525.48,
+			"desc": "525.48",
 			"group": "COMERCIAL DE COMBUSTIVEL SABIA LTDA"
 		},
 		{
@@ -561,7 +562,7 @@
 			"id": "PANTANAL VEÍCULOS LTDA",
 			"name": "PANTANAL VEÍCULOS LTDA",
 			"val": 440.9120641607235,
-			"desc": 8450,
+			"desc": "8450.00",
 			"group": "PANTANAL VEÍCULOS LTDA"
 		},
 		{
@@ -580,7 +581,7 @@
 			"id": "PREFEITURA MUNICIPAL DE GOIÂNIA",
 			"name": "PREFEITURA MUNICIPAL DE GOIÂNIA",
 			"val": 154.7182847387484,
-			"desc": 3308.25,
+			"desc": "3308.25",
 			"group": "PREFEITURA MUNICIPAL DE GOIÂNIA"
 		},
 		{
@@ -593,7 +594,7 @@
 			"id": "SUPER POSTO GOIANIA CENTRO LTDA - EPP",
 			"name": "SUPER POSTO GOIANIA CENTRO LTDA - EPP",
 			"val": 13.528384055223524,
-			"desc": 392.51,
+			"desc": "392.51",
 			"group": "SUPER POSTO GOIANIA CENTRO LTDA - EPP"
 		},
 		{
@@ -612,7 +613,7 @@
 			"id": "Cleantro Tiago Gonçalves",
 			"name": "Cleantro Tiago Gonçalves",
 			"val": 808.2462629120099,
-			"desc": 14605.880000000001,
+			"desc": "14605.88",
 			"group": "Cleantro Tiago Gonçalves"
 		},
 		{
@@ -643,7 +644,7 @@
 			"id": "JM COMERCIO DE LUBRIFICANTES LTDA",
 			"name": "JM COMERCIO DE LUBRIFICANTES LTDA",
 			"val": 27.6906402006464,
-			"desc": 728.09,
+			"desc": "728.09",
 			"group": "JM COMERCIO DE LUBRIFICANTES LTDA"
 		},
 		{
@@ -668,7 +669,7 @@
 			"id": "Cyntia Rodrigues de Araújo Estrela",
 			"name": "Cyntia Rodrigues de Araújo Estrela",
 			"val": 597.009288623922,
-			"desc": 11105.880000000001,
+			"desc": "11105.88",
 			"group": "Cyntia Rodrigues de Araújo Estrela"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.65425580185794,
-			"desc": 214.75,
+			"desc": "214.75",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -706,7 +707,7 @@
 			"id": "POSTO CAPIM DOURADO LTDA",
 			"name": "POSTO CAPIM DOURADO LTDA",
 			"val": 8.921253795124061,
-			"desc": 275.2,
+			"desc": "275.20",
 			"group": "POSTO CAPIM DOURADO LTDA"
 		},
 		{
@@ -719,7 +720,7 @@
 			"id": "LER LIVRARIA E PAPELARIA LTDA ME",
 			"name": "LER LIVRARIA E PAPELARIA LTDA ME",
 			"val": 36.13208255044225,
-			"desc": 917.8,
+			"desc": "917.80",
 			"group": "LER LIVRARIA E PAPELARIA LTDA ME"
 		},
 		{
@@ -744,7 +745,7 @@
 			"id": "AUTO POSTO JAMEL CECILIO LTDA",
 			"name": "AUTO POSTO JAMEL CECILIO LTDA",
 			"val": 8.915143963296023,
-			"desc": 275.04,
+			"desc": "275.04",
 			"group": "AUTO POSTO JAMEL CECILIO LTDA"
 		},
 		{
@@ -757,7 +758,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 5.771119156869911,
-			"desc": 190.5,
+			"desc": "190.50",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -770,7 +771,7 @@
 			"id": "AUTO POSTO DONA SANTA LTDA",
 			"name": "AUTO POSTO DONA SANTA LTDA",
 			"val": 1.77724290922438,
-			"desc": 72.01,
+			"desc": "72.01",
 			"group": "AUTO POSTO DONA SANTA LTDA"
 		},
 		{
@@ -783,7 +784,7 @@
 			"id": "AUTO POSTO CERRADO LTDA",
 			"name": "AUTO POSTO CERRADO LTDA",
 			"val": 7.49980823163005,
-			"desc": 237.57,
+			"desc": "237.57",
 			"group": "AUTO POSTO CERRADO LTDA"
 		},
 		{
@@ -796,7 +797,7 @@
 			"id": "EFRAIM LOCADORA DE AUTOMÓVEIS LTDA ME",
 			"name": "EFRAIM LOCADORA DE AUTOMÓVEIS LTDA ME",
 			"val": 1460.9640474436812,
-			"desc": 25000,
+			"desc": "25000.00",
 			"group": "EFRAIM LOCADORA DE AUTOMÓVEIS LTDA ME"
 		},
 		{
@@ -815,7 +816,7 @@
 			"id": "V8 COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"name": "V8 COMERCIO E DERIVADOS DE PETROLEO LTDA",
 			"val": 8.7229608448149,
-			"desc": 270,
+			"desc": "270.00",
 			"group": "V8 COMERCIO E DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -828,7 +829,7 @@
 			"id": "RESULTS AGENCIA DE PROPAGANDA E MARKETING LTDA",
 			"name": "RESULTS AGENCIA DE PROPAGANDA E MARKETING LTDA",
 			"val": 245.75424759098897,
-			"desc": 5000,
+			"desc": "5000.00",
 			"group": "RESULTS AGENCIA DE PROPAGANDA E MARKETING LTDA"
 		},
 		{
@@ -841,7 +842,7 @@
 			"id": "Ams Grafica e editora Eireli",
 			"name": "Ams Grafica e editora Eireli",
 			"val": 46.770123470825986,
-			"desc": 1150,
+			"desc": "1150.00",
 			"group": "Ams Grafica e editora Eireli"
 		},
 		{
@@ -854,7 +855,7 @@
 			"id": "EFRAIM SERVICOS E LOCACAO DE VEICULOS LTDA",
 			"name": "EFRAIM SERVICOS E LOCACAO DE VEICULOS LTDA",
 			"val": 680.4820237218406,
-			"desc": 12500,
+			"desc": "12500.00",
 			"group": "EFRAIM SERVICOS E LOCACAO DE VEICULOS LTDA"
 		},
 		{
@@ -867,7 +868,7 @@
 			"id": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"name": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
 			"val": 7.967666009379175,
-			"desc": 250.05,
+			"desc": "250.05",
 			"group": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A"
 		},
 		{
@@ -880,7 +881,7 @@
 			"id": "POSTO DN LTDA",
 			"name": "POSTO DN LTDA",
 			"val": 8.380376216758131,
-			"desc": 260.98,
+			"desc": "260.98",
 			"group": "POSTO DN LTDA"
 		},
 		{
@@ -893,7 +894,7 @@
 			"id": "EFRAIM LOCADORA DE AUTOMOVEIS LTDA",
 			"name": "EFRAIM LOCADORA DE AUTOMOVEIS LTDA",
 			"val": 680.4820237218406,
-			"desc": 12500,
+			"desc": "12500.00",
 			"group": "EFRAIM LOCADORA DE AUTOMOVEIS LTDA"
 		},
 		{
@@ -906,7 +907,7 @@
 			"id": "MANCINI COMUNICACAO E MARKETING EIRELI",
 			"name": "MANCINI COMUNICACAO E MARKETING EIRELI",
 			"val": 1144.8261064079697,
-			"desc": 20028.75,
+			"desc": "20028.75",
 			"group": "MANCINI COMUNICACAO E MARKETING EIRELI"
 		},
 		{
@@ -919,7 +920,7 @@
 			"id": "CAPITIE DESIGN - EIRELI -ME",
 			"name": "CAPITIE DESIGN - EIRELI -ME",
 			"val": 1048.9675861215367,
-			"desc": 18500,
+			"desc": "18500.00",
 			"group": "CAPITIE DESIGN - EIRELI -ME"
 		},
 		{
@@ -932,7 +933,7 @@
 			"id": "AUTO POSTO LIDER LTDA",
 			"name": "AUTO POSTO LIDER LTDA",
 			"val": 6.846120720126922,
-			"desc": 219.96,
+			"desc": "219.96",
 			"group": "AUTO POSTO LIDER LTDA"
 		},
 		{

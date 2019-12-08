@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "SILVIO COSTA FILHO"
+			"name": "SILVIO COSTA FILHO",
+			"desc": "106433.99"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 34.26745618121231,
-			"desc": 876.37,
+			"desc": "876.37",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -66,7 +67,7 @@
 			"id": "AUTO POSTO JK LTDA",
 			"name": "AUTO POSTO JK LTDA",
 			"val": 35.329612288381334,
-			"desc": 900,
+			"desc": "900.00",
 			"group": "AUTO POSTO JK LTDA"
 		},
 		{
@@ -109,7 +110,7 @@
 			"id": "Cia Aérea - GOL",
 			"name": "Cia Aérea - GOL",
 			"val": 882.1863207971419,
-			"desc": 15811.3,
+			"desc": "15811.30",
 			"group": "Cia Aérea - GOL"
 		},
 		{
@@ -272,7 +273,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 521.3743253750731,
-			"desc": 9827.859999999999,
+			"desc": "9827.86",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -363,7 +364,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 7.804173077858235,
-			"desc": 245.7,
+			"desc": "245.70",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -376,7 +377,7 @@
 			"id": "BARRETO SANTOS LTDA - EPP",
 			"name": "BARRETO SANTOS LTDA - EPP",
 			"val": 1143.016990363956,
-			"desc": 20000,
+			"desc": "20000.00",
 			"group": "BARRETO SANTOS LTDA - EPP"
 		},
 		{
@@ -395,7 +396,7 @@
 			"id": "ADELMO PEREIRA DE VASCONCELOS JUNIOR",
 			"name": "ADELMO PEREIRA DE VASCONCELOS JUNIOR",
 			"val": 943.2308667635942,
-			"desc": 16800,
+			"desc": "16800.00",
 			"group": "ADELMO PEREIRA DE VASCONCELOS JUNIOR"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "BRASAL COMBUSTIVEIS LTDA",
 			"name": "BRASAL COMBUSTIVEIS LTDA",
 			"val": 0.5888268714730223,
-			"desc": 30,
+			"desc": "30.00",
 			"group": "BRASAL COMBUSTIVEIS LTDA"
 		},
 		{
@@ -433,7 +434,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 132.9486600521102,
-			"desc": 2890.87,
+			"desc": "2890.87",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -500,7 +501,7 @@
 			"id": "GOODS RESTAURANTE E LANCHONETE EIRELI",
 			"name": "GOODS RESTAURANTE E LANCHONETE EIRELI",
 			"val": 0.36895466351341594,
-			"desc": 21,
+			"desc": "21.00",
 			"group": "GOODS RESTAURANTE E LANCHONETE EIRELI"
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 1.4920387679760931,
-			"desc": 62.52,
+			"desc": "62.52",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "BARRETO SANTOS LTDA",
 			"name": "BARRETO SANTOS LTDA",
 			"val": 531.508495181978,
-			"desc": 10000,
+			"desc": "10000.00",
 			"group": "BARRETO SANTOS LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 56.74609499394048,
-			"desc": 1362.51,
+			"desc": "1362.51",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -588,7 +589,7 @@
 			"id": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"name": "LINCE ASSESSORIA E CONSULTORIA LTDA",
 			"val": 44.4544663570129,
-			"desc": 1100,
+			"desc": "1100.00",
 			"group": "LINCE ASSESSORIA E CONSULTORIA LTDA"
 		},
 		{
@@ -601,7 +602,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 6.700222801869237,
-			"desc": 216,
+			"desc": "216.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -614,7 +615,7 @@
 			"id": "CORREIOS - CARTA REGISTRADA COM AR",
 			"name": "CORREIOS - CARTA REGISTRADA COM AR",
 			"val": 0.9223379719176761,
-			"desc": 42.599999999999994,
+			"desc": "42.60",
 			"group": "CORREIOS - CARTA REGISTRADA COM AR"
 		},
 		{
@@ -633,7 +634,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL",
 			"name": "CORREIOS - SEDEX CONVENCIONAL",
 			"val": 1.1469363460098365,
-			"desc": 50.64,
+			"desc": "50.64",
 			"group": "CORREIOS - SEDEX CONVENCIONAL"
 		},
 		{
@@ -646,7 +647,7 @@
 			"id": "TELEFÔNICA BRASIL S.A.",
 			"name": "TELEFÔNICA BRASIL S.A.",
 			"val": 45.8349096910359,
-			"desc": 1129.84,
+			"desc": "1129.84",
 			"group": "TELEFÔNICA BRASIL S.A."
 		},
 		{
@@ -659,7 +660,7 @@
 			"id": "QUEIROZ NEVES ADVOGADOS",
 			"name": "QUEIROZ NEVES ADVOGADOS",
 			"val": 414.9050971091868,
-			"desc": 8000,
+			"desc": "8000.00",
 			"group": "QUEIROZ NEVES ADVOGADOS"
 		},
 		{
@@ -672,7 +673,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 4.640138387917102,
-			"desc": 158.69,
+			"desc": "158.69",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -697,7 +698,7 @@
 			"id": "HOTEL SLAVIERO JARDINS LTDA",
 			"name": "HOTEL SLAVIERO JARDINS LTDA",
 			"val": 12.739014003155537,
-			"desc": 372.82,
+			"desc": "372.82",
 			"group": "HOTEL SLAVIERO JARDINS LTDA"
 		},
 		{
@@ -710,7 +711,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 67.21096251760754,
-			"desc": 1581.17,
+			"desc": "1581.17",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -723,7 +724,7 @@
 			"id": "AUTO POSTO AGUAS CLARAS LTDA",
 			"name": "AUTO POSTO AGUAS CLARAS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "AUTO POSTO AGUAS CLARAS LTDA"
 		},
 		{
@@ -742,7 +743,7 @@
 			"id": "POSTO SAO SEBASTIAO LTDA",
 			"name": "POSTO SAO SEBASTIAO LTDA",
 			"val": 783.9319398983324,
-			"desc": 14207.470000000001,
+			"desc": "14207.47",
 			"group": "POSTO SAO SEBASTIAO LTDA"
 		},
 		{
@@ -767,7 +768,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 19.88513303191751,
-			"desc": 546.6300000000001,
+			"desc": "546.63",
 			"group": "RAMAL"
 		},
 		{
@@ -792,7 +793,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "DR. LUIZ OVANDO"
+			"name": "DR. LUIZ OVANDO",
+			"desc": "26589.31"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 12.90569839174434,
-			"desc": 376.99,
+			"desc": "376.99",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -126,7 +127,7 @@
 			"id": "AUTO POSTO CHAVES LTDA",
 			"name": "AUTO POSTO CHAVES LTDA",
 			"val": 29.541625084212445,
-			"desc": 770.1899999999999,
+			"desc": "770.19",
 			"group": "AUTO POSTO CHAVES LTDA"
 		},
 		{
@@ -181,7 +182,7 @@
 			"id": "POSTO VIP LTDA",
 			"name": "POSTO VIP LTDA",
 			"val": 29.920951963957155,
-			"desc": 778.78,
+			"desc": "778.78",
 			"group": "POSTO VIP LTDA"
 		},
 		{
@@ -218,7 +219,7 @@
 			"id": "Cia Aérea - TAM",
 			"name": "Cia Aérea - TAM",
 			"val": 175.5257789161379,
-			"desc": 3701.8199999999997,
+			"desc": "3701.82",
 			"group": "Cia Aérea - TAM"
 		},
 		{
@@ -273,7 +274,7 @@
 			"id": "AUTO POSTO SAN MARTIN LTDA",
 			"name": "AUTO POSTO SAN MARTIN LTDA",
 			"val": 4.476688890204912,
-			"desc": 154.01,
+			"desc": "154.01",
 			"group": "AUTO POSTO SAN MARTIN LTDA"
 		},
 		{
@@ -286,7 +287,7 @@
 			"id": "AUTO POSTO CATEDRAL LTDA",
 			"name": "AUTO POSTO CATEDRAL LTDA",
 			"val": 17.727701385823732,
-			"desc": 495.1,
+			"desc": "495.10",
 			"group": "AUTO POSTO CATEDRAL LTDA"
 		},
 		{
@@ -311,7 +312,7 @@
 			"id": "CELULAR FUNCIONAL",
 			"name": "CELULAR FUNCIONAL",
 			"val": 36.1722586823439,
-			"desc": 918.69,
+			"desc": "918.69",
 			"group": "CELULAR FUNCIONAL"
 		},
 		{
@@ -366,7 +367,7 @@
 			"id": "Cia Aérea - AVIANCA",
 			"name": "Cia Aérea - AVIANCA",
 			"val": 314.42326374494615,
-			"desc": 6235.45,
+			"desc": "6235.45",
 			"group": "Cia Aérea - AVIANCA"
 		},
 		{
@@ -451,7 +452,7 @@
 			"id": "Matheus Arantes Suxberger",
 			"name": "Matheus Arantes Suxberger",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "Matheus Arantes Suxberger"
 		},
 		{
@@ -464,7 +465,7 @@
 			"id": "CONCESS. RODOVIA SUL MATOGROSSENSE S.A",
 			"name": "CONCESS. RODOVIA SUL MATOGROSSENSE S.A",
 			"val": 0.39242998244008215,
-			"desc": 22,
+			"desc": "22.00",
 			"group": "CONCESS. RODOVIA SUL MATOGROSSENSE S.A"
 		},
 		{
@@ -489,7 +490,7 @@
 			"id": "associação de comunicação social cristã",
 			"name": "associação de comunicação social cristã",
 			"val": 97.70893271402579,
-			"desc": 2200,
+			"desc": "2200.00",
 			"group": "associação de comunicação social cristã"
 		},
 		{
@@ -508,7 +509,7 @@
 			"id": "AUTO POSTO AEROPORTO LTDA",
 			"name": "AUTO POSTO AEROPORTO LTDA",
 			"val": 33.821303346127785,
-			"desc": 866.42,
+			"desc": "866.42",
 			"group": "AUTO POSTO AEROPORTO LTDA"
 		},
 		{
@@ -557,7 +558,7 @@
 			"id": "ANA R TORRES GUANANDI",
 			"name": "ANA R TORRES GUANANDI",
 			"val": 6.847596547901701,
-			"desc": 220,
+			"desc": "220.00",
 			"group": "ANA R TORRES GUANANDI"
 		},
 		{
@@ -576,7 +577,7 @@
 			"id": "JOSE ABRAO DERIVADOS DE PETROLEO LTDA",
 			"name": "JOSE ABRAO DERIVADOS DE PETROLEO LTDA",
 			"val": 8.3436411291735,
-			"desc": 260.01,
+			"desc": "260.01",
 			"group": "JOSE ABRAO DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -595,7 +596,7 @@
 			"id": "AUTO POSTO ANTENA 104 EIRELI",
 			"name": "AUTO POSTO ANTENA 104 EIRELI",
 			"val": 3.1489254234344126,
-			"desc": 115,
+			"desc": "115.00",
 			"group": "AUTO POSTO ANTENA 104 EIRELI"
 		},
 		{
@@ -608,7 +609,7 @@
 			"id": "MARIA DE FATIMA BANDEIRA BEZERRA",
 			"name": "MARIA DE FATIMA BANDEIRA BEZERRA",
 			"val": 3.5296877218783314,
-			"desc": 126.39,
+			"desc": "126.39",
 			"group": "MARIA DE FATIMA BANDEIRA BEZERRA"
 		},
 		{
@@ -621,7 +622,7 @@
 			"id": "PAPELARIA FRADELLI LTDA",
 			"name": "PAPELARIA FRADELLI LTDA",
 			"val": 2.7515868191979194,
-			"desc": 102.9,
+			"desc": "102.90",
 			"group": "PAPELARIA FRADELLI LTDA"
 		},
 		{
@@ -634,7 +635,7 @@
 			"id": "AUTO POSTO 2017 LTDA",
 			"name": "AUTO POSTO 2017 LTDA",
 			"val": 9.105945625619443,
-			"desc": 280.03000000000003,
+			"desc": "280.03",
 			"group": "AUTO POSTO 2017 LTDA"
 		},
 		{
@@ -653,7 +654,7 @@
 			"id": "CORREIOS - CARTA COMERCIAL",
 			"name": "CORREIOS - CARTA COMERCIAL",
 			"val": 0.36895466351341594,
-			"desc": 21,
+			"desc": "21.00",
 			"group": "CORREIOS - CARTA COMERCIAL"
 		},
 		{
@@ -666,7 +667,7 @@
 			"id": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"name": "CORREIOS - SEDEX CONVENCIONAL COM AR",
 			"val": 0.884353834544092,
-			"desc": 41.21,
+			"desc": "41.21",
 			"group": "CORREIOS - SEDEX CONVENCIONAL COM AR"
 		},
 		{
@@ -679,7 +680,7 @@
 			"id": "BIONDO E CIA LTDA",
 			"name": "BIONDO E CIA LTDA",
 			"val": 9.873421855603752,
-			"desc": 299.97,
+			"desc": "299.97",
 			"group": "BIONDO E CIA LTDA"
 		},
 		{
@@ -698,7 +699,7 @@
 			"id": "AUTO POSTO CRIOLO LTDA",
 			"name": "AUTO POSTO CRIOLO LTDA",
 			"val": 5.216559297369774,
-			"desc": 175.02,
+			"desc": "175.02",
 			"group": "AUTO POSTO CRIOLO LTDA"
 		},
 		{
@@ -711,7 +712,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.078755079316033,
-			"desc": 112.88000000000001,
+			"desc": "112.88",
 			"group": "RAMAL"
 		},
 		{
@@ -730,7 +731,7 @@
 			"id": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
 			"name": "JORNAL O ESTADO DE MATO GROSSO DO SUL",
 			"val": 39.86313713864835,
-			"desc": 1000,
+			"desc": "1000.00",
 			"group": "JORNAL O ESTADO DE MATO GROSSO DO SUL"
 		},
 		{
@@ -743,7 +744,7 @@
 			"id": "nelson benedito consultoria imobiliaria ltda",
 			"name": "nelson benedito consultoria imobiliaria ltda",
 			"val": 227.16552405191797,
-			"desc": 4660.3,
+			"desc": "4660.30",
 			"group": "nelson benedito consultoria imobiliaria ltda"
 		},
 		{
@@ -762,7 +763,7 @@
 			"id": "aguas guarirobas",
 			"name": "aguas guarirobas",
 			"val": 40.63151140161825,
-			"desc": 1016.82,
+			"desc": "1016.82",
 			"group": "aguas guarirobas"
 		},
 		{
@@ -775,7 +776,7 @@
 			"id": "LUIZ REINALDO RIOS DA CRUZ",
 			"name": "LUIZ REINALDO RIOS DA CRUZ",
 			"val": 3.330341603058564,
-			"desc": 120.45,
+			"desc": "120.45",
 			"group": "LUIZ REINALDO RIOS DA CRUZ"
 		},
 		{
@@ -788,7 +789,7 @@
 			"id": "POSTO XODO LTDA",
 			"name": "POSTO XODO LTDA",
 			"val": 3.932800180955269,
-			"desc": 138.26,
+			"desc": "138.26",
 			"group": "POSTO XODO LTDA"
 		},
 		{
@@ -801,7 +802,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 2.65754247590989,
-			"desc": 100,
+			"desc": "100.00",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -814,7 +815,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 39.202054944633424,
-			"desc": 985.5,
+			"desc": "985.50",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -827,7 +828,7 @@
 			"id": "CLARO S.A.",
 			"name": "CLARO S.A.",
 			"val": 4.134011146909983,
-			"desc": 144.12,
+			"desc": "144.12",
 			"group": "CLARO S.A."
 		},
 		{

@@ -2,7 +2,8 @@
 	"nodes": [
 		{
 			"id": -100,
-			"name": "HELIO LOPES"
+			"name": "HELIO LOPES",
+			"desc": "42806.99"
 		},
 		{
 			"id": -4,
@@ -12,7 +13,7 @@
 		{
 			"id": -3,
 			"name": "Placeholder",
-			"val": 0
+			"val": 1
 		},
 		{
 			"id": -3,
@@ -23,7 +24,7 @@
 			"id": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"name": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
 			"val": 42.873936136857175,
-			"desc": 1065.7099999999998,
+			"desc": "1065.71",
 			"group": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC"
 		},
 		{
@@ -162,7 +163,7 @@
 			"id": "MIZUNO KAY & CIA LTDA",
 			"name": "MIZUNO KAY & CIA LTDA",
 			"val": 3.8542149943281365,
-			"desc": 135.96,
+			"desc": "135.96",
 			"group": "MIZUNO KAY & CIA LTDA"
 		},
 		{
@@ -175,7 +176,7 @@
 			"id": "SB CHURRASCARIA LTDA",
 			"name": "SB CHURRASCARIA LTDA",
 			"val": 15.264759625084235,
-			"desc": 435.34000000000003,
+			"desc": "435.34",
 			"group": "SB CHURRASCARIA LTDA"
 		},
 		{
@@ -206,7 +207,7 @@
 			"id": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"name": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
 			"val": 30.432293395521906,
-			"desc": 790.34,
+			"desc": "790.34",
 			"group": "CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
 		},
 		{
@@ -237,7 +238,7 @@
 			"id": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"name": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
 			"val": 4.974352537361479,
-			"desc": 168.19,
+			"desc": "168.19",
 			"group": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA"
 		},
 		{
@@ -250,7 +251,7 @@
 			"id": "POSTO 01 TREVO ERMITAGE",
 			"name": "POSTO 01 TREVO ERMITAGE",
 			"val": 3.315307485892089,
-			"desc": 120,
+			"desc": "120.00",
 			"group": "POSTO 01 TREVO ERMITAGE"
 		},
 		{
@@ -263,7 +264,7 @@
 			"id": "AUTO POSTO PARQUE DO FLAMENGO LTDA",
 			"name": "AUTO POSTO PARQUE DO FLAMENGO LTDA",
 			"val": 5.22225192473889,
-			"desc": 175.18,
+			"desc": "175.18",
 			"group": "AUTO POSTO PARQUE DO FLAMENGO LTDA"
 		},
 		{
@@ -276,7 +277,7 @@
 			"id": "POSTO DISBRAVE IMPERIAL LTDA",
 			"name": "POSTO DISBRAVE IMPERIAL LTDA",
 			"val": 6.858666593457675,
-			"desc": 220.3,
+			"desc": "220.30",
 			"group": "POSTO DISBRAVE IMPERIAL LTDA"
 		},
 		{
@@ -289,7 +290,7 @@
 			"id": "POSTO DA TORRE EIRELI - EPP",
 			"name": "POSTO DA TORRE EIRELI - EPP",
 			"val": 43.42035017427876,
-			"desc": 1077.58,
+			"desc": "1077.58",
 			"group": "POSTO DA TORRE EIRELI - EPP"
 		},
 		{
@@ -326,7 +327,7 @@
 			"id": "telexperts telecomunicaçoes ltda",
 			"name": "telexperts telecomunicaçoes ltda",
 			"val": 3.311967892153483,
-			"desc": 119.9,
+			"desc": "119.90",
 			"group": "telexperts telecomunicaçoes ltda"
 		},
 		{
@@ -339,7 +340,7 @@
 			"id": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"name": "FRATELLI POSTO DE COMBUSTIVEIS LTDA",
 			"val": 57.15263090108931,
-			"desc": 1371.0800000000002,
+			"desc": "1371.08",
 			"group": "FRATELLI POSTO DE COMBUSTIVEIS LTDA"
 		},
 		{
@@ -394,7 +395,7 @@
 			"id": "AUTO POSTO RUCKERT LTDA EIRELO",
 			"name": "AUTO POSTO RUCKERT LTDA EIRELO",
 			"val": 4.337291214297528,
-			"desc": 150,
+			"desc": "150.00",
 			"group": "AUTO POSTO RUCKERT LTDA EIRELO"
 		},
 		{
@@ -407,7 +408,7 @@
 			"id": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"name": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA",
 			"val": 3.3992877657858123,
-			"desc": 122.51,
+			"desc": "122.51",
 			"group": "GOES COMBUSTIVEIS LUBRIRICANTES E GLP LTDA"
 		},
 		{
@@ -420,7 +421,7 @@
 			"id": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"name": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME",
 			"val": 686.5052601090418,
-			"desc": 12600,
+			"desc": "12600.00",
 			"group": "LOCAR 1000 LOCADORA DE VEICULOS LTDA ME"
 		},
 		{
@@ -445,7 +446,7 @@
 			"id": "RAMAL",
 			"name": "RAMAL",
 			"val": 3.520590999081096,
-			"desc": 126.12,
+			"desc": "126.12",
 			"group": "RAMAL"
 		},
 		{
@@ -470,7 +471,7 @@
 			"id": "TAM LINHAS AEREAS S/A.",
 			"name": "TAM LINHAS AEREAS S/A.",
 			"val": 296.99801027254847,
-			"desc": 5924.5599999999995,
+			"desc": "5924.56",
 			"group": "TAM LINHAS AEREAS S/A."
 		},
 		{
@@ -513,7 +514,7 @@
 			"id": "RESTAURANTE ESQUINA MINEIRA LTDA - EPP",
 			"name": "RESTAURANTE ESQUINA MINEIRA LTDA - EPP",
 			"val": 1.9845602055781966,
-			"desc": 78.76,
+			"desc": "78.76",
 			"group": "RESTAURANTE ESQUINA MINEIRA LTDA - EPP"
 		},
 		{
@@ -526,7 +527,7 @@
 			"id": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"name": "POSTO DE COMBUSTIVEL YASMIN LTDA",
 			"val": 6.9846610359838,
-			"desc": 223.71,
+			"desc": "223.71",
 			"group": "POSTO DE COMBUSTIVEL YASMIN LTDA"
 		},
 		{
@@ -539,7 +540,7 @@
 			"id": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"name": "AZUL LINHAS AÉREAS INTELIGENTES S.A",
 			"val": 42.705148326257756,
-			"desc": 1062.04,
+			"desc": "1062.04",
 			"group": "AZUL LINHAS AÉREAS INTELIGENTES S.A"
 		},
 		{
@@ -552,7 +553,7 @@
 			"id": "MRB COMERCIO DE ALIMENTOS LTDA EPP",
 			"name": "MRB COMERCIO DE ALIMENTOS LTDA EPP",
 			"val": 2.4670847354727963,
-			"desc": 94.08,
+			"desc": "94.08",
 			"group": "MRB COMERCIO DE ALIMENTOS LTDA EPP"
 		},
 		{
@@ -565,7 +566,7 @@
 			"id": "POSTO RIO PINHEIRO LTDA",
 			"name": "POSTO RIO PINHEIRO LTDA",
 			"val": 4.765006459531441,
-			"desc": 162.25,
+			"desc": "162.25",
 			"group": "POSTO RIO PINHEIRO LTDA"
 		},
 		{
@@ -578,7 +579,7 @@
 			"id": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"name": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
 			"val": 15.363209858127158,
-			"desc": 437.75,
+			"desc": "437.75",
 			"group": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA"
 		},
 		{
@@ -603,7 +604,7 @@
 			"id": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
 			"val": 83.38414800608996,
-			"desc": 1912.29,
+			"desc": "1912.29",
 			"group": "GOL LINHAS AEREAS INTELIGENTES S.A."
 		},
 		{
@@ -628,7 +629,7 @@
 			"id": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"name": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
 			"val": 68.47370286619514,
-			"desc": 1607.3,
+			"desc": "1607.30",
 			"group": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME"
 		},
 		{
@@ -641,7 +642,7 @@
 			"id": "LIGHT S.A",
 			"name": "LIGHT S.A",
 			"val": 3.0582767972362275,
-			"desc": 112.26,
+			"desc": "112.26",
 			"group": "LIGHT S.A"
 		},
 		{
@@ -654,7 +655,7 @@
 			"id": "Grupo HU Viagens e Turismo SA",
 			"name": "Grupo HU Viagens e Turismo SA",
 			"val": 15.782370018972774,
-			"desc": 447.99,
+			"desc": "447.99",
 			"group": "Grupo HU Viagens e Turismo SA"
 		},
 		{
@@ -667,7 +668,7 @@
 			"id": "CANA VERDE AUTO POSTO LTDA",
 			"name": "CANA VERDE AUTO POSTO LTDA",
 			"val": 4.337638076770334,
-			"desc": 150.01,
+			"desc": "150.01",
 			"group": "CANA VERDE AUTO POSTO LTDA"
 		},
 		{
@@ -680,7 +681,7 @@
 			"id": "BELIZE COMPANY AUTO POSTO",
 			"name": "BELIZE COMPANY AUTO POSTO",
 			"val": 6.480698795580034,
-			"desc": 210.02,
+			"desc": "210.02",
 			"group": "BELIZE COMPANY AUTO POSTO"
 		},
 		{
@@ -693,7 +694,7 @@
 			"id": "SILT SELF SERVICE EIRELI ME",
 			"name": "SILT SELF SERVICE EIRELI ME",
 			"val": 4.183668137846016,
-			"desc": 145.56,
+			"desc": "145.56",
 			"group": "SILT SELF SERVICE EIRELI ME"
 		},
 		{
@@ -718,7 +719,7 @@
 			"id": "AVIANCA BRASIL",
 			"name": "AVIANCA BRASIL",
 			"val": 44.6166042385299,
-			"desc": 1103.51,
+			"desc": "1103.51",
 			"group": "AVIANCA BRASIL"
 		},
 		{
@@ -731,7 +732,7 @@
 			"id": "Helen Tur Agencia de Viagens e Turismo Eirelli ME",
 			"name": "Helen Tur Agencia de Viagens e Turismo Eirelli ME",
 			"val": 282.4872150731382,
-			"desc": 5664.38,
+			"desc": "5664.38",
 			"group": "Helen Tur Agencia de Viagens e Turismo Eirelli ME"
 		},
 		{
@@ -756,7 +757,7 @@
 			"id": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"name": "TELEFÔNICA BRASIL S.A. - VIVO",
 			"val": 23.20812163728344,
-			"desc": 624.74,
+			"desc": "624.74",
 			"group": "TELEFÔNICA BRASIL S.A. - VIVO"
 		},
 		{
@@ -769,7 +770,7 @@
 			"id": "Telefônica Brasil S/A",
 			"name": "Telefônica Brasil S/A",
 			"val": 23.683369957336556,
-			"desc": 635.8,
+			"desc": "635.80",
 			"group": "Telefônica Brasil S/A"
 		},
 		{
@@ -782,7 +783,7 @@
 			"id": "REDE HG COMBUSTIVEIS LTDA.",
 			"name": "REDE HG COMBUSTIVEIS LTDA.",
 			"val": 4.809661698283827,
-			"desc": 163.52,
+			"desc": "163.52",
 			"group": "REDE HG COMBUSTIVEIS LTDA."
 		},
 		{
@@ -795,7 +796,7 @@
 			"id": "Telefônica Brasil S/A.",
 			"name": "Telefônica Brasil S/A.",
 			"val": 0.33037055571199103,
-			"desc": 19.33,
+			"desc": "19.33",
 			"group": "Telefônica Brasil S/A."
 		},
 		{
@@ -808,7 +809,7 @@
 			"id": "Kalunga Comercio e Industria Grafica Ltda",
 			"name": "Kalunga Comercio e Industria Grafica Ltda",
 			"val": 4.3858892768715725,
-			"desc": 151.4,
+			"desc": "151.40",
 			"group": "Kalunga Comercio e Industria Grafica Ltda"
 		},
 		{
@@ -821,7 +822,7 @@
 			"id": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
 			"val": 5.745880829475941,
-			"desc": 189.8,
+			"desc": "189.80",
 			"group": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -834,7 +835,7 @@
 			"id": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"name": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3",
 			"val": 1.1287712379549448,
-			"desc": 50,
+			"desc": "50.00",
 			"group": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A - POSTO DISBRAVE W3"
 		},
 		{
@@ -847,7 +848,7 @@
 			"id": "PAULO EDUARDO DE BASTOS FERREIRA",
 			"name": "PAULO EDUARDO DE BASTOS FERREIRA",
 			"val": 77.85922457676267,
-			"desc": 1800,
+			"desc": "1800.00",
 			"group": "PAULO EDUARDO DE BASTOS FERREIRA"
 		},
 		{
@@ -866,7 +867,7 @@
 			"id": "ADRIANA AZEVEDO DOCERIA BRASILEIRA LTDA",
 			"name": "ADRIANA AZEVEDO DOCERIA BRASILEIRA LTDA",
 			"val": 0.48884573068667353,
-			"desc": 26,
+			"desc": "26.00",
 			"group": "ADRIANA AZEVEDO DOCERIA BRASILEIRA LTDA"
 		},
 		{
@@ -879,7 +880,7 @@
 			"id": "POSTO CRUZEIRO LTDA",
 			"name": "POSTO CRUZEIRO LTDA",
 			"val": 2.7883601238850995,
-			"desc": 104.03,
+			"desc": "104.03",
 			"group": "POSTO CRUZEIRO LTDA"
 		},
 		{
@@ -892,7 +893,7 @@
 			"id": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"name": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
 			"val": 3.3156414717219738,
-			"desc": 120.01,
+			"desc": "120.01",
 			"group": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA"
 		},
 		{
@@ -905,7 +906,7 @@
 			"id": "HOTEL NACIONAL SA",
 			"name": "HOTEL NACIONAL SA",
 			"val": 34.924639699104134,
-			"desc": 891,
+			"desc": "891.00",
 			"group": "HOTEL NACIONAL SA"
 		},
 		{
@@ -918,7 +919,7 @@
 			"id": "PB ADM DE ESTACIONAMENTOS LTDA-SCP VENANCIO SHOPPING",
 			"name": "PB ADM DE ESTACIONAMENTOS LTDA-SCP VENANCIO SHOPPING",
 			"val": 0.27088636143845835,
-			"desc": 16.68,
+			"desc": "16.68",
 			"group": "PB ADM DE ESTACIONAMENTOS LTDA-SCP VENANCIO SHOPPING"
 		},
 		{
