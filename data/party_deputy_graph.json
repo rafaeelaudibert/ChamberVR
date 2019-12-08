@@ -226,26 +226,10 @@
         {
             "val": 1,
             "type": "party",
-            "name": "Partido Humanista da Solidariedade",
-            "id": 36793,
-            "group": 0,
-            "desc": "PHS"
-        },
-        {
-            "val": 1,
-            "type": "party",
             "name": "Rede Sustentabilidade",
             "id": 36886,
             "group": 0,
             "desc": "REDE"
-        },
-        {
-            "val": 1,
-            "type": "party",
-            "name": "Sem Partido",
-            "id": 36852,
-            "group": 0,
-            "desc": "S.PART."
         },
         {
             "val": 20,
@@ -2905,7 +2889,7 @@
             "type": "deputy",
             "name": "LUIZ ANTÔNIO CORRÊA",
             "id": 204448,
-            "group": 36852
+            "group": 37906
         },
         {
             "val": 20,
@@ -3696,7 +3680,7 @@
             "type": "deputy",
             "name": "IGOR KANNÁRIO",
             "id": 204564,
-            "group": 36793
+            "group": 36769
         },
         {
             "val": 20,
@@ -3962,17 +3946,7 @@
         },
         {
             "value": 5,
-            "target": 36793,
-            "source": 0
-        },
-        {
-            "value": 5,
             "target": 36886,
-            "source": 0
-        },
-        {
-            "value": 5,
-            "target": 36852,
             "source": 0
         },
         {
@@ -5873,7 +5847,7 @@
         {
             "value": 1,
             "target": 204448,
-            "source": 36852
+            "source": 37906
         },
         {
             "value": 1,
@@ -6438,7 +6412,7 @@
         {
             "value": 1,
             "target": 204564,
-            "source": 36793
+            "source": 36769
         },
         {
             "value": 1,
