@@ -14,6 +14,11 @@ app.get("/", function(req, res) {
   res.render("component_party_deputy");
 });
 
+// index page
+app.get("/photos", function(req, res) {
+  res.render("component_party_deputy_photos");
+});
+
 // deputy page
 app.get("/deputies/:id", function(req, res) {
   res.render("component_deputy_expense", { id: req.params.id });
