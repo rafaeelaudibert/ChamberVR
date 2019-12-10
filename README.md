@@ -13,6 +13,8 @@ The data is already available on this repository.
 
 To run it, just run `node index.js`, and access it at `localhost:1337`
 
+If you want to see the graph with the deputies image, but without the ability to "click" on them, visit `localhost:1337/photos`
+
 ## Usage
 
 You can move yourself through the 3D space using the WASD keys or the directional arrows. Press your mouse left button and hold it to be able to rotate the camera. Press "Space" to "click" on a Deputy node.
